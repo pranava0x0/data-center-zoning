@@ -1,0 +1,19 @@
+{
+  "history_rows": 14480,
+  "with_receipt": 14480,
+  "without_row_checksum": 0,
+  "receipts": 14508,
+  "method_counts": {
+    "collector archive verified on disk": 266,
+    "collector receipt": 11392,
+    "matched GIS objects in archived response": 2088,
+    "matched official detail excerpt (not original PDF)": 2,
+    "matched application ID and number in official search response": 41,
+    "matched object in archived agency CSV": 429,
+    "matched number in archived official register excerpts": 204,
+    "county monthly PDF used by parser": 84,
+    "matched municipal minutes excerpt (not original PDF)": 2
+  },
+  "missing_by_register": {},
+  "scope": "A collector receipt can be an archived file, source response or excerpt. The capture method is recorded in the source-specific documentation. Rows absent here still carry a public citation and locator."
+}

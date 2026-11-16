@@ -1,0 +1,33 @@
+[
+  {
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "record_no": "WQ0005514000",
+    "project": "Palomino Alpha, LLC — data center near Zorn",
+    "kind": "Industrial wastewater discharge (TPDES) application",
+    "status": "NOTICE OF RECEIPT OF APPLICATION",
+    "date": "2026-03-16",
+    "date_role": "application received",
+    "locator": "TCEQ notice p. 1; county-hosted public notice",
+    "details": {
+      "issuer_level": "state",
+      "authority": "Texas Commission on Environmental Quality",
+      "county": "Guadalupe County",
+      "action_type": "application",
+      "federal_reference": "TX0149110",
+      "proposed_daily_average_gallons": 500000,
+      "source_sha256": "e08f473d580ae1acfd9ebb2ef4baab298d7e1fb8638883be16589f3614efa572",
+      "source_anchors": [
+        "PROPOSED PERMIT NO. WQ0005514000",
+        "which owns a data center",
+        "500,000 gallons per day",
+        "March 16, 2026"
+      ]
+    },
+    "id": "waterfire-tx-palomino",
+    "dataset": "US site-specific water permit records",
+    "url": "https://www.guadalupetx.gov/upload/page/0289/Palomino%20Alpha.pdf",
+    "source_sha256": "e08f473d580ae1acfd9ebb2ef4baab298d7e1fb8638883be16589f3614efa572",
+    "source_url": "https://www.guadalupetx.gov/upload/page/0289/Palomino%20Alpha.pdf"
+  }
+]

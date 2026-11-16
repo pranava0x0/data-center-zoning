@@ -1,0 +1,35 @@
+[
+  {
+    "technology": "wind",
+    "rows": 12297,
+    "url": "https://data.openei.org/files/8519/Wind%20Ordinances%202025%20%281%29.xlsx",
+    "sha256": "1178c79bff4eb88ed423639ccea0af3b1120d4b63c32ae5138bd2fdcacf9268f"
+  },
+  {
+    "technology": "solar",
+    "rows": 11481,
+    "url": "https://data.openei.org/files/8602/Solar%20Ordinances%202025.xlsx",
+    "sha256": "8bceb085ddb76117176c326aa42b35fe0eca983a2ebc1760fca57ce32320dca7"
+  },
+  {
+    "technology": "geothermal_heat_pumps",
+    "rows": 2638,
+    "url": "https://gdr.openei.org/files/1876/Geothermal%20Heat%20Pump%20Ordinances%202026%20%281%29.xlsx",
+    "sha256": "ad688bcb2c9dfa5b08fc2685834bb63407b2157fc7dbec720b290f80c1c15e8d",
+    "search_rows": 39314
+  },
+  {
+    "technology": "geothermal_electricity",
+    "rows": 344,
+    "url": "https://gdr.openei.org/files/1877/Geothermal%20Electricity%20Ordinances%202026.xlsx",
+    "sha256": "8b07c8b7ee9a9a9b0f2790357ee0a03a656f109437911fdbb71ced85bd246b8d",
+    "search_rows": 9835
+  },
+  {
+    "technology": "high_voltage_transmission",
+    "rows": 7706,
+    "url": "https://data.openei.org/files/8787/Transmission%20Ordinances%202026-09-30.xlsx",
+    "sha256": "2a4484a326636223ccf071427f1a9053a574afe54505e31a7ac91e9b917c94d5",
+    "search_rows": 39314
+  }
+]

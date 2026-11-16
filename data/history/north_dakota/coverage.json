@@ -1,0 +1,13 @@
+{
+  "rows": 11,
+  "by_dataset": {
+    "North Dakota DEQ air permits to construct": 5,
+    "North Dakota DEQ discharge permit notices": 2,
+    "Dickey County Water Resource District proceedings": 3,
+    "City of Fargo commission proceedings": 1
+  },
+  "undated": 0,
+  "source_failures": {
+    "eln_permit": "robots preflight HTTP 403"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "https://www.ferc.gov/sites/default/files/2024-11/20241101-3061_ER24-2172-000.pdf": {
+    "sha256": "69b04b60cfc5f0150af8cb2f96eabca1c6af9ff74f8bbdbd41a2929b0bf69934",
+    "bytes": 607216,
+    "retrieved": "2026-11-16T07:27:08+00:00",
+    "resolved": "https://www.ferc.gov/sites/default/files/2024-11/20241101-3061_ER24-2172-000.pdf"
+  },
+  "https://www.ferc.gov/sites/default/files/2025-10/25-60019_DocumentsSusquehanna.pdf": {
+    "sha256": "d4b5616694b5795afea6be4614fe0edd8b114ffcb9f581a22deb706d7d749c8d",
+    "bytes": 851438,
+    "retrieved": "2026-11-16T07:27:10+00:00",
+    "resolved": "https://www.ferc.gov/sites/default/files/2025-10/25-60019_DocumentsSusquehanna.pdf"
+  }
+}

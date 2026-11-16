@@ -1,0 +1,13 @@
+{
+  "rows": 5,
+  "by_dataset": {
+    "McPherson County conditional use proceedings": 2,
+    "South Dakota Public Utilities Commission electric dockets": 3
+  },
+  "undated": 0,
+  "source_failures": {
+    "minutes": "<urlopen error [Errno 54] Connection reset by peer>",
+    "staff": "<urlopen error [Errno 54] Connection reset by peer>",
+    "refilefolder": "robots disallows this URL"
+  }
+}

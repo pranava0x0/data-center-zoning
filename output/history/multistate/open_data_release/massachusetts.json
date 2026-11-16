@@ -1,0 +1,90 @@
+[
+  {
+    "id": "city-2vzw-yean-1f82a6e9b9dceb",
+    "state": "MA",
+    "dataset": "Framingham building applications",
+    "jurisdiction": "Framingham",
+    "county": "Middlesex County",
+    "project": "Building permit application BLDE141466 · Framingham",
+    "record_no": "BLDE141466",
+    "status": "Filed",
+    "kind": "Building permit application",
+    "date": "2014-10-16",
+    "date_role": "Application date",
+    "url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=permit%3D%27BLDE141466%27",
+    "source_url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24select=permit%2Cdescription%2Capplied%2Ctype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permit+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "befc344206346f8b3644acbd891c099ffff6ae63b226d79b144fae975d21a387",
+    "locator": "Framingham building applications · permit BLDE141466",
+    "details": {
+      "feed_id": "2vzw-yean",
+      "work_description": "SUPPLY AND INSTALL WIRING PER ENGINERED PLANS - FOR DATA CENTER RENOVATION.",
+      "local_type": "COMMERCIAL"
+    }
+  },
+  {
+    "id": "city-2vzw-yean-e111d8769ab41d",
+    "state": "MA",
+    "dataset": "Framingham building applications",
+    "jurisdiction": "Framingham",
+    "county": "Middlesex County",
+    "project": "Building permit application BLDE150212 · Framingham",
+    "record_no": "BLDE150212",
+    "status": "Filed",
+    "kind": "Building permit application",
+    "date": "2015-02-18",
+    "date_role": "Application date",
+    "url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=permit%3D%27BLDE150212%27",
+    "source_url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24select=permit%2Cdescription%2Capplied%2Ctype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permit+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "befc344206346f8b3644acbd891c099ffff6ae63b226d79b144fae975d21a387",
+    "locator": "Framingham building applications · permit BLDE150212",
+    "details": {
+      "feed_id": "2vzw-yean",
+      "work_description": "FIRE ALARM DEVICES FOR DATA CENTER",
+      "local_type": "COMMERCIAL"
+    }
+  },
+  {
+    "id": "city-2vzw-yean-de90b4e84ce9d1",
+    "state": "MA",
+    "dataset": "Framingham building applications",
+    "jurisdiction": "Framingham",
+    "county": "Middlesex County",
+    "project": "Building permit application BLDE162033 · Framingham",
+    "record_no": "BLDE162033",
+    "status": "Filed",
+    "kind": "Building permit application",
+    "date": "2016-12-13",
+    "date_role": "Application date",
+    "url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=permit%3D%27BLDE162033%27",
+    "source_url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24select=permit%2Cdescription%2Capplied%2Ctype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permit+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "befc344206346f8b3644acbd891c099ffff6ae63b226d79b144fae975d21a387",
+    "locator": "Framingham building applications · permit BLDE162033",
+    "details": {
+      "feed_id": "2vzw-yean",
+      "work_description": "1ST FLOOR DATA CENTER DECOMMISIONING POWER AND A/C",
+      "local_type": "COMMERCIAL"
+    }
+  },
+  {
+    "id": "city-2vzw-yean-8aaa087cfa1333",
+    "state": "MA",
+    "dataset": "Framingham building applications",
+    "jurisdiction": "Framingham",
+    "county": "Middlesex County",
+    "project": "Building permit application BLDE170819 · Framingham",
+    "record_no": "BLDE170819",
+    "status": "Filed",
+    "kind": "Building permit application",
+    "date": "2017-06-08",
+    "date_role": "Application date",
+    "url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=permit%3D%27BLDE170819%27",
+    "source_url": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24select=permit%2Cdescription%2Capplied%2Ctype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permit+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "befc344206346f8b3644acbd891c099ffff6ae63b226d79b144fae975d21a387",
+    "locator": "Framingham building applications · permit BLDE170819",
+    "details": {
+      "feed_id": "2vzw-yean",
+      "work_description": "ROOM 408 DATA CENTER",
+      "local_type": "COMMERCIAL"
+    }
+  }
+]

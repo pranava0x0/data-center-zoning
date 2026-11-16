@@ -1,0 +1,40 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_15_place_500k.zip",
+      "bytes": 116826,
+      "sha256": "77fc400e5f5f89a5f38a8926105c08d0749e2efdf1c71a04af553b3210f9c698"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "honolulu.json.gz": {
+      "url": "https://data.honolulu.gov/resource/4vab-c87q.json?%24select=buildingpermitno%2Cbuildingpermittype%2Cissuedate%2Ccompleteddate%2Ccreateddate%2Cstatusdescription%2Ccoissued%2Cfinalcoissued%2Capplicant%2Cownershipassessed%2Cjobaddress%2Cjoblocation%2Cproposeduse%2Cotherwork%2Cobjectid%2Ctmk%2Cexternalfilenum&%24where=lower%28applicant%29+like+%27%25data+center%25%27+OR+lower%28applicant%29+like+%27%25datacenter%25%27+OR+lower%28applicant%29+like+%27%25data+centre%25%27+OR+lower%28applicant%29+like+%27%25server+farm%25%27+OR+lower%28applicant%29+like+%27%25drfortress%25%27+OR+lower%28applicant%29+like+%27%25dr+fortress%25%27+OR+lower%28proposeduse%29+like+%27%25data+center%25%27+OR+lower%28proposeduse%29+like+%27%25datacenter%25%27+OR+lower%28proposeduse%29+like+%27%25data+centre%25%27+OR+lower%28proposeduse%29+like+%27%25server+farm%25%27+OR+lower%28proposeduse%29+like+%27%25drfortress%25%27+OR+lower%28proposeduse%29+like+%27%25dr+fortress%25%27+OR+lower%28otherwork%29+like+%27%25data+center%25%27+OR+lower%28otherwork%29+like+%27%25datacenter%25%27+OR+lower%28otherwork%29+like+%27%25data+centre%25%27+OR+lower%28otherwork%29+like+%27%25server+farm%25%27+OR+lower%28otherwork%29+like+%27%25drfortress%25%27+OR+lower%28otherwork%29+like+%27%25dr+fortress%25%27+OR+lower%28joblocation%29+like+%27%25data+center%25%27+OR+lower%28joblocation%29+like+%27%25datacenter%25%27+OR+lower%28joblocation%29+like+%27%25data+centre%25%27+OR+lower%28joblocation%29+like+%27%25server+farm%25%27+OR+lower%28joblocation%29+like+%27%25drfortress%25%27+OR+lower%28joblocation%29+like+%27%25dr+fortress%25%27+OR+lower%28ownershipassessed%29+like+%27%25data+center%25%27+OR+lower%28ownershipassessed%29+like+%27%25datacenter%25%27+OR+lower%28ownershipassessed%29+like+%27%25data+centre%25%27+OR+lower%28ownershipassessed%29+like+%27%25server+farm%25%27+OR+lower%28ownershipassessed%29+like+%27%25drfortress%25%27+OR+lower%28ownershipassessed%29+like+%27%25dr+fortress%25%27&%24limit=5000&%24order=objectid",
+      "bytes": 801,
+      "sha256": "29d12925afd019a86fe03ff92cbdc5e00d94d1c9812a6cfce86bc8f23f1865e7"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "uhdraft.pdf": {
+      "url": "https://files.hawaii.gov/dbedt/erp/EA_EIS_Library/2009-04-08-OA-DEA-UH-Manoa-Information-Technology.pdf",
+      "bytes": 56706222,
+      "sha256": "914b2370d8a009456f270583716a54ad1887c8693fbac39169c1574883d3ac5c"
+    },
+    "uhfinal.pdf": {
+      "url": "https://files.hawaii.gov/dbedt/erp/EA_EIS_Library/2011-02-08-OA-FEA-UH-Information-Tech-Center.pdf",
+      "bytes": 44004547,
+      "sha256": "ac130228aa3a0aa3dfd9e449929eada4efafbdb1116f3003d1d56e67188ba393"
+    },
+    "uhnotice.pdf": {
+      "url": "https://files.hawaii.gov/dbedt/erp/The_Environmental_Notice/2011-02-08-TEN.pdf",
+      "bytes": 143501,
+      "sha256": "649187ba2104e6fc82b41a6248a0f8c3a4a9873875c58ea3de1eb5a102bd46da"
+    }
+  }
+}

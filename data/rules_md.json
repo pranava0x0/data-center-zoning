@@ -1,0 +1,18 @@
+[
+  {
+    "id": "md-fred-overlay",
+    "state": "MD",
+    "geoid": "24021",
+    "level": "county",
+    "jurisdiction": "Frederick County",
+    "topic": "zoning district",
+    "scope": "data center specific",
+    "summary": "In the county zoning jurisdiction, a data-center site plan requires placement in the Critical Digital Infrastructure Overlay Zone and Limited Industrial or General Industrial base zoning. The 2,614-acre overlay is mapped in the Eastalco Community Growth Area. Do not infer approval of a particular parcel or applicability inside the City of Frederick.",
+    "status": "adopted",
+    "url": "https://www.frederickcountymd.gov/ArchiveCenter/ViewFile/Item/16893",
+    "locator": "Annual Planning Report 2025, p. 8; Bill 25-09 and adopted CDI zoning map amendment",
+    "authority": "Frederick County Division of Planning and Permitting",
+    "evidence": "Limited Industrial (LI) or General Industrial (GI)",
+    "effective_date": null
+  }
+]

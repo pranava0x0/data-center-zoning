@@ -1,0 +1,9 @@
+state,government,county,domain,table,number,description,issued,status,worktype
+CA,Marin County,Marin County,data.marincounty.gov,mkbn-caye,permit_number,description,issued_date,,type_permit
+CA,Oxnard,Ventura County,data.oxnard.org,vmzx-48vx,appnum,permitdescription,permitissuedate,permitstatus,apptype
+CA,Corona,Riverside County,corstat.coronaca.gov,2agx-camz,permit_no,description,issued,status,permittype
+CA,Sonoma County,Sonoma County,data.sonomacounty.ca.gov,88ms-k5e7,file_number,description,issued,status,application_type
+OH,Cincinnati,Hamilton County,data.cincinnati-oh.gov,uhjb-xac9,permitnum,description,issueddate,statuscurrent,permittype
+IL,Rockford,Winnebago County,illinois-edp.data.socrata.com,3k8p-pkx8,permitno,description,dateissued1,,permittype
+CO,Parker,Douglas County,parkeronline.data.socrata.com,f6vi-7y2m,permit_number,description,issued_date,status_current,permit_job_type
+CO,Fort Collins,Larimer County,opendata.fcgov.com,fvgz-viez,permitnum,b1_work_desc,,b1_appl_status,permittype

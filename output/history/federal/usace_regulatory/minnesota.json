@@ -1,0 +1,36 @@
+[
+  {
+    "id": "federal-corps-5c262ff59be530500ad8c1eb",
+    "state": "MN",
+    "jurisdiction": "US Army Corps of Engineers — St. Paul",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "MVP-2010-01310-PRH",
+    "project": "West Creek Corporate Center / Stream Data Centers Phase II",
+    "kind": "Letter of Permission",
+    "status": "Issued With Special Conditions",
+    "date": "2010-07-06",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVP-2010-01310-PRH%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVP-2010-01310-PRH%22&max=200&start=0&sa=true",
+    "locator": "Army file MVP-2010-01310-PRH; ORM issued action; 2010-07-06",
+    "details": {
+      "source_sha256": "179ead507720fc462a67ea72370ae22e0b266ca9bbaa21e0584c5e09e1450a65",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "MVP-2010-01310-PRH",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "MVP-2010-01310-PRH",
+      "da_number": "MVP-2010-01310-PRH",
+      "district_code": "MVP",
+      "orm_view": "issued",
+      "census_county": "Carver County",
+      "census_county_geoid": "27019",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-93.63693%2C44.80777&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "2980ba944d8d13e3b7b8d852eda97c2842f6775e3a5638017dc05788135b525a",
+      "longitude": -93.63693,
+      "latitude": 44.80777
+    }
+  }
+]

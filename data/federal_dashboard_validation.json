@@ -1,0 +1,20 @@
+{
+  "source": "Permitting Dashboard Full Dataset mcm3-xbid",
+  "reported_rows": 24313,
+  "distinct_projects": 1771,
+  "unique_project_groups": 1771,
+  "candidate_projects": [
+    "124556",
+    "126036"
+  ],
+  "candidate_milestones": 38,
+  "candidate_actions": 8,
+  "event_counts": {
+    "VA": 9,
+    "OH": 10
+  },
+  "held_count": 20,
+  "regulator_confirmed_issued_permits": 0,
+  "cutoff": "2026-11-15",
+  "snapshot_updated_epoch": 1794810196
+}

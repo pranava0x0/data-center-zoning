@@ -1,0 +1,90 @@
+[
+  {
+    "id": "gu-arc-dpr-2021-10-18",
+    "state": "GU",
+    "dataset": "Guam interagency land-use referrals",
+    "jurisdiction": "Tamuning",
+    "record_no": "2021-24A/B",
+    "project": "Alupang Cable Landing Station and Data Center (TeleGuam Holdings dba GTA)",
+    "kind": "Conditional-use and height-variance referral",
+    "status": "No objection",
+    "date": "2021-10-18",
+    "date_role": "agency memorandum date",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=56",
+    "source_url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "locator": "Guam Land Use Commission May 12, 2022 packet; PDF page 56; application 2021-24A/B",
+    "details": {
+      "issuer": "Guam Department of Parks and Recreation",
+      "case_file": "2021-24A/B",
+      "source_sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+      "evidence": "to mitigate the adverse effects on historic properties",
+      "scope": "State Historic Preservation review and mitigation coordination."
+    }
+  },
+  {
+    "id": "gu-arc-doag-2021-12-09",
+    "state": "GU",
+    "dataset": "Guam interagency land-use referrals",
+    "jurisdiction": "Tamuning",
+    "record_no": "2021-24B",
+    "project": "Alupang Cable Landing Station and Data Center (TeleGuam Holdings dba GTA)",
+    "kind": "Height-variance referral",
+    "status": "In support with conditions",
+    "date": "2021-12-09",
+    "date_role": "agency memorandum date",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=55",
+    "source_url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "locator": "Guam Land Use Commission May 12, 2022 packet; PDF page 55; application 2021-24B",
+    "details": {
+      "issuer": "Guam Department of Agriculture",
+      "case_file": "2021-24B",
+      "source_sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+      "evidence": "must be submitted with building permit for DOAG review",
+      "scope": "Bird-strike, erosion and flooding mitigation; not issuance of a building permit."
+    }
+  },
+  {
+    "id": "gu-arc-gwa-2022-04-25",
+    "state": "GU",
+    "dataset": "Guam interagency land-use referrals",
+    "jurisdiction": "Tamuning",
+    "record_no": "2021-24B",
+    "project": "Alupang Cable Landing Station and Data Center (TeleGuam Holdings dba GTA)",
+    "kind": "Height-variance referral recorded in agency summary",
+    "status": "In favor with conditions",
+    "date": "2022-04-25",
+    "date_role": "ARC agency-position summary date",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=54",
+    "source_url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "locator": "Guam Land Use Commission May 12, 2022 packet; PDF page 54; application 2021-24B",
+    "details": {
+      "issuer": "Guam Waterworks Authority",
+      "case_file": "2021-24B",
+      "source_sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+      "evidence": "GWA is in favor of the approval of the application with conditions",
+      "scope": "Pages 59–61 attach the agency letter; page 60 requires early utility coordination and demand calculations. Date is ARC summary date, not letter signature."
+    }
+  },
+  {
+    "id": "gu-arc-gepa-2022-04-25",
+    "state": "GU",
+    "dataset": "Guam interagency land-use referrals",
+    "jurisdiction": "Tamuning",
+    "record_no": "2021-24B",
+    "project": "Alupang Cable Landing Station and Data Center (TeleGuam Holdings dba GTA)",
+    "kind": "Height-variance referral recorded in agency summary",
+    "status": "Concerns with conditions",
+    "date": "2022-04-25",
+    "date_role": "ARC agency-position summary date",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=54",
+    "source_url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "locator": "Guam Land Use Commission May 12, 2022 packet; PDF page 54; application 2021-24B",
+    "details": {
+      "issuer": "Guam Environmental Protection Agency",
+      "case_file": "2021-24B",
+      "source_sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+      "evidence": "GEPA submits concerns related to the proposal with conditions",
+      "scope": "Agency concerns as recorded by ARC; not an environmental permit."
+    }
+  }
+]

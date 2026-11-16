@@ -1,0 +1,249 @@
+[
+  {
+    "state": "AS",
+    "source_id": "as_just",
+    "source_url": "https://www.doi.gov/sites/default/files/fy2022-oia-budget-justification.pdf",
+    "source_sha256": "b68e8dc41769c0518c69dfd34229944a6ecafbe9b924596b0147c45c9e78316c",
+    "page": 36,
+    "anchor": "procure a back-up data center",
+    "disposition": "grant funding, not permit",
+    "reason": "Federal budget identifies backup data-center procurement in addition to an upgrade. No named locality, lot, or new building authorization.",
+    "action_date": null
+  },
+  {
+    "state": "AS",
+    "source_id": "as_btop",
+    "source_url": "https://www2.ntia.doc.gov/grantee/american-samoa-government",
+    "source_sha256": "e0c7a327571418364fb8c342568bcf0fba8e39203f8e0d63a1fd98e2301f2c7c",
+    "page": null,
+    "anchor": "Data Collection, Integration, and Validation",
+    "disposition": "excluded: broadband planning",
+    "reason": "NTIA state broadband planning and data collection are not data-center development.",
+    "action_date": null
+  },
+  {
+    "state": "AS",
+    "source_id": "samoa_other",
+    "source_url": "https://regulator.gov.ws/images/Spectrum/Digital_Samoa_Project.pdf",
+    "source_sha256": "b13d62f8529a94cc75b749f91cdf6e35ec536e3887847f70789b3f5823b5f632",
+    "page": 1,
+    "anchor": "resilient government data centre",
+    "disposition": "excluded: wrong sovereign",
+    "reason": "The Office of the Regulator, Samoa, described its proposed Digital Samoa Project; it does not identify a facility in American Samoa.",
+    "action_date": null
+  },
+  {
+    "state": "VI",
+    "source_id": "vi_letter",
+    "source_url": "https://www.doi.gov/sites/default/files/usvi-receives-3417256.33-in-tap-map-and-cares-act-funds-for-fy-2021.pdf",
+    "source_sha256": "6197bf6363b371b259ff7042bbf80939c550bbe543dcead6cc861fc8ca141460",
+    "page": 2,
+    "anchor": "the Data Center Maintenance Management Solution Project",
+    "disposition": "grant funding, not permit",
+    "reason": "The Interior award letter names BIT and the project, with $175,000; neither a parcel-specific grant nor a permit.",
+    "action_date": "2021-06-15"
+  },
+  {
+    "state": "VI",
+    "source_id": "vi_operating",
+    "source_url": "https://energy.vi.gov/wp-content/uploads/2025/01/USVI-Territory-Energy-Security-Plan-2024-Final.pdf",
+    "source_sha256": "78f483250e118fb8a4b7c7f9bbb641e1f1c3f6ceb74eeb99fdb8a3e5426ec8bc",
+    "page": 18,
+    "anchor": "St. Croix Data Center",
+    "disposition": "operating context only",
+    "reason": "The territorial energy plan names St. Croix and St. Thomas data centers operated by BIT. The grant does not allocate its award to either site; do not count two projects.",
+    "action_date": null
+  },
+  {
+    "state": "VI",
+    "source_id": "vi_fonsi",
+    "source_url": "https://www2.ntia.doc.gov/sites/default/files/grantee/4816_virgin_islands_fonsi_040411.pdf",
+    "source_sha256": "1cbf18d5ffc5971ef36b5bbbc5daa12c996dae272acdc2766040a4ee6735f38b",
+    "page": 14,
+    "anchor": "Issued: 04/04/2011",
+    "disposition": "excluded: network-only environmental decision",
+    "reason": "The FONSI is for the viNGN territory-wide middle-mile fiber system and enclosed fiber access points described on pp. 1–2; not a data center approval.",
+    "action_date": "2011-04-04"
+  },
+  {
+    "state": "VI",
+    "source_id": "vi_ea",
+    "source_url": "https://www2.ntia.gov/sites/default/files/grantee/4816_virgin_islands_executive_summary.pdf",
+    "source_sha256": "99c51bd221779f80ebab058328226a5d5985876a8b7dcdaea33c4ef691354b20",
+    "page": 11,
+    "anchor": "middle mile network",
+    "disposition": "excluded: network-only scope",
+    "reason": "The NTIA environmental executive summary identifies the network and anchor institutions. Co-location of network access equipment is not a hosting facility.",
+    "action_date": null
+  },
+  {
+    "state": "VI",
+    "source_id": "vi_service",
+    "source_url": "https://cdbgdr.vihfa.gov/wp-content/uploads/2024/05/3.-Business-Technology-Group-Contract-No.-2022-CDBG-DR-006-DC-SIGNED.pdf",
+    "source_sha256": "529d74fd8581e9f28a4ec93d75008c47b0785d6ac589aac4d5c1015f9fff559f",
+    "page": 1,
+    "anchor": "Network Infrastructure Upgrade",
+    "disposition": "excluded: infrastructure service contract",
+    "reason": "VIHFA procured a network upgrade. Exhibit scope includes main, private cloud and disaster recovery functions; an executed technology services contract is not a site, construction, grant or NEPA approval for a hosting facility.",
+    "action_date": null
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_master",
+    "source_url": "https://bpd.cnmi.gov/wp-content/uploads/2026/06/CNMI-BPD-BEAD-Subgrant-Agreement-Master.pdf",
+    "source_sha256": "7e71991ea7cb012188c7a89b8c3a8cb832d3c2d639e172d100a922c86a6e9085",
+    "page": 1,
+    "anchor": "Agreement Date: May 13, 2026",
+    "disposition": "excluded: signed broadband award",
+    "reason": "Executed Government of the CNMI–IT&E master agreement; the named grantee and its Saipan office are not a data-center project.",
+    "action_date": "2026-05-13"
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_exa",
+    "source_url": "https://bpd.cnmi.gov/wp-content/uploads/2026/05/Exhibit-A_-Project-Description-and-Scope-of-Work-MASTER.pdf",
+    "source_sha256": "6d3f5e7d58a6d24599cd04d42bb837555fe67be652799d9da2b61a62144f977f",
+    "page": 2,
+    "anchor": "The Subgrantee must deploy, operate, and maintain the network",
+    "disposition": "excluded: network access scope",
+    "reason": "Exhibit A establishes network deployment within project funding areas and service obligations. No named data center or hosting site identified.",
+    "action_date": "2026-05-13"
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_exa",
+    "source_url": "https://bpd.cnmi.gov/wp-content/uploads/2026/05/Exhibit-A_-Project-Description-and-Scope-of-Work-MASTER.pdf",
+    "source_sha256": "6d3f5e7d58a6d24599cd04d42bb837555fe67be652799d9da2b61a62144f977f",
+    "page": 4,
+    "anchor": "prohibited from commencing construction",
+    "disposition": "excluded: prospective clearance",
+    "reason": "Exhibit A conditions construction on environmental and historic-preservation review. It does not itself grant project-specific NEPA clearance.",
+    "action_date": "2026-05-13"
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_exd",
+    "source_url": "https://bpd.cnmi.gov/wp-content/uploads/2026/05/Exhibit-D_-Environmental-Review-Forms-MASTER.pdf",
+    "source_sha256": "83898757b381e55a6467bc8326fe78283415e29906d41f0fd4fee31cbe2830a5",
+    "page": 2,
+    "anchor": "complete the attached forms/checklists",
+    "disposition": "excluded: environmental review form",
+    "reason": "Exhibit D is a review process and forms, not a signed NEPA finding.",
+    "action_date": "2026-05-13"
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_cpf",
+    "source_url": "https://bpd.cnmi.gov/about-us/capital-projects-fund/",
+    "source_sha256": "d5fc4e2baee736b95c5b6111d9606093bf634992b7fe3bf4584a0d161b4cf8e2",
+    "page": null,
+    "anchor": "Cable Landing Station, conduits, and supporting infrastructure",
+    "disposition": "excluded: cable landing",
+    "reason": "The CNMI describes capital-fund cable landing assets. Evidence does not establish a compute or hosting facility.",
+    "action_date": null
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_stats",
+    "source_url": "https://www.census.gov/about/partners/sdc/member-network/northern-mariana-islands.html",
+    "source_sha256": "971db66ea8e641ce9932cf990af545266cd0caf8697c05712e1df89ccabe6187",
+    "page": null,
+    "anchor": "Department of Commerce Central Statistics Division",
+    "disposition": "excluded: statistics office",
+    "reason": "The Census State Data Center partner is the central statistics division; it is not evidence of a server facility.",
+    "action_date": null
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_usa_data_center",
+    "source_url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "source_sha256": "fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a",
+    "disposition": "bounded federal grant query: 0 hits",
+    "filters": {
+      "award_type_codes": [
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "time_period": [
+        {
+          "start_date": "2007-10-01",
+          "end_date": "2026-11-16"
+        }
+      ],
+      "place_of_performance_locations": [
+        {
+          "country": "USA",
+          "state": "MP"
+        }
+      ],
+      "keywords": [
+        "data center"
+      ]
+    },
+    "reason": "No match in this federal award-text query; confidential network designs, local permits, subawards and records without matched terminology are not covered."
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_usa_data_centre",
+    "source_url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "source_sha256": "fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a",
+    "disposition": "bounded federal grant query: 0 hits",
+    "filters": {
+      "award_type_codes": [
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "time_period": [
+        {
+          "start_date": "2007-10-01",
+          "end_date": "2026-11-16"
+        }
+      ],
+      "place_of_performance_locations": [
+        {
+          "country": "USA",
+          "state": "MP"
+        }
+      ],
+      "keywords": [
+        "data centre"
+      ]
+    },
+    "reason": "No match in this federal award-text query; confidential network designs, local permits, subawards and records without matched terminology are not covered."
+  },
+  {
+    "state": "MP",
+    "source_id": "mp_usa_colocation",
+    "source_url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "source_sha256": "fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a",
+    "disposition": "bounded federal grant query: 0 hits",
+    "filters": {
+      "award_type_codes": [
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "time_period": [
+        {
+          "start_date": "2007-10-01",
+          "end_date": "2026-11-16"
+        }
+      ],
+      "place_of_performance_locations": [
+        {
+          "country": "USA",
+          "state": "MP"
+        }
+      ],
+      "keywords": [
+        "colocation"
+      ]
+    },
+    "reason": "No match in this federal award-text query; confidential network designs, local permits, subawards and records without matched terminology are not covered."
+  }
+]

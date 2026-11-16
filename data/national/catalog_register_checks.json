@@ -1,0 +1,40 @@
+{
+  "mkbn-caye": {
+    "source": "https://data.marincounty.gov/api/views/mkbn-caye",
+    "count": 0,
+    "count_query": "https://data.marincounty.gov/resource/mkbn-caye.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "vmzx-48vx": {
+    "source": "https://data.oxnard.org/api/views/vmzx-48vx",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  "2agx-camz": {
+    "source": "https://corstat.coronaca.gov/api/views/2agx-camz",
+    "count": 0,
+    "count_query": "https://corstat.coronaca.gov/resource/2agx-camz.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "88ms-k5e7": {
+    "source": "https://data.sonomacounty.ca.gov/api/views/88ms-k5e7",
+    "count": 0,
+    "count_query": "https://data.sonomacounty.ca.gov/resource/88ms-k5e7.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "uhjb-xac9": {
+    "source": "https://data.cincinnati-oh.gov/api/views/uhjb-xac9",
+    "count": 0,
+    "count_query": "https://data.cincinnati-oh.gov/resource/uhjb-xac9.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "3k8p-pkx8": {
+    "source": "https://illinois-edp.data.socrata.com/api/views/3k8p-pkx8",
+    "count": 0,
+    "count_query": "https://illinois-edp.data.socrata.com/resource/3k8p-pkx8.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "f6vi-7y2m": {
+    "source": "https://parkeronline.data.socrata.com/api/views/f6vi-7y2m",
+    "count": 0,
+    "count_query": "https://parkeronline.data.socrata.com/resource/f6vi-7y2m.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "fvgz-viez": {
+    "source": "https://opendata.fcgov.com/api/views/fvgz-viez",
+    "error": "robots preflight HTTP 503"
+  }
+}

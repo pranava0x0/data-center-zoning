@@ -1,0 +1,144 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2726%27&returnIdsOnly=true",
+      "sha256": "70829924797e528dc5c3ff832a6924fd9a3df900ee96017472ad69e06b7773a8",
+      "bytes": 3172,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2726%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "64adb1e27e4d63420cf73ca46d828dbc8707fcf8ed4b93aed944aee9824fa9e8",
+      "bytes": 1006472,
+      "ext": "json"
+    }
+  },
+  "legacy": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/Active%20PTIs%20by%20Company.pdf",
+    "sha256": "0fdc16a08079a1dd04150195aa7f594a41b96727b2442f85510cce9e2099c17e",
+    "bytes": 2586404,
+    "ext": "pdf"
+  },
+  "switch_report": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf",
+    "sha256": "91545d42249b6c54b08499dca9e4752feb377465d08200c0683efedd95a4bc60",
+    "bytes": 1117045,
+    "ext": "pdf"
+  },
+  "mpsc": {
+    "url": "https://www.michigan.gov/mpsc/commission/news-releases/2026/03/27/mpsc-goes-big-on-batteries",
+    "sha256": "8b895b3d32630088ece00549a2f7d00038a7f004f73faca70b47fc081abfc21d",
+    "bytes": 146218,
+    "ext": "html"
+  },
+  "mpsc_order": {
+    "url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf",
+    "sha256": "a0f258878a4809b66e9b54dd0af93955d2777f37e23966b139faff0469e0df47",
+    "bytes": 409507,
+    "ext": "pdf"
+  },
+  "saline_notes": {
+    "url": "https://salinetownship.org/advisory-committee-meetings/",
+    "sha256": "b5f0678a2676dab9a9e7a550529acc2404c3a6690d7025872db08b0cfa14be77",
+    "bytes": 194228,
+    "ext": "html"
+  },
+  "saline_judgment": {
+    "url": "https://salinetownship.org/uploads/notices/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "south_annual": {
+    "url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/PLN%20-%202025%20Planning%20Commission%20Annual%20Report%20-%20APPROVED%201.28.26.pdf",
+    "sha256": "236443d52a7067938b3183929b5d76c904b195ad6b8d32bcb695b2bf755e87b1",
+    "bytes": 419954,
+    "ext": "pdf"
+  },
+  "south_statement": {
+    "url": "https://www.cityofsouthfield.com/news/city-southfield-statement-regarding-proposed-data-center",
+    "sha256": "90f862cbfcb2c9e4338f4ebeceb1032e00f22217047aac2ad16b881776eb2d3c",
+    "bytes": 144618,
+    "ext": "html"
+  },
+  "south_agenda": {
+    "url": "https://www.cityofsouthfield.com/news/city-council-december-15-regular-meeting-agenda",
+    "sha256": "be0e3ba71100c1f853cda5664306d91f18dd9405cdbba250392e014b61b5033f",
+    "bytes": 148870,
+    "ext": "html"
+  },
+  "wayne": {
+    "url": "https://www.waynecountymi.gov/News/Commission/Wayne-County-Commission-Van-Buren-%E2%80%9CProject-Cannoli%E2%80%9D-Data-Center-Statement",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "saline_counter": {
+    "url": "https://salinetownship.org/data-center-update/",
+    "sha256": "ffd5e8b53e5ad43448d4af41ef9bf7921a50ba0985d677fc1a5a01fee2f942e9",
+    "bytes": 200666,
+    "ext": "html"
+  },
+  "south_minutes": {
+    "url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/APPROVED%2011.19.25%20Planning%20Commission%20Regular%20Meeting%20Transcript%20Minutes.pdf",
+    "sha256": "833c3736d579e06e6d4ef26b149399ff754ea2bf144cd3fbaff1af025440c38b",
+    "bytes": 371122,
+    "ext": "pdf"
+  },
+  "saline_court_index": {
+    "url": "https://salinetownship.org/saline-data-center-consent-judgment/",
+    "sha256": "1d5faa28015e2a0c4a7a420d4df9afe1cef821a6092a46aeacfba29d6ea8a992",
+    "bytes": 185119,
+    "ext": "html"
+  },
+  "saline_water": {
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/05-01-2026_3-02-24_EGLE-Dewatering.pdf",
+    "sha256": "92645cff3296c400bb84545982c43459a38f3c9c3fd22951ccdde51cd62d45b5",
+    "bytes": 2762585,
+    "ext": "pdf"
+  },
+  "saline_judgment_current": {
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "sha256": "1481e56f84eb5f0f768020de6fff67f06821011a1e16ed70515c23c56c0bc9a1",
+    "bytes": 10547039,
+    "ext": "pdf"
+  },
+  "vbt_feb": {
+    "url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Minutes/2-11-26%20PC%20Min.pdf",
+    "sha256": "d3e5d848705725d6ac557666946ab386ea8cc1bf24f93bdb020b9e95d9d8ccc1",
+    "bytes": 3406020,
+    "ext": "pdf"
+  },
+  "vbt_index": {
+    "url": "https://vbtmi.gov/government/agendas___minutes/planning_commission.php",
+    "sha256": "0476af5736a27f9e5f2d982587c8c2e69928864f6e9e96c96d3660bdc0566538",
+    "bytes": 512097,
+    "ext": "html"
+  },
+  "ptiorig": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16.pdf",
+    "sha256": "c49e130f1b00d18f802c41f776cbcdb6d313e16ced5265e5bbe3b277922c97f5",
+    "bytes": 177164,
+    "ext": "pdf"
+  },
+  "ptinew": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16A.pdf",
+    "sha256": "5bd702e5421b99ac579577a367544978ab157a0db0e1992ac2edb8dcc77219e5",
+    "bytes": 182913,
+    "ext": "pdf"
+  },
+  "ptisecond": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/91-16.pdf",
+    "sha256": "71433cc8253b589b2ec9f0255e5a1c70a15288eed7ab46bfb98640c1a83fa84b",
+    "bytes": 92206,
+    "ext": "pdf"
+  },
+  "vbt_oct": {
+    "url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Packets/10-14-26%20PC%20Packet.pdf?t=202610121200160",
+    "sha256": "c9a095eaa0b2d0c9e020e9526608b328a806b12706f8343e94f6c9ae98e8056a",
+    "bytes": 62351251,
+    "ext": "pdf"
+  }
+}

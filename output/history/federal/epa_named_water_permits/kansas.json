@@ -1,0 +1,37 @@
+[
+  {
+    "state": "KS",
+    "id": "wtr-KSR121574-3603617626-0",
+    "dataset": "State-issued water permits reported to EPA",
+    "record_no": "KSR121574",
+    "jurisdiction": "Johnson County",
+    "county": "Johnson County",
+    "project": "OPPIDAN OLATHE 10MW DATA CENTER",
+    "kind": "NPDES general permit coverage",
+    "status": "Terminated",
+    "date": "2023-06-02",
+    "date_role": "Issue date",
+    "url": "https://echo.epa.gov/effluent-charts#/KSR121574",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS.csv KSR121574 activity 3603617626 version 0",
+    "details": {
+      "location_precision": "County provided by agency",
+      "agency_type": "ST6",
+      "reported_issuer": "Kansas Department of Health and Environment (KDHE)",
+      "facility_name": "OPPIDAN OLATHE 10MW DATA CENTER",
+      "reported_city": "OLATHE",
+      "master_permit": "KSR100000",
+      "version": "0",
+      "status_code": "TRM",
+      "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary",
+      "program": "NPDES",
+      "facility_id": "110071667177",
+      "issue_date": "2023-06-02",
+      "effective_date": "2023-06-02",
+      "expiration_date": "2027-07-31",
+      "termination_date": "2024-09-03",
+      "retirement_date": null
+    }
+  }
+]

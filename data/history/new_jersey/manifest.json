@@ -1,0 +1,122 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_34_place_500k.zip",
+      "bytes": 319369,
+      "sha256": "1f6d85284e94075b1ba3d2dc0978de4e8b0b09cc419667d67f72c671e2d33e83"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "cousub.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_34_cousub_500k.zip",
+      "bytes": 400316,
+      "sha256": "7f724b8aafc595605c67b84c830f95ccf8048e48263bb9ee51656cc24b095a58"
+    },
+    "issue-2024-01-17-1110236f.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content",
+      "bytes": 1734803,
+      "sha256": "7d75abe47f3acf83a37dc52c86dfd52dce0d6f43cc1f2e7da2067e5c186c49fa"
+    },
+    "issue-2024-01-17-fc6c0bfa.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/fc6c0bfa-f7b3-49b3-b6a2-7645207108b0/content",
+      "bytes": 1734803,
+      "sha256": "7d75abe47f3acf83a37dc52c86dfd52dce0d6f43cc1f2e7da2067e5c186c49fa"
+    },
+    "issue-2024-02-21-02966dbf.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/02966dbf-0136-4925-a8e9-c80e619926bc/content",
+      "bytes": 2339371,
+      "sha256": "f3c72a6337a24f6b1b9ca3e0185a0d0cdeb9d6538baf45964eedcef45c0d41bf"
+    },
+    "issue-2025-04-16-4e14c86b.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/4e14c86b-300d-47f7-aacc-42bee6f5819a/content",
+      "bytes": 2436841,
+      "sha256": "d4f055dc734c142ee31378f1c521a3032a9a9af55750e64bf8658c1aaf224e88"
+    },
+    "issue-2025-08-20-3ac1a971.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/3ac1a971-9028-463b-9849-c198c6082bc2/content",
+      "bytes": 3603996,
+      "sha256": "4ea8543917ed43a9812c89d76fb7e22c446f1407acc6e2cc7f7a50f9669bbc14"
+    },
+    "issue-2025-09-03-53759007.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/53759007-ea05-4e9d-bdb9-d8a7fdbc2a23/content",
+      "bytes": 2241439,
+      "sha256": "96b2a8790183332620c882b1d7321e21502318c17547a1bff3ce642fe501679a"
+    },
+    "issue-2025-10-01-aed09044.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/aed09044-90ac-4cb3-8680-67753a9247c2/content",
+      "bytes": 2304679,
+      "sha256": "68742a5b7fa1d6a39f835ea50ed7b6cf149abb5c507be3cde2902adc1bc54a77"
+    },
+    "issue-2025-10-15-0a05ff1c.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/0a05ff1c-18cd-45c3-8be6-96336d1b8a11/content",
+      "bytes": 1740577,
+      "sha256": "699d9f5966a20e10ab5416b21616a5b0d46f8bb85a7b2152c5190512f673f1cb"
+    },
+    "issue-2025-11-25-e483e093.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+      "bytes": 2094459,
+      "sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb"
+    },
+    "issue-2026-01-07-8880ded5.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/8880ded5-2d00-4ac3-92e1-140a5abb92b3/content",
+      "bytes": 3129584,
+      "sha256": "89a9ddbb9bd77e8db6d7ab1e23dd5ef30646bfbac5d97e462396e0826728fcdf"
+    },
+    "issue-2026-01-07-bfad7293.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/bfad7293-545c-4ee6-b8e4-830c9b0cc4e8/content",
+      "bytes": 3462174,
+      "sha256": "ce38d0bbd2cb2d29ccffb958ecd28168575a52983919eb2ab9bf6997e5657e7f"
+    },
+    "issue-2026-08-05-65bc88f9.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/65bc88f9-16e4-4536-bf71-ed0a5800c606/content",
+      "bytes": 3835147,
+      "sha256": "296db7e1d2f96a2f68c23f064314d65f1f3f3a96fd20d5eaa15f488539152e0a"
+    },
+    "issue-2026-09-16-aa8e5268.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/aa8e5268-7f87-41e7-bcbb-1ec77998e7ba/content",
+      "bytes": 2172441,
+      "sha256": "d4f6ac3b302424f00812b245b40af5d84da08fe6d98b57c2a5470d40bc59f6ce"
+    },
+    "issue-2026-10-07-b651e064.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/b651e064-42ad-457e-b857-7043f50cbf7f/content",
+      "bytes": 3274592,
+      "sha256": "6d711703e74a924b737c76910e30b80c92c675e1c14885aad9036f801dfc84d7"
+    },
+    "issue-2026-10-21-be5629b1.pdf": {
+      "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content",
+      "bytes": 2299356,
+      "sha256": "3454e30dd71ac1e81cc77932a7f7a2da2e1dd79d9c40e59ec68e6b5d20d3ab6b"
+    },
+    "issue-index.json.gz": {
+      "url": "https://dspace.njstatelib.org/server/api/discover/search/objects?query=dc.title%3A%22DEP+Bulletin%22+AND+dc.date.issued%3A%5B2024-01-01+TO+2026-11-15%5D+AND+%28%22data+center%22+OR+%22data+centre%22+OR+%22datacenter%22+OR+%22Equinix%22+OR+%22CoreWeave%22+OR+%22CoreSite%22%29&size=100&sort=dc.date.issued%2CDESC",
+      "bytes": 4748,
+      "sha256": "632d09c4f51e1bd044a13711b0b42a22edeada01f0a256a81e80074280001f3d"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "sec-22-dec.pdf": {
+      "url": "https://njmc.s3.us-east-2.amazonaws.com/pdfs/meeting/2022/dec-agenda.pdf",
+      "bytes": 3473570,
+      "sha256": "0d46f00af2e8390f4785ebf35e5c7897a726e4c12f29961bdbf79a0c3bb41cd3"
+    },
+    "sec-22-jul.pdf": {
+      "url": "https://njmc.s3.us-east-2.amazonaws.com/Final_Board_Book2_7_28_22.pdf",
+      "bytes": 3128101,
+      "sha256": "76ebf78d96f8cb2ca5e60fbf82e91d9a9b00f6a035d75f218fc3aaf87dedd546"
+    },
+    "sec-24-sep.pdf": {
+      "url": "https://njmc.s3.us-east-2.amazonaws.com/pdfs/meeting/2024/sept-agenda.pdf",
+      "bytes": 9438930,
+      "sha256": "9f3c94e4e3f5181b172bde63f33dcd17d85632ef3945118c64410d43b24fc1c0"
+    }
+  },
+  "query": "dc.title:\"DEP Bulletin\" AND dc.date.issued:[2024-01-01 TO 2026-11-15] AND (\"data center\" OR \"data centre\" OR \"datacenter\" OR \"Equinix\" OR \"CoreWeave\" OR \"CoreSite\")",
+  "candidate_issues": 13
+}

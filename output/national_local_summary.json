@@ -1,0 +1,295 @@
+{
+  "VA": {
+    "No mention on pages read": 141,
+    "Could not read": 131,
+    "No listed website": 100,
+    "Possible mention": 11
+  },
+  "TX": {
+    "No mention on pages read": 540,
+    "Could not read": 469,
+    "Possible mention": 15,
+    "No listed website": 1078
+  },
+  "CA": {
+    "Could not read": 479,
+    "No mention on pages read": 471,
+    "Possible mention": 5,
+    "No listed website": 575
+  },
+  "OH": {
+    "Could not read": 420,
+    "No mention on pages read": 522,
+    "No listed website": 1653,
+    "Possible mention": 9
+  },
+  "GA": {
+    "No mention on pages read": 215,
+    "Could not read": 204,
+    "No listed website": 320,
+    "Possible mention": 20
+  },
+  "AZ": {
+    "Could not read": 103,
+    "Possible mention": 3,
+    "No mention on pages read": 77,
+    "No listed website": 130
+  },
+  "NY": {
+    "No mention on pages read": 572,
+    "Could not read": 644,
+    "No listed website": 1268,
+    "Possible mention": 3
+  },
+  "IL": {
+    "Could not read": 481,
+    "No listed website": 2910,
+    "No mention on pages read": 509,
+    "Possible mention": 13
+  },
+  "FL": {
+    "No mention on pages read": 274,
+    "Could not read": 236,
+    "No listed website": 171,
+    "Possible mention": 4
+  },
+  "PA": {
+    "No mention on pages read": 649,
+    "Could not read": 601,
+    "No listed website": 2145,
+    "Possible mention": 75
+  },
+  "WA": {
+    "No mention on pages read": 270,
+    "Could not read": 197,
+    "No listed website": 437,
+    "Possible mention": 9
+  },
+  "IN": {
+    "No mention on pages read": 206,
+    "Could not read": 234,
+    "No listed website": 1399,
+    "Possible mention": 6
+  },
+  "NJ": {
+    "Could not read": 221,
+    "No listed website": 224,
+    "No mention on pages read": 329,
+    "Possible mention": 5
+  },
+  "OR": {
+    "No mention on pages read": 197,
+    "Could not read": 160,
+    "Possible mention": 1,
+    "No listed website": 413
+  },
+  "NC": {
+    "Could not read": 252,
+    "No mention on pages read": 256,
+    "No listed website": 235,
+    "Possible mention": 19
+  },
+  "MN": {
+    "No mention on pages read": 494,
+    "Could not read": 421,
+    "Possible mention": 9,
+    "No listed website": 2013
+  },
+  "MO": {
+    "No listed website": 1595,
+    "No mention on pages read": 311,
+    "Possible mention": 16,
+    "Could not read": 244
+  },
+  "CO": {
+    "No mention on pages read": 233,
+    "No listed website": 466,
+    "Could not read": 218,
+    "Possible mention": 5
+  },
+  "MI": {
+    "No mention on pages read": 578,
+    "Could not read": 437,
+    "Possible mention": 43,
+    "No listed website": 879
+  },
+  "TN": {
+    "Could not read": 121,
+    "No listed website": 336,
+    "No mention on pages read": 171,
+    "Possible mention": 3
+  },
+  "NV": {
+    "Could not read": 31,
+    "No mention on pages read": 19,
+    "Possible mention": 1,
+    "No listed website": 28
+  },
+  "UT": {
+    "No listed website": 147,
+    "Could not read": 105,
+    "Possible mention": 5,
+    "No mention on pages read": 123
+  },
+  "IA": {
+    "Could not read": 234,
+    "No mention on pages read": 248,
+    "No listed website": 698,
+    "Possible mention": 6
+  },
+  "MD": {
+    "No mention on pages read": 82,
+    "Could not read": 51,
+    "Possible mention": 3,
+    "No listed website": 48
+  },
+  "OK": {
+    "No listed website": 811,
+    "Could not read": 88,
+    "No mention on pages read": 94
+  },
+  "MA": {
+    "No mention on pages read": 188,
+    "No listed website": 118,
+    "Could not read": 158,
+    "Possible mention": 5
+  },
+  "WI": {
+    "Could not read": 406,
+    "No mention on pages read": 432,
+    "Possible mention": 12,
+    "No listed website": 1092
+  },
+  "NE": {
+    "No mention on pages read": 155,
+    "Could not read": 127,
+    "No listed website": 1129,
+    "Possible mention": 5
+  },
+  "KY": {
+    "Could not read": 177,
+    "No mention on pages read": 129,
+    "No listed website": 494,
+    "Possible mention": 3
+  },
+  "WY": {
+    "No mention on pages read": 61,
+    "Could not read": 59,
+    "No listed website": 233
+  },
+  "ND": {
+    "No listed website": 1869,
+    "Could not read": 58,
+    "Possible mention": 4,
+    "No mention on pages read": 75
+  },
+  "MS": {
+    "Could not read": 59,
+    "No listed website": 362,
+    "No mention on pages read": 62,
+    "Possible mention": 2
+  },
+  "KS": {
+    "No mention on pages read": 208,
+    "No listed website": 1946,
+    "Could not read": 147,
+    "Possible mention": 6
+  },
+  "SC": {
+    "No mention on pages read": 128,
+    "Could not read": 122,
+    "No listed website": 217,
+    "Possible mention": 5
+  },
+  "AL": {
+    "No mention on pages read": 129,
+    "No listed website": 401,
+    "Could not read": 177,
+    "Possible mention": 1
+  },
+  "CT": {
+    "No listed website": 64,
+    "Could not read": 105,
+    "No mention on pages read": 90
+  },
+  "NM": {
+    "Could not read": 53,
+    "Possible mention": 1,
+    "No listed website": 253,
+    "No mention on pages read": 50
+  },
+  "LA": {
+    "No mention on pages read": 98,
+    "No listed website": 224,
+    "Could not read": 53
+  },
+  "WV": {
+    "No listed website": 225,
+    "No mention on pages read": 50,
+    "Could not read": 51
+  },
+  "NH": {
+    "Could not read": 102,
+    "No mention on pages read": 105,
+    "No listed website": 87
+  },
+  "HI": {
+    "Could not read": 6,
+    "No mention on pages read": 1,
+    "No listed website": 13
+  },
+  "ID": {
+    "Could not read": 86,
+    "No mention on pages read": 104,
+    "Possible mention": 3,
+    "No listed website": 362
+  },
+  "AR": {
+    "No listed website": 638,
+    "No mention on pages read": 58,
+    "Could not read": 104,
+    "Possible mention": 4
+  },
+  "AK": {
+    "No mention on pages read": 25,
+    "Could not read": 34,
+    "No listed website": 106
+  },
+  "MT": {
+    "No mention on pages read": 48,
+    "No listed website": 467,
+    "Could not read": 59
+  },
+  "SD": {
+    "No listed website": 1249,
+    "Could not read": 68,
+    "No mention on pages read": 71,
+    "Possible mention": 1
+  },
+  "DE": {
+    "Could not read": 29,
+    "No mention on pages read": 15,
+    "Possible mention": 1,
+    "No listed website": 17
+  },
+  "ME": {
+    "No mention on pages read": 178,
+    "Could not read": 128,
+    "No listed website": 329,
+    "Possible mention": 5
+  },
+  "RI": {
+    "Could not read": 29,
+    "No mention on pages read": 37,
+    "Possible mention": 1,
+    "No listed website": 22
+  },
+  "DC": {
+    "No mention on pages read": 1
+  },
+  "VT": {
+    "No listed website": 229,
+    "Could not read": 79,
+    "No mention on pages read": 83
+  }
+}

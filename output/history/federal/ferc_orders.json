@@ -1,0 +1,54 @@
+[
+  {
+    "state": "PA",
+    "dataset": "FERC interconnection decisions",
+    "jurisdiction": "Luzerne County",
+    "county": "Luzerne County",
+    "project": "Susquehanna data center power agreement",
+    "id": "fed-susquehanna-amendment",
+    "record_no": "ER24-2172-000",
+    "url": "https://www.ferc.gov/sites/default/files/2024-11/20241101-3061_ER24-2172-000.pdf",
+    "source_url": "https://www.ferc.gov/sites/default/files/2024-11/20241101-3061_ER24-2172-000.pdf",
+    "source_sha256": "69b04b60cfc5f0150af8cb2f96eabca1c6af9ff74f8bbdbd41a2929b0bf69934",
+    "date": "2024-11-01",
+    "date_role": "FERC order date",
+    "kind": "Grid interconnection amendment",
+    "status": "Rejected",
+    "locator": "189 FERC ¶ 61,078, order ¶¶ 1–2 and ordering paragraph",
+    "details": {
+      "federal_issuer": "Federal Energy Regulatory Commission",
+      "scope": "The proposed agreement would raise power supplied to the adjacent data center from 300 to 480 MW. FERC rejected this filing; the order did not revoke the existing agreement or decide local zoning.",
+      "location_evidence": "https://www.ferc.gov/sites/default/files/2024-11/20241101-3061_ER24-2172-000.pdf",
+      "location_sha256": "69b04b60cfc5f0150af8cb2f96eabca1c6af9ff74f8bbdbd41a2929b0bf69934",
+      "location_locator": "Order p. 4, ¶ 6; generating station county",
+      "additional_location_reference": "https://www.nrc.gov/facilities-safety/facility-finder/reactors/susq1",
+      "location_scope": "Site of the generating station in the interconnection agreement; not a determination of campus parcel boundaries."
+    }
+  },
+  {
+    "state": "PA",
+    "dataset": "FERC interconnection decisions",
+    "jurisdiction": "Luzerne County",
+    "county": "Luzerne County",
+    "project": "Susquehanna data center power agreement",
+    "id": "fed-susquehanna-rehearing",
+    "record_no": "ER24-2172-002",
+    "url": "https://www.ferc.gov/sites/default/files/2025-10/25-60019_DocumentsSusquehanna.pdf",
+    "source_url": "https://www.ferc.gov/sites/default/files/2025-10/25-60019_DocumentsSusquehanna.pdf",
+    "source_sha256": "d4b5616694b5795afea6be4614fe0edd8b114ffcb9f581a22deb706d7d749c8d",
+    "date": "2025-04-10",
+    "date_role": "FERC order date",
+    "kind": "Grid interconnection rehearing",
+    "status": "Rehearing order issued",
+    "locator": "FERC appellate brief, printed pp. 9 and 15–16; 191 FERC ¶ 61,025",
+    "details": {
+      "federal_issuer": "Federal Energy Regulatory Commission",
+      "scope": "FERC addressed rehearing of the 2024 rejection. This date is the order date cited in the agency brief, not its October filing date. No construction permit or current operating limit is inferred.",
+      "location_evidence": "https://www.ferc.gov/sites/default/files/2024-11/20241101-3061_ER24-2172-000.pdf",
+      "location_sha256": "69b04b60cfc5f0150af8cb2f96eabca1c6af9ff74f8bbdbd41a2929b0bf69934",
+      "location_locator": "Order p. 4, ¶ 6; generating station county",
+      "additional_location_reference": "https://www.nrc.gov/facilities-safety/facility-finder/reactors/susq1",
+      "location_scope": "Site of the generating station in the interconnection agreement; not a determination of campus parcel boundaries."
+    }
+  }
+]

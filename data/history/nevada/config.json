@@ -1,0 +1,56 @@
+{
+  "cutoff": "2026-11-15",
+  "sources": {
+    "census-places.zip": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_32_place_500k.zip",
+    "pnnl.geojson.gz": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+    "ndep-air.html": "https://ndep.nv.gov/air/permitting",
+    "ctitle.html": "https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/title-v-permits",
+    "clark.pdf": "https://www.clarkcountynv.gov/assets/documents/government/departments/environment_and_sustainability/division_of_air_quality/permitting/16304-20250515-per.pdf",
+    "dust.pdf": "https://www.clarkcountynv.gov/assets/documents/government/departments/environment_and_sustainability/division_of_air_quality/dcop/dcopsbyarea-june-02-2025.pdf",
+    "switch.pdf": "https://ndep.nv.gov/uploads/documents/ap7375-3672-directors-review-1.pdf",
+    "novva.pdf": "https://ndep.nv.gov/uploads/documents/ap7374-4667-class-ii-aqop.pdf",
+    "washoe-2015.pdf": "https://www.washoecounty.gov/bcc/board_committees/2015/files/agendas/2015-02-24/8.pdf",
+    "washoe-2023.pdf": "https://www.washoecounty.gov/csd/planning_and_development/board_commission/planning_commission/2023/Files/WAC23-0012_sr.pdf",
+    "washoe-notice.html": "https://washoelife.washoecounty.gov/nnph/nnph-air-quality-issues-public-notice-of-proposed-action-for-apple-inc/",
+    "flexential.html": "https://publicinput.com/q07765?embedId=14234",
+    "washoe-minutes.pdf": "https://www.washoecounty.gov/csd/planning_and_development/board_commission/planning_commission/2023/Files/101623_final_min.pdf"
+  },
+  "gis": {
+    "henderson_other": [
+      "https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/2",
+      "OBJECTID",
+      "OBJECTID,CASEID,CASENUMBER,WORKCLASS,APPLICATIONDATE,PROJECTNAME,CASEWORKCLASS,CASETYPE,STATUS,DESCRIPTION,ISSUEDATE,EXPIREDATE,MAIN_ADDRESS_LINE1",
+      "PROJECTNAME,DESCRIPTION"
+    ],
+    "henderson_grading": [
+      "https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/0",
+      "OBJECTID",
+      "OBJECTID,CASEID,CASENUMBER,WORKCLASS,APPLICATIONDATE,PROJECTNAME,CASEWORKCLASS,CASETYPE,STATUS,DESCRIPTION,ISSUEDATE,EXPIREDATE,MAIN_ADDRESS_LINE1",
+      "PROJECTNAME,DESCRIPTION"
+    ],
+    "clark_inspection": [
+      "https://maps.clarkcountynv.gov/arcgis/rest/services/BuildingDepartment/InspectionSites/MapServer/3",
+      "OBJECTID",
+      "OBJECTID,Permit_Number,Scope_of_Work,Address,Type,Last_Inspection,Last_Inspection_Date,Permit_Issued_Date,Description_of_Grading,Parcel",
+      "Scope_of_Work,Description_of_Grading"
+    ],
+    "clark_sources": [
+      "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1",
+      "OBJECTID",
+      "OBJECTID,Source_ID,Source_Classification,Source_Name,Company_Name,Source_Type,NAICS_Code,Source_Address,Source_Location",
+      "Source_Name,Company_Name,Source_Type"
+    ],
+    "reno": [
+      "https://services5.arcgis.com/RjM4BJrv5ZkqP4XC/arcgis/rest/services/Permits_Issued/FeatureServer/0",
+      "FID",
+      "FID,Permit_Number,Status,Address,Opened,Name,Description,City",
+      "Name,Description"
+    ],
+    "lasvegas": [
+      "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/OpenData_Building_Permits_/FeatureServer/0",
+      "OBJECTID",
+      "OBJECTID,APNO,APBLDGKEY,APTYPE,WORKTYPE,COMM,NAME,CODE_ANALYSIS,LEGALOWNER,BLDGAPPLSTATUS,ISSDTTM",
+      "COMM,NAME,CODE_ANALYSIS,LEGALOWNER"
+    ]
+  }
+}

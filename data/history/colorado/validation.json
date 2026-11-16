@@ -1,0 +1,34 @@
+{
+  "state": "CO",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 46,
+  "county": {
+    "Denver County": 33,
+    "Arapahoe County": 6,
+    "El Paso County": 4,
+    "Douglas County": 3
+  },
+  "agency_reported_locality": {
+    "Denver": 33,
+    "Aurora": 4,
+    "Colorado Springs": 4,
+    "Douglas County": 3,
+    "Arapahoe County": 1,
+    "Centennial": 1
+  },
+  "datasets": {
+    "Colorado APCD air permit application tracker": 22,
+    "Denver commercial permits at a verified data-center site": 18,
+    "Aurora Building Division issued permit and certificates": 3,
+    "Colorado Springs land-use appeals": 2,
+    "Colorado APCD public notices": 1
+  },
+  "cross_register_date_matches": 0,
+  "air_source_rows": 1954,
+  "denver_site_candidates": 18,
+  "city_narrative_search": {
+    "Denver": 0,
+    "Centennial": 0
+  },
+  "cutoff": "2026-11-15"
+}

@@ -1,0 +1,246 @@
+{
+  "state_and_territory_features": 56,
+  "county_equivalent_features": 3235,
+  "permit_keys": 5655,
+  "unassigned_by_state": {
+    "AZ": {
+      "history": 355,
+      "federal_history": 0,
+      "historical": 192,
+      "active": 20,
+      "unconfirmed": 62
+    },
+    "TX": {
+      "history": 663,
+      "federal_history": 2,
+      "unconfirmed": 117,
+      "historical": 486,
+      "active": 6
+    },
+    "NC": {
+      "history": 14,
+      "federal_history": 3,
+      "active": 7,
+      "unconfirmed": 3,
+      "federal_unconfirmed": 2,
+      "historical": 2
+    },
+    "IN": {
+      "history": 19,
+      "federal_history": 5,
+      "active": 5,
+      "historical": 3
+    },
+    "WI": {
+      "history": 3,
+      "federal_history": 3
+    },
+    "VA": {
+      "history": 141,
+      "federal_history": 47,
+      "unconfirmed": 31,
+      "federal_unconfirmed": 14,
+      "historical": 5,
+      "active": 2
+    },
+    "CA": {
+      "history": 406,
+      "federal_history": 41,
+      "unconfirmed": 14,
+      "active": 33,
+      "historical": 167,
+      "federal_unconfirmed": 1
+    },
+    "GA": {
+      "history": 49,
+      "federal_history": 15,
+      "unconfirmed": 17,
+      "federal_unconfirmed": 4,
+      "active": 6,
+      "historical": 7
+    },
+    "LA": {
+      "history": 2,
+      "federal_history": 2
+    },
+    "IL": {
+      "history": 20,
+      "federal_history": 2,
+      "active": 16,
+      "historical": 2,
+      "unconfirmed": 1,
+      "federal_unconfirmed": 1
+    },
+    "AK": {
+      "history": 3,
+      "federal_history": 3
+    },
+    "OH": {
+      "history": 93,
+      "federal_history": 5,
+      "unconfirmed": 14,
+      "historical": 56
+    },
+    "FL": {
+      "history": 31,
+      "federal_history": 0,
+      "active": 1,
+      "unconfirmed": 10,
+      "historical": 4
+    },
+    "PA": {
+      "history": 7,
+      "federal_history": 5,
+      "unconfirmed": 1
+    },
+    "UT": {
+      "history": 15,
+      "federal_history": 0,
+      "active": 1,
+      "unconfirmed": 4,
+      "historical": 5
+    },
+    "ND": {
+      "history": 3,
+      "federal_history": 1
+    },
+    "WY": {
+      "history": 6,
+      "federal_history": 0,
+      "historical": 2,
+      "unconfirmed": 1
+    },
+    "NV": {
+      "history": 21,
+      "federal_history": 2,
+      "historical": 18
+    },
+    "SC": {
+      "history": 4,
+      "federal_history": 4,
+      "unconfirmed": 1,
+      "federal_unconfirmed": 1
+    },
+    "TN": {
+      "history": 6,
+      "federal_history": 1,
+      "historical": 3
+    },
+    "OK": {
+      "history": 5,
+      "federal_history": 4
+    },
+    "KS": {
+      "history": 2,
+      "federal_history": 2
+    },
+    "CT": {
+      "history": 8,
+      "federal_history": 0,
+      "unconfirmed": 1
+    },
+    "OR": {
+      "history": 20,
+      "federal_history": 4,
+      "active": 1,
+      "historical": 10,
+      "unconfirmed": 5,
+      "federal_unconfirmed": 2
+    },
+    "ID": {
+      "history": 7,
+      "federal_history": 0,
+      "unconfirmed": 1,
+      "historical": 1
+    },
+    "NJ": {
+      "history": 4,
+      "federal_history": 0,
+      "unconfirmed": 4
+    },
+    "KY": {
+      "history": 1,
+      "federal_history": 0
+    },
+    "NY": {
+      "history": 2,
+      "federal_history": 0,
+      "active": 2
+    },
+    "AL": {
+      "history": 18,
+      "federal_history": 0,
+      "unconfirmed": 12,
+      "historical": 6
+    },
+    "GU": {
+      "history": 9,
+      "federal_history": 3,
+      "active": 1,
+      "federal_active": 1,
+      "unconfirmed": 1,
+      "historical": 1,
+      "federal_historical": 1
+    },
+    "NE": {
+      "history": 1,
+      "federal_history": 1,
+      "unconfirmed": 1,
+      "federal_unconfirmed": 1
+    },
+    "VI": {
+      "history": 1,
+      "federal_history": 1
+    },
+    "WA": {
+      "history": 6,
+      "federal_history": 0,
+      "historical": 4
+    },
+    "AS": {
+      "history": 1,
+      "federal_history": 1
+    },
+    "VT": {
+      "history": 8,
+      "federal_history": 0,
+      "unconfirmed": 1,
+      "historical": 1
+    },
+    "MO": {
+      "history": 2,
+      "federal_history": 0,
+      "historical": 2
+    },
+    "HI": {
+      "history": 2,
+      "federal_history": 0,
+      "unconfirmed": 1
+    },
+    "MN": {
+      "history": 1,
+      "federal_history": 1,
+      "unconfirmed": 1,
+      "federal_unconfirmed": 1
+    },
+    "AR": {},
+    "CO": {},
+    "DE": {},
+    "DC": {},
+    "IA": {},
+    "ME": {},
+    "MD": {},
+    "MA": {},
+    "MI": {},
+    "MS": {},
+    "MT": {},
+    "NH": {},
+    "NM": {},
+    "RI": {},
+    "SD": {},
+    "WV": {},
+    "PR": {},
+    "MP": {}
+  },
+  "assignment": "Exact state and county-equivalent name as reported; explicitly named Virginia independent cities are eligible. Empty or ambiguous county not assigned. State history and rule totals include lower levels; county provision counts only provisions issued by that county. Federal records are a subset of all records."
+}

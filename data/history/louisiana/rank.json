@@ -1,0 +1,66 @@
+{
+  "state": "LA",
+  "unit": "Mapped IM3 markers, not unique sites or MW; building and campus counts may overlap. Source county; incorporated place is Census point-in-polygon.",
+  "sources": {
+    "atlas": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "7aa853d43eefc460282e7df4bd511771472571b6e6757be9969ba6044665b95f"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2722%27&f=json&returnIdsOnly=true",
+      "sha256": "114490a4eb4fe880d515baad71705ef7d10d4b49b1194c009aee1b8874f39964"
+    },
+    "places": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2722%27&f=json&outFields=OBJECTID%2CGEOID%2CNAME&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6&returnGeometry=true",
+      "sha256": "8e80010399881fd961a8b0b605185e351ccaf17147f794dcb4633c1d819413ef"
+    }
+  },
+  "atlas_national_sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+  "total": 5,
+  "county": {
+    "East Baton Rouge Parish": 3,
+    "Caddo Parish": 1,
+    "Richland Parish": 1
+  },
+  "place": {
+    "Baton Rouge city": 3,
+    "Outside incorporated places": 1,
+    "Shreveport city": 1
+  },
+  "geometry": {
+    "point": 4,
+    "campus": 1
+  },
+  "markers": [
+    {
+      "place": "Baton Rouge city",
+      "county": "East Baton Rouge Parish",
+      "geometry": "point",
+      "label": "Center for Computation & Technology (CCT)"
+    },
+    {
+      "place": "Baton Rouge city",
+      "county": "East Baton Rouge Parish",
+      "geometry": "point",
+      "label": "DartPoints Baton Rouge 2"
+    },
+    {
+      "place": "Baton Rouge city",
+      "county": "East Baton Rouge Parish",
+      "geometry": "point",
+      "label": "DartPoints Baton Rouge 1"
+    },
+    {
+      "place": "Shreveport city",
+      "county": "Caddo Parish",
+      "geometry": "point",
+      "label": "DartPoints Shreveport"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Richland Parish",
+      "geometry": "campus",
+      "label": "Meta Richland Parish Data Center"
+    }
+  ]
+}

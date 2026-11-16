@@ -1,0 +1,42 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Santa Clara County,74,06085,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Los Angeles County,9,06037,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Alameda County,7,06001,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,Sacramento County,5,06067,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,San Diego County,5,06073,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,6,San Francisco County,4,06075,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Orange County,3,06059,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Contra Costa County,1,06013,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Napa County,1,06055,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Riverside County,1,06065,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,San Bernardino County,1,06071,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,San Luis Obispo County,1,06079,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Solano County,1,06095,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Stanislaus County,1,06099,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Santa Clara city,53,0669084,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,2,San Jose city,14,0668000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Fremont city,4,0626000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Los Angeles city,4,0644000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,San Diego city,4,0666000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,San Francisco city,4,0667000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Sunnyvale city,4,0677000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,8,El Segundo city,3,0622412,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,9,Santa Ana city,2,0669000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Berkeley city,1,0606000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Burbank city,1,0608954,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Concord city,1,0616000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Fairfield city,1,0623182,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Milpitas city,1,0647766,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Modesto city,1,0648354,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Napa city,1,0650258,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Oakland city,1,0653000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Palmdale city,1,0655156,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Palo Alto city,1,0655282,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Pleasanton city,1,0657792,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Rancho Cordova city,1,0659444,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Redlands city,1,0659962,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Riverside city,1,0662000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,San Luis Obispo city,1,0668154,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Tustin city,1,0680854,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Vista city,1,0682996,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,1,Stanford CDP,1,0673906,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

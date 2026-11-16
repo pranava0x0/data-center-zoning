@@ -1,0 +1,5 @@
+{
+  "concordnh": {"state":"NH","locality":"Concord","county":"Merrimack County","cases":{"9505":"52 Locke Road micro data center","9543":"52 Locke Road micro data center","9641":"52 Locke Road micro data center"}},
+  "clark": {"state":"NV","locality":"Clark County","county":"Clark County","cases":{"12037":"NV LAS DEC campus zoning","12395":"NV LAS NAP 14–16 design waivers","12956":"NV LAS DEC development agreement","12958":"NV LAS NAP 14–16 development agreement","13052":"NV LAS DEC development agreement","13054":"NV LAS NAP 14–16 development agreement","18446":"Post Road data center design review"}},
+  "roundrock":{"state":"TX","locality":"Round Rock","county":"","cases":{"11245":"Louis Henna Boulevard data center rezoning"}}
+}

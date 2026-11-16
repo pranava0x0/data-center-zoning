@@ -1,0 +1,258 @@
+{
+  "sources": {
+    "edgerton": {
+      "url": "https://edgertonks.org/damac-data-center/",
+      "ext": "html"
+    },
+    "ksair": {
+      "url": "https://www.kdhe.ks.gov/413/Public-Notices",
+      "ext": "html"
+    },
+    "beale": {
+      "url": "https://www.desotoks.us/496/Beale-Data-Center",
+      "ext": "html"
+    },
+    "desoto": {
+      "url": "https://www.desotoks.us/465/Data-Centers",
+      "ext": "html"
+    },
+    "realty": {
+      "url": "https://www.desotoks.us/498/Digital-Realty-Data-Center",
+      "ext": "html"
+    },
+    "beale_contract": {
+      "url": "https://www.desotoks.us/DocumentCenter/View/3805/Final-Development-Agreement-De-Soto---Mount-Sunflower",
+      "ext": "pdf"
+    },
+    "op": {
+      "url": "https://maps.opkansas.org/mapping/rest/services/MixedInfo/Building_Permit_Report/MapServer/0",
+      "where": "UPPER(Description) LIKE '%DATA%CENTER%' OR UPPER(Description) LIKE '%DATACENTRE%' OR UPPER(Description) LIKE '%COLOCATION%' OR UPPER(Description) LIKE '%EQUINIX%' OR UPPER(Description) LIKE '%TIERPOINT%' OR UPPER(Description) LIKE '%QTS DATA%' OR UPPER(Description) LIKE '%FLEXENTIAL%' OR UPPER(Description) LIKE '%CORE%SITE%' OR UPPER(Project) LIKE '%DATA%CENTER%' OR UPPER(Project) LIKE '%DATACENTRE%' OR UPPER(Project) LIKE '%COLOCATION%' OR UPPER(Project) LIKE '%EQUINIX%' OR UPPER(Project) LIKE '%TIERPOINT%' OR UPPER(Project) LIKE '%QTS DATA%' OR UPPER(Project) LIKE '%FLEXENTIAL%' OR UPPER(Project) LIKE '%CORE%SITE%'",
+      "out": [
+        "CaseNumber",
+        "PermitType",
+        "WorkClass",
+        "Description",
+        "Project",
+        "PermitStatus",
+        "ApplyDate",
+        "IssueDate",
+        "ExpireDate",
+        "FinalizedDate",
+        "MainAddressLine1",
+        "MainParcelNumber",
+        "More_Info"
+      ]
+    },
+    "lenexa": {
+      "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/planning-commission/2023/pc-2023-01-30-packet.pdf",
+      "ext": "pdf"
+    },
+    "dr_site": {
+      "url": "https://www.desotoks.us/DocumentCenter/View/3925",
+      "ext": "pdf"
+    },
+    "olathe": {
+      "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0",
+      "where": "UPPER(DESCRIPTION) LIKE '%DATA%CENTER%' OR UPPER(DESCRIPTION) LIKE '%DATACENTRE%' OR UPPER(DESCRIPTION) LIKE '%COLOCATION%' OR UPPER(DESCRIPTION) LIKE '%TIERPOINT%' OR UPPER(DESCRIPTION) LIKE '%FLEXENTIAL%' OR UPPER(DESCRIPTION) LIKE '%EQUINIX%'",
+      "out": [
+        "PERMITNUMBER",
+        "PermitStatus",
+        "PermitType",
+        "PermitWorkclass",
+        "DESCRIPTION",
+        "ISSUEDATE",
+        "ADDRESS"
+      ]
+    },
+    "olathe_ops": {
+      "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0",
+      "where": "UPPER(DESCRIPTION) LIKE '%DATA%PROCESS%' OR UPPER(DESCRIPTION) LIKE '%US BANK%' OR UPPER(DESCRIPTION) LIKE '%U.S. BANK%' OR UPPER(DESCRIPTION) LIKE '%GARMIN%'",
+      "out": [
+        "PERMITNUMBER",
+        "PermitStatus",
+        "PermitType",
+        "PermitWorkclass",
+        "DESCRIPTION",
+        "ISSUEDATE",
+        "ADDRESS"
+      ]
+    },
+    "oct_minutes": {
+      "url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689",
+      "ext": "pdf"
+    },
+    "supplement": {
+      "url": "https://www.desotoks.us/m/newsflash/Home/Detail/357",
+      "ext": "html"
+    }
+  },
+  "records": [
+    {
+      "source": "beale",
+      "id": "beale-council",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Mount Sunflower development agreement",
+      "project": "Beale / Mount Sunflower data center",
+      "kind": "Development agreement and IRB incentive intent",
+      "status": "Approved",
+      "date": null,
+      "date_role": "month only: August 2025",
+      "locator": "Beale project overview, City Council action",
+      "evidence": "City Council approved a Development Agreement",
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center",
+        "month": "2025-08"
+      }
+    },
+    {
+      "source": "beale_contract",
+      "id": "beale-contract",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Mount Sunflower development agreement",
+      "project": "Beale / Mount Sunflower data center",
+      "kind": "Development agreement",
+      "status": "Final",
+      "date": "2025-09-23",
+      "date_role": "agreement as-of date",
+      "locator": "Final redacted agreement, cover",
+      "evidence": "DATED AS OF SEPTEMBER 23, 2025",
+      "page": 1,
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "beale",
+      "id": "beale-phase1",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Beale Phase 1 site plan",
+      "project": "Beale / Mount Sunflower data center",
+      "kind": "Site plan for buildings 1 and 2",
+      "status": "Conditionally approved",
+      "date": null,
+      "date_role": "exact vote date unavailable",
+      "locator": "Current project status",
+      "evidence": "has received conditional approval from the City",
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "supplement",
+      "id": "beale-water-agreement",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Mount Sunflower second supplemental agreement",
+      "project": "Beale / Mount Sunflower data center",
+      "kind": "Development agreement amendment — water and wastewater",
+      "status": "Approved",
+      "date": "2026-10-01",
+      "date_role": "council meeting date",
+      "locator": "October 2 city notice; October 1 council action",
+      "evidence": "City Council approved a second supplemental agreement",
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "realty",
+      "id": "digital-intro",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Digital Realty development presentation",
+      "project": "Digital Realty / Astra Enterprise Park",
+      "kind": "City council project presentation",
+      "status": "On agenda",
+      "date": "2026-06-04",
+      "date_role": "council meeting date",
+      "locator": "Project resources, June 4 meeting",
+      "evidence": "Digital Realty Data Center Presentation",
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "realty",
+      "id": "digital-phase1-agenda",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Digital Realty North site plan",
+      "project": "Digital Realty / Astra Enterprise Park",
+      "kind": "Site plan on planning commission agenda",
+      "status": "On agenda",
+      "date": "2026-09-22",
+      "date_role": "meeting date",
+      "locator": "Project resources, September 22 meeting",
+      "evidence": "Site Plan for Digital Realty North",
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "oct_minutes",
+      "id": "digital-phase2",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Digital Realty Phase 2 site plan",
+      "project": "Digital Realty / Astra Enterprise Park",
+      "kind": "Site plan for Phase 2",
+      "status": "Tabled",
+      "date": "2026-10-27",
+      "date_role": "commission vote",
+      "locator": "Minutes pp. 4–7; Phase 2 site plan",
+      "evidence": "Second by Commissioner Huggins. Martin Yes Milburn Yes",
+      "page": 7,
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "oct_minutes",
+      "id": "digital-plat",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Astra Enterprise Park 3rd",
+      "project": "Digital Realty / Astra Enterprise Park",
+      "kind": "Final plat",
+      "status": "Approved and forwarded",
+      "date": "2026-10-27",
+      "date_role": "commission vote",
+      "locator": "Minutes p. 7, item d; easements forwarded to City Council",
+      "evidence": "approve the final plat and forward to City Council",
+      "page": 7,
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    },
+    {
+      "source": "oct_minutes",
+      "id": "beale-phase2",
+      "dataset": "City of De Soto project and planning records",
+      "jurisdiction": "De Soto",
+      "record_no": "Beale Phase 2 site plan",
+      "project": "Beale / Mount Sunflower data center",
+      "kind": "Site plan for Phase 2",
+      "status": "Tabled",
+      "date": "2026-10-27",
+      "date_role": "commission vote",
+      "locator": "Minutes pp. 7–8, item e, Phase 2",
+      "evidence": "to table the item until the next meeting",
+      "page": 8,
+      "details": {
+        "county": "Johnson County",
+        "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+      }
+    }
+  ]
+}

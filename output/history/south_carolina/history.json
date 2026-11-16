@@ -1,0 +1,321 @@
+[
+  {
+    "id": "sc-cp-50000227-0",
+    "state": "SC",
+    "record_no": "CP-50000227",
+    "project": "Gannett Enterprises",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Dorchester County",
+    "kind": "Synthetic minor air construction permit",
+    "status": "Issued",
+    "date": "2024-12-19",
+    "date_role": "Permit issue date",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+    "locator": "p. 1, permit number v1.0, issue date",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Dorchester County",
+      "archive": "cache/history/sc/gan.pdf",
+      "archive_sha256": "13f512f9f35eb1745906367c326f543a5ef3c5289e0911263d1f926b95967958"
+    }
+  },
+  {
+    "id": "sc-cp-50000227-1",
+    "state": "SC",
+    "record_no": "CP-50000227",
+    "project": "Gannett Enterprises",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Dorchester County",
+    "kind": "Air permit application",
+    "status": "Received",
+    "date": "2024-08-14",
+    "date_role": "Date Application Received",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+    "locator": "Statement of basis p. 1, DATE APPLICATION RECEIVED; air number used as project reference",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Dorchester County",
+      "archive": "cache/history/sc/ganbase.pdf",
+      "archive_sha256": "b65ae40b56af7755b8459b19293412646482574ce03fd2ab06ff3268d2dc57a2"
+    }
+  },
+  {
+    "id": "sc-cp-50000227-2",
+    "state": "SC",
+    "record_no": "CP-50000227",
+    "project": "Gannett Enterprises",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Dorchester County",
+    "kind": "Expedited application review",
+    "status": "Accepted",
+    "date": "2024-08-27",
+    "date_role": "Date Accepted Into Expedited Review",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+    "locator": "Statement of basis p. 1, DATE ACCEPTED INTO EXPEDITED REVIEW; air number used as project reference",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Dorchester County",
+      "archive": "cache/history/sc/ganbase.pdf",
+      "archive_sha256": "b65ae40b56af7755b8459b19293412646482574ce03fd2ab06ff3268d2dc57a2"
+    }
+  },
+  {
+    "id": "sc-cp-50000227-3",
+    "state": "SC",
+    "record_no": "CP-50000227",
+    "project": "Gannett Enterprises",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Dorchester County",
+    "kind": "CZC finding in air permit basis",
+    "status": "Approved",
+    "date": "2024-12-16",
+    "date_role": "Date Of Czc Approval",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+    "locator": "Statement of basis p. 1, DATE OF CZC APPROVAL; air number used as project reference",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Dorchester County",
+      "archive": "cache/history/sc/ganbase.pdf",
+      "archive_sha256": "b65ae40b56af7755b8459b19293412646482574ce03fd2ab06ff3268d2dc57a2"
+    }
+  },
+  {
+    "id": "sc-cp-50000227-4",
+    "state": "SC",
+    "record_no": "CP-50000227",
+    "project": "Gannett Enterprises",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Dorchester County",
+    "kind": "Air permit public comment",
+    "status": "Opened",
+    "date": "2024-11-04",
+    "date_role": "Public comment window opened",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+    "locator": "Decision p. 1, public notice paragraph",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Dorchester County",
+      "archive": "cache/history/sc/gan.pdf",
+      "archive_sha256": "13f512f9f35eb1745906367c326f543a5ef3c5289e0911263d1f926b95967958"
+    }
+  },
+  {
+    "id": "sc-cp-50000227-5",
+    "state": "SC",
+    "record_no": "CP-50000227",
+    "project": "Gannett Enterprises",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Dorchester County",
+    "kind": "Air permit public comment",
+    "status": "Closed",
+    "date": "2024-12-03",
+    "date_role": "Public comment window closed",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+    "locator": "Decision p. 1, public notice paragraph",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Dorchester County",
+      "archive": "cache/history/sc/gan.pdf",
+      "archive_sha256": "13f512f9f35eb1745906367c326f543a5ef3c5289e0911263d1f926b95967958"
+    }
+  },
+  {
+    "id": "sc-cp-50000316-6",
+    "state": "SC",
+    "record_no": "CP-50000316",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Synthetic minor air construction permit",
+    "status": "Issued",
+    "date": "2025-09-17",
+    "date_role": "Permit issue date",
+    "url": "https://des.sc.gov/sites/des/files/2026-06/CP-50000316%20v1.0%20-%20AIR-Construction%20Permit.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/2026-06/CP-50000316%20v1.0%20-%20AIR-Construction%20Permit.pdf",
+    "locator": "p. 1, permit number v1.0, issue date",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/val1.pdf",
+      "archive_sha256": "799f5f576ce67b0acab0e6df9a3da45639546298eab4e83dbab6e804a4197a86"
+    }
+  },
+  {
+    "id": "sc-cp-50000316-7",
+    "state": "SC",
+    "record_no": "CP-50000316",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Air permit application",
+    "status": "Received",
+    "date": "2025-05-06",
+    "date_role": "Application received date",
+    "url": "https://des.sc.gov/sites/des/files/2026-06/CP-50000316%20v1.0%20-%20AIR-Construction%20Permit.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/2026-06/CP-50000316%20v1.0%20-%20AIR-Construction%20Permit.pdf",
+    "locator": "Permit p. 1, application receipt",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/val1.pdf",
+      "archive_sha256": "799f5f576ce67b0acab0e6df9a3da45639546298eab4e83dbab6e804a4197a86"
+    }
+  },
+  {
+    "id": "sc-cp-50000422-8",
+    "state": "SC",
+    "record_no": "CP-50000422",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Synthetic minor air construction permit",
+    "status": "Issued",
+    "date": "2026-09-18",
+    "date_role": "Permit issue date",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/Valara/ConstructionPermit.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/Valara/ConstructionPermit.pdf",
+    "locator": "p. 1, permit number v1.0, issue date",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/val2.pdf",
+      "archive_sha256": "1fae6184c793992ee008c89a4f3f9633428e6526c5f5d5ed7bf1ae70f0162f8b"
+    }
+  },
+  {
+    "id": "sc-cp-50000422-9",
+    "state": "SC",
+    "record_no": "CP-50000422",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Air permit application",
+    "status": "Received",
+    "date": "2026-03-04",
+    "date_role": "Application received date",
+    "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/Valara/ConstructionPermit.pdf",
+    "source_url": "https://des.sc.gov/sites/des/files/Documents/BAQ/Valara/ConstructionPermit.pdf",
+    "locator": "Permit p. 1, application receipt",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/val2.pdf",
+      "archive_sha256": "1fae6184c793992ee008c89a4f3f9633428e6526c5f5d5ed7bf1ae70f0162f8b"
+    }
+  },
+  {
+    "id": "sc-cp-50000422-10",
+    "state": "SC",
+    "record_no": "CP-50000422",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Air permit public comment",
+    "status": "Opened",
+    "date": "2026-05-26",
+    "date_role": "Public participation milestone",
+    "url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+    "source_url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+    "locator": "Response to request for additional public comment, second air permit",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/valpage.html.gz",
+      "archive_sha256": "891746c85fb98e5459b664549a67e9aceb6d757898043c9085c7566cf34120ee"
+    }
+  },
+  {
+    "id": "sc-cp-50000422-11",
+    "state": "SC",
+    "record_no": "CP-50000422",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Public meeting and hearing",
+    "status": "Held",
+    "date": "2026-06-25",
+    "date_role": "Public participation milestone",
+    "url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+    "source_url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+    "locator": "Response to request for additional public comment, second air permit",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/valpage.html.gz",
+      "archive_sha256": "891746c85fb98e5459b664549a67e9aceb6d757898043c9085c7566cf34120ee"
+    }
+  },
+  {
+    "id": "sc-cp-50000422-12",
+    "state": "SC",
+    "record_no": "CP-50000422",
+    "project": "Valara Holdings High Performance Compute Center",
+    "dataset": "South Carolina DES air permitting files",
+    "jurisdiction": "Spartanburg County",
+    "kind": "Air permit public comment",
+    "status": "Closed",
+    "date": "2026-07-31",
+    "date_role": "Public participation milestone",
+    "url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+    "source_url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+    "locator": "Response to request for additional public comment, second air permit",
+    "details": {
+      "issuer": "South Carolina Department of Environmental Services",
+      "county": "Spartanburg County",
+      "archive": "cache/history/sc/valpage.html.gz",
+      "archive_sha256": "891746c85fb98e5459b664549a67e9aceb6d757898043c9085c7566cf34120ee"
+    }
+  },
+  {
+    "state": "SC",
+    "dataset": "South Carolina DHEC groundwater review",
+    "jurisdiction": "Berkeley County",
+    "project": "Maguro Enterprises (Google) — Berkeley County",
+    "url": "https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf#page=9",
+    "source_url": "https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf",
+    "locator": "Approved December 12, 2019 board minutes, item 10, pp. 9–10; 19-RFR-48",
+    "details": {
+      "county": "Berkeley County",
+      "issuer": "South Carolina Department of Health and Environmental Control",
+      "water_source_id": "08IN015G01",
+      "archive": "cache/history/sc/waterboard.pdf",
+      "archive_sha256": "30cca07541dfbad3e1e51750880f3e64fcc996c2e4b8d9fbcfe17aafba19e5ce",
+      "evidence": "Groundwater Withdrawal Permit, Berkeley County, Permit No. 08IN015"
+    },
+    "id": "sc-berkeley-groundwater-08in015",
+    "record_no": "08IN015",
+    "kind": "Groundwater withdrawal permit",
+    "status": "Groundwater Withdrawal Permit",
+    "date": null,
+    "date_role": "Issue date not stated in board minutes"
+  },
+  {
+    "state": "SC",
+    "dataset": "South Carolina DHEC groundwater review",
+    "jurisdiction": "Berkeley County",
+    "project": "Maguro Enterprises (Google) — Berkeley County",
+    "url": "https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf#page=9",
+    "source_url": "https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf",
+    "locator": "Approved December 12, 2019 board minutes, item 10, pp. 9–10; 19-RFR-48",
+    "details": {
+      "county": "Berkeley County",
+      "issuer": "South Carolina Department of Health and Environmental Control",
+      "water_source_id": "08IN015G01",
+      "archive": "cache/history/sc/waterboard.pdf",
+      "archive_sha256": "30cca07541dfbad3e1e51750880f3e64fcc996c2e4b8d9fbcfe17aafba19e5ce",
+      "evidence": "Groundwater Withdrawal Permit, Berkeley County, Permit No. 08IN015"
+    },
+    "id": "sc-berkeley-19-rfr-48",
+    "record_no": "19-RFR-48",
+    "kind": "Consent agreement on review of groundwater withdrawal permit",
+    "status": "Request for Final Review withdrawn",
+    "date": "2019-12-12",
+    "date_role": "Board meeting date; not permit issuance date"
+  }
+]

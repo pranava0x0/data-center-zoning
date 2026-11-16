@@ -1,0 +1,45 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "bloom-index.html.gz": {
+      "url": "https://portal.ct.gov/CSC/3_Petitions/Petition-Nos-1291-1300/Petition-No-1292-Bloom-Trumbull",
+      "bytes": 7774,
+      "sha256": "11ef72ea0192a9395e74c8d601167840e8304c9c75e4a6c5d9db19002cc0e843"
+    },
+    "bloom.pdf": {
+      "url": "https://portal.ct.gov/lib/csc/pending_petitions/2_petitions_1201through1300/pe1292_file.pdf",
+      "bytes": 21314116,
+      "sha256": "fa786d6e95cb9fd2082ada93c0f73e9c9660d469d1863a6f170aaa6d03175801"
+    },
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_09_place_500k.zip",
+      "bytes": 121756,
+      "sha256": "3ce7f60ca6fc397e8980a391693ade204c086dad5d1948d3b73921578ec55265"
+    },
+    "completion.pdf": {
+      "url": "https://portal.ct.gov/-/media/csc/3_petitions-medialibrary/petitions_medialibrary/mediapetitionnos1201-1300/20210510-bloom-listofcompletedsites.pdf?rev=87bd3557e5a948e7baf6e9e34c2a4746&hash=E9EDC78C314D45057C9BA9E56A188210",
+      "bytes": 828308,
+      "sha256": "15f6c3b3ba359fc476e7dc87875c73882b2e34062c32867bf517e197036ef952"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "decision.pdf": {
+      "url": "https://portal.ct.gov/lib/csc/pending_petitions/2_petitions_1201through1300/pe1292-dcltr-fuelcell.pdf",
+      "bytes": 4220474,
+      "sha256": "0987323f25e3c46c88f12e4be662d155f0e766f78415729bda739477b95eea6c"
+    },
+    "hartford.json.gz": {
+      "url": "https://utility.arcgis.com/usrsvcs/servers/d595ae995fb049d3ac54919ebf24b1ac/rest/services/HartfordOpenDataTables/FeatureServer/0/query?where=UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27&outFields=OBJECTID%2CRECORD_ID%2CDESCRIPTION%2CDATE_OPENED%2CDATE_CLOSED%2CRECORD_TYPE_TYPE%2CB1_APP_TYPE_ALIAS%2CRECORD_STATUS%2CPROPERTY_ADDRESS%2CDateIssued&returnGeometry=false&f=json",
+      "bytes": 2690,
+      "sha256": "03c25f70483d75c1390eb1e90711df5ad1955416e94500b9555a40578aadd023"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    }
+  }
+}

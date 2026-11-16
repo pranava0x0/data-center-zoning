@@ -1,0 +1,108 @@
+{
+  "check": "pass",
+  "upstream_releases": 5,
+  "upstream_feature_rows": 34466,
+  "states": {
+    "CA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 404,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 249,
+        "Construction stormwater": 12,
+        "Engineering, subdivision & land": 1,
+        "Fire & life safety": 1,
+        "Land use & zoning": 103,
+        "Power plant exemption": 32,
+        "Remediation & environmental review": 6
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 44,
+        "Application, planning or review": 1,
+        "Approval reported, not necessarily permit issuance": 36,
+        "Completion or archive status, not evidence of issuance": 48,
+        "Issuance reported": 19,
+        "Other source status; inspect record": 256
+      },
+      "history_datasets": {
+        "CEC small power plant exemption docket": 32,
+        "Hayward public land-use proceedings": 6,
+        "Los Angeles issued building and trade permits": 143,
+        "San Francisco building permits": 53,
+        "San José C.3 stormwater project tracking": 12,
+        "San José building permit registers": 55,
+        "San José planning register": 57,
+        "Santa Clara public land-use proceedings": 46
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 244,
+      "permit_snapshot_buckets": {
+        "active": 23,
+        "historical": 201,
+        "unconfirmed": 20
+      },
+      "excluded_event_types": {
+        "agenda": 18,
+        "application": 42,
+        "decision": 86,
+        "tracking": 12
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "PA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 125,
+      "unnumbered_cited_events": 2,
+      "history_families": {
+        "Air construction & operation": 16,
+        "Construction blasting review": 2,
+        "Construction stormwater": 46,
+        "Fuel storage & tanks": 5,
+        "Remediation & environmental review": 3,
+        "Wastewater & discharge": 17,
+        "Water supply & withdrawals": 3,
+        "Wetlands & state waters": 33
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Application, planning or review": 44,
+        "Issuance reported": 77,
+        "Notice or draft record": 2,
+        "Other source status; inspect record": 1
+      },
+      "history_datasets": {
+        "Pennsylvania DEP data center permit tracker": 125
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 65,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 65
+      },
+      "excluded_event_types": {
+        "application": 48,
+        "decision": 8
+      },
+      "unrecognized_permit_semantics": {}
+    }
+  },
+  "curated_source_checks": [],
+  "errors": [],
+  "warnings": [],
+  "units": "Rule rows, jurisdiction-frame rows and permit events are separate units. Passing checks do not measure legal accuracy or discovery recall."
+}

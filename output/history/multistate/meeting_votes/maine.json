@@ -1,0 +1,23 @@
+[
+  {
+    "id": "me-case-4996bdf4a2bef",
+    "state": "ME",
+    "dataset": "Lewiston City Council development agreements",
+    "jurisdiction": "Lewiston",
+    "county": "Androscoggin County",
+    "record_no": "323-2025",
+    "project": "MillCompute · Bates Mill 3",
+    "kind": "Development agreement vote",
+    "status": "Rejected, 0–7",
+    "date": "2025-12-16",
+    "date_role": "City Council vote",
+    "url": "https://www.lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6685#page=4",
+    "source_url": "https://www.lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6685",
+    "source_sha256": "25ffc04d1e3a8aef8a7da899dd618f036db81ab2428c5586043d7b50cab2715a",
+    "locator": "PDF 4, 6, 323-2025",
+    "details": {
+      "decision": "The council rejected the proposed development agreement; this was not a building permit decision.",
+      "evidence": "323-2025"
+    }
+  }
+]

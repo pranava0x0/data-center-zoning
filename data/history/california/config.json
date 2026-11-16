@@ -1,0 +1,201 @@
+{
+  "cutoff": "2026-11-15",
+  "census": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_06_place_500k.zip",
+  "pnnl": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+  "city_matter_ids": [
+    2070,
+    2276,
+    2277,
+    3803,
+    4212,
+    7631,
+    7871,
+    13807,
+    15205,
+    16981,
+    17207,
+    17412,
+    17552,
+    17896,
+    18026,
+    18150,
+    19249,
+    19250,
+    19383,
+    19533,
+    19657,
+    19814,
+    21040,
+    22162,
+    22362,
+    22967,
+    22997,
+    23206,
+    23408,
+    23410,
+    23818,
+    23830,
+    24195,
+    24432,
+    24483
+  ],
+  "cec": {
+    "19-SPPE-04": {
+      "slug": "san-jose-data-center",
+      "transactions": {
+        "application": "230741",
+        "order": "244094"
+      }
+    },
+    "22-SPPE-01": {
+      "slug": "bowers-backup-generating-facility",
+      "transactions": {
+        "application": "245769",
+        "order": "253064"
+      }
+    },
+    "23-SPPE-01": {
+      "slug": "stack-svy03a-data-center-campus",
+      "transactions": {
+        "application": "252249",
+        "order": "263075"
+      }
+    },
+    "26-SPPE-02": {
+      "slug": "silver-creek-backup-generating-facility-scbgf",
+      "transactions": {
+        "application": "272831"
+      }
+    },
+    "22-SPPE-02": {
+      "slug": "san-jose-data-center-04",
+      "transactions": {
+        "application": "245946"
+      }
+    },
+    "26-SPPE-01": {
+      "slug": "rb-inyokern-data-center",
+      "transactions": {
+        "application": "269893"
+      }
+    },
+    "22-SPPE-03": {
+      "slug": "martin-backup-generating-facility-mbgf",
+      "transactions": {
+        "application": "247325",
+        "order": "256855"
+      }
+    },
+    "24-SPPE-01": {
+      "slug": "avaio-pittsburg-backup-generating-facility-pbgf",
+      "transactions": {
+        "application": "254728",
+        "order": "270673"
+      }
+    },
+    "20-SPPE-02": {
+      "slug": "lafayette-backup-generating-facility",
+      "transactions": {
+        "application": "233041-1",
+        "order": "253063"
+      },
+      "place": "Santa Clara"
+    },
+    "25-SPPE-01": {
+      "slug": "vernon-backup-generating-facility-vbgf",
+      "transactions": {
+        "application": "262029"
+      }
+    },
+    "25-SPPE-02": {
+      "slug": "northtown-backup-generating-facility",
+      "transactions": {
+        "application": "264500"
+      }
+    },
+    "26-SPPE-03": {
+      "slug": "charcot-avenue-backup-generating-facility",
+      "transactions": {
+        "application": "273208"
+      }
+    },
+    "17-SPPE-01": {
+      "name": "McLaren Backup Generating Facility",
+      "place": "Santa Clara",
+      "transactions": {
+        "application": "222041-13",
+        "order": "225884"
+      }
+    },
+    "19-SPPE-01": {
+      "name": "Laurelwood Data Center",
+      "place": "Santa Clara",
+      "transactions": {
+        "application": "227192",
+        "order": "231950"
+      }
+    },
+    "19-SPPE-02": {
+      "name": "Walsh Backup Generating Facility",
+      "place": "Santa Clara",
+      "transactions": {
+        "application": "228877-2",
+        "order": "234366"
+      }
+    },
+    "19-SPPE-03": {
+      "name": "Sequoia Backup Generating Facility",
+      "place": "Santa Clara",
+      "transactions": {
+        "application": "229419-1",
+        "order": "238488"
+      }
+    },
+    "19-SPPE-05": {
+      "name": "Mission College Backup Generating Facility",
+      "place": "Santa Clara",
+      "transactions": {
+        "application": "230848",
+        "order": "234365"
+      }
+    },
+    "20-SPPE-01": {
+      "name": "Great Oaks South Backup Generating Facility",
+      "place": "San Jose",
+      "transactions": {
+        "application": "232466",
+        "order": "240883"
+      }
+    },
+    "21-SPPE-01": {
+      "name": "CA3 Backup Generating Facility",
+      "place": "Santa Clara",
+      "transactions": {
+        "application": "237380",
+        "order": "245036"
+      }
+    }
+  },
+  "los_angeles": [
+    "e67z-kt2n",
+    "dyxf-7hc4",
+    "pi9x-tg5x",
+    "ysqd-apz7",
+    "67is-svtd",
+    "yaaf-cyfa"
+  ],
+  "san_jose": {
+    "761b7ae8-3be1-4ad6-923d-c7af6404a904": "Active Building Permits",
+    "df4b8461-0c7a-4d16-b85d-ff7f71c5fed5": "Expired Building Permits",
+    "89ccdad9-7309-4826-a5f3-2fcf1fcb20fa": "Building Permits Under Inspection"
+  },
+  "county_gazetteer": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+  "hayward_matter_ids": [
+    6443,
+    7107,
+    9542,
+    9775,
+    9851,
+    10240
+  ]
+}

@@ -1,0 +1,28 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Morrow County,38,41049,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Washington County,36,41067,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Umatilla County,34,41059,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,Crook County,11,41013,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,5,Wasco County,4,41065,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,6,Multnomah County,3,41051,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Deschutes County,2,41017,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Marion County,2,41047,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,9,Clackamas County,1,41005,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,9,Jackson County,1,41029,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,9,Lane County,1,41039,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,9,Linn County,1,41043,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Hillsboro city,33,4134100,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,2,Umatilla city,20,4175650,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Prineville city,11,4159850,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Hermiston city,5,4133700,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,5,Boardman city,4,4107200,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,5,The Dalles city,4,4172950,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,7,Portland city,3,4159000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,8,Beaverton city,2,4105350,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,8,Bend city,2,4105800,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,8,Salem city,2,4164900,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Eugene city,1,4123850,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Forest Grove city,1,4126200,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Lyons city,1,4144300,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Medford city,1,4147000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Wilsonville city,1,4182800,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

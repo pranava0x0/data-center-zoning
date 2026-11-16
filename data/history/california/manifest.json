@@ -1,0 +1,598 @@
+{
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_06_place_500k.zip",
+      "sha256": "15d186d09949afa83779933a5c70439a9dd4bd20f22ca41d02d5745617b39c20",
+      "bytes": 1402089
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0",
+      "bytes": 141679
+    },
+    "docket-17-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=17-SPPE-01",
+      "sha256": "f7f45deacd884042738100ad1174b833ec84eceb397a02d9bfff64e7c7ec19b8",
+      "bytes": 78666
+    },
+    "docket-19-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=19-SPPE-01",
+      "sha256": "8860978232f3db6735e301db09c1d77f160c25e315bf8dd3093d4ca79626d7bb",
+      "bytes": 123912
+    },
+    "docket-19-SPPE-02.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=19-SPPE-02",
+      "sha256": "53965f46af3549c78e3502cc186f0c1fb906a2b626daa8d91547c0f98edd3d47",
+      "bytes": 87796
+    },
+    "docket-19-SPPE-03.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=19-SPPE-03",
+      "sha256": "b4badc494894ef2a744829967ecaead467a4345cfb52f0b182bb0cb2f4e6eb85",
+      "bytes": 135029
+    },
+    "docket-19-SPPE-04.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=19-SPPE-04",
+      "sha256": "038449759c138d77e157574412c69d9de9008306acce7c89122a0cf2203b5a08",
+      "bytes": 135629
+    },
+    "docket-19-SPPE-05.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=19-SPPE-05",
+      "sha256": "2c64256f0999392c0491c70500a7949f19c180c25f26a9cfd5688f792ba9be11",
+      "bytes": 58880
+    },
+    "docket-20-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=20-SPPE-01",
+      "sha256": "a9f003f52e3de429d7782f78a33dc89c7625db1332a5f98270d6efdc7a43d988",
+      "bytes": 121197
+    },
+    "docket-20-SPPE-02.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=20-SPPE-02",
+      "sha256": "a4d1ffef0ae1de7eba31901bb92c6e4c1a6027d5ee9f2865980a3a8bba24b075",
+      "bytes": 74683
+    },
+    "docket-21-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=21-SPPE-01",
+      "sha256": "c67e529586491f320d373522df84fa92a499b8ba8ab0e0b239fddcdb7827db59",
+      "bytes": 106346
+    },
+    "docket-22-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=22-SPPE-01",
+      "sha256": "529b460f6e8f7bc7e4b6e7dca421ca6f91b970b63948545720ad298bf602732e",
+      "bytes": 36192
+    },
+    "docket-22-SPPE-02.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=22-SPPE-02",
+      "sha256": "16134d5f4d8d280c768f1d45a826fdc5ade5a555fbc9c19ff41104db1978e7bb",
+      "bytes": 47334
+    },
+    "docket-22-SPPE-03.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=22-SPPE-03",
+      "sha256": "fe0c66a9e828d89c9b2b7830499b4c64d73de0c4b8472a3a0fd649ccd814266c",
+      "bytes": 26583
+    },
+    "docket-23-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=23-SPPE-01",
+      "sha256": "096a515e395a188eb881fe2481b19012638a3e0ae5bf0ff5adfbfe2bda2ee64d",
+      "bytes": 40390
+    },
+    "docket-24-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=24-SPPE-01",
+      "sha256": "0e25b3f1fcd10a8f9dea37c58ed8856172c14a234e5b3ed811e29416f37362c6",
+      "bytes": 31415
+    },
+    "docket-25-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=25-SPPE-01",
+      "sha256": "b9052146a35a239dd501933fe60e761c5b8c320c05b24ac23938cfa17d2b766e",
+      "bytes": 25923
+    },
+    "docket-25-SPPE-02.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=25-SPPE-02",
+      "sha256": "a1dfc914e4682596947a5554a9321730b86d63fdae9f20b40d8df33ff578c156",
+      "bytes": 31976
+    },
+    "docket-26-SPPE-01.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=26-SPPE-01",
+      "sha256": "20ad97decc5135eeb13ae6b7037ea560b3f4210a6a3655f228fa8bc02435b966",
+      "bytes": 230844
+    },
+    "docket-26-SPPE-02.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=26-SPPE-02",
+      "sha256": "213e7c9252b25eccaca546c1e3a2d282722e3a56aa2601aa5e36af6e6257f2c7",
+      "bytes": 19751
+    },
+    "docket-26-SPPE-03.html.gz": {
+      "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=26-SPPE-03",
+      "sha256": "eed589cf33b327c9df3a20e19f78c138838b7ab5a0645f86a79dd407ffa5b1b9",
+      "bytes": 18007
+    },
+    "hay-10240.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters/10240/histories",
+      "sha256": "041ec3da2ed7412fe11d8bd5df8959be95ea446b70f9e58bfacde32338d194f0",
+      "bytes": 806
+    },
+    "hay-6443.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters/6443/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "hay-7107.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters/7107/histories",
+      "sha256": "de1a6c60efaf8eb56b52d35510c100666e9cac9998d8fd63e51d51f623ac9ecd",
+      "bytes": 521
+    },
+    "hay-9542.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters/9542/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "hay-9775.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters/9775/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "hay-9851.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters/9851/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "hay-matters.json.gz": {
+      "url": "https://webapi.legistar.com/v1/hayward/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+eq+true&%24orderby=MatterId&%24top=1000",
+      "sha256": "c5bc3f22b15d914f466aab9d120243919240dd64ae32e33fcbed6a0d299a08d5",
+      "bytes": 2284
+    },
+    "la-67is-svtd-0.json.gz": {
+      "url": "https://data.lacity.org/resource/67is-svtd.json?%24select=permit_nbr%2Cprimary_address%2Cpermit_group%2Cpermit_type%2Cpermit_sub_type%2Cuse_desc%2Cissue_date%2Cstatus_desc%2Cstatus_date%2Cwork_desc%2C%3Aid+as+src_row_id&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "18bae0ecb29652a045aad97fb89c72dd0c88d0bb5d594979d81857c1c158a2ff",
+      "bytes": 884
+    },
+    "la-67is-svtd-count.json": {
+      "url": "https://data.lacity.org/resource/67is-svtd.json?%24select=count%28%2A%29+as+n&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27",
+      "sha256": "5bf5a0a2ad9c35345e97c088b901aa7b81e0d7226302b79f6da2b79c4868ef80",
+      "bytes": 12
+    },
+    "la-dyxf-7hc4-0.json.gz": {
+      "url": "https://data.lacity.org/resource/dyxf-7hc4.json?%24select=permit_nbr%2Cprimary_address%2Cpermit_group%2Cpermit_type%2Cpermit_sub_type%2Cuse_desc%2Cissue_date%2Cstatus_desc%2Cstatus_date%2Cwork_desc%2C%3Aid+as+src_row_id&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "e8b1bfbc2fc06baebf04e549c7431f20b47c2da88e96154c62e8d781a0e38f62",
+      "bytes": 2487
+    },
+    "la-dyxf-7hc4-count.json": {
+      "url": "https://data.lacity.org/resource/dyxf-7hc4.json?%24select=count%28%2A%29+as+n&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27",
+      "sha256": "b3601d942dd3b51255701262d245306b80c8b6c081310cddbbea339e225c6046",
+      "bytes": 13
+    },
+    "la-e67z-kt2n-0.json.gz": {
+      "url": "https://data.lacity.org/resource/e67z-kt2n.json?%24select=permit_nbr%2Cprimary_address%2Cpermit_group%2Cpermit_type%2Cpermit_sub_type%2Cuse_desc%2Cissue_date%2Cstatus_desc%2Cstatus_date%2Cwork_desc%2C%3Aid+as+src_row_id&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "46f61920f8a66953a90bcbd82a6a0b56e386dbc473d166f98c6c1efc3d826bfc",
+      "bytes": 2684
+    },
+    "la-e67z-kt2n-count.json": {
+      "url": "https://data.lacity.org/resource/e67z-kt2n.json?%24select=count%28%2A%29+as+n&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27",
+      "sha256": "b3601d942dd3b51255701262d245306b80c8b6c081310cddbbea339e225c6046",
+      "bytes": 13
+    },
+    "la-pi9x-tg5x-0.json.gz": {
+      "url": "https://data.lacity.org/resource/pi9x-tg5x.json?%24select=permit_nbr%2Cprimary_address%2Cpermit_group%2Cpermit_type%2Cpermit_sub_type%2Cuse_desc%2Cissue_date%2Cstatus_desc%2Cstatus_date%2Cwork_desc%2C%3Aid+as+src_row_id&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "548823e68ebbbac250f0c2cde6923bd5385fddca74fccc760a8495e03ab33b41",
+      "bytes": 2699
+    },
+    "la-pi9x-tg5x-count.json": {
+      "url": "https://data.lacity.org/resource/pi9x-tg5x.json?%24select=count%28%2A%29+as+n&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27",
+      "sha256": "5dcc05a05da875c580e6c59360160d431a2698eba81e43d708f21ea82ef0dc01",
+      "bytes": 13
+    },
+    "la-yaaf-cyfa-0.json.gz": {
+      "url": "https://data.lacity.org/resource/yaaf-cyfa.json?%24select=permit_nbr%2Cprimary_address%2Cpermit_group%2Cpermit_type%2Cpermit_sub_type%2Cuse_desc%2Cissue_date%2Cstatus_desc%2Cstatus_date%2Cwork_desc%2C%3Aid+as+src_row_id&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "268d66f59213bc8d122b8d9b13f23edfe3c3a8c146c3ecea0399938f51935999",
+      "bytes": 8082
+    },
+    "la-yaaf-cyfa-count.json": {
+      "url": "https://data.lacity.org/resource/yaaf-cyfa.json?%24select=count%28%2A%29+as+n&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27",
+      "sha256": "248f0d7229cde59cd32ef2088f165bb52b48a8adac6a48cec2af36f86b803d12",
+      "bytes": 13
+    },
+    "la-ysqd-apz7-0.json.gz": {
+      "url": "https://data.lacity.org/resource/ysqd-apz7.json?%24select=permit_nbr%2Cprimary_address%2Cpermit_group%2Cpermit_type%2Cpermit_sub_type%2Cuse_desc%2Cissue_date%2Cstatus_desc%2Cstatus_date%2Cwork_desc%2C%3Aid+as+src_row_id&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "dc328afe6b6d7e11d98e7fd0ab92b1d8da234db1b4235951315525ed25b47fbf",
+      "bytes": 6682
+    },
+    "la-ysqd-apz7-count.json": {
+      "url": "https://data.lacity.org/resource/ysqd-apz7.json?%24select=count%28%2A%29+as+n&%24where=lower%28work_desc%29+like+%27%25data%25center%25%27+OR+lower%28work_desc%29+like+%27%25data%25centre%25%27+OR+lower%28work_desc%29+like+%27%25data%25hall%25%27+OR+lower%28work_desc%29+like+%27%25server%25farm%25%27+OR+lower%28use_desc%29+like+%27%25data%25center%25%27+OR+lower%28use_desc%29+like+%27%25data%25centre%25%27+OR+lower%28use_desc%29+like+%27%25data%25hall%25%27+OR+lower%28use_desc%29+like+%27%25server%25farm%25%27",
+      "sha256": "54ae9bd86921d26d441348284dc377adddd4de4718ef7feef583500c13c98acc",
+      "bytes": 13
+    },
+    "order-17-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=225884&DocumentContentId=56561",
+      "sha256": "5e1f03c496b386d7a66fcc46894ed6517b932a2eae62d97cfaa658330d44ded5",
+      "bytes": 651600
+    },
+    "order-19-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=231950&DocumentContentId=63810",
+      "sha256": "f5aa6be8959c7199f71b89233db9216e70f5f401fc827d31e77b91b65e37f72d",
+      "bytes": 593521
+    },
+    "order-19-SPPE-02.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=234366&DocumentContentId=67223",
+      "sha256": "2bd6e383df16c23fd99afe6d8679b4793cf38ad64d42793fb5f95037d3b87614",
+      "bytes": 455475
+    },
+    "order-19-SPPE-03.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=238488&DocumentContentId=71792",
+      "sha256": "5f4deae2fb25b54f183ecf856176223825525bb6d8f823670fb32dd669b14406",
+      "bytes": 458938
+    },
+    "order-19-SPPE-04.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=244094&DocumentContentId=77981",
+      "sha256": "4a006024e6588d2a9c8b97e39c5a9b68935c1a9f0bbb2c2f2130c57c06753eda",
+      "bytes": 356134
+    },
+    "order-19-SPPE-05.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=234365&DocumentContentId=67224",
+      "sha256": "0e6a79a872a0284d6dae78b50cdf7f1282dbd5be527fa30be51d6a7f41b5c189",
+      "bytes": 436192
+    },
+    "order-20-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=240883&DocumentContentId=74715",
+      "sha256": "d7a955398fcb2458d86b76a402c167f32ffe1c1ec93be7411b20d5e5a65e946a",
+      "bytes": 458253
+    },
+    "order-20-SPPE-02.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=253063&DocumentContentId=88266",
+      "sha256": "8eb94b4dbd44fa77225f84a5199ff0f3f64d24b339bacc1c70fbf861c2641bda",
+      "bytes": 419665
+    },
+    "order-21-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=245036&DocumentContentId=79160",
+      "sha256": "7f8f1fc6e35205cde1df6f8959e4e4e2f748135fb64442cf2b4c4b3b2369dc68",
+      "bytes": 356253
+    },
+    "order-22-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=253064&DocumentContentId=88267",
+      "sha256": "07709e631964417782ad415ad387ca6d55526874c2784131909dfb509495aed1",
+      "bytes": 420446
+    },
+    "order-22-SPPE-03.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=256855&DocumentContentId=92668",
+      "sha256": "ce35f2b0e948a272ca58040593bb57e1688c8c6bae37299915a3828ac8f67e37",
+      "bytes": 552170
+    },
+    "order-23-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=263075&DocumentContentId=99678",
+      "sha256": "15833c20bc4bd17c6dcbecc28f692226b2bbc8db5f2394487593d689f676a322",
+      "bytes": 478761
+    },
+    "order-24-SPPE-01.pdf": {
+      "url": "https://efiling.energy.ca.gov/GetDocument.aspx?tn=270673&DocumentContentId=108262",
+      "sha256": "0d16f5f0aca2b29ca6458271ac2c7506367f24761edb173741e4eb5daf70e04f",
+      "bytes": 491322
+    },
+    "pnnl.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a",
+      "bytes": 69151
+    },
+    "profile-19-SPPE-04.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center",
+      "sha256": "a34c730e8d20de4e9db8a1a68fcb03ae02117b41542ad9415f15abe8bce5afe2",
+      "bytes": 15527
+    },
+    "profile-20-SPPE-02.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/lafayette-backup-generating-facility",
+      "sha256": "00b95e6f23ebd6dd63be4acb10dc52b33286c1b7f883a8e32bdb0eaad3be3e8d",
+      "bytes": 14648
+    },
+    "profile-22-SPPE-01.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/bowers-backup-generating-facility",
+      "sha256": "440e1b5f3fc9c5168abb72dbcf55fd0c1f9eb7af68843034621777d42d304689",
+      "bytes": 14349
+    },
+    "profile-22-SPPE-02.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center-04",
+      "sha256": "794ff9ed0cb65af6be03e87cf8a6ed1a10cf4c3ed9bf032936c2f9d916e33439",
+      "bytes": 14771
+    },
+    "profile-22-SPPE-03.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/martin-backup-generating-facility-mbgf",
+      "sha256": "e30114d1dd8254c379c73aaaa644aeb568e6acf8817c15c53b8b49e200f76d8f",
+      "bytes": 14176
+    },
+    "profile-23-SPPE-01.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/stack-svy03a-data-center-campus",
+      "sha256": "2128479dd2691e860fd1f1e1a0fd2dc88228ca5d0d72967fe7736d32e7996e23",
+      "bytes": 14033
+    },
+    "profile-24-SPPE-01.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/avaio-pittsburg-backup-generating-facility-pbgf",
+      "sha256": "d86f5f6efa06bbe0401c06df738ee1bcb33ecbd8509a57a6838a284921a7fb51",
+      "bytes": 14562
+    },
+    "profile-25-SPPE-01.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/vernon-backup-generating-facility-vbgf",
+      "sha256": "4bd667f352600697e9568cca1d95957966e9a52e33e1ec380c706bf847324a95",
+      "bytes": 14561
+    },
+    "profile-25-SPPE-02.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/northtown-backup-generating-facility",
+      "sha256": "95600de769520117f3042af192e4616bcba35112e0b472cfdf0b3bbe8784d9c6",
+      "bytes": 14780
+    },
+    "profile-26-SPPE-01.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/rb-inyokern-data-center",
+      "sha256": "893de07273ae7f0a402ceca02af9a1c7f6d92dead89eaf06bac05a17edd1cbed",
+      "bytes": 14949
+    },
+    "profile-26-SPPE-02.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/silver-creek-backup-generating-facility-scbgf",
+      "sha256": "f9138e76b6933a69228ff393a158b588ea0a0021f24dc6ed0e43334160e92518",
+      "bytes": 14478
+    },
+    "profile-26-SPPE-03.html.gz": {
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/charcot-avenue-backup-generating-facility",
+      "sha256": "0ad09d0f572ce2fbe6b479362d48ede297f74108968763d031ffd100936dc437",
+      "bytes": 14455
+    },
+    "sc-13807.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/13807/histories",
+      "sha256": "414025130edebf22665040262b8a1e92aaa735de1981ca187d68314cf0a00f40",
+      "bytes": 381
+    },
+    "sc-15205.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/15205/histories",
+      "sha256": "811340a88e6b4a6babe472aa52105871ce94f253656bcc7a619429641d5692f6",
+      "bytes": 387
+    },
+    "sc-16981.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/16981/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-17207.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/17207/histories",
+      "sha256": "3cb23045c8919265c81bad325fd1c1bf68baba4455747e43a91f3b45c67dee87",
+      "bytes": 851
+    },
+    "sc-17412.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/17412/histories",
+      "sha256": "6531b0833ca451a8351dde1c482e938e5eb03e7f3b04f71b674534520dd5811f",
+      "bytes": 1032
+    },
+    "sc-17552.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/17552/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-17896.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/17896/histories",
+      "sha256": "d36ff1376360f77fcc9c5c0f6be6c31a3feb24bae970ccfb49412252cd357b7c",
+      "bytes": 552
+    },
+    "sc-18026.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/18026/histories",
+      "sha256": "d3496854cca2f37b0b95770d747d6f9c5c137647e028622acabe218872214bde",
+      "bytes": 505
+    },
+    "sc-18150.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/18150/histories",
+      "sha256": "ba5ff63ebe359d8cff1c152685e68a72bae2c83372a46a543658218c7afc5132",
+      "bytes": 804
+    },
+    "sc-19249.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/19249/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-19250.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/19250/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-19383.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/19383/histories",
+      "sha256": "6623a53f54358cc7876faad4b4e100146623ad74ad8c907a5fb495a335afb255",
+      "bytes": 475
+    },
+    "sc-19533.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/19533/histories",
+      "sha256": "70e05e0055ac26a6bdbfff07ba97925d131fae2cea16b4241a1af721cac1482d",
+      "bytes": 743
+    },
+    "sc-19657.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/19657/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-19814.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/19814/histories",
+      "sha256": "a37a02d0820c431bb03ee0dfd80c9476efdb63e3e328cfc748aa2cc382d13790",
+      "bytes": 607
+    },
+    "sc-2070.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/2070/histories",
+      "sha256": "8c2d0e3554c2528f8eae579cfc4cf76ee89e221c70e204254f32813ae4c43c78",
+      "bytes": 644
+    },
+    "sc-21040.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/21040/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-22162.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/22162/histories",
+      "sha256": "eacae08830fb3f86a69411e205f91ee43feadccf3bfaad5e591c3fdb32867ee3",
+      "bytes": 722
+    },
+    "sc-22362.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/22362/histories",
+      "sha256": "35a8800bf2c721e885c53c5d369882f4be9c934aab506df78428981898dfb4e9",
+      "bytes": 679
+    },
+    "sc-2276.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/2276/histories",
+      "sha256": "0a3ca121cd5cde2364a1d0de07bd48263c4df095378544d55cb12a248f61afaa",
+      "bytes": 520
+    },
+    "sc-2277.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/2277/histories",
+      "sha256": "e1537ba6e43983edd06ea37f36f70ce21f616bff8deb758a423ef1b328a18d59",
+      "bytes": 610
+    },
+    "sc-22967.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/22967/histories",
+      "sha256": "9b57c17be133c6645bd8257d71cdb38c3ff36e7b98d5c1fa94dfc99450489104",
+      "bytes": 535
+    },
+    "sc-22997.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/22997/histories",
+      "sha256": "dbe56b5b4dedd9f3767bba8501658063f9393a5631c45f7efd36040d69f927ac",
+      "bytes": 745
+    },
+    "sc-23206.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/23206/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-23408.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/23408/histories",
+      "sha256": "017e27c6d702c58e15ad156638bf87bf0bc02a32459a8312a9fe385baa3de5c7",
+      "bytes": 792
+    },
+    "sc-23410.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/23410/histories",
+      "sha256": "6f2dea42cd0d47165482eb65db5acd18930c0ed95c9faad11b5fa3dbf92327de",
+      "bytes": 1090
+    },
+    "sc-23818.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/23818/histories",
+      "sha256": "73278fa5f3792022a7252466406a42368bc622ed57b14fdb1cf21f1894168c00",
+      "bytes": 650
+    },
+    "sc-23830.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/23830/histories",
+      "sha256": "7eecb70f7596ba41b6fde35917a80422283239c569a6b76ecaa3ce754ba77a1a",
+      "bytes": 512
+    },
+    "sc-24195.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/24195/histories",
+      "sha256": "7b7f1ab2a8c549d0704bdfb67303a853ed68c04e6b305b642c4ff2d5f8281fe4",
+      "bytes": 1247
+    },
+    "sc-24432.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/24432/histories",
+      "sha256": "07f8a97ce12936a8228db83abdff61fc0c90b8e5b84ed5ae9a2b024fb5056d4a",
+      "bytes": 877
+    },
+    "sc-24483.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/24483/histories",
+      "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
+      "bytes": 22
+    },
+    "sc-3803.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/3803/histories",
+      "sha256": "b62335193414d57d010032a1c1d76a30a12f7dcaa06e1c090fd1f4ddbc6a6240",
+      "bytes": 950
+    },
+    "sc-4212.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/4212/histories",
+      "sha256": "9fa3cc08239a84c235c49924f1b11bb1b07e9fd13c110dc58b00854765ee3806",
+      "bytes": 873
+    },
+    "sc-7631.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/7631/histories",
+      "sha256": "9b86f1ac9806a0fb9bb3ac3693bbd33a8536b58b0be18f26478a30927122733f",
+      "bytes": 379
+    },
+    "sc-7871.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters/7871/histories",
+      "sha256": "f83ecfc69a9010093d6f9f229d60cd840c7265700942cc54d2930e4c230cb4c4",
+      "bytes": 379
+    },
+    "sc-matters.json.gz": {
+      "url": "https://webapi.legistar.com/v1/santaclara/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+eq+true&%24orderby=MatterId&%24top=1000",
+      "sha256": "963b5565054f304981f721b6ebc56c67a9337e88378527de2973a0c5d82d0c78",
+      "bytes": 10861
+    },
+    "sf-0.json.gz": {
+      "url": "https://data.sfgov.org/resource/i98e-djp9.json?%24select=permit_number%2Cpermit_type_definition%2Cdescription%2Cstatus%2Cstatus_date%2Cfiled_date%2Cissued_date%2Ccompleted_date%2Cstreet_number%2Cstreet_name%2Cstreet_suffix%2Crecord_id%2Cproposed_use%2Cexisting_use%2C%3Aid+as+src_row_id&%24where=lower%28description%29+like+%27%25data%25center%25%27+OR+lower%28description%29+like+%27%25data%25centre%25%27+OR+lower%28description%29+like+%27%25data%25hall%25%27+OR+lower%28description%29+like+%27%25server%25farm%25%27+OR+lower%28proposed_use%29+like+%27%25data%25center%25%27+OR+lower%28proposed_use%29+like+%27%25data%25centre%25%27+OR+lower%28proposed_use%29+like+%27%25data%25hall%25%27+OR+lower%28proposed_use%29+like+%27%25server%25farm%25%27+OR+lower%28existing_use%29+like+%27%25data%25center%25%27+OR+lower%28existing_use%29+like+%27%25data%25centre%25%27+OR+lower%28existing_use%29+like+%27%25data%25hall%25%27+OR+lower%28existing_use%29+like+%27%25server%25farm%25%27&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "ca7570a2412ec2bbe3143299fba77d9eff47fe2b55d97525c57a4a62948fa0e7",
+      "bytes": 7711
+    },
+    "sf-count.json": {
+      "url": "https://data.sfgov.org/resource/i98e-djp9.json?%24select=count%28%2A%29+as+n&%24where=lower%28description%29+like+%27%25data%25center%25%27+OR+lower%28description%29+like+%27%25data%25centre%25%27+OR+lower%28description%29+like+%27%25data%25hall%25%27+OR+lower%28description%29+like+%27%25server%25farm%25%27+OR+lower%28proposed_use%29+like+%27%25data%25center%25%27+OR+lower%28proposed_use%29+like+%27%25data%25centre%25%27+OR+lower%28proposed_use%29+like+%27%25data%25hall%25%27+OR+lower%28proposed_use%29+like+%27%25server%25farm%25%27+OR+lower%28existing_use%29+like+%27%25data%25center%25%27+OR+lower%28existing_use%29+like+%27%25data%25centre%25%27+OR+lower%28existing_use%29+like+%27%25data%25hall%25%27+OR+lower%28existing_use%29+like+%27%25server%25farm%25%27",
+      "sha256": "ad2a653abcd490bdd1f281ac4b891d461d803988a5778f355e597cc52150e38b",
+      "bytes": 13
+    },
+    "sj-761b7ae8-3be1-4ad6-923d-c7af6404a904-0.json.gz": {
+      "url": "https://data.sanjoseca.gov/api/3/action/datastore_search_sql?sql=SELECT+%22_id%22%2C%22Status%22%2C%22gx_location%22%2C%22FOLDERNUMBER%22%2C%22FOLDERDESC%22%2C%22FOLDERNAME%22%2C%22SUBTYPEDESCRIPTION%22%2C%22WORKDESCRIPTION%22%2C%22PERMITAPPROVALS%22%2C%22ISSUEDATE%22%2C%22FINALDATE%22%2C%22FOLDERRSN%22+FROM+%22761b7ae8-3be1-4ad6-923d-c7af6404a904%22+WHERE+%22FOLDERDESC%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25server%25farm%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25server%25farm%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++ORDER+BY+%22_id%22+LIMIT+500+OFFSET+0",
+      "sha256": "8fee064a4f818a1f5e6b9e96c1859e369309f7c9a693b317c14678908fcd0aec",
+      "bytes": 1924,
+      "not_refreshed": "robots.txt disallows https://data.sanjoseca.gov/api/3/action/datastore_search?resource_id=761b7ae8-3be1-4ad6-923d-c7af6404a904&limit=0"
+    },
+    "sj-761b7ae8-3be1-4ad6-923d-c7af6404a904-count.json": {
+      "url": "https://data.sanjoseca.gov/api/3/action/datastore_search_sql?sql=SELECT+count%28%2A%29+AS+n+FROM+%22761b7ae8-3be1-4ad6-923d-c7af6404a904%22+WHERE+%22FOLDERDESC%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25server%25farm%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25server%25farm%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27+",
+      "sha256": "c5973bbda45180bd592bc0076dce337d20696c41be47d993a981ef90e82923b8",
+      "bytes": 961,
+      "not_refreshed": "robots.txt disallows https://data.sanjoseca.gov/api/3/action/datastore_search?resource_id=761b7ae8-3be1-4ad6-923d-c7af6404a904&limit=0"
+    },
+    "sj-89ccdad9-7309-4826-a5f3-2fcf1fcb20fa-0.json.gz": {
+      "url": "https://data.sanjoseca.gov/api/3/action/datastore_search_sql?sql=SELECT+%22_id%22%2C%22Status%22%2C%22gx_location%22%2C%22FOLDERNUMBER%22%2C%22FOLDERDESC%22%2C%22FOLDERNAME%22%2C%22SUBTYPEDESCRIPTION%22%2C%22WORKDESCRIPTION%22%2C%22PERMITAPPROVALS%22%2C%22ISSUEDATE%22%2C%22FINALDATE%22%2C%22FOLDERRSN%22+FROM+%2289ccdad9-7309-4826-a5f3-2fcf1fcb20fa%22+WHERE+%22FOLDERDESC%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25server%25farm%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25server%25farm%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++ORDER+BY+%22_id%22+LIMIT+500+OFFSET+0",
+      "sha256": "eddaf3cf35d1042d05ddd9783382bff69c824083b4af8cb05c79ea5c92261fbc",
+      "bytes": 1930,
+      "not_refreshed": "robots.txt disallows https://data.sanjoseca.gov/api/3/action/datastore_search?resource_id=89ccdad9-7309-4826-a5f3-2fcf1fcb20fa&limit=0"
+    },
+    "sj-89ccdad9-7309-4826-a5f3-2fcf1fcb20fa-count.json": {
+      "url": "https://data.sanjoseca.gov/api/3/action/datastore_search_sql?sql=SELECT+count%28%2A%29+AS+n+FROM+%2289ccdad9-7309-4826-a5f3-2fcf1fcb20fa%22+WHERE+%22FOLDERDESC%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25server%25farm%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25server%25farm%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27+",
+      "sha256": "872355f441ddd7804fa47168c3e1ef09ef5da891a28243b3d6fe3da8cb162532",
+      "bytes": 961,
+      "not_refreshed": "robots.txt disallows https://data.sanjoseca.gov/api/3/action/datastore_search?resource_id=89ccdad9-7309-4826-a5f3-2fcf1fcb20fa&limit=0"
+    },
+    "sj-df4b8461-0c7a-4d16-b85d-ff7f71c5fed5-0.json.gz": {
+      "url": "https://data.sanjoseca.gov/api/3/action/datastore_search_sql?sql=SELECT+%22_id%22%2C%22Status%22%2C%22gx_location%22%2C%22FOLDERNUMBER%22%2C%22FOLDERDESC%22%2C%22FOLDERNAME%22%2C%22SUBTYPEDESCRIPTION%22%2C%22WORKDESCRIPTION%22%2C%22PERMITAPPROVALS%22%2C%22ISSUEDATE%22%2C%22FINALDATE%22%2C%22FOLDERRSN%22+FROM+%22df4b8461-0c7a-4d16-b85d-ff7f71c5fed5%22+WHERE+%22FOLDERDESC%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25server%25farm%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25server%25farm%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++ORDER+BY+%22_id%22+LIMIT+500+OFFSET+0",
+      "sha256": "0dc2de33bd04927788712083ff483d3331ab6f63eed7316d775144f178721b33",
+      "bytes": 2390,
+      "not_refreshed": "robots.txt disallows https://data.sanjoseca.gov/api/3/action/datastore_search?resource_id=df4b8461-0c7a-4d16-b85d-ff7f71c5fed5&limit=0"
+    },
+    "sj-df4b8461-0c7a-4d16-b85d-ff7f71c5fed5-count.json": {
+      "url": "https://data.sanjoseca.gov/api/3/action/datastore_search_sql?sql=SELECT+count%28%2A%29+AS+n+FROM+%22df4b8461-0c7a-4d16-b85d-ff7f71c5fed5%22+WHERE+%22FOLDERDESC%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERDESC%22+ILIKE+%27%25server%25farm%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25center%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25centre%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25data%25hall%25%27++OR+%22FOLDERNAME%22+ILIKE+%27%25server%25farm%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22WORKDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25center%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25centre%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25data%25hall%25%27++OR+%22SUBTYPEDESCRIPTION%22+ILIKE+%27%25server%25farm%25%27+",
+      "sha256": "0f966254d5c373a9a37b2b1cd2a6affbec6bfac42874cd13a3a8ee0776332e72",
+      "bytes": 961,
+      "not_refreshed": "robots.txt disallows https://data.sanjoseca.gov/api/3/action/datastore_search?resource_id=df4b8461-0c7a-4d16-b85d-ff7f71c5fed5&limit=0"
+    },
+    "sjp-23-0.json.gz": {
+      "url": "https://geo.sanjoseca.gov/server/rest/services/PLN/PLN_PermitsAndComplaints/MapServer/23/query?objectIds=215628%2C216678%2C216728%2C216949%2C217543%2C218163%2C218730%2C218908%2C219308%2C219672%2C219978%2C220060%2C220232%2C220335%2C220464%2C220521%2C220653%2C220706%2C220747%2C220808%2C220914%2C220932%2C220998%2C221166%2C221216%2C226981%2C227086%2C227107%2C230176%2C231047%2C234356%2C235307%2C246224%2C246514%2C246896%2C246940%2C247126%2C247179%2C247234%2C247505%2C247554%2C250929%2C252798%2C253703%2C253996%2C254884%2C254885%2C255027%2C255028%2C256177%2C256296%2C256598%2C257938%2C258137%2C258174%2C258391%2C258398&outFields=OBJECTID%2CFOLDERRSN%2CFOLDERNUM%2CFOLDERDESC%2CFOLDERNAME%2CADDRESS%2CAPN%2CWORKDESC%2CSUBDESC%2CISSUEDATE%2CFINALDATE%2CINDATE%2CPERMITSTATUS%2CPERMITTYPE&returnGeometry=false&f=json",
+      "sha256": "c837c1a428c92f60dbe233dad0d5d193a2e09b0f4bad8abf2cfeabdbf723f796",
+      "bytes": 7053
+    },
+    "sjp-23-ids.json.gz": {
+      "url": "https://geo.sanjoseca.gov/server/rest/services/PLN/PLN_PermitsAndComplaints/MapServer/23/query?where=UPPER%28FOLDERDESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FOLDERDESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FOLDERDESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FOLDERDESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "ca2aa7a7fb60cf1bd77e27f633847971908ea0fa831bae966f50fc71711a77cb",
+      "bytes": 238
+    },
+    "sjp-24-0.json.gz": {
+      "url": "https://geo.sanjoseca.gov/server/rest/services/PLN/PLN_PermitsAndComplaints/MapServer/24/query?objectIds=74%2C146%2C275%2C314%2C555%2C805%2C850%2C1196%2C1226%2C1293%2C1348%2C1359&outFields=OBJECTID%2CFOLDERRSN%2CFOLDERNUM%2CFOLDERDESC%2CFOLDERNAME%2CADDRESS%2CAPN%2CWORKDESC%2CSUBDESC%2CISSUEDATE%2CFINALDATE%2CINDATE%2CSTATUS&returnGeometry=false&f=json",
+      "sha256": "539c3df86e883541dbab198472e80cfe189d49dd96f2cb4304c180c7f74645f0",
+      "bytes": 1751
+    },
+    "sjp-24-ids.json.gz": {
+      "url": "https://geo.sanjoseca.gov/server/rest/services/PLN/PLN_PermitsAndComplaints/MapServer/24/query?where=UPPER%28FOLDERDESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FOLDERDESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FOLDERDESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FOLDERDESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FOLDERNAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28WORKDESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28SUBDESC%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "8d5c7261f025905985fc324cbdf81843c68b5484a2acb502a96c6fa5dd977dee",
+      "bytes": 105
+    }
+  },
+  "candidate_counts": {
+    "hay-title-candidates": 9,
+    "la-67is-svtd": 4,
+    "la-dyxf-7hc4": 18,
+    "la-e67z-kt2n": 18,
+    "la-pi9x-tg5x": 17,
+    "la-yaaf-cyfa": 70,
+    "la-ysqd-apz7": 47,
+    "sc-title-candidates": 69,
+    "sf": 60,
+    "sj-761b7ae8-3be1-4ad6-923d-c7af6404a904": 23,
+    "sj-89ccdad9-7309-4826-a5f3-2fcf1fcb20fa": 23,
+    "sj-df4b8461-0c7a-4d16-b85d-ff7f71c5fed5": 33,
+    "sjp-23": 57,
+    "sjp-24": 12
+  },
+  "cutoff": "2026-11-15",
+  "errors": []
+}

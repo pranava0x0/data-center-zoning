@@ -1,0 +1,48 @@
+[
+  {
+    "geoid": "51155",
+    "upstream": [
+      {
+        "url": "https://pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf",
+        "sha256": "9b7d217ba2b7ebbfe51f1529f562cc7c004bbfac5571f6739faf74e9ff818919"
+      },
+      {
+        "url": "https://www.pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf",
+        "sha256": "9b7d217ba2b7ebbfe51f1529f562cc7c004bbfac5571f6739faf74e9ff818919"
+      }
+    ],
+    "current_index": "https://www.pulaskicounty.org/planning-zoning.html",
+    "current_index_sha256": "dd9ee3566eb3c3ee82b942ec1755676c539da814ee37f737d39e19f73b9a6f5c",
+    "current_code": "https://www.pulaskicounty.org/documents/planning-zoning/ordinances/udo-september-2026.pdf",
+    "current_sha256": "0276304400e7c12295a1aecc0b60d9f7608266f70cc47738a145d68246e4ef1d",
+    "link_text": "Unified Development Ordinance"
+  },
+  {
+    "geoid": "51079",
+    "upstream": [
+      {
+        "url": "https://greenecountyva.gov/DocumentCenter/View/290/Zoning-Ordinance-PDF-7222025",
+        "sha256": "d4bc08cbb76f3d91e897a4b0be2e1c0653e9b17adfb0a6b95e3bfa2bf67bfcf7"
+      }
+    ],
+    "current_index": "https://www.greenecountyva.gov/184/Ordinances",
+    "current_index_sha256": "7faf6040564eb8432fd3ee4b66369d91e7e3f1c892140f13da1d7b4cc45bb336",
+    "current_code": "https://www.greenecountyva.gov/DocumentCenter/View/290/Zoning-Ordinance-PDF-1192026",
+    "current_sha256": "d4bc08cbb76f3d91e897a4b0be2e1c0653e9b17adfb0a6b95e3bfa2bf67bfcf7",
+    "link_text": "Zoning Ordinance (PDF)"
+  },
+  {
+    "geoid": "51067",
+    "upstream": [
+      {
+        "url": "https://www.franklincountyva.gov/DocumentCenter/View/3071/Franklin-County-Code-of-Ordinances--Chapter-25--Zoning-PDF",
+        "sha256": "46d4723e285fb78f83002206ce687a57905312182c0b679498057e38d47dd8f8"
+      }
+    ],
+    "current_index": "https://franklincountyva.gov/342/Zoning-Ordinance",
+    "current_index_sha256": "9457cc279933ff1686d6bc67cf55d06d7921dbfda6ac2f403e366becd240fa80",
+    "current_code": "https://franklincountyva.gov/DocumentCenter/View/4312",
+    "current_sha256": "85bf8317a9809bf8000bc3e7ca064a45ea51e145e0fb1fcddfbd20c78ffd2ff8",
+    "link_text": "REP: Regional Enterprise Park District"
+  }
+]

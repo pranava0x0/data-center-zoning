@@ -1,0 +1,78 @@
+{
+  "va-fx-commercial-gfa": {
+    "title": "Commercial districts: special exception above 40,000 sq ft",
+    "role": "Decides",
+    "office": "Fairfax County Board of Supervisors",
+    "description": "In C-3 or C-4, a data center building over 40,000 sq ft of gross floor area needs a special exception. The Planning Commission hears the request first and makes a recommendation. The Board decides at a second hearing. The county estimates about six months from acceptance.",
+    "sources": [
+      {
+        "label": "Adopted size limit, §4102.6.A(2)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+      },
+      {
+        "label": "County special exception process",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/special-exception-process"
+      },
+      {
+        "label": "County timing estimate",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/application-acceptance"
+      }
+    ]
+  },
+  "va-fx-industrial-gfa": {
+    "title": "Industrial districts: special exception above 80,000 sq ft",
+    "role": "Decides",
+    "office": "Fairfax County Board of Supervisors",
+    "description": "In I-2, I-3 or I-4, a data center building over 80,000 sq ft of gross floor area needs a special exception. The Planning Commission hears the request first and makes a recommendation. The Board decides at a second hearing. The county estimates about six months from acceptance.",
+    "sources": [
+      {
+        "label": "Adopted size limit, §4102.6.A(3)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+      },
+      {
+        "label": "County special exception process",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/special-exception-process"
+      },
+      {
+        "label": "County timing estimate",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/application-acceptance"
+      }
+    ]
+  },
+  "va-fx-setback": {
+    "title": "Residential setbacks for buildings and equipment",
+    "role": "Sets the standard",
+    "office": "Fairfax County Board of Supervisors",
+    "description": "Keep the building at least 200 ft from an R-district lot line or a lot in residential use. Ground-mounted equipment needs 300 ft or the principal building between it and that line. Public street rights-of-way do not count as R districts. The Board may approve shorter distances by special exception.",
+    "sources": [
+      {
+        "label": "Adopted setback and exceptions, §4102.6.A(4)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+      },
+      {
+        "label": "County special exception process",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/special-exception-process"
+      }
+    ]
+  },
+  "va-fx-noise": {
+    "title": "Noise studies before site approval and occupancy",
+    "role": "Reviews",
+    "office": "Fairfax County Zoning Administrator or designee",
+    "description": "Submit a noise study before site plan approval. After construction, measure installed equipment at full load before the Nonresidential Use Permit is issued. Rezoning and special exception applications also need a study; qualifying projects at 100 MW or more must assess noise at homes and schools within 500 ft of the property boundary.",
+    "sources": [
+      {
+        "label": "Adopted study requirements, §4102.6.A(6)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+      },
+      {
+        "label": "County noise study instructions",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning/data-centers/Noise-Study-Requirements.pdf"
+      },
+      {
+        "label": "2026 amendment: rezoning and special exception studies, pp. 11–12",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO-112_2-2026-22.pdf#page=11"
+      }
+    ]
+  }
+}

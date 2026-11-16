@@ -1,0 +1,434 @@
+[
+  {
+    "state": "MS",
+    "jurisdiction": "Mississippi",
+    "url": "https://www.mdeq.ms.gov/about-mdeq/data-center/",
+    "depth": 0,
+    "sha256": "ca9aa43fa1064ae9860ec5c80f99bb26b9eeb65b83ca86759a5e94023b8b6bf1",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 0,
+        "end": 11,
+        "match": "Data Center",
+        "context": "Data Center Information and Resources – MDEQ Home About MDEQ Air Land Water Geology News Regulations Restoration Permits enSearch How Do I? Accessibility Know Your Rights: Workplace Discrimination is Illegal Mississippi D"
+      },
+      {
+        "topic": "data_center",
+        "start": 380,
+        "end": 391,
+        "match": "Data Center",
+        "context": "nvironmental Quality HOME ABOUT ACCESSIBILITY AIR LAND WATER GEOLOGY NEWS REGULATIONS RESTORATION PERMITS enSEARCH HOW DO I? MDEQ ⟩ About MDEQ ⟩ Data Center Information and Resources Data Center Information and Resources Data centers are physical networks of computer processors and related infrastructure that support digital services such as cloud storage, end-use"
+      },
+      {
+        "topic": "data_center",
+        "start": 418,
+        "end": 429,
+        "match": "Data Center",
+        "context": "IBILITY AIR LAND WATER GEOLOGY NEWS REGULATIONS RESTORATION PERMITS enSEARCH HOW DO I? MDEQ ⟩ About MDEQ ⟩ Data Center Information and Resources Data Center Information and Resources Data centers are physical networks of computer processors and related infrastructure that support digital services such as cloud storage, end-user connectivity and artificial intellig"
+      },
+      {
+        "topic": "data_center",
+        "start": 456,
+        "end": 468,
+        "match": "Data centers",
+        "context": "GULATIONS RESTORATION PERMITS enSEARCH HOW DO I? MDEQ ⟩ About MDEQ ⟩ Data Center Information and Resources Data Center Information and Resources Data centers are physical networks of computer processors and related infrastructure that support digital services such as cloud storage, end-user connectivity and artificial intelligence computing. Data centers have attra"
+      },
+      {
+        "topic": "data_center",
+        "start": 655,
+        "end": 667,
+        "match": "Data centers",
+        "context": "ors and related infrastructure that support digital services such as cloud storage, end-user connectivity and artificial intelligence computing. Data centers have attracted significant public attention, including questions about water use, air quality and other potential impacts to surrounding communities. Oversight of data center development and operation involves"
+      },
+      {
+        "topic": "data_center",
+        "start": 831,
+        "end": 842,
+        "match": "data center",
+        "context": "nificant public attention, including questions about water use, air quality and other potential impacts to surrounding communities. Oversight of data center development and operation involves local governments, utilities and state and federal agencies, each with specific and varying responsibilities. The Mississippi Department of Environmental Quality (MDEQ) admin"
+      },
+      {
+        "topic": "data_center",
+        "start": 1118,
+        "end": 1129,
+        "match": "data center",
+        "context": "ponsibilities. The Mississippi Department of Environmental Quality (MDEQ) administers environmental programs with requirements that may apply to data center construction and operation. Depending on a facility’s design and activities, these may include requirements for air emissions, surface water and groundwater withdrawals, wastewater discharge, stormwater manage"
+      },
+      {
+        "topic": "data_center",
+        "start": 1585,
+        "end": 1597,
+        "match": "data centers",
+        "context": "utside MDEQ’s authority and are addressed through other applicable local government, utility or regulatory processes. This webpage explains what data centers are, describes MDEQ’s environmental responsibilities, as well as those matters that fall outside the agency’s authority. It also provides resources to help interested individuals understand permitting requirem"
+      },
+      {
+        "topic": "data_center",
+        "start": 1980,
+        "end": 1991,
+        "match": "data center",
+        "context": "public participation and report environmental concerns. MDEQ’s Role MDEQ administers environmental programs with requirements that may apply to data center construction and operation. Depending on the facility’s design and activities, these requirements may include air emissions, surface water and groundwater withdrawals, wastewater, stormwater and water quality"
+      },
+      {
+        "topic": "data_center",
+        "start": 3359,
+        "end": 3370,
+        "match": "data center",
+        "context": "rtment of Health or local utility, as applicable. Environmental Permitting in Mississippi Depending on the proposed facility and its operations, data center projects may require environmental permits or approvals related to air emissions, water withdrawal, wastewater discharge, stormwater and water quality. Water Use MDEQ regulates the use of surface water and gro"
+      },
+      {
+        "topic": "water",
+        "start": 3453,
+        "end": 3469,
+        "match": "water withdrawal",
+        "context": "nding on the proposed facility and its operations, data center projects may require environmental permits or approvals related to air emissions, water withdrawal, wastewater discharge, stormwater and water quality. Water Use MDEQ regulates the use of surface water and groundwater in Mississippi. Depending on the source and method of withdrawal, proposed withdrawals may"
+      },
+      {
+        "topic": "data_center",
+        "start": 3925,
+        "end": 3937,
+        "match": "Data centers",
+        "context": "practices, including treated wastewater, lower-quality water sources when appropriate, recycling and closed-loop cooling systems. Air Permitting Data centers that install stationary air emission sources, including emergency generators or other onsite power-generation equipment, may require air construction and operating permits from MDEQ. Stormwater and Water Quali"
+      },
+      {
+        "topic": "equipment",
+        "start": 3994,
+        "end": 4014,
+        "match": "emergency generators",
+        "context": "when appropriate, recycling and closed-loop cooling systems. Air Permitting Data centers that install stationary air emission sources, including emergency generators or other onsite power-generation equipment, may require air construction and operating permits from MDEQ. Stormwater and Water Quality Construction activities may require stormwater permit coverage. Projects i"
+      },
+      {
+        "topic": "data_center",
+        "start": 4382,
+        "end": 4393,
+        "match": "data center",
+        "context": "ral Clean Water Act Section 404 permits may also require Section 401 Water Quality Certification from MDEQ. Wastewater Wastewater generated by a data center may require a pretreatment, a permit under the Clean Water Act National Pollutant Discharge Elimination System (NPDES), State Operating Permit or other applicable authorization depending on how the wastewater"
+      },
+      {
+        "topic": "water",
+        "start": 4408,
+        "end": 4420,
+        "match": "pretreatment",
+        "context": "n 404 permits may also require Section 401 Water Quality Certification from MDEQ. Wastewater Wastewater generated by a data center may require a pretreatment, a permit under the Clean Water Act National Pollutant Discharge Elimination System (NPDES), State Operating Permit or other applicable authorization depending on how the wastewater is managed or discharged. P"
+      }
+    ],
+    "links": [
+      [
+        11,
+        "https://youtu.be/3eNqE4ORb08?si=bN3GaRxNS3Pzzcry",
+        "MARAMA – Data Centers & Air Quality Session 2: Permitting Challenges and Pathways"
+      ],
+      [
+        10,
+        "https://www.mdeq.ms.gov/wp-content/uploads/2026/08/DATA-CENTER-FAQS_sm.pdf",
+        "MDEQ Data Center Frequently Asked Questions"
+      ],
+      [
+        10,
+        "https://www.mdeq.ms.gov/wp-content/uploads/2026/08/Data_Center-1.pdf",
+        "MDEQ Environmental Regulations for Data Center Activities"
+      ],
+      [
+        8,
+        "https://datacenters.lbl.gov/",
+        "Center of Expertise for Energy Efficiency in Data Centers"
+      ],
+      [
+        8,
+        "https://search.epa.gov/epasearch/?querytext=datacenter+or+data+center",
+        "Search EPA Resources Related to Data Centers"
+      ],
+      [
+        8,
+        "https://www.deq.virginia.gov/Home/Components/FormBuilder/FormBuilder/07f4654ff2ab42c1ba7ae2dc2dcd0244/983",
+        "Virginia Department of Environmental Quality – Data Center Air Monitoring Project"
+      ],
+      [
+        8,
+        "https://www.energy.gov/cmei/buildings/data-centers-and-servers",
+        "U.S. Department of Energy – Data Centers and Servers"
+      ],
+      [
+        8,
+        "https://www.energy.gov/cmei/femp/cooling-water-efficiency-opportunities-federal-data-centers",
+        "U.S. Department of Energy – Cooling Water Efficiency Opportunities for Federal Data Centers"
+      ],
+      [
+        8,
+        "https://www.energystar.gov/products/data_centers",
+        "ENERGY STAR – Data Centers"
+      ],
+      [
+        8,
+        "https://www.epa.gov/data/data-center-optimization-initiative",
+        "EPA – Data Center Optimization Initiative"
+      ],
+      [
+        8,
+        "https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-resources-data-centers",
+        "EPA – Clean Air Act Resources for Data Centers"
+      ],
+      [
+        8,
+        "https://www.tn.gov/environment/policy/data-centers.html",
+        "Tennessee Department of Environment and Conservation – Data Centers"
+      ],
+      [
+        8,
+        "https://youtu.be/B_ifApg2wQ0?si=veL5gnKy81eQgjaS",
+        "MARAMA – Data Centers & Air Quality Session 3: Compliance & Enforcement"
+      ],
+      [
+        8,
+        "https://youtu.be/HKPTx0oR644?si=4APQp14DZPcWPx6O",
+        "MARAMA – Data Centers & Air Quality Session 1: Introduction"
+      ],
+      [
+        8,
+        "https://youtu.be/Z6jzPCdcWUc?si=FAb2lAr68Xc2Wg9v",
+        "MARAMA – Data Centers & Air Quality Session 4: Impacts on the Grid & Modeling Considerations"
+      ],
+      [
+        3,
+        "https://www.mdeq.ms.gov/permits/",
+        "PERMITS"
+      ],
+      [
+        3,
+        "https://www.mdeq.ms.gov/permits/",
+        "Permits"
+      ],
+      [
+        3,
+        "https://www.mdeq.ms.gov/permits/public-notice-notifications/",
+        "sign up to receive Environmental Permits Division public notices"
+      ],
+      [
+        2,
+        "https://www.mdeq.ms.gov/about-mdeq/regulations/",
+        "REGULATIONS"
+      ],
+      [
+        2,
+        "https://www.mdeq.ms.gov/about-mdeq/regulations/",
+        "Regulations"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Mississippi",
+    "url": "https://www.mdeq.ms.gov/wp-content/uploads/2026/08/DATA-CENTER-FAQS_sm.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Mississippi",
+    "url": "https://www.mdeq.ms.gov/wp-content/uploads/2026/08/Data_Center-1.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Mississippi",
+    "url": "https://www.mdeq.ms.gov/permits/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Ridgeland",
+    "url": "https://storage.googleapis.com/ridgelandms-media/2024/08/2023-09.pdf",
+    "depth": 0,
+    "sha256": "b3b6cfd5321d239f2d64129b3d609f4c3996e3d9d2c0de2e1ee567050c5899c3",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 666,
+        "end": 678,
+        "match": "data centers",
+        "context": ",2019, September 1,2020, and, May 2,2021 after proper notice and public hearings; and WHEREAS, the Mayor and Board of Aldermen desire to clarifr data centers and data center related facilities in the Permined Uses ofthe Technical Industrial Park District in order to further promote the development of Highland Colony Parkway, as those uses are not currently listed i"
+      },
+      {
+        "topic": "data_center",
+        "start": 683,
+        "end": 694,
+        "match": "data\ncenter",
+        "context": "1,2020, and, May 2,2021 after proper notice and public hearings; and WHEREAS, the Mayor and Board of Aldermen desire to clarifr data centers and data center related facilities in the Permined Uses ofthe Technical Industrial Park District in order to further promote the development of Highland Colony Parkway, as those uses are not currently listed in the City's Zon"
+      },
+      {
+        "topic": "data_center",
+        "start": 1358,
+        "end": 1370,
+        "match": "data centers",
+        "context": "hat there exists both a public need and a change in character of the neighborhood for a text amendment to the City's Zoning Ordinance to provide data centers and data center related facilities as new uses; and NOW THEREFORE BE IT ORDAINED, the Mayor and Board of Aldermen of the City of Ridgeland, Mississippi, that the following sections are hereby adopted as amendm"
+      },
+      {
+        "topic": "data_center",
+        "start": 1375,
+        "end": 1386,
+        "match": "data center",
+        "context": "both a public need and a change in character of the neighborhood for a text amendment to the City's Zoning Ordinance to provide data centers and data center related facilities as new uses; and NOW THEREFORE BE IT ORDAINED, the Mayor and Board of Aldermen of the City of Ridgeland, Mississippi, that the following sections are hereby adopted as amendments to the Offi"
+      },
+      {
+        "topic": "permission",
+        "start": 1868,
+        "end": 1881,
+        "match": "permitted use",
+        "context": "acts stated in the Preamble of this Amendment are true and conect. SECTION2 Amend Section 520.02 of the zoning ordinance by adding the following permitted use: I. Data Center including Data Center Related Facilities J. Public/quasi-public facilities and utilities associated with data centers\" SECTION3 Amend Section 2l ofthe Zoning Ordinance by adding thereto the fol"
+      },
+      {
+        "topic": "data_center",
+        "start": 1886,
+        "end": 1897,
+        "match": "Data Center",
+        "context": "Preamble of this Amendment are true and conect. SECTION2 Amend Section 520.02 of the zoning ordinance by adding the following permitted use: I. Data Center including Data Center Related Facilities J. Public/quasi-public facilities and utilities associated with data centers\" SECTION3 Amend Section 2l ofthe Zoning Ordinance by adding thereto the following definitio"
+      },
+      {
+        "topic": "data_center",
+        "start": 1908,
+        "end": 1919,
+        "match": "Data Center",
+        "context": "dment are true and conect. SECTION2 Amend Section 520.02 of the zoning ordinance by adding the following permitted use: I. Data Center including Data Center Related Facilities J. Public/quasi-public facilities and utilities associated with data centers\" SECTION3 Amend Section 2l ofthe Zoning Ordinance by adding thereto the following definitions: \"Data Center: A fa"
+      },
+      {
+        "topic": "data_center",
+        "start": 2003,
+        "end": 2015,
+        "match": "data centers",
+        "context": "following permitted use: I. Data Center including Data Center Related Facilities J. Public/quasi-public facilities and utilities associated with data centers\" SECTION3 Amend Section 2l ofthe Zoning Ordinance by adding thereto the following definitions: \"Data Center: A facility which houses the necessary computer servers or systems, network systems, related hardware"
+      },
+      {
+        "topic": "data_center",
+        "start": 2112,
+        "end": 2123,
+        "match": "Data Center",
+        "context": "ities and utilities associated with data centers\" SECTION3 Amend Section 2l ofthe Zoning Ordinance by adding thereto the following definitions: \"Data Center: A facility which houses the necessary computer servers or systems, network systems, related hardware, wiring, data transmitters and other components required for the ORDINANCE OFN I l0l7t504tv I ORDINANCE 202"
+      },
+      {
+        "topic": "data_center",
+        "start": 2463,
+        "end": 2474,
+        "match": "data center",
+        "context": "I ORDINANCE 2023-09 [Page 2] remote storage (\"cloud storage\"), transfer, backup and recovery, analysis or processing of digital data. Further, a data center may also include a facility that engages in developing computer technology, software development, programming, data analytics and digital media.\" \"Data Center Related Facilities: This term shall include the on"
+      },
+      {
+        "topic": "data_center",
+        "start": 2622,
+        "end": 2633,
+        "match": "Data Center",
+        "context": "y also include a facility that engages in developing computer technology, software development, programming, data analytics and digital media.\" \"Data Center Related Facilities: This term shall include the on-site exterior equipment and facilities necessary for the safe, secure and compatible operation ofa Data Center. Such equipment and facilities may include, but"
+      },
+      {
+        "topic": "data_center",
+        "start": 2784,
+        "end": 2795,
+        "match": "Data Center",
+        "context": "ed Facilities: This term shall include the on-site exterior equipment and facilities necessary for the safe, secure and compatible operation ofa Data Center. Such equipment and facilities may include, but is not limited to: HVAC equipment, emergency power generation units, sound attenuation devices, equipment and facilities necessary to interface with the electric"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Ridgeland",
+    "url": "https://www.ridgelandms.org/city-departments/public-works/community-development/permits-and-inspections/",
+    "depth": 0,
+    "sha256": "4a385a8963730ed242cfa8fc4c8ce8de78c25d2f1c6ae44d227c65bfe496ff24",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "development",
+        "start": 718,
+        "end": 734,
+        "match": "Building Permits",
+        "context": "s Community Development Permits and Inspections Public Works Utilities Transportation Environmental Services Community Development Show More The Building Permits and Inspections Division is charged with reviewing construction drawing packages, performing periodic inspections, and issuing Certificates of Occupancy. Prior to the review of construction plans, commercial a"
+      }
+    ],
+    "links": [
+      [
+        3,
+        "https://www.ridgelandms.org/licenses-forms-permits/",
+        "Licenses, Forms, and Permits Access to various City permit applications, licensing, and Information."
+      ],
+      [
+        3,
+        "https://www.ridgelandms.org/licenses-forms-permits/",
+        "Permit Applications"
+      ],
+      [
+        3,
+        "https://www.ridgelandms.org/ordinances-and-codes/",
+        "Codes and Ordinances"
+      ],
+      [
+        3,
+        "https://www.ridgelandms.org/ordinances-and-codes/",
+        "Ordinances and Codes Access to City ordinances and codes."
+      ],
+      [
+        2,
+        "https://www.ridgelandms.org/wp-content/uploads/2010-PMC-of-CoR.pdf",
+        "Property Maintenance Code"
+      ],
+      [
+        2,
+        "https://www.ridgelandms.org/wp-content/uploads/2023/05/2021-Code-Adoption.pdf",
+        "Building Code"
+      ],
+      [
+        2,
+        "https://www.ridgelandms.org/wp-content/uploads/2026/10/11.26.pdf",
+        "Seniors November 2026 Newsletter"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Ridgeland",
+    "url": "https://www.ridgelandms.org/licenses-forms-permits/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "MS",
+    "jurisdiction": "Ridgeland",
+    "url": "https://www.ridgelandms.org/ordinances-and-codes/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  }
+]

@@ -1,0 +1,562 @@
+{
+  "as_of": "2026-11-15",
+  "method": "Catalog JSON-LD provides titles, date, license, identifiers, and resource URLs. Current workbooks were fetched and hashed; rows counted on All Ordinances only when both State and Feature were nonblank. Local duplicate worksheets and styled empty rows excluded. A feature count is not a count of laws or jurisdictions. CSV manifests counted after decompression when present. Historical and ancillary resource URLs cataloged, not all downloaded.",
+  "repository_commit": "91fda9734cc345b9e441424b59903350afc046b8",
+  "releases": [
+    {
+      "technology": "wind",
+      "release_kind": "predecessor",
+      "title": "U.S. Wind Siting Regulation and Zoning Ordinances",
+      "catalog_url": "https://data.openei.org/submissions/1932",
+      "identifier": "https://doi.org/10.25984/1784284",
+      "published": "2019-09-25",
+      "extraction_software_version": null,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://data.openei.org/files/1932/Wind%20Regulations%20by%20Locality%20%281%29.xlsx"
+      ]
+    },
+    {
+      "technology": "wind",
+      "release_kind": "predecessor",
+      "title": "U.S. Wind Siting Regulation and Zoning Ordinances (2022)",
+      "catalog_url": "https://data.openei.org/submissions/5733",
+      "identifier": "https://doi.org/10.25984/1873866",
+      "published": "2022-06-30",
+      "extraction_software_version": null,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://data.openei.org/files/5733/Wind%20Ordinances.xlsx",
+        "https://windexchange.energy.gov/policies-incentives",
+        "https://www.ncsl.org/energy/state-approaches-to-wind-facility-siting",
+        "https://data.openei.org/submissions/1932",
+        "https://data.openei.org/files/5733/wind_ordinances_2024-10-23.gpkg",
+        "https://data.openei.org/submissions/8397",
+        "https://data.openei.org/submissions/8519"
+      ]
+    },
+    {
+      "technology": "solar",
+      "release_kind": "predecessor",
+      "title": "U.S. Solar Siting Regulation and Zoning Ordinances (2022)",
+      "catalog_url": "https://data.openei.org/submissions/5734",
+      "identifier": "https://doi.org/10.25984/1873867",
+      "published": "2022-06-30",
+      "extraction_software_version": null,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://data.openei.org/files/5734/Solar%20Ordinances.xlsx",
+        "https://data.openei.org/files/5734/solar_ordinances_2024-10-23.gpkg",
+        "https://data.openei.org/submissions/8397",
+        "https://data.openei.org/submissions/8602"
+      ]
+    },
+    {
+      "technology": "wind",
+      "release_kind": "compass",
+      "title": "U.S. Wind Siting Regulation and Zoning Ordinances (2025)",
+      "catalog_url": "https://data.openei.org/submissions/8519",
+      "identifier": "https://doi.org/10.25984/3363758",
+      "published": "2025-09-12",
+      "extraction_software_version": "0.8.2",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://data.openei.org/submissions/8397",
+        "https://data.openei.org/submissions/5733",
+        "https://github.com/NREL/COMPASS",
+        "https://data.openei.org/files/8519/Wind%20Ordinances%20reVX%202025-09-12.gpkg",
+        "https://data.openei.org/files/8519/Wind%20Ordinances%202025%20%281%29.xlsx"
+      ],
+      "workbook_audit": {
+        "download_bytes": 2733185,
+        "sha256": "1178c79bff4eb88ed423639ccea0af3b1120d4b63c32ae5138bd2fdcacf9268f",
+        "sheet_names": [
+          "All Ordinances",
+          "State-Level",
+          "County-Level",
+          "Municipal-Level",
+          "Column Descriptions",
+          "Ordinance Types"
+        ],
+        "all_ordinances_columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type",
+          "County Subdivision FIPS Code",
+          "Feature",
+          "Value",
+          "Units",
+          "Summary",
+          "Setback Adder",
+          "Minimum Setback Distance",
+          "Maximum Setback Distance",
+          "Section",
+          "Ordinance Year",
+          "Source URL"
+        ],
+        "data_rows_with_state_and_feature": 12297,
+        "feature_frequencies": {
+          "Property Line (Non-Participating)": 1056,
+          "Decommissioning": 988,
+          "Roads": 881,
+          "Structures (Non-Participating)": 874,
+          "Color": 790,
+          "Lighting": 761,
+          "Noise": 737,
+          "Special Use Districts": 735,
+          "Climbing Prevention": 704,
+          "Signage": 667,
+          "Blade Clearance": 571,
+          "Maximum Height": 522,
+          "Transmission": 488,
+          "Visual Impact": 417,
+          "Soil": 348,
+          "Shadow Flicker": 311,
+          "Prohibitions": 215,
+          "Water": 188,
+          "Structures (Participating)": 160,
+          "Minimum Lot Size": 147,
+          "Primary Use Districts": 146,
+          "Railroads": 127,
+          "Tower Density": 119,
+          "Maximum Project Size": 116,
+          "Accessory Use Districts": 111,
+          "Property Line (Participating)": 67,
+          "Repowering": 24,
+          "Maximum Lot Size": 17,
+          "Other Wecs": 10
+        }
+      }
+    },
+    {
+      "technology": "solar",
+      "release_kind": "compass",
+      "title": "U.S. Solar Siting Regulation and Zoning Ordinances (2025)",
+      "catalog_url": "https://data.openei.org/submissions/8602",
+      "identifier": "https://doi.org/10.25984/3363739",
+      "published": "2025-12-30",
+      "extraction_software_version": "0.11.3",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://github.com/NREL/COMPASS",
+        "https://data.openei.org/submissions/8397",
+        "https://data.openei.org/submissions/5734",
+        "https://data.openei.org/files/8602/Solar%20Ordinances%202025.xlsx",
+        "https://data.openei.org/files/8602/Solar%20Ordinances%20reVX%202025-12-30.gpkg"
+      ],
+      "workbook_audit": {
+        "download_bytes": 4197277,
+        "sha256": "8bceb085ddb76117176c326aa42b35fe0eca983a2ebc1760fca57ce32320dca7",
+        "sheet_names": [
+          "All Ordinances",
+          "State-Level",
+          "County-Level",
+          "Municipal-Level",
+          "Column Descriptions",
+          "Ordinance Types"
+        ],
+        "all_ordinances_columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type",
+          "County Subdivision FIPS Code",
+          "Feature",
+          "Value",
+          "Units",
+          "Summary",
+          "Setback Adder",
+          "Section",
+          "Ordinance Year",
+          "Source URL"
+        ],
+        "data_rows_with_state_and_feature": 11481,
+        "feature_frequencies": {
+          "Decommissioning": 1130,
+          "Screening": 1027,
+          "Property Line (Non-Participating)": 954,
+          "Fencing": 908,
+          "Special Use Districts": 867,
+          "Maximum Height": 808,
+          "Signage": 757,
+          "Soil": 720,
+          "Glare": 716,
+          "Structures (Non-Participating)": 608,
+          "Roads": 528,
+          "Minimum Lot Size": 457,
+          "Visual Impact": 432,
+          "Prohibited Use Districts": 344,
+          "Noise": 331,
+          "Coverage": 200,
+          "Maximum Lot Size": 138,
+          "Water": 124,
+          "Primary Use Districts": 85,
+          "Public Conservation Lands": 61,
+          "Maximum Project Size": 47,
+          "Repowering": 46,
+          "Prohibitions": 39,
+          "Other Secs": 36,
+          "Accessory Use Districts": 34,
+          "Transmission": 26,
+          "Railroads": 21,
+          "Structures (Participating)": 18,
+          "Property Line (Participating)": 17,
+          "Panel Spacing": 2
+        }
+      }
+    },
+    {
+      "technology": "geothermal_heat_pumps",
+      "release_kind": "compass",
+      "title": "U.S. Geothermal Heat Pump Siting Regulation and Zoning Ordinances (2026)",
+      "catalog_url": "https://data.openei.org/submissions/11679",
+      "identifier": "https://data.openei.org/submissions/11679",
+      "published": "2026-09-21",
+      "extraction_software_version": "0.22.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://github.com/NatLabRockies/COMPASS",
+        "https://gdr.openei.org/files/1876/Geothermal%20Heat%20Pump%20Ordinances%202026%20%281%29.xlsx",
+        "https://gdr.openei.org/files/1876/Geothermal%20Heat%20Pump%20Ordinances%20reVX%202026-09-21%20%281%29.gpkg",
+        "https://gdr.openei.org/files/1876/Geothermal%20Heat%20Pump%20Searched%20Jurisdictions%20%281%29.csv",
+        "https://gdr.openei.org/files/1876/Geothermal%20Heat%20Pump%20Searched%20Jurisdictions%20%281%29.gpkg"
+      ],
+      "workbook_audit": {
+        "download_bytes": 619415,
+        "sha256": "ad688bcb2c9dfa5b08fc2685834bb63407b2157fc7dbec720b290f80c1c15e8d",
+        "sheet_names": [
+          "All Ordinances",
+          "State-Level",
+          "County-Level",
+          "Municipal-Level",
+          "Column Descriptions",
+          "Ordinance Types"
+        ],
+        "all_ordinances_columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type",
+          "County Subdivision FIPS Code",
+          "Feature",
+          "Value",
+          "Units",
+          "Summary",
+          "Section",
+          "Ordinance Year",
+          "Source URL"
+        ],
+        "data_rows_with_state_and_feature": 2638,
+        "feature_frequencies": {
+          "Permit": 428,
+          "Definition: Geothermal Heat Pump": 277,
+          "Inspection": 205,
+          "Decommissioning": 180,
+          "Definition: Well": 135,
+          "Certification": 134,
+          "Other Prohibitions/Regulations": 133,
+          "Setback - Property Lines": 130,
+          "Open-loop Prohibitions": 129,
+          "Setback - Wastewater": 90,
+          "Definition: Geothermal": 84,
+          "Licensed Driller": 83,
+          "Setback - Sewer Lines": 65,
+          "Setback - Building Foundation": 53,
+          "Screening": 53,
+          "Setback - Water Bodies": 47,
+          "Setback - Public Water": 46,
+          "Setback - Hazardous Materials/Fertilizers": 41,
+          "Setback - Right of Way": 39,
+          "Maximum Well Depth": 37,
+          "Setback - Private Water": 32,
+          "Setback - Fuel (above ground)": 31,
+          "Setback - Water Lines": 29,
+          "Setback - Animal Enclosures": 28,
+          "Setback - Yards": 25,
+          "Setback - Roads": 25,
+          "Minimum Well Depth": 24,
+          "Noise Limits": 17,
+          "Setback - Fuel (below ground)": 14,
+          "Setback - Subsurface Drains": 8,
+          "Setback - Driveways": 7,
+          "Closed-loop Prohibitions": 5,
+          "Setback - Pools": 4
+        }
+      },
+      "search_manifest_audit": {
+        "sha256_download": "ccdc29c05d268712f71c5bacca87b7bd5a575bd2302d3464573520cc4d0a3819",
+        "download_bytes": 1295575,
+        "columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type"
+        ],
+        "data_rows": 39314
+      }
+    },
+    {
+      "technology": "geothermal_electricity",
+      "release_kind": "compass",
+      "title": "U.S. Geothermal Electricity Siting Regulation and Zoning Ordinances (2026)",
+      "catalog_url": "https://data.openei.org/submissions/11680",
+      "identifier": "https://data.openei.org/submissions/11680",
+      "published": "2026-09-21",
+      "extraction_software_version": "0.18.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://gdr.openei.org/files/1877/Geothermal%20Electricity%20Ordinances%202026.xlsx",
+        "https://gdr.openei.org/files/1877/Geothermal%20Electricity%20Ordinances%20reVX%202026-09-21.gpkg",
+        "https://gdr.openei.org/files/1877/Geothermal%20Electricity%20Searched%20Jurisdictions.csv",
+        "https://gdr.openei.org/files/1877/Geothermal%20Electricity%20Searched%20Jurisdictions.gpkg",
+        "https://github.com/NatLabRockies/COMPASS"
+      ],
+      "workbook_audit": {
+        "download_bytes": 179816,
+        "sha256": "8b07c8b7ee9a9a9b0f2790357ee0a03a656f109437911fdbb71ced85bd246b8d",
+        "sheet_names": [
+          "All Ordinances",
+          "State-Level",
+          "County-Level",
+          "Municipal-Level",
+          "Column Descriptions",
+          "Ordinance Types"
+        ],
+        "all_ordinances_columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type",
+          "County Subdivision FIPS Code",
+          "Feature",
+          "Value",
+          "Units",
+          "Summary",
+          "Section",
+          "Ordinance Year",
+          "Source URL"
+        ],
+        "data_rows_with_state_and_feature": 344,
+        "feature_frequencies": {
+          "Permit": 76,
+          "Special Use Districts": 56,
+          "Decommissioning": 24,
+          "Setback - Property Lines": 19,
+          "Lighting": 17,
+          "Setback - Roads": 15,
+          "Fencing": 13,
+          "Visual Impact Assessment": 12,
+          "Setback - Residential Zones": 11,
+          "Prohibitions": 11,
+          "Primary Use Districts": 11,
+          "Maximum Structure Height": 10,
+          "Minimum Lot Size": 10,
+          "Noise Limits": 9,
+          "Setback - Water Bodies": 8,
+          "Color": 8,
+          "Seismic Monitoring Plan": 7,
+          "Setback - Schools": 6,
+          "Setback - Hospitals": 6,
+          "Drilling Start Time": 4,
+          "Drilling End Time": 4,
+          "Bond": 2,
+          "Setback - Domestic Wells": 2,
+          "Setback - Combustible Tanks": 1,
+          "Setback - Railroads": 1,
+          "Setback - Transmission Lines": 1
+        }
+      },
+      "search_manifest_audit": {
+        "sha256_download": "83ed197ea53032c93c0ac1f710aade069207e7a0de26525a45e0e815a46e8bc7",
+        "download_bytes": 323769,
+        "columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type"
+        ],
+        "data_rows": 9835
+      }
+    },
+    {
+      "technology": "high_voltage_transmission",
+      "release_kind": "compass",
+      "title": "U.S. High-Voltage Transmission Siting Regulation and Zoning Ordinances (2026)",
+      "catalog_url": "https://data.openei.org/submissions/8787",
+      "identifier": "https://data.openei.org/submissions/8787",
+      "published": "2026-09-29",
+      "extraction_software_version": "0.28.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://github.com/NatLabRockies/COMPASS",
+        "https://data.openei.org/files/8787/transmission_jurisdictions.csv.gz",
+        "https://data.openei.org/files/8787/transmission_searched_jurisdictions.gpkg",
+        "https://data.openei.org/files/8787/Transmission%20Ordinances%202026-09-30.xlsx",
+        "https://data.openei.org/files/8787/Transmission%20Ordinances%20reVX%202026-09-30%20%282%29.gpkg"
+      ],
+      "workbook_audit": {
+        "download_bytes": 1912430,
+        "sha256": "2a4484a326636223ccf071427f1a9053a574afe54505e31a7ac91e9b917c94d5",
+        "sheet_names": [
+          "All Ordinances",
+          "State-Level",
+          "County-Level",
+          "Municipal-Level",
+          "Column Descriptions",
+          "Ordinance Types"
+        ],
+        "all_ordinances_columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type",
+          "County Subdivision FIPS Code",
+          "Feature",
+          "Value",
+          "Units",
+          "Summary",
+          "Section",
+          "Ordinance Year",
+          "Source URL"
+        ],
+        "data_rows_with_state_and_feature": 7706,
+        "feature_frequencies": {
+          "Permit": 1740,
+          "District Use Restriction": 732,
+          "Traffic Disruption": 609,
+          "Vegetation Management": 548,
+          "Bond": 471,
+          "Franchise": 448,
+          "Fencing": 370,
+          "Maximum Structure Height": 352,
+          "Voltage Threshold": 336,
+          "Decommissioning": 331,
+          "Maximum Tower Height": 263,
+          "FAA": 198,
+          "Lighting": 182,
+          "Setback - Property Lines": 172,
+          "Excluded Lands": 164,
+          "Setback - Roads": 148,
+          "Signage": 145,
+          "Noise Limits": 140,
+          "Color": 104,
+          "Setback - Structures": 95,
+          "Setback - Residential Buildings": 67,
+          "Setback - Ordinary High Water Mark": 44,
+          "Fire Prevention": 28,
+          "Setback - Railroads": 10,
+          "Setback - Airport": 8,
+          "Electric Field": 1
+        }
+      },
+      "search_manifest_audit": {
+        "sha256_download": "8639c247a8cd1a26dce374364bcbab3b652cd87925d663f62bcbc38f607af6bf",
+        "download_bytes": 241249,
+        "columns": [
+          "State",
+          "County",
+          "Subdivision",
+          "Jurisdiction Type"
+        ],
+        "data_rows": 39314
+      }
+    },
+    {
+      "technology": "county_fips",
+      "release_kind": "supporting_raster",
+      "title": "U.S. Counties FIPS Layer",
+      "catalog_url": "https://data.openei.org/submissions/8397",
+      "identifier": "https://data.openei.org/submissions/8397",
+      "published": "2024-01-01",
+      "extraction_software_version": null,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "resources": [
+        "https://data.openei.org/files/8397/county_fips_codes%20%281%29.tif",
+        "https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "public_viewer",
+      "title": "NLR COMPASS map and ordinance browser",
+      "url": "https://compass.nlr.gov/"
+    },
+    {
+      "id": "repository",
+      "title": "COMPASS source snapshot",
+      "url": "https://github.com/NatLabRockies/COMPASS/tree/91fda9734cc345b9e441424b59903350afc046b8"
+    },
+    {
+      "id": "architecture",
+      "title": "Technical notes, retrieval and extraction",
+      "url": "https://github.com/NatLabRockies/COMPASS/blob/91fda9734cc345b9e441424b59903350afc046b8/docs/source/misc/about.rst"
+    },
+    {
+      "id": "validation",
+      "title": "Stage-specific validation results",
+      "url": "https://natlabrockies.github.io/COMPASS/val/validation.html"
+    },
+    {
+      "id": "schemas",
+      "title": "Technology-specific extraction source",
+      "url": "https://github.com/NatLabRockies/COMPASS/tree/91fda9734cc345b9e441424b59903350afc046b8/compass/extraction"
+    },
+    {
+      "id": "extension",
+      "title": "One-shot schema extension example",
+      "url": "https://github.com/NatLabRockies/COMPASS/tree/91fda9734cc345b9e441424b59903350afc046b8/examples/one_shot_schema_extraction"
+    },
+    {
+      "id": "original_maps",
+      "title": "Manual wind and solar data release, provenance and maps",
+      "url": "https://www.nlr.gov/news/detail/program/2022/nrel-releases-comprehensive-databases-of-local-ordinances-for-siting-wind-solar-energy-projects"
+    },
+    {
+      "id": "land_model",
+      "title": "Lopez et al., Impact of siting ordinances on land availability for wind and solar development",
+      "url": "https://doi.org/10.1038/s41560-023-01319-3"
+    },
+    {
+      "id": "llm_paper",
+      "title": "Buster et al., Supporting energy policy research with large language models",
+      "url": "https://doi.org/10.1016/j.egyai.2024.100431"
+    },
+    {
+      "id": "wind_slides",
+      "title": "NREL presentation on large language models and energy policy research",
+      "url": "https://www.nrel.gov/docs/fy24osti/87896.pdf"
+    },
+    {
+      "id": "siting_slides",
+      "title": "Understanding How Siting Ordinances Impact Wind and Solar Resource Availability",
+      "url": "https://docs.nlr.gov/docs/fy23osti/85461.pdf"
+    },
+    {
+      "id": "final_solar",
+      "title": "Solar Siting and Land-Use in Decarbonized Energy Systems: Final Technical Report",
+      "url": "https://docs.nlr.gov/docs/fy25osti/91812.pdf"
+    },
+    {
+      "id": "solar_storage_early",
+      "title": "Earlier Solar Prize CRADA: siting and permitting scoping",
+      "url": "https://docs.nlr.gov/docs/fy25osti/95408.pdf"
+    },
+    {
+      "id": "solar_storage",
+      "title": "Solar Prize Round 7 solar and battery storage permitting CRADA final report",
+      "url": "https://doi.org/10.66816/tp6884965"
+    },
+    {
+      "id": "dc_guidance",
+      "title": "Oteri, Common Elements of Data Center Ordinances",
+      "url": "https://doi.org/10.66816/pr2486936"
+    },
+    {
+      "id": "rev",
+      "title": "NLR reV and Siting Lab relationship",
+      "url": "https://www.nlr.gov/gis/rev"
+    }
+  ]
+}

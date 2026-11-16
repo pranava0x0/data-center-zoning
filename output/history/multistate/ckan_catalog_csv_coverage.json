@@ -1,0 +1,8 @@
+{
+  "source": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
+  "catalog": "https://data.virginia.gov/dataset/data-center-buildings",
+  "inventory_rows": 247,
+  "without_permit_number": 151,
+  "distinct_permit_files": 96,
+  "capture": "2026-11-16T03:02:24+00:00"
+}

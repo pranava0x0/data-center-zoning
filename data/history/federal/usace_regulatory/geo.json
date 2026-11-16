@@ -1,0 +1,506 @@
+{
+  "-82.72115,41.43046": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.72115%2C41.43046&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "529c10161fd91eba89237812046eb30d40a58b38e29c5920a425d167d8e14254",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-87.99478,41.98408": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-87.99478%2C41.98408&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "8278978bb1d959b918b8e18ca7be18d217ca96721d8cde172e711f113f163c92",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-86.46918,41.66519": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-86.46918%2C41.66519&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "898a5d784e86d77679225978bd474cdeb0c75adf636ccbb9df02507f356f79b0",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-82.71516,40.13111": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.71516%2C40.13111&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "2e7f1f86daee70194e747fff7f07b5c6aa47cb4c2b17fcf1e9a410eb42c5d5ce",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-83.32403,40.22": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-83.32403%2C40.22&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "e8df2a0762b9c19e431eb00ca6e8524c3d149fde0a2f986167d317e4260705aa",
+    "bytes": 509,
+    "ext": "json"
+  },
+  "-82.74649,40.12302": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.74649%2C40.12302&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "2e7f1f86daee70194e747fff7f07b5c6aa47cb4c2b17fcf1e9a410eb42c5d5ce",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-81.36555,40.76819": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.36555%2C40.76819&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "e9780c34f0fa2f07df68325fd337bee42a5e831aec62dd989055a516f89e2ee9",
+    "bytes": 509,
+    "ext": "json"
+  },
+  "-86.53691,40.05542": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-86.53691%2C40.05542&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "62318145de99550caaafa6b1c60de84481ac5e81c41ef8bc07051ed821ed0d95",
+    "bytes": 509,
+    "ext": "json"
+  },
+  "-86.56834,40.29733": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-86.56834%2C40.29733&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "acf17103dd84b4a2181d006ca840a385143b7f7becaa305a9b854d4490f646a4",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-85.7544,35.69789": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-85.7544%2C35.69789&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c987e3ae4a6d0580006b68890665c4faf6354116ea3a6fb9b8b5a46499f2d571",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-91.63546,32.50796": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-91.63546%2C32.50796&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "8a98d89db2ebb3069896b690fd8c6d35c64081cb986017613dc0adabf31d7957",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-93.63693,44.80777": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-93.63693%2C44.80777&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "2980ba944d8d13e3b7b8d852eda97c2842f6775e3a5638017dc05788135b525a",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-87.93117,42.69045": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-87.93117%2C42.69045&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "1f267d0073e2e3cbaa9eaa6366f7892d0215db2e93f945f1f2edab2664f420f7",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-87.96785,42.62425": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-87.96785%2C42.62425&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "8eeb7971325204831cad1a45830067240f9ad0109a61e595574b4fbdcdb0fd79",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-90.1528,38.58895": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-90.1528%2C38.58895&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "2505b76ad91fc16c2dbf4c76984b8072f884013042a4cee5a442c5fe373a6e7b",
+    "bytes": 513,
+    "ext": "json"
+  },
+  "-76.14667,41.08492": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-76.14667%2C41.08492&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "5c6ea8f72b43f8ac5aca2216ff402a94697aadb8d204ea2f551f4f19c7c16e87",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-76.14747,41.075": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-76.14747%2C41.075&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "5c6ea8f72b43f8ac5aca2216ff402a94697aadb8d204ea2f551f4f19c7c16e87",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-76.07972,40.96849": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-76.07972%2C40.96849&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "5c6ea8f72b43f8ac5aca2216ff402a94697aadb8d204ea2f551f4f19c7c16e87",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-75.56518,41.51736": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-75.56518%2C41.51736&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "41f508d6357c20991569084a75f5fc47bf5942424780be53bdd63fff71669145",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-75.51817,41.51567": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-75.51817%2C41.51567&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "41f508d6357c20991569084a75f5fc47bf5942424780be53bdd63fff71669145",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-77.58056,38.79056": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.58056%2C38.79056&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-77.42964,38.99763": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.42964%2C38.99763&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.32602,37.35976": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.32602%2C37.35976&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "9e87b1229e09e6b4c03021f3389e8fe977e7dac6fa788f863e7135b4b99a0c04",
+    "bytes": 516,
+    "ext": "json"
+  },
+  "-77.54472,38.77056": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.54472%2C38.77056&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-77.67455,38.75246": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.67455%2C38.75246&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "a8a3c0fb398460a02c205b0ecb5eb9796c95d282b2aa875fa32e63eb0e555ff2",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-77.47897,39.06736": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.47897%2C39.06736&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-78.10336,36.74314": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.10336%2C36.74314&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "027205b97709de0f1738564c3f90c93e5145500277ff0ebad2201ee590e08ef1",
+    "bytes": 515,
+    "ext": "json"
+  },
+  "-77.54404,38.79761": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.54404%2C38.79761&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-77.53414,39.10166": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.53414%2C39.10166&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.51012,38.73148": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.51012%2C38.73148&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-77.58246,38.80044": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.58246%2C38.80044&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-78.36606,36.66675": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.36606%2C36.66675&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "027205b97709de0f1738564c3f90c93e5145500277ff0ebad2201ee590e08ef1",
+    "bytes": 515,
+    "ext": "json"
+  },
+  "-77.41679,38.98241": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.41679%2C38.98241&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.53421,38.79807": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.53421%2C38.79807&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-77.43505,38.98674": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.43505%2C38.98674&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.54095,39.05514": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.54095%2C39.05514&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.2628,37.5097": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.2628%2C37.5097&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "892a194b11cc6f7f0979c506627fbbf37b241b12e1ef6230f8750a1c3c98f33f",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.47653,38.21989": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.47653%2C38.21989&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "ebf4fd62364861fa867f81f1ddc98c1091a595a588506750e4dab19d9465547e",
+    "bytes": 516,
+    "ext": "json"
+  },
+  "-77.45067,38.98966": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.45067%2C38.98966&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.50698,39.07973": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.50698%2C39.07973&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.45166,39.01378": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.45166%2C39.01378&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c3804fcf6ad3cc5b8bdec184e5a33372ce51c0411c2e38df5bb52af748c91c3d",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-77.58628,38.77059": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.58628%2C38.77059&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-77.41778,38.38583": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.41778%2C38.38583&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "4915d100975af16ef8e76b7e08ea650e049c95b498c9ba8a813bc4914f9719be",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-77.49889,38.11177": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.49889%2C38.11177&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "f2d26bde8591c3a4a04a5743549f8787c939055149b6e6a99a1e7bb167da9289",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-77.94178,37.97775": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.94178%2C37.97775&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "55ca8131cde04d8a74b65b758f85bb6b5d8eda5a211b1db9a88d46f3357c5e0f",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-78.36872,36.65223": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.36872%2C36.65223&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "027205b97709de0f1738564c3f90c93e5145500277ff0ebad2201ee590e08ef1",
+    "bytes": 515,
+    "ext": "json"
+  },
+  "-78.5098,36.62766": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.5098%2C36.62766&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "027205b97709de0f1738564c3f90c93e5145500277ff0ebad2201ee590e08ef1",
+    "bytes": 515,
+    "ext": "json"
+  },
+  "-77.59266,38.79712": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.59266%2C38.79712&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "690463b609fdeaf1124d6c9cf329a420afe4956d879923a04f804ab9e271091e",
+    "bytes": 518,
+    "ext": "json"
+  },
+  "-78.02314,37.90039": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.02314%2C37.90039&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "55ca8131cde04d8a74b65b758f85bb6b5d8eda5a211b1db9a88d46f3357c5e0f",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-77.69241,37.49554": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.69241%2C37.49554&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "9e87b1229e09e6b4c03021f3389e8fe977e7dac6fa788f863e7135b4b99a0c04",
+    "bytes": 516,
+    "ext": "json"
+  },
+  "-77.75901,37.43986": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-77.75901%2C37.43986&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "9e87b1229e09e6b4c03021f3389e8fe977e7dac6fa788f863e7135b4b99a0c04",
+    "bytes": 516,
+    "ext": "json"
+  },
+  "-94.86656,38.78931": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-94.86656%2C38.78931&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "f198e32d84641c8f9145fb2b6723c4724232a7c17709147dda678de6db966002",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-97.43919,37.58532": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-97.43919%2C37.58532&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "bd37d0ca3f35db866f5d209c0f0c93eb8bbdd801f53df56b7ead4264a2e3283f",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-96.64819,40.90156": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-96.64819%2C40.90156&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "29d666906990fdd525c25d59cfd21713fa12462d6dab1f3cb58e7da9c90562a4",
+    "bytes": 513,
+    "ext": "json"
+  },
+  "-98.68107,47.02573": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-98.68107%2C47.02573&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "4a0261aae90303cf073f1188cd06404a1378e7fa4f80655d4c60229714be1635",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-122.91837,45.56781": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-122.91837%2C45.56781&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-122.9378,45.5606": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-122.9378%2C45.5606&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-123.08009,45.51538": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-123.08009%2C45.51538&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-122.9554,45.5343": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-122.9554%2C45.5343&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+    "bytes": 514,
+    "ext": "json"
+  },
+  "-81.11047,35.03433": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.11047%2C35.03433&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "527ab787f443e1634d75a96cf082fff18a1e1f692353fe54823f35a1f151327d",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-81.10574,35.04201": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.10574%2C35.04201&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "527ab787f443e1634d75a96cf082fff18a1e1f692353fe54823f35a1f151327d",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-84.59075,33.75861": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-84.59075%2C33.75861&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "63a7726d5cd7aed804f375051905915fd9721426f57dadbf2743ade4ceacd342",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-82.32839,33.51128": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.32839%2C33.51128&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "532f0b4d06c36051c14d229cdc295d696cde6a4d39411d541945f305b018b4f0",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-84.60519,33.74213": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-84.60519%2C33.74213&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "63a7726d5cd7aed804f375051905915fd9721426f57dadbf2743ade4ceacd342",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-84.05118,33.6876": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-84.05118%2C33.6876&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "3e11adc3bbf13165546a0f84e0866f4b9b9facbabf871dbe80be5d224bb2abc5",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-84.04721,33.69151": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-84.04721%2C33.69151&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "3e11adc3bbf13165546a0f84e0866f4b9b9facbabf871dbe80be5d224bb2abc5",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-82.16464,33.44264": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.16464%2C33.44264&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "68553c47ec3268d157dee7e1456f237371b25de5bdf3bae97995798b101ec9c3",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-84.33175,33.6291": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-84.33175%2C33.6291&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "6e4c7b99a77b404cb6a187346e388259099bef236a024a387adc0e9b6db2f769",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-84.78555,33.74431": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-84.78555%2C33.74431&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "63a7726d5cd7aed804f375051905915fd9721426f57dadbf2743ade4ceacd342",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-81.31796,35.62032": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.31796%2C35.62032&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "df40f3954ace2cfce1f7a5b2c5fa97655cd2d8cddd021d08d90c842b4f60b8c1",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-81.20539,35.73135": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.20539%2C35.73135&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "df40f3954ace2cfce1f7a5b2c5fa97655cd2d8cddd021d08d90c842b4f60b8c1",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-80.97242,35.77743": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-80.97242%2C35.77743&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "6a4a6762f3f89811207fb57c6471e2736231029c54b1a4c319baea5fcd62e14e",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-78.99316,36.47829": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.99316%2C36.47829&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "a4f26d09135f3d93bdac18eae70b1bb30a22ea6d96d9299d4ab9eadcdc23d15e",
+    "bytes": 510,
+    "ext": "json"
+  },
+  "-121.76926,37.99614": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-121.76926%2C37.99614&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "8a35a83ec65dca7d35b6ee2e0a608061dac40f0951051fdf86844ff19363093d",
+    "bytes": 516,
+    "ext": "json"
+  },
+  "-119.29751,39.41066": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-119.29751%2C39.41066&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "aa55b6b08caccedf388c90a2493fa959e91d05d80eeb15bf32ddbf4d79764117",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-119.29195,39.40446": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-119.29195%2C39.40446&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "aa55b6b08caccedf388c90a2493fa959e91d05d80eeb15bf32ddbf4d79764117",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-121.93636,37.4251": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-121.93636%2C37.4251&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "594019eef1f59d40f7f00f14f5c05e96000358c399f2a3417aff3d18a11c740a",
+    "bytes": 515,
+    "ext": "json"
+  },
+  "-95.72938,29.06071": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-95.72938%2C29.06071&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "caefbfe7f98d9236be45e7a6bd70d85dd91601d4048486f2770cf02dcb3fd65f",
+    "bytes": 512,
+    "ext": "json"
+  },
+  "-95.73321,36.13691": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-95.73321%2C36.13691&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "7b3828750dafd8afdcb9b6ce6f5458c494ddc38d30cfc0dc7a7a4746971a319a",
+    "bytes": 511,
+    "ext": "json"
+  },
+  "-95.918,34.69549": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-95.918%2C34.69549&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "c8237ad2e3594827dfc432c9f16afdad873f1e8b556c950bdbd77d5f05c7b9a4",
+    "bytes": 513,
+    "ext": "json"
+  },
+  "-100.70719,35.57372": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-100.70719%2C35.57372&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "b6b9bbdaab6707b0bc1bc7b92d09af3b7073cbeea9a661f883a9d8c67bd20387",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-82.97465,39.01325": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.97465%2C39.01325&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "150e55e1690e1b11bb72b9f298f36878470da10e62d95d08e06e9e13a62686eb",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-82.94631,39.00718": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-82.94631%2C39.00718&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "150e55e1690e1b11bb72b9f298f36878470da10e62d95d08e06e9e13a62686eb",
+    "bytes": 508,
+    "ext": "json"
+  },
+  "-85.30534,34.3029": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-85.30534%2C34.3029&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+    "sha256": "345548127d7a25084879e6f1c064e3300c2eb524150321a082fc3c16801a2838",
+    "bytes": 509,
+    "ext": "json"
+  }
+}

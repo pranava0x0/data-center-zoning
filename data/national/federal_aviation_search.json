@@ -1,0 +1,4192 @@
+{
+  "agency": "FAA",
+  "public_catalog": "https://oeaaa.faa.gov/oeaaa/oe3a/external/portal-api/getReportYearsPerRegion.do",
+  "as_of": "2026-11-15",
+  "summary": {
+    "case_rows": 1807354,
+    "literal_matches": 1863,
+    "included": 1679,
+    "held": 184,
+    "malformed_rows": 31
+  },
+  "by_state": {
+    "AL": 10,
+    "AR": 2,
+    "AZ": 90,
+    "CA": 67,
+    "CO": 11,
+    "FL": 4,
+    "GA": 190,
+    "IA": 62,
+    "IL": 149,
+    "IN": 6,
+    "KY": 1,
+    "MD": 14,
+    "MI": 5,
+    "MN": 12,
+    "MO": 15,
+    "MS": 2,
+    "NC": 3,
+    "ND": 2,
+    "NE": 11,
+    "NJ": 10,
+    "NM": 3,
+    "NV": 55,
+    "OH": 97,
+    "OK": 10,
+    "OR": 28,
+    "PA": 7,
+    "SC": 6,
+    "TN": 6,
+    "TX": 212,
+    "UT": 46,
+    "VA": 515,
+    "WA": 14,
+    "WI": 4,
+    "WY": 10
+  },
+  "files": [
+    {
+      "region": "AAL",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1995List.gzip",
+      "sha256": "7c59e5bc595b5e928bca54d4a7f0eeafad85f73bf0949f9110c8000a997f4eb3",
+      "case_rows": 44
+    },
+    {
+      "region": "AAL",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1996List.gzip",
+      "sha256": "0fadb162dd9e4378ebe8bd7849dd5f1fc029419630fa70b233045305bc5988c6",
+      "case_rows": 104
+    },
+    {
+      "region": "AAL",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1997List.gzip",
+      "sha256": "ba99b84b85006e05910c28659b082ba4c1408900591fc8d5df850a8b220a39e0",
+      "case_rows": 99
+    },
+    {
+      "region": "AAL",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1998List.gzip",
+      "sha256": "f6fc16004eaeb89f371043b8d6286469b502b56a56eb10a8a64b04f1ec4776a8",
+      "case_rows": 71
+    },
+    {
+      "region": "AAL",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1999List.gzip",
+      "sha256": "9bd4f74a396bca7775309d32b228ef17c663eff8d812956c90cf0648721152a0",
+      "case_rows": 195
+    },
+    {
+      "region": "AAL",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2000List.gzip",
+      "sha256": "f2d77b1f6c595af720d32fdfab35587b5e2532baa268cb8cb0b258f8d80e7a4f",
+      "case_rows": 221
+    },
+    {
+      "region": "AAL",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2001List.gzip",
+      "sha256": "3869a19b593706e1e8ba42f03657f40b7d65bfe319571ba08f69ef93d18757f6",
+      "case_rows": 301
+    },
+    {
+      "region": "AAL",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2002List.gzip",
+      "sha256": "c75454c46956a354313ab444f9fa24362685525e0854ded761cebdb3cc5a6bd3",
+      "case_rows": 214
+    },
+    {
+      "region": "AAL",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2003List.gzip",
+      "sha256": "74bc365ce8d0988ef608798bbf37af6c20abdb2fba7cb58e2f5a492b2e048e11",
+      "case_rows": 584
+    },
+    {
+      "region": "AAL",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2004List.gzip",
+      "sha256": "f64a3b7e6bbf5852423ef34d08affa0f4f911e8c3f459e0386bad0a61a8311f2",
+      "case_rows": 383
+    },
+    {
+      "region": "AAL",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2005List.gzip",
+      "sha256": "99e67c2c1e0da828010f415e3ee12585eb9e092d84bd67e9f00f5418eff12751",
+      "case_rows": 236
+    },
+    {
+      "region": "AAL",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2006List.gzip",
+      "sha256": "133296c2ccd48c607467636c68cd332449e99354e9e6c4c7acfbb05091e4cca1",
+      "case_rows": 473
+    },
+    {
+      "region": "AAL",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2007List.gzip",
+      "sha256": "553ce543b10e537209fa979b301f45ae74c511d04d1b6b4b4e030d47bc0b0a47",
+      "case_rows": 244
+    },
+    {
+      "region": "AAL",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2008List.gzip",
+      "sha256": "03b2fa595ad482ae189f17ca3f50e8066949bd2119ebde4e2423dd8d3af26eda",
+      "case_rows": 545
+    },
+    {
+      "region": "AAL",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2009List.gzip",
+      "sha256": "c5873e5c27b982e184ab479d85d560253cae3711dfff3cb4dcc2a8914ba2f53f",
+      "case_rows": 173
+    },
+    {
+      "region": "AAL",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2010List.gzip",
+      "sha256": "716814259f276418f1fdf51427bccb6cf8673d0983eb1b5fb9d00d9769ea0850",
+      "case_rows": 131
+    },
+    {
+      "region": "AAL",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2011List.gzip",
+      "sha256": "b3adb8d30c389f68fbb3ccfcb11faa3eeb492c52f4160b342bb38520916db468",
+      "case_rows": 200
+    },
+    {
+      "region": "AAL",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2012List.gzip",
+      "sha256": "6f1125f7ab0b5666a215f516fe7a416c0b8514c5e37e9e865b6fe81eade66a46",
+      "case_rows": 312
+    },
+    {
+      "region": "AAL",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2013List.gzip",
+      "sha256": "4a1eab55efd011539b6a9ea26f19908dc831d7dda7c27d07e6462346f554daf9",
+      "case_rows": 421
+    },
+    {
+      "region": "AAL",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2014List.gzip",
+      "sha256": "f3c7c287daffadae465ce913535c38dc3738b94d06a658762668fbe972fe32a7",
+      "case_rows": 183
+    },
+    {
+      "region": "AAL",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2015List.gzip",
+      "sha256": "81502dd14e56408a2027062b3db00bd2b1bba4a6699ccf5cb3512fa69670692c",
+      "case_rows": 294
+    },
+    {
+      "region": "AAL",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2016List.gzip",
+      "sha256": "f40d0a3eb2037b616e261464fa2113ada426d4866621d1cb69c7f24a32cb75e7",
+      "case_rows": 749
+    },
+    {
+      "region": "AAL",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2017List.gzip",
+      "sha256": "a93dba367fc1ebc0ef4fd94e45fe2ac0db7769e1a73df34ca3bd3155dcd65859",
+      "case_rows": 191
+    },
+    {
+      "region": "AAL",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2018List.gzip",
+      "sha256": "5568724a9b37f472d148a979d52aa348dfa197f395257e718e9d7496d71613ed",
+      "case_rows": 283
+    },
+    {
+      "region": "AAL",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2019List.gzip",
+      "sha256": "36aec4dd175c7a9875f0ac9ca58a1a24b8dbee019a483c17f7ba2707fad74518",
+      "case_rows": 208
+    },
+    {
+      "region": "AAL",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2020List.gzip",
+      "sha256": "ae8a458c5b6e7519ce1b7bb78676233ba0bf57e5c52d8faf8a15de9a9c6c77df",
+      "case_rows": 468
+    },
+    {
+      "region": "AAL",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2021List.gzip",
+      "sha256": "7dfd3837f43f9bc11f7095862fbf1c1b8d15161051b386d6494dfcbb4f41fe74",
+      "case_rows": 348
+    },
+    {
+      "region": "AAL",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2022List.gzip",
+      "sha256": "644aa170f4c0454ca93b0e990ad2f49250a23dc15c15cb6ee922f0921b327eb8",
+      "case_rows": 751
+    },
+    {
+      "region": "AAL",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2023List.gzip",
+      "sha256": "9dc272dd6adf4553f8c9a052e820aaed751d7dadea53fceac4fec92dec9b2a12",
+      "case_rows": 1471
+    },
+    {
+      "region": "AAL",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2024List.gzip",
+      "sha256": "c9dd1a583fda8b2f68ce6d33e11cf9fdb84c7c6f9ec90a60f705c7191a0f07e1",
+      "case_rows": 1715
+    },
+    {
+      "region": "AAL",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2025List.gzip",
+      "sha256": "f998e71f6834a6d291de2414e8c1b5448653a4475847a9464d53e2127fc6117e",
+      "case_rows": 1201
+    },
+    {
+      "region": "AAL",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2026List.gzip",
+      "sha256": "68767da860bff2032f111cf8c2511c877366f028f149914aa75fad31b7752769",
+      "case_rows": 3064
+    },
+    {
+      "region": "ACE",
+      "year": 1988,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1988List.gzip",
+      "sha256": "764b229b75acc3f18b39c41b4cf74a411107781b1a2d37b8a06f4c5f62d62dd0"
+    },
+    {
+      "region": "ACE",
+      "year": 1989,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1989List.gzip",
+      "sha256": "27a1eaf009869d22855e77b78e3b5b22587819a1b3ad6e1010948957e2053677",
+      "case_rows": 3
+    },
+    {
+      "region": "ACE",
+      "year": 1994,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1994List.gzip",
+      "sha256": "64c6993eef885c384d103e0c2f7d50fd4d59b2db8d04fbe1c851e8ea3a764221",
+      "case_rows": 1
+    },
+    {
+      "region": "ACE",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1995List.gzip",
+      "sha256": "d6dd672d98a10f41c35f1fc7b67b602c07e420779d3bab6301ef2971ab12c0be",
+      "case_rows": 110
+    },
+    {
+      "region": "ACE",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1996List.gzip",
+      "sha256": "8e2bef4fbc550fb7edbda29e948a19e40c1fe99cd168e7536c1ceb764ec96a16",
+      "case_rows": 1011
+    },
+    {
+      "region": "ACE",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1997List.gzip",
+      "sha256": "d9ddaa39383ab1bb91abf87fe0b046aa32d27e8e4de456b305180f5d2dc9e00f",
+      "case_rows": 1233
+    },
+    {
+      "region": "ACE",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1998List.gzip",
+      "sha256": "d522a03661a63ef269860b3f256f2321ddd8a5d11c1c613cf24695db2c8ed940",
+      "case_rows": 986
+    },
+    {
+      "region": "ACE",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1999List.gzip",
+      "sha256": "b22476165338820fe4828754215a67a0bf7ed97f85617f3eb9f01f8a9e028fbc",
+      "case_rows": 1006
+    },
+    {
+      "region": "ACE",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2000List.gzip",
+      "sha256": "a8d894a02084713f9a804c5016e91cba1bb984cddb28b866ee92503c6e0e8356",
+      "case_rows": 1499
+    },
+    {
+      "region": "ACE",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2001List.gzip",
+      "sha256": "77a8a20cbd793c40a241c32c1c71997e598b975e4bc920a5591ab1bfce068900",
+      "case_rows": 1473
+    },
+    {
+      "region": "ACE",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2002List.gzip",
+      "sha256": "233b5c1f08a767f8b6e1355414a1245d86d72025f099c79a6ac9ac1a695fdc84",
+      "case_rows": 1448
+    },
+    {
+      "region": "ACE",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2003List.gzip",
+      "sha256": "940e63efbf7b5de90e855db7cc4993ba26ef73f2af63954be26132e07bcaee85",
+      "case_rows": 1601
+    },
+    {
+      "region": "ACE",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2004List.gzip",
+      "sha256": "9549c920492330eda66867e797fbd98f6f2ebb9addee527b98ad00f240768ff2",
+      "case_rows": 1480
+    },
+    {
+      "region": "ACE",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2005List.gzip",
+      "sha256": "139b8b603f4aa175026395798fa3257364148b112db37577d3584e9d3f730eae",
+      "case_rows": 1889
+    },
+    {
+      "region": "ACE",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2006List.gzip",
+      "sha256": "2141ae2a0c596dda33e158754f7f4b33ad96696d5c01b49d8987d1f4eae3feab",
+      "case_rows": 1632
+    },
+    {
+      "region": "ACE",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2007List.gzip",
+      "sha256": "980284bc9252f9208334e778fb9dde7920bdbddd43afe6575781b3691fc8b015",
+      "case_rows": 2558
+    },
+    {
+      "region": "ACE",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2008List.gzip",
+      "sha256": "8a62048014178dc5671e802eec84ad02fa5271f2056f798b491513857b8638b6",
+      "case_rows": 2000
+    },
+    {
+      "region": "ACE",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2009List.gzip",
+      "sha256": "71b6a2789f6e899478caafd4f77a8bd56ff935209c28a6278fd1d9b457941a7c",
+      "case_rows": 1346
+    },
+    {
+      "region": "ACE",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2010List.gzip",
+      "sha256": "5293cce0f98e5282fa97d4a1582b31c45cce77799c3a0a6573ab26a7f6ed3a89",
+      "case_rows": 2259
+    },
+    {
+      "region": "ACE",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2011List.gzip",
+      "sha256": "06b0e21f5e1f2edda0f53a4a838eb8d0c5d0556f856880e220d87bba53252761",
+      "case_rows": 2025
+    },
+    {
+      "region": "ACE",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2012List.gzip",
+      "sha256": "6acc3fbb37422bb165ba076f5c1c4784651038ef43dac5a1b373539b9c26b8bb",
+      "case_rows": 2656,
+      "literal_matches": 4,
+      "included": 4
+    },
+    {
+      "region": "ACE",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2013List.gzip",
+      "sha256": "16e9377c936bed2e15370af538fa0030938ddcf18860b9235c7c9b5c0465d70b",
+      "case_rows": 2207
+    },
+    {
+      "region": "ACE",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2014List.gzip",
+      "sha256": "cb307b2e71d52c96c5cc65974c9abcdb44cd64a59a0369557801429dbf7a4787",
+      "case_rows": 3164
+    },
+    {
+      "region": "ACE",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2015List.gzip",
+      "sha256": "c82d26e2ebdf939e7b10326b7f4c9955b450ec60f636dc611d15dbc07cf11d0c",
+      "case_rows": 2872,
+      "literal_matches": 4,
+      "included": 4
+    },
+    {
+      "region": "ACE",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2016List.gzip",
+      "sha256": "a67ebb3584cf511aa9f39eadceb8523d4b2d9353ba1fb5729701795ee66dbba1",
+      "case_rows": 3630,
+      "literal_matches": 3,
+      "included": 3
+    },
+    {
+      "region": "ACE",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2017List.gzip",
+      "sha256": "59e8735e8482f958daa83729467ca67d9d1bf4208b0fbeccec165b50b7a29852",
+      "case_rows": 4534
+    },
+    {
+      "region": "ACE",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2018List.gzip",
+      "sha256": "51dfbb8d20ac3de4292c0e6ee9c0743917de22a22a5ad566c35acd780fd74710",
+      "case_rows": 7463,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "ACE",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2019List.gzip",
+      "sha256": "a7595c15b3b9510c7c4d3bcfff6faadd9573c15e3acec095de5431b59fd7acf7",
+      "case_rows": 7115,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ACE",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2020List.gzip",
+      "sha256": "d1491e65175b08a746d59aa8c9655752e89107e7e2fa9997fbf4c8d477d21249",
+      "case_rows": 6913,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ACE",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2021List.gzip",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "Empty or unrecognized archive, no cases examined"
+    },
+    {
+      "region": "ACE",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2022List.gzip",
+      "sha256": "eb1d04e3b32d6da81b561bba45ce6580e4ccc1b505a055e4297b7f575104a9fb",
+      "case_rows": 6883,
+      "literal_matches": 10,
+      "included": 10
+    },
+    {
+      "region": "ACE",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2023List.gzip",
+      "sha256": "3bf6d9aee9f8d1416bd478c53d5e3def60c70177a185226fe45ccdd0ec8df92a",
+      "case_rows": 5865,
+      "literal_matches": 9,
+      "included": 9
+    },
+    {
+      "region": "ACE",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip",
+      "sha256": "bb687211b9f1eb16daf27e5da627dbd616581cc05529e2afc1921e4b797686b4",
+      "case_rows": 7110,
+      "literal_matches": 72,
+      "held": 52,
+      "included": 20
+    },
+    {
+      "region": "ACE",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2025List.gzip",
+      "sha256": "0a0c224c4540c6cf7e0b108063e733cf7fc375f3e69b71e83864b49cb90d420e",
+      "case_rows": 9325,
+      "literal_matches": 12,
+      "included": 12
+    },
+    {
+      "region": "ACE",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2026List.gzip",
+      "sha256": "208d734f60a183a5b3bf730d041bc2a625a303bb2e0b92b280df74bb100dfee0",
+      "case_rows": 7374,
+      "literal_matches": 23,
+      "included": 22,
+      "held": 1
+    },
+    {
+      "region": "AEA",
+      "year": 1977,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1977List.gzip",
+      "sha256": "3844de3facaa72d746086f71fb9adaa0afd9babffd6cdd4bcc4ab647c18e3812"
+    },
+    {
+      "region": "AEA",
+      "year": 1981,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1981List.gzip",
+      "sha256": "3844de3facaa72d746086f71fb9adaa0afd9babffd6cdd4bcc4ab647c18e3812"
+    },
+    {
+      "region": "AEA",
+      "year": 1984,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1984List.gzip",
+      "sha256": "682697e6d69dc67a6c2b2bc9be5f5c1b299d84e0ae0e3065db6d6d1d4a600195",
+      "case_rows": 1590
+    },
+    {
+      "region": "AEA",
+      "year": 1985,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1985List.gzip",
+      "sha256": "6d1d003e5eb9f6cd12bde26f2978d31b11db0d94831bda303af8410ed533443b",
+      "case_rows": 1072
+    },
+    {
+      "region": "AEA",
+      "year": 1986,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1986List.gzip",
+      "sha256": "6f875cc61ff2287027fd96dc0ddf75973b0fb0239b984df86505c2ac603819ae",
+      "case_rows": 1428
+    },
+    {
+      "region": "AEA",
+      "year": 1987,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1987List.gzip",
+      "sha256": "bc1c1944ad9bbfaf6b2877da5959eeb2629e416d7ef8499a433da54bb0f405bf",
+      "case_rows": 1046
+    },
+    {
+      "region": "AEA",
+      "year": 1988,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1988List.gzip",
+      "sha256": "6fbad853aff6bc3a272a11cb8941ecea7519b2c3a90759fe76b97718e41c0652",
+      "case_rows": 1072
+    },
+    {
+      "region": "AEA",
+      "year": 1989,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1989List.gzip",
+      "sha256": "d4e7eab31413188f1fe83d054f759f16fe0ec6480885e0d5257b91364f53240e",
+      "case_rows": 1177
+    },
+    {
+      "region": "AEA",
+      "year": 1990,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1990List.gzip",
+      "sha256": "091d47550b530e5418382bb3577cd4e17c64c6f9c3e260064dea67a651b56aef",
+      "case_rows": 1091
+    },
+    {
+      "region": "AEA",
+      "year": 1991,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1991List.gzip",
+      "sha256": "1e19061bf041fe6b285c34967552196d745d88307127292f0d4ca39eae43fe59",
+      "case_rows": 1252
+    },
+    {
+      "region": "AEA",
+      "year": 1992,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1992List.gzip",
+      "sha256": "d99853cac2f068faded942956fa18758aedb7319501b8607a435131bea104dff",
+      "case_rows": 1266
+    },
+    {
+      "region": "AEA",
+      "year": 1993,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1993List.gzip",
+      "sha256": "e96061da1d183f58251856e10b079d7d361264305f0da7853b359e20d64cdd67",
+      "case_rows": 1402
+    },
+    {
+      "region": "AEA",
+      "year": 1994,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1994List.gzip",
+      "sha256": "2d75497fe72ba6a0d4322ff08d26ba7b2f7d855500a9cceb7565eeb82b35294f",
+      "case_rows": 1349,
+      "malformed_rows": 1
+    },
+    {
+      "region": "AEA",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1995List.gzip",
+      "sha256": "626285bfff0a62b7c523ba7dccceb28963afe35cb731e823f47ff0e5e00c0162",
+      "case_rows": 1379
+    },
+    {
+      "region": "AEA",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1996List.gzip",
+      "sha256": "6bb99e3b11388ada0cdf1b539074c2c4ed119cc8c9ad813a3c0b3769525b6cd8",
+      "case_rows": 1720,
+      "malformed_rows": 2
+    },
+    {
+      "region": "AEA",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1997List.gzip",
+      "sha256": "eae45f1194d500432720598a7dfa5e3b10e62b13a1d77ce13d8570b985f36bb3",
+      "case_rows": 2609
+    },
+    {
+      "region": "AEA",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1998List.gzip",
+      "sha256": "4bb08e740d36cf7a36bc7a605bdce80f5b4b5857cc78dd9c95b059b228f858e9",
+      "case_rows": 2105
+    },
+    {
+      "region": "AEA",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1999List.gzip",
+      "sha256": "a59e446979f6cb1813a12969639f0dfdedf1b78f277e08cc01cda2db6584d01b",
+      "case_rows": 2109
+    },
+    {
+      "region": "AEA",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2000List.gzip",
+      "sha256": "33e31a3ddb3764a9e0d1882c1a765d42ce67f0ddf5fc81e0f1f5ace071a62ace",
+      "case_rows": 2706
+    },
+    {
+      "region": "AEA",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2001List.gzip",
+      "sha256": "32c75b110d0ee6febe436717549b5cf07d5d8240a0b44a072c45d439bb483d85",
+      "case_rows": 3134
+    },
+    {
+      "region": "AEA",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2002List.gzip",
+      "sha256": "2e6bdd4e488c718676e09d892d4f8def3159cdeb8297d7534620b89ad1df40f5",
+      "case_rows": 1948
+    },
+    {
+      "region": "AEA",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2003List.gzip",
+      "sha256": "e2a607c6ec09c60a540cdf65b5e289ca6635117a76ddc99f0d356f825512d4cf",
+      "case_rows": 1911
+    },
+    {
+      "region": "AEA",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2004List.gzip",
+      "sha256": "2e3481cc89ca3c5f9aa7271d696638e240d0525f46aa26dfef0c4807ee6a7c33",
+      "case_rows": 1844
+    },
+    {
+      "region": "AEA",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2005List.gzip",
+      "sha256": "b17ed8b42891dd9460b1fd8c2005cbf0a990515c168eab5a952a8a823676006a",
+      "case_rows": 2002
+    },
+    {
+      "region": "AEA",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2006List.gzip",
+      "sha256": "e31d2185e0ab0ec1e92ee7ebf0fb8f488125aa9656d94712cf7612513fd4f068",
+      "case_rows": 2851,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AEA",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2007List.gzip",
+      "sha256": "cc762c61c923125bebaaf3407c60fd8d3a80fd958e79a06ca966e4a48cab2b18",
+      "case_rows": 2492,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "AEA",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2008List.gzip",
+      "sha256": "cf48099d4e67450ad89b0873272dcae5488414c48ea7c6de2f310a4faa1aa11a",
+      "case_rows": 2270
+    },
+    {
+      "region": "AEA",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2009List.gzip",
+      "sha256": "b76d53ab003bb8181ce441732530c0561c4f7d463661da02ebbd1aa9516c58e3",
+      "case_rows": 1878,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AEA",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2010List.gzip",
+      "sha256": "f9fb8fe23fe4d6697e4a61a4726a7c3a6665e8673218652c89e0fba1403d179e",
+      "case_rows": 2457
+    },
+    {
+      "region": "AEA",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2011List.gzip",
+      "sha256": "34d1f2c90937ea7fcb14bf0e6037a645343a54ba85af02e70ac3fbfbae55aade",
+      "case_rows": 2485,
+      "literal_matches": 3,
+      "included": 3
+    },
+    {
+      "region": "AEA",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2012List.gzip",
+      "sha256": "a5a4219caa78d90814bfd76bc53c052f4c31d3b97492e3ba19795b2c582ea719",
+      "case_rows": 3482,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "AEA",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2013List.gzip",
+      "sha256": "816ae11342d958f5d6f1281753675579e22d778247be24218b8efbb38e8d45ba",
+      "case_rows": 3770,
+      "literal_matches": 4,
+      "included": 4
+    },
+    {
+      "region": "AEA",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2014List.gzip",
+      "sha256": "98d5edf864e2a11c32c12987c04b63f87e945e46ee68b0ba286a1dbd85e4772c",
+      "case_rows": 4174,
+      "literal_matches": 3,
+      "included": 3
+    },
+    {
+      "region": "AEA",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2015List.gzip",
+      "sha256": "0a744ceeb1f88b8c91d3a12af75f99af18764f99db414b689a591f5e3e7cf4f3",
+      "case_rows": 4374,
+      "literal_matches": 3,
+      "included": 3
+    },
+    {
+      "region": "AEA",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2016List.gzip",
+      "sha256": "4e6586a73bba01f84aedefb23bb41e7ab06f67b5103be505737b96a75121c22e",
+      "case_rows": 6394,
+      "literal_matches": 10,
+      "included": 10
+    },
+    {
+      "region": "AEA",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2017List.gzip",
+      "sha256": "41e88d5d4d23765ca9e6a7d021f480f54d75a5e14590f890fab03154bfdc6b81",
+      "case_rows": 7683,
+      "literal_matches": 4,
+      "included": 4
+    },
+    {
+      "region": "AEA",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2018List.gzip",
+      "sha256": "ba258b7177a85e9f528e2aaf1d88cb83018d4f03b6f88dfd4937ee0842f191cd",
+      "case_rows": 9445,
+      "literal_matches": 18,
+      "included": 18
+    },
+    {
+      "region": "AEA",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2019List.gzip",
+      "sha256": "81864721723f2758ec91df1c71f9d13a06867bf5d7c681b7e129e3a6e61a1ab0",
+      "case_rows": 9961,
+      "literal_matches": 21,
+      "included": 21
+    },
+    {
+      "region": "AEA",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2020List.gzip",
+      "sha256": "e323be1f3df39153096bfbace1071927f28371106918409548e9432c37242554",
+      "case_rows": 8874,
+      "literal_matches": 28,
+      "included": 28
+    },
+    {
+      "region": "AEA",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2021List.gzip",
+      "sha256": "b26165be66170ac6f7399071836e8078fed6eaf5bed692a6df3e8fa8d6cd274b",
+      "case_rows": 12785,
+      "literal_matches": 58,
+      "included": 58
+    },
+    {
+      "region": "AEA",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2022List.gzip",
+      "sha256": "552c390d13329500aef2d53fbd358e38826e8a14218d1af563134155f2cff4ad",
+      "case_rows": 14875,
+      "literal_matches": 70,
+      "included": 68,
+      "held": 2
+    },
+    {
+      "region": "AEA",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip",
+      "sha256": "5af4077e2b6f7cc0482856d0eba42fa44382f0f4f8b82aa2bab0656eed9eb8df",
+      "case_rows": 14929,
+      "literal_matches": 121,
+      "included": 109,
+      "held": 12
+    },
+    {
+      "region": "AEA",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip",
+      "sha256": "d76b3384401ced990b0a9656b2e2d4f9ce3039fd19818a08bfc6b11709aa0fe8",
+      "case_rows": 13643,
+      "literal_matches": 85,
+      "included": 80,
+      "held": 5
+    },
+    {
+      "region": "AEA",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip",
+      "sha256": "589bafd20e7172f1c31040c4beec3addda766de15a67e05d0f4bca222161443c",
+      "case_rows": 14635,
+      "literal_matches": 96,
+      "included": 75,
+      "held": 21
+    },
+    {
+      "region": "AEA",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip",
+      "sha256": "22b6dcd40c8758040c1d07d1eb36784891b11cec93238d84784a05af050c9a01",
+      "case_rows": 15492,
+      "literal_matches": 82,
+      "included": 56,
+      "held": 26
+    },
+    {
+      "region": "AGL",
+      "year": 1990,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1990List.gzip",
+      "sha256": "6606ccfc2a792c49e17d7871f62b8f5fbc9d782a267ea2735ea33ce62f8aed4a",
+      "case_rows": 1282
+    },
+    {
+      "region": "AGL",
+      "year": 1991,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1991List.gzip",
+      "sha256": "22b708db1ff33b4f2a93625c30fd80e9b0d3c1b6d87b88243b4d30470a2c137e",
+      "case_rows": 2078
+    },
+    {
+      "region": "AGL",
+      "year": 1992,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1992List.gzip",
+      "sha256": "25e0b2277f2d696c562fd9b6e232bb7ecc13c4eb46094fccae8ece64f3e4c908",
+      "case_rows": 2162
+    },
+    {
+      "region": "AGL",
+      "year": 1993,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1993List.gzip",
+      "sha256": "0481720090dd8cd4483e907e052aec33675c41af3b9f306176d7e9b29c151bf4",
+      "case_rows": 2183
+    },
+    {
+      "region": "AGL",
+      "year": 1994,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1994List.gzip",
+      "sha256": "059124468efbd9a4ee0318ce607a36667ba75de32007df0b0ecd6076a0ddd5e7",
+      "case_rows": 2269
+    },
+    {
+      "region": "AGL",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1995List.gzip",
+      "sha256": "e3689b40604d4b1eb9893114c0c9483bf05d3edfef22d011e1367f51890f098b",
+      "case_rows": 2520
+    },
+    {
+      "region": "AGL",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1996List.gzip",
+      "sha256": "202ddf7a0654d301e87425d140fe0a43475f69f4da66e96d23ff271f94273464",
+      "case_rows": 3371
+    },
+    {
+      "region": "AGL",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1997List.gzip",
+      "sha256": "d62a737f22d00eb056041ad8224bc1d0c9bd8a8a6a1325ce9368ed96cc524780",
+      "case_rows": 4470
+    },
+    {
+      "region": "AGL",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1998List.gzip",
+      "sha256": "adfc5635512115360e052fc2dc1fa6adc4f5ebe8973018f391e6eb89b2cd4c08",
+      "case_rows": 4316
+    },
+    {
+      "region": "AGL",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1999List.gzip",
+      "sha256": "146eba8eb44f7c73c3758e3afa5ff5841b0247333212feb7db6a8e1493f6cbbd",
+      "case_rows": 4427,
+      "malformed_rows": 2
+    },
+    {
+      "region": "AGL",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2000List.gzip",
+      "sha256": "52cd444905aa5e6d33e10a24353f6fea63ef07f41fac3346f286c11b1c4743ff",
+      "case_rows": 6261
+    },
+    {
+      "region": "AGL",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2001List.gzip",
+      "sha256": "8d147e8dbf7da7c57a04f2ef2607c249c2de52ca1c5043f8b3956ff36dc0cc4d",
+      "case_rows": 5798
+    },
+    {
+      "region": "AGL",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2002List.gzip",
+      "sha256": "2f74a23f4f7e9a058db07f7ec4e10421a2634d17361a45da1bfd513e979dbc13",
+      "case_rows": 4658
+    },
+    {
+      "region": "AGL",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2003List.gzip",
+      "sha256": "41d3123db9fef8c5292023c46f93fd2ab1643762d2171c3eeace89c179967a3f",
+      "case_rows": 4882,
+      "malformed_rows": 1
+    },
+    {
+      "region": "AGL",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2004List.gzip",
+      "sha256": "b5109ce7596ee9db0e538115536450436591240224ae2e56023932ecfad2f657",
+      "case_rows": 5000
+    },
+    {
+      "region": "AGL",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2005List.gzip",
+      "sha256": "d1984906624abd84afa6ddfcf674b94091d63820672321c1f880e57075ceb4d8",
+      "case_rows": 4567
+    },
+    {
+      "region": "AGL",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2006List.gzip",
+      "sha256": "e33a4992d036327fcedd71bde2e9f5da5866149d54897fc19dbc0f015d7e4ee4",
+      "case_rows": 4674
+    },
+    {
+      "region": "AGL",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2007List.gzip",
+      "sha256": "9b96951a83ba2de1b9fcfc7b5d8ffe999159324496df488accfef88e7ed3b344",
+      "case_rows": 5184,
+      "literal_matches": 4,
+      "included": 4
+    },
+    {
+      "region": "AGL",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2008List.gzip",
+      "sha256": "9ac96ccecbd5b9a969236eef320c1a958657857d81fde8ce803e1d9c6cabeef1",
+      "case_rows": 4192,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AGL",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2009List.gzip",
+      "sha256": "49d565e00dbd3672ae4e07c6f292cd9150a8fe6e19034eac78b601130ffa09d1",
+      "case_rows": 4246
+    },
+    {
+      "region": "AGL",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2010List.gzip",
+      "sha256": "bf611a9f68ca42f911261f1a1d06c56f478ab6d36087f783d75ed3f04b8d01b8",
+      "case_rows": 4044,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "AGL",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2011List.gzip",
+      "sha256": "85744e1ab153e07814bd8d2a62cc6e84eb8e931c9bd530b76ba655cf66925938",
+      "case_rows": 4700
+    },
+    {
+      "region": "AGL",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2012List.gzip",
+      "sha256": "38405f71cffcdb6c73e270e886a28dc1ece02b602af6864dc843fcfca72030a0",
+      "case_rows": 7049,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AGL",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2013List.gzip",
+      "sha256": "6863953e8f81d624cfa4d0b2784befc0e940478c72543c33360ba8258650873e",
+      "case_rows": 7004
+    },
+    {
+      "region": "AGL",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2014List.gzip",
+      "sha256": "0b32860d49100e95463a5da6587384b5a08f924c43b22406174f1b678d5edd4d",
+      "case_rows": 8193
+    },
+    {
+      "region": "AGL",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2015List.gzip",
+      "sha256": "63683db6eb0204d6c8a20f23d41875e9da3d60cd27ee91af6e58d47ff3650929",
+      "case_rows": 8734
+    },
+    {
+      "region": "AGL",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2016List.gzip",
+      "sha256": "95684334f04d4a7cbd1a019b7ae6eebf7ba4a4c2139cf6834ad51523b5e9795f",
+      "case_rows": 9739,
+      "malformed_rows": 1
+    },
+    {
+      "region": "AGL",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2017List.gzip",
+      "sha256": "197bd1f430a0553616765448d21430a99a0e820e2745e402f9e0d22a160571f5",
+      "case_rows": 11461
+    },
+    {
+      "region": "AGL",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2018List.gzip",
+      "sha256": "d62efa79bfd3d8971fea457d3d3633afd9e4571cd3183681a71f55207db8fd52",
+      "case_rows": 13883,
+      "literal_matches": 6,
+      "included": 6
+    },
+    {
+      "region": "AGL",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2019List.gzip",
+      "sha256": "21f834c476a275f7cec18ccba4c35845239364e2ab210c2d2fdea0f74354caa3",
+      "case_rows": 13396,
+      "literal_matches": 5,
+      "included": 5
+    },
+    {
+      "region": "AGL",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2020List.gzip",
+      "sha256": "c397dfa6af14d80bd31e70162a57ea570be292a43ad8c3be8a1f8c007fc4d10c",
+      "case_rows": 15420,
+      "literal_matches": 12,
+      "included": 12
+    },
+    {
+      "region": "AGL",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2021List.gzip",
+      "sha256": "93170a3d16ccb67bcbaa08b2c52071c6c6336e2f511019305fbf3bb2b12a5b5c",
+      "case_rows": 23345,
+      "literal_matches": 5,
+      "included": 5
+    },
+    {
+      "region": "AGL",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2022List.gzip",
+      "sha256": "49fd2f775d26e3065a2f3770d004248a621d912a01b6b6407ad5d863453abcab",
+      "case_rows": 20998
+    },
+    {
+      "region": "AGL",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2023List.gzip",
+      "sha256": "3f58b1fad5f5007854082c4c5ad06ebcc1959b4a7a9157ac01d4eef97aefb354",
+      "case_rows": 22389,
+      "literal_matches": 68,
+      "included": 68
+    },
+    {
+      "region": "AGL",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2024List.gzip",
+      "sha256": "a509819ee2cb7c726743dfedb5bbdf104d3d208c61f0585963d4acfdd2716a9a",
+      "case_rows": 20559,
+      "literal_matches": 50,
+      "included": 49,
+      "held": 1
+    },
+    {
+      "region": "AGL",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip",
+      "sha256": "69c3e55633ede839af00c725cb17358552356bf42cd1711dd299494a85f62daf",
+      "case_rows": 22108,
+      "literal_matches": 43,
+      "included": 41,
+      "held": 2
+    },
+    {
+      "region": "AGL",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip",
+      "sha256": "081486746aba2279cdddf7e24acef0276409769f8a4e3b3e3270c90efd5e1833",
+      "case_rows": 26575,
+      "literal_matches": 86,
+      "included": 81,
+      "held": 5
+    },
+    {
+      "region": "ANE",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1996List.gzip",
+      "sha256": "7b316d1da5c1639f94eb85ad49bf73a5a082a9cbd1f9000d0adba78e365b492d",
+      "case_rows": 451
+    },
+    {
+      "region": "ANE",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1997List.gzip",
+      "sha256": "228606049719448c242428cd20e22bae1565de3e9c44dc53823be5cbae153ea1",
+      "case_rows": 598
+    },
+    {
+      "region": "ANE",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1998List.gzip",
+      "sha256": "cc52ecaece24d3faf71dc8a5f449831c9edb06a152e12e00f10ea02d6c06f527",
+      "case_rows": 470
+    },
+    {
+      "region": "ANE",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1999List.gzip",
+      "sha256": "22119bf4266c636ffc18093a68c2ec6c312916b1dcda3cb8c2aaf427ebda1238",
+      "case_rows": 546
+    },
+    {
+      "region": "ANE",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2000List.gzip",
+      "sha256": "3e56bf6736da0a35000bb0eda27883c042947ee1f7451c9a16a6a5c2806fbe7f",
+      "case_rows": 547
+    },
+    {
+      "region": "ANE",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2001List.gzip",
+      "sha256": "49a42079582e5fc5be853c84a0b4f9f3c24ac3fa20459b64396a0418a1cfb3ca",
+      "case_rows": 615
+    },
+    {
+      "region": "ANE",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2002List.gzip",
+      "sha256": "8174ba06fcd23d6cd7c7a70260e5cf2525dd776d82002193d1dc2e44d8d895ed",
+      "case_rows": 552
+    },
+    {
+      "region": "ANE",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2003List.gzip",
+      "sha256": "b850da246e469dd478747ab96348ad58b2d771b27e219615d080413805bd3a7c",
+      "case_rows": 439
+    },
+    {
+      "region": "ANE",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2004List.gzip",
+      "sha256": "372e8e9ee97bdbf4a9af6a2c3fe0dc026a5f2a1a097314637b9ef15336439f1b",
+      "case_rows": 696
+    },
+    {
+      "region": "ANE",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2005List.gzip",
+      "sha256": "d469a85ad77ebc4f3b90142179cb2c3c850317431c8e0575da85d3445224804c",
+      "case_rows": 587
+    },
+    {
+      "region": "ANE",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2006List.gzip",
+      "sha256": "c8b9b293d4ff79682c06cc75e987ee65ab734a1db13d5c43101a39653b75fcd9",
+      "case_rows": 604
+    },
+    {
+      "region": "ANE",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2007List.gzip",
+      "sha256": "ce9e6aec82f51dfcb26a7e39533691c2de8db50e148765e4f33cf4657edb2de4",
+      "case_rows": 713
+    },
+    {
+      "region": "ANE",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2008List.gzip",
+      "sha256": "7665fb04ef65f42f085c7e128a9884fdcb28dee18d1b4adf749a001c42e609ee",
+      "case_rows": 591
+    },
+    {
+      "region": "ANE",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2009List.gzip",
+      "sha256": "da7c13c138ef392c37ed3ee1175b8987a1f396434829a509c2354e18edab9239",
+      "case_rows": 618
+    },
+    {
+      "region": "ANE",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2010List.gzip",
+      "sha256": "9870743f2f85962b9c821879c6e1eb80f7f6786b0e2caef119cb13a356135c5f",
+      "case_rows": 614
+    },
+    {
+      "region": "ANE",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2011List.gzip",
+      "sha256": "385327ddff15ea19a3661eeaf9c8ed3c354c3655e6e87d721ddb9af07daea240",
+      "case_rows": 1025
+    },
+    {
+      "region": "ANE",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2012List.gzip",
+      "sha256": "ff00cfaa4dcb2c84cff72c4b2fb37022d3b6084182a9beaa45fff075bfc0204c",
+      "case_rows": 971
+    },
+    {
+      "region": "ANE",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2013List.gzip",
+      "sha256": "4353111abf8063684484fdb516732b12fd59ec23a72ab8a198fc8ae7b536d47b",
+      "case_rows": 1047
+    },
+    {
+      "region": "ANE",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2014List.gzip",
+      "sha256": "81d960079a5d4fe86e3c0eb2915c48dd050219825d4442ae5e8b22c350d6de14",
+      "case_rows": 1232
+    },
+    {
+      "region": "ANE",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2015List.gzip",
+      "sha256": "ca0a1742392e7804c21044eb2b5cb2494e995465ba6c65f9145973fca8314a9b",
+      "case_rows": 942
+    },
+    {
+      "region": "ANE",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2016List.gzip",
+      "sha256": "3bc2b263c8d4245fa8b1dc0d202eae7a676c17d5725a6ec47741bc40218334c1",
+      "case_rows": 1966
+    },
+    {
+      "region": "ANE",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2017List.gzip",
+      "sha256": "f3a2adc9ef8f207937cd9f59fc51c2d3129fb5087265e3191eb4ddaa20dfb1d8",
+      "case_rows": 2802
+    },
+    {
+      "region": "ANE",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2018List.gzip",
+      "sha256": "73ac33bf7d58306ec71b8464021f634a8ddbaf14e2878358d88154cf89778bd0",
+      "case_rows": 4040
+    },
+    {
+      "region": "ANE",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2019List.gzip",
+      "sha256": "4021f82fcf91a9481541af81542afaed6813163626708a43bdcfaad379c5c243",
+      "case_rows": 4222
+    },
+    {
+      "region": "ANE",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2020List.gzip",
+      "sha256": "b7997aaf6a820dd41fb22d186405a03d6b91b5accfa231551d16f17e8bf3f89a",
+      "case_rows": 5250
+    },
+    {
+      "region": "ANE",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2021List.gzip",
+      "sha256": "f9e42826046084f91f7410dc1dbdaae82b31fa72479d06f373d8fe74b9a14730",
+      "case_rows": 6343
+    },
+    {
+      "region": "ANE",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2022List.gzip",
+      "sha256": "4524a6f484a6cb70b0a0d0e512f160f7374b4763dc3463c4d0d6e618a153ea6a",
+      "case_rows": 6181
+    },
+    {
+      "region": "ANE",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2023List.gzip",
+      "sha256": "cc93439dd3900b9d3a7a8a30899dc3614bb38d1c4e19fda1c2238e30d4c3be3a",
+      "case_rows": 5983
+    },
+    {
+      "region": "ANE",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2024List.gzip",
+      "sha256": "661b0623a6f036b9a154f6e3f25990a705cc30c25e46409f855359f2717b2cea",
+      "case_rows": 5332
+    },
+    {
+      "region": "ANE",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2025List.gzip",
+      "sha256": "f0e681464b41a5ecdbc1f5e2a4a8df2e487acfb524442f601e3978e753ec6ed9",
+      "case_rows": 4261
+    },
+    {
+      "region": "ANE",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2026List.gzip",
+      "sha256": "35df3d6d07a71790036cb61482b6ba8076e3da2f2eb47e49b0f60c04215d2d9b",
+      "case_rows": 3198
+    },
+    {
+      "region": "ANM",
+      "year": 1988,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1988List.gzip",
+      "sha256": "3e3e2af30b20ac93b298ec5e295ea71e4a69255f2887ab26921810495a9e4f46",
+      "case_rows": 440
+    },
+    {
+      "region": "ANM",
+      "year": 1989,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1989List.gzip",
+      "sha256": "5da10576e4fbef8829ad7cedf2badbc027baa2ffb0a9ee8f16c31a8d5eeae741",
+      "case_rows": 766
+    },
+    {
+      "region": "ANM",
+      "year": 1990,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1990List.gzip",
+      "sha256": "27afde108fed0d7fb48cc14dfa913cc3ea825f895c758737abdf0c05fe39abbb",
+      "case_rows": 527
+    },
+    {
+      "region": "ANM",
+      "year": 1991,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1991List.gzip",
+      "sha256": "899eae8bf70bc3c08b92774810ac603bd25af1c1b6da340c6fd8b2a8413253da",
+      "case_rows": 666,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ANM",
+      "year": 1992,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1992List.gzip",
+      "sha256": "1ab4812f5fc0b6955e2fea50fc9a2b25b40e654228741fdf73bfc67ea1301f10",
+      "case_rows": 696
+    },
+    {
+      "region": "ANM",
+      "year": 1993,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1993List.gzip",
+      "sha256": "82bff906632a694810e963fb250347e3f96fef2cc7a90343b9c41bb7e6551b5e",
+      "case_rows": 812
+    },
+    {
+      "region": "ANM",
+      "year": 1994,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1994List.gzip",
+      "sha256": "119c9df58ceb99fa15721c553d387636f67779b49c4d4b9e26f57fdd76f1929e",
+      "case_rows": 766
+    },
+    {
+      "region": "ANM",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1995List.gzip",
+      "sha256": "2281e0b2f51f3a491cdf90aa6298796b9596d95ab5a80ac8b234043dd1014127",
+      "case_rows": 813,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ANM",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1996List.gzip",
+      "sha256": "354ac3e763be5c0a1db5902db01dca3730d37557cc3b66355ea75455ae33e747",
+      "case_rows": 831
+    },
+    {
+      "region": "ANM",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1997List.gzip",
+      "sha256": "797870320e2ee78ccb18926f3852101f43708764024e4c5b0d650067801f5451",
+      "case_rows": 1065
+    },
+    {
+      "region": "ANM",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1998List.gzip",
+      "sha256": "13761dec5fbe3e42da24881e2a60afb4d41eaabc605f5bde09532b17c49c961c",
+      "case_rows": 800
+    },
+    {
+      "region": "ANM",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1999List.gzip",
+      "sha256": "796097905f8f46f179a680354c7617896c7c74e8f1c52c419240c69c0f46f698",
+      "case_rows": 1539,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ANM",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2000List.gzip",
+      "sha256": "2e4fa4043570638fca7b0dd082c6824338e2a692e2513068657c4cdfe582f37d",
+      "case_rows": 1443
+    },
+    {
+      "region": "ANM",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2001List.gzip",
+      "sha256": "26266cb8e571be7e591e7b0e903dcb2f3869cde175a6d88217fbc096adb8388f",
+      "case_rows": 2084
+    },
+    {
+      "region": "ANM",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2002List.gzip",
+      "sha256": "7e8f477417af2dbe1c04be986fc6bc933979ffd9d17796723165bc4e6c6afae5",
+      "case_rows": 1165
+    },
+    {
+      "region": "ANM",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2003List.gzip",
+      "sha256": "05c5eb47efbdbd0e346ff101ddf974cc16c9d63121ec92ddb9e494d913a1166f",
+      "case_rows": 1230
+    },
+    {
+      "region": "ANM",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2004List.gzip",
+      "sha256": "8d25caa5d2cc2f48e4903e87a8231abf7a7f50953577c00ab440f8e1aa6a4927",
+      "case_rows": 967
+    },
+    {
+      "region": "ANM",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2005List.gzip",
+      "sha256": "80c2330c31d0e6ba51ccfca64c85ac82dc3414864fa9ad7905bb6f1a674209f6",
+      "case_rows": 1272
+    },
+    {
+      "region": "ANM",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2006List.gzip",
+      "sha256": "417c8f2d0b7b38099309f3dedded19fc1c9c176795bae7c53f858507e4ffae21",
+      "case_rows": 1931
+    },
+    {
+      "region": "ANM",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2007List.gzip",
+      "sha256": "7cfc5766dcb0b9bf70ccdbfdfb2bf45cd1886af677b5e7e2e874051487f55928",
+      "case_rows": 2142
+    },
+    {
+      "region": "ANM",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2008List.gzip",
+      "sha256": "4d4efdbe548172fce3f707d3b286e29b86ec7f16571d619bbd21035fd2040dee",
+      "case_rows": 1845
+    },
+    {
+      "region": "ANM",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2009List.gzip",
+      "sha256": "10676c1d8ad0eb7f526f369872741f9e77adc758eac6d6afa76cb4e06af50294",
+      "case_rows": 1442
+    },
+    {
+      "region": "ANM",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2010List.gzip",
+      "sha256": "0630a637e06ba8e426413b29d4f28fda1b57a9c2253eb955d8e1ab048d15036f",
+      "case_rows": 1432,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ANM",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2011List.gzip",
+      "sha256": "db94ea343f12f025156157dcec6ca47ccddd3e9dd8b751a7e71c80e38f8a0f5b",
+      "case_rows": 1723
+    },
+    {
+      "region": "ANM",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2012List.gzip",
+      "sha256": "c0ed19f4b1c09c851db4a22f7d87272c36d64fb0c8b61e8cacf8baaac7ff1211",
+      "case_rows": 1949
+    },
+    {
+      "region": "ANM",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2013List.gzip",
+      "sha256": "23bcdfdcfcdae89c2703612876c3b3527b9a76fc048c275efc44e6a6528386fb",
+      "case_rows": 1672,
+      "literal_matches": 2,
+      "held": 2
+    },
+    {
+      "region": "ANM",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2014List.gzip",
+      "sha256": "f3997293ad1ea50fb3eda445a96119aa372b5df8f25691aef26e77ba96bd8a30",
+      "case_rows": 1674,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "ANM",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2015List.gzip",
+      "sha256": "7dd0e966bb0a81cb6fb1cc5986440bfca59e2dbdb570402551011406bac8fa9f",
+      "case_rows": 2326,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ANM",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2016List.gzip",
+      "sha256": "641ea33278f971af109eed9bb893357f3c79f1dce7a7ae73ef756fcb004879ec",
+      "case_rows": 1907
+    },
+    {
+      "region": "ANM",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2017List.gzip",
+      "sha256": "992d0a4f3891b0829a75c7ac803e9378bcd252f2a4060c8f18079b370a63cf9b",
+      "case_rows": 2779,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ANM",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2018List.gzip",
+      "sha256": "79bbb7709fb20087c8d6f109665b00a2cd37ac9bf435caecb2fd5da9931756c7",
+      "case_rows": 3270,
+      "literal_matches": 3,
+      "included": 3
+    },
+    {
+      "region": "ANM",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2019List.gzip",
+      "sha256": "82d4346edf604dd3bc0afda005109666ea411698f0b4ac0c88535806444d001f",
+      "case_rows": 3695
+    },
+    {
+      "region": "ANM",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2020List.gzip",
+      "sha256": "342dea078d0d0b1c7edf36bb4cf74bed59f88db48011e866a5af679dec7c76a8",
+      "case_rows": 4325,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "ANM",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2021List.gzip",
+      "sha256": "85169b2e595fe51155de0e6a5de4fb24e3371759e3ccd313955298e3e6267389",
+      "case_rows": 6201,
+      "literal_matches": 5,
+      "included": 5
+    },
+    {
+      "region": "ANM",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2022List.gzip",
+      "sha256": "2ba7ca4e06a07ca1645318ba3f9e60183882bb1918b73b81e81260a29d1d53c9",
+      "case_rows": 7403,
+      "literal_matches": 9,
+      "included": 9
+    },
+    {
+      "region": "ANM",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2023List.gzip",
+      "sha256": "dedee6bc64333507dc2e4f092ccb19796e2c572357bf7d3bf352ebf61808a6ed",
+      "case_rows": 5927,
+      "literal_matches": 8,
+      "included": 8
+    },
+    {
+      "region": "ANM",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2024List.gzip",
+      "sha256": "01957de79a62ff6554f527025b592394686c759afb35ba6ba10ee0486541e5b3",
+      "case_rows": 7415,
+      "literal_matches": 12,
+      "included": 11,
+      "held": 1
+    },
+    {
+      "region": "ANM",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip",
+      "sha256": "c3de84df84c132518d5069c99a229ca82a69fe74ca7ed0199dae4ca40f9c2ab8",
+      "case_rows": 8404,
+      "literal_matches": 60,
+      "included": 55,
+      "held": 5
+    },
+    {
+      "region": "ANM",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip",
+      "sha256": "dee2db6d4420e4619c79b8ca53a726f1198c5b4dd72ee82bb43272d1535e0498",
+      "case_rows": 7135,
+      "literal_matches": 12,
+      "included": 11,
+      "held": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1976,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1976List.gzip",
+      "sha256": "ab7baf99a77d040311bfb612e8a3af859d8d179b65483c1756abeaf79e1d8098",
+      "case_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1977,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1977List.gzip",
+      "sha256": "cb694f8a0d53b4aff8c5c1f2e5635a6984267cd12334051a5e6c7f7328563f93",
+      "case_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1978,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1978List.gzip",
+      "sha256": "d02e22966de07ec2708dd93aa98c34c0dd02a0dce93b3b1eb8866d77f0a37ee4",
+      "case_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1979,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1979List.gzip",
+      "sha256": "77bce0134f4a99fd2ba1b75df9175d731ad6562e6a15b3416123604b0ecc0981",
+      "case_rows": 2
+    },
+    {
+      "region": "ASO",
+      "year": 1980,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1980List.gzip",
+      "sha256": "c1bcd406d31c7bdef5cf074cb67eda2a8d2fbff47d54276c5adf907c4d6e054c",
+      "case_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1981,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1981List.gzip",
+      "sha256": "61931094a9da0d03f85425ab96054e6f3ea8e9c2fc712c2864b0170021b01fbe",
+      "case_rows": 3
+    },
+    {
+      "region": "ASO",
+      "year": 1982,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1982List.gzip",
+      "sha256": "6dbb9b602c2d0e1abb0ca1eebde00c2873496d840e115dbaf06ac6db93e042d9",
+      "case_rows": 6
+    },
+    {
+      "region": "ASO",
+      "year": 1983,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1983List.gzip",
+      "sha256": "2a5b8bc5e2730a06ea1f95e5b8d6ef7ec83e033f80ca73c4b0a701932b59eb11",
+      "case_rows": 3
+    },
+    {
+      "region": "ASO",
+      "year": 1984,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1984List.gzip",
+      "sha256": "fc7dafc41b15912b2b8b631ae9602bb4ee242952736ff8556e81e5625144c3dd",
+      "case_rows": 12
+    },
+    {
+      "region": "ASO",
+      "year": 1985,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1985List.gzip",
+      "sha256": "adc62b40f93140ce0d0309afe8cc121cff1190342cdac76a582886fffd7fd369",
+      "case_rows": 28
+    },
+    {
+      "region": "ASO",
+      "year": 1986,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1986List.gzip",
+      "sha256": "bd4c530dbcdff931d960936cc0242612f65e3ee4c67cb539102c119cbb5ef730",
+      "case_rows": 75
+    },
+    {
+      "region": "ASO",
+      "year": 1987,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1987List.gzip",
+      "sha256": "07dcaf83a3687022f46250ab7430b45b9c6a1224d60f637803ff9b65edef1df7",
+      "case_rows": 206
+    },
+    {
+      "region": "ASO",
+      "year": 1988,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1988List.gzip",
+      "sha256": "dd9d81e858e7e508e02bbf5492d14bbbaa5e87cf31e9c1c107eeadcbfe4878b0",
+      "case_rows": 617,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1989,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1989List.gzip",
+      "sha256": "a7851b65c7fba350014b4478bd5ca9107d0e671fd30602320e6befae0c620ff4",
+      "case_rows": 1440,
+      "malformed_rows": 2
+    },
+    {
+      "region": "ASO",
+      "year": 1990,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1990List.gzip",
+      "sha256": "0e14df50db64e396eda9d67484d92fe526b03350f04d52b2922e608cfcda66dd",
+      "case_rows": 1592
+    },
+    {
+      "region": "ASO",
+      "year": 1991,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1991List.gzip",
+      "sha256": "e8bcc5e0cf75fce9f7d870bdff9fcf5e3f3c3ff185f714532cf8a93e4c4f1e79",
+      "case_rows": 1474
+    },
+    {
+      "region": "ASO",
+      "year": 1992,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1992List.gzip",
+      "sha256": "c5d3f6ded24c88936808b9c10f4c93d75f61140383d7ef8d5e6ffde2c2859100",
+      "case_rows": 1651
+    },
+    {
+      "region": "ASO",
+      "year": 1993,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1993List.gzip",
+      "sha256": "b6057f672c76c4db0fb5cdc144dc9dec62a9150b94f0b2ed1d03b996138e45c3",
+      "case_rows": 1479
+    },
+    {
+      "region": "ASO",
+      "year": 1994,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1994List.gzip",
+      "sha256": "bac5bff637aad29708533c97eb7f06d2603b6ff543fc66d147baa68eb10273ba",
+      "case_rows": 2055
+    },
+    {
+      "region": "ASO",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1995List.gzip",
+      "sha256": "aedd6b58c47af7fcde51987f35598a11a29e73a191e56df80aa30a83b3e9744b",
+      "case_rows": 2110,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1996List.gzip",
+      "sha256": "ccb981712fb2c35087925c0bf4756feed76694b0c9e3cac0a3c0487975dd5a7e",
+      "case_rows": 3376
+    },
+    {
+      "region": "ASO",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1997List.gzip",
+      "sha256": "843073dddb0ec1bb5efb980057da443aa184afae7da6a37e2a6b8c22c37aa109",
+      "case_rows": 3810,
+      "malformed_rows": 2
+    },
+    {
+      "region": "ASO",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1998List.gzip",
+      "sha256": "65777abb2e2cc8315510c2fe2eadfa6bbb74513fe20019ea4847f77a285c639d",
+      "case_rows": 4116,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1999List.gzip",
+      "sha256": "51fe5d5bdcf55b994e251deb6668c865991aee6ac08ab1deee2d3a7a857c6fff",
+      "case_rows": 3450
+    },
+    {
+      "region": "ASO",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2000List.gzip",
+      "sha256": "fbab127a5f4b48cd9e702454cf4dc5e90caf0efd918f48a73c38adf450fb13d0",
+      "case_rows": 4670
+    },
+    {
+      "region": "ASO",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2001List.gzip",
+      "sha256": "83d28b994c0f91846a703f485a4e2dea03bce16d9d09410248f5ed9cab2d7d94",
+      "case_rows": 4764,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2002List.gzip",
+      "sha256": "d3b82c46f7a2622d9069f20a5f84926bd949a80b9442a5395e6ba602b04098f5",
+      "case_rows": 3778
+    },
+    {
+      "region": "ASO",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2003List.gzip",
+      "sha256": "7ddd60e97ae95f8336bc2d9d158545474877e9b57abc65a9bbccbdc08c150220",
+      "case_rows": 4261
+    },
+    {
+      "region": "ASO",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2004List.gzip",
+      "sha256": "84dd6d216fb72d15e6d50d44a263ae169a9487cb7ce907bd4e843d21475f7ba2",
+      "case_rows": 3971
+    },
+    {
+      "region": "ASO",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2005List.gzip",
+      "sha256": "ea83c9e1a49bf61960594494e13851b5e572e377a667cc2c571b73eadf8c2c05",
+      "case_rows": 3887
+    },
+    {
+      "region": "ASO",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2006List.gzip",
+      "sha256": "11a7c3b0e7d4f90b2e5b0cdfc97f0492d60ff1a9fa44c1080dbf8757dae79119",
+      "case_rows": 4283,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ASO",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2007List.gzip",
+      "sha256": "4762c14be640888ed0821a2398c2c2087f8597bcebe4bb2161aae363a69d91e6",
+      "case_rows": 3999,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ASO",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2008List.gzip",
+      "sha256": "9b7ba1c77834dbe4fa739d49b76ae5df5f19a15786936217cf3cb123d6e59094",
+      "case_rows": 3931
+    },
+    {
+      "region": "ASO",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2009List.gzip",
+      "sha256": "c7bea1c00295ad8cef2b2cd419e8e0163faa238460bfb3bca1b56468100fc38b",
+      "case_rows": 4566,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ASO",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2010List.gzip",
+      "sha256": "026f3e5240e4727ebd1735e20138349146d969ac38a5df34df87139021f4c4c5",
+      "case_rows": 3767
+    },
+    {
+      "region": "ASO",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2011List.gzip",
+      "sha256": "51a7420448b1a3b3ea59cde85a3bae483f10487f7d1d5f7bf23fd04ff681f063",
+      "case_rows": 5108
+    },
+    {
+      "region": "ASO",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2012List.gzip",
+      "sha256": "549cabd1a9797fe8bd666cdea210a3b58543de0aa00674d3c4870ef9deaa6306",
+      "case_rows": 6893
+    },
+    {
+      "region": "ASO",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2013List.gzip",
+      "sha256": "869b866db39d0db4184c75e0409fc380c5fb4f8d0587609b374e3ccda9681e2f",
+      "case_rows": 7750
+    },
+    {
+      "region": "ASO",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2014List.gzip",
+      "sha256": "f3d9d67e0a2ffa56f47ffba34a1ac767641344320d8a585224e2cb167021cafe",
+      "case_rows": 7546,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "ASO",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2015List.gzip",
+      "sha256": "8f8f56a17d0af0ffad9882abfe2d25defdda51f302f3ab52765a28d8b50cd671",
+      "case_rows": 14469
+    },
+    {
+      "region": "ASO",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2016List.gzip",
+      "sha256": "87163d0af0ade453426ece093be2f69bd61b4d13a402167b2bad8d4fcffaad22",
+      "case_rows": 22899,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASO",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2017List.gzip",
+      "sha256": "5787edb75735d8bab0c5963c78a2b553285ccb53a46f58166606eedb66fa6939",
+      "case_rows": 14517
+    },
+    {
+      "region": "ASO",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2018List.gzip",
+      "sha256": "e9b6895dd5227cd19caf7f535b120857256c7283f30e3aa189be48f7af3a6898",
+      "case_rows": 15077
+    },
+    {
+      "region": "ASO",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2019List.gzip",
+      "sha256": "66971c6d88dbdd912b9388762ad5a04cf7d734208959784dc089246e6072d035",
+      "case_rows": 24783,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ASO",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2020List.gzip",
+      "sha256": "2dd100945750bfe44ccc879ebb104e26e98c78a7ddc03e5da9db3ebd644a42c3",
+      "case_rows": 26004
+    },
+    {
+      "region": "ASO",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2021List.gzip",
+      "sha256": "44a7f42864dec8f7d13a2cf1ea777183ffa91a89915766ae4bcd2f6443368928",
+      "case_rows": 30485,
+      "literal_matches": 3,
+      "included": 3
+    },
+    {
+      "region": "ASO",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2022List.gzip",
+      "sha256": "a10d65c3fd47ea5223b2412a0c5a57994fcb1d601e2247f7b5ce6cb9125e02e2",
+      "case_rows": 32129
+    },
+    {
+      "region": "ASO",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2023List.gzip",
+      "sha256": "02bd80fcad5dc92dba5b344b87708358d43a4bf92bbe7ab3bb9186ec908213b9",
+      "case_rows": 26273,
+      "literal_matches": 4,
+      "included": 4
+    },
+    {
+      "region": "ASO",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip",
+      "sha256": "db62d28f408494b5680adc9819491c0d7b4e7b25df98dd8deed04a652b6fbdd5",
+      "case_rows": 24748,
+      "literal_matches": 185,
+      "included": 171,
+      "held": 14
+    },
+    {
+      "region": "ASO",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip",
+      "sha256": "b8f616ca268f39e5486de7e0b07c31f165be70285494777f975d202d68deedae",
+      "case_rows": 27783,
+      "literal_matches": 18,
+      "held": 5,
+      "included": 13
+    },
+    {
+      "region": "ASO",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip",
+      "sha256": "994cfbc30169a416f9c4111f020f5d3a1cf316df77e63dec4a71248f3be7eb71",
+      "case_rows": 25746,
+      "literal_matches": 26,
+      "included": 25,
+      "held": 1
+    },
+    {
+      "region": "ASW",
+      "year": 1960,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1960List.gzip",
+      "sha256": "129653f5e765833f2b58410a4a2aaf9bc200561eda738bae6c4534619c5f9ac4",
+      "case_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 1965,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1965List.gzip",
+      "sha256": "4f1ae427b5fea437b62fca9529db5ea7b297edb4cc8a550323475d24e91df09c",
+      "case_rows": 32
+    },
+    {
+      "region": "ASW",
+      "year": 1966,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1966List.gzip",
+      "sha256": "6cf58d7edc9c5e7118b5eff0a61e64d87cba2851e8df24f8f176a0ff4824cb85",
+      "case_rows": 62
+    },
+    {
+      "region": "ASW",
+      "year": 1967,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1967List.gzip",
+      "sha256": "c96de37406c92e23a9d0f7da4569b6c7a5287cf75c2b98ff50faa774d09242e4",
+      "case_rows": 55
+    },
+    {
+      "region": "ASW",
+      "year": 1968,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1968List.gzip",
+      "sha256": "5800efc9f44932b5cd79500f7fbf4fa30094f867492bddd3dbc0a1c3a5391aee",
+      "case_rows": 66
+    },
+    {
+      "region": "ASW",
+      "year": 1969,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1969List.gzip",
+      "sha256": "eaa926d1762c6dc6c8de4a68a35942a06a902661c2c77a32d1707528ce1ef7f3",
+      "case_rows": 44
+    },
+    {
+      "region": "ASW",
+      "year": 1970,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1970List.gzip",
+      "sha256": "8ffc88d08baa71991e5f8e87f686c9b28a88bf2e18f6e5ae43bb1956e5429105",
+      "case_rows": 48
+    },
+    {
+      "region": "ASW",
+      "year": 1971,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1971List.gzip",
+      "sha256": "f61e9af21b8cd6e49d8e57c6c5c352c3d41b7f50025b83cf9a9b1e11567154b9",
+      "case_rows": 54
+    },
+    {
+      "region": "ASW",
+      "year": 1972,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1972List.gzip",
+      "sha256": "8c92f083303a723ba3970f2c284fbc7b5fa1b14b6a0ac2350e7aa2518a871e73",
+      "case_rows": 75
+    },
+    {
+      "region": "ASW",
+      "year": 1973,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1973List.gzip",
+      "sha256": "4524503e4df27eb1a34a4e6cf83044d250c8a39c4f21718462f1f70f699e967e",
+      "case_rows": 63
+    },
+    {
+      "region": "ASW",
+      "year": 1974,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1974List.gzip",
+      "sha256": "28634dfa118551f47c13161b374b1f98b6cefe4ea94602d37939184ec7fb33f7",
+      "case_rows": 63
+    },
+    {
+      "region": "ASW",
+      "year": 1975,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1975List.gzip",
+      "sha256": "c9430b522df4bed4451e73daf9a1b6644af0f3bfb64cf529d0658d6397ff7008",
+      "case_rows": 51
+    },
+    {
+      "region": "ASW",
+      "year": 1976,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1976List.gzip",
+      "sha256": "ffd13e8e0ed607c6f166c8651f10208dda5510f2d76accd5d506e36203909c17",
+      "case_rows": 45
+    },
+    {
+      "region": "ASW",
+      "year": 1977,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1977List.gzip",
+      "sha256": "c804590877d5726c11d9a7db17cf486e6cc40e2236319bc3a8c590ad86d5f52c",
+      "case_rows": 74
+    },
+    {
+      "region": "ASW",
+      "year": 1978,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1978List.gzip",
+      "sha256": "7b71c227c71715dcddbf7d2fa8b568630021d92d169f6317a90203f19ea853d1",
+      "case_rows": 93
+    },
+    {
+      "region": "ASW",
+      "year": 1979,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1979List.gzip",
+      "sha256": "9609752485f20ebc8db19dc33303f33225fd0ce4531211ce79aefe0c52cbd25f",
+      "case_rows": 93
+    },
+    {
+      "region": "ASW",
+      "year": 1980,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1980List.gzip",
+      "sha256": "4fa20156768bcaf61b8d56ebbd40a69188fc31ee6bc1334d250f5a7d834cc239",
+      "case_rows": 128
+    },
+    {
+      "region": "ASW",
+      "year": 1981,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1981List.gzip",
+      "sha256": "b3fa7426a307f99dc475733ae860d823346d0dfb498ac6387bf7b87eb5487bf7",
+      "case_rows": 142
+    },
+    {
+      "region": "ASW",
+      "year": 1982,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1982List.gzip",
+      "sha256": "69b14ef05d4e4e2540e4af47b4a3a2a86a8bc9e39b3cf95f8389fc6528aab75e",
+      "case_rows": 3035
+    },
+    {
+      "region": "ASW",
+      "year": 1983,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1983List.gzip",
+      "sha256": "09a7b852a4b88088bc2e579e7cb73d7cb111511f08d6f6929851fbc77e806815",
+      "case_rows": 2607
+    },
+    {
+      "region": "ASW",
+      "year": 1984,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1984List.gzip",
+      "sha256": "ef2e5df06010f032ee9be3f122ff292558d52c6d803e14ce41aa1b17a753f46a",
+      "case_rows": 3036
+    },
+    {
+      "region": "ASW",
+      "year": 1985,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1985List.gzip",
+      "sha256": "d0a5e9b0d6bdfd08e48c9170ac385907dfd02e00001a5fd924c35f0ac203ba9d",
+      "case_rows": 2109
+    },
+    {
+      "region": "ASW",
+      "year": 1986,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1986List.gzip",
+      "sha256": "59b23e44ebd7a8b36c3576e0585d80e368279d0142473c41941baed5d3a9452f",
+      "case_rows": 2469
+    },
+    {
+      "region": "ASW",
+      "year": 1987,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1987List.gzip",
+      "sha256": "e2eb771ef69801ea04810e11f74ee1e6c7f376e9887ef88cc81e54c51490c855",
+      "case_rows": 1931
+    },
+    {
+      "region": "ASW",
+      "year": 1988,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1988List.gzip",
+      "sha256": "5eab577d2f926720d2877ddaa3b0e7b0b21c4081efa97dd342ce986cd7b11749",
+      "case_rows": 1821,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 1989,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1989List.gzip",
+      "sha256": "8e9a7fd52480a6da9bbb2c83af059161acd569ce73c6321197b3797466cf9236",
+      "case_rows": 1884
+    },
+    {
+      "region": "ASW",
+      "year": 1990,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1990List.gzip",
+      "sha256": "4308af7ba09e7ab7e5193d707ff6dded94adfd668978fa910d6e58f67b893cce",
+      "case_rows": 1586,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 1991,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1991List.gzip",
+      "sha256": "e20d96876cf5891183adc48b9ff4448afb04d0afc77019551917e03d2719efd6",
+      "case_rows": 1758
+    },
+    {
+      "region": "ASW",
+      "year": 1992,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1992List.gzip",
+      "sha256": "2eac489d780552c20b1a5306abe71f264670e5277e594554f5fe2948bf27e7d2",
+      "case_rows": 1778
+    },
+    {
+      "region": "ASW",
+      "year": 1993,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1993List.gzip",
+      "sha256": "8c8db3c2b780598a77fd698a35cd7a6ed7e91ebaee02bdf4de960aed064d31b5",
+      "case_rows": 1529
+    },
+    {
+      "region": "ASW",
+      "year": 1994,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1994List.gzip",
+      "sha256": "3c597e4f954f2293073804159169287f233f996160d066f2857aeb316601740c",
+      "case_rows": 1468
+    },
+    {
+      "region": "ASW",
+      "year": 1995,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1995List.gzip",
+      "sha256": "6b5daa9309ad400ace972079100f721186012156e3adcaf505bd0503d381e242",
+      "case_rows": 1820,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 1996,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1996List.gzip",
+      "sha256": "56303cf399bb3d0a8002ff9f77913ae85743a61d72619b0204cba362f5b5c3e2",
+      "case_rows": 2590,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1997List.gzip",
+      "sha256": "8ead6de56c8421994c177166ffc20b8bb86d7f0c0c43f18424405382de047ecb",
+      "case_rows": 2764
+    },
+    {
+      "region": "ASW",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1998List.gzip",
+      "sha256": "9b3d13127938381d501cba01df44b2e74b55025361aa4f7f608ff529fe900b71",
+      "case_rows": 3532
+    },
+    {
+      "region": "ASW",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1999List.gzip",
+      "sha256": "8ad7a21ae45cf4178c7762f4d3e6ae504a23cbd69a8eaff3fb1f5b909854d747",
+      "case_rows": 3174
+    },
+    {
+      "region": "ASW",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2000List.gzip",
+      "sha256": "ec36158b46b0a46331307649dc818328be9fd80aa30aabe89cb55455642775b3",
+      "case_rows": 4154,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2001List.gzip",
+      "sha256": "7b080d2f101950c76c910b5ce49eefced681d7d5a8dae665b26352043e69ccbd",
+      "case_rows": 4261,
+      "malformed_rows": 4
+    },
+    {
+      "region": "ASW",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2002List.gzip",
+      "sha256": "9d62fe5056af923652420fd45dc98ab02f3130c773c977d671c41534f0e6d329",
+      "case_rows": 3348
+    },
+    {
+      "region": "ASW",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2003List.gzip",
+      "sha256": "57c31dfb9c69fa9c26c71c68b2ce3774ee1d2abcac555cb612750f82ea0b71f5",
+      "case_rows": 3403
+    },
+    {
+      "region": "ASW",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2004List.gzip",
+      "sha256": "6b0e83fd2d5b4efb1741815331570273626330e86ea12ab86f37b2e171115b36",
+      "case_rows": 4060
+    },
+    {
+      "region": "ASW",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2005List.gzip",
+      "sha256": "2118d70635b98595084753b02bf0a6c2996f76b7c5e4a51e994b5625c509f67a",
+      "case_rows": 4095
+    },
+    {
+      "region": "ASW",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2006List.gzip",
+      "sha256": "98ad85e1079d136008373fae808569a6eb5b18970f61d2cd6f5dee6e524b741d",
+      "case_rows": 4632
+    },
+    {
+      "region": "ASW",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2007List.gzip",
+      "sha256": "72c732dbd654112a14e2097306779966562b671268a029dcc286286325242b12",
+      "case_rows": 5510
+    },
+    {
+      "region": "ASW",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2008List.gzip",
+      "sha256": "23e40913e49f0e2ddd39809ddb964495aa14b5502545910aa4734fb6bf62ce00",
+      "case_rows": 3463
+    },
+    {
+      "region": "ASW",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2009List.gzip",
+      "sha256": "a38c3d3d76b3f40eec442ce7d5c2c28e749162ee182b6f75f73b0b5f7c42f096",
+      "case_rows": 3275,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ASW",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2010List.gzip",
+      "sha256": "a137fb974b599088a544c42f6c1b8968fe4a7a6fde581c48a8c46ccab382754e",
+      "case_rows": 3721
+    },
+    {
+      "region": "ASW",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2011List.gzip",
+      "sha256": "60162e2c6c159e5231b9dec58d6647d0df16fa4deb082e1bcccb9649749ad0f7",
+      "case_rows": 4171
+    },
+    {
+      "region": "ASW",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2012List.gzip",
+      "sha256": "c38a09f66566899c55f4d5a107495f98cbf279840abb9d377355501bde64ecb4",
+      "case_rows": 4669
+    },
+    {
+      "region": "ASW",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip",
+      "sha256": "381784a9f2f4767f333715f18c9c0f199dcad21612aae3d655543c586561b9e3",
+      "case_rows": 5109,
+      "literal_matches": 5,
+      "held": 5
+    },
+    {
+      "region": "ASW",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2014List.gzip",
+      "sha256": "d3e85ec6cc54a5933fb5058d69bed143f7f8e21509aa0d384255ad0e140a684c",
+      "case_rows": 4822
+    },
+    {
+      "region": "ASW",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2015List.gzip",
+      "sha256": "e013c29f3c4f1f5383e4106e618da32b87c335cd30edabd8f3217e0cbb5e599d",
+      "case_rows": 5351
+    },
+    {
+      "region": "ASW",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2016List.gzip",
+      "sha256": "20dab04728a2de08bfc985064d20ec192e12cfa40aba4784e477d51cc43a6803",
+      "case_rows": 7534
+    },
+    {
+      "region": "ASW",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2017List.gzip",
+      "sha256": "9ec8cbf95142e583c71ae5b28bfb8392f8f1b7ed672ae4ef87ae7ce314f13c76",
+      "case_rows": 11359,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "ASW",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2018List.gzip",
+      "sha256": "3f582c786529dec1672bc5c748f1e4eedbe82c8d31cdcd5b037ef1e726ac8671",
+      "case_rows": 11888,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "ASW",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2019List.gzip",
+      "sha256": "bfac5c3942f5b39f11c05560557b678aac6d2c21f6ff05c8bdc55d417991ec14",
+      "case_rows": 11626
+    },
+    {
+      "region": "ASW",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2020List.gzip",
+      "sha256": "4ee925091c12fc0a7d6945fdc3ef7507028733458ae5ca1044bdf32814d5bf8b",
+      "case_rows": 11165
+    },
+    {
+      "region": "ASW",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2021List.gzip",
+      "sha256": "c6779ead9cc0befc845861cd3fc4e0074732038015dfe3eb2b2a4137cf24eb52",
+      "case_rows": 15110,
+      "literal_matches": 5,
+      "included": 5,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2022List.gzip",
+      "sha256": "d85f4b74ed858d648ee58a85ab2511f7f6be736aab29ebb15c753f18ae646c26",
+      "case_rows": 20301,
+      "literal_matches": 9,
+      "included": 9,
+      "malformed_rows": 1
+    },
+    {
+      "region": "ASW",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2023List.gzip",
+      "sha256": "eaeeb13a2fc33576d08c16c6fac72828fe4d2f499a0f5c2892d1cfd72b621e23",
+      "case_rows": 13680,
+      "literal_matches": 6,
+      "included": 6
+    },
+    {
+      "region": "ASW",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2024List.gzip",
+      "sha256": "6b4c6ab4cb5478bd671a292fe2673bd78011bdceb8ee0e5a7bae5370e06cf48f",
+      "case_rows": 16478,
+      "literal_matches": 13,
+      "included": 13
+    },
+    {
+      "region": "ASW",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2025List.gzip",
+      "sha256": "3c816622469f275fbde5d09395e59243204c330f1c8fb6ed80e2bc2a08c6bda7",
+      "case_rows": 17094,
+      "literal_matches": 27,
+      "included": 27
+    },
+    {
+      "region": "ASW",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+      "sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+      "case_rows": 19811,
+      "literal_matches": 164,
+      "included": 163,
+      "held": 1
+    },
+    {
+      "region": "AWP",
+      "year": 1997,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1997List.gzip",
+      "sha256": "5050e880f8936cf221e75076c0fe6dd5be6d29a52c4f38553f346713130565ec",
+      "case_rows": 1
+    },
+    {
+      "region": "AWP",
+      "year": 1998,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1998List.gzip",
+      "sha256": "38c80486c8d40219e79157235d68b0fec228ff9581affca895b29689313c8f08",
+      "case_rows": 2837
+    },
+    {
+      "region": "AWP",
+      "year": 1999,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1999List.gzip",
+      "sha256": "1917783111664e2d69083c76fd459368ea756a6e4217e5330a1ed9ee5c3b5cca",
+      "case_rows": 1996
+    },
+    {
+      "region": "AWP",
+      "year": 2000,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2000List.gzip",
+      "sha256": "e05836e1088bbdc6ab39fa37cc4e00439b253917415a7a5ccedb7c58533ec9bf",
+      "case_rows": 3051
+    },
+    {
+      "region": "AWP",
+      "year": 2001,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2001List.gzip",
+      "sha256": "b8be141db067d4c91ef2aff03552417cde9722bd1819ffe71ca8eb9c90b298cf",
+      "case_rows": 4274
+    },
+    {
+      "region": "AWP",
+      "year": 2002,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2002List.gzip",
+      "sha256": "9f4ddb75c7e24863e8999c7f9a97b8b5ab0e82172cb27f5f9400b3e75b898012",
+      "case_rows": 3197
+    },
+    {
+      "region": "AWP",
+      "year": 2003,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2003List.gzip",
+      "sha256": "2c12f068b76664c35625746555f36f0758fce07a2946e38ddd945044253ede3d",
+      "case_rows": 3709
+    },
+    {
+      "region": "AWP",
+      "year": 2004,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2004List.gzip",
+      "sha256": "55aee7148210466d9eede1edf886ac5b0a00ee6675ff899227aedeafa95205d5",
+      "case_rows": 4295
+    },
+    {
+      "region": "AWP",
+      "year": 2005,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2005List.gzip",
+      "sha256": "79334238869dcd9fd372a072387b185ea4f656508c3a8b54782b31eaeb444077",
+      "case_rows": 4336
+    },
+    {
+      "region": "AWP",
+      "year": 2006,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2006List.gzip",
+      "sha256": "908d6c8c4c68664cf248043ca8547a5171d61aa2fa670e9f7bef8f4e1473f3d6",
+      "case_rows": 4898,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "AWP",
+      "year": 2007,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2007List.gzip",
+      "sha256": "4d1a712b5d70d66cd6da8bb691ce88078046725d7eaca69bb726a27be3a80853",
+      "case_rows": 5203,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2008List.gzip",
+      "sha256": "0481220df4c1c4014c2f8c06d658c3ab2d7b653617de53eb7e6cf79767112f10",
+      "case_rows": 4867,
+      "literal_matches": 5,
+      "included": 5
+    },
+    {
+      "region": "AWP",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2009List.gzip",
+      "sha256": "3266f3cb88d00936bae446f7d7c5fd3d18e6fa0eef1cff32415e4c11d101b104",
+      "case_rows": 4453
+    },
+    {
+      "region": "AWP",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2010List.gzip",
+      "sha256": "89e48ce5d715852146516d61a4ea007085bf94a0bc1676dc57e3355f81052c4b",
+      "case_rows": 4409,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2011List.gzip",
+      "sha256": "28dc692ced72ff46517f0fa21becb1cd4e90dec055eea322e18e0899dc84fd5b",
+      "case_rows": 5650,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2012List.gzip",
+      "sha256": "563671203c5151c2bc36f15c667834d402f469515a9a5922b44d2af18797cb14",
+      "case_rows": 6440,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "AWP",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2013List.gzip",
+      "sha256": "14de096955d15e3289ef13a0a5c19ae9b8b140bbd8ccb3222689df6e48293346",
+      "case_rows": 4646,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2014List.gzip",
+      "sha256": "2b0d992121d688fb3ecc0ab9e5a3298e8210b3987384f3af4c7d86c0ec3e3e2d",
+      "case_rows": 5816
+    },
+    {
+      "region": "AWP",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2015List.gzip",
+      "sha256": "1d955c1cee6acfea440d6bb48412d183997c19828dada06d9d44fa0af1b5fa24",
+      "case_rows": 7560,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2016List.gzip",
+      "sha256": "b34998248517792091415fd9499d7567d6a62da0415a6b631b729b6d0aaa262c",
+      "case_rows": 7944
+    },
+    {
+      "region": "AWP",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2017List.gzip",
+      "sha256": "2469f415e4f9acafcebf0d28c7a44465848ecf4f7acafa13e7d2f89b78a07c95",
+      "case_rows": 7512,
+      "literal_matches": 1,
+      "included": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2018List.gzip",
+      "sha256": "42b2c845f7b980dc0bc171ef12a07f42e11b6590ba71820bca2b4a8183000fef",
+      "case_rows": 11406,
+      "literal_matches": 6,
+      "included": 6
+    },
+    {
+      "region": "AWP",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2019List.gzip",
+      "sha256": "f3f48c9d62eff3c3294ce24bf47814d4dbe394a778b613c5c3d6690dbd6bafc3",
+      "case_rows": 7838,
+      "literal_matches": 5,
+      "included": 5
+    },
+    {
+      "region": "AWP",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2020List.gzip",
+      "sha256": "92337b25395b9de6f6bc3e1e29739e9fc60eed6c5714da7ce74aeb1747b53ed8",
+      "case_rows": 7795,
+      "literal_matches": 2,
+      "included": 2
+    },
+    {
+      "region": "AWP",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2021List.gzip",
+      "sha256": "81b6bad45fbc375c770e60979044f8018d52c9f8896617e319f4d1c928c1b8c6",
+      "case_rows": 12584,
+      "literal_matches": 8,
+      "included": 8
+    },
+    {
+      "region": "AWP",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2022List.gzip",
+      "sha256": "869416973bd2164b43420ce87dbf8ada95666554c045d8e138a5e903b671f72d",
+      "case_rows": 14122,
+      "literal_matches": 12,
+      "included": 11,
+      "held": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2023List.gzip",
+      "sha256": "d9c81e2a7c813585602edea8b516bee1cabb1f622cb99ac1101d97efa8f79b8c",
+      "case_rows": 12531,
+      "literal_matches": 17,
+      "included": 15,
+      "held": 2
+    },
+    {
+      "region": "AWP",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2024List.gzip",
+      "sha256": "eec254bd4e47943008740ee62c5500138fb47d9b8646e0d5c4ca83dfb23ddfba",
+      "case_rows": 14099,
+      "literal_matches": 26,
+      "included": 25,
+      "malformed_rows": 1,
+      "held": 1
+    },
+    {
+      "region": "AWP",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2025List.gzip",
+      "sha256": "def21c4fc6d3a5f3b544de6dd55d622c876d251eeb9e2df9440428c001007367",
+      "case_rows": 17507,
+      "literal_matches": 76,
+      "included": 76
+    },
+    {
+      "region": "AWP",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip",
+      "sha256": "02ef42aea79a94e3681f992ed0234f9d26a5f76a3186fa179945f462173be7dd",
+      "case_rows": 17255,
+      "literal_matches": 67,
+      "included": 49,
+      "held": 18
+    },
+    {
+      "region": "WTE",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2008List.gzip",
+      "sha256": "ffa6ec2f3e46243d35abbea74f33ed28adbbef1d6892bdd36339d2731756be37",
+      "case_rows": 859
+    },
+    {
+      "region": "WTE",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2009List.gzip",
+      "sha256": "d9382b991551a09f0b2dec89288771d84d1287f626aac8ba678509bebbeb9b3c",
+      "case_rows": 2323
+    },
+    {
+      "region": "WTE",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2010List.gzip",
+      "sha256": "1d1418cf3787801165a5027fd2d8e4904d3be36124139b241df1513b9d75271b",
+      "case_rows": 1806
+    },
+    {
+      "region": "WTE",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2011List.gzip",
+      "sha256": "eba4057137c4816f9ad1f4e1fdb01679291747df1cb7a3a6363da7e58646ddab",
+      "case_rows": 2324
+    },
+    {
+      "region": "WTE",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2012List.gzip",
+      "sha256": "d127437ed8a57c0c654d360bf62683160b0556a3808bf76285dffa9edae4ff2c",
+      "case_rows": 1889
+    },
+    {
+      "region": "WTE",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2013List.gzip",
+      "sha256": "80aee673cc4dda9e46fdb3b4788b37297e788b811b5a05fe0e0cd516e0417bbd",
+      "case_rows": 1062
+    },
+    {
+      "region": "WTE",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2014List.gzip",
+      "sha256": "bf436dde3f8ecd4617776ba640f721e2837eb75cc7f3ea9a17324f7370622bb8",
+      "case_rows": 1414
+    },
+    {
+      "region": "WTE",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2015List.gzip",
+      "sha256": "e7d3dce5c6a9e0de8214fbbb520f316d1b052e8e0809c5036afdf1797301131e",
+      "case_rows": 1658
+    },
+    {
+      "region": "WTE",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2016List.gzip",
+      "sha256": "e19fa54ce6a39260319864854c0793e4b52013b770e6e3c9d3319e73ead5344f",
+      "case_rows": 2622
+    },
+    {
+      "region": "WTE",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2017List.gzip",
+      "sha256": "5438387258dc4453dcfafc4b3304838a147f2815425c57e9c97ea30d62bbd28d",
+      "case_rows": 3203
+    },
+    {
+      "region": "WTE",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2018List.gzip",
+      "sha256": "2b6bf89d53056170682ece800db05710c0391799ae0d927b5febc89c49443eac",
+      "case_rows": 4787
+    },
+    {
+      "region": "WTE",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2019List.gzip",
+      "sha256": "7f5e5a1335a5876838bf2e6b82ff066d0248cb981d884c469f99e1eb2290c925",
+      "case_rows": 3968
+    },
+    {
+      "region": "WTE",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2020List.gzip",
+      "sha256": "0b44af5eede551206bb04b461a5b129136e775241611da38483481442683af30",
+      "case_rows": 3465
+    },
+    {
+      "region": "WTE",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2021List.gzip",
+      "sha256": "25a91fded3567bb7163fc5b1b36c271974da00eaffb0dd92f7b0db4cff0f1c2d",
+      "case_rows": 2040
+    },
+    {
+      "region": "WTE",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2022List.gzip",
+      "sha256": "c7e13462d57cf02e4325803c4d6599cc551fd31f2e1719c3f645a8312f12a2fa",
+      "case_rows": 3651
+    },
+    {
+      "region": "WTE",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2023List.gzip",
+      "sha256": "a469f8695f467c46013fb7f31fda2ab9948bdd193e0118afb0dea0d6c9e88c77",
+      "case_rows": 4677
+    },
+    {
+      "region": "WTE",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2024List.gzip",
+      "sha256": "c8dc64544892ae07631fe2fd91cdcb25c4bfa1b510713b7436c9d7e421333c96",
+      "case_rows": 7648
+    },
+    {
+      "region": "WTE",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2025List.gzip",
+      "sha256": "02acd00574fac44d1c41065f94bbe6e7c4a26629e1a0453ae2c8bf799fe58a90",
+      "case_rows": 7092
+    },
+    {
+      "region": "WTE",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2026List.gzip",
+      "sha256": "4d74fc859f95e51599d66999772ad219fd6520443b58f4652f41f3d21b17c034",
+      "case_rows": 5343
+    },
+    {
+      "region": "WTW",
+      "year": 2008,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2008List.gzip",
+      "sha256": "e70d7743cc182dc91cf6d2d5aff40dbfce544e165eac5895829609910d27c1f4",
+      "case_rows": 1273
+    },
+    {
+      "region": "WTW",
+      "year": 2009,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2009List.gzip",
+      "sha256": "52fd0055811c1674cf98afc6d6c0a6c84e13e1f2362a7de0e09fe16e7992b580",
+      "case_rows": 1945
+    },
+    {
+      "region": "WTW",
+      "year": 2010,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2010List.gzip",
+      "sha256": "e4b9b21aab31285561cd188503e60a80a7d1f6dcb78c40f74fe579aaac7b6298",
+      "case_rows": 1917
+    },
+    {
+      "region": "WTW",
+      "year": 2011,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2011List.gzip",
+      "sha256": "a464382e46b2e1c97cccf1671572126e12926e3f97ee3423a72f45416b19da94",
+      "case_rows": 2824
+    },
+    {
+      "region": "WTW",
+      "year": 2012,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2012List.gzip",
+      "sha256": "6e6b8730c33154bd024cce5acb24fb63f295842b92f338447841a3f49c4a882f",
+      "case_rows": 2621
+    },
+    {
+      "region": "WTW",
+      "year": 2013,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2013List.gzip",
+      "sha256": "cc2111789f72b1ef9b8468e94b7b708274e514d20fe38204c042ba5808383f23",
+      "case_rows": 2195
+    },
+    {
+      "region": "WTW",
+      "year": 2014,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2014List.gzip",
+      "sha256": "322d28561599ef5964fd94e567ba0e82c0228e4a7427f79a28d25f5d4a342eba",
+      "case_rows": 2480
+    },
+    {
+      "region": "WTW",
+      "year": 2015,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2015List.gzip",
+      "sha256": "89edd73f2c65abecdc61e5c757217d82ec4bb74d1fa00712ee0f0cba847fb413",
+      "case_rows": 3140
+    },
+    {
+      "region": "WTW",
+      "year": 2016,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2016List.gzip",
+      "sha256": "511c92439cce9f5d3b74339f911a19a2060f1223bd828901a798c11f686b4275",
+      "case_rows": 2510
+    },
+    {
+      "region": "WTW",
+      "year": 2017,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2017List.gzip",
+      "sha256": "be270c371b560061001a70eb6470a82af6ce0911e804215a9e1d580888271ed2",
+      "case_rows": 3124
+    },
+    {
+      "region": "WTW",
+      "year": 2018,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2018List.gzip",
+      "sha256": "e370adf20d0a2e2e04f0001034e340b3340abc5c785c077a38a26685bf38c6dc",
+      "case_rows": 6800
+    },
+    {
+      "region": "WTW",
+      "year": 2019,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2019List.gzip",
+      "sha256": "8911f5644db62ca44562f869f2d8a738b609f8f8981d2c0021312981783c9c70",
+      "case_rows": 4465
+    },
+    {
+      "region": "WTW",
+      "year": 2020,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2020List.gzip",
+      "sha256": "64563aa8d7a3c0f91735c56508fe6d0dfdf6b51d761b487b4a33d8c8beb2c293",
+      "case_rows": 2728
+    },
+    {
+      "region": "WTW",
+      "year": 2021,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2021List.gzip",
+      "sha256": "d544e242e4827048403642029d59635100832ebf98adc0088ec1361f72b85bf3",
+      "case_rows": 3117
+    },
+    {
+      "region": "WTW",
+      "year": 2022,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2022List.gzip",
+      "sha256": "19ffc7c7cbc9e825d3d2c9d6158c8efb8e5032b62fe6533ec577c9331b146497",
+      "case_rows": 4235
+    },
+    {
+      "region": "WTW",
+      "year": 2023,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2023List.gzip",
+      "sha256": "a225f5ae858bce3dd19c8bfdd784a2dec669921979432f0cdc929236f4f9702f",
+      "case_rows": 8490
+    },
+    {
+      "region": "WTW",
+      "year": 2024,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2024List.gzip",
+      "sha256": "df136f4a130e9777eba775a32c8b43d3a61ce075e0eb9e8e72ccca1c7713352a",
+      "case_rows": 11699
+    },
+    {
+      "region": "WTW",
+      "year": 2025,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2025List.gzip",
+      "sha256": "893e05b01e470f43156e06784c0eacd2f0c885fe3976a8b4d98a758e2f1e19da",
+      "case_rows": 13805
+    },
+    {
+      "region": "WTW",
+      "year": 2026,
+      "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2026List.gzip",
+      "sha256": "3598b1df282858356caadbb3a1bf96d65f0f392968487826ca75cef0454cb59d",
+      "case_rows": 11397
+    }
+  ],
+  "held": [
+    {
+      "asn": "2024-ACE-2207-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-2230-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5896-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5897-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5898-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5899-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5900-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5901-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5902-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5903-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5904-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5905-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5906-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5907-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5908-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5909-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5910-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5911-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5912-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5913-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5952-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5953-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5954-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5955-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5956-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5957-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5958-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5959-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5960-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5961-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5962-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5963-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5964-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5966-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5967-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5968-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5969-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5970-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5971-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5972-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5973-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5974-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5980-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5981-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5982-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5983-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5984-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5985-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5986-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5987-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5988-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2024-ACE-5989-OE",
+      "state": "IA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+    },
+    {
+      "asn": "2026-ACE-1911-OE",
+      "state": "IA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2026List.gzip"
+    },
+    {
+      "asn": "2022-AEA-11675-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2022List.gzip"
+    },
+    {
+      "asn": "2022-AEA-14161-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2022List.gzip"
+    },
+    {
+      "asn": "2023-AEA-1029-OE",
+      "state": "VA",
+      "reason": "Different named structure use; supporting or separate site requires review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-3187-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-3188-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-3189-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-3190-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-4065-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-4066-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-4067-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-4068-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-4111-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-4112-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2023-AEA-8128-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+    },
+    {
+      "asn": "2024-AEA-12570-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip"
+    },
+    {
+      "asn": "2024-AEA-12779-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip"
+    },
+    {
+      "asn": "2024-AEA-12780-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip"
+    },
+    {
+      "asn": "2024-AEA-12781-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip"
+    },
+    {
+      "asn": "2024-AEA-12782-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip"
+    },
+    {
+      "asn": "2025-AEA-453-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-1282-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2270-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2291-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2292-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2293-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2300-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2301-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2302-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2305-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2306-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2307-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2308-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-2309-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-5036-OE",
+      "state": "VA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-10782-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-10783-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-10784-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-10786-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-10787-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2025-AEA-10788-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+    },
+    {
+      "asn": "2026-AEA-3781-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-8625-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-8681-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-9679-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-9982-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-9983-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-9985-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-9986-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-11111-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-11113-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-11157-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-11314-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12606-OE",
+      "state": "NJ",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12699-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12749-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12750-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12751-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12752-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12849-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-12851-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-14050-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-14051-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-14054-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-14055-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-14058-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2026-AEA-14117-OE",
+      "state": "VA",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+    },
+    {
+      "asn": "2024-AGL-13453-OE",
+      "state": "IL",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2024List.gzip"
+    },
+    {
+      "asn": "2025-AGL-6152-OE",
+      "state": "OH",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip"
+    },
+    {
+      "asn": "2025-AGL-11285-OE",
+      "state": "OH",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip"
+    },
+    {
+      "asn": "2026-AGL-5285-OE",
+      "state": "IL",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip"
+    },
+    {
+      "asn": "2026-AGL-15068-OE",
+      "state": "IL",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip"
+    },
+    {
+      "asn": "2026-AGL-16291-OE",
+      "state": "IL",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip"
+    },
+    {
+      "asn": "2026-AGL-16754-OE",
+      "state": "IL",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip"
+    },
+    {
+      "asn": "2026-AGL-16758-OE",
+      "state": "IL",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip"
+    },
+    {
+      "asn": "2013-ANM-1381-NRA",
+      "state": "CO",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2013List.gzip"
+    },
+    {
+      "asn": "2013-ANM-1383-NRA",
+      "state": "CO",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2013List.gzip"
+    },
+    {
+      "asn": "2024-ANM-3170-OE",
+      "state": "WY",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2024List.gzip"
+    },
+    {
+      "asn": "2025-ANM-2262-OE",
+      "state": "OR",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip"
+    },
+    {
+      "asn": "2025-ANM-2263-OE",
+      "state": "OR",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip"
+    },
+    {
+      "asn": "2025-ANM-2264-OE",
+      "state": "OR",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip"
+    },
+    {
+      "asn": "2025-ANM-2266-OE",
+      "state": "OR",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip"
+    },
+    {
+      "asn": "2025-ANM-2360-OE",
+      "state": "CO",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip"
+    },
+    {
+      "asn": "2026-ANM-1017-OE",
+      "state": "OR",
+      "reason": "Nearby or indirect reference; manual site check required",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip"
+    },
+    {
+      "asn": "2024-ASO-22496-OE",
+      "state": "TN",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24486-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24487-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24488-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24489-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24490-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24491-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24492-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24493-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24494-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24495-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24496-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24497-OE",
+      "state": "GA",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2024-ASO-24515-OE",
+      "state": "GA",
+      "reason": "Different named structure use; supporting or separate site requires review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+    },
+    {
+      "asn": "2025-ASO-2429-OE",
+      "state": "AL",
+      "reason": "Different named structure use; supporting or separate site requires review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip"
+    },
+    {
+      "asn": "2025-ASO-11899-NRA",
+      "state": "GA",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip"
+    },
+    {
+      "asn": "2025-ASO-11900-NRA",
+      "state": "GA",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip"
+    },
+    {
+      "asn": "2025-ASO-11901-NRA",
+      "state": "GA",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip"
+    },
+    {
+      "asn": "2025-ASO-11902-NRA",
+      "state": "GA",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip"
+    },
+    {
+      "asn": "2026-ASO-21438-OE",
+      "state": "AL",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip"
+    },
+    {
+      "asn": "2013-ASW-5648-NRA",
+      "state": "OK",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip"
+    },
+    {
+      "asn": "2013-ASW-5649-NRA",
+      "state": "OK",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip"
+    },
+    {
+      "asn": "2013-ASW-5650-NRA",
+      "state": "OK",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip"
+    },
+    {
+      "asn": "2013-ASW-5651-NRA",
+      "state": "OK",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip"
+    },
+    {
+      "asn": "2013-ASW-5652-NRA",
+      "state": "OK",
+      "reason": "Not a US off-airport case in the geographic directory",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip"
+    },
+    {
+      "asn": "2026-ASW-18809-OE",
+      "state": "OK",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip"
+    },
+    {
+      "asn": "2022-AWP-8269-OE",
+      "state": "CA",
+      "reason": "Different named structure use; supporting or separate site requires review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2022List.gzip"
+    },
+    {
+      "asn": "2023-AWP-15866-OE",
+      "state": "AZ",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2023List.gzip"
+    },
+    {
+      "asn": "2023-AWP-20749-OE",
+      "state": "AZ",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2023List.gzip"
+    },
+    {
+      "asn": "2024-AWP-12529-OE",
+      "state": "AZ",
+      "reason": "Outcome or case status requires manual review",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2024List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18047-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18048-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18049-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18050-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18051-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18052-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18053-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18054-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18055-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18056-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18057-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18058-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18059-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18060-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18061-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18062-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18063-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    },
+    {
+      "asn": "2026-AWP-18064-OE",
+      "state": "NV",
+      "reason": "No completed action dated within this edition",
+      "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+    }
+  ],
+  "limits": "Named structure or proposal only. Includes dated off-airport determinations on temporary equipment. Distinct study numbers are not counts of campus projects or permits. Several filings for one site are common."
+}

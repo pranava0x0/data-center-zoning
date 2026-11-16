@@ -1,0 +1,80 @@
+{
+  "https://data.marincounty.gov/api/views/mkbn-caye": {
+    "sha256": "5a778d81b18de05950169d3e08d76adb8a1668e0096d353d8f955102c3a951e0",
+    "bytes": 54113,
+    "retrieved": "2026-11-16T06:49:07+00:00",
+    "resolved": "https://data.marincounty.gov/api/views/mkbn-caye"
+  },
+  "https://data.marincounty.gov/resource/mkbn-caye.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T06:49:14+00:00",
+    "resolved": "https://data.marincounty.gov/resource/mkbn-caye.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.oxnard.org/api/views/vmzx-48vx": {
+    "sha256": "13aab7fb9ef31418883463dde80e755ccce2d0e329c0ee2647ff36c666c6485b",
+    "bytes": 60621,
+    "retrieved": "2026-11-16T06:49:16+00:00",
+    "resolved": "https://oxnardca.opengov.com/data"
+  },
+  "https://corstat.coronaca.gov/api/views/2agx-camz": {
+    "sha256": "26199bcdad92e4a7da0c60809eea6e24438b430a7e796c15a979694380ecfc20",
+    "bytes": 45949,
+    "retrieved": "2026-11-16T06:49:16+00:00",
+    "resolved": "https://corstat.coronaca.gov/api/views/2agx-camz"
+  },
+  "https://corstat.coronaca.gov/resource/2agx-camz.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T06:49:23+00:00",
+    "resolved": "https://corstat.coronaca.gov/resource/2agx-camz.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.sonomacounty.ca.gov/api/views/88ms-k5e7": {
+    "sha256": "561403bfa18e22412403102039f0189d379524881bff6f407804f791db3c0d28",
+    "bytes": 24658,
+    "retrieved": "2026-11-16T06:49:23+00:00",
+    "resolved": "https://data.sonomacounty.ca.gov/api/views/88ms-k5e7"
+  },
+  "https://data.sonomacounty.ca.gov/resource/88ms-k5e7.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T06:49:24+00:00",
+    "resolved": "https://data.sonomacounty.ca.gov/resource/88ms-k5e7.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.cincinnati-oh.gov/api/views/uhjb-xac9": {
+    "sha256": "e157650f4f4b4a80c192f3eca3e2485aadf0f78e8912e656435ba5b4b9132247",
+    "bytes": 55274,
+    "retrieved": "2026-11-16T06:49:30+00:00",
+    "resolved": "https://data.cincinnati-oh.gov/api/views/uhjb-xac9"
+  },
+  "https://data.cincinnati-oh.gov/resource/uhjb-xac9.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T06:49:30+00:00",
+    "resolved": "https://data.cincinnati-oh.gov/resource/uhjb-xac9.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://illinois-edp.data.socrata.com/api/views/3k8p-pkx8": {
+    "sha256": "12cd2c06f9f8a51ab8b46a19444372f126351205f049e7ce51a089bfb78d9046",
+    "bytes": 28015,
+    "retrieved": "2026-11-16T06:49:31+00:00",
+    "resolved": "https://illinois-edp.data.socrata.com/api/views/3k8p-pkx8"
+  },
+  "https://illinois-edp.data.socrata.com/resource/3k8p-pkx8.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T06:49:32+00:00",
+    "resolved": "https://illinois-edp.data.socrata.com/resource/3k8p-pkx8.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://parkeronline.data.socrata.com/api/views/f6vi-7y2m": {
+    "sha256": "affb155d0e9532b56dfc8668439f0b22b7c4a3400414594db4dd805beff87323",
+    "bytes": 30881,
+    "retrieved": "2026-11-16T06:49:33+00:00",
+    "resolved": "https://parkeronline.data.socrata.com/api/views/f6vi-7y2m"
+  },
+  "https://parkeronline.data.socrata.com/resource/f6vi-7y2m.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T06:49:38+00:00",
+    "resolved": "https://parkeronline.data.socrata.com/resource/f6vi-7y2m.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  }
+}

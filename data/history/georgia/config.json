@@ -1,0 +1,70 @@
+{
+  "atlas": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "places": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11",
+  "cutoff": "2026-11-16",
+  "air_search": {
+    "Data Center": {
+      "Name": "Data Center"
+    },
+    "Datacenter": {
+      "Name": "Datacenter"
+    },
+    "Google": {
+      "Name": "Google"
+    },
+    "QTS": {
+      "Name": "QTS"
+    },
+    "Microsoft": {
+      "Name": "Microsoft"
+    },
+    "Digital Realty": {
+      "Name": "Digital Realty"
+    },
+    "Vantage": {
+      "Name": "Vantage"
+    },
+    "Equinix": {
+      "Name": "Equinix"
+    },
+    "Stack Infrastructure": {
+      "Name": "Stack Infrastructure"
+    },
+    "Flexential": {
+      "Name": "Flexential"
+    },
+    "Switch": {
+      "Name": "Switch"
+    },
+    "CoreSite": {
+      "Name": "CoreSite"
+    },
+    "Quality Technology Services": {
+      "Name": "Quality Technology Services"
+    },
+    "Amazon Data": {
+      "Name": "Amazon Data"
+    },
+    "DC BLOX": {
+      "Name": "DC BLOX"
+    },
+    "Meta Platforms": {
+      "Name": "Meta Platforms"
+    },
+    "SIC 7374": {
+      "Permit": "7374"
+    }
+  },
+  "arc_terms": [
+    "data center",
+    "datacenter",
+    "data centre",
+    "server farm"
+  ],
+  "local_docs": {
+    "douglas20241001": "https://douglascountyga.gov/DocumentCenter/View/11134/DRAFT-10-1-2024-Zoning-Agenda",
+    "douglas20250204": "https://douglascountyga.gov/DocumentCenter/View/11648/2-4-2025-Zoning-Agenda_revised_?bidId=",
+    "douglas20260203": "https://douglascountyga.gov/DocumentCenter/View/13708/DRAFT-2-3-2026-Zoning-Agenda?bidId=",
+    "douglas20240206": "https://www.douglascountyga.gov/DocumentCenter/View/10322/2-6-2024-Zoning-Agenda-003?bidId="
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "rows": 50,
+  "by_register": {
+    "Metro Nashville Codes Permit History": 28,
+    "Franklin Municipal Planning Commission site plans": 2,
+    "EPA ICIS-NPDES permit versions": 19,
+    "Shelby County Health Department air permits": 1
+  },
+  "parcels": 9,
+  "parcel_rows_screened": 564,
+  "epa_facilities_screened": 29810,
+  "epa_permit_versions_screened": 52555,
+  "epa_held": [
+    {
+      "npdes_id": "TNR242446",
+      "name": "FOXMAN LLC",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TNR242315",
+      "name": "FOXMAN LLC",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TNR244448",
+      "name": "GALLATIN INDUSTRIAL PARK",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TNR241339",
+      "name": "GALLATIN INDUSTRIAL PARK",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TNR244440",
+      "name": "GALLATIN INDUSTRIAL PARK",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TNR244619",
+      "name": "GALLATIN INDUSTRIAL PARK",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TNR244179",
+      "name": "WOOLHAWK LLC",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TN0080888",
+      "name": "HEMLOCK SEMICONDUCTOR, L.L.C.",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TN0080845",
+      "name": "HEMLOCK SEMICONDUCTOR, LLC",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    },
+    {
+      "npdes_id": "TN0082058",
+      "name": "JE DUNN CONSTRUCTION",
+      "reason": "Alias/address-only ECHO lead; no accepted facility use and permit join"
+    }
+  ],
+  "held_remote_catalogs": {
+    "nash_issued": "robots preflight HTTP 403",
+    "nash_app": "robots preflight HTTP 403",
+    "nash_trade": "robots preflight HTTP 403",
+    "shelby": "robots preflight HTTP 504",
+    "frank2016": "robots preflight HTTP 403",
+    "frank2017": "robots preflight HTTP 403",
+    "frank2018": "robots preflight HTTP 403",
+    "frank2018q4": "robots preflight HTTP 403",
+    "frank2019": "robots preflight HTTP 403"
+  },
+  "unreviewed_gis_candidates": {}
+}

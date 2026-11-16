@@ -1,0 +1,338 @@
+[
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 1,
+  "snippet": "*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--paper);color:",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 1,
+  "snippet": "*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--paper);color:",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 1,
+  "snippet": "*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--paper);color:",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 1,
+  "snippet": "*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--paper);color:",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 1,
+  "snippet": "*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--paper);color:",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 1,
+  "snippet": "*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--paper);color:",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 3,
+  "snippet": "#more{position:fixed;inset:12% 4vw auto auto;width:min(315px,92vw);border:1px solid var(--line);box-",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 4,
+  "snippet": ".layout{display:grid;grid-template-columns:minmax(275px,.82fr) minmax(360px,1.2fr);align-items:start",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 5,
+  "snippet": "#context{padding:5px 10px;display:flex;align-items:center;gap:8px;font-size:12px;flex-wrap:wrap}#con",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 5,
+  "snippet": "#context{padding:5px 10px;display:flex;align-items:center;gap:8px;font-size:12px;flex-wrap:wrap}#con",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 5,
+  "snippet": "#context{padding:5px 10px;display:flex;align-items:center;gap:8px;font-size:12px;flex-wrap:wrap}#con",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "viewer/style.css",
+  "line": 12,
+  "snippet": ".mapcounts{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-block:1px solid var(--line)",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ }
+]

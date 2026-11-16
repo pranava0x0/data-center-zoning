@@ -1,0 +1,146 @@
+{
+  "data center": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 1642,
+      "sha256": "8f31391c21e43ecd27e20e869267887acd3ce8ddbef209fe74ecc31036f278d9",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "data center",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "datacenter": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 1642,
+      "sha256": "8f31391c21e43ecd27e20e869267887acd3ce8ddbef209fe74ecc31036f278d9",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "datacenter",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "data centre": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 122,
+      "sha256": "e12a8986782aa06da91019e4e2c92781dea859aa6f4221e84893ceb4c7068b60",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "data centre",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "server farm": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 122,
+      "sha256": "e12a8986782aa06da91019e4e2c92781dea859aa6f4221e84893ceb4c7068b60",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "server farm",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "hyperscale": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 122,
+      "sha256": "e12a8986782aa06da91019e4e2c92781dea859aa6f4221e84893ceb4c7068b60",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "hyperscale",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "server campus": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 122,
+      "sha256": "e12a8986782aa06da91019e4e2c92781dea859aa6f4221e84893ceb4c7068b60",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "server campus",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "data processing center": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 122,
+      "sha256": "e12a8986782aa06da91019e4e2c92781dea859aa6f4221e84893ceb4c7068b60",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 100,
+        "pageNumber": 1,
+        "searchText": "data processing center",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ],
+  "": [
+    {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotices",
+      "ext": "json",
+      "bytes": 126904,
+      "sha256": "a0496fb7d2b6aa7cd1cbf9b19def2507ed96f1298cbc3b166b81410494dbde8e",
+      "method": "POST",
+      "body": {
+        "districtCodes": [],
+        "states": [],
+        "itemsPerPage": 250,
+        "pageNumber": 1,
+        "searchText": "",
+        "sortColumn": "",
+        "sortOrder": "desc"
+      }
+    }
+  ]
+}

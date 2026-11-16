@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fed-faa-2014-aso-3872-oe",
+    "state": "MS",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Lamar County",
+    "county": "Lamar County",
+    "record_no": "2014-ASO-3872-OE",
+    "project": "Data Center",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2014-05-12",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2014List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2014List.gzip",
+    "source_sha256": "f3d9d67e0a2ffa56f47ffba34a1ac767641344320d8a585224e2cb167021cafe",
+    "locator": "ASO 2014 off-airport CSV · STUDY (ASN) 2014-ASO-3872-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Hattiesburg",
+      "original_structure_type": "TOWER$ANTENNA",
+      "prior_study": "2013-ASO-5820-OE",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "increase height for appurtenances. Request lighting wavier as this sits next to ASR 1041666",
+      "original_determination": "No Hazard"
+    }
+  },
+  {
+    "id": "fed-faa-2026-aso-18584-oe",
+    "state": "MS",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "DeSoto County",
+    "county": "DeSoto County",
+    "record_no": "2026-ASO-18584-OE",
+    "project": "330T - Gun Range Datacenter",
+    "kind": "Airspace review of construction equipment",
+    "status": "No Hazard",
+    "date": "2026-10-21",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip",
+    "source_sha256": "994cfbc30169a416f9c4111f020f5d3a1cf316df77e63dec4a71248f3be7eb71",
+    "locator": "ASO 2026 off-airport CSV · STUDY (ASN) 2026-ASO-18584-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Southaven",
+      "original_structure_type": "CRANE",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Temporary construction crane. Existing building did not require filing with FAA.",
+      "original_determination": "No Hazard"
+    }
+  }
+]

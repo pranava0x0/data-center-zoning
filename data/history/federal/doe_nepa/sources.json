@@ -1,0 +1,128 @@
+{
+  "https://www.energy.gov/nepa/articles/cx-270956-environmental-site-assessment-esa-batch-1-leased-property-portsmouth": {
+    "sha256": "64269726448a3a22ec64e9d6172e33f38fe0e555446db3340ce7b4908a311022",
+    "bytes": 116132,
+    "retrieved": "2026-11-16T07:51:14+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-270956-environmental-site-assessment-esa-batch-1-leased-property-portsmouth"
+  },
+  "https://www.energy.gov/nepa/articles/cx-271104-site-characterization-and-environmental-monitoring-parcel-b-paducah-gaseous": {
+    "sha256": "3226c6df9b01d547bb28c0cf7341ff43e659008b728696536c556b5b98fab117",
+    "bytes": 116825,
+    "retrieved": "2026-11-16T07:51:15+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-271104-site-characterization-and-environmental-monitoring-parcel-b-paducah-gaseous"
+  },
+  "https://www.energy.gov/nepa/articles/cx-270971-lease-real-property-leasing-parcel-b-paducah-gaseous-diffusion-plant": {
+    "sha256": "21a3f038777138c074a244cf57254c13a8ea5cfd464dfd7716409e6db2db4f46",
+    "bytes": 116294,
+    "retrieved": "2026-11-16T07:51:15+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-270971-lease-real-property-leasing-parcel-b-paducah-gaseous-diffusion-plant"
+  },
+  "https://www.energy.gov/nepa/articles/cx-270875-4511a-086-lease-real-property-batch-1-property-portsmouth-gaseous-diffusion": {
+    "sha256": "a09f8ad084eba73af3d355c11c05c41dceddd89b25d542c56b9b9048de972b9d",
+    "bytes": 115869,
+    "retrieved": "2026-11-16T07:51:16+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-270875-4511a-086-lease-real-property-batch-1-property-portsmouth-gaseous-diffusion"
+  },
+  "https://www.energy.gov/nepa/articles/cx-008184-categorical-exclusion-determination": {
+    "sha256": "0accd691e1e554f5639606e368517cd41d58ed4eab5e5be09db30889c60dcfea",
+    "bytes": 115202,
+    "retrieved": "2026-11-16T07:51:16+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-008184-categorical-exclusion-determination"
+  },
+  "https://www.energy.gov/nepa/articles/cx-012317-categorical-exclusion-determination": {
+    "sha256": "7fe573b890d52e69e60c11aab75bf6c7d407b6a5b4e2657994a973484c468f1f",
+    "bytes": 114661,
+    "retrieved": "2026-11-16T07:51:16+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-012317-categorical-exclusion-determination"
+  },
+  "https://www.energy.gov/nepa/articles/cx-013962-categorical-exclusion-determination": {
+    "sha256": "aed93a88662fabff5229c69dd72466cc92adbfa9fc7c9f0339ca8135879eff70",
+    "bytes": 114843,
+    "retrieved": "2026-11-16T07:51:17+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-013962-categorical-exclusion-determination"
+  },
+  "https://www.energy.gov/sites/default/files/2026-04/CX-270956.pdf": {
+    "sha256": "45ef813e14947415a7e535ad4c00e97ab2c4babb2e4c02383d51205e57128cd2",
+    "bytes": 579321,
+    "retrieved": "2026-11-16T07:51:29+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2026-04/CX-270956.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/2026-11/CX-271104.pdf": {
+    "sha256": "ececd1015a8636fc0f5fc7f2355fa38745259f4cf99f932bf9a2423508bb15ac",
+    "bytes": 1619211,
+    "retrieved": "2026-11-16T07:51:30+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2026-11/CX-271104.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/2026-05/CX-270971.pdf": {
+    "sha256": "829f4ba138a0d50ea7348718736b91adb12ef59f356f0bcce0703c6362ce141d",
+    "bytes": 607362,
+    "retrieved": "2026-11-16T07:51:30+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2026-05/CX-270971.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/2025-11/CX-270875.pdf": {
+    "sha256": "7a6db93b9051295d5c43139c690ed38daa48fc89445ab0c6a7c4e8c0616d39a2",
+    "bytes": 594385,
+    "retrieved": "2026-11-16T07:51:30+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2025-11/CX-270875.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/CX-008184.pdf": {
+    "sha256": "8ea96768a30f7120076368c450ae84fcff23d467c99eeb7d432be40657ed31e0",
+    "bytes": 51650,
+    "retrieved": "2026-11-16T07:51:30+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/CX-008184.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/2014/10/f18/CX-012317.pdf": {
+    "sha256": "9c624dabb2737515e80d31ebefd9225c25ad2673d1f048edfc11cb9b8121f082",
+    "bytes": 73261,
+    "retrieved": "2026-11-16T07:51:31+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2014/10/f18/CX-012317.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/CX-013962.pdf": {
+    "sha256": "d06982dca54866bb4c93d7bc7612b2b6c9069927fba99eaa8b24448d748225fc",
+    "bytes": 448349,
+    "retrieved": "2026-11-16T07:51:31+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/CX-013962.pdf"
+  },
+  "https://www.energy.gov/sites/default/files/2026-03/ea-1975-sa-03-2023-12.pdf": {
+    "sha256": "df5ada19efb0b40d84f0b511739abce4c555d0d3261f898023fa65a2b9d08390",
+    "bytes": 3646380,
+    "retrieved": "2026-11-16T07:52:53+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2026-03/ea-1975-sa-03-2023-12.pdf"
+  },
+  "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power": {
+    "sha256": "db003738dede56fa8162b6832010111d28ddb0002585e552a0f7973f15d3a80a",
+    "bytes": 123711,
+    "retrieved": "2026-11-16T07:52:54+00:00",
+    "resolved": "https://www.energy.gov/articles/energy-department-announces-partnership-expand-reliable-affordable-energy-access-and-power"
+  },
+  "https://www.energy.gov/articles/fact-sheet-department-energy-ensuring-affordable-energy-access-ohio-while-powering-future": {
+    "sha256": "ecf1072344e307b1481744a6c1af50d7bad8835a9bc71aa1a9503f9019ebe90e",
+    "bytes": 124594,
+    "retrieved": "2026-11-16T07:52:54+00:00",
+    "resolved": "https://www.energy.gov/articles/fact-sheet-department-energy-ensuring-affordable-energy-access-ohio-while-powering-future"
+  },
+  "https://www.energy.gov/ne/nuclear-facility-operations": {
+    "sha256": "3b9756cab04475f1f3bff2ecb07bca9bd7bc86878bcc598bec8279aae36730c5",
+    "bytes": 120108,
+    "retrieved": "2026-11-16T07:53:12+00:00",
+    "resolved": "https://www.energy.gov/ne/nuclear-facility-operations"
+  },
+  "https://www.energy.gov/sites/default/files/2024-09/final-ea-2258-httf-at-idnl-2024-09.pdf": {
+    "sha256": "19fd7fba1fdd7144bcadd0bb039de4aa6df353dbabe312a3762a6f98f5109c63",
+    "bytes": 2606570,
+    "retrieved": "2026-11-16T07:53:13+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2024-09/final-ea-2258-httf-at-idnl-2024-09.pdf"
+  },
+  "https://www.energy.gov/nepa/ea-1866-modernization-planning-argonne-national-laboratory-illinois": {
+    "sha256": "81d1a1bc2eb4d8214e3946aa88644ebcbe24d44770a439667c863e0dcb4e8054",
+    "bytes": 113112,
+    "retrieved": "2026-11-16T07:53:38+00:00",
+    "resolved": "https://www.energy.gov/nepa/ea-1866-modernization-planning-argonne-national-laboratory-illinois"
+  },
+  "https://ioem.idaho.gov/wp-content/uploads/2020/05/idaho-ng911-esinet-recommendations-report-20200507-final.pdf": {
+    "sha256": "5bd4dffe35d53ab3c30b9de2309f1383bafde88b376a9fd1b1ef2fe3a2e9c3c5",
+    "bytes": 1377382,
+    "retrieved": "2026-11-16T07:54:11+00:00",
+    "resolved": "https://ioem.idaho.gov/wp-content/uploads/2020/05/idaho-ng911-esinet-recommendations-report-20200507-final.pdf"
+  }
+}

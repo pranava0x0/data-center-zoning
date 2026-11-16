@@ -1,0 +1,34 @@
+[
+  {
+    "id": "territory-grant-d21ap10148",
+    "dataset": "Interior insular data-center financial assistance",
+    "state": "VI",
+    "jurisdiction": "U.S. Virgin Islands",
+    "record_no": "D21AP10148",
+    "project": "USVI Bureau of Information Technology Data Center Maintenance Management Solution",
+    "kind": "Federal financial assistance",
+    "status": "Awarded",
+    "date": "2021-07-06",
+    "date_role": "Federal award date_signed (USAspending)",
+    "url": "https://www.usaspending.gov/award/ASST_NON_D21AP10148_014",
+    "source_url": "https://api.usaspending.gov/api/v2/awards/ASST_NON_D21AP10148_014/",
+    "locator": "Federal award / D21AP10148; description, recipient, date_signed and period_of_performance",
+    "details": {
+      "federal_issuer": "U.S. Department of the Interior — Office of Insular Affairs",
+      "federal_reference": "D21AP10148",
+      "action_date": "2021-07-06",
+      "total_obligation_usd": 175000.0,
+      "recipient": "OFFICE OF MANAGEMENT & BUDGET",
+      "location_scope": "territory only; no site address established",
+      "scope": "Maintenance management funding. Prime recipient is the territorial Office of Management & Budget; the award explicitly identifies BIT. No attribution to one or both of the two named territorial data centers.",
+      "source_sha256": "5864a63b269fb04ac50369afd926e9001aea6cf947088724a8c1ee67bf4d7363",
+      "government_corroboration": "https://www.doi.gov/sites/default/files/usvi-receives-3417256.33-in-tap-map-and-cares-act-funds-for-fy-2021.pdf",
+      "performance_period": {
+        "start_date": "2021-06-14",
+        "end_date": "2025-09-30",
+        "last_modified_date": "2024-07-16"
+      },
+      "record_class": "Federal financial assistance, not a permitting or environmental decision"
+    }
+  }
+]

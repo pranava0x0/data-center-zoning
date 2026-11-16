@@ -1,0 +1,494 @@
+{
+  "https://henrico.gov/public-data/categories/plans-development/": {
+    "sha256": "bd8a5a195b2b343b8be53bde96ffe944ab4cf19e789e3929fa501e9d3fdc2725",
+    "bytes": 253950,
+    "retrieved": "2026-11-16T07:39:26+00:00",
+    "resolved": "https://henrico.gov/public-data/categories/plans-development/"
+  },
+  "https://henrico.gov/public-data/tags/permits/": {
+    "sha256": "c9d1278c8e0dff7092349b46eca6228159e69d9ebf845049f2fb3440eed8069c",
+    "bytes": 227809,
+    "retrieved": "2026-11-16T07:39:27+00:00",
+    "resolved": "https://henrico.gov/public-data/tags/permits/"
+  },
+  "https://henrico.gov/public-data/162486-2/": {
+    "sha256": "31966cff17ed06037edb3a41f242c2ce4fcf23523bf3bed007e6df9d0ebae0e3",
+    "bytes": 116740,
+    "retrieved": "2026-11-16T07:39:28+00:00",
+    "resolved": "https://henrico.gov/public-data/162486-2/"
+  },
+  "https://henrico.gov/assets/OCT2025_TradePermits.xlsx": {
+    "sha256": "47664fab0d1bc06aa3695476d2f06b77207791a674b34e681a861e08160b36a9",
+    "bytes": 155550,
+    "retrieved": "2026-11-16T07:39:28+00:00",
+    "resolved": "https://henrico.gov/assets/OCT2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/165447-2/": {
+    "sha256": "ca852c58b535ccff4ab8a99af1bb763755e5c82d1e1995bcf1021ab7938632e3",
+    "bytes": 115311,
+    "retrieved": "2026-11-16T07:39:30+00:00",
+    "resolved": "https://henrico.gov/public-data/165447-2/"
+  },
+  "https://henrico.gov/assets/JAN2026_BuildingPermits.xlsx": {
+    "sha256": "3727e138ca504123dae32044d61668d8b5fd38c5dd15770f09f7a8823c92e6fc",
+    "bytes": 62901,
+    "retrieved": "2026-11-16T07:39:30+00:00",
+    "resolved": "https://henrico.gov/assets/JAN2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/171351-2/": {
+    "sha256": "f7ca85ecc79ccb39cf8efab2ac4ca79685d1208198c86775ad34d46d36a1aaa3",
+    "bytes": 115315,
+    "retrieved": "2026-11-16T07:39:31+00:00",
+    "resolved": "https://henrico.gov/public-data/171351-2/"
+  },
+  "https://henrico.gov/assets/MAR2026_BuildingPermits.xlsx": {
+    "sha256": "e9d64a4f0606061bf0901e3b90885120938d7841c32f3f3465fbb4fa83df28fd",
+    "bytes": 92727,
+    "retrieved": "2026-11-16T07:39:31+00:00",
+    "resolved": "https://henrico.gov/assets/MAR2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permit-september-2025/": {
+    "sha256": "26e04ed34585ae2c29f1806ec5c9bb9ef676e2c3542dffd73dcfff40dc3d7eb4",
+    "bytes": 115467,
+    "retrieved": "2026-11-16T07:39:33+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permit-september-2025/"
+  },
+  "https://henrico.gov/assets/SEP2025_BuildingPermit.xlsx": {
+    "sha256": "50f6331d724c24283dd2cf700cbad6564b3edf7dd162ecdbb8923dbe15750222",
+    "bytes": 82127,
+    "retrieved": "2026-11-16T07:39:33+00:00",
+    "resolved": "https://henrico.gov/assets/SEP2025_BuildingPermit.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-april-2025/": {
+    "sha256": "4fd75d9979bfb6be5f64ab4056c40c76d80a83a4208b37ae0b081a106b968c93",
+    "bytes": 115418,
+    "retrieved": "2026-11-16T07:39:34+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-april-2025/"
+  },
+  "https://henrico.gov/assets/APR2025_BuildingPermits.xlsx": {
+    "sha256": "034f64b2bbbc0d1d2002bbf7fb8c2b1b35d151de68e4cda23f20eb3b8a57ccc6",
+    "bytes": 99932,
+    "retrieved": "2026-11-16T07:39:34+00:00",
+    "resolved": "https://henrico.gov/assets/APR2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-april-2026/": {
+    "sha256": "c69633b9ea62e4eaafb7bc9628e9a275a3db715e4894eeb5f890d807bfbda5f7",
+    "bytes": 115461,
+    "retrieved": "2026-11-16T07:39:35+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-april-2026/"
+  },
+  "https://henrico.gov/assets/APR2026_BuildingPermits.xlsx": {
+    "sha256": "ef5158b49050e590ce7b9451aa020818cb2c880ba65798d5cc34d9f2a398fd07",
+    "bytes": 105257,
+    "retrieved": "2026-11-16T07:39:36+00:00",
+    "resolved": "https://henrico.gov/assets/APR2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-august-2025/": {
+    "sha256": "d84318e275d747650b7e49cd46cc71a5929e0de460d03b4d89802e4d184dba25",
+    "bytes": 115451,
+    "retrieved": "2026-11-16T07:39:37+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-august-2025/"
+  },
+  "https://henrico.gov/assets/AUG2025_BuildingPermits.xlsx": {
+    "sha256": "c479a9267260b0dbbf25c6673eac529525216066f8c3030b1b36e22736822e3a",
+    "bytes": 84599,
+    "retrieved": "2026-11-16T07:39:37+00:00",
+    "resolved": "https://henrico.gov/assets/AUG2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-august-2026/": {
+    "sha256": "2e0f8efb1756320192ec3ca4f65c19b7897d575f7dadd8684ec92bfa5b82cc10",
+    "bytes": 115485,
+    "retrieved": "2026-11-16T07:39:39+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-august-2026/"
+  },
+  "https://henrico.gov/assets/AUG2026_BuildingPermits.xlsx": {
+    "sha256": "de9f053a5ca696ba3dc5c4902c165cd865a56948ef89f1583056d0ff9eef20a4",
+    "bytes": 92382,
+    "retrieved": "2026-11-16T07:39:39+00:00",
+    "resolved": "https://henrico.gov/assets/AUG2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-december-2025/": {
+    "sha256": "9956caa750ee85259666ebcbe90bcd3a027bc1fe6adf509a56f06a84e754ef05",
+    "bytes": 115455,
+    "retrieved": "2026-11-16T07:39:41+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-december-2025/"
+  },
+  "https://henrico.gov/assets/DEC2025_BuildingPermits.xlsx": {
+    "sha256": "02f12af38d53bd08244a88327cb17a2fc7c3aebeb3d7b857570aa30a43b7ab05",
+    "bytes": 74832,
+    "retrieved": "2026-11-16T07:39:41+00:00",
+    "resolved": "https://henrico.gov/assets/DEC2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-february-2026/": {
+    "sha256": "1d3ccb05cc2b72650d65ef3cbbc152e626b07fe748ea0157d8e0e21cec1bb615",
+    "bytes": 115453,
+    "retrieved": "2026-11-16T07:39:42+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-february-2026/"
+  },
+  "https://henrico.gov/assets/FEB2026_BuildingPermits.xlsx": {
+    "sha256": "7f2d2a0780ff9f654fbaa653d6f994a5a49847884f71545ebb518f536e4d3709",
+    "bytes": 82175,
+    "retrieved": "2026-11-16T07:39:42+00:00",
+    "resolved": "https://henrico.gov/assets/FEB2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-july-2025/": {
+    "sha256": "e92be79eac239f48f82c353cd36704a96cd0e566f677788e3184b4785d8976d7",
+    "bytes": 115378,
+    "retrieved": "2026-11-16T07:39:43+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-july-2025/"
+  },
+  "https://henrico.gov/assets/JUL2025_BuildingPermits.xlsx": {
+    "sha256": "5116950f579235ef59a32f936a42d61d6f5544e1f7bc66f1f90fa66e32532610",
+    "bytes": 94546,
+    "retrieved": "2026-11-16T07:39:43+00:00",
+    "resolved": "https://henrico.gov/assets/JUL2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-july-2026/": {
+    "sha256": "8668a1d23877c8bfaa6228b937dbdf0b897d3be824cb9c80369173bdf353d2bf",
+    "bytes": 115445,
+    "retrieved": "2026-11-16T07:39:44+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-july-2026/"
+  },
+  "https://henrico.gov/assets/JUL2026_BuildingPermits.xlsx": {
+    "sha256": "59e0eda90c29722a3ef9428bba78765d6f753fcb619af960cfbcc7032329588c",
+    "bytes": 88017,
+    "retrieved": "2026-11-16T07:39:44+00:00",
+    "resolved": "https://henrico.gov/assets/JUL2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-june-2025/": {
+    "sha256": "9dc8c5f1e110b21387f55fee653f77271b58d69ecf3fa1ceaf4a0d756535bce8",
+    "bytes": 115399,
+    "retrieved": "2026-11-16T07:39:45+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-june-2025/"
+  },
+  "https://henrico.gov/assets/JUNE2025_BuildingPermits.xlsx": {
+    "sha256": "11bcea809320fac917fbbe87f271be44475df76b9af90cae3d7a90f51248c265",
+    "bytes": 82548,
+    "retrieved": "2026-11-16T07:39:45+00:00",
+    "resolved": "https://henrico.gov/assets/JUNE2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-june-2026/": {
+    "sha256": "614390758031347625d0f6f930f391c9194fdfb019d855831a0834eabb388530",
+    "bytes": 115281,
+    "retrieved": "2026-11-16T07:39:46+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-june-2026/"
+  },
+  "https://henrico.gov/assets/JUNE2026_BuildingPermits.xlsx": {
+    "sha256": "36de7c7e779fead5317524fb98c453e288b856163f0cb5049e3d60d87a632dd1",
+    "bytes": 94950,
+    "retrieved": "2026-11-16T07:39:46+00:00",
+    "resolved": "https://henrico.gov/assets/JUNE2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-march-2025/": {
+    "sha256": "84f2b15d3d5a29e341ad416db222894e5123d9af77f70c1260dfd0eec8b5d3f3",
+    "bytes": 115428,
+    "retrieved": "2026-11-16T07:39:47+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-march-2025/"
+  },
+  "https://henrico.gov/assets/MAR2025_BuildingPermits.xlsx": {
+    "sha256": "c7b2de21c88cd350e4cd47a9752ec5d1383542ca1082850dd5ad5608cee10270",
+    "bytes": 92842,
+    "retrieved": "2026-11-16T07:39:47+00:00",
+    "resolved": "https://henrico.gov/assets/MAR2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-may-2025/": {
+    "sha256": "3a5d61c8e602439200fd1bf8ecff793327e4a46e9d4e03354432edaac5d2937d",
+    "bytes": 115381,
+    "retrieved": "2026-11-16T07:39:48+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-may-2025/"
+  },
+  "https://henrico.gov/assets/MAY2025_BuildingPermits.xlsx": {
+    "sha256": "76815f139cf1f5e580faf320323433168a010e85a04015e871481945eb4b3efb",
+    "bytes": 84663,
+    "retrieved": "2026-11-16T07:39:49+00:00",
+    "resolved": "https://henrico.gov/assets/MAY2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-may-2026/": {
+    "sha256": "0c48edc511e0b53ac2861389d6af0c0468d4553bab4577ac166ecfb9a78d4d04",
+    "bytes": 115425,
+    "retrieved": "2026-11-16T07:39:50+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-may-2026/"
+  },
+  "https://henrico.gov/assets/MAY2026_BuildingPermits.xlsx": {
+    "sha256": "cad1eb3f5696e68a39827dd5be981061d2fa6e7a73d28bb97556ed6d0159168e",
+    "bytes": 96768,
+    "retrieved": "2026-11-16T07:39:50+00:00",
+    "resolved": "https://henrico.gov/assets/MAY2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-november-2025/": {
+    "sha256": "741d71955065a4b648965a1403ba3b740ef9ed6af2090be02e1c1109cf8f30ee",
+    "bytes": 115456,
+    "retrieved": "2026-11-16T07:39:51+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-november-2025/"
+  },
+  "https://henrico.gov/assets/NOV2025_BuildingPermits.xlsx": {
+    "sha256": "406aad7fc0f4fb3f448365a1786e5f5ffdd6f08d81833d52f2c0e45bf37277a3",
+    "bytes": 73229,
+    "retrieved": "2026-11-16T07:39:51+00:00",
+    "resolved": "https://henrico.gov/assets/NOV2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-october-2025/": {
+    "sha256": "7fb28d62238ed491b8f54276b1338b8c662bf1f0bf98c35ddb095b6ba8697ebf",
+    "bytes": 115461,
+    "retrieved": "2026-11-16T07:39:52+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-october-2025/"
+  },
+  "https://henrico.gov/assets/OCT2025_BuildingPermits.xlsx": {
+    "sha256": "a78db161390591c3ec4198e2f521676444108a3dc7ba6097af2139fa283b2274",
+    "bytes": 91868,
+    "retrieved": "2026-11-16T07:39:52+00:00",
+    "resolved": "https://henrico.gov/assets/OCT2025_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-october-2026/": {
+    "sha256": "a68452a8046a1177ae42c2dffd7e5d06888dc3c6ef0c1edf59a25124f94013cc",
+    "bytes": 115479,
+    "retrieved": "2026-11-16T07:39:53+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-october-2026/"
+  },
+  "https://henrico.gov/assets/OCT2026_BuildingPermits.xlsx": {
+    "sha256": "0fbb5cf443fdc1fbd00cd8d7fb0b4a820e9b5fabf74235b208b9df22129c4773",
+    "bytes": 103623,
+    "retrieved": "2026-11-16T07:39:53+00:00",
+    "resolved": "https://henrico.gov/assets/OCT2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/building-permits-september-2026/": {
+    "sha256": "904ed6bf15cb084540e9508bc0d11755989bd6ea147e773d4a2e89f3de83528d",
+    "bytes": 115517,
+    "retrieved": "2026-11-16T07:39:54+00:00",
+    "resolved": "https://henrico.gov/public-data/building-permits-september-2026/"
+  },
+  "https://henrico.gov/assets/SEP2026_BuildingPermits.xlsx": {
+    "sha256": "53357667e2a0c3339a3e21cffdcf2bac6f55cc4afebd32f87847ce2697eafef8",
+    "bytes": 94926,
+    "retrieved": "2026-11-16T07:39:54+00:00",
+    "resolved": "https://henrico.gov/assets/SEP2026_BuildingPermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-april-2025/": {
+    "sha256": "fcbdc0610a70223f44ab150b4b3c3592e458ea07fe5755471ea82bf33d5144bb",
+    "bytes": 116829,
+    "retrieved": "2026-11-16T07:39:55+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-april-2025/"
+  },
+  "https://henrico.gov/assets/APR2025_TradePermits.xlsx": {
+    "sha256": "1086d3aafb1333a2be891cdd653379746b61dc70b5d17e5016dda19ab3a83ea2",
+    "bytes": 145238,
+    "retrieved": "2026-11-16T07:39:55+00:00",
+    "resolved": "https://henrico.gov/assets/APR2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-april-2026/": {
+    "sha256": "9fb2d5b0b2cf6e1599e88e226effbef4da5f9d5c5ddd150148a8254e244b0a4b",
+    "bytes": 116872,
+    "retrieved": "2026-11-16T07:39:56+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-april-2026/"
+  },
+  "https://henrico.gov/assets/APR2026_TradePermits.xlsx": {
+    "sha256": "e2aa2504d78815e560e57e5cdb90706088bf3f6e8a5d6d86b03712e7feae4f76",
+    "bytes": 142305,
+    "retrieved": "2026-11-16T07:39:56+00:00",
+    "resolved": "https://henrico.gov/assets/APR2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-august-2025/": {
+    "sha256": "2f119923f03a1d88814b29b6b22653bcb24a0f323a6fa277fa8d9dad1936d9dd",
+    "bytes": 116706,
+    "retrieved": "2026-11-16T07:39:58+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-august-2025/"
+  },
+  "https://henrico.gov/assets/AUG2025_TradePermits.xlsx": {
+    "sha256": "7c6a8167ee46e31aa984bed2bebd744ee4167b7eb3c55518b4da38e83013ec19",
+    "bytes": 146849,
+    "retrieved": "2026-11-16T07:39:58+00:00",
+    "resolved": "https://henrico.gov/assets/AUG2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-august-2026/": {
+    "sha256": "29e3dd6a60fecce9aa1e11c59a5551edd3cf79fe3b210746a891d9276ae8dd8e",
+    "bytes": 116897,
+    "retrieved": "2026-11-16T07:39:59+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-august-2026/"
+  },
+  "https://henrico.gov/assets/AUG2026_TradePermits.xlsx": {
+    "sha256": "e6a678f953a601f893a6148da4298d22aed6d4cc7592360607dcade604bfa67a",
+    "bytes": 137990,
+    "retrieved": "2026-11-16T07:39:59+00:00",
+    "resolved": "https://henrico.gov/assets/AUG2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-december-2025/": {
+    "sha256": "7c25b0d0fbde6be7df51a1e54e0acdee96233b1cd098190907d4a3add030155e",
+    "bytes": 116866,
+    "retrieved": "2026-11-16T07:40:00+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-december-2025/"
+  },
+  "https://henrico.gov/assets/DEC2025_TradePermits.xlsx": {
+    "sha256": "cb3eac1142bde688abdb825253744a070dfb440bbdf8a0fd559e9f8522f92da3",
+    "bytes": 108444,
+    "retrieved": "2026-11-16T07:40:00+00:00",
+    "resolved": "https://henrico.gov/assets/DEC2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-february-2026/": {
+    "sha256": "83bae01852de034b086f8ef2f7b40144ffee9465112b741eaadcfb8d2ac03587",
+    "bytes": 116840,
+    "retrieved": "2026-11-16T07:40:02+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-february-2026/"
+  },
+  "https://henrico.gov/assets/FEB2026_TradePermits.xlsx": {
+    "sha256": "28623f65bdcf7e23835ea56aadf81c538520830b5d5d79de5287f07b7900d105",
+    "bytes": 126316,
+    "retrieved": "2026-11-16T07:40:02+00:00",
+    "resolved": "https://henrico.gov/assets/FEB2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-january-2026/": {
+    "sha256": "c45809ecb6335a92b22e3e9187c02fee604dec82ecb015a558066a229f34a72e",
+    "bytes": 116875,
+    "retrieved": "2026-11-16T07:40:03+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-january-2026/"
+  },
+  "https://henrico.gov/assets/Trade-Permits-Issued-Jan-2026.xlsx": {
+    "sha256": "fe47f650833e4bce633b4cfe0c39eb396a391b8ba0aca7a763b2c118367a2407",
+    "bytes": 101727,
+    "retrieved": "2026-11-16T07:40:03+00:00",
+    "resolved": "https://henrico.gov/assets/Trade-Permits-Issued-Jan-2026.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-july-2025/": {
+    "sha256": "57498e0c6b3770147de06d915b80b9e02c42d7228cfdca10752af668cdef8833",
+    "bytes": 116815,
+    "retrieved": "2026-11-16T07:40:05+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-july-2025/"
+  },
+  "https://henrico.gov/assets/JUL2025_TradePermits.xlsx": {
+    "sha256": "9b0b2942f4ebe057049a890ccaa5fb794f5b3d147547e3a2c5aadce7473a9eb5",
+    "bytes": 200828,
+    "retrieved": "2026-11-16T07:40:05+00:00",
+    "resolved": "https://henrico.gov/assets/JUL2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-july-2026/": {
+    "sha256": "2003f4dd05802afd4b5c622970e33f3a4fb2ef29ccd73077f60309f9a18a4fac",
+    "bytes": 116551,
+    "retrieved": "2026-11-16T07:40:06+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-july-2026/"
+  },
+  "https://henrico.gov/assets/JUL2026_TradePermits-1.xlsx": {
+    "sha256": "1dd69cf96f4156794fd0ede969484fddc5d1af6083453821a0605fc6d55cf3de",
+    "bytes": 147470,
+    "retrieved": "2026-11-16T07:40:06+00:00",
+    "resolved": "https://henrico.gov/assets/JUL2026_TradePermits-1.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-june-2025/": {
+    "sha256": "51a3140aa3d0e3c673d4d6bc93f0de5d906ff7edf5956d957b31afe6b175ca48",
+    "bytes": 116810,
+    "retrieved": "2026-11-16T07:40:08+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-june-2025/"
+  },
+  "https://henrico.gov/assets/JUNE2025_TradePermits.xlsx": {
+    "sha256": "bed557a5ac5df74c3d0b186a8dc9c5eb59bda042923a2bc72365d6d11ea5d81b",
+    "bytes": 142863,
+    "retrieved": "2026-11-16T07:40:08+00:00",
+    "resolved": "https://henrico.gov/assets/JUNE2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-june-2026/": {
+    "sha256": "8193a651b35fd22e3b7f4dd7af3fd9bc7e4d24153200bc9e4584585202415269",
+    "bytes": 116826,
+    "retrieved": "2026-11-16T07:40:09+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-june-2026/"
+  },
+  "https://henrico.gov/assets/JUNE2026_TradePermits.xlsx": {
+    "sha256": "2fdd6da47511987f8f17c7a72f7ed2f7549466bd90312c121b1ae9eef3503c10",
+    "bytes": 144971,
+    "retrieved": "2026-11-16T07:40:09+00:00",
+    "resolved": "https://henrico.gov/assets/JUNE2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-march-2025/": {
+    "sha256": "642cdc55655806edea1f2b0d897a470303ec08a3087fa364286a7a699de9437a",
+    "bytes": 116839,
+    "retrieved": "2026-11-16T07:40:10+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-march-2025/"
+  },
+  "https://henrico.gov/assets/MAR2025_TradePermits.xlsx": {
+    "sha256": "3d9451c428ad0047ae5759fef7eb3b3fc1fc57c965317ac730ec31c41d64cd8e",
+    "bytes": 150913,
+    "retrieved": "2026-11-16T07:40:11+00:00",
+    "resolved": "https://henrico.gov/assets/MAR2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-march-2026/": {
+    "sha256": "b4550f531d0211e16f101bc69659957648379b34053c1ab4a8c58194492439c9",
+    "bytes": 116840,
+    "retrieved": "2026-11-16T07:40:12+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-march-2026/"
+  },
+  "https://henrico.gov/assets/MAR2026_TradePermits.xlsx": {
+    "sha256": "f646c1d578ea99dca1a1be22877a3913f8242d44798a51777a44df6588de2c13",
+    "bytes": 145867,
+    "retrieved": "2026-11-16T07:40:12+00:00",
+    "resolved": "https://henrico.gov/assets/MAR2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-may-2025/": {
+    "sha256": "606324a02bef2f4a4f1169f0e8a71739609bf8f55c554908b2f45e1d2f60660e",
+    "bytes": 116792,
+    "retrieved": "2026-11-16T07:40:13+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-may-2025/"
+  },
+  "https://henrico.gov/assets/MAY2025_TradePermits.xlsx": {
+    "sha256": "789e7bb69f6de62d27d1c3d8b09aad87e2c57a6a679e461b9d54bc3a1d068ed8",
+    "bytes": 142167,
+    "retrieved": "2026-11-16T07:40:13+00:00",
+    "resolved": "https://henrico.gov/assets/MAY2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-may-2026/": {
+    "sha256": "c739c95ed854cf4dc6e53cadb545d5cd4f61f9f878f9a438c85996fecf5f6811",
+    "bytes": 116401,
+    "retrieved": "2026-11-16T07:40:14+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-may-2026/"
+  },
+  "https://henrico.gov/assets/MAY2026_TradePermits.xlsx": {
+    "sha256": "678016b4dbf2ef790aa95bf40e479ccce3fc785935869780530d9f15cbea2c12",
+    "bytes": 140632,
+    "retrieved": "2026-11-16T07:40:14+00:00",
+    "resolved": "https://henrico.gov/assets/MAY2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-november-2025/": {
+    "sha256": "b2583b867fe48641e6123c74dea36efcff1c10fb1553dc82de4bb5554566827c",
+    "bytes": 116867,
+    "retrieved": "2026-11-16T07:40:15+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-november-2025/"
+  },
+  "https://henrico.gov/assets/NOV2025_TradePermits.xlsx": {
+    "sha256": "8b2e85b602820182a6c1bf6d623cf09d40a574d5c8225b252e3d04eb57b15ef2",
+    "bytes": 109126,
+    "retrieved": "2026-11-16T07:40:15+00:00",
+    "resolved": "https://henrico.gov/assets/NOV2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-october-2026/": {
+    "sha256": "7cce798962a8be37b274af155682d4bcffa78646edbfad8c839032a5497ef6f9",
+    "bytes": 116993,
+    "retrieved": "2026-11-16T07:40:15+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-october-2026/"
+  },
+  "https://henrico.gov/assets/OCT2026_TradePermits.xlsx": {
+    "sha256": "12643e47aaeaf5166c333540374ed2e2fb27b986c15152c71f4c76385693fdbf",
+    "bytes": 142846,
+    "retrieved": "2026-11-16T07:40:16+00:00",
+    "resolved": "https://henrico.gov/assets/OCT2026_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-september-2025/": {
+    "sha256": "2e49776eb0c0b2ae751e3f4f13b71826971c28382899f808dc12eedbba1bf17f",
+    "bytes": 116885,
+    "retrieved": "2026-11-16T07:40:17+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-september-2025/"
+  },
+  "https://henrico.gov/assets/SEP2025_TradePermits.xlsx": {
+    "sha256": "119e201c0f06261bae6296961dbb640da0cbc4f8072a696fdd2918bafcbbaa46",
+    "bytes": 131504,
+    "retrieved": "2026-11-16T07:40:17+00:00",
+    "resolved": "https://henrico.gov/assets/SEP2025_TradePermits.xlsx"
+  },
+  "https://henrico.gov/public-data/trade-permits-september-2026/": {
+    "sha256": "df2f8d2d5e7dfb9e2ae01f39398de2137b5245562ee0b863da99bbb752bb11f8",
+    "bytes": 116929,
+    "retrieved": "2026-11-16T07:40:18+00:00",
+    "resolved": "https://henrico.gov/public-data/trade-permits-september-2026/"
+  },
+  "https://henrico.gov/assets/SEP2026_TradePermits.xlsx": {
+    "sha256": "6e9d64a1684d1947d79351fdc8d7a9cb5575732fbdc7ada663e29ab99bcd792f",
+    "bytes": 152386,
+    "retrieved": "2026-11-16T07:40:18+00:00",
+    "resolved": "https://henrico.gov/assets/SEP2026_TradePermits.xlsx"
+  }
+}

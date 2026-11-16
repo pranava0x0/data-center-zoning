@@ -1,0 +1,130 @@
+[
+  {
+    "id": "va-vpt-air-104958-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Caroline County",
+    "record_no": "74325-2",
+    "project": "Amazon Data Services Inc - IAD-457",
+    "kind": "Article 6 State Major - New Stationary Source",
+    "status": "In Progress",
+    "date": "2025-10-14",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/104958",
+    "source_url": "https://permits.virginia.gov/Permit/Details/104958",
+    "locator": "VPT search result ID 104958, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 104958,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74325",
+      "match_basis": null,
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-152000-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Appomattox County",
+    "record_no": "21814-1",
+    "project": "ADP Appomattox Data Hub LLC",
+    "kind": "Article 6 Minor NSR - With Public Interest",
+    "status": "In Progress",
+    "date": "2026-04-09",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/152000",
+    "source_url": "https://permits.virginia.gov/Permit/Details/152000",
+    "locator": "VPT search result ID 152000, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 152000,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "21814",
+      "match_basis": null,
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158782-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Manassas City",
+    "record_no": "74353-1",
+    "project": "Amazon Data Services Inc IAD-319",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158782",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158782",
+    "locator": "VPT search result ID 158782, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158782,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74353",
+      "match_basis": null,
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158785-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74352-1",
+    "project": "Amazon Data Services Inc IAD-310/311/312",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158785",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158785",
+    "locator": "VPT search result ID 158785, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158785,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74352",
+      "match_basis": null,
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  }
+]

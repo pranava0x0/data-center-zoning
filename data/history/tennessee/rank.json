@@ -1,0 +1,201 @@
+{
+  "unit": "Mapped OSM-derived POI/building/campus centroid records, not unique operating sites, permits or MW",
+  "version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2747%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "tennessee_total": 24,
+  "counties": {
+    "Williamson County": 6,
+    "Davidson County": 4,
+    "Montgomery County": 4,
+    "Sumner County": 3,
+    "Shelby County": 2,
+    "Grainger County": 1,
+    "Hamilton County": 1,
+    "Henry County": 1,
+    "Roane County": 1,
+    "Rutherford County": 1
+  },
+  "places": {
+    "Outside incorporated places": 6,
+    "Nashville-Davidson metropolitan government (balance)": 4,
+    "Brentwood city": 3,
+    "Franklin city": 3,
+    "Gallatin city": 3,
+    "Memphis city": 2,
+    "Chattanooga city": 1,
+    "Oak Ridge city": 1,
+    "Smyrna town": 1
+  },
+  "points": [
+    {
+      "county": "Roane County",
+      "place": "Oak Ridge city",
+      "name": "Frontier (supercomputer)",
+      "operator": "Oak Ridge National Laboratory",
+      "type": "point"
+    },
+    {
+      "county": "Williamson County",
+      "place": "Brentwood city",
+      "name": "Flexential Nashville - Brentwood",
+      "operator": "Flexential",
+      "type": "point"
+    },
+    {
+      "county": "Hamilton County",
+      "place": "Chattanooga city",
+      "name": "DC Blox Chattanooga",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Davidson County",
+      "place": "Nashville-Davidson metropolitan government (balance)",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Davidson County",
+      "place": "Nashville-Davidson metropolitan government (balance)",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "Google",
+      "operator": "Google",
+      "type": "building"
+    },
+    {
+      "county": "Davidson County",
+      "place": "Nashville-Davidson metropolitan government (balance)",
+      "name": null,
+      "operator": "BNYM",
+      "type": "building"
+    },
+    {
+      "county": "Grainger County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Williamson County",
+      "place": "Franklin city",
+      "name": "Flexential Nashville - Franklin",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "Google",
+      "operator": "Google",
+      "type": "building"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "SPC3A",
+      "operator": "Google",
+      "type": "building"
+    },
+    {
+      "county": "Williamson County",
+      "place": "Franklin city",
+      "name": "Flexential Nashville - Cool Springs",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Sumner County",
+      "place": "Gallatin city",
+      "name": "Meta Gallatin Data Center",
+      "operator": "Meta",
+      "type": "building"
+    },
+    {
+      "county": "Sumner County",
+      "place": "Gallatin city",
+      "name": "Meta Gallatin Data Center",
+      "operator": "Meta",
+      "type": "building"
+    },
+    {
+      "county": "Sumner County",
+      "place": "Gallatin city",
+      "name": "Meta Gallatin Data Center",
+      "operator": "Meta",
+      "type": "building"
+    },
+    {
+      "county": "Shelby County",
+      "place": "Memphis city",
+      "name": "xAI Colossus",
+      "operator": "xAI",
+      "type": "building"
+    },
+    {
+      "county": "Shelby County",
+      "place": "Memphis city",
+      "name": "xAI Macrohard Colossus 2",
+      "operator": "xAI",
+      "type": "building"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "SPC4A",
+      "operator": "Google",
+      "type": "building"
+    },
+    {
+      "county": "Williamson County",
+      "place": "Franklin city",
+      "name": "TierPoint",
+      "operator": null,
+      "type": "campus"
+    },
+    {
+      "county": "Williamson County",
+      "place": "Brentwood city",
+      "name": "Flexential Brentwood Data Center",
+      "operator": null,
+      "type": "campus"
+    },
+    {
+      "county": "Williamson County",
+      "place": "Brentwood city",
+      "name": null,
+      "operator": null,
+      "type": "campus"
+    },
+    {
+      "county": "Rutherford County",
+      "place": "Smyrna town",
+      "name": "Tennessee South Data Center",
+      "operator": "State of Tennessee",
+      "type": "campus"
+    },
+    {
+      "county": "Henry County",
+      "place": "Outside incorporated places",
+      "name": "Newrays Two LLC Mining",
+      "operator": null,
+      "type": "campus"
+    },
+    {
+      "county": "Davidson County",
+      "place": "Nashville-Davidson metropolitan government (balance)",
+      "name": "Verizon Wireless",
+      "operator": null,
+      "type": "campus"
+    }
+  ]
+}

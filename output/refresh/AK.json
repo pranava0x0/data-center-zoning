@@ -1,0 +1,36 @@
+{
+  "jurisdiction": "AK",
+  "started_utc": "2026-11-16T23:07:12+00:00",
+  "steps": [
+    {
+      "step": "collectors/alaska/history.py --refresh",
+      "rc": 0,
+      "seconds": 23.8,
+      "tail": ""
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "AK",
+    "ok": true,
+    "rows": 65,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "collectors/alaska/history.py",
+        "seconds": 0.7,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "output/history/alaska/history.json": "ad5b43f445152655473812eb52fb8eadfd873b6b5997875932c504949b651a34"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "finished_utc": "2026-11-16T23:07:37+00:00"
+}

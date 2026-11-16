@@ -1,0 +1,207 @@
+{
+  "state": "CO",
+  "unit": "Mapped IM3 markers, not unique sites or MW; building and campus counts may overlap. Source county; incorporated place is Census point-in-polygon.",
+  "sources": {
+    "atlas": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "07afb0f4314c29c40d11877ff6a59a9fe4deca6733549f7df86a304e67ba6af5"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2708%27&f=json&returnIdsOnly=true",
+      "sha256": "0d59ac07b0170fd8563f1f2af9a4ded7e24e98c057f1d4415ff9ea95c2075970"
+    },
+    "places": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2708%27&f=json&outFields=OBJECTID%2CGEOID%2CNAME&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6&returnGeometry=true",
+      "sha256": "5ea50d05ac96663c39dd951f889f237677beef6f41049b4c54c8886db63bcf47"
+    }
+  },
+  "atlas_national_sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+  "total": 27,
+  "county": {
+    "Arapahoe County": 11,
+    "Douglas County": 6,
+    "El Paso County": 4,
+    "Denver County": 3,
+    "Adams County": 1,
+    "Broomfield County": 1,
+    "Jefferson County": 1
+  },
+  "place": {
+    "Centennial city": 7,
+    "Outside incorporated places": 7,
+    "Aurora city": 4,
+    "Colorado Springs city": 3,
+    "Denver city": 3,
+    "Broomfield city": 1,
+    "Thornton city": 1,
+    "Westminster city": 1
+  },
+  "geometry": {
+    "building": 24,
+    "point": 3
+  },
+  "markers": [
+    {
+      "place": "Denver city",
+      "county": "Denver County",
+      "geometry": "point",
+      "label": "Flexential Denver - Downtown"
+    },
+    {
+      "place": "Aurora city",
+      "county": "Arapahoe County",
+      "geometry": "point",
+      "label": "Flexential - Denver - Aurora"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Douglas County",
+      "geometry": "point",
+      "label": "EdgeConneX - DEN01"
+    },
+    {
+      "place": "Denver city",
+      "county": "Denver County",
+      "geometry": "building",
+      "label": "Pearl Plaza Office Building"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Douglas County",
+      "geometry": "building",
+      "label": "DataBank - DEN1"
+    },
+    {
+      "place": "Denver city",
+      "county": "Denver County",
+      "geometry": "building",
+      "label": "Insurance Exchange Building"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Douglas County",
+      "geometry": "building",
+      "label": "CSquare - DEN2"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "Xfinity/Comcast Data Center"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "Flexential - DEN5"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "DataBank - DEN5"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "DataBank - DEN2"
+    },
+    {
+      "place": "Westminster city",
+      "county": "Jefferson County",
+      "geometry": "building",
+      "label": "DataBank - DEN4"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Douglas County",
+      "geometry": "building",
+      "label": "Flexential Denver - Englewood"
+    },
+    {
+      "place": "Colorado Springs city",
+      "county": "El Paso County",
+      "geometry": "building",
+      "label": "Walmart Colorado Data Center"
+    },
+    {
+      "place": "Thornton city",
+      "county": "Adams County",
+      "geometry": "building",
+      "label": "Google - Thornton"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "Time Warner Datacenter"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "Time Warner Datacenter"
+    },
+    {
+      "place": "Centennial city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "Verizon"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "El Paso County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Douglas County",
+      "geometry": "building",
+      "label": "US Signal - CO01"
+    },
+    {
+      "place": "Colorado Springs city",
+      "county": "El Paso County",
+      "geometry": "building",
+      "label": "SAP COS02"
+    },
+    {
+      "place": "Broomfield city",
+      "county": "Broomfield County",
+      "geometry": "building",
+      "label": "JPMorgan Chase"
+    },
+    {
+      "place": "Aurora city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Douglas County",
+      "geometry": "building",
+      "label": "EdgeConnex - DEN02"
+    },
+    {
+      "place": "Colorado Springs city",
+      "county": "El Paso County",
+      "geometry": "building",
+      "label": "T5@Colorado Springs"
+    },
+    {
+      "place": "Aurora city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "QTS"
+    },
+    {
+      "place": "Aurora city",
+      "county": "Arapahoe County",
+      "geometry": "building",
+      "label": "QTS"
+    }
+  ]
+}

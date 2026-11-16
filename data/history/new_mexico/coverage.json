@@ -1,0 +1,74 @@
+{
+  "query": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false",
+  "candidate_building_records": 7,
+  "held": [
+    {
+      "record_no": "201290411",
+      "reason": "Telecom co-location; no explicit data center."
+    },
+    {
+      "record_no": "201290415",
+      "reason": "Telecom co-location; no explicit data center."
+    },
+    {
+      "record_no": "BP-2017-19422",
+      "reason": "Telecom co-location; no explicit data center."
+    },
+    {
+      "permit": "NMR1002F7",
+      "version": "0",
+      "project": "PROJECT ANTELOPE",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR1004BJ",
+      "version": "1",
+      "project": "SOLAR DATA CENTER WHITE HORSE RANCH",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR1004SM",
+      "version": "0",
+      "project": "PROJECT ANTELOPE",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMU001949",
+      "version": "0",
+      "project": "PROJECT ANTELOPE",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR1004BJ",
+      "version": "0",
+      "project": "SOLAR DATA CENTER WHITE HORSE RANCH",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR10067D",
+      "version": "0",
+      "project": "TAG",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR1004SL",
+      "version": "0",
+      "project": "PROJECT ANTELOPE",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR10019S",
+      "version": "0",
+      "project": "PROJECT ANTELOPE",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    },
+    {
+      "permit": "NMR1000CX",
+      "version": "0",
+      "project": "PROJECT ANTELOPE",
+      "reason": "Possible energy project or applicant-only match; data-center site not independently established."
+    }
+  ],
+  "archive_count": 17,
+  "note": "Notifications, withdrawals, drafts and original applications do not establish permit issuance. Statewide history is incomplete."
+}

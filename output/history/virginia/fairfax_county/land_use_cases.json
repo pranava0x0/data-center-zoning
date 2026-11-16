@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "va-fairfax-07e2bd281303578059",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "WAIV-2024-00307",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "McLearen Data Center",
+    "kind": "Waivers",
+    "status": "Closed",
+    "date": "2024-08-16",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01N89&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record WAIV-2024-00307 · OBJECTID 174153",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        174153
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-08-16",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-0f83d5fdbf27fb3767",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-SP-025-3",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER (AMAZON)",
+    "kind": "Site Plan",
+    "status": "Revised",
+    "date": "2022-03-25",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW1&capID2=00000&capID3=00IHZ&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-SP-025-3 · OBJECTID 38112",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        38112
+      ],
+      "source_project_status": "Inspection",
+      "current_status_date": "2022-06-30",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-12339cebf7211bb193",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-FP-003-3",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION PARKWAY DATA CENTER (SU/SF)",
+    "kind": "Floodplain Study",
+    "status": "Approved",
+    "date": "2021-10-11",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW2&capID2=00000&capID3=00H2Q&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-FP-003-3 · OBJECTID 30448",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        30448
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2021-10-11",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-170d474973439d698f",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "002667-MSPC-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AT&T - OAKTON DATA CENTER GENERATOR POWER (PR)",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2020-02-26",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=20WW7&capID2=00000&capID3=004XG&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 002667-MSPC-001-1 · OBJECTID 140034",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        140034
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2020-02-26",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-245d29f889fe2e22e2",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-WSWD-003-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER GENERATOR ",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "2011-03-15",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=10WW6&capID2=00000&capID3=00OOS&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-WSWD-003-1 · OBJECTID 124128",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        124128
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2011-03-15",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-27a8bc1090c88d4454",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "003292-MSP-007-2",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "VA 3 DATA CENTER (HM)",
+    "kind": "Minor Site Plan",
+    "status": "Approved",
+    "date": "2012-10-31",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=12WW5&capID2=00000&capID3=004A2&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 003292-MSP-007-2 · OBJECTID 91737",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        91737
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2012-10-31",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-2e2f89bffeeed12581",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "RP-2024-00058",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "McLEAREN DATA CENTER",
+    "kind": "Record Plat",
+    "status": "Approved",
+    "date": "2025-03-27",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01RK0&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record RP-2024-00058 · OBJECTID 897685",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        897685
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2025-04-17",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-2ebce80d3afa617aae",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "003292-WSWD-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "VA 3 DATA CENTER (HM)",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "2012-10-24",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=12WW6&capID2=00000&capID3=008EB&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 003292-WSWD-001-1 · OBJECTID 110902",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        110902
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2012-10-24",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-2fa0d47cb8c296e097",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SP-2023-00087",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "MCLEAREN DATA CENTER",
+    "kind": "Site Plan",
+    "status": "Approved",
+    "date": "2025-01-13",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC23&capID2=00000&capID3=03D31&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SP-2023-00087 · OBJECTID 160521",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        160521
+      ],
+      "source_project_status": "Inspection",
+      "current_status_date": "2025-10-27",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-31cfdac061bf839c1f",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "WAIV-2024-00284",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Entre Court Data Center",
+    "kind": "Waivers",
+    "status": "Closed",
+    "date": "2024-08-14",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01JLQ&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record WAIV-2024-00284 · OBJECTID 175412",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        175412
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-08-14",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-333dbe448c5e32f57e",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "WAIV-2024-00288",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Entre Court Data Center",
+    "kind": "Waivers",
+    "status": "Closed",
+    "date": "2025-05-15",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01KHD&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record WAIV-2024-00288 · OBJECTID 173895",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        173895
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2025-05-15",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-3d13e1bba572e69b77",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "017811-MSP-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "BOEING COMPUTER SERVICE DATA CENTER",
+    "kind": "Minor Site Plan",
+    "status": "Approved",
+    "date": "1984-08-17",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=84WW5&capID2=00000&capID3=00JXM&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 017811-MSP-001-1 · OBJECTID 89886",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        89886
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "1984-08-17",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-3d3f71344a4c9d4d96",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "WAIV-2024-00287",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Bogel Drive Data Center",
+    "kind": "Waivers",
+    "status": "Closed",
+    "date": "2024-07-01",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01KFT&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record WAIV-2024-00287 · OBJECTID 173893",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        173893
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-07-01",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-3f6f41003af9adf05e",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "WAIV-2024-00334",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Bogle Drive Data Center",
+    "kind": "Waivers",
+    "status": "Closed",
+    "date": "2024-09-11",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01TDY&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record WAIV-2024-00334 · OBJECTID 182000",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        182000
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-09-11",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-42a47086c05177081a",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SP-2023-00087-2",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "MCLEAREN DATA CENTER",
+    "kind": "Site Plan Revision",
+    "status": "Closed",
+    "date": "2025-10-27",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=025MT&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SP-2023-00087-2 · OBJECTID 1001600",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        1001600
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2025-10-27",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-45201a8e73066820d7",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-WRPA-002-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER DUCT BANK ((EPLAN) SU)",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "2021-10-20",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW6&capID2=00000&capID3=00JZO&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-WRPA-002-1 · OBJECTID 121848",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        121848
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2021-10-20",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-46102777ef06abcacd",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "BOND-2025-00047",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "CHANTILLY PREMIER DATA CENTER (SU)",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2025-07-24",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=01L5M&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record BOND-2025-00047 · OBJECTID 919383",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        919383
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2025-07-24",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-5d9130e0a575136265",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SR-2024-00100",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Entre Court Data Center",
+    "kind": "Geotechnical Report",
+    "status": "Closed",
+    "date": "2024-11-12",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=02H9H&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SR-2024-00100 · OBJECTID 347616",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        347616
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-11-18",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-5e134fe214c95e70a4",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SP-2024-00048",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "CHANTILLY PREMIER DATA CENTER (SU)",
+    "kind": "Site Plan",
+    "status": "Revised",
+    "date": "2025-09-05",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=029JL&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SP-2024-00048 · OBJECTID 196385",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        196385
+      ],
+      "source_project_status": "Inspection",
+      "current_status_date": "2025-10-28",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-5ff39047b9f64019c8",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-PIC-005-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER DUCT BANK (SU)",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2022-03-23",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=22WW7&capID2=00000&capID3=00EN2&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-PIC-005-1 · OBJECTID 151853",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        151853
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-03-23",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-6383c5aa6cc617d87d",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-WPFM-005-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER PH 3",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "2008-06-11",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=08WW6&capID2=00000&capID3=00OOH&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-WPFM-005-1 · OBJECTID 132190",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        132190
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2008-06-11",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-64fa3e666e229df2ee",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "RP-2025-00006",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Bogle Drive Data Center (SU)",
+    "kind": "Record Plat",
+    "status": "Approved",
+    "date": "2025-07-29",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=00BCK&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record RP-2025-00006 · OBJECTID 881636",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        881636
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2025-07-29",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-77db7477f484422e46",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-SPV-025-A-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER (AMAZON) [SU]",
+    "kind": "Site Plan Revision",
+    "status": "Approved",
+    "date": "2022-06-27",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=22WW1&capID2=00000&capID3=00IJE&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-SPV-025-A-1 · OBJECTID 37193",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        37193
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-06-27",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-78263a37f7d2724afb",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "BOND-2025-00007",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "MCLEAREN DATA CENTER",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2025-04-23",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=00BBH&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record BOND-2025-00007 · OBJECTID 881266",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        881266
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2025-04-23",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-80fae79d75d8f10a3b",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-MSPC-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDY POWER - GENERATOR ADDN (SP)",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2009-06-23",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=09WW7&capID2=00000&capID3=00I8U&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-MSPC-001-1 · OBJECTID 140402",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        140402
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2009-06-23",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-815b2e71713fc769fa",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SP-2024-00048-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "CHANTILLY PREMIER DATA CENTER (SU)",
+    "kind": "Site Plan Revision",
+    "status": "Closed",
+    "date": "2026-01-12",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=02H6O&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SP-2024-00048-1 · OBJECTID 1190589",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        1190589
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2026-01-12",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-859629ff48128898e8",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "AGREEX-2023-00012",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER DUCT BANK (SU)",
+    "kind": "Agreement Only Extension",
+    "status": "Closed",
+    "date": "2023-11-29",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC23&capID2=00000&capID3=02Y0L&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record AGREEX-2023-00012 · OBJECTID 160431",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        160431
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2023-11-29",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-90a907f81956dfb114",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-RGP-008-2",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER (AMAZON) [SU]",
+    "kind": "Rough Grading Plan",
+    "status": "Revised",
+    "date": "2021-11-19",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW3&capID2=00000&capID3=00N9F&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-RGP-008-2 · OBJECTID 52331",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        52331
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-02-15",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-93a5ae37f0c9e87fc5",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "003741-WQ-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "VIRTUESTREAM DATA CENTER (SF) (HM)",
+    "kind": "Water Quality Impact Assessment",
+    "status": "Approved",
+    "date": "2020-04-09",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=20WW3&capID2=00000&capID3=00E0A&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 003741-WQ-001-1 · OBJECTID 98081",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        98081
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2020-04-09",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-93f00de8f0557fd210",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-WBMP-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER GENERATOR ",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "2010-11-08",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=10WW6&capID2=00000&capID3=00OOB&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-WBMP-001-1 · OBJECTID 120348",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        120348
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2010-11-08",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-951d3f20e36136e705",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-SR-014-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION PARKWAY DATA CENTER (SF) (SU)",
+    "kind": "Geotechnical Report",
+    "status": "Approved",
+    "date": "2021-04-08",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW2&capID2=00000&capID3=00H3F&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-SR-014-1 · OBJECTID 88257",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        88257
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2021-04-08",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-9aeb73bdc4e4fcd774",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-PIAO-005-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER DUCT BANK (SU)",
+    "kind": "Agreement Only",
+    "status": "Approved",
+    "date": "2022-03-23",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=22WW4&capID2=00000&capID3=000KW&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-PIAO-005-1 · OBJECTID 156733",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        156733
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-03-23",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-9b2a6e02ba5ed40392",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SR-2024-00099",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Bogle Drive Data Center (SU)",
+    "kind": "Geotechnical Report",
+    "status": "Closed",
+    "date": "2024-11-20",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=02H7E&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SR-2024-00099 · OBJECTID 350437",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        350437
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-11-20",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-a7be0582003c35e640",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-MSPV-001-A-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER - GENERATOR ADDN (SP)",
+    "kind": "Minor Site Plan Revision",
+    "status": "Approved",
+    "date": "2010-01-12",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=09WW5&capID2=00000&capID3=00EQ7&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-MSPV-001-A-1 · OBJECTID 93339",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        93339
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2010-01-12",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-b20a59ad89f6c2f716",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-RGPV-008-A-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER (AMAZON) [SU]",
+    "kind": "Rough Grading Plan Revision",
+    "status": "Approved",
+    "date": "2022-02-04",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=22WW3&capID2=00000&capID3=00N9G&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-RGPV-008-A-1 · OBJECTID 53995",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        53995
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-02-04",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-b24c0a45bb9e8ada12",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-SPB-025-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER [EPLAN/SU]",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2022-03-23",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=22WW7&capID2=00000&capID3=00ENR&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-SPB-025-1 · OBJECTID 144066",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        144066
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-03-23",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-b703beb36e39c4f380",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-SPC-025-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER [EPLAN/SU]",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2022-03-23",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=22WW7&capID2=00000&capID3=00EOW&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-SPC-025-1 · OBJECTID 142066",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        142066
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2022-03-23",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-ba5312b528043e87ab",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-SP-025-3-2",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER (AMAZON)",
+    "kind": "Site Plan Revision",
+    "status": "Closed",
+    "date": "2025-02-07",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=02GME&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-SP-025-3-2 · OBJECTID 235394",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        235394
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2025-02-07",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-bafce9764554c8fee8",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "002667-MSP-001-4",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AT&T - OAKTON DATA CENTER GENERATOR POWER (PR)",
+    "kind": "Minor Site Plan",
+    "status": "Approved",
+    "date": "2019-10-29",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=19WW5&capID2=00000&capID3=003BU&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 002667-MSP-001-4 · OBJECTID 92746",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        92746
+      ],
+      "source_project_status": "Inspection",
+      "current_status_date": "2019-10-29",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-c7d8ca5f3037507655",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "BONDEX-2023-00150",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER [EPLAN/SU]",
+    "kind": "Bond Extension",
+    "status": "Closed",
+    "date": "2023-11-29",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC23&capID2=00000&capID3=02Y1L&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record BONDEX-2023-00150 · OBJECTID 158568",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        158568
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-01-11",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-c8838e7ceb104df56b",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "BONDEX-2025-00101",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER [EPLAN/SU]",
+    "kind": "Bond Extension",
+    "status": "Closed",
+    "date": "2026-03-04",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=02IDL&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record BONDEX-2025-00101 · OBJECTID 1596908",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        1596908
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2026-03-04",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-cb2a3fcf31bff4a717",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "WAIV-2024-00240",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "McLearen Road Data Center (SU)",
+    "kind": "Waivers",
+    "status": "Closed",
+    "date": "2024-06-21",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01CFW&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record WAIV-2024-00240 · OBJECTID 172053",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        172053
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2024-06-21",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-cd6b80cde30087a13c",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-PI-005-2",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER DUCT BANK (AMAZON) [SU]",
+    "kind": "Public Improvement Plan",
+    "status": "Approved",
+    "date": "2022-03-25",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW3&capID2=00000&capID3=00N8U&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-PI-005-2 · OBJECTID 95991",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        95991
+      ],
+      "source_project_status": "Inspection",
+      "current_status_date": "2022-03-25",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-d4362c6b99fcf63597",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "RGP-2024-00031",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "MCLEARAN DATA CENTER",
+    "kind": "Rough Grading Plan",
+    "status": "Approved",
+    "date": "2024-08-09",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=01JHX&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record RGP-2024-00031 · OBJECTID 174139",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        174139
+      ],
+      "source_project_status": "Inspection",
+      "current_status_date": "2024-12-19",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-dae9857be69ac2c01b",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "003899-MSP-004-2",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "GLOBAL COMPUTER ENTERPRISES RESTON DATA CENTER (HM)",
+    "kind": "Minor Site Plan",
+    "status": "Approved",
+    "date": "2011-06-10",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=11WW5&capID2=00000&capID3=005JX&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 003899-MSP-004-2 · OBJECTID 91666",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        91666
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2011-06-10",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-ecc15a66a28d90ec60",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "RP-2025-00070",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "MCLEAREN DATA CENTER (SU)",
+    "kind": "Record Plat",
+    "status": "Approved",
+    "date": "2025-12-03",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=025O3&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record RP-2025-00070 · OBJECTID 985925",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        985925
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2025-12-03",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-ecf5b9eab93d6c1e66",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "006455-RGPC-008-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "AVION DATA CENTER [EPLAN/SU]",
+    "kind": "Bond",
+    "status": "Approved",
+    "date": "2021-12-29",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=21WW7&capID2=00000&capID3=00EN6&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 006455-RGPC-008-1 · OBJECTID 155386",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        155386
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2021-12-29",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-f41516705b9b5a5683",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "002481-WCP-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "BOEING COMPUTER SERVICE DATA CENTER",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "1980-01-07",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=79WW6&capID2=00000&capID3=0061A&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 002481-WCP-001-1 · OBJECTID 119006",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        119006
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "1980-01-07",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-f42df111ae2e072baa",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SR-2025-00003",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Chantilly Premier - Data Center (SU)",
+    "kind": "Geotechnical Report",
+    "status": "Closed",
+    "date": "2025-02-05",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC25&capID2=00000&capID3=003MP&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SR-2025-00003 · OBJECTID 878461",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        878461
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2025-02-05",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-f4fba391ab559d99e1",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "SR-2024-00111",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "Chantilly Premier Data Center",
+    "kind": "Geotechnical Report",
+    "status": "Closed",
+    "date": "2024-12-11",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=REC24&capID2=00000&capID3=02RIM&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record SR-2024-00111 · OBJECTID 353865",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        353865
+      ],
+      "source_project_status": "Project Closed",
+      "current_status_date": "2025-05-20",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-f70f725d4c8bdd9457",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-WSWD-002-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER PH 3",
+    "kind": "Waivers",
+    "status": "Approved",
+    "date": "2008-06-06",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=08WW6&capID2=00000&capID3=00OOR&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-WSWD-002-1 · OBJECTID 118475",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        118475
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2008-06-06",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-fa57f405909d40d856",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-MSP-001-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER - GENERATOR ADDN (SP)",
+    "kind": "Minor Site Plan",
+    "status": "Revised",
+    "date": "2009-05-28",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=09WW5&capID2=00000&capID3=00EQ4&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-MSP-001-1 · OBJECTID 91557",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        91557
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2010-06-14",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  },
+  {
+    "id": "va-fairfax-fd91a834827d67c2ec",
+    "state": "VA",
+    "dataset": "Fairfax County site plan and land development decisions",
+    "record_no": "007656-MSPV-001-B-1",
+    "jurisdiction": "Fairfax County",
+    "county": "Fairfax County",
+    "project": "DATA CENTER STANDBY POWER - GENERATOR ADDN (SP)",
+    "kind": "Minor Site Plan Revision",
+    "status": "Approved",
+    "date": "2010-06-14",
+    "date_role": "Site register approval date",
+    "url": "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1000&Module=Site&capID1=10WW5&capID2=00000&capID3=00EQ8&agencyCode=FFX&FromACA=Y",
+    "source_url": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&objectIds=30448%2C37193%2C38112%2C52331%2C53995%2C88257%2C89886%2C91557%2C91666%2C91737%2C92746%2C93339%2C93342%2C95991%2C98081%2C110902%2C118475%2C119006%2C120348%2C121848%2C124128%2C132190%2C140034%2C140402%2C142066%2C144066%2C151853%2C155386%2C156733%2C158568%2C160431%2C160521%2C172053%2C173893%2C173895%2C174139%2C174153%2C175412%2C182000%2C196385%2C235394%2C347616%2C350437%2C353865%2C878461%2C881266%2C881636%2C897685%2C919383%2C985925%2C1001600%2C1190589%2C1596908&outFields=OBJECTID%2CRECORDID%2CPROJECT_NAME%2CAPPTYPEALIAS%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CAPPROVED_DATE%2CPROJECT_STATUS%2CLINK_URL&returnGeometry=false",
+    "source_sha256": "809206406af1325666316f02edc8e91f6c5f3378ccdb83a5cb599347f0ca35a5",
+    "locator": "Approved Site Records (PLUS) · record 007656-MSPV-001-B-1 · OBJECTID 93342",
+    "details": {
+      "issuer": "Fairfax County Land Development Services",
+      "object_ids": [
+        93342
+      ],
+      "source_project_status": "Project Inactive",
+      "current_status_date": "2010-06-14",
+      "scope": "County site record. The approval date concerns the named submission, not a building permit or permission to operate. The county register can show a later project status."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "TN",
+  "started_utc": "2026-11-16T23:07:53+00:00",
+  "steps": [
+    {
+      "step": "prerequisite epa_icis: lib/epa_icis.py --zip cache/history/epa/npdes_downloads.zip --download --states AZ IN LA MS NM NV OH TN TX VA",
+      "rc": 0,
+      "seconds": 76.0,
+      "tail": ""
+    },
+    {
+      "step": "collectors/tennessee/history.py --fetch",
+      "rc": 0,
+      "seconds": 10.9,
+      "tail": ""
+    },
+    {
+      "step": "collectors/federal/faa_obstruction_evaluations.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "collectors/federal/usace_regulatory.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "TN",
+    "ok": true,
+    "rows": 57,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "collectors/tennessee/history.py",
+        "seconds": 1.2,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/faa_obstruction_evaluations.py",
+        "seconds": 52.8,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/usace_regulatory.py",
+        "seconds": 0.8,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "output/history/federal/usace_regulatory/tennessee.json": "0573d1aacce5c77f9b1749c13ec9247e08d3f4db4e7336513f96fa12d27579e8",
+      "output/history/federal/faa_obstruction_evaluations/tennessee.json": "f2004673958681999dab89a19c0305ca9c1fc282714ca0d9bbd680df5f98cfa1",
+      "output/history/tennessee/history.json": "478c917d976b426135e837397c5b29789eb5ce8b5dcdce1b7ca3cedf79e83baf"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "finished_utc": "2026-11-16T23:10:59+00:00"
+}

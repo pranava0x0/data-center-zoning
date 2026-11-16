@@ -1,0 +1,122 @@
+python3 scripts/history_loudoun.py
+Wrote 1933 records to output/history_loudoun.json
+python3 scripts/history_loudoun_supplement.py
+Wrote 307 supplementary records; matched monthly report files 120
+python3 scripts/history_air.py
+history_air.json: 229
+history_air_held.json: 2
+history_air_site_crosswalk.json: 191
+history_air_applications.json: 23
+history_air_application_leads.json: 4
+python3 scripts/history_water.py
+447 records; built
+python3 scripts/history_catalog_csv.py
+96 numbered permits from 247 building inventory rows
+python3 scripts/history_cases.py
+13 case events; 0 unavailable sources
+python3 scripts/history_oh.py
+Wrote 141 OH records: {'New Albany zoning entitlements': 4, 'Columbus engineering filings': 10, 'Ohio EPA NPDES register': 52, 'Columbus building and trade permits': 69, 'Municipal planning decisions': 4, 'Ohio EPA selected air and water permits': 2}
+python3 scripts/history_tx.py
+Counter({'Austin issued construction permits': 333, 'Fort Worth development permits': 187, 'Dallas building permits': 70, 'San Antonio issued building and trade permits': 33, 'TDLR architectural barriers registrations': 25, 'Abilene city site-plan register': 2}) {'fort_worth duplicate permit': 37, 'san_antonio linked trade/address row': 90} 18 broad nonmatches
+python3 scripts/history_az.py
+408 records; 221 excluded candidates; 62 archives verified
+python3 scripts/history_in.py
+458 events; 39 verified DHS projects
+/Applications/Xcode.app/Contents/Developer/usr/bin/make build
+python3 scripts/screen_local.py
+{'prior research': 303, 'unavailable': 1518, 'no keyword match': 2961, 'possible mention': 63, 'no entry point': 2357, 'not attempted': 100}
+python3 scripts/validate_screen.py
+5048 local source snapshots verified; 7302 geographies reconciled
+python3 scripts/build.py
+{
+  "rules": 98,
+  "default_visible_count": 84,
+  "held_count": 14,
+  "visible_by_state": {
+    "VA": 38,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 9,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9
+  },
+  "distinct_urls": 75,
+  "checks": {
+    "snapshot_match": 75,
+    "retrieval_unavailable": 14,
+    "visual_source_check": 9
+  },
+  "locations": 47,
+  "states": {
+    "VA": 51,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 10,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9
+  },
+  "coverage_frame": {
+    "matched source": 40,
+    "retrieval failed": 1514,
+    "screened: limited discovery": 3220,
+    "screened: candidate only": 67,
+    "not yet screened": 2457,
+    "evidence held": 4
+  },
+  "unmapped": [
+    "va-lw-reclaimed",
+    "va-water-pretreatment",
+    "az-navajo-minor-air",
+    "nm-epa-construction-authority"
+  ]
+}
+python3 scripts/screen_indirect.py
+Ignoring wrong pointing object 6 0 (offset 0)
+Ignoring wrong pointing object 8 0 (offset 0)
+Ignoring wrong pointing object 10 0 (offset 0)
+Ignoring wrong pointing object 12 0 (offset 0)
+Ignoring wrong pointing object 18 0 (offset 0)
+Ignoring wrong pointing object 57 0 (offset 0)
+{'names searched': 3975, 'with leads': 44}
+python3 scripts/extract_values.py
+7 of 7 typed recipes matched
+python3 scripts/worklist.py
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis forecast
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis power
+7302 geographic work items (layers may overlap)
+python3 scripts/export_gis.py
+44 linked GIS features; 4 rows without geometry retained in master table
+python3 scripts/build_history.py
+Exported 4459 history records.
+python3 scripts/check_site_copy.py
+writing: full detail → /Users/pranava/Projects/local ordinance zoning/output/writing-check.json
+design: slop_design: scanned 2 files (12,833 bytes); 0 FAIL, 0 WARN, 0 INFO; 0 exempted by allowlist; 0 rules disabled
+python3 scripts/build_viewer.py
+Standalone atlas: 1,248,492 bytes; 5 state permit registers
+python3 scripts/project_scale.py
+python3 scripts/validate_compass.py --strict-taxonomy
+PASS 0 errors, 0 viewer-label notices; AZ: 9 provisions / 408 history rows, IN: 9 provisions / 458 history rows, OH: 4 provisions / 141 history rows, TX: 8 provisions / 650 history rows, VA: 38 provisions / 2802 history rows
+python3 scripts/rank_states.py --check
+10-state queue matches pinned EPRI and directory inputs.
+python3 -m unittest discover -s tests
+................................
+----------------------------------------------------------------------
+Ran 32 tests in 0.188s
+
+OK
+/Applications/Xcode.app/Contents/Developer/usr/bin/make uat
+node tests/viewer.mjs
+UAT passed: 670 assertions across four viewports, HTTP and file://.
+output/history_az.json: OK
+output/history_in.json: OK
+output/permit_history.csv: OK

@@ -1,0 +1,407 @@
+{
+  "nd_code": {
+    "url": "https://www.bismarcknd.gov/DocumentCenter/View/55775/Land-Development-Code?bidId=",
+    "sha256": "40a38b85c7622dd6e894325d808088617800dff530aacd3d55e5ca404cf56181",
+    "bytes": 10456713,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/40a38b85c7622dd6e894325d808088617800dff530aacd3d55e5ca404cf56181.pdf",
+    "retrieved": "2026-11-16T06:57:04.800850+00:00"
+  },
+  "nd_effective": {
+    "url": "https://www.bismarcknd.gov/2371/Zoning-and-Guidelines",
+    "sha256": "f12cd917cab9bebe9a612bab7478f135305bb56a95bc7b987e720e670a7eb134",
+    "bytes": 123620,
+    "ext": "html",
+    "path": "cache/ordinance-astra/f12cd917cab9bebe9a612bab7478f135305bb56a95bc7b987e720e670a7eb134.html",
+    "retrieved": "2026-11-16T06:57:12.366706+00:00"
+  },
+  "sd_signed": {
+    "url": "https://mcpherson.sdcounty.gov/wp-content/uploads/2026/01/2025-1-Data-Center-Ordinance_signed.pdf",
+    "sha256": "e82c7e3335268dab686bb621f9763e591dc6794a0b5bf93db4510557684785c3",
+    "bytes": 3836701,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/e82c7e3335268dab686bb621f9763e591dc6794a0b5bf93db4510557684785c3.pdf",
+    "retrieved": "2026-11-16T06:57:03.173720+00:00"
+  },
+  "sd_notice": {
+    "url": "https://mcpherson.sdcounty.gov/notice-of-public-hearings-ordinance-2026-1/",
+    "sha256": "dd4fb598367111602cd88d558019940e682e45d94e88b61d2aee80f361c88959",
+    "bytes": 363996,
+    "ext": "html",
+    "path": "cache/ordinance-astra/dd4fb598367111602cd88d558019940e682e45d94e88b61d2aee80f361c88959.html",
+    "retrieved": "2026-11-16T06:57:02.801616+00:00"
+  },
+  "mt_county": {
+    "url": "https://www.missoulacounty.gov/news/new-podcast-episode-what-can-missoula-county-do-about-data-centers",
+    "sha256": "1307a94339ec6ab43bb37eb8f0112ac20b525cada50dcb54a7b9c103597fb788",
+    "bytes": 134475,
+    "ext": "html",
+    "path": "cache/ordinance-astra/1307a94339ec6ab43bb37eb8f0112ac20b525cada50dcb54a7b9c103597fb788.html",
+    "retrieved": "2026-11-16T06:57:03.025549+00:00"
+  },
+  "cherokee": {
+    "url": "https://www.anadisgoi.com/index.php/government-stories/cherokee-nation-issues-data-center-task-force-report-new-policy-actions",
+    "sha256": "613cbde819e109e57e4915b4307b7e0d3c9b47bd6fc2ebfc0a97b65270163ca0",
+    "bytes": 37292,
+    "ext": "html",
+    "path": "cache/ordinance-astra/613cbde819e109e57e4915b4307b7e0d3c9b47bd6fc2ebfc0a97b65270163ca0.html",
+    "retrieved": "2026-11-16T06:57:04.142532+00:00"
+  },
+  "id_order": {
+    "url": "https://www.bannockcounty.gov/wp-content/uploads/2026/07/Data-Center-Moratorium_Final.pdf",
+    "sha256": "c1c722c39702218754423bb006fff390d86c47641105d0751f47030d94f9eb3f",
+    "bytes": 101212,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/c1c722c39702218754423bb006fff390d86c47641105d0751f47030d94f9eb3f.pdf",
+    "retrieved": "2026-11-16T06:59:15.888016+00:00"
+  },
+  "id_scope": {
+    "url": "https://www.bannockcounty.gov/datacenter/",
+    "sha256": "66c8c673e2158d38488ab81a074a84cabfc3af688fbc22d6e97a6c7d483d4313",
+    "bytes": 259625,
+    "ext": "html",
+    "path": "cache/ordinance-astra/66c8c673e2158d38488ab81a074a84cabfc3af688fbc22d6e97a6c7d483d4313.html",
+    "retrieved": "2026-11-16T06:59:15.904865+00:00"
+  },
+  "id_grading": {
+    "url": "https://www.bannockcounty.gov/planning/",
+    "sha256": "2142a50c68bd7a7ac13ce44956da2850f082c22e33c1a3addeb5bbc80f5e6bb0",
+    "bytes": 319515,
+    "ext": "html",
+    "path": "cache/ordinance-astra/2142a50c68bd7a7ac13ce44956da2850f082c22e33c1a3addeb5bbc80f5e6bb0.html",
+    "retrieved": "2026-11-16T06:59:15.770129+00:00"
+  },
+  "wy_exhibit": {
+    "url": "https://laramiecounty.legistar.com/View.ashx?GUID=CA622251-5580-4D2B-AA97-DA9D67131C2F&ID=14836887&M=F",
+    "sha256": "6ea589c0437f10c784ee0c2dbf5410f02b3e4206b647050b3df3bb7417792f0c",
+    "bytes": 9422655,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/6ea589c0437f10c784ee0c2dbf5410f02b3e4206b647050b3df3bb7417792f0c.pdf",
+    "retrieved": "2026-11-16T06:59:18.530158+00:00"
+  },
+  "wy_passage": {
+    "url": "https://laramiecounty.legistar.com/LegislationDetail.aspx?GUID=277FD852-B4BB-4AE6-8EA0-CF89F06D3B5F&ID=7691002&Options=&Search=",
+    "sha256": "68266a37728590b7020032944fe6dfd574c4033e6267ada8ebf37aeb60012634",
+    "bytes": 92321,
+    "ext": "html",
+    "path": "cache/ordinance-astra/68266a37728590b7020032944fe6dfd574c4033e6267ada8ebf37aeb60012634.html",
+    "retrieved": "2026-11-16T06:59:15.997946+00:00"
+  },
+  "sd_register": {
+    "url": "https://mcpherson.sdcounty.gov/commission/county-ordinances/",
+    "sha256": "f8616c2fa0e985792cbaf844f76cf86802709cf7f7c047161d76d365f0b0ecc5",
+    "bytes": 314902,
+    "ext": "html",
+    "path": "cache/ordinance-astra/f8616c2fa0e985792cbaf844f76cf86802709cf7f7c047161d76d365f0b0ecc5.html",
+    "retrieved": "2026-11-16T06:59:17.061421+00:00"
+  },
+  "sd_minutes": {
+    "url": "https://mcpherson.sdcounty.gov/commission/commission-minutes/",
+    "sha256": "76e732258524d994153a45dede012b21e22c7bec592dd13cf9fd5d407f287d0b",
+    "bytes": 285085,
+    "ext": "html",
+    "path": "cache/ordinance-astra/76e732258524d994153a45dede012b21e22c7bec592dd13cf9fd5d407f287d0b.html",
+    "retrieved": "2026-11-16T06:59:17.318501+00:00"
+  },
+  "wv_cert": {
+    "url": "https://code.wvlegislature.gov/5B-2-21/",
+    "sha256": "8e0aeb6b616b997ef670d8e77392f3f52630a56cfd6cf6e8941d7be8bf8dc549",
+    "bytes": 55250,
+    "ext": "html",
+    "path": "cache/ordinance-astra/8e0aeb6b616b997ef670d8e77392f3f52630a56cfd6cf6e8941d7be8bf8dc549.html",
+    "retrieved": "2026-11-16T07:07:27.113624+00:00"
+  },
+  "wv_preempt": {
+    "url": "https://code.wvlegislature.gov/5B-2-21B/",
+    "sha256": "4fa9d0e21ff7ee99d85aacc9265f752c0b25dc3b873056d569adf8db70e61e4d",
+    "bytes": 47581,
+    "ext": "html",
+    "path": "cache/ordinance-astra/4fa9d0e21ff7ee99d85aacc9265f752c0b25dc3b873056d569adf8db70e61e4d.html",
+    "retrieved": "2026-11-16T07:07:27.444788+00:00"
+  },
+  "wv_rule": {
+    "url": "https://code.wvlegislature.gov/64-10-1/",
+    "sha256": "58d4acd977c312e10ec8b3e575ec162139282babb30a964e8bf855840218650f",
+    "bytes": 61039,
+    "ext": "html",
+    "path": "cache/ordinance-astra/58d4acd977c312e10ec8b3e575ec162139282babb30a964e8bf855840218650f.html",
+    "retrieved": "2026-11-16T07:07:31.037723+00:00"
+  },
+  "ks_sedgwick": {
+    "url": "https://www.sedgwickcounty.org/media/73231/0514-26-resolution-95-2026_ada_aod.pdf",
+    "sha256": "3f51612fd627853e53d0d7dbb9cfdf10118260d469da1e642e061f80834fe418",
+    "bytes": 4671816,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/3f51612fd627853e53d0d7dbb9cfdf10118260d469da1e642e061f80834fe418.pdf",
+    "retrieved": "2026-11-16T07:07:32.353258+00:00"
+  },
+  "nm_santafe": {
+    "url": "https://www.santafecountynm.gov/documents/ordinances/Ordinance_2026-06.pdf",
+    "sha256": "783236966a9a6c25e16f5d7fd5969da633b342e2968d4b8012530bd34a71cafe",
+    "bytes": 1556685,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/783236966a9a6c25e16f5d7fd5969da633b342e2968d4b8012530bd34a71cafe.pdf",
+    "retrieved": "2026-11-16T07:07:28.539569+00:00",
+    "ocr_path": "cache/ordinance-astra/783236966a9a6c25e16f5d7fd5969da633b342e2968d4b8012530bd34a71cafe.ocr.json",
+    "ocr_sha256": "d81a42a151fdfbc90cc044b7a6d416e67b1d44debe9ce6c3d5a143a7e3869ce9",
+    "ocr_method": "Apple Vision, 7 source pages; scripts/history_in_ocr.swift"
+  },
+  "nm_scope": {
+    "url": "https://www.santafecountynm.gov/news/detail/santa-fe-county-approves-18-month-moratorium-on-data-centers",
+    "sha256": "f1bf963d9b1789f1cdc20598eb4857423a56e6e13b5820ea8ac6e59d1bfada62",
+    "bytes": 40445,
+    "ext": "html",
+    "path": "cache/ordinance-astra/f1bf963d9b1789f1cdc20598eb4857423a56e6e13b5820ea8ac6e59d1bfada62.html",
+    "retrieved": "2026-11-16T07:07:28.660784+00:00"
+  },
+  "tulsa_code": {
+    "url": "https://tulsaplanning.org/plans/TulsaZoningCode.pdf",
+    "sha256": "5e779deabc5fbc252a6f81e09dbd29d4e5e4c0962891c954df96eec0f05e828b",
+    "bytes": 7266296,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/5e779deabc5fbc252a6f81e09dbd29d4e5e4c0962891c954df96eec0f05e828b.pdf",
+    "retrieved": "2026-11-16T07:07:31.283550+00:00"
+  },
+  "srpmic": {
+    "url": "https://srpmic-nsn.gov/wp-content/uploads/2026/05/ZONING-ORDINANCE-SRO-467-2015.pdf",
+    "sha256": "b91fecda9e226273be0fa15ba3ca5ee0e66084333dfe79c922ef85940782bdd3",
+    "bytes": 4155520,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/b91fecda9e226273be0fa15ba3ca5ee0e66084333dfe79c922ef85940782bdd3.pdf",
+    "retrieved": "2026-11-16T07:07:30.222983+00:00"
+  },
+  "srpmic_current": {
+    "url": "https://srpmic-nsn.gov/government/cdd/planning/",
+    "sha256": "9c96906acfd0b95427be9d49cdc52b1a26118a5f2f91b4aeab419d73a9fc171d",
+    "bytes": 149458,
+    "ext": "html",
+    "path": "cache/ordinance-astra/9c96906acfd0b95427be9d49cdc52b1a26118a5f2f91b4aeab419d73a9fc171d.html",
+    "retrieved": "2026-11-16T07:07:31.458605+00:00"
+  },
+  "mp_zone": {
+    "url": "https://www.cnmizoning.com/sec.asp?secID=6",
+    "sha256": "f6bdb80a0fb7e645252c1008394cc7da7f2ec454e8d8b95b786b5af513a4e315",
+    "bytes": 7545,
+    "ext": "html",
+    "path": "cache/ordinance-astra/f6bdb80a0fb7e645252c1008394cc7da7f2ec454e8d8b95b786b5af513a4e315.html",
+    "retrieved": "2026-11-16T07:07:33.210176+00:00"
+  },
+  "wv_definition": {
+    "url": "https://code.wvlegislature.gov/11-6N-2/",
+    "sha256": "06b2a05726ef3a5bac74a87d01d395af50a0ac1a065d5c93afe11dc2e5f474f8",
+    "bytes": 42807,
+    "ext": "html",
+    "path": "cache/ordinance-astra/06b2a05726ef3a5bac74a87d01d395af50a0ac1a065d5c93afe11dc2e5f474f8.html",
+    "retrieved": "2026-11-16T07:08:53.494294+00:00"
+  },
+  "wv_check": {
+    "url": "https://westvirginia.gov/datacenters/begincertification/",
+    "sha256": "4391f1080e00ec763d475d840622694e5610d4c61116b1235ec63267cf2d22fe",
+    "bytes": 167932,
+    "ext": "html",
+    "path": "cache/ordinance-astra/4391f1080e00ec763d475d840622694e5610d4c61116b1235ec63267cf2d22fe.html",
+    "retrieved": "2026-11-16T07:08:53.236786+00:00"
+  },
+  "ky_registry": {
+    "url": "https://louisville.legistar.com/LegislationDetail.aspx?GUID=7405E0CE-574D-407B-AF7B-2D278775C4C6&ID=8172008&Options=&Search=",
+    "sha256": "6a19c1585c4bdba271f6772455633ee6237934813f099728a1dcc757d9bb728c",
+    "bytes": 147036,
+    "ext": "html",
+    "path": "cache/ordinance-astra/6a19c1585c4bdba271f6772455633ee6237934813f099728a1dcc757d9bb728c.html",
+    "retrieved": "2026-11-16T07:08:53.501649+00:00"
+  },
+  "ks_desoto": {
+    "url": "https://www.desotoks.us/465/Data-Centers",
+    "sha256": "3586f421391a538d0bd3cc48d7a464f7e4f9108f0d0aad15c98dc60119e397a6",
+    "bytes": 174647,
+    "ext": "html",
+    "path": "cache/ordinance-astra/3586f421391a538d0bd3cc48d7a464f7e4f9108f0d0aad15c98dc60119e397a6.html",
+    "retrieved": "2026-11-16T07:08:54.330322+00:00"
+  },
+  "tulsa_report": {
+    "url": "https://tulsaplanning.org/pc/agendas/2026-11-04-ws.pdf",
+    "sha256": "6f9499cb31a3b3b05dbb01e087e718aa177672232fdd20e680964e7fd1228ee8",
+    "bytes": 5531954,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/6f9499cb31a3b3b05dbb01e087e718aa177672232fdd20e680964e7fd1228ee8.pdf",
+    "retrieved": "2026-11-16T07:08:55.534664+00:00"
+  },
+  "nm_albuquerque": {
+    "url": "https://documents.cabq.gov/planning/IDO/2025_IDO_Update/IDO_2026_Effective-2026-05-06.pdf",
+    "sha256": "4927c6a250a2ce658f2017f0d537bb5e99cd91f35325e1ddec98c62c86284303",
+    "bytes": 23832206,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/4927c6a250a2ce658f2017f0d537bb5e99cd91f35325e1ddec98c62c86284303.pdf",
+    "retrieved": "2026-11-16T07:09:05.715363+00:00"
+  },
+  "mp_application": {
+    "url": "https://cnmizoning.com/sec.asp?secID=11",
+    "sha256": "22d9fecf300a997866519c0274255d519a1ec6ff24a1012b7642d51ea2801d97",
+    "bytes": 6278,
+    "ext": "html",
+    "path": "cache/ordinance-astra/22d9fecf300a997866519c0274255d519a1ec6ff24a1012b7642d51ea2801d97.html",
+    "retrieved": "2026-11-16T07:08:55.521390+00:00"
+  },
+  "mp_article4": {
+    "url": "https://cnmizoning.com/resources/files/law/Amended%20Saipan%20Zoning%20Law%20of%202013/2013%20SZL%20Amended%20-%20Article%204(1).pdf",
+    "sha256": "0b2d0ea94ab52abb7cc9e18ebadacaaf6608490deb9e3ed897132665af983c5b",
+    "bytes": 609167,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/0b2d0ea94ab52abb7cc9e18ebadacaaf6608490deb9e3ed897132665af983c5b.pdf",
+    "retrieved": "2026-11-16T07:08:56.764100+00:00"
+  },
+  "ky_ordinance": {
+    "url": "https://louisville.legistar.com/LegislationDetail.aspx?FullText=1&GUID=7405E0CE-574D-407B-AF7B-2D278775C4C6&ID=8172008&Options=&Search=",
+    "sha256": "5ef832834ab973dba6803fefd7d304ca05a3e547fe6f5fea729cffcfad971251",
+    "bytes": 182211,
+    "ext": "html",
+    "path": "cache/ordinance-astra/5ef832834ab973dba6803fefd7d304ca05a3e547fe6f5fea729cffcfad971251.html",
+    "retrieved": "2026-11-16T07:10:17.944048+00:00"
+  },
+  "ks_county_sept": {
+    "url": "https://www.sedgwickcounty.org/communications/news-releases/this-week-in-sedgwick-county-sept-2-2026/",
+    "sha256": "7b7a52d05d1bc235c6a9944195b61a10f42556be4f9b3779eed966195723b304",
+    "bytes": 47853,
+    "ext": "html",
+    "path": "cache/ordinance-astra/7b7a52d05d1bc235c6a9944195b61a10f42556be4f9b3779eed966195723b304.html",
+    "retrieved": "2026-11-16T07:10:18.447966+00:00"
+  },
+  "tulsa_vote": {
+    "url": "https://www.tulsacouncil.org/post/city-council-recap-november-6-2024",
+    "sha256": "3586826d1fa711878c1b2b471bee334989819c5e479ff2963929f290ad9a6ff9",
+    "bytes": 2244152,
+    "ext": "html",
+    "path": "cache/ordinance-astra/3586826d1fa711878c1b2b471bee334989819c5e479ff2963929f290ad9a6ff9.html",
+    "retrieved": "2026-11-16T07:10:20.338034+00:00"
+  },
+  "cheyenne_index": {
+    "url": "https://www.cheyenneandarapaho-nsn.gov/tribal-council/resolutions",
+    "sha256": "957d40ccfdb32e3c42ca14d201aa4653a9eb71ed33278ea9769512b00a99c635",
+    "bytes": 55100,
+    "ext": "html",
+    "path": "cache/ordinance-astra/957d40ccfdb32e3c42ca14d201aa4653a9eb71ed33278ea9769512b00a99c635.html",
+    "retrieved": "2026-11-16T07:12:01.880429+00:00"
+  },
+  "wv_145": {
+    "url": "https://apps.sos.wv.gov/adlaw/csr/readfile.aspx?DocId=58817&Format=PDF",
+    "sha256": "030cc1ad955322538517920f4dad04a338b7405f43735c7ebcbccc367d936cb3",
+    "bytes": 574981,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/030cc1ad955322538517920f4dad04a338b7405f43735c7ebcbccc367d936cb3.pdf",
+    "retrieved": "2026-11-16T07:12:02.374712+00:00"
+  },
+  "wv_cert_hidc": {
+    "url": "https://code.wvlegislature.gov/5B-2-21a/",
+    "sha256": "58797fed1b4231e701448d443d5a77244c652b52689d05e32d0a4a28ead4eb50",
+    "bytes": 44266,
+    "ext": "html",
+    "path": "cache/ordinance-astra/58797fed1b4231e701448d443d5a77244c652b52689d05e32d0a4a28ead4eb50.html",
+    "retrieved": "2026-11-16T07:12:02.346668+00:00"
+  },
+  "mp_art7": {
+    "url": "https://www.cnmizoning.com/resources/files/law/2024%20AMENDED%20SAIPAN%20ZONING%20LAW%20OF%202013/2013%20SZL_Article%207_2013.pdf",
+    "sha256": "e0256b85a96be2819a3133665784fb8d4e01cf97cc5e1ff760a994e599d1af70",
+    "bytes": 162355,
+    "ext": "pdf",
+    "path": "cache/ordinance-astra/e0256b85a96be2819a3133665784fb8d4e01cf97cc5e1ff760a994e599d1af70.pdf",
+    "retrieved": "2026-11-16T07:12:03.921802+00:00"
+  },
+  "mp_publication": {
+    "url": "https://www.cnmizoning.com/sec.asp?secID=37",
+    "sha256": "26fca11749305831d91b9a98eb472ae3b3a24160c9a27e2029ad92ae6fe4744b",
+    "bytes": 8116,
+    "ext": "html",
+    "path": "cache/ordinance-astra/26fca11749305831d91b9a98eb472ae3b3a24160c9a27e2029ad92ae6fe4744b.html",
+    "retrieved": "2026-11-16T07:12:03.629658+00:00"
+  },
+  "book_1f55287b": {
+    "url": "https://www.bowdon.net/wp-content/uploads/2025/09/Bowdon-Zoning-Ordinance-Adopted-9-8-25.pdf",
+    "sha256": "1f55287bb6052031dfdd5ad7424598d823c46cf1b9eb7743b03aadd11300e805",
+    "bytes": 7648933,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/1f55287bb6052031dfdd5ad7424598d823c46cf1b9eb7743b03aadd11300e805.pdf",
+    "retrieved": "2026-11-16T07:09:03+00:00",
+    "referral": "https://www.bowdon.net/zoning/",
+    "referral_sha256": "cb3d14c0f66856387ca2d696a9c0f35abfdf0e8d06a60d9a2e6bb86196971f57"
+  },
+  "book_243e3564": {
+    "url": "https://www.co.sherburne.mn.us/DocumentCenter/View/11846/Complete-Zoning-Ordinance--",
+    "sha256": "243e35642d5349d4242c80fe0577f9a1e597435c327ea9028e6428bdefa04059",
+    "bytes": 2251362,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/243e35642d5349d4242c80fe0577f9a1e597435c327ea9028e6428bdefa04059.pdf",
+    "retrieved": "2026-11-16T07:18:43+00:00",
+    "referral": "https://www.co.sherburne.mn.us/651/County-Ordinances",
+    "referral_sha256": "5e4266f137fe9c9afaf66c45b70f0e19d0c3dd64b7fdd61019f14165e9c4e9d1"
+  },
+  "book_4c4bccd1": {
+    "url": "https://www.gohammond.com/wp-content/uploads/2024/10/Zoning-Ordinance-8514.pdf",
+    "sha256": "4c4bccd1fc7f7b89735c36c94d36115479624f0d24bab9b93b141d612fe53cd4",
+    "bytes": 1485730,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/4c4bccd1fc7f7b89735c36c94d36115479624f0d24bab9b93b141d612fe53cd4.pdf",
+    "retrieved": "2026-11-16T07:16:17+00:00",
+    "referral": "https://www.gohammond.com/departments/planning-and-development/zoning-division/",
+    "referral_sha256": "4cb6dd5cdbc2d4b9cf9e7af6856b4f16199b95eba45a02b21323ea681b9c1b1c"
+  },
+  "book_7df914a1": {
+    "url": "https://ligoniertownship.com/pdf/Chapter_120_Zoning_Code_2026_with_pages.pdf",
+    "sha256": "7df914a1c16966d11f269e3a61404667de5185e2f77cd97fd31720bf9be0d22b",
+    "bytes": 1404615,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/7df914a1c16966d11f269e3a61404667de5185e2f77cd97fd31720bf9be0d22b.pdf",
+    "retrieved": "2026-11-16T07:13:56+00:00",
+    "referral": "https://www.ligoniertownship.com/zoning.php",
+    "referral_sha256": "9f97e1959472f40c617988f33317627348b84496374bcb2ae87b0e1495c6d473"
+  },
+  "book_8cc6dc0c": {
+    "url": "https://barrytownshipmn.gov/wp-content/uploads/2026/08/Barry-Zoning-Ordinance-2026-Signed.pdf",
+    "sha256": "8cc6dc0c3ffa51ba0b8c444d59e342393afe5f6897f281353aa8e6c514b45032",
+    "bytes": 422420,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/8cc6dc0c3ffa51ba0b8c444d59e342393afe5f6897f281353aa8e6c514b45032.pdf",
+    "retrieved": "2026-11-16T07:18:31+00:00",
+    "referral": "https://barrytownshipmn.gov/documents/zoning-ordinance/",
+    "referral_sha256": "f99bab1e531b954b95e32818b1c012ea39f0a90bd75e69235cd1dfd37d24fbbc"
+  },
+  "book_8d4a797d": {
+    "url": "https://www.hillmanmichigan.org/images/_Documents/Zoning_Ordinance_2026.pdf",
+    "sha256": "8d4a797d38596a22d46aa9f8784d2745af48a7348cc1a082815145a88082c45c",
+    "bytes": 11025538,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/8d4a797d38596a22d46aa9f8784d2745af48a7348cc1a082815145a88082c45c.pdf",
+    "retrieved": "2026-11-16T07:19:59+00:00",
+    "referral": "https://www.hillmanmichigan.org/index.php?option=com_content&view=featured&Itemid=316",
+    "referral_sha256": "b2738e562ac7c4528fbe1371d403564a8e56ac1ee8fb82f93bd1e46b47d93d31"
+  },
+  "book_bf577bbe": {
+    "url": "https://trappeborough.com/wp-content/uploads/2026/09/Trappe-Zoning-Ordinance-Amended-9-1-2026.pdf",
+    "sha256": "bf577bbe549d309313f1dfae2884feff4b28f4771b59e7ac45bf109174f73733",
+    "bytes": 5217525,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/bf577bbe549d309313f1dfae2884feff4b28f4771b59e7ac45bf109174f73733.pdf",
+    "retrieved": "2026-11-16T07:15:05+00:00",
+    "referral": "https://trappeborough.com/codes-ordinances-1/",
+    "referral_sha256": "8e4356bcb38ad3d7ef601121c08e0796484a9160a1ff07fb91c081be2c06f517"
+  },
+  "book_d79c7f95": {
+    "url": "https://www.cherrytreetwp.com/Zoning/UPOrd01Of2026Passed11022026PDF.pdf",
+    "sha256": "d79c7f954e405af814cc63ffb44cd7cf846cb6a4c15e922af7df817c74876349",
+    "bytes": 422027,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/d79c7f954e405af814cc63ffb44cd7cf846cb6a4c15e922af7df817c74876349.pdf",
+    "retrieved": "2026-11-16T07:09:39+00:00",
+    "referral": "https://www.cherrytreetwp.com/zoning.html",
+    "referral_sha256": "986457b8df617598ab5b08aa0cef4fa89d81cf3650727159f168c35ef31eef15"
+  },
+  "book_ebf717b0": {
+    "url": "https://summittownship.com/wp-content/uploads/2026/10/2021-02-Summit-Township-Zoning-Ordinance-Amended-2026-BLANK-LAST-PAGE.pdf",
+    "sha256": "ebf717b04eddf7ce997a71ab62832b1293c57c47cc579f98238616a97bdbe535",
+    "bytes": 2049013,
+    "ext": "pdf",
+    "path": "cache/codebooks/files/ebf717b04eddf7ce997a71ab62832b1293c57c47cc579f98238616a97bdbe535.pdf",
+    "retrieved": "2026-11-16T07:15:01+00:00",
+    "referral": "https://summittownship.com/ordinances/",
+    "referral_sha256": "fdb26b98576095922caacad48f29d7929d23db754d2244730665e0cb00fafa3c"
+  }
+}

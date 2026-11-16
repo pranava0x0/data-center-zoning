@@ -1,0 +1,32 @@
+[
+  {
+    "state": "AS",
+    "name": "American Samoa Coastal Management Program",
+    "url": "https://www.osas.as/_files/ugd/4c56eb_4230571f871d4c7590fbe5ae9b1f771b.pdf",
+    "scope": "Territorial permit guidance"
+  },
+  {
+    "state": "MP",
+    "name": "Division of Coastal Resources Management",
+    "url": "https://dcrm.gov.mp/our-programs/permitting/the-permitting-process/",
+    "scope": "Territorial permit guidance"
+  },
+  {
+    "state": "VI",
+    "name": "Department of Planning and Natural Resources",
+    "url": "https://dpnr.vi.gov/coastal-zone-management/what-we-do/coastal-zone-permitting/",
+    "scope": "Territorial permit guidance"
+  },
+  {
+    "state": "GU",
+    "name": "Bureau of Statistics and Plans",
+    "url": "https://bsp.guam.gov/guam%E2%80%90development%E2%80%90guidebook/",
+    "scope": "Territorial permit guidance"
+  },
+  {
+    "state": "PR",
+    "name": "Oficina de Gerencia de Permisos",
+    "url": "https://www.estadisticas.pr.gov/productos/pemas---permisos-de-construccion",
+    "scope": "Construction application register; excludes some autonomous municipalities"
+  }
+]

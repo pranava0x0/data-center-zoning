@@ -1,0 +1,10 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Clark County,23,32003,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Washoe County,11,32031,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Storey County,5,32029,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Henderson city,2,3231900,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,Las Vegas city,2,3240000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,North Las Vegas city,2,3251800,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,1,Enterprise CDP,11,3223770,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,2,Sunrise Manor CDP,4,3271400,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,3,Paradise CDP,2,3254600,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

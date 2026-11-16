@@ -1,0 +1,65 @@
+[
+  {
+    "id": "de-case-4773ae0bf99d9",
+    "state": "DE",
+    "dataset": "Delaware Coastal Zone Act decisions",
+    "jurisdiction": "New Castle County",
+    "county": "New Castle County",
+    "record_no": "CZA-448SD",
+    "project": "Project Washington",
+    "kind": "Coastal zone applicability decision",
+    "status": "Prohibited as proposed",
+    "date": "2026-02-03",
+    "date_role": "Decision signed",
+    "url": "https://documents.dnrec.delaware.gov/Admin/Public-Notices/CCE20260043/Status-Decision.pdf#page=2",
+    "source_url": "https://documents.dnrec.delaware.gov/Admin/Public-Notices/CCE20260043/Status-Decision.pdf",
+    "source_sha256": "bf13151f70f2036626e147f0864170b7b707c1fdaa7aa86ddeeeb21302861677",
+    "locator": "PDF 2, CZA-448SD",
+    "details": {
+      "decision": "The decision applies to the submitted campus design and fuel-storage configuration.",
+      "evidence": "proposed Project Washington is prohibited from development"
+    }
+  },
+  {
+    "id": "de-case-67d4335dc5373",
+    "state": "DE",
+    "dataset": "Delaware Coastal Zone Act decisions",
+    "jurisdiction": "New Castle County",
+    "county": "New Castle County",
+    "record_no": "CZ-2026-01",
+    "project": "Project Washington",
+    "kind": "Coastal zone appeal",
+    "status": "Appeal filed",
+    "date": "2026-02-17",
+    "date_role": "Appeal filing date recorded by board",
+    "url": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf#page=6",
+    "source_url": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf",
+    "source_sha256": "031a465df69e632d9fdb9aca9528b35c7d098c68a906f10a01e44827828c8b8a",
+    "locator": "PDF 6, CZ-2026-01",
+    "details": {
+      "decision": "Starwood challenged the Secretary’s February determination.",
+      "evidence": "Appellant filed its appeal on February 17, 2026"
+    }
+  },
+  {
+    "id": "de-case-b15744a21a74e",
+    "state": "DE",
+    "dataset": "Delaware Coastal Zone Act decisions",
+    "jurisdiction": "New Castle County",
+    "county": "New Castle County",
+    "record_no": "CZ-2026-01",
+    "project": "Project Washington",
+    "kind": "Coastal zone appeal",
+    "status": "Decision affirmed",
+    "date": "2026-04-17",
+    "date_role": "Final order date",
+    "url": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf#page=78",
+    "source_url": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf",
+    "source_sha256": "031a465df69e632d9fdb9aca9528b35c7d098c68a906f10a01e44827828c8b8a",
+    "locator": "PDF 78, CZ-2026-01",
+    "details": {
+      "decision": "The board upheld the prohibition on this proposal. This is not a statewide ban on data centers.",
+      "evidence": "The Secretary’s Status Decision is AFFIRMED"
+    }
+  }
+]

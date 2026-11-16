@@ -1,0 +1,58 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2716%27&returnIdsOnly=true",
+      "sha256": "8725e323cfd6de2f62b60d25453c209fd6ffc2650b4484e4ae5e513d96bd551e",
+      "bytes": 1150,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2716%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "dd56f8e941a188db4d0c13a0b10c143620c7b061b307358e95cd074bb5b27742",
+      "bytes": 825694,
+      "ext": "json"
+    }
+  },
+  "issued": {
+    "url": "https://www.deq.idaho.gov/permits/issued-permits-and-water-quality-certifications/",
+    "sha256": "45ee172fe2ebbb1eee4efad96a9053e485e2ff5ff97468a8566ba4da5a8b0e9e",
+    "bytes": 1061366,
+    "ext": "html"
+  },
+  "air": {
+    "url": "https://www2.deq.idaho.gov/admin/LEIA/api/document/download/21478",
+    "sha256": "9736ab9c56ef783529f4d86a062f866dedfc715c0cd9457a8af0749067813084",
+    "bytes": 96435,
+    "ext": "pdf"
+  },
+  "kuna25": {
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3936",
+    "sha256": "40e2d01fce353e54af6360405e2fef0998052d8c662b149662fa30f74565efb0",
+    "bytes": 12199761,
+    "ext": "pdf"
+  },
+  "kuna23": {
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3372",
+    "sha256": "f57811724e49db6ab4ede93c44ad202c2aa4f0b29930863c37804194d608c469",
+    "bytes": 3428132,
+    "ext": "pdf"
+  },
+  "kunamin": {
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3950",
+    "sha256": "553c75d96816d845753cfed8b8c5c6c435296c3a886372e3c80018644af81baa",
+    "bytes": 2280705,
+    "ext": "pdf"
+  },
+  "kunadec": {
+    "url": "https://kunacity.id.gov/ArchiveCenter/ViewFile/Item/3943",
+    "sha256": "2e06984e9aff8bf20cde3915d502964da7769c327f7b2ff2b1676879f110d1cd",
+    "bytes": 282456,
+    "ext": "pdf"
+  }
+}

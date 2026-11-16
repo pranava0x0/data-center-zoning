@@ -1,0 +1,8 @@
+{
+  "unique_receipt_hashes": 1093,
+  "matched_files": 1093,
+  "history_records_with_matched_bytes": 14480,
+  "history_records": 14480,
+  "unmatched_hashes": 0,
+  "limits": "Whole stored or decompressed byte match only. An excerpt file is still an excerpt; agency URLs and original capture methods are in the row receipts. A receipt may be for a derived excerpt or a response inside another container. Do not treat unmatched values as on-disk verification."
+}

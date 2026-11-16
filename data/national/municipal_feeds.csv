@@ -1,0 +1,9 @@
+state,government,county,domain,feed,number,description,date,status,type,series
+IL,Chicago,Cook County,data.cityofchicago.org,ydr8-5enu,permit_,work_description,issue_date,permit_status,permit_type,Chicago building permits
+WA,Seattle,King County,cos-data.seattle.gov,76t5-zqzr,permitnum,description,issueddate,statuscurrent,permittypedesc,Seattle building permits
+MD,Montgomery County,Montgomery County,data.montgomerycountymd.gov,qxie-8qnp,permitno,description,issueddate,status,worktype,Montgomery County electrical permits
+MA,Cambridge,Middlesex County,data.cambridgema.gov,qu2z-8suj,id,detailed_description_of_work,issue_date,,permit_type,Cambridge building alterations
+MA,Cambridge,Middlesex County,data.cambridgema.gov,9qm7-wbdc,id,description_of_work,issue_date,,permit_type,Cambridge new building permits
+MA,Framingham,Middlesex County,data.framinghamma.gov,2vzw-yean,permit,description,applied,,type,Framingham building applications
+LA,New Orleans,Orleans Parish,data.nola.gov,nbcf-m6c2,numstring,descr,issuedate,,permittype,New Orleans building permits
+LA,East Baton Rouge Parish,East Baton Rouge Parish,data.brla.gov,7fq7-8j7r,permitnumber,projectdescription,issueddate,,designation,East Baton Rouge building permits

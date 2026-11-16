@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ms-southaven-planning-20260901-1",
+    "state": "MS",
+    "dataset": "Southaven Board of Aldermen planning decisions",
+    "jurisdiction": "Southaven",
+    "record_no": "2026-09-01 planning item 1",
+    "project": "MZX Tech data storage warehouse, south of Stanton Road west of Tulane Road",
+    "kind": "Final subdivision plat",
+    "status": "motion was carried",
+    "date": "2026-09-01",
+    "date_role": "board vote date",
+    "url": "https://southaven.org/ArchiveCenter/ViewFile/Item/1813",
+    "source_url": "https://southaven.org/ArchiveCenter/ViewFile/Item/1813",
+    "source_sha256": "6a13c930648c88322ad04c2fda980a4a21c096150ee7de52310560d89cee2c2f",
+    "locator": "PDF pp. 29\u201330 (printed pp. 27\u201328); planning item 1",
+    "details": {
+      "county": "DeSoto County",
+      "issuer": "Southaven Mayor and Board of Aldermen",
+      "decision_scope": "7\u20130 one-lot subdivision consolidating two parcels totaling 55.89 acres.",
+      "visual_validation": "Scan and roll call inspected against operative motion, not just agenda."
+    }
+  },
+  {
+    "id": "ms-southaven-planning-20260901-2",
+    "state": "MS",
+    "dataset": "Southaven Board of Aldermen planning decisions",
+    "jurisdiction": "Southaven",
+    "record_no": "2026-09-01 planning item 2",
+    "project": "MZX Tech data storage warehouse, south of Stanton Road west of Tulane Road",
+    "kind": "Site plan and design review",
+    "status": "motion was carried",
+    "date": "2026-09-01",
+    "date_role": "board vote date",
+    "url": "https://southaven.org/ArchiveCenter/ViewFile/Item/1813",
+    "source_url": "https://southaven.org/ArchiveCenter/ViewFile/Item/1813",
+    "source_sha256": "6a13c930648c88322ad04c2fda980a4a21c096150ee7de52310560d89cee2c2f",
+    "locator": "PDF pp. 30\u201331 (printed pp. 28\u201329); planning item 2",
+    "details": {
+      "county": "DeSoto County",
+      "issuer": "Southaven Mayor and Board of Aldermen",
+      "decision_scope": "6\u20131 design approval with staff comments and recommendations, including landscape screening and gate specifications for Fire Marshal review; not an issued construction permit.",
+      "visual_validation": "Scan and roll call inspected against operative motion, not just agenda."
+    }
+  }
+]

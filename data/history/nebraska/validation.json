@@ -1,0 +1,40 @@
+{
+  "state": "NE",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 132,
+  "county": {
+    "Sarpy County": 127,
+    "Lancaster County": 5
+  },
+  "agency_reported_locality": {
+    "Papillion": 119,
+    "Lincoln": 5,
+    "Bellevue": 4,
+    "Springfield": 4
+  },
+  "datasets": {
+    "Nebraska DWEE facility air files": 124,
+    "Lincoln nonresidential building permits": 4,
+    "Papillion City Administrator permit reports": 3,
+    "Lincoln-Lancaster County air permits": 1
+  },
+  "cross_register_date_matches": 0,
+  "cutoff": "2026-11-15",
+  "ecm_all_air_documents_per_facility": {
+    "122487": 17,
+    "106518": 306,
+    "108432": 399,
+    "103923": 38
+  },
+  "ecm_duplicate_observations": 2,
+  "ecm_issued_unverified_numbers": [],
+  "lincoln_candidates_each_layer": {
+    "0": 1,
+    "1": 1,
+    "2": 2,
+    "3": 0,
+    "4": 2,
+    "5": 4
+  },
+  "lincoln_distinct_numbers": 4
+}

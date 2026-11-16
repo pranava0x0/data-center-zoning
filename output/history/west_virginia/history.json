@@ -1,0 +1,275 @@
+[
+  {
+    "id": "wv-dep-0",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Major source construction application",
+    "status": "Application received",
+    "date": "2026-04-20",
+    "date_role": "Application received",
+    "url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+    "source_url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+    "locator": "Preliminary determination p. 3, background information; facility 053-00136",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/eval.pdf",
+      "archive_sha256": "7e5d3d6b9a58ce01cf765cef02dff2f4b2c36b074a678eebd5837ca7d274cc77"
+    }
+  },
+  {
+    "id": "wv-dep-1",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Major source construction application",
+    "status": "Revised information received",
+    "date": "2026-05-26",
+    "date_role": "Revised information received",
+    "url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+    "source_url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+    "locator": "Preliminary determination p. 3, background information; facility 053-00136",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/eval.pdf",
+      "archive_sha256": "7e5d3d6b9a58ce01cf765cef02dff2f4b2c36b074a678eebd5837ca7d274cc77"
+    }
+  },
+  {
+    "id": "wv-dep-2",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Major source construction application",
+    "status": "Applicant advertisement date",
+    "date": "2026-04-24",
+    "date_role": "Applicant advertisement date",
+    "url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+    "source_url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+    "locator": "Preliminary determination p. 3, background information; facility 053-00136",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/eval.pdf",
+      "archive_sha256": "7e5d3d6b9a58ce01cf765cef02dff2f4b2c36b074a678eebd5837ca7d274cc77"
+    }
+  },
+  {
+    "id": "wv-dep-3",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "SWP-26-0002",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "State waters application",
+    "status": "Public comment notice",
+    "date": "2026-09-29",
+    "date_role": "Agency publication date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "Agency notice of pending decisions on air and two separate State Waters applications",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-4",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "SWP-26-0002",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "State waters public meeting",
+    "status": "Scheduled",
+    "date": "2026-10-26",
+    "date_role": "Noticed meeting date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "State Waters workshop and public meeting section; attendance not inferred",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-5",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "SWP-26-0003",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "State waters application",
+    "status": "Public comment notice",
+    "date": "2026-09-29",
+    "date_role": "Agency publication date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "Agency notice of pending decisions on air and two separate State Waters applications",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-6",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "SWP-26-0003",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "State waters public meeting",
+    "status": "Scheduled",
+    "date": "2026-10-26",
+    "date_role": "Noticed meeting date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "State Waters workshop and public meeting section; attendance not inferred",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-7",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Power plant air application",
+    "status": "Public comment notice",
+    "date": "2026-09-29",
+    "date_role": "Agency publication date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "Agency notice of pending decisions on air and two separate State Waters applications",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-8",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Air permit public meeting",
+    "status": "Scheduled",
+    "date": "2026-10-20",
+    "date_role": "Noticed participation date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "Air Quality Permit section; application not issued",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-9",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Air permit virtual hearing",
+    "status": "Scheduled",
+    "date": "2026-10-29",
+    "date_role": "Noticed participation date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "Air Quality Permit section; application not issued",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-10",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "R14-0042",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Air permit comment period",
+    "status": "Deadline",
+    "date": "2026-11-13",
+    "date_role": "Noticed participation date",
+    "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+    "locator": "Air Quality Permit section; application not issued",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/monarch.html.gz",
+      "archive_sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    }
+  },
+  {
+    "id": "wv-dep-11",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Mason County",
+    "record_no": "Monarch stormwater order (number not stated)",
+    "project": "Monarch Cloud Campus — Point Pleasant",
+    "kind": "Construction stormwater enforcement",
+    "status": "Unilateral enforcement order issued",
+    "date": "2026-07-14",
+    "date_role": "Publication date announcing order; signature date not disclosed",
+    "url": "https://dep.wv.gov/news/Pages/WVDEP-Issues-Enforcement-Order-Following-Stormwater-Violations-at-Monarch-Cloud-Campus-Construction-Site.aspx",
+    "source_url": "https://dep.wv.gov/news/Pages/WVDEP-Issues-Enforcement-Order-Following-Stormwater-Violations-at-Monarch-Cloud-Campus-Construction-Site.aspx",
+    "locator": "Press release: stop land disturbance in separate drainage area and repair controls; not a revocation",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Mason County",
+      "archive": "cache/history/wv/enforcement.html.gz",
+      "archive_sha256": "1724d6c3e8028710c5ed5a8069f336e00f2d46f7716849e0b678fa6712baea65"
+    }
+  },
+  {
+    "id": "wv-dep-12",
+    "state": "WV",
+    "dataset": "West Virginia DEP project files",
+    "jurisdiction": "Putnam County",
+    "record_no": "R13-3782",
+    "project": "Cumulus Group LLC — Buffalo data center",
+    "kind": "Air construction application",
+    "status": "Application received",
+    "date": "2026-07-22",
+    "date_role": "Agency register received date",
+    "url": "https://apps.dep.wv.gov/Documents/DAQ/NSRPermits/079-00208/Draft/079-00208APP.pdf",
+    "source_url": "https://dep.wv.gov/daq/permitting/Pages/NSR-Permit-Applications.aspx",
+    "locator": "State NSR applications, facility 079-00208; application PDF p. 4 identifies sector",
+    "details": {
+      "issuer": "West Virginia Department of Environmental Protection",
+      "county": "Putnam County",
+      "archive": "cache/history/wv/cumulus.pdf",
+      "archive_sha256": "01de37265d358dc7411d3fa3e132cbac1a00420dd8d870da6e9b09cfba6e297a"
+    }
+  }
+]

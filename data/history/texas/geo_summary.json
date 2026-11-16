@@ -1,0 +1,15 @@
+{
+  "us_points": 1850,
+  "texas_points": 220,
+  "outside_2024_mapped_place": 74,
+  "tx_source_geometry": {
+    "point": 3,
+    "building": 205,
+    "campus": 12
+  },
+  "counts_by_level": {
+    "county": 220,
+    "incorporated_place": 142,
+    "census_designated_place": 4
+  }
+}

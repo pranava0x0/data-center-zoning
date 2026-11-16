@@ -1,0 +1,1002 @@
+{
+  "captured_utc": "2026-11-16T03:52:26.487981+00:00",
+  "gis_manifest_sha256": "1755bad1e0f76ee82a6008ab25c3148d5dc5f7b307fc4ab0471c532a221d624f",
+  "documents": {
+    "ALTC2210710": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=009B2&agencyCode=COLUMBUS",
+      "sha256": "070beca7742f7c02662d3ef3c762d8a959d3b35f36ebc5c60063abd89f917b14",
+      "bytes": 284068,
+      "ext": "html.gz"
+    },
+    "EMEPC2210648": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=0098J&agencyCode=COLUMBUS",
+      "sha256": "639d37ee60849afa4b93553d573ba2fdd9569fed2b93f4b02af6cb495f75a450",
+      "bytes": 265876,
+      "ext": "html.gz"
+    },
+    "EMLSC2202160": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00069&agencyCode=COLUMBUS",
+      "sha256": "68ac8d8cea5809f7ef2398a48597250433c5e070c4289dd984d7bbb0c7ff5ea4",
+      "bytes": 273136,
+      "ext": "html.gz"
+    },
+    "FNDTC2208513": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=006UZ&agencyCode=COLUMBUS",
+      "sha256": "b403d8b24448e02169f9e6ef325a50af542451c406e48652e9c99cbe5face327",
+      "bytes": 267188,
+      "ext": "html.gz"
+    },
+    "FNDTC2216275": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00F8G&agencyCode=COLUMBUS",
+      "sha256": "3e7a61296aea45c66817b664a5a4907ef64e7061c18df4abfb48930e541de1f6",
+      "bytes": 271830,
+      "ext": "html.gz"
+    },
+    "NEWC2203324": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=001E1&agencyCode=COLUMBUS",
+      "sha256": "9c7c2a73e10ba809dc46693982816ee624c06f75f0f1674a48d15ab6576cdc94",
+      "bytes": 271407,
+      "ext": "html.gz"
+    },
+    "NEWC2211086": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=009OT&agencyCode=COLUMBUS",
+      "sha256": "b3d4a1444ebea16a828b438a20d73e6a87774b282e5f890bf9d33dc8df25c8ab",
+      "bytes": 275043,
+      "ext": "html.gz"
+    },
+    "PMEPC2214024": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00CSD&agencyCode=COLUMBUS",
+      "sha256": "cd07e11c84639f9f5b3ec56a5763be4a5cc6abaa54ada74e8daf60d113a36648",
+      "bytes": 263448,
+      "ext": "html.gz"
+    },
+    "FSUPC2221796": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00L3S&agencyCode=COLUMBUS",
+      "sha256": "6ec40815ee6fbca8e7b8bad30e16364356a9e9b53f55e0a2d8d0b90e5db53a49",
+      "bytes": 270044,
+      "ext": "html.gz"
+    },
+    "FALRC2223267": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00MOM&agencyCode=COLUMBUS",
+      "sha256": "a4bc332e647d77bf9521a97c7bd9bdbf51ec05b0b90b5a416a54b76428cdc535",
+      "bytes": 290606,
+      "ext": "html.gz"
+    },
+    "PMEPC2223461": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00MVL&agencyCode=COLUMBUS",
+      "sha256": "d410327876116060e6a565f81715646fea146ed222dd47bd20ad98369569ec9f",
+      "bytes": 271820,
+      "ext": "html.gz"
+    },
+    "EMEPC2223595": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00N0P&agencyCode=COLUMBUS",
+      "sha256": "8e119047a62a8b066386609d25ef2e76568e94259eea5b4edde3715dd62a3e51",
+      "bytes": 261722,
+      "ext": "html.gz"
+    },
+    "MMEPC2230216": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00TZA&agencyCode=COLUMBUS",
+      "sha256": "04e1f8084cda71fe7045af7edc295466e76b1103950a7074bbcb65aaeafd3a5a",
+      "bytes": 274100,
+      "ext": "html.gz"
+    },
+    "EMEPC2229738": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00TGG&agencyCode=COLUMBUS",
+      "sha256": "9f32bb6339fc3492efc4fca844b3df81b5f48f2b031e4c3ee5f3469648140a0d",
+      "bytes": 284862,
+      "ext": "html.gz"
+    },
+    "NEWC2230899": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00UPM&agencyCode=COLUMBUS",
+      "sha256": "034be9f890d36ca39931f7fe9c0c4ab5d3370a90b4f3fd50a3c3d0bc72be4dab",
+      "bytes": 280909,
+      "ext": "html.gz"
+    },
+    "EMEPC2233096": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00X2M&agencyCode=COLUMBUS",
+      "sha256": "1edf560f5d6f74a6c504072f3f0d8e6dfeb68f47f3be75c7f505035487e00e5a",
+      "bytes": 265878,
+      "ext": "html.gz"
+    },
+    "EMEPC2233097": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00X2Q&agencyCode=COLUMBUS",
+      "sha256": "c26c1fee21eb1848d5218b0da582311ad06c54a5166ce5502796f4c12a6b789f",
+      "bytes": 265596,
+      "ext": "html.gz"
+    },
+    "PMEPC2234529": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00YMN&agencyCode=COLUMBUS",
+      "sha256": "c99afcadd9a0a84b18afe6e6ffdf72f41b8a3cc16a74742467bfabc341928060",
+      "bytes": 263437,
+      "ext": "html.gz"
+    },
+    "PMEPC2235230": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00ZFP&agencyCode=COLUMBUS",
+      "sha256": "3c977f2d3bb10074fc181952ddeec3fcc10b5021de23ef7d6f6e8cac38a4372f",
+      "bytes": 260489,
+      "ext": "html.gz"
+    },
+    "ALTC2235615": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00ZVI&agencyCode=COLUMBUS",
+      "sha256": "fc845b6e600bef0f0dc6eaf1f57d69f43222f58737b09521f06b7864b23ec9d1",
+      "bytes": 275976,
+      "ext": "html.gz"
+    },
+    "FSUPC2237311": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=011SI&agencyCode=COLUMBUS",
+      "sha256": "24790f87a5bb49a965c5c095ee592a30dd3c32823de27794a5fbccc1b318bfd2",
+      "bytes": 270464,
+      "ext": "html.gz"
+    },
+    "NEWC2238618": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=01392&agencyCode=COLUMBUS",
+      "sha256": "7abaa80c699ce2f59886a121569fce8691c58b25b9e8e2fe81b35adf03085a6e",
+      "bytes": 272859,
+      "ext": "html.gz"
+    },
+    "NEWC2241075": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=015YA&agencyCode=COLUMBUS",
+      "sha256": "cf275e366f1d999e71f66cafe735ca56f1fde454b6446f8a04a8a0e1f435077f",
+      "bytes": 272719,
+      "ext": "html.gz"
+    },
+    "FALRC2243444": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=018LK&agencyCode=COLUMBUS",
+      "sha256": "6c07097512c5731ddbcc169ed28774328bf9785a3af5729494c6402f46e82d10",
+      "bytes": 286118,
+      "ext": "html.gz"
+    },
+    "NEWC2245416": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=01ARK&agencyCode=COLUMBUS",
+      "sha256": "151f3a61adf695699f517933679fdc8158844f8b515f05db0a37c0531ed394e1",
+      "bytes": 283568,
+      "ext": "html.gz"
+    },
+    "FNDTC2302580": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=000N8&agencyCode=COLUMBUS",
+      "sha256": "02ea617cd5bbb7d79f7a47750376c55f5dd55563bfe40f29597a8860ab6fd086",
+      "bytes": 272409,
+      "ext": "html.gz"
+    },
+    "PMEPC2302501": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=000KH&agencyCode=COLUMBUS",
+      "sha256": "a9d25249153a49f400a567b2fd8277c6c78b677b21cdbd8b590bcbb5665cafcb",
+      "bytes": 265365,
+      "ext": "html.gz"
+    },
+    "MMEPC2306216": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=004P1&agencyCode=COLUMBUS",
+      "sha256": "e0a335afe9e0095af2f43be2f0046c517756f846e9583aca16bc689ea9358178",
+      "bytes": 268138,
+      "ext": "html.gz"
+    },
+    "PMEPC2307579": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=0065C&agencyCode=COLUMBUS",
+      "sha256": "1e59716b8a409927a22771b6d57ae470548d202d5a50accd6baeb6ff1fc9a797",
+      "bytes": 246735,
+      "ext": "html.gz"
+    },
+    "EMEPC2308931": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=007L9&agencyCode=COLUMBUS",
+      "sha256": "ccfd1b00ac1bab9ac37dd26b14f7b300ec428f4aff18227511a55191cf063806",
+      "bytes": 254112,
+      "ext": "html.gz"
+    },
+    "ALTC2309686": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=008EN&agencyCode=COLUMBUS",
+      "sha256": "d7170f27d39ee8b30b3021ee3551f46e92dc8d931dd4fcae03cf1fd5342ffb99",
+      "bytes": 286267,
+      "ext": "html.gz"
+    },
+    "EMEPC2315619": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00EWA&agencyCode=COLUMBUS",
+      "sha256": "1e2143019e7d5ebe3123a2dcb9e8722fe1f51b85f60afece6967769f49cd1bf8",
+      "bytes": 266771,
+      "ext": "html.gz"
+    },
+    "FNDTC2319364": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00IYW&agencyCode=COLUMBUS",
+      "sha256": "f9a988f61d9321097aaa107cb7664f746cbacba10ddb6f4e1692242f1122113d",
+      "bytes": 265460,
+      "ext": "html.gz"
+    },
+    "PMEPC2321640": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00LH9&agencyCode=COLUMBUS",
+      "sha256": "4a31c2fc5980745f3923679e463cbe4df972df043ee7e5a992f08ddd9e4263f8",
+      "bytes": 263275,
+      "ext": "html.gz"
+    },
+    "MMEPC2323120": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00N1W&agencyCode=COLUMBUS",
+      "sha256": "f16b88e09c4336e6dc617490079703dec8053f335f1d808c2933c7e54238de8c",
+      "bytes": 268280,
+      "ext": "html.gz"
+    },
+    "MMEPC2334029": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00YMW&agencyCode=COLUMBUS",
+      "sha256": "703ee2070173672319ed9dd6b83d2835f8f4fb6f1b8d502d77ce9fff92687b1f",
+      "bytes": 250325,
+      "ext": "html.gz"
+    },
+    "PMEPC2341414": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=016KX&agencyCode=COLUMBUS",
+      "sha256": "aca63ef78ecbcf9f9f3ac98860d0a7d4331c8d630e1b14558e891617c5c959bc",
+      "bytes": 265053,
+      "ext": "html.gz"
+    },
+    "NEWC2342978": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=018AE&agencyCode=COLUMBUS",
+      "sha256": "748c3cbfe667572a764429ea47140ce03cf58e79e2a9263638af698062b0af43",
+      "bytes": 269417,
+      "ext": "html.gz"
+    },
+    "NEWC2343106": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=018EZ&agencyCode=COLUMBUS",
+      "sha256": "b0124e9d22cf40b00cae69ac3db81265eef2b11511b5ee1ffb0692b0d3ac1a61",
+      "bytes": 268259,
+      "ext": "html.gz"
+    },
+    "EMEPC2343693": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=0190O&agencyCode=COLUMBUS",
+      "sha256": "2fbec8cdf59c635647b3607e9256d23cee209714cda92323362d5795ce7f3acf",
+      "bytes": 268710,
+      "ext": "html.gz"
+    },
+    "FALRC2344960": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01ACO&agencyCode=COLUMBUS",
+      "sha256": "48f1d4a5ec27fbbd0f71dcd2d57d0cc0ad511ce9d3bce8c92356be5c6fdf6510",
+      "bytes": 268570,
+      "ext": "html.gz"
+    },
+    "FSUPC2347847": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01DK0&agencyCode=COLUMBUS",
+      "sha256": "6b5e5ab8eae3d8c3b32f8001b029aec82d9da3b7815b4bb46e19cd8a84fde3e8",
+      "bytes": 278637,
+      "ext": "html.gz"
+    },
+    "FSUPC2348294": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01E1G&agencyCode=COLUMBUS",
+      "sha256": "5e134183ae08dbdd729ddaad0c04379f81a7bb4e3a09e557b958c6af8984a917",
+      "bytes": 277018,
+      "ext": "html.gz"
+    },
+    "PMEPC2351521": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01HMT&agencyCode=COLUMBUS",
+      "sha256": "801cf64f5b69fecb0da4a67131fbe2b0f64f8ff4f0a18f4e615bc9a8dd22cd1b",
+      "bytes": 263256,
+      "ext": "html.gz"
+    },
+    "ACS2350870": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01GVW&agencyCode=COLUMBUS",
+      "sha256": "568ebca516d59ca8fbb002c7db52bdefe41a4e3f29290b3c5e9fb75a0c86a183",
+      "bytes": 264290,
+      "ext": "html.gz"
+    },
+    "EMEPC2351049": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01H36&agencyCode=COLUMBUS",
+      "sha256": "ffe05b357f0918f7cf1b073e537c8b7a4cf376969a0a3e9a098c41eb4dddeb0d",
+      "bytes": 268211,
+      "ext": "html.gz"
+    },
+    "FSUPC2351094": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01H4M&agencyCode=COLUMBUS",
+      "sha256": "0b6a429a091e37407646e645e51b10c271a04e5cd67b8ba32cfa0971cdaf04f0",
+      "bytes": 257380,
+      "ext": "html.gz"
+    },
+    "NEWC2352141": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01IDE&agencyCode=COLUMBUS",
+      "sha256": "6087bed428d43be51a13c370252a2b52e42825268dcc1bf6108049519dcc9850",
+      "bytes": 278028,
+      "ext": "html.gz"
+    },
+    "FALRC2402775": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=000TH&agencyCode=COLUMBUS",
+      "sha256": "b9518982819aeb77483f2d39e10e8034208f2961c212affaa0a0e3ad6c724d01",
+      "bytes": 279610,
+      "ext": "html.gz"
+    },
+    "EMEPC2404001": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00284&agencyCode=COLUMBUS",
+      "sha256": "07b8e4bbb820e0927a759ea9d679e9e3f6d147cc2aad1329286446f5ff057a34",
+      "bytes": 262170,
+      "ext": "html.gz"
+    },
+    "PMEPC2405867": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=0048L&agencyCode=COLUMBUS",
+      "sha256": "6c6f2369d64931ea55de7e5a7165fd1e7175cf8cddf68eff118a9568e3751168",
+      "bytes": 259782,
+      "ext": "html.gz"
+    },
+    "FALRC2406800": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00593&agencyCode=COLUMBUS",
+      "sha256": "7bf34b0ac5abf68c2e18b96f5d264e09751235de530b22a0863787fcad0c1467",
+      "bytes": 266962,
+      "ext": "html.gz"
+    },
+    "EMEPC2407931": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=006HG&agencyCode=COLUMBUS",
+      "sha256": "80c294bd0f3ec9b721ff9a0f4e1e6c1ce9ec438685d634e354f6ce14c10e1e4d",
+      "bytes": 250093,
+      "ext": "html.gz"
+    },
+    "ADDC2409459": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=0081M&agencyCode=COLUMBUS",
+      "sha256": "95059deb75198d689c03f7b540daf247be42e66736a216b434236ccecf8dfe0e",
+      "bytes": 268070,
+      "ext": "html.gz"
+    },
+    "MMEPC2408769": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=007CZ&agencyCode=COLUMBUS",
+      "sha256": "5260258ebfe3eb67ccb7d4d6cbe299533bcfd4040e577cfeae8bd75a53774655",
+      "bytes": 270314,
+      "ext": "html.gz"
+    },
+    "ALTC2409177": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=007RI&agencyCode=COLUMBUS",
+      "sha256": "1f5435799580260e93d9338cb5f2ce5508553e0233ccef80671911b55ca5166a",
+      "bytes": 263592,
+      "ext": "html.gz"
+    },
+    "ALTC2409192": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=007S1&agencyCode=COLUMBUS",
+      "sha256": "96e08844d78bdbf18b8f59de66dfc4d8c1df4f0c0ee5bb293cdde155e518fda9",
+      "bytes": 260354,
+      "ext": "html.gz"
+    },
+    "MMEPC2409498": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=0083D&agencyCode=COLUMBUS",
+      "sha256": "ea5495be861cada6f7a158fbca63c8f531c7b2b689979f72e550285780080386",
+      "bytes": 263295,
+      "ext": "html.gz"
+    },
+    "ALTC2410220": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=008UW&agencyCode=COLUMBUS",
+      "sha256": "2d473bdc97248253feeea5b605bc45b683a9637430da70578741063fd6b2d023",
+      "bytes": 258925,
+      "ext": "html.gz"
+    },
+    "EMEPC2411332": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=009Z1&agencyCode=COLUMBUS",
+      "sha256": "da1916a43c6e043b4b689348c5922b627f84e1528d0c89e171cfc6375cc06134",
+      "bytes": 266614,
+      "ext": "html.gz"
+    },
+    "FALRC2415046": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00DZC&agencyCode=COLUMBUS",
+      "sha256": "58a98e01e1f3bf64651569e6e41a6eae456a62017b0c7cd9cca94a426b7a9c17",
+      "bytes": 274648,
+      "ext": "html.gz"
+    },
+    "PMEPC2420126": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00JD4&agencyCode=COLUMBUS",
+      "sha256": "01429c066385afd7db615abb98561c49ddfab4a2d42ba1b98af397a6a93a5678",
+      "bytes": 259775,
+      "ext": "html.gz"
+    },
+    "ALTC2420394": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00JMM&agencyCode=COLUMBUS",
+      "sha256": "5dace65f96ba52443482587f75cef8611d86ca1276038df70efb219afd41a03d",
+      "bytes": 254447,
+      "ext": "html.gz"
+    },
+    "PMEPC2423697": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00MYB&agencyCode=COLUMBUS",
+      "sha256": "218686d02532e4c2f8127d3483a6a817e208b51fa4cebad949333d25cc7b1754",
+      "bytes": 263261,
+      "ext": "html.gz"
+    },
+    "TSTRC2423718": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00MZ4&agencyCode=COLUMBUS",
+      "sha256": "be80bbc01c7f1cac4dc00ba18ecc8cb402e6b25f9b31bd6c5ce6d209ca05cb27",
+      "bytes": 263570,
+      "ext": "html.gz"
+    },
+    "ALTC2423633": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00MVZ&agencyCode=COLUMBUS",
+      "sha256": "53ffaa6b513b686b680d904bd9847688d36eeb3b24f914cae26c958eb05328ed",
+      "bytes": 274374,
+      "ext": "html.gz"
+    },
+    "EMEPC2424191": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NGY&agencyCode=COLUMBUS",
+      "sha256": "7159906bb7a32e5a83f9d1fd0b5c5ae93543b88a78502067e9f9454d44f7e17f",
+      "bytes": 248936,
+      "ext": "html.gz"
+    },
+    "EMEPC2424187": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NGT&agencyCode=COLUMBUS",
+      "sha256": "19a5c999478c73059831a750db9a6226381154ddf02a70205d361b054655d0e0",
+      "bytes": 248924,
+      "ext": "html.gz"
+    },
+    "EMEPC2424190": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NGX&agencyCode=COLUMBUS",
+      "sha256": "3a214597b4318d6d514f7920814cf4f8060e33b0f4b8785e3d6e4edd57ec949d",
+      "bytes": 248935,
+      "ext": "html.gz"
+    },
+    "PMEPC2424521": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NT3&agencyCode=COLUMBUS",
+      "sha256": "a0ba360452015cf459ce4fde6184fa806f23d9da13108b08d1250eefa601ff34",
+      "bytes": 246598,
+      "ext": "html.gz"
+    },
+    "PMEPC2424525": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NT7&agencyCode=COLUMBUS",
+      "sha256": "02527fa5f0b9e9c224f60beb668a1923d01dccc0f19aa55de72ae917fcc7e7c9",
+      "bytes": 246577,
+      "ext": "html.gz"
+    },
+    "EMEPC2425554": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00OVP&agencyCode=COLUMBUS",
+      "sha256": "817ce8b4a6d574a68f44dbc6e4afc8aba7c1e3e0b5f4a6aaad71b8fc6aafe438",
+      "bytes": 270071,
+      "ext": "html.gz"
+    },
+    "EMEPC2426393": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00PPC&agencyCode=COLUMBUS",
+      "sha256": "4bd6157ed0d7bb89e97ea77c974d62cd1a9c0aae6ce61187236ed2f12caa982d",
+      "bytes": 248956,
+      "ext": "html.gz"
+    },
+    "MMEPC2427558": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00QWA&agencyCode=COLUMBUS",
+      "sha256": "ac928dd18b7ad74143c6dcfb5c7c3d4c1e1693460d0c9ee3e609a478cea672b8",
+      "bytes": 250368,
+      "ext": "html.gz"
+    },
+    "MMEPC2427547": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00QVV&agencyCode=COLUMBUS",
+      "sha256": "75e8e75c0eeb9721f856e1c5a189fd167ead4920c6f2466d2c35d8c43f9c6154",
+      "bytes": 250341,
+      "ext": "html.gz"
+    },
+    "MMEPC2427551": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00QW1&agencyCode=COLUMBUS",
+      "sha256": "2fe68a4d5efab926dc1e0c22e470ddadd8ead943a8e86d0ca0711498855b3393",
+      "bytes": 250365,
+      "ext": "html.gz"
+    },
+    "PMEPC2429540": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00SW2&agencyCode=COLUMBUS",
+      "sha256": "267a465294764cbc9e642149915869c071467a4aa4f0f0bf42dc57bacc604e40",
+      "bytes": 259514,
+      "ext": "html.gz"
+    },
+    "FSUPC2429795": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00T5J&agencyCode=COLUMBUS",
+      "sha256": "b94be6b25f79dee2a01e55bdc99a4d02c181237caa09a361a45b47120c45697a",
+      "bytes": 252513,
+      "ext": "html.gz"
+    },
+    "FSUPC2429794": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00T5I&agencyCode=COLUMBUS",
+      "sha256": "4581c173c1ad153a1f285b3587d6286d2af28fbe8504b02c2345470bad3de924",
+      "bytes": 252502,
+      "ext": "html.gz"
+    },
+    "FSUPC2429796": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00T5L&agencyCode=COLUMBUS",
+      "sha256": "4496a76cf5a18f7fca87e57679ec46e06c061453878bcbe536df5330e87b45ca",
+      "bytes": 252503,
+      "ext": "html.gz"
+    },
+    "NEWC2430776": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00TXN&agencyCode=COLUMBUS",
+      "sha256": "231cacd40bdfe50e61695e5b11fbe003c9141572ce1110d906bf515fa66dd335",
+      "bytes": 268185,
+      "ext": "html.gz"
+    },
+    "MMEPC2431757": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00URV&agencyCode=COLUMBUS",
+      "sha256": "02b7a1ba4db23509163eda20af5875a2658316cc1df95cb49ea2bc6401e14f51",
+      "bytes": 277605,
+      "ext": "html.gz"
+    },
+    "FSUPC2431364": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00UFH&agencyCode=COLUMBUS",
+      "sha256": "4cc23fec0c1ecd16aa7d896702f463f4affdabd75d85d38dbc96d512dd7f1649",
+      "bytes": 252648,
+      "ext": "html.gz"
+    },
+    "MMEPC2432713": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00VQM&agencyCode=COLUMBUS",
+      "sha256": "d4129ac7045c10ca7aafc7f118b3b460e35572d9b8558bafcba72418ca787a84",
+      "bytes": 268983,
+      "ext": "html.gz"
+    },
+    "MMEPC2434446": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00XKK&agencyCode=COLUMBUS",
+      "sha256": "cc89b170713a76d776e5efb87cbcc2963f8022d97dd32398fc50c3a1dc285495",
+      "bytes": 276908,
+      "ext": "html.gz"
+    },
+    "FSUPC2433376": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00WH2&agencyCode=COLUMBUS",
+      "sha256": "fff682e38e78b8f2a6590fa4a34817ec1a05b7ccbafad57d6daecb9ae44acb63",
+      "bytes": 264867,
+      "ext": "html.gz"
+    },
+    "ACS2434094": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00X73&agencyCode=COLUMBUS",
+      "sha256": "10fb33a88c055df4e25406a6927d20f2bf46be7fee922ca4e3431e5965dba430",
+      "bytes": 264617,
+      "ext": "html.gz"
+    },
+    "EMEPC2434290": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00XEQ&agencyCode=COLUMBUS",
+      "sha256": "ee7977be604136adffa8f19afb46a64318e8771aab6c6c55098011c6e85f5e90",
+      "bytes": 265827,
+      "ext": "html.gz"
+    },
+    "FSUPC2434666": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00XTG&agencyCode=COLUMBUS",
+      "sha256": "ec44902cd91b0b8d015989d12777193c3cc220e7e9bd91a227fe03cc8ffc15f4",
+      "bytes": 266151,
+      "ext": "html.gz"
+    },
+    "PMEPC2435359": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00YMO&agencyCode=COLUMBUS",
+      "sha256": "ac53e30744211516c00fc8e8c4b90c74f6a65e417747d988308851e8bc847ddf",
+      "bytes": 259779,
+      "ext": "html.gz"
+    },
+    "EMEPC2435380": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00YO0&agencyCode=COLUMBUS",
+      "sha256": "1a4d967b45d971f7ab223f89baffdc9ec0e65d4a061ce8ed18a28a1e5d3393ea",
+      "bytes": 262951,
+      "ext": "html.gz"
+    },
+    "PMEPC2435453": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00YR7&agencyCode=COLUMBUS",
+      "sha256": "f0bd4c6885c99a4326a6a26692c810a750c832f349b908af8436c6fa08ca5266",
+      "bytes": 259585,
+      "ext": "html.gz"
+    },
+    "EMEPC2440989": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=014WO&agencyCode=COLUMBUS",
+      "sha256": "f573653ea2b7c09f72f8c97377beedd84add6a8e7c3e208b7be18d280d08d188",
+      "bytes": 262824,
+      "ext": "html.gz"
+    },
+    "ADDC2449074": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=01E2C&agencyCode=COLUMBUS",
+      "sha256": "bde4e0fa55bd80bc03be6736426aaf9a2b0af8758a6b8c3b696f8b485a522ab5",
+      "bytes": 268300,
+      "ext": "html.gz"
+    },
+    "EMEPC2502158": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=0006A&agencyCode=COLUMBUS",
+      "sha256": "dee9c7287e6a2c7e0861ca7c405db91cf9cf5243e262554e36d7006ca2ecf14d",
+      "bytes": 265459,
+      "ext": "html.gz"
+    },
+    "PMEPC2502831": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=000XG&agencyCode=COLUMBUS",
+      "sha256": "d9d72884cb6497a34de80c5831d8c98b5550269812a3a70df15f11a44e3c63b0",
+      "bytes": 263594,
+      "ext": "html.gz"
+    },
+    "PMEPC2635674": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=013U2&agencyCode=COLUMBUS",
+      "sha256": "beb62808d864ac79c1a242a921c296de88041abcde31a8c6c5b489f744df9e9a",
+      "bytes": 263611,
+      "ext": "html.gz"
+    },
+    "EMEPC2636262": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=014IT&agencyCode=COLUMBUS",
+      "sha256": "61463b86bd68ab86a84eee0fcc835fd934acd2f5a641a0ea3179255e407f48f2",
+      "bytes": 265835,
+      "ext": "html.gz"
+    },
+    "FSUPC2612083": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00CDJ&agencyCode=COLUMBUS",
+      "sha256": "ee4a947ec15967f081bbec97bcb7e17a05515b1d6b496e01b404f0459df8b564",
+      "bytes": 270191,
+      "ext": "html.gz"
+    },
+    "MMEPC2614697": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00FKB&agencyCode=COLUMBUS",
+      "sha256": "99290994ff202c2478df98c498a33282a87db3ec637ef8ce792db591a4d8da9e",
+      "bytes": 267279,
+      "ext": "html.gz"
+    },
+    "FALRC2613959": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00EO1&agencyCode=COLUMBUS",
+      "sha256": "ae7fd8cf618a5e4e03c2f50624e7e254e26b543291faaba2b3c995bbd2ce08b8",
+      "bytes": 267723,
+      "ext": "html.gz"
+    },
+    "FALRC2626456": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00T3T&agencyCode=COLUMBUS",
+      "sha256": "89a451fe5b601da0eab33d9488a5a48df60a159647b011e13ccb28c05d020354",
+      "bytes": 267435,
+      "ext": "html.gz"
+    },
+    "EMEPC2627051": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00TRD&agencyCode=COLUMBUS",
+      "sha256": "c9b1c2d843a2014ba2c674cfdf325fca04bd47fa596a5b94fcdb3e6829af1dd2",
+      "bytes": 273387,
+      "ext": "html.gz"
+    },
+    "MMEPC2603225": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=001IC&agencyCode=COLUMBUS",
+      "sha256": "a5a48061c4f82b007cbc815b0f0e3503f08d2d8ad3359b28b3354b4fdb4f8779",
+      "bytes": 266813,
+      "ext": "html.gz"
+    },
+    "FALRC2604871": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=003GN&agencyCode=COLUMBUS",
+      "sha256": "a06c1b3ca0475f97b1df315c4bba27eda52272f7430fda7975c329e0c489872f",
+      "bytes": 271476,
+      "ext": "html.gz"
+    },
+    "EMEPC2605368": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00436&agencyCode=COLUMBUS",
+      "sha256": "0d3056fb103fa905f11236dcd6d7b038b3c588fa73e8a8482a794f7527dd3b04",
+      "bytes": 265565,
+      "ext": "html.gz"
+    },
+    "EMEPC2604857": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=003G3&agencyCode=COLUMBUS",
+      "sha256": "6631b46891b4f8598a126a2db8b7f77c10b1e402a471a8cc509e9046ede5b41f",
+      "bytes": 265600,
+      "ext": "html.gz"
+    },
+    "PMEPC2605374": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=0043G&agencyCode=COLUMBUS",
+      "sha256": "69425c5b5358250dc417d05fe160409f768c82e53118c3f9b656e8767be2e0b0",
+      "bytes": 263290,
+      "ext": "html.gz"
+    },
+    "FALRC2607361": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=006JX&agencyCode=COLUMBUS",
+      "sha256": "e2f94a69f7493bcf98b94ca85c4431ba90328581a5a7050a50175ea304b61eb1",
+      "bytes": 266873,
+      "ext": "html.gz"
+    },
+    "PMEPC2545107": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01DX1&agencyCode=COLUMBUS",
+      "sha256": "7d1b6362fb1c434721688725ab701760ca9e80a1b19ef9eeaad884cc4c88f9b1",
+      "bytes": 263578,
+      "ext": "html.gz"
+    },
+    "PMEPC2542890": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01B7G&agencyCode=COLUMBUS",
+      "sha256": "fa8084b5bb222fcd39b24679cea0a44dfc2bfc687e0e2098fb07e0e48aea8747",
+      "bytes": 264170,
+      "ext": "html.gz"
+    },
+    "PMEPC2545276": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01E4S&agencyCode=COLUMBUS",
+      "sha256": "5bfc5939a03f59f742ad408f2990d0cfc1c1367eeb971aaad3fdf631a4b0be3a",
+      "bytes": 263462,
+      "ext": "html.gz"
+    },
+    "MMEPC2543066": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01BDT&agencyCode=COLUMBUS",
+      "sha256": "43a2a74dd4ee511d6433018c6a809ac2c82e528eda406571ef4d491465ff737c",
+      "bytes": 266849,
+      "ext": "html.gz"
+    },
+    "DEMO2611031": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26120&capID2=00000&capID3=00019&agencyCode=COLUMBUS",
+      "sha256": "48ca81bf246cb3b8a9395412be06a926d88f9bb3b2a325999d1a53240960b100",
+      "bytes": 263439,
+      "ext": "html.gz"
+    },
+    "EMEPC2545693": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01ELS&agencyCode=COLUMBUS",
+      "sha256": "28ccea8d7c6019dce44077f8982133673877e934192f64c36b905a24090c5bd4",
+      "bytes": 266690,
+      "ext": "html.gz"
+    },
+    "MMEPC2541773": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=019VO&agencyCode=COLUMBUS",
+      "sha256": "916f2aa893303da48792fda3d00b112e1bb615b1652e3dcbff06a7396210ccdb",
+      "bytes": 267084,
+      "ext": "html.gz"
+    },
+    "EMEPC2537223": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=014IJ&agencyCode=COLUMBUS",
+      "sha256": "56079e659857352eca239aca27c7d20b63288069a647321baf1db28722d89c48",
+      "bytes": 271549,
+      "ext": "html.gz"
+    },
+    "MMEPC2539910": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017PO&agencyCode=COLUMBUS",
+      "sha256": "a5245fcc98642983ae4fe5577316698406cfbf75fd33627e4076a51a873ddf88",
+      "bytes": 266974,
+      "ext": "html.gz"
+    },
+    "MMEPC2542894": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01B7L&agencyCode=COLUMBUS",
+      "sha256": "b67470ca231c42002e756bc0885de8348ae796ce100db52436a5e74ae8aa268d",
+      "bytes": 265746,
+      "ext": "html.gz"
+    },
+    "PMEPC2542896": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01B7Q&agencyCode=COLUMBUS",
+      "sha256": "0725a6f99c444037c0d4e9c15e933d5d5d713f020e97d777910ea12dcde19df3",
+      "bytes": 264169,
+      "ext": "html.gz"
+    },
+    "PMEPC2543077": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01BE8&agencyCode=COLUMBUS",
+      "sha256": "ee9c061f5878ab392e2aa5049dcd1e5bde8f082c3792ce4e251b7e7bb20b2664",
+      "bytes": 263584,
+      "ext": "html.gz"
+    },
+    "FALRC2539801": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017L1&agencyCode=COLUMBUS",
+      "sha256": "77281a33ec264c521680ec21feaa7a493ba97da946f57009eb8df39b029fabf0",
+      "bytes": 266256,
+      "ext": "html.gz"
+    },
+    "MMEPC2539912": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017PR&agencyCode=COLUMBUS",
+      "sha256": "d67d70ffb6c1ceef39cc5dc538cb6eadfb275569adfb17962c18907118674d9b",
+      "bytes": 268666,
+      "ext": "html.gz"
+    },
+    "FSUPC2539592": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017CR&agencyCode=COLUMBUS",
+      "sha256": "8f205a5d0c83f20be1f3256e7ddfde6de667504fe4142c53acf2712c21d6ddaa",
+      "bytes": 275023,
+      "ext": "html.gz"
+    },
+    "MMEPC2536056": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01342&agencyCode=COLUMBUS",
+      "sha256": "43e69eba16785d23fca2c143fbc9fbc02390d48c11e3357595b735870af39a9e",
+      "bytes": 267213,
+      "ext": "html.gz"
+    },
+    "FALRC2539797": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017KX&agencyCode=COLUMBUS",
+      "sha256": "4a84af8d6408cf6e65d1e849a92f65a272b7dc9a4a29ee40330dca0b27d19ce8",
+      "bytes": 271420,
+      "ext": "html.gz"
+    },
+    "PMEPC2541643": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=019PU&agencyCode=COLUMBUS",
+      "sha256": "9585253a9e7e0eb112be99286240914a32bcf4f4242753a123df033f3a09a7ec",
+      "bytes": 263286,
+      "ext": "html.gz"
+    },
+    "FSUPC2534963": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=011VV&agencyCode=COLUMBUS",
+      "sha256": "b3c342ad1c963c5fd23100fd36a035a0561d397e515e5001140839602c289560",
+      "bytes": 273327,
+      "ext": "html.gz"
+    },
+    "FSUPC2534643": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=011HY&agencyCode=COLUMBUS",
+      "sha256": "64f0ae0dad73d1b6eb475e1b7daaabacfe3d2061ad03dfe96b60fcf97f5a6348",
+      "bytes": 269924,
+      "ext": "html.gz"
+    },
+    "EMEPC2537220": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=014IG&agencyCode=COLUMBUS",
+      "sha256": "b7ae7baefe77900816088c4851ddfa3279a6d58361de0c1f1950a3d310fc5ee1",
+      "bytes": 266407,
+      "ext": "html.gz"
+    },
+    "PMEPC2537744": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=0153E&agencyCode=COLUMBUS",
+      "sha256": "c6c0cf0c3a40300f23fe25f574f5428363556272a332081d2703f8f072a2c16b",
+      "bytes": 264038,
+      "ext": "html.gz"
+    },
+    "EMEPC2538995": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=016N2&agencyCode=COLUMBUS",
+      "sha256": "5f2f874f2e3598f2a6185b2b4cf9a3d0644471035a3f724ad458c19ad66ff6a5",
+      "bytes": 266341,
+      "ext": "html.gz"
+    },
+    "MMEPC2538060": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=015IA&agencyCode=COLUMBUS",
+      "sha256": "aa49451db1a9a2e0c00354d69928bd139f6da40c1eab9b6f2c772b5e67e6b3a8",
+      "bytes": 271093,
+      "ext": "html.gz"
+    },
+    "ALTC2530787": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00WRF&agencyCode=COLUMBUS",
+      "sha256": "1007084a9a1714fa3d99773ca48328709d311a1d238d37890d372a4898475104",
+      "bytes": 286845,
+      "ext": "html.gz"
+    },
+    "PMEPC2527597": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00T6Y&agencyCode=COLUMBUS",
+      "sha256": "cea3dc539dc700d369c26c2ea84a4b1492300da82f9eb2df5be45ab317fcd71e",
+      "bytes": 263675,
+      "ext": "html.gz"
+    },
+    "EMEPC2531555": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00XQG&agencyCode=COLUMBUS",
+      "sha256": "ee5c71d3e15183b2d982a421907d596ecd8507aca65d00576777e98caa0fd091",
+      "bytes": 266370,
+      "ext": "html.gz"
+    },
+    "NEWC2526040": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00RGJ&agencyCode=COLUMBUS",
+      "sha256": "1f8243515be06fda2062e3c9393952344c2e55570f2013806f8cc730a92cb2b9",
+      "bytes": 269592,
+      "ext": "html.gz"
+    },
+    "NEWC2526056": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00RH8&agencyCode=COLUMBUS",
+      "sha256": "fc1506bc6cd6be67bc3670a97a975b4f14a4593b6164b4552a681e067f93920c",
+      "bytes": 269559,
+      "ext": "html.gz"
+    },
+    "FNDTC2522914": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00O0R&agencyCode=COLUMBUS",
+      "sha256": "7be0171aec600dff3940cc8fcf71cc0df32747a363552ae78e5ff25b26de904a",
+      "bytes": 271284,
+      "ext": "html.gz"
+    },
+    "EMEPC2528490": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00U7L&agencyCode=COLUMBUS",
+      "sha256": "4a198c213908043aee43f685ef183f39d5c47ccb69a6c61357b19c641e6c13db",
+      "bytes": 266368,
+      "ext": "html.gz"
+    },
+    "PMEPC2527604": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00T78&agencyCode=COLUMBUS",
+      "sha256": "449af4d277f32fd919012b063ffc5221d2da0d8c7394845305c8a31f65881c3c",
+      "bytes": 263679,
+      "ext": "html.gz"
+    },
+    "FSUPC2529085": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00UVV&agencyCode=COLUMBUS",
+      "sha256": "8e241d75479fc1747d6a9a3d8c186249384a0dbdef6371df3177a66f361a7743",
+      "bytes": 279757,
+      "ext": "html.gz"
+    },
+    "FNDTC2522917": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00O0V&agencyCode=COLUMBUS",
+      "sha256": "248147674e1a79ccce3b0e7b71f993c29a565fbada787ff69a03737d51cbdc14",
+      "bytes": 273013,
+      "ext": "html.gz"
+    },
+    "EMEPC2524511": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00PRG&agencyCode=COLUMBUS",
+      "sha256": "280364150cc358ef5023dba56bb328820acde363298ffed7c48d9db1685e2215",
+      "bytes": 266343,
+      "ext": "html.gz"
+    },
+    "PMEPC2524665": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00PXD&agencyCode=COLUMBUS",
+      "sha256": "6fa22e6cc092e959abe90eef8a63b3a3e10e2b8187e85e185be0adb6e62a7b0a",
+      "bytes": 263321,
+      "ext": "html.gz"
+    },
+    "PMEPC2525069": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00QDG&agencyCode=COLUMBUS",
+      "sha256": "a8bed057bd9ff1a5c3e2dc67b5fa4345ac8a31707d787ff849f33fc69d190eb9",
+      "bytes": 263501,
+      "ext": "html.gz"
+    },
+    "FALRC2525463": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00QSS&agencyCode=COLUMBUS",
+      "sha256": "dbbf4165b4f99b41c8e428faee89fbb77719f4b5b7b5b3de3abfa3b05eef3400",
+      "bytes": 266098,
+      "ext": "html.gz"
+    },
+    "FSUPC2507915": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=006RB&agencyCode=COLUMBUS",
+      "sha256": "29476278cac0a59adcac6757063347aaefb8f73bbfbf38b857a8358a4f2d1540",
+      "bytes": 269609,
+      "ext": "html.gz"
+    },
+    "NEWC2513667": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00DE7&agencyCode=COLUMBUS",
+      "sha256": "368d8f2fbc17882093266165fc07537566936c16173597da114818728925a06d",
+      "bytes": 268347,
+      "ext": "html.gz"
+    },
+    "NEWC2516788": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00H2I&agencyCode=COLUMBUS",
+      "sha256": "a29d77e295bf17e984993879a29493a51e8f197044d2b56d2b0726a6c0bc936a",
+      "bytes": 266895,
+      "ext": "html.gz"
+    },
+    "NEWC2520497": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00LBE&agencyCode=COLUMBUS",
+      "sha256": "44617bdb5b998da707484ccd8ab4668ddc649d898125ba45e49558f2ba951611",
+      "bytes": 266791,
+      "ext": "html.gz"
+    },
+    "FALRC2512873": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00CHJ&agencyCode=COLUMBUS",
+      "sha256": "19bdce2662f7648d11ec6b734fcbd3f6f5be512e2cba36a01ed310f864933c0e",
+      "bytes": 253836,
+      "ext": "html.gz"
+    },
+    "FALRC2448516": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=01DFX&agencyCode=COLUMBUS",
+      "sha256": "92a0e7c84cfaff1e9a958e940bdf87a2dd7bb27c88b60603ad0717cb4e91a23f",
+      "bytes": 267837,
+      "ext": "html.gz"
+    },
+    "PMEPC2502629": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=000P3&agencyCode=COLUMBUS",
+      "sha256": "bbf9384559530b9848234e46fbf78ace64ce3acd8c42c77f6d5ebdff07209d34",
+      "bytes": 259616,
+      "ext": "html.gz"
+    },
+    "FALRC2505814": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=004BE&agencyCode=COLUMBUS",
+      "sha256": "7e42b50529ae09f793bcf90c278c208c5e28b5939b2c92415e61be93cb9cada0",
+      "bytes": 262874,
+      "ext": "html.gz"
+    },
+    "FALRC2513779": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00DIY&agencyCode=COLUMBUS",
+      "sha256": "981f4a474a5de50ca6b415bc75f057fe9a25cb0b4e8342403dd8a52a7f9636ed",
+      "bytes": 262633,
+      "ext": "html.gz"
+    },
+    "FALRC2527732": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00TCH&agencyCode=COLUMBUS",
+      "sha256": "da6c5d463596a400b95eeca143b551f30c8dc08c87ddc06da0fbbc076d385a9a",
+      "bytes": 263417,
+      "ext": "html.gz"
+    },
+    "ALTC2502418": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=000FT&agencyCode=COLUMBUS",
+      "sha256": "b82e3c5b30aa72a46af3d6ff51098e0bcc15fbca755ffe32a5fe97ab1bcf6e58",
+      "bytes": 262971,
+      "ext": "html.gz"
+    },
+    "FSUPC2510732": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=009Z8&agencyCode=COLUMBUS",
+      "sha256": "0236d5d10691045332787a07391d3ca2f41ab1836ca95b91de48ff550113c823",
+      "bytes": 266177,
+      "ext": "html.gz"
+    },
+    "EMEPC2516529": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00GS4&agencyCode=COLUMBUS",
+      "sha256": "807c83d5ce672dd01ab9d2924cac6d3a7507d989c37a93475833a6cc84b41fa8",
+      "bytes": 262698,
+      "ext": "html.gz"
+    },
+    "MMEPC2515696": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00FTX&agencyCode=COLUMBUS",
+      "sha256": "7aea450f2f9837ed2d00c3b54aaa4c17e84140c9250470e8f35cd50754bb45f8",
+      "bytes": 261400,
+      "ext": "html.gz"
+    },
+    "PMEPC2515697": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00FTZ&agencyCode=COLUMBUS",
+      "sha256": "536238c78ed86f9cecfb5baecb35b9cd62e06e02b17060a2c3cc964339e0b1f4",
+      "bytes": 260354,
+      "ext": "html.gz"
+    },
+    "EMEPC2603946": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=002E7&agencyCode=COLUMBUS",
+      "sha256": "1aac8b87badf995e4208262ad29a16cd7abfe978bcbdcb19b3436fbfcd919ace",
+      "bytes": 261914,
+      "ext": "html.gz"
+    },
+    "EMEPC2611491": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00BNV&agencyCode=COLUMBUS",
+      "sha256": "905b3bb0d2d62bf01aaa69d6e71175b5f1679e1d3325a714ddd4e6644e7a2546",
+      "bytes": 261891,
+      "ext": "html.gz"
+    },
+    "FALRC2636572": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=014XN&agencyCode=COLUMBUS",
+      "sha256": "6a6a096f2ce3dca9c8b82e899e2864512157ec7c6c75349e2c437d152558763e",
+      "bytes": 262918,
+      "ext": "html.gz"
+    },
+    "FALRC2636990": {
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=015FB&agencyCode=COLUMBUS",
+      "sha256": "a49fd680ec3c5b12c94bac9509e883629a9b18a23c2562faa23652b83bedd390",
+      "bytes": 262893,
+      "ext": "html.gz"
+    }
+  }
+}

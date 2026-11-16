@@ -1,0 +1,685 @@
+[
+  {
+    "state": "AZ",
+    "jurisdiction": "Arizona",
+    "url": "https://static.azdeq.gov/permits/cgp/2025permit.pdf",
+    "depth": 0,
+    "sha256": null,
+    "adapter": null,
+    "error": "ValueError: robots preflight HTTP 403",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Chandler",
+    "url": "https://www.chandleraz.gov/news-center/chandlers-data-center-ordinance-now-effect",
+    "depth": 0,
+    "sha256": "bac74f822007116cb42475645ce558b3574a28d1968e171cd1a4d02f976dccfd",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 11,
+        "end": 22,
+        "match": "data center",
+        "context": "Chandler’s data center ordinance now in effect | City of Chandler Skip to main content Utility Menu Pay Jobs Contact Us A-Z Translate News Choosing Chandler Blog CityScope Newsletter News Center Social Hub Voices of Chandler Text Si"
+      },
+      {
+        "topic": "data_center",
+        "start": 3814,
+        "end": 3825,
+        "match": "data center",
+        "context": "y Council Meetings Mayor Initiatives State of the City Sustainability News Choosing Chandler Blog News Center Voices of Chandler Menu Chandler’s data center ordinance now in effect Home News Center Jan. 11, 2023 CHANDLER, Ariz. – The City of Chandler has joined a small list of cities across the nation to adopt a zoning code amendment to define the location and ope"
+      },
+      {
+        "topic": "data_center",
+        "start": 4045,
+        "end": 4057,
+        "match": "data centers",
+        "context": "he City of Chandler has joined a small list of cities across the nation to adopt a zoning code amendment to define the location and operation of data centers. The approved amendment includes the following provisions: Establishes a new section of the zoning code (Chapter 35, Section 2214) specifically to address data centers Clarifies data centers as a primary use o"
+      },
+      {
+        "topic": "data_center",
+        "start": 4213,
+        "end": 4225,
+        "match": "data centers",
+        "context": "ved amendment includes the following provisions: Establishes a new section of the zoning code (Chapter 35, Section 2214) specifically to address data centers Clarifies data centers as a primary use only permitted in planning area development (PAD) zoning designations Clarifies data centers as an ancillary use, including size limitations, purpose, and location on-si"
+      },
+      {
+        "topic": "data_center",
+        "start": 4236,
+        "end": 4248,
+        "match": "data centers",
+        "context": "the following provisions: Establishes a new section of the zoning code (Chapter 35, Section 2214) specifically to address data centers Clarifies data centers as a primary use only permitted in planning area development (PAD) zoning designations Clarifies data centers as an ancillary use, including size limitations, purpose, and location on-site Establishes a detail"
+      },
+      {
+        "topic": "data_center",
+        "start": 4346,
+        "end": 4358,
+        "match": "data centers",
+        "context": "to address data centers Clarifies data centers as a primary use only permitted in planning area development (PAD) zoning designations Clarifies data centers as an ancillary use, including size limitations, purpose, and location on-site Establishes a detailed communications protocol to notify impacted residents about pre- and post-construction, including required n"
+      },
+      {
+        "topic": "data_center",
+        "start": 4822,
+        "end": 4833,
+        "match": "data center",
+        "context": "ne with results provided to residents prior to a scheduled neighborhood meeting Requires sound mitigation measures to ensure noise levels from a data center does not exceed levels observed during baseline study Requires the data center to conduct an annual noise study during peak operation times for five years once construction of the data center is complete Estab"
+      },
+      {
+        "topic": "data_center",
+        "start": 4901,
+        "end": 4912,
+        "match": "data center",
+        "context": "Requires sound mitigation measures to ensure noise levels from a data center does not exceed levels observed during baseline study Requires the data center to conduct an annual noise study during peak operation times for five years once construction of the data center is complete Establishes backup generator routine maintenance and testing time limitations, inclu"
+      },
+      {
+        "topic": "equipment",
+        "start": 4934,
+        "end": 4945,
+        "match": "noise study",
+        "context": "es to ensure noise levels from a data center does not exceed levels observed during baseline study Requires the data center to conduct an annual noise study during peak operation times for five years once construction of the data center is complete Establishes backup generator routine maintenance and testing time limitations, including notification protocol Data c"
+      },
+      {
+        "topic": "data_center",
+        "start": 5014,
+        "end": 5025,
+        "match": "data center",
+        "context": "ing baseline study Requires the data center to conduct an annual noise study during peak operation times for five years once construction of the data center is complete Establishes backup generator routine maintenance and testing time limitations, including notification protocol Data centers have evolved throughout the years from single-user facilities to larger m"
+      },
+      {
+        "topic": "data_center",
+        "start": 5149,
+        "end": 5161,
+        "match": "Data centers",
+        "context": "on of the data center is complete Establishes backup generator routine maintenance and testing time limitations, including notification protocol Data centers have evolved throughout the years from single-user facilities to larger multi-tenant facilities and transitioned from water-cooled to electrically-cooled facilities. Due to those changes, there has been an inc"
+      },
+      {
+        "topic": "equipment",
+        "start": 5496,
+        "end": 5507,
+        "match": "noise study",
+        "context": "here has been an increase in potential noise impacts to the surrounding neighborhoods. Over the years, Chandler has required increased levels of noise study/mitigation efforts, public outreach, and regulations regarding backup power generators. The ordinance was unanimously approved on Dec. 5, 2022 and took effect on Jan. 5. For more information, contact Chandler’"
+      }
+    ],
+    "links": [
+      [
+        3,
+        "https://archivedrecords.chandleraz.gov/getdoc.aspx?docid=13491&app=10",
+        "zoning code amendment"
+      ],
+      [
+        3,
+        "https://www.chandleraz.gov/government/departments/development-services/building-safety-plan-review-permits-and-inspections",
+        "Permits & Plan Reviews"
+      ],
+      [
+        3,
+        "https://www.chandleraz.gov/government/departments/development-services/building-safety-plan-review-permits-and-inspections",
+        "Permits and Plan Reviews"
+      ],
+      [
+        3,
+        "https://www.chandleraz.gov/government/departments/development-services/planning-and-zoning",
+        "Planning & Zoning"
+      ],
+      [
+        2,
+        "https://www.chandleraz.gov/explore/chandler-aquatics/policies-rules-and-regulations",
+        "Policies, Rules & Regulations"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Chandler",
+    "url": "https://www.chandleraz.gov/government/departments/development-services/building-safety-plan-review-permits-and-inspections",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Chandler",
+    "url": "https://www.chandleraz.gov/government/departments/development-services/planning-and-zoning",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Arizona",
+    "url": "https://www.azleg.gov/ars/45/00512.htm",
+    "depth": 0,
+    "sha256": "a23bcf57c1a380c382cf9d71063d1953c0fe3c96de4d38fb8200b7dc8350f072",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "water",
+        "start": 23,
+        "end": 45,
+        "match": "groundwater withdrawal",
+        "context": "45-512 - Categories of groundwater withdrawal permits 45-512. Categories of groundwater withdrawal permits Except as provided in section 45-452, subsection H, section 45-513, subsection B and articles 5 and 6 of this chapter, a person may not withdraw gro"
+      },
+      {
+        "topic": "water",
+        "start": 76,
+        "end": 98,
+        "match": "groundwater withdrawal",
+        "context": "45-512 - Categories of groundwater withdrawal permits 45-512. Categories of groundwater withdrawal permits Except as provided in section 45-452, subsection H, section 45-513, subsection B and articles 5 and 6 of this chapter, a person may not withdraw groundwater from a nonexempt well in an active managemen"
+      },
+      {
+        "topic": "water",
+        "start": 343,
+        "end": 365,
+        "match": "groundwater withdrawal",
+        "context": "es 5 and 6 of this chapter, a person may not withdraw groundwater from a nonexempt well in an active management area unless the person obtains a groundwater withdrawal permit from the director pursuant to this article. The categories of groundwater withdrawal permits are as follows: 1. Dewatering permits issued pursuant to section 45-513. 2. Mineral extraction and metallurgi"
+      },
+      {
+        "topic": "water",
+        "start": 435,
+        "end": 457,
+        "match": "groundwater withdrawal",
+        "context": "n active management area unless the person obtains a groundwater withdrawal permit from the director pursuant to this article. The categories of groundwater withdrawal permits are as follows: 1. Dewatering permits issued pursuant to section 45-513. 2. Mineral extraction and metallurgical processing permits issued pursuant to section 45-514. 3. General industrial use permits"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Navajo Nation (Arizona portion)",
+    "url": "https://navajoepa.org/air-quality-control-program",
+    "depth": 0,
+    "sha256": "b7fd7c9f3dea93e8b583b7e5c98482e93160672083db15cc92c34e38c3faf556",
+    "adapter": "html",
+    "error": null,
+    "hits": [],
+    "links": [
+      [
+        5,
+        "https://navajoepa.org/s/1Form-OperatingPermit-Appstatic.pdf",
+        "Application for Operating Permit"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG-Dilkon-Final-Permit-12-23-2025.pdf",
+        "EPNG Dilkon Compressor Station Permit No. NN OP 25-004"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG-Dilkon-Final-Permit.pdf",
+        "EPNG Dilkon Compressor Station Permit No. NN OP 19-004"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG-Leupp-Title-V-Permit-8_12_2022.pdf",
+        "EPNG Leupp Compressor Station Permit No. NN OP 22-005"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG-Navajo-FINAL-Title-V-Permit.pdf",
+        "EPNG Navajo Compressor Station Permit No. NN P 26-003"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG-White-Rock-Final-Permit_10_5_2023-psaz.pdf",
+        "EPNG White Rock Compressor Station Permit No. NN OP 23-008"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG-WindowRock-Final-Title-V-Permit-1_6_2023-9cr5.pdf",
+        "EPNG Window Rock Compressor Station Permit No. NN OP 23-009"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/EPNG_Gallup_Final_Permit_2023-tkp3.pdf",
+        "EPNG Gallup Compressor Station Permit No. NN OP 23-002"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/Elk-Operating-Services-Aneth-Unit-Final-Permit.pdf",
+        "Elk Operating Services Aneth Unit Permit No. NN OP 17-012"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/FCPP-Title-V-Permit.pdf",
+        "Arizona Public Service Four Corners Steam Electric Station Permit No. NN ROP 05-07"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/General-Permit-for-Gasoline-Dispensing-Facilities-FINAL-wt3r.pdf",
+        "gasoline dispensing facilities"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/General-Permit-for-Gasoline-Dispensing-Facilities-FINAL.pdf",
+        "General Permit for Gasoline Dispensing Facilities"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/General-Permit-for-Oil-and-Natural-Gas-Sources-FINAL-2c3d.pdf",
+        "non-major oil and natural gas sources"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/General-Permit-for-Oil-and-Natural-Gas-Sources-FINAL.pdf",
+        "General Permit for Oil and Natural Gas Sources"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/McElmo-Creek-Final-Permit.pdf",
+        "Elk Operating Services, LLC, McElmo Creek Unit Permit No. NN OP 25-015"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/Silica-Services_Final_Permit_Nov-14-2025.pdf",
+        "Silica Services Mining, LLC Sanders Facility Permit No. NN OP 25-013"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/TWP-Leupp-Final-Permit_5-5-25.pdf",
+        "Transwestern Pipeline Company, LLC (TWP) Leupp Compressor Station Number 3 Permit No. NN OP 25-001"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/Uniform-Rules.pdf",
+        "Uniform Regulations for Permit Review, Administrative Enforcement Orders, Hearings, and Rulemakings Under Navajo Nation Environmental Acts"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/Western-Refinery-Terminals-Wingate-Facility-Final-Permit-_2-28_24.pdf",
+        "Western Refining Terminals, LLC Wingate Facility Permit No. NN OP 24-011"
+      ],
+      [
+        5,
+        "https://navajoepa.org/s/operating-permit-regs-final-7-8-04.pdf",
+        "Navajo Nation Air Quality Control Program Operating Permit Regulations"
+      ]
+    ],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Navajo Nation (Arizona portion)",
+    "url": "https://navajoepa.org/s/1Form-OperatingPermit-Appstatic.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Navajo Nation (Arizona portion)",
+    "url": "https://navajoepa.org/s/EPNG-Dilkon-Final-Permit-12-23-2025.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Navajo Nation (Arizona portion)",
+    "url": "https://navajoepa.org/s/EPNG-Dilkon-Final-Permit.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Marana",
+    "url": "https://public.destinyhosted.com/marandocs/2024/CCREG/20241203_3069/3916_Exhibit_A_to_Resolution_No._2024-108.pdf",
+    "depth": 0,
+    "sha256": "15bdb916c4526d745c8b646900c18c8074c3a1a43de590f0a6a7f86e85c6e6e0",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 517,
+        "end": 528,
+        "match": "Data center",
+        "context": "nless a different meaning is clearly indicated by the context or by a more specific definition: [No revisions to subparagraphs 1 through 54] 55. Data center: A facility used primarily for the storage, management, processing, and transmission of digital data, which houses computer or network equipment, systems, servers, appliances and other associated components re"
+      },
+      {
+        "topic": "data_center",
+        "start": 1174,
+        "end": 1185,
+        "match": "data center",
+        "context": "s, water cooling and storage facilities, utility substations, and other associated utility infrastructure to support sustained operations at the data center. [No revisions to existing subparagraphs 55 through 222 which are hereby renumbered as subparagraphs 56 through 223 to conform] [No revisions to paragraphs B and C] SECTION 2. Chapter 17-4 “Zoning” of the Mara"
+      },
+      {
+        "topic": "permission",
+        "start": 2021,
+        "end": 2034,
+        "match": "permitted use",
+        "context": "\"P\" means the use is permitted subject to design standards. 2. \"A\" means the use is permitted as an accessory use located on the same lot with a permitted use. 3. \"C\" means the use is allowed upon approval of a conditional use permit (see section 17-3- 2). 4. \"U\" means the use is allowed upon meeting the conditions set forth in table 3 below. 5. \"T\" means the use is"
+      },
+      {
+        "topic": "permission",
+        "start": 2087,
+        "end": 2102,
+        "match": "conditional use",
+        "context": "means the use is permitted as an accessory use located on the same lot with a permitted use. 3. \"C\" means the use is allowed upon approval of a conditional use permit (see section 17-3- 2). 4. \"U\" means the use is allowed upon meeting the conditions set forth in table 3 below. 5. \"T\" means the use is allowed upon approval of a temporary use permit (see section 17-3-"
+      },
+      {
+        "topic": "data_center",
+        "start": 2687,
+        "end": 2698,
+        "match": "Data center",
+        "context": "ble 2. Use matrix (only amendments to Table 2 are shown; the remainder of Table 2 is unchanged) Uses AG RA ER NR GR MR RR NC VC LI HI Industrial Data center X X X X X X X X X A A [No revisions to sections 17-4-3 through 17-4-7] 17-4-8 Industrial zoning districts [No revisions to paragraphs A through D] E. Data centers. As provided in section 17-6-13, data centers"
+      },
+      {
+        "topic": "data_center",
+        "start": 2849,
+        "end": 2861,
+        "match": "Data centers",
+        "context": "X X X X X X A A [No revisions to sections 17-4-3 through 17-4-7] 17-4-8 Industrial zoning districts [No revisions to paragraphs A through D] E. Data centers. As provided in section 17-6-13, data centers are not permitted to operate in the town as a principal use unless approved in a specific plan or specific plan amendment explicitly created or amended for the pur"
+      },
+      {
+        "topic": "data_center",
+        "start": 2895,
+        "end": 2907,
+        "match": "data centers",
+        "context": "4-3 through 17-4-7] 17-4-8 Industrial zoning districts [No revisions to paragraphs A through D] E. Data centers. As provided in section 17-6-13, data centers are not permitted to operate in the town as a principal use unless approved in a specific plan or specific plan amendment explicitly created or amended for the purpose of data center development and adopted th"
+      },
+      {
+        "topic": "data_center",
+        "start": 3079,
+        "end": 3090,
+        "match": "data center",
+        "context": "te in the town as a principal use unless approved in a specific plan or specific plan amendment explicitly created or amended for the purpose of data center development and adopted through the rezoning process set forth in section 17-3-1 and as described in section 17-4-15 (Specific plan (SP)). Data centers are permitted as an accessory use in the LI and HI zoning"
+      },
+      {
+        "topic": "data_center",
+        "start": 3230,
+        "end": 3242,
+        "match": "Data centers",
+        "context": "enter development and adopted through the rezoning process set forth in section 17-3-1 and as described in section 17-4-15 (Specific plan (SP)). Data centers are permitted as an accessory use in the LI and HI zoning districts when all of the following are true: 1. The data center occupies no more than 15% of the site. 2. The data center is used to serve the enterpr"
+      },
+      {
+        "topic": "data_center",
+        "start": 3354,
+        "end": 3365,
+        "match": "data center",
+        "context": "Specific plan (SP)). Data centers are permitted as an accessory use in the LI and HI zoning districts when all of the following are true: 1. The data center occupies no more than 15% of the site. 2. The data center is used to serve the enterprise functions of the on-site property owner and is not used to lease data storage and processing services to third parties."
+      },
+      {
+        "topic": "data_center",
+        "start": 3412,
+        "end": 3423,
+        "match": "data center",
+        "context": "ssory use in the LI and HI zoning districts when all of the following are true: 1. The data center occupies no more than 15% of the site. 2. The data center is used to serve the enterprise functions of the on-site property owner and is not used to lease data storage and processing services to third parties. For purposes of this subparagraph “on-site property owner"
+      },
+      {
+        "topic": "data_center",
+        "start": 3746,
+        "end": 3757,
+        "match": "data center",
+        "context": "aragraph “on-site property owner” includes an owner that owns the property and is the parent company of the company or companies on-site. 3. The data center complies with any applicable development standards for accessory use data centers, as set forth in section 17-6-13. [No revisions to existing paragraph E which is hereby re-lettered to paragraph F to conf"
+      },
+      {
+        "topic": "data_center",
+        "start": 3827,
+        "end": 3839,
+        "match": "data centers",
+        "context": "the parent company of the company or companies on-site. 3. The data center complies with any applicable development standards for accessory use data centers, as set forth in section 17-6-13. [No revisions to existing paragraph E which is hereby re-lettered to paragraph F to conform] [No revisions to sections 17-4-9 through 17-4-15] 17-4-16 Legacy zones A. The"
+      },
+      {
+        "topic": "data_center",
+        "start": 4623,
+        "end": 4635,
+        "match": "data centers",
+        "context": "any language in sections 17-4-17 through 17-4-26 permitting commercial and industrial uses in the legacy zones, as provided in section 17-6-13, data centers are not permitted to operate in the town as a principal use unless approved in a specific plan or specific plan amendment explicitly created or amended for the purpose of data center [Page 3] EXHIBIT A TO MARA"
+      },
+      {
+        "topic": "equipment",
+        "start": 6747,
+        "end": 6758,
+        "match": "noise study",
+        "context": "a specific plan or a specific plan amendment for the purpose of data center development shall include the following information: 1. The baseline noise study and noise contour exhibit required by paragraph G below. 2. The intended source of electric power for the development and documentation from the electric utility provider affirming sufficient power exists to s"
+      },
+      {
+        "topic": "equipment",
+        "start": 8941,
+        "end": 8952,
+        "match": "noise study",
+        "context": "dard shall prevail. G. Noise Attenuation. The developer of a data center to be operated as either a principal or an accessory use must conduct a noise study performed by a qualified third-party acoustic engineer to document baseline sound levels in the area of the proposed data center and to produce a noise contour exhibit depicting the anticipated noise levels to"
+      },
+      {
+        "topic": "equipment",
+        "start": 9306,
+        "end": 9317,
+        "match": "sound level",
+        "context": "o be generated by the data center. 1. For purposes of this section 17-6-13: a. “dBA” means the sound pressure level in decibels as measured on a sound level meter using the A weighted filter network. The A weighted filter network is designed to simulate the response of the human ear. The A weighted sound level is expressed by the symbol “dBA.” b. “Daytime” means 7"
+      },
+      {
+        "topic": "equipment",
+        "start": 9461,
+        "end": 9472,
+        "match": "sound level",
+        "context": "l meter using the A weighted filter network. The A weighted filter network is designed to simulate the response of the human ear. The A weighted sound level is expressed by the symbol “dBA.” b. “Daytime” means 7:00 a.m. to 7:00 p.m. on weekdays, and 9:00 a.m. to 8:00 p.m. on Saturdays, Sundays, and legal holidays observed by the town. c. “Nighttime” means 7:00 p.m"
+      },
+      {
+        "topic": "development",
+        "start": 10927,
+        "end": 10942,
+        "match": "building permit",
+        "context": "eding the maximum sound levels set forth in Table 2. Design specifications for the required sound mitigation must be provided to the town before building permit approval. 5. Before issuance of a certificate of occupancy or certificate of completion, whichever occurs first, the data center operator must conduct a post-construction noise study performed by a qualified t"
+      },
+      {
+        "topic": "equipment",
+        "start": 11114,
+        "end": 11125,
+        "match": "noise study",
+        "context": "ce of a certificate of occupancy or certificate of completion, whichever occurs first, the data center operator must conduct a post-construction noise study performed by a qualified third-party acoustic engineer to document sound levels emanating from the data center measured at the property line of the nearest property to the data center property that is planned"
+      },
+      {
+        "topic": "equipment",
+        "start": 11539,
+        "end": 11550,
+        "match": "noise study",
+        "context": "e use as reasonably determined by the zoning administrator, during peak operation of the data center mechanical equipment. The post-construction noise study must demonstrate that sound levels do not exceed the maximum sound levels set forth in Table 2. If sound levels exceed the maximum sound levels set forth in Table 2, the town will issue a temporary certificate"
+      },
+      {
+        "topic": "equipment",
+        "start": 12156,
+        "end": 12167,
+        "match": "noise study",
+        "context": "tificate of occupancy, the town will not issue a permanent certificate of occupancy. 6. The data center operator must also conduct an additional noise study, as measured at the property line of the nearest property to the data center property that is planned or zoned for residential land uses, or other noise sensitive use as reasonably determined by the zoning adm"
+      },
+      {
+        "topic": "equipment",
+        "start": 12525,
+        "end": 12536,
+        "match": "noise study",
+        "context": "strator, annually during peak operation of the data center mechanical equipment for five years after completion of the initial post-construction noise study and when requested by the town thereafter. The data center operator must provide the results of the noise study to the town within 30 days of the anniversary of the date on which the certificate of occupancy o"
+      },
+      {
+        "topic": "equipment",
+        "start": 12637,
+        "end": 12648,
+        "match": "noise study",
+        "context": "of the initial post-construction noise study and when requested by the town thereafter. The data center operator must provide the results of the noise study to the town within 30 days of the anniversary of the date on which the certificate of occupancy or certificate of completion was issued by the town. If sound levels exceed the maximum sound levels set forth in"
+      },
+      {
+        "topic": "equipment",
+        "start": 14918,
+        "end": 14926,
+        "match": "Setbacks",
+        "context": "ollection areas must be fully screened on all four sides.∆ Lighting ∆ Must comply with the town of Marana lighting code. Lot coverage No maximum Setbacks Any data center building, equipment for cooling, ventilating, or otherwise operating the facility, power generator, or other power supply equipment must be located:  At least 400 feet from the property line o"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "AZ",
+    "jurisdiction": "Mesa",
+    "url": "https://mesa.legistar.com/View.ashx?M=F&ID=14327029&GUID=5FD9E3FA-BBFB-43F9-A492-5E57CF3B0C72",
+    "depth": 0,
+    "sha256": "9b433c1e06f9b7827deeb57bc8145db3fc0b148721ddfe56607c0d7ff4dcdc1d",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 216,
+        "end": 228,
+        "match": "DATA CENTERS",
+        "context": "E CITY OF MESA, MARICOPA COUNTY, ARIZONA, AMENDING ZONING ORDINANCE, MESA CITY CODE TITLE 11, CHAPTERS 6, 7, 22, 31, 32, AND 86 PERTAINING TO DATA CENTERS AND PLANNED AREA DEVELOPMENT OVERLAY DISTRICTS . THE AMENDMENTS INCLUDE, BUT ARE NOT LIMITED TO: ADDING A DEFINITION FOR DATA CENTER; MODIFYING LAND USE TABLES TO ADD DATA CENTER; ESTABLISHING DEVELOPMENT"
+      },
+      {
+        "topic": "data_center",
+        "start": 353,
+        "end": 364,
+        "match": "DATA CENTER",
+        "context": "NING TO DATA CENTERS AND PLANNED AREA DEVELOPMENT OVERLAY DISTRICTS . THE AMENDMENTS INCLUDE, BUT ARE NOT LIMITED TO: ADDING A DEFINITION FOR DATA CENTER; MODIFYING LAND USE TABLES TO ADD DATA CENTER; ESTABLISHING DEVELOPMENT AND OTHER STANDARDS SPECIFIC TO DATA CENTERS; ADDING A MINIMUM PARKING REQUIREMENT FOR DATA CENTERS; AMENDING THE PURPOSE, LAND USE RE"
+      },
+      {
+        "topic": "data_center",
+        "start": 399,
+        "end": 410,
+        "match": "DATA CENTER",
+        "context": "MENT OVERLAY DISTRICTS . THE AMENDMENTS INCLUDE, BUT ARE NOT LIMITED TO: ADDING A DEFINITION FOR DATA CENTER; MODIFYING LAND USE TABLES TO ADD DATA CENTER; ESTABLISHING DEVELOPMENT AND OTHER STANDARDS SPECIFIC TO DATA CENTERS; ADDING A MINIMUM PARKING REQUIREMENT FOR DATA CENTERS; AMENDING THE PURPOSE, LAND USE REGULATIONS, AND DEVELOPMENT STANDARDS RELATED"
+      },
+      {
+        "topic": "data_center",
+        "start": 470,
+        "end": 483,
+        "match": "DATA \nCENTERS",
+        "context": "O: ADDING A DEFINITION FOR DATA CENTER; MODIFYING LAND USE TABLES TO ADD DATA CENTER; ESTABLISHING DEVELOPMENT AND OTHER STANDARDS SPECIFIC TO DATA CENTERS; ADDING A MINIMUM PARKING REQUIREMENT FOR DATA CENTERS; AMENDING THE PURPOSE, LAND USE REGULATIONS, AND DEVELOPMENT STANDARDS RELATED TO THE PLANNED AREA DEVELOPMENT (PAD) OVERLAY DISTRICT TO, AMONG OTHER"
+      },
+      {
+        "topic": "data_center",
+        "start": 526,
+        "end": 539,
+        "match": "DATA \nCENTERS",
+        "context": "USE TABLES TO ADD DATA CENTER; ESTABLISHING DEVELOPMENT AND OTHER STANDARDS SPECIFIC TO DATA CENTERS; ADDING A MINIMUM PARKING REQUIREMENT FOR DATA CENTERS; AMENDING THE PURPOSE, LAND USE REGULATIONS, AND DEVELOPMENT STANDARDS RELATED TO THE PLANNED AREA DEVELOPMENT (PAD) OVERLAY DISTRICT TO, AMONG OTHER THINGS, ALLOW LAND USES TO BE PERMITTED THROUGH APPROVA"
+      },
+      {
+        "topic": "data_center",
+        "start": 1016,
+        "end": 1028,
+        "match": "data centers",
+        "context": "VIOLATIONS THEREOF; AND PRESERVING RIGHTS AND DUTIES THAT HAVE ALREADY MATURED AND PROCEEDINGS WHICH HAVE ALREADY BEGUN THEREUNDER. W HEREAS, data centers are an increasingly prominent land use that presents unique considerations related to land use compatibility, infrastructure demand, and environmental impact. W HEREAS, data centers are frequently heavy util"
+      },
+      {
+        "topic": "data_center",
+        "start": 1200,
+        "end": 1212,
+        "match": "data centers",
+        "context": "ent land use that presents unique considerations related to land use compatibility, infrastructure demand, and environmental impact. W HEREAS, data centers are frequently heavy utility users and may require substantial utility infrastructure, including electrical power, cooling systems, and broadband capacity, which can significantly affect surrounding developm"
+      },
+      {
+        "topic": "data_center",
+        "start": 1562,
+        "end": 1574,
+        "match": "data centers",
+        "context": "elopment and municipal services , including the availability and distribution of utilities to other City customers. W HEREAS, the operation of data centers can generate impacts such as noise from mechanical equipment, heat discharge, 24- hour activity, and large -scale building footprints, all of which require appropriate development standards to ensure compati"
+      },
+      {
+        "topic": "data_center",
+        "start": 2073,
+        "end": 2085,
+        "match": "data centers",
+        "context": "atibility, environmental stewardship, and high-quality design. W HEREAS, establishing zoning regulations and development standards specific to data centers will provide clarity to applicants, promote the public health, safety, and general welfare, and ensure data centers are appropriately sited and designed within the community. W HEREAS, the proposed ordinanc"
+      },
+      {
+        "topic": "data_center",
+        "start": 2190,
+        "end": 2202,
+        "match": "data centers",
+        "context": "pment standards specific to data centers will provide clarity to applicants, promote the public health, safety, and general welfare, and ensure data centers are appropriately sited and designed within the community. W HEREAS, the proposed ordinance defines “Data Center” as a distinct land use, allows the City Council to permit Data Centers through approval of a"
+      },
+      {
+        "topic": "data_center",
+        "start": 2306,
+        "end": 2317,
+        "match": "Data Center",
+        "context": "general welfare, and ensure data centers are appropriately sited and designed within the community. W HEREAS, the proposed ordinance defines “Data Center” as a distinct land use, allows the City Council to permit Data Centers through approval of a Planned Area Development Overlay (PAD) used in combination with certain industrial zoning districts , and outline"
+      },
+      {
+        "topic": "data_center",
+        "start": 2378,
+        "end": 2390,
+        "match": "Data Centers",
+        "context": "esigned within the community. W HEREAS, the proposed ordinance defines “Data Center” as a distinct land use, allows the City Council to permit Data Centers through approval of a Planned Area Development Overlay (PAD) used in combination with certain industrial zoning districts , and outlines related standards for location, design, screening, and noise. W HEREA"
+      },
+      {
+        "topic": "equipment",
+        "start": 3475,
+        "end": 3483,
+        "match": "setbacks",
+        "context": "zoning standards alone. WHEREAS, the City has historically used the PAD to modify development standards of another zoning district—including setbacks, building form, and open space standards—consistent with the unique context and vision of the proposed development. WHEREAS, the current Zoning Ordinance does not explicitly authorize the City Council modi"
+      },
+      {
+        "topic": "permission",
+        "start": 6123,
+        "end": 6134,
+        "match": "Special Use",
+        "context": "esignates use classifications permitted on approval of a Temporary Use Permit. • \"SUP\" designates use classifications permitted on approval of a Special Use Permit. • \"CUP\" designates use classifications permitted on approval of a Council Use Permit. • \"(x)\" a number in parentheses refers to limitation following the table. • “SE” DESIGNATES USE CLASSIFICATIONS THA"
+      },
+      {
+        "topic": "permission",
+        "start": 6461,
+        "end": 6475,
+        "match": "prohibited use",
+        "context": "ATES USE CLASSIFICATIONS THAT ARE NOT ALLOWED BY RI GHT BUT ARE PERMITTED IF APPROVED THROUGH A PARTICULAR RE VIEW PROCEDURE. • \"—\" designates a prohibited use. Use classifications not listed are prohibited. The \"Additional Use Regulations\" column includes specific limitations applicable to the use classification or refers to regulations located elsewhere in this Or"
+      },
+      {
+        "topic": "permission",
+        "start": 15879,
+        "end": 15894,
+        "match": "conditional use",
+        "context": "el by either rezoning to a different base zoning district or to an overlay zoning district that modifies the land uses allowed. A request for a conditional use permit, including a Council Use Permit and [Page 7] 7 Special Use Permit, is not a “rezonin g”. A Waiver does not limit, prevent, alter, or affect a development agreement that restricts or prohibits dat"
+      },
+      {
+        "topic": "permission",
+        "start": 15954,
+        "end": 15965,
+        "match": "Special Use",
+        "context": "zoning district that modifies the land uses allowed. A request for a conditional use permit, including a Council Use Permit and [Page 7] 7 Special Use Permit, is not a “rezonin g”. A Waiver does not limit, prevent, alter, or affect a development agreement that restricts or prohibits data centers or other land uses. The Planning Director and City Attorney"
+      },
+      {
+        "topic": "development",
+        "start": 18615,
+        "end": 18624,
+        "match": "site plan",
+        "context": "ing Ordinance. By way of example only and without limiting the foregoing, (1) a data center that has received approvals, such as an approved site plan or design review, prior to the effective date of this Ordinance may develop and operate in compliance with the subject approvals and the Zoning Ordinance in effect at the time of the subject approvals, even"
+      },
+      {
+        "topic": "development",
+        "start": 19002,
+        "end": 19011,
+        "match": "site plan",
+        "context": "not comply with the Section 11-31-36 Standards; (2) a data center that has submitted complete applications for required approvals, such as for site plan review or design review, prior to the effective date of this Ordinance may develop and operate in compliance with the Zoning Ordinance in effect at the time of submitting the complete applications , even if"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  }
+]

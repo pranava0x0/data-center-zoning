@@ -1,0 +1,71 @@
+[
+  {
+    "id": "va-lw-reclaimed",
+    "state": "VA",
+    "jurisdiction": "Loudoun Water",
+    "level": "regional",
+    "topic": "reclaimed_water",
+    "scope": "general infrastructure",
+    "summary": "A customer seeking a reclaimed-water connection needs a capacity allocation and construction permit from Loudoun Water. The utility may limit connections based on supply and hydraulics; proximity to a pipeline alone does not guarantee service.",
+    "status": "agency_guidance",
+    "locator": "Reclaimed Water Program \u2192 Reclaimed Water Connections",
+    "url": "https://www.loudounwater.org/commercial-customers/reclaimed-water-program",
+    "authority": "Loudoun Water",
+    "evidence": "Capacity allocations and construction permits for reclaimed water connections",
+    "trigger": "Request to connect to Loudoun Water\u2019s reclaimed-water system"
+  },
+  {
+    "id": "va-spotsylvania-pretreatment",
+    "state": "VA",
+    "jurisdiction": "Spotsylvania County",
+    "level": "county",
+    "topic": "industrial_pretreatment",
+    "scope": "data center specific",
+    "summary": "County Utilities requires an industrial pretreatment permit before a data center discharges to the sanitary sewer. The permit includes monitoring and reporting. This concerns sewer discharge, not water withdrawal.",
+    "status": "agency_guidance",
+    "locator": "Utilities \u2013 Water Reuse Project FAQ \u2192 How is the County protecting infrastructure from cooling water discharges from Data Centers?",
+    "url": "https://www.spotsylvania.va.us/m/faq?cat=75",
+    "authority": "Spotsylvania County Utilities",
+    "evidence": "obtain Industrial Pretreatment Permit before allowing discharge into the sanitary sewer system",
+    "trigger": "Data center discharge to the county sanitary sewer",
+    "geoid": "51177"
+  },
+  {
+    "id": "az-navajo-minor-air",
+    "state": "AZ",
+    "jurisdiction": "Navajo Nation (Arizona portion)",
+    "level": "tribal",
+    "topic": "air_permitting",
+    "scope": "general infrastructure",
+    "summary": "For a covered new source outside a general permit, or an existing source planning a minor modification, the Nation directs the operator to apply at least 90 days before the requested construction start. Check the minor-source regulations for whether permitting or registration applies. This row indexes the Arizona portion; the Nation is not a county or statewide permitting office.",
+    "status": "agency_guidance",
+    "locator": "Air Quality Control Program \u2192 Minor Source Program \u2192 program deadlines",
+    "url": "https://navajoepa.org/air-quality-control-program",
+    "authority": "Navajo Nation Environmental Protection Agency",
+    "evidence": "at least 90 days prior to the requested beginning of construction",
+    "effective": "2024-09-19",
+    "thresholds": [
+      {
+        "metric": "application_lead_time",
+        "operator": ">=",
+        "value": 90,
+        "unit": "days",
+        "context": "Covered new source or existing minor modification."
+      }
+    ]
+  },
+  {
+    "id": "nm-epa-construction-authority",
+    "state": "NM",
+    "jurisdiction": "U.S. EPA (New Mexico coverage areas)",
+    "level": "federal",
+    "topic": "construction_stormwater",
+    "scope": "general infrastructure",
+    "summary": "For eligible construction discharges, EPA lists NMR100000 for the state outside Indian Country and NMR10I000 for most Indian Country within the state. Navajo Reservation lands use the Arizona permit number and Ute Mountain Reservation lands the Colorado number. Check the permit area and additional conditions for the site.",
+    "status": "agency_guidance",
+    "locator": "CGP and MSGP Coverage Areas \u2192 New Mexico row, Construction General Permit",
+    "url": "https://www.epa.gov/npdes/authorization-status-epas-construction-and-industrial-stormwater-programs",
+    "authority": "U.S. Environmental Protection Agency",
+    "evidence": "Navajo Reservation lands (which are covered under Arizona permit number AZR10I000)"
+  }
+]

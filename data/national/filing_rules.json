@@ -1,0 +1,83 @@
+[
+  {
+    "id": "nh-aot-disturbed-area",
+    "state": "NH",
+    "jurisdiction": "New Hampshire",
+    "level": "state",
+    "geoid": "33",
+    "authority": "New Hampshire Department of Environmental Services",
+    "url": "https://gc.nh.gov/rules/state_agencies/env-wq1500.html",
+    "topic": "land disturbance",
+    "reader_title": "How much land will grading disturb?",
+    "summary": "New Hampshire counts earthmoving over ten years. Disturbing more than 100,000 square feet meets one test for significant terrain alteration; the threshold falls to 50,000 if any of the disturbance is in protected shoreland. Other triggers and permit-by-rule provisions can apply.",
+    "locator": "Env-Wq\n1502.60(b), significant terrain alteration; Env-Wq 1503 for permit procedures",
+    "evidence": "cumulatively exceeds 100,000 square feet of area",
+    "scope": "general",
+    "status": "adopted",
+    "thresholds": [
+      {
+        "metric": "disturbed area",
+        "operator": ">",
+        "value": 100000,
+        "unit": "sq ft",
+        "context": "Ten-year cumulative disturbance; general area test"
+      },
+      {
+        "metric": "disturbed area",
+        "operator": ">",
+        "value": 50000,
+        "unit": "sq ft",
+        "context": "Ten-year cumulative disturbance; any portion within protected shoreland"
+      }
+    ]
+  },
+  {
+    "id": "pr-single-operating-permit",
+    "state": "PR",
+    "jurisdiction": "Puerto Rico",
+    "level": "state",
+    "geoid": "72",
+    "authority": "Oficina de Gerencia de Permisos (OGPe)",
+    "url": "https://docs.pr.gov/files/OGPe/Manuales/OGPe%20Manual%20Externo%20PU%20Nuevo%20-%20FINAL.pdf",
+    "topic": "occupancy",
+    "reader_title": "A permit to begin operating a nonresidential building",
+    "summary": "Puerto Rico’s permit office directs new and existing nonresidential buildings and businesses to obtain a Permiso Único to begin or continue operations. This is separate from the permit for construction.",
+    "locator": "OGPe manual for a new Permiso Único, PDF p. 12",
+    "evidence": "el Permiso Único para iniciar o continuar sus operaciones",
+    "scope": "general",
+    "status": "guidance"
+  },
+  {
+    "id": "dc-occupancy",
+    "state": "DC",
+    "jurisdiction": "District of Columbia",
+    "level": "state",
+    "geoid": "11",
+    "authority": "Department of Buildings",
+    "url": "https://dob.dc.gov/page/overview-permitting-process",
+    "topic": "occupancy",
+    "reader_title": "When a building needs a new occupancy certificate",
+    "summary": "The District calls for a new certificate of occupancy after new construction or alteration, or a change in ownership, occupancy load or use. The certificate checks the building’s use against zoning and building codes.",
+    "locator": "Overview of Permitting Process, Certificate of Occupancy",
+    "evidence": "A new C of O is required when new construction or alteration has occurred",
+    "scope": "general",
+    "status": "guidance"
+  },
+  {
+    "id": "dc-commercial-energy-review",
+    "state": "DC",
+    "jurisdiction": "District of Columbia",
+    "level": "state",
+    "geoid": "11",
+    "authority": "Department of Buildings",
+    "url": "https://dob.dc.gov/page/energy-and-green-building-compliance",
+    "topic": "building permit",
+    "reader_title": "Energy documents for a commercial building application",
+    "summary": "For new construction, additions and Level 3 alterations, the District requires an energy worksheet through January 31, 2027. Commercial-code applicants may instead use COMcheck for energy compliance and select the DC 2017 Energy Code.",
+    "locator": "Energy and Green Worksheets Workbook, first paragraph and commercial exception",
+    "evidence": "Permit applications subject to the commercial code may opt to use COMcheck",
+    "scope": "general",
+    "status": "guidance",
+    "expires": "2027-01-31"
+  }
+]

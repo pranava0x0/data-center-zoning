@@ -1,0 +1,19 @@
+{
+  "events": 15,
+  "kinds": {
+    "Synthetic minor air construction permit": 3,
+    "Air permit application": 3,
+    "Expedited application review": 1,
+    "CZC finding in air permit basis": 1,
+    "Air permit public comment": 4,
+    "Public meeting and hearing": 1,
+    "Groundwater withdrawal permit": 1,
+    "Consent agreement on review of groundwater withdrawal permit": 1
+  },
+  "geography": {
+    "markers": 16,
+    "outside": {
+      "place": 12
+    }
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "project": "124556",
+    "action": "125671",
+    "milestone": "1256713891",
+    "type": "Final Verification/Permit Decision Rendered (Agency Action)",
+    "reason": "Target date only",
+    "target": "2027-06-11T00:00:00.000",
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125671",
+    "milestone": "1256718476",
+    "type": "Provisional Notification (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125676",
+    "milestone": "1256766886",
+    "type": "Issuance of a Draft EA / Release for Public Review (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125676",
+    "milestone": "1256766891",
+    "type": "Issuance of a Final EA (Agency Action)",
+    "reason": "Target date only",
+    "target": "2027-06-11T00:00:00.000",
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125676",
+    "milestone": "1256766896",
+    "type": "Issuance of a Supplemental EA (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125676",
+    "milestone": "1256766901",
+    "type": "EA Process Concluded (Agency Action)",
+    "reason": "Target date only",
+    "target": "2027-06-11T00:00:00.000",
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125681",
+    "milestone": "1256816231",
+    "type": "FWS determines ESA Consultation Package is Complete - Informal (Agency Action)",
+    "reason": "Marked not applicable",
+    "target": "2026-07-02T00:00:00.000",
+    "actual": "2026-07-02T00:00:00.000"
+  },
+  {
+    "project": "124556",
+    "action": "125681",
+    "milestone": "1256818591",
+    "type": "FWS Requests Additional Information (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125681",
+    "milestone": "1256818596",
+    "type": "Lead Agency Responds to Additional Information Request (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "124556",
+    "action": "125686",
+    "milestone": "1256863606",
+    "type": "Notification agency will use NEPA substitution approach [36 CFR 800.8(c)] (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126971",
+    "milestone": "1269715871",
+    "type": "Final Verification/Permit Decision Rendered (Agency Action)",
+    "reason": "Target date only",
+    "target": "2027-01-29T00:00:00.000",
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126971",
+    "milestone": "1269718481",
+    "type": "Provisional Notification (Agency Action)",
+    "reason": "Target date only",
+    "target": "2026-11-30T00:00:00.000",
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126976",
+    "milestone": "1269763606",
+    "type": "Notification agency will use NEPA substitution approach [36 CFR 800.8(c)] (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126981",
+    "milestone": "1269816231",
+    "type": "FWS determines ESA Consultation Package is Complete - Informal (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126981",
+    "milestone": "1269818591",
+    "type": "FWS Requests Additional Information (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126981",
+    "milestone": "1269818596",
+    "type": "Lead Agency Responds to Additional Information Request (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126986",
+    "milestone": "1269866886",
+    "type": "Issuance of a Draft EA / Release for Public Review (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126986",
+    "milestone": "1269866891",
+    "type": "Issuance of a Final EA (Agency Action)",
+    "reason": "Target date only",
+    "target": "2027-01-29T00:00:00.000",
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126986",
+    "milestone": "1269866896",
+    "type": "Issuance of a Supplemental EA (Agency Action)",
+    "reason": "No actual completion date",
+    "target": null,
+    "actual": null
+  },
+  {
+    "project": "126036",
+    "action": "126986",
+    "milestone": "1269866901",
+    "type": "EA Process Concluded (Agency Action)",
+    "reason": "Target date only",
+    "target": "2027-01-29T00:00:00.000",
+    "actual": null
+  }
+]

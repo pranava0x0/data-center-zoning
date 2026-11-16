@@ -1,0 +1,181 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "pnnl-centroids.geojson": {
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson"
+    },
+    "census-places.zip": {
+      "sha256": "3c319b5f82c7b81448a40655f0810e4e3ec54f75ca877109967ab247fca2867e",
+      "bytes": 1719371,
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_48_place_500k.zip"
+    },
+    "dallas-0.json.gz": {
+      "sha256": "398f52175374de59bdecef0587f950236783f2220caf22809e0ffb4ad7c03b3e",
+      "bytes": 7416,
+      "url": "https://www.dallasopendata.com/resource/e7gq-4sah.json?%24select=%3Aid+as+rowid%2Cpermit_number%2Cpermit_type%2Cissued_date%2Cwork_description%2Cland_use%2Cstreet_address&%24where=lower%28work_description%29+LIKE+%27%25data%25center%25%27+OR+lower%28work_description%29+LIKE+%27%25data%25centre%25%27+OR+lower%28work_description%29+LIKE+%27%25data%25hall%25%27+OR+lower%28work_description%29+LIKE+%27%25server%25farm%25%27+OR+lower%28land_use%29+LIKE+%27%25data%25center%25%27+OR+lower%28land_use%29+LIKE+%27%25data%25centre%25%27+OR+lower%28land_use%29+LIKE+%27%25data%25hall%25%27+OR+lower%28land_use%29+LIKE+%27%25server%25farm%25%27&%24limit=1000&%24offset=0&%24order=%3Aid"
+    },
+    "austin-0.json.gz": {
+      "sha256": "6f849538e2a85bc9c4ab77a54b708cbfb30159cd5bb81d3fcf04cbf64a70f8f9",
+      "bytes": 18111,
+      "url": "https://data.austintexas.gov/resource/3syk-w9eu.json?%24select=%3Aid+as+rowid%2Cpermit_number%2Cpermit_type_desc%2Cissue_date%2Cstatus_current%2Cdescription%2Cjurisdiction%2Clink%2Coriginal_address1%2Cproject_id%2Cpermit_class%2Cwork_class&%24where=lower%28description%29+LIKE+%27%25data%25center%25%27+OR+lower%28description%29+LIKE+%27%25data%25centre%25%27+OR+lower%28description%29+LIKE+%27%25data%25hall%25%27+OR+lower%28description%29+LIKE+%27%25server%25farm%25%27&%24limit=1000&%24offset=0&%24order=%3Aid"
+    },
+    "fort_worth-ids.json.gz": {
+      "sha256": "a2cec1623a27202097ddfbe9b89d6f2a037e19c2076fc532c444bb8d5c1a576a",
+      "bytes": 719,
+      "url": "https://services5.arcgis.com/3ddLCBXe1bRt7mzj/arcgis/rest/services/CFW_Open_Data_Development_Permits_View/FeatureServer/0/query?where=UPPER%28B1_SPECIAL_TEXT%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28B1_SPECIAL_TEXT%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28B1_SPECIAL_TEXT%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28B1_SPECIAL_TEXT%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Specific_Use%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Specific_Use%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Specific_Use%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Specific_Use%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Use_Type%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Use_Type%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Use_Type%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Use_Type%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json"
+    },
+    "fort_worth-0.json.gz": {
+      "sha256": "94c0fc1f79195aceef93a08760513daee62314c52148446fb6af516590759404",
+      "bytes": 9815,
+      "url": "https://services5.arcgis.com/3ddLCBXe1bRt7mzj/arcgis/rest/services/CFW_Open_Data_Development_Permits_View/FeatureServer/0/query?objectIds=657%2C1298%2C2319%2C2460%2C2679%2C2753%2C2935%2C2974%2C3085%2C3289%2C3725%2C3759%2C3777%2C27684%2C27692%2C27695%2C34662%2C40625%2C73741%2C103815%2C108833%2C113506%2C116627%2C116631%2C116632%2C116633%2C116634%2C116635%2C116636%2C121984%2C137767%2C141801%2C144794%2C146636%2C146637%2C146639%2C146640%2C148000%2C161515%2C175334%2C175336%2C176888%2C177694%2C180243%2C181182%2C181183%2C190900%2C193385%2C203227%2C204482%2C216672%2C217228%2C217229%2C217645%2C218788%2C223043%2C223045%2C230976%2C231755%2C231758%2C231759%2C232303%2C232304%2C232305%2C232306%2C232307%2C232308%2C232309%2C232310%2C244076%2C244077%2C245128%2C248295%2C258324%2C261203%2C261322%2C262367%2C264641%2C270214%2C274105%2C283982%2C284668%2C289290%2C290472%2C293816%2C299017%2C302640%2C302641%2C311965%2C319549%2C332084%2C332086%2C358912%2C370107%2C370316%2C370403%2C372913%2C373083%2C373085%2C377172%2C378682%2C382108%2C382109%2C382110%2C382111%2C383417%2C390021%2C390677%2C390678%2C391227%2C391229%2C391230%2C394712%2C394713%2C396325%2C398675%2C405599%2C415471%2C415477%2C415482%2C415487%2C415491%2C415500%2C415504%2C415509&outFields=ObjectId%2CUnique_ID%2CPermit_No%2CPermit_Type%2CPermit_SubType%2CPermit_Category%2CB1_SPECIAL_TEXT%2CB1_WORK_DESC%2CFull_Street_Address%2CFile_Date%2CCurrent_Status%2CStatus_Date%2CUse_Type%2CSpecific_Use&returnGeometry=false&f=json"
+    },
+    "fort_worth-125.json.gz": {
+      "sha256": "0cd9ae94e2f42a3ebc3f2f6480ae0a13b61c8d34a423080f79bdfbe0b77b92d7",
+      "bytes": 5656,
+      "url": "https://services5.arcgis.com/3ddLCBXe1bRt7mzj/arcgis/rest/services/CFW_Open_Data_Development_Permits_View/FeatureServer/0/query?objectIds=415543%2C415546%2C415549%2C415595%2C415598%2C415601%2C417108%2C417109%2C417110%2C417111%2C417112%2C417113%2C417114%2C417115%2C417116%2C417286%2C417343%2C418526%2C418604%2C418605%2C421534%2C421536%2C421540%2C421543%2C421545%2C421547%2C421550%2C421552%2C421663%2C421667%2C422642%2C422643%2C424117%2C472653%2C472654%2C491921%2C522059%2C527437%2C527521%2C530036%2C534535%2C550837%2C558265%2C558686%2C559002%2C559006%2C561285%2C593775%2C596785%2C640240%2C842915%2C867778%2C870932%2C876362%2C882583%2C886958%2C887230%2C890380%2C896989%2C899741%2C916989%2C916990%2C918559%2C923243%2C923247%2C1175876%2C1175879%2C1223881%2C1223884%2C1235878%2C1241899%2C1241902%2C1263263%2C1337147%2C1337154%2C1342825%2C1342826%2C1347740%2C1347950%2C1347953%2C1347956%2C1385355%2C1386075%2C1386076%2C1386077%2C1386078%2C1386079%2C1386080%2C1386081%2C1386082%2C1407652%2C1407654%2C1407656%2C1407658%2C1407660%2C1407662%2C1407666%2C1408067%2C1620654%2C1622311&outFields=ObjectId%2CUnique_ID%2CPermit_No%2CPermit_Type%2CPermit_SubType%2CPermit_Category%2CB1_SPECIAL_TEXT%2CB1_WORK_DESC%2CFull_Street_Address%2CFile_Date%2CCurrent_Status%2CStatus_Date%2CUse_Type%2CSpecific_Use&returnGeometry=false&f=json"
+    },
+    "san_antonio-c22b1ef2-dcf8-4d77-be1a-ee3638092aab-0.json.gz": {
+      "sha256": "202f3b3e420748a7f70bf36bfc37dc86f556c6f890739cd0c4d848dcb5c26f35",
+      "bytes": 2540,
+      "url": "https://data.sanantonio.gov/api/3/action/datastore_search_sql?sql=SELECT+%22_id%22%2C%22PROJECT+NAME%22%2C%22PERMIT+%23%22%2C%22PERMIT+TYPE%22%2C%22WORK+TYPE%22%2C%22DATE+ISSUED%22%2C%22DATE+SUBMITTED%22%2C%22ADDRESS%22+FROM+%22c22b1ef2-dcf8-4d77-be1a-ee3638092aab%22+WHERE+%22PROJECT+NAME%22+ILIKE+%27%25data%25center%25%27+OR+%22PROJECT+NAME%22+ILIKE+%27%25data%25centre%25%27+OR+%22PROJECT+NAME%22+ILIKE+%27%25data%25hall%25%27+OR+%22PROJECT+NAME%22+ILIKE+%27%25server%25farm%25%27+ORDER+BY+%22_id%22+LIMIT+1000+OFFSET+0"
+    },
+    "san_antonio-c21106f9-3ef5-4f3a-8604-f992b4db7512-0.json.gz": {
+      "sha256": "11f82668f9c1a9d56f0696996a2e1bf3860dd40a801924c26b2fb808fcfac7ce",
+      "bytes": 1059,
+      "url": "https://data.sanantonio.gov/api/3/action/datastore_search_sql?sql=SELECT+%22_id%22%2C%22PROJECT+NAME%22%2C%22PERMIT+%23%22%2C%22PERMIT+TYPE%22%2C%22WORK+TYPE%22%2C%22DATE+ISSUED%22%2C%22DATE+SUBMITTED%22%2C%22ADDRESS%22+FROM+%22c21106f9-3ef5-4f3a-8604-f992b4db7512%22+WHERE+%22PROJECT+NAME%22+ILIKE+%27%25data%25center%25%27+OR+%22PROJECT+NAME%22+ILIKE+%27%25data%25centre%25%27+OR+%22PROJECT+NAME%22+ILIKE+%27%25data%25hall%25%27+OR+%22PROJECT+NAME%22+ILIKE+%27%25server%25farm%25%27+ORDER+BY+%22_id%22+LIMIT+1000+OFFSET+0"
+    },
+    "EABPRJB7817251.html.gz": {
+      "sha256": "749d4876aead4db3f268abd38fa3eb1dfff3bda6ccc0847f4a8e07aee5da3254",
+      "bytes": 4732,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/EABPRJB7817251"
+    },
+    "EABPRJB9805926.html.gz": {
+      "sha256": "30f1deda74765f8e3053916e0802508b3f2337a7ae0a8f23bc02bca10d7869a4",
+      "bytes": 4768,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/EABPRJB9805926"
+    },
+    "TABS2020019742.html.gz": {
+      "sha256": "8dabf9b68cc57f0264220a8a6f60c1378a7f08a82fc81aaa5f1e2faa075c7018",
+      "bytes": 4658,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2020019742"
+    },
+    "TABS2024002257.html.gz": {
+      "sha256": "797268ea395f7b3a272baecd59b1d00e8cf65e78b9a4419426b214570b7ba8c1",
+      "bytes": 4649,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024002257"
+    },
+    "TABS2024005161.html.gz": {
+      "sha256": "96cfe63f2566891b053927cfd6410654479adf6b3ae3de75269c7d80b60ad245",
+      "bytes": 4610,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024005161"
+    },
+    "TABS2024005712.html.gz": {
+      "sha256": "e3242e8fb0782976b69318fa5467177b60be7cb8350a1631e99617d47cf06d75",
+      "bytes": 4759,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024005712"
+    },
+    "TABS2024014061.html.gz": {
+      "sha256": "d7a6135126ccb963b8410ee682830fb1d46560845199fb5f297bea89ba2b995f",
+      "bytes": 4706,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024014061"
+    },
+    "TABS2024015786.html.gz": {
+      "sha256": "3b54936f91e6736f1fff509b352331a61aa43ac1bd3a0da6b0d583246c325c49",
+      "bytes": 4714,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024015786"
+    },
+    "TABS2024019837.html.gz": {
+      "sha256": "20ce269b8765d3e30bfd8e6e46b88ddc5feed0427d46bfde53da2eaebe34a992",
+      "bytes": 4725,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024019837"
+    },
+    "TABS2024020378.html.gz": {
+      "sha256": "5110595b7e53e422532674bf990b3cf4aeff7fb91288df9e7adf6b0c97575728",
+      "bytes": 4559,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024020378"
+    },
+    "TABS2024021896.html.gz": {
+      "sha256": "953f13e8201191cb29266b3620bed464153bae260a5b7fec705d14d4e3e6a12b",
+      "bytes": 4674,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024021896"
+    },
+    "TABS2024023596.html.gz": {
+      "sha256": "dff17be18c671995a89690d80a4163a4b77c4d699bd19e95aa2bf74347a777ca",
+      "bytes": 4749,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2024023596"
+    },
+    "TABS2025000049.html.gz": {
+      "sha256": "4de63401a261cddf4535c28c5a1ef326bff772d607280277d65e23658850ffab",
+      "bytes": 4677,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2025000049"
+    },
+    "TABS2025000114.html.gz": {
+      "sha256": "43595f13314d4063b18bd4bd6bb815c8cf605726fd8a66d20a721f6795004805",
+      "bytes": 4707,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2025000114"
+    },
+    "TABS2025000574.html.gz": {
+      "sha256": "87d747315e267aebe9073806929d174809dac71ba38972bcede8171d210b7b1f",
+      "bytes": 4618,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2025000574"
+    },
+    "TABS2025010215.html.gz": {
+      "sha256": "f5ba117e45f993863c0dc3bd776525d1dad47fa07ab7b96bf129eb09d89cbf1c",
+      "bytes": 4717,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2025010215"
+    },
+    "TABS2025012139.html.gz": {
+      "sha256": "ebd8cfee5e7e6f8e77bb6bf9a1d2c0b6f1256c3234748062a4adac05b00bac4d",
+      "bytes": 4712,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2025012139"
+    },
+    "TABS2026003740.html.gz": {
+      "sha256": "89894b25e3b85027cad5b2368b6c9e45401c5a4847733248bfaf0bbd9c22cf4c",
+      "bytes": 4786,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2026003740"
+    },
+    "TABS2026008231.html.gz": {
+      "sha256": "f713bc1fec2cfc1a32ead5d08983f39b249c6e800564fe61015a4260fad8811b",
+      "bytes": 4645,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2026008231"
+    },
+    "TABS2026009183.html.gz": {
+      "sha256": "2e461b6956553af5a66d3c3a5881a3ad679e8628a6eaebec096bcd68e95f53a3",
+      "bytes": 4675,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2026009183"
+    },
+    "TABS2026023537.html.gz": {
+      "sha256": "3439a384fa315fc382ea861e66bebc3d789aa3c949df36502a607bf6a5bf2155",
+      "bytes": 4765,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2026023537"
+    },
+    "TABS2027000435.html.gz": {
+      "sha256": "a5753f2469bd12f45c88362ed708a224499a5f861b63d277204e1136a483d382",
+      "bytes": 4657,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2027000435"
+    },
+    "TABS2027000488.html.gz": {
+      "sha256": "b8ce70bb7ae44bc1b86e6f06b1ccb34719433fdf6491024a09beae77ed0f08f9",
+      "bytes": 4767,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2027000488"
+    },
+    "TABS2027003693.html.gz": {
+      "sha256": "09b99c07795e040b9da04047bdebf32200d9368184d315e9f87e02c85f77314f",
+      "bytes": 4747,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2027003693"
+    },
+    "TABS2027004996.html.gz": {
+      "sha256": "14b0d2a6379a1f2312e896be7fdd33cfcff35db7b2f4d8eeeacf024b06b71ea8",
+      "bytes": 4810,
+      "url": "https://www.tdlr.texas.gov/TABS/Projects/TABS2027004996"
+    },
+    "abilene-government-reader.json": {
+      "sha256": "2fbb04e19e62f5dfa481c6186ea70b820799a8dee3374a097eb37a2f8c3892b8",
+      "bytes": 724,
+      "url": "https://www.abilenetx.gov/729/Current-Plats-Site-Plans",
+      "method": "Government page excerpt, pinned; requires web-reader review on refresh"
+    }
+  }
+}

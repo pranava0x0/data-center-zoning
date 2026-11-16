@@ -1,0 +1,69 @@
+{
+  "check": "fail",
+  "upstream_releases": 5,
+  "upstream_feature_rows": 34466,
+  "states": {
+    "MN": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 3764,
+      "government_roster": 3643,
+      "local_search": {
+        "Not visited": 924,
+        "No listed website": 2013
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 38,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 11,
+        "Engineering, subdivision & land": 2,
+        "Land use & zoning": 2,
+        "Unclassified — review": 23
+      },
+      "history_stages": {
+        "Completion or archive status, not evidence of issuance": 10,
+        "Issuance reported": 1,
+        "Other source status; inspect record": 27
+      },
+      "history_datasets": {
+        "Chaska Cloud HQ municipal decisions": 7,
+        "Minneapolis CCS construction permits": 11,
+        "Minnesota EQB environmental review notices": 20
+      },
+      "unmapped_history_kinds": {
+        "Concept approval": 2,
+        "Environmental review / AUAR update": 2,
+        "Environmental review / EAW": 2,
+        "Environmental review / Large AUAR": 16,
+        "Final AUAR adoption": 1
+      },
+      "distinct_identified_permits": 11,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 10,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {
+        "decision": 7,
+        "notice": 20
+      },
+      "unrecognized_permit_semantics": {}
+    }
+  },
+  "curated_source_checks": [],
+  "errors": [
+    {
+      "source": "history taxonomy",
+      "id": "MN",
+      "reason": "Unmapped kinds: Concept approval, Environmental review / AUAR update, Environmental review / EAW, Environmental review / Large AUAR, Final AUAR adoption"
+    }
+  ],
+  "warnings": [],
+  "units": "Rule rows, jurisdiction-frame rows and permit events are separate units. Passing checks do not measure legal accuracy or discovery recall."
+}

@@ -1,0 +1,2 @@
+node tests/viewer.mjs
+UAT passed: 1010 assertions across four viewports, HTTP and file://.

@@ -1,0 +1,45 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_54_place_500k.zip",
+      "bytes": 258698,
+      "sha256": "a9a2b5c9d9e319fafb204c58aa84c5e184a19fee515c7be8c7ad33e1c23d7cb5"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "cumulus.pdf": {
+      "url": "https://apps.dep.wv.gov/Documents/DAQ/NSRPermits/079-00208/Draft/079-00208APP.pdf",
+      "bytes": 11962564,
+      "sha256": "01de37265d358dc7411d3fa3e132cbac1a00420dd8d870da6e9b09cfba6e297a"
+    },
+    "enforcement.html.gz": {
+      "url": "https://dep.wv.gov/news/Pages/WVDEP-Issues-Enforcement-Order-Following-Stormwater-Violations-at-Monarch-Cloud-Campus-Construction-Site.aspx",
+      "bytes": 27557,
+      "sha256": "1724d6c3e8028710c5ed5a8069f336e00f2d46f7716849e0b678fa6712baea65"
+    },
+    "eval.pdf": {
+      "url": "https://dep.wv.gov/news/SiteAssets/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus/Preliminary%20Determination%20R14-0042.pdf",
+      "bytes": 6954563,
+      "sha256": "7e5d3d6b9a58ce01cf765cef02dff2f4b2c36b074a678eebd5837ca7d274cc77"
+    },
+    "monarch.html.gz": {
+      "url": "https://dep.wv.gov/news/Pages/Public-Comment-Period-and-Public-Participation-Opportunities-for-Monarch-Cloud-Campus.aspx",
+      "bytes": 31585,
+      "sha256": "5862e60b3e6373cb7bb443eed299b968a71b76e0cd20261678ac4916b93ad13d"
+    },
+    "nsr.html.gz": {
+      "url": "https://dep.wv.gov/daq/permitting/Pages/NSR-Permit-Applications.aspx",
+      "bytes": 20247,
+      "sha256": "ff545e7691896862b48fcb99c2d1da0989699b3e1e5e25c8b04268843dd2559c"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    }
+  }
+}

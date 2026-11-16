@@ -1,0 +1,193 @@
+{
+  "miami": {
+    "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0",
+    "fields": [
+      "ProjectName",
+      "ScopeOfWork"
+    ],
+    "out": [
+      "PermitNumber",
+      "ApplicationNumber",
+      "FULLADDR",
+      "FOLIO",
+      "PermitStatus",
+      "PermitIssuedDate",
+      "MasterPermitStatus",
+      "ScopeOfWork",
+      "ProjectName",
+      "PermitType",
+      "ApplicationType",
+      "ApplicationStatusDate",
+      "MasterPermitNumber"
+    ]
+  },
+  "dade": {
+    "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1",
+    "fields": [
+      "FFRMLINE",
+      "PROPUSE"
+    ],
+    "out": [
+      "ID",
+      "PROCNUM",
+      "ADDRESS",
+      "FOLIO",
+      "TYPE",
+      "PROPUSE",
+      "APPTYPE",
+      "FFRMLINE",
+      "MPRMTNUM",
+      "ISSUDATE",
+      "BLDCMPDT",
+      "BPSTATUS",
+      "DESC1"
+    ]
+  },
+  "tampa": {
+    "url": "https://arcgis.tampagov.net/arcgis/rest/services/Planning/PermitsAll/FeatureServer/0",
+    "fields": [
+      "PROJECTNAME1",
+      "PROJECTNAME2",
+      "PROJECTDESCRIPTION"
+    ],
+    "out": [
+      "RECORD_ID",
+      "PROJECTNAME1",
+      "PROJECTNAME2",
+      "PROJECTDESCRIPTION",
+      "ADDRESS",
+      "PROJECTSTATUS",
+      "RECORDTYPE",
+      "LASTUPDATE",
+      "CREATEDDATE",
+      "URL"
+    ]
+  },
+  "water_files": {
+    "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/0",
+    "fields": [
+      "PROJECT_NAME"
+    ],
+    "out": [
+      "APP_NO",
+      "PERMIT_NO",
+      "PROJECT_NAME",
+      "Link",
+      "APP_PERMIT_NO",
+      "MostRecentApp",
+      "AppTypeDesc",
+      "PermitFamily",
+      "PermitSubFamilyDesc",
+      "PermitType",
+      "ApplicantName",
+      "ApplicantCompanyName",
+      "AppStatus",
+      "PermitStatus",
+      "LandUse",
+      "AppFinalActionDate",
+      "IssueDate",
+      "PermitExpirationDate",
+      "IsSWM",
+      "FEE_PERMIT_TYPE",
+      "IsTestData",
+      "AppReceivedDate",
+      "LegalCompDate",
+      "IsInPermitView"
+    ]
+  },
+  "water_permits": {
+    "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/2",
+    "fields": [
+      "PROJECT_NAME"
+    ],
+    "out": [
+      "APP_NO",
+      "PERMIT_NO",
+      "APP_PERMIT_NO",
+      "PROJECT_NAME",
+      "MostRecentApp",
+      "AppTypeDesc",
+      "PermitFamily",
+      "PermitSubFamilyDesc",
+      "PermitType",
+      "ApplicantName",
+      "ApplicantCompanyName",
+      "AppStatus",
+      "PermitStatus",
+      "LandUse",
+      "AppFinalActionDate",
+      "IssueDate",
+      "PermitExpirationDate",
+      "Link",
+      "IsSWM",
+      "FEE_PERMIT_TYPE",
+      "IsTestData",
+      "AppReceivedDate",
+      "LegalCompDate",
+      "IsInPermitView"
+    ]
+  },
+  "hills": {
+    "url": "https://maps.hillsboroughcounty.org/arcgis1a/rest/services/SDEMapServices/RegulatoryZoning/MapServer/3",
+    "fields": [
+      "JOB_TITLE"
+    ],
+    "out": [
+      "PERMIT__",
+      "COMP_TYPE",
+      "STATUS_1",
+      "Issued",
+      "PARCEL_NO",
+      "ADDRESS",
+      "CITY_1",
+      "JOB_TITLE",
+      "PERMIT_TYPE"
+    ]
+  },
+  "miami_parcel": {
+    "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0",
+    "fields": [
+      "ProjectName",
+      "ScopeOfWork"
+    ],
+    "out": [
+      "PermitNumber",
+      "ApplicationNumber",
+      "FULLADDR",
+      "FOLIO",
+      "PermitStatus",
+      "PermitIssuedDate",
+      "MasterPermitStatus",
+      "ScopeOfWork",
+      "ProjectName",
+      "PermitType",
+      "ApplicationType",
+      "ApplicationStatusDate",
+      "MasterPermitNumber"
+    ],
+    "where": "FOLIO='0101030801050'"
+  },
+  "dade_parcel": {
+    "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1",
+    "fields": [
+      "FFRMLINE",
+      "PROPUSE"
+    ],
+    "out": [
+      "ID",
+      "PROCNUM",
+      "ADDRESS",
+      "FOLIO",
+      "TYPE",
+      "PROPUSE",
+      "APPTYPE",
+      "FFRMLINE",
+      "MPRMTNUM",
+      "ISSUDATE",
+      "BLDCMPDT",
+      "BPSTATUS",
+      "DESC1"
+    ],
+    "where": "FOLIO='3049330410015'"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "jurisdiction": "AR",
+  "started_utc": "2026-11-16T22:52:22+00:00",
+  "steps": [
+    {
+      "step": "collectors/arkansas/history.py --refresh",
+      "rc": 0,
+      "seconds": 27.2,
+      "tail": ""
+    },
+    {
+      "step": "collectors/federal/epa_named_water_permits.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "collectors/federal/faa_obstruction_evaluations.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "AR",
+    "ok": true,
+    "rows": 29,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "collectors/arkansas/history.py",
+        "seconds": 1.5,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/epa_named_water_permits.py",
+        "seconds": 0.2,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/faa_obstruction_evaluations.py",
+        "seconds": 23.5,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "output/history/arkansas/history.json": "37506559afd5983f0c680f81568e2e73db58a413b5f54f7a1b2fa0c1c6803c9a",
+      "output/history/federal/faa_obstruction_evaluations/arkansas.json": "21e1945d416bbeb259ff93d52a9a816cdee566148b5727b11459f08d884d63f2",
+      "output/history/federal/epa_named_water_permits/arkansas.json": "868b8b969ac661e2d46b3fb4fb3323ffb121b93f9c26788652b26b8e5868341d"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "ar-air-2273-A-Admin-Complete",
+      "ar-air-2273-A-Received",
+      "ar-air-2507-AOP-R0-Admin-Complete",
+      "ar-air-2507-AOP-R0-Received",
+      "ar-air-2507-AOP-R1-Admin-Complete",
+      "ar-air-2507-AOP-R1-Received",
+      "ar-air-2517-AOP-R0-Admin-Complete",
+      "ar-air-2517-AOP-R0-Received",
+      "ar-air-2519-AOP-R0-Admin-Complete",
+      "ar-air-2519-AOP-R0-Received",
+      "ar-air-HQN-PPDC-B03ZW-Received",
+      "ar-air-HQR-RV9M-ZB672-Received",
+      "ar-misc-undated-HQN-PPDC-B03ZW",
+      "ar-misc-undated-HQR-RV9M-ZB672"
+    ]
+  },
+  "finished_utc": "2026-11-16T22:53:40+00:00"
+}

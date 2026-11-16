@@ -1,0 +1,36 @@
+{
+  "identified_reviews": 69,
+  "dated_events": 117,
+  "per_state": {
+    "CA": 4,
+    "GA": 21,
+    "IN": 3,
+    "LA": 3,
+    "NC": 10,
+    "NE": 4,
+    "OR": 15,
+    "SC": 5,
+    "VA": 52
+  },
+  "held": [],
+  "dashboard_overlaps": [
+    [
+      "NAO-2021-02695-RRS",
+      "esa",
+      "2026-06-09",
+      [
+        "fast-1256813811"
+      ]
+    ],
+    [
+      "NAO-2021-02695-RRS",
+      "esa",
+      "2026-07-02",
+      [
+        "fast-1256813816",
+        "fast-1256813821"
+      ]
+    ]
+  ],
+  "unit": "Agency-reported review starts/ends. Same-day start and close count once, and no additional permits are inferred."
+}

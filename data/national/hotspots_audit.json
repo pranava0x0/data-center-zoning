@@ -1,0 +1,345 @@
+{
+  "unit": "PNNL IM3 mapped markers, not a facility census or electrical capacity. Zero markers is not evidence of no projects.",
+  "source": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+  "states": {
+    "VA": {
+      "markers": 392,
+      "unmatched": {
+        "place": 139
+      }
+    },
+    "TX": {
+      "markers": 220,
+      "unmatched": {
+        "place": 74
+      }
+    },
+    "CA": {
+      "markers": 114,
+      "unmatched": {
+        "place": 4
+      }
+    },
+    "OH": {
+      "markers": 92,
+      "unmatched": {
+        "place": 15,
+        "cousub": 18
+      }
+    },
+    "GA": {
+      "markers": 58,
+      "unmatched": {
+        "place": 17
+      }
+    },
+    "AZ": {
+      "markers": 71,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "NY": {
+      "markers": 37,
+      "unmatched": {
+        "place": 10,
+        "cousub": 20
+      }
+    },
+    "IL": {
+      "markers": 63,
+      "unmatched": {
+        "place": 4,
+        "cousub": 9
+      }
+    },
+    "FL": {
+      "markers": 17,
+      "unmatched": {
+        "place": 3
+      }
+    },
+    "PA": {
+      "markers": 47,
+      "unmatched": {
+        "place": 41,
+        "cousub": 3
+      }
+    },
+    "WA": {
+      "markers": 70,
+      "unmatched": {
+        "place": 12
+      }
+    },
+    "IN": {
+      "markers": 18,
+      "unmatched": {
+        "place": 10,
+        "cousub": 0
+      }
+    },
+    "NJ": {
+      "markers": 59,
+      "unmatched": {
+        "place": 22,
+        "cousub": 21
+      }
+    },
+    "OR": {
+      "markers": 134,
+      "unmatched": {
+        "place": 43
+      }
+    },
+    "NC": {
+      "markers": 26,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "MN": {
+      "markers": 17,
+      "unmatched": {
+        "place": 1,
+        "cousub": 16
+      }
+    },
+    "MO": {
+      "markers": 22,
+      "unmatched": {
+        "place": 0,
+        "cousub": 21
+      }
+    },
+    "CO": {
+      "markers": 27,
+      "unmatched": {
+        "place": 7
+      }
+    },
+    "MI": {
+      "markers": 12,
+      "unmatched": {
+        "place": 6,
+        "cousub": 6
+      }
+    },
+    "TN": {
+      "markers": 24,
+      "unmatched": {
+        "place": 6
+      }
+    },
+    "NV": {
+      "markers": 39,
+      "unmatched": {
+        "place": 16
+      }
+    },
+    "UT": {
+      "markers": 22,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "IA": {
+      "markers": 60,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "MD": {
+      "markers": 13,
+      "unmatched": {
+        "place": 2
+      }
+    },
+    "OK": {
+      "markers": 11,
+      "unmatched": {
+        "place": 2
+      }
+    },
+    "MA": {
+      "markers": 3,
+      "unmatched": {
+        "place": 1,
+        "cousub": 2
+      }
+    },
+    "WI": {
+      "markers": 15,
+      "unmatched": {
+        "place": 2,
+        "cousub": 13
+      }
+    },
+    "NE": {
+      "markers": 25,
+      "unmatched": {
+        "place": 5,
+        "cousub": 25
+      }
+    },
+    "KY": {
+      "markers": 6,
+      "unmatched": {
+        "place": 1
+      }
+    },
+    "WY": {
+      "markers": 25,
+      "unmatched": {
+        "place": 17
+      }
+    },
+    "ND": {
+      "markers": 13,
+      "unmatched": {
+        "place": 11,
+        "cousub": 2
+      }
+    },
+    "KS": {
+      "markers": 7,
+      "unmatched": {
+        "place": 0,
+        "cousub": 6
+      }
+    },
+    "MS": {
+      "markers": 11,
+      "unmatched": {
+        "place": 5
+      }
+    },
+    "SC": {
+      "markers": 16,
+      "unmatched": {
+        "place": 12
+      }
+    },
+    "AL": {
+      "markers": 13,
+      "unmatched": {
+        "place": 3
+      }
+    },
+    "CT": {
+      "markers": 5,
+      "unmatched": {
+        "place": 2,
+        "cousub": 0
+      }
+    },
+    "LA": {
+      "markers": 5,
+      "unmatched": {
+        "place": 1
+      }
+    },
+    "NM": {
+      "markers": 18,
+      "unmatched": {
+        "place": 1
+      }
+    },
+    "WV": {
+      "markers": 2,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "NH": {
+      "markers": 3,
+      "unmatched": {
+        "place": 1,
+        "cousub": 1
+      }
+    },
+    "HI": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "AR": {
+      "markers": 2,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "ID": {
+      "markers": 4,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "AK": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "MT": {
+      "markers": 3,
+      "unmatched": {
+        "place": 1
+      }
+    },
+    "SD": {
+      "markers": 2,
+      "unmatched": {
+        "place": 1,
+        "cousub": 1
+      }
+    },
+    "DE": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "ME": {
+      "markers": 3,
+      "unmatched": {
+        "place": 1,
+        "cousub": 1
+      }
+    },
+    "RI": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "DC": {
+      "markers": 1,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "PR": {
+      "markers": 2,
+      "unmatched": {
+        "place": 0
+      }
+    },
+    "VT": {
+      "markers": 1,
+      "unmatched": {
+        "place": 1,
+        "cousub": 0
+      }
+    },
+    "AS": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "GU": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "MP": {
+      "markers": 0,
+      "unmatched": {}
+    },
+    "VI": {
+      "markers": 0,
+      "unmatched": {}
+    }
+  }
+}

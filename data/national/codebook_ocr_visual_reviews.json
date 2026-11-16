@@ -1,0 +1,189 @@
+{
+  "ocr-edgewood-district": {
+    "url": "https://edgewoodtexas.org/wp-content/uploads/2026/06/Ordinance-060826-2-Zoning-Regulations-regarding-Data-Centers.pdf",
+    "sha256": "d432a536fe5e550f08bb56219374fe21e2567fb372dc140588e85feeff0b6f1c",
+    "page": 1,
+    "method": "Read the rendered page against enacting ordinance, p. 1. Signed June 8, 2026 on p. 1. Cover designates section 25; the incorporated exhibit labels itself section 24. Cite the exhibit letters for the technical standards.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "e65477964b6f48ba46ee041bc31ea1f7f2084df8139c84048bb5f9822a4b6a08",
+    "review_png": "review/d432a536-1.png",
+    "image_sha256": "a3b148f3447f157066a98d251f550e7f4595b5b6c71850ef24db6168f1a233d7"
+  },
+  "ocr-edgewood-noise": {
+    "url": "https://edgewoodtexas.org/wp-content/uploads/2026/06/Ordinance-060826-2-Zoning-Regulations-regarding-Data-Centers.pdf",
+    "sha256": "d432a536fe5e550f08bb56219374fe21e2567fb372dc140588e85feeff0b6f1c",
+    "page": 4,
+    "method": "Read the rendered page against exhibit F(4), PDF p. 4. Signed June 8, 2026 on p. 1. Cover designates section 25; the incorporated exhibit labels itself section 24. Cite the exhibit letters for the technical standards.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "0f0d0bb515012e167fe33bc74bb093b4e0422d04551aa7d57af2929aa0e79073",
+    "review_png": "review/d432a536-4.png",
+    "image_sha256": "35b7ab24c8aff7dc873aee8c1f49ea47649e18f303e39628a03fdd67ae811b51"
+  },
+  "ocr-edgewood-services": {
+    "url": "https://edgewoodtexas.org/wp-content/uploads/2026/06/Ordinance-060826-2-Zoning-Regulations-regarding-Data-Centers.pdf",
+    "sha256": "d432a536fe5e550f08bb56219374fe21e2567fb372dc140588e85feeff0b6f1c",
+    "page": 5,
+    "method": "Read the rendered page against exhibit I(1)–(7), PDF p. 5. Signed June 8, 2026 on p. 1. Cover designates section 25; the incorporated exhibit labels itself section 24. Cite the exhibit letters for the technical standards.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "395084d5ca075ca37ebe77d9e4c877a95e1ec14a51239a72acc12807e56e4cb0",
+    "review_png": "review/d432a536-5.png",
+    "image_sha256": "ba991668e519e2257d4012f075ac3d0531a60f4992e1f661dc93b7a99a9e3843"
+  },
+  "ocr-edgewood-batteries": {
+    "url": "https://edgewoodtexas.org/wp-content/uploads/2026/06/Ordinance-060826-2-Zoning-Regulations-regarding-Data-Centers.pdf",
+    "sha256": "d432a536fe5e550f08bb56219374fe21e2567fb372dc140588e85feeff0b6f1c",
+    "page": 4,
+    "method": "Read the rendered page against exhibit H, PDF p. 4. Signed June 8, 2026 on p. 1. Cover designates section 25; the incorporated exhibit labels itself section 24. Cite the exhibit letters for the technical standards.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "0f0d0bb515012e167fe33bc74bb093b4e0422d04551aa7d57af2929aa0e79073",
+    "review_png": "review/d432a536-4.png",
+    "image_sha256": "35b7ab24c8aff7dc873aee8c1f49ea47649e18f303e39628a03fdd67ae811b51"
+  },
+  "ocr-damascus-district": {
+    "url": "https://damascustwp.org/wp-content/uploads/2026/10/Ordinance-NO-5-2026-Data-Centers-and-Associated-Supplementary-Facilities-Standards.pdf",
+    "sha256": "8bdde92a91a06bce1e716de3831596e7f6df308799f1183332205c762c268921",
+    "page": 4,
+    "method": "Read the rendered page against §435.1, PDF p. 4. Read p. 18 signature and five-day effective clause; signed October 19, 2026.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "9e270687286795117c4ddf557ff1f2e5dc25212dbffa9929dfec4f7bd5c266ed",
+    "review_png": "review/8bdde92a-4.png",
+    "image_sha256": "bc1a247fd5096db4f7a411edb640b7010f39a9103367ac0484b5af6dbcc5d1a2"
+  },
+  "ocr-damascus-dimensional": {
+    "url": "https://damascustwp.org/wp-content/uploads/2026/10/Ordinance-NO-5-2026-Data-Centers-and-Associated-Supplementary-Facilities-Standards.pdf",
+    "sha256": "8bdde92a91a06bce1e716de3831596e7f6df308799f1183332205c762c268921",
+    "page": 4,
+    "method": "Read the rendered page against §435.3(A)–(C), PDF p. 4. Read p. 18 signature and five-day effective clause; signed October 19, 2026.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "9e270687286795117c4ddf557ff1f2e5dc25212dbffa9929dfec4f7bd5c266ed",
+    "review_png": "review/8bdde92a-4.png",
+    "image_sha256": "bc1a247fd5096db4f7a411edb640b7010f39a9103367ac0484b5af6dbcc5d1a2"
+  },
+  "ocr-damascus-renewable": {
+    "url": "https://damascustwp.org/wp-content/uploads/2026/10/Ordinance-NO-5-2026-Data-Centers-and-Associated-Supplementary-Facilities-Standards.pdf",
+    "sha256": "8bdde92a91a06bce1e716de3831596e7f6df308799f1183332205c762c268921",
+    "page": 6,
+    "method": "Read the rendered page against §435.4(C), PDF p. 6. Read p. 18 signature and five-day effective clause; signed October 19, 2026.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "4d7a68a7578bd78a810fb918061a41e8c50c83461121e46f4ccfcab51a515515",
+    "review_png": "review/8bdde92a-6.png",
+    "image_sha256": "083a516c035e64c7657557c2c212e5937e9452c923c409eadf59665e9aa4a31b"
+  },
+  "ocr-damascus-generation": {
+    "url": "https://damascustwp.org/wp-content/uploads/2026/10/Ordinance-NO-5-2026-Data-Centers-and-Associated-Supplementary-Facilities-Standards.pdf",
+    "sha256": "8bdde92a91a06bce1e716de3831596e7f6df308799f1183332205c762c268921",
+    "page": 6,
+    "method": "Read the rendered page against §435.5(A), PDF p. 6. Read p. 18 signature and five-day effective clause; signed October 19, 2026.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "4d7a68a7578bd78a810fb918061a41e8c50c83461121e46f4ccfcab51a515515",
+    "review_png": "review/8bdde92a-6.png",
+    "image_sha256": "083a516c035e64c7657557c2c212e5937e9452c923c409eadf59665e9aa4a31b"
+  },
+  "ocr-damascus-wastewater": {
+    "url": "https://damascustwp.org/wp-content/uploads/2026/10/Ordinance-NO-5-2026-Data-Centers-and-Associated-Supplementary-Facilities-Standards.pdf",
+    "sha256": "8bdde92a91a06bce1e716de3831596e7f6df308799f1183332205c762c268921",
+    "page": 8,
+    "method": "Read the rendered page against §435.7(H), PDF p. 8. Read p. 18 signature and five-day effective clause; signed October 19, 2026.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "581d990d3ee7f666678fa262fe5b1daef64767af7506b178c6af92ac7d5574a5",
+    "review_png": "review/8bdde92a-8.png",
+    "image_sha256": "a54ebfb83cf19262c3a7350ec44dfe83c99f7536f9b6e1462aa225540a704c57"
+  },
+  "ocr-franklin-york-industrial": {
+    "url": "https://franklintownship.org/wp-content/uploads/O-2026-2.pdf",
+    "sha256": "eae213879da7b6350a1e90410b9af2e1f016581cc2d307e2ed2a1825c16068d7",
+    "page": 3,
+    "method": "Read the rendered page against §2 and §419A(A), PDF p. 3. The cover is an earlier proposed notice. The clerk certifies final adoption on June 10, 2026 in the executed packet, p. 14.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "a52b6f555d2ca155aec9a240dd9258f63655c3921fa4f5cff9bea137b3bf5afb",
+    "review_png": "review/eae21387-3.png",
+    "image_sha256": "b3f5aa80997dbfd52ed36d146efde2c670e3f075ab1d70890fab0c7fc878e7d5"
+  },
+  "ocr-franklin-york-threshold": {
+    "url": "https://franklintownship.org/wp-content/uploads/O-2026-2.pdf",
+    "sha256": "eae213879da7b6350a1e90410b9af2e1f016581cc2d307e2ed2a1825c16068d7",
+    "page": 3,
+    "method": "Read the rendered page against §419A(B)(1)–(2), PDF p. 3. The cover is an earlier proposed notice. The clerk certifies final adoption on June 10, 2026 in the executed packet, p. 14.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "a52b6f555d2ca155aec9a240dd9258f63655c3921fa4f5cff9bea137b3bf5afb",
+    "review_png": "review/eae21387-3.png",
+    "image_sha256": "b3f5aa80997dbfd52ed36d146efde2c670e3f075ab1d70890fab0c7fc878e7d5"
+  },
+  "ocr-marshfield-fdl-classification": {
+    "url": "https://www.townmarshfield.com/files/ordinances/zoning-amendment.pdf",
+    "sha256": "7d86f67fba463a7cc4de6aa88af1d2ed1134bf34e55890179de7769e056b355f",
+    "page": 2,
+    "method": "Read the rendered page against §11.8(1)(b), (2)(b),(k), (3)(k),(n), PDF p. 2. Read the express exclusions and execution by the town chair and clerk, dated May 11, 2026, p. 3.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "ecf985cb6d95f35b7be4463f7bbbd0cb8457fdc53ad8e0fc9f544063f15f05b8",
+    "review_png": "review/7d86f67f-2.png",
+    "image_sha256": "fcae8342c508c7e3875625579d4acae609fdb978e93dc992f96318a6e51f833a"
+  },
+  "ocr-north-centre-infra": {
+    "url": "https://northcentretownship.com/wp-content/uploads/2026/08/North-Centre-Township-Zoning-Ordinance-176-183.pdf",
+    "sha256": "5a30091574c53e9c595d87467c709065227b33bf2e1b318ea87350560d66c916",
+    "page": 2,
+    "method": "Read the rendered page against (2)(a), PDF p. 2 (printed 170). The township’s ordinance adoption notice records July 15, 2026. Physical PDF pages 2–3 correspond to printed pages 170–171.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "aa9a2aa6fc28b405769aaf1b0a5b761fd7cb3139b11a420e45d5e88cb659845a",
+    "review_png": "review/5a300915-2.png",
+    "image_sha256": "eef0972a46b6492c3339f37bfe850b09cc9311b5dbb9969347e9632646a84ab9"
+  },
+  "ocr-north-centre-fire": {
+    "url": "https://northcentretownship.com/wp-content/uploads/2026/08/North-Centre-Township-Zoning-Ordinance-176-183.pdf",
+    "sha256": "5a30091574c53e9c595d87467c709065227b33bf2e1b318ea87350560d66c916",
+    "page": 3,
+    "method": "Read the rendered page against (2)(d), PDF p. 3 (printed 171). The township’s ordinance adoption notice records July 15, 2026. Physical PDF pages 2–3 correspond to printed pages 170–171.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "d714fadccc069a53fe6ad78ca2862a0fb35c7aaf3093ccebbfaa3802ca512a3c",
+    "review_png": "review/5a300915-3.png",
+    "image_sha256": "f386fbdf483672081df9c704f7c665cbd27e4f446fe9d29201fba1e02bab4eb8"
+  },
+  "ocr-north-centre-buffer": {
+    "url": "https://northcentretownship.com/wp-content/uploads/2026/08/North-Centre-Township-Zoning-Ordinance-176-183.pdf",
+    "sha256": "5a30091574c53e9c595d87467c709065227b33bf2e1b318ea87350560d66c916",
+    "page": 3,
+    "method": "Read the rendered page against (2)(e), PDF p. 3 (printed 171). The township’s ordinance adoption notice records July 15, 2026. Physical PDF pages 2–3 correspond to printed pages 170–171.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "d714fadccc069a53fe6ad78ca2862a0fb35c7aaf3093ccebbfaa3802ca512a3c",
+    "review_png": "review/5a300915-3.png",
+    "image_sha256": "f386fbdf483672081df9c704f7c665cbd27e4f446fe9d29201fba1e02bab4eb8"
+  },
+  "ocr-north-centre-noise": {
+    "url": "https://northcentretownship.com/wp-content/uploads/2026/08/North-Centre-Township-Zoning-Ordinance-176-183.pdf",
+    "sha256": "5a30091574c53e9c595d87467c709065227b33bf2e1b318ea87350560d66c916",
+    "page": 3,
+    "method": "Read the rendered page against (2)(f), PDF p. 3 (printed 171). The township’s ordinance adoption notice records July 15, 2026. Physical PDF pages 2–3 correspond to printed pages 170–171.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "d714fadccc069a53fe6ad78ca2862a0fb35c7aaf3093ccebbfaa3802ca512a3c",
+    "review_png": "review/5a300915-3.png",
+    "image_sha256": "f386fbdf483672081df9c704f7c665cbd27e4f446fe9d29201fba1e02bab4eb8"
+  },
+  "ocr-belleville-il-special": {
+    "url": "https://www.belleville.net/DocumentCenter/View/14109/ORDINANCE_9460-2026_ZONING_-IN-RE-CASE-6-JAN26_CITY-OF-BELLEVILLE-ZONING-CODE-AMENDMENT_SHORT-TERM-RENTAL",
+    "sha256": "4ec6de704a6072eb1041fc6e7b987914f02cbac61be3c1ef4f49ec04416a73b6",
+    "page": 4,
+    "method": "Read the rendered page against §§162.308(O) and 162.323(P), PDF p. 4. Read the original color page with green insertions, headings and City Council passage on February 2, 2026. Publication is a condition; effective date is not inferred.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-16",
+    "ocr_text_sha256": "6b6b0e0816d0e156c7c5463e4ad70f1d1ace74fd7287cda06c1f6b610cebe3db",
+    "review_png": "review/4ec6de70-4.png",
+    "image_sha256": "1e6adb3244eefdb3d17468a076642596952079f72646805cdad65bd5064440d0"
+  }
+}

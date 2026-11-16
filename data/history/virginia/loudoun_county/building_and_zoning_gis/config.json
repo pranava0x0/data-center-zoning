@@ -1,0 +1,100 @@
+{
+  "as_of": "2026-11-15",
+  "timezone": "America/New_York",
+  "batch_size": 125,
+  "like_terms": [
+    "%DATA%CENT%",
+    "%DATA%CTR%",
+    "%DATA%HALL%",
+    "%SERVER%FARM%",
+    "%COLOCATION%FACILIT%",
+    "%CO-LOCATION%FACILIT%",
+    "%CO LOCATION%FACILIT%"
+  ],
+  "patterns": {
+    "data_center": "\\bdata[\\s_-]*(?:processing[\\s_-]+)?(?:cent(?:er|re)|ctr)s?\\b",
+    "data_hall": "\\bdata[\\s_-]*halls?\\b",
+    "server_farm": "\\bserver[\\s_-]+farms?\\b",
+    "colocation_facility": "\\bco[- ]?location[\\s_-]+facilit(?:y|ies)\\b"
+  },
+  "layers": [
+    {
+      "key": "plans",
+      "label": "Loudoun land-use applications",
+      "base": "https://logis.loudoun.gov/gis/rest/services/Projects/LOLA_DATA/MapServer/0",
+      "oid": "OBJECTID",
+      "guid": "PlanGuid",
+      "number": "PlanNumber",
+      "name": "PlanName",
+      "description": "PlanDescription",
+      "type": "PlanType",
+      "status": "PlanStatus",
+      "date": "PlanApplicationDate",
+      "date_role": "application date",
+      "text_fields": [
+        "PlanName",
+        "PlanDescription"
+      ],
+      "extras": [
+        "Shp_Source"
+      ],
+      "role": "land_use"
+    },
+    {
+      "key": "permits",
+      "label": "Loudoun issued permits",
+      "base": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1",
+      "oid": "ID",
+      "guid": "PermitGUID",
+      "number": "PermitNumber",
+      "name": null,
+      "description": "DESCRIPTION",
+      "type": "PermitType",
+      "status": "PermitStatus",
+      "date": "ISSUEDATE",
+      "date_role": "issue date",
+      "text_fields": [
+        "DESCRIPTION"
+      ],
+      "extras": [
+        "PermitWorkClass",
+        "APPLYDATE",
+        "FINALIZEDATE",
+        "DataSnapshot",
+        "ParcelPIN"
+      ],
+      "role": "issued"
+    },
+    {
+      "key": "submitted",
+      "label": "Loudoun submitted permits",
+      "base": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/2",
+      "oid": "ID",
+      "guid": "PermitGUID",
+      "number": "PermitNumber",
+      "name": null,
+      "description": "DESCRIPTION",
+      "type": "PermitType",
+      "status": "PermitStatus",
+      "date": "APPLYDATE",
+      "date_role": "application date",
+      "text_fields": [
+        "DESCRIPTION"
+      ],
+      "extras": [
+        "PermitWorkClass",
+        "ISSUEDATE",
+        "FINALIZEDATE",
+        "APPLYDATE",
+        "DataSnapshot",
+        "ParcelPIN"
+      ],
+      "role": "submitted"
+    }
+  ],
+  "jurisdiction": "Loudoun County, VA",
+  "id_prefix": "va-loudoun",
+  "artifacts": {
+    "cache": "cache/history/loudoun"
+  }
+}

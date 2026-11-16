@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-library-hut8-aggregate",
+    "state": "LA",
+    "jurisdiction": "St. Francisville",
+    "county": "West Feliciana Parish",
+    "dataset": "Army Corps Digital Library project actions",
+    "record_no": "MVN-2025-00741-CO",
+    "project": "HUT 8 AI Data Center — temporary aggregate offloading",
+    "kind": "District public notice of application",
+    "status": "Public notice published",
+    "date": "2026-02-09",
+    "date_role": "notice publication date",
+    "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10863/download",
+    "source_url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10863/download",
+    "source_sha256": "89d433d237a84b94928b4d4de96260fa1f9366df8bfff4e19db5f5231c41cb49",
+    "locator": "pp. 1–2, date, permit application, location and Overall Project Purpose",
+    "details": {
+      "federal_issuer": "US Army Corps of Engineers",
+      "scope": "The applicant proposed a temporary barge unloading and aggregate stockpile area for construction of the named campus. The location is the support work site, not an inferred data hall footprint. No permit issuance is stated.",
+      "corps_file": "MVN-2025-00741-CO",
+      "document_id": 10863,
+      "library_record": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/10863",
+      "library_metadata_sha256": "797ce5e7bca30c3d4840e18ed9588cad0159895873d7e74c3cc2fb11c4b90f8c",
+      "association": "off-site project support",
+      "district": "United States. Army. Corps of Engineers. New Orleans District"
+    }
+  }
+]

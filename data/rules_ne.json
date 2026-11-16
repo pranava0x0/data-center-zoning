@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ne-sarpy-special",
+    "state": "NE",
+    "geoid": "31153",
+    "level": "county",
+    "jurisdiction": "Sarpy County",
+    "topic": "conditional use",
+    "scope": "data center specific",
+    "summary": "In the county\u2019s General Business (BG) district, data centers require a special use permit. This is county zoning; it is not automatically the rule within Papillion or another municipality.",
+    "status": "adopted",
+    "authority": "Sarpy County Board of Commissioners",
+    "url": "https://www.sarpy.gov/DocumentCenter/View/7675/Zoning-Regulations-adopted-by-Resolution-2024-030-complete-document",
+    "locator": "Zoning Regulations, Resolution 2024-030 (approved 2024-01-23), \u00a720.2.4, General Business district; \u00a740",
+    "evidence": "20.2.4 Data Centers.",
+    "effective_date": null
+  },
+  {
+    "id": "ne-sarpy-permitted",
+    "state": "NE",
+    "geoid": "31153",
+    "level": "county",
+    "jurisdiction": "Sarpy County",
+    "topic": "by right",
+    "scope": "data center specific",
+    "summary": "Data centers are listed among permitted principal uses in the Heavy General Business (BGH) and Light Industrial (IL) districts of the county zoning jurisdiction. District development, overlay and building requirements remain applicable.",
+    "status": "adopted",
+    "authority": "Sarpy County Board of Commissioners",
+    "url": "https://www.sarpy.gov/DocumentCenter/View/7675/Zoning-Regulations-adopted-by-Resolution-2024-030-complete-document",
+    "locator": "Zoning Regulations, Resolution 2024-030 (approved 2024-01-23), \u00a721.1.7, BGH; \u00a722.1.9, IL",
+    "evidence": "21.1.7 Data Centers.",
+    "effective_date": null
+  }
+]

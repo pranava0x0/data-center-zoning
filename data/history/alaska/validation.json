@@ -1,0 +1,19 @@
+{
+  "events": 65,
+  "datasets": {
+    "Anchorage permit records": 11,
+    "Anchorage inspection and review actions": 43,
+    "Alaska DNR project decisions": 8,
+    "FERC preliminary permit applications": 3
+  },
+  "held": [
+    [
+      "10 4311",
+      "Administrative parent to hold converted reviews; no independent permit."
+    ]
+  ],
+  "geography": {
+    "markers": 0,
+    "outside": {}
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "unit": "Mapped IM3 centroid records; campus and building geometries may overlap; unverified names retained",
+  "version": "2026.11.02",
+  "boundary_vintage": "2026 BAS incorporated places",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2718%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "indiana_total": 18,
+  "counties": {
+    "St. Joseph County": 10,
+    "Bartholomew County": 2,
+    "Tippecanoe County": 2,
+    "Hancock County": 1,
+    "Lake County": 1,
+    "Monroe County": 1,
+    "Morgan County": 1
+  },
+  "places": {
+    "Outside incorporated places": 12,
+    "Columbus city": 2,
+    "West Lafayette city": 2,
+    "Bloomington city": 1,
+    "Hammond city": 1
+  },
+  "points": [
+    {
+      "county": "Tippecanoe County",
+      "place": "West Lafayette city",
+      "type": "point",
+      "label": "Learning GIS!",
+      "operator": null
+    },
+    {
+      "county": "Tippecanoe County",
+      "place": "West Lafayette city",
+      "type": "point",
+      "label": "Agricultural and Biological Engineering",
+      "operator": null
+    },
+    {
+      "county": "Monroe County",
+      "place": "Bloomington city",
+      "type": "building",
+      "label": "IU Data Center",
+      "operator": "Indiana University"
+    },
+    {
+      "county": "Hancock County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": "Verizon Wireless"
+    },
+    {
+      "county": "Bartholomew County",
+      "place": "Columbus city",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "Lake County",
+      "place": "Hammond city",
+      "type": "building",
+      "label": "Digital Crossroad",
+      "operator": "Digital Crossroad"
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "building",
+      "label": null,
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "campus",
+      "label": "Microsoft Granger Data Center",
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "campus",
+      "label": "Microsoft Granger Data Center",
+      "operator": null
+    },
+    {
+      "county": "St. Joseph County",
+      "place": "Outside incorporated places",
+      "type": "campus",
+      "label": "Amazon AWS Data Center",
+      "operator": null
+    },
+    {
+      "county": "Morgan County",
+      "place": "Outside incorporated places",
+      "type": "campus",
+      "label": null,
+      "operator": "Google"
+    },
+    {
+      "county": "Bartholomew County",
+      "place": "Columbus city",
+      "type": "campus",
+      "label": "DartPoints Columbus",
+      "operator": "DartPoints"
+    }
+  ]
+}

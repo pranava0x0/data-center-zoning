@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gu-case-6a602215416bc",
+    "state": "GU",
+    "dataset": "Guam Hybrid Land Use Commission minutes",
+    "jurisdiction": "Tamuning municipality",
+    "county": "",
+    "record_no": "2021-24A",
+    "project": "TeleGuam cable landing station and data center",
+    "kind": "Conditional use permit",
+    "status": "Approved with conditions",
+    "date": "2022-05-12",
+    "date_role": "Commission vote",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=10",
+    "source_url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "source_sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+    "locator": "Meeting minutes pp. 4–5 (PDF 10–11), separate motions",
+    "details": {
+      "decision": "The commission approved the conditional use for a cable landing station and data center on two specified Tamuning lots.",
+      "evidence": "to approve Application No. 2021-24A"
+    }
+  },
+  {
+    "id": "gu-case-8a8fd0ebcff29",
+    "state": "GU",
+    "dataset": "Guam Hybrid Land Use Commission minutes",
+    "jurisdiction": "Tamuning municipality",
+    "county": "",
+    "record_no": "2021-24B",
+    "project": "TeleGuam cable landing station and data center",
+    "kind": "Height variance",
+    "status": "Approved with conditions",
+    "date": "2022-05-12",
+    "date_role": "Commission vote",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=10",
+    "source_url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "source_sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+    "locator": "Meeting minutes pp. 4–5 (PDF 10–11), separate motions",
+    "details": {
+      "decision": "The commission approved the separate height variance for the same project.",
+      "evidence": "2021-24B"
+    }
+  }
+]

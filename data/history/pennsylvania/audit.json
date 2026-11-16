@@ -1,0 +1,28 @@
+{
+  "projects": 76,
+  "raw": 408,
+  "published": 125,
+  "held": {
+    "Not Yet Submitted": 282,
+    "Pending": 1
+  },
+  "gov_source": "https://gis.dep.pa.gov/DataCenterPermitTracker/",
+  "counties_in_permit_table": {
+    "Luzerne County": 50,
+    "Lackawanna County": 6,
+    "Schuylkill County": 10,
+    "Lehigh County": 4,
+    "Carbon County": 3,
+    "Bucks County": 7,
+    "Chester County": 2,
+    "Cumberland County": 13,
+    "Lancaster County": 5,
+    "Beaver County": 6,
+    "Bradford County": 1,
+    "Allegheny County": 4,
+    "Westmoreland County": 7,
+    "Mercer County": 4,
+    "Washington County": 1,
+    "": 2
+  }
+}

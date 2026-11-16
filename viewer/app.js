@@ -1,0 +1,110 @@
+'use strict';
+const $=id=>document.getElementById(id),el=(tag,text,cls)=>{const e=document.createElement(tag);if(text!=null)e.textContent=text;if(cls)e.className=cls;return e};
+const A=window.ATLAS,G=window.GEOGRAPHY,H=window.HISTORY_INDEX;
+let federalOnly=false;
+const places=new Map(A.geo.map(g=>[g[0],g])),sn=new Map(A.geo.filter(g=>g[2]==='state').map(g=>[g[1],g[3]]));
+const ok=r=>['snapshot_match','visual_source_check'].includes(r.check),nice=s=>String(s??'').replace(/[_-]/g,' ').replace(/^./,m=>m.toUpperCase());
+function options(s,entries,all){const old=s.value;s.replaceChildren(new Option(all,''),...entries.map(([v,t])=>new Option(t,v)));if([...s.options].some(o=>o.value===old))s.value=old}
+function norm(s,st){const v=String(s||'').toLowerCase().trim().replace(/^(city|town|village) of /,'');return H.nameExceptions[st]?.includes(v)?v:v.replace(/ (city|town|village)$/,'')}
+const byName=new Map();for(const g of A.geo){const k=g[1]+'|'+norm(g[3],g[1]);byName.set(k,byName.has(k)?null:g)}
+function matchPlace(st,name){return byName.get(st+'|'+norm(name,st))}
+const hcounts=new Map();for(const [st,areas] of Object.entries(H.areas)){let sum=0;for(const [name,num] of Object.entries(areas)){const k=st+'|'+norm(name,st);hcounts.set(k,(hcounts.get(k)||0)+num);sum+=num}hcounts.set(st,H.totals[st])}
+function historyCount(st,name){return hcounts.get(name?st+'|'+norm(name,st):st)||0}
+function jkey(r){return r.map_geoid||r.state+':'+r.jurisdiction}
+const scoped=new Map();
+for(const r of A.rules)scoped.set(jkey(r),[r.state,r.jurisdiction]);
+for(const [st,areas] of Object.entries(H.areas))for(const name of Object.keys(areas)){const id=matchPlace(st,name)?.[0]||st+':'+name;if(!scoped.has(id))scoped.set(id,[st,name])}
+let mode='rules',extra='',visible=[],rulePage=0,generation=0,mapOnly=false;let facet="";const stateRows=new Map(),size=8;
+options($('state'),[...sn].sort((a,b)=>a[1].localeCompare(b[1])),'All states');
+options($('family'),[...new Set(A.rules.map(r=>r.category))].sort().map(t=>[t,t]),'All topics');
+options($('pathway'),[...new Set(A.rules.flatMap(r=>r.pathways.map(p=>p.path)))].sort().map(t=>[t,nice(t)]),'All pathways');
+function juris(){const st=$('state').value,d=new Map([...scoped].filter(([id,[s]])=>!st||st===s).map(([id,[s,name]])=>[id,name+(st?'':' · '+s)]));if(extra&&places.has(extra))d.set(extra,places.get(extra)[3]);options($('jur'),[...d].sort((a,b)=>a[1].localeCompare(b[1])),'All jurisdictions')}
+function choose(st,id=''){extra=id;$('state').value=st;juris();$('jur').value=id;update()}
+function alternateStates(rows){const groups=new Map();for(const r of rows){if(!groups.has(r.state))groups.set(r.state,[]);groups.get(r.state).push(r)}const out=[];for(let i=0;out.length<rows.length;i++)for(const list of groups.values())if(i<list.length)out.push(list[i]);return out}
+function ruleTitle(r){if(r.topic==='use-permission'&&r.pathways.length){const paths=[...new Set(r.pathways.map(p=>nice(p.path)))].join(' / ');return paths+(r.district&&r.district.length<32?' · '+r.district:'')}return nice(r.topic)}
+function extLink(label,url){const a=el('a',label);a.href=url;a.target='_blank';a.rel='noopener';return a}
+async function fetchDetails(st){return window.PERMIT_DETAILS[st]??=(unpack(st+'-details'))}
+function showRaw(host,val){if(!val)return;if(typeof val==='string'){host.append(el('p',val));return}
+ const useful=Object.entries(val).filter(([k,v])=>v!=null&&v!==''&&(!Array.isArray(v)||v.length)).sort(([a],[b])=>Number(!/description|classification|project_type|work_class|decision|status|activity/i.test(a))-Number(!/description|classification|project_type|work_class|decision|status|activity/i.test(b)));
+ const dl=el('dl');for(const [k,v] of useful)appendField(dl,nice(k),Array.isArray(v)&&v.every(x=>typeof x==='string')?v.join('; '):v);host.append(dl)}
+const prTerms={
+ 'CONSULTA DE UBICACION':'Location consultation',
+ 'Determinación de Cumplimiento Ambiental vía Exclusión Categórica':'Environmental review: categorical exclusion',
+ 'Permiso para Generadores de Electricidad':'Generator permit',
+ 'Solicitud de Recomendación - Infraestructura':'Infrastructure referral',
+ 'Permiso de Construcción':'Construction permit',
+ 'Solicitud de Recomendación - Salud y Seguridad':'Health and safety referral',
+ 'Permiso de Construcción Consolidado':'Consolidated construction permit',
+ 'Pre-Consulta - Edificabilidad':'Preliminary building review',
+ 'Pre-Consulta - Medioambiente':'Preliminary environmental review',
+ 'Pre-Consulta - Departamento de Evaluación de Cumplimiento Ambiental':'Preliminary environmental compliance review',
+ 'Permiso Único':'Unified operating permit',
+ 'Permiso de Corteza Terrestre':'Earthmoving permit'
+};
+function historyCard(r){const p=el('article',null,'rowcard history-card'),head=el('div',null,'cardhead');head.append(el('h3',r.project||r.record_no||r.kind),extLink('Source',r.url));p.append(head,el('div',[r.locality,r.county&&r.county!==r.locality?r.county:'',r.state,(r.project||'').includes(r.record_no)?'':r.record_no].filter(Boolean).join(' · '),'locality'),el('p',[r.state==='PR'?(prTerms[r.kind]||r.kind):r.kind,r.state==='PR'?({PERMIT_APPROVED:'Approved',PERMIT_CLOSED:'Closed',EXPIRED:'Expired','RESUELTO. ACLARA PARTICULARES':'Resolved; clarification issued'}[r.status]||r.status):r.status,r.federal_issuer].filter(Boolean).join(' · '),'strip brief'));if(r.preview&&(visible.length<=3||(r.record_no&&(r.project||'').startsWith(r.record_no))))p.append(el('p',r.preview,'permit-preview'));p.append(el('div',r.date||r.month?(r.date||r.month)+' · '+r.date_role:'Date not published','history-date'));
+const d=el('details',null,'record'),s=el('summary','Record details'),b=el('div',null,'recbody'),dl=el('dl');appendField(dl,'Permit status',r.permit_reason);if(r.state==='PR'&&prTerms[r.kind])appendField(dl,'Original register entry',r.kind+' · '+r.status);appendField(dl,'Register',r.dataset);appendField(dl,'Source locator',r.locator);appendField(dl,'Record ID',r.id);b.append(dl);d.append(s,b);p.append(d);
+ if(r.case_group){const group=caseRows.get(r.case_group)||[];if(group.length>1){
+   const timeline=el('details',null,'case-timeline');timeline.append(el('summary','Case history ('+group.length+')'));p.append(timeline);
+   timeline.ontoggle=()=>{if(!timeline.open||timeline.querySelector('ol'))return;const list=el('ol');
+     for(const item of [...group].sort((a,b)=>(b.date||b.month||'').localeCompare(a.date||a.month||''))){const li=el('li');li.append(el('time',item.date||item.month||'Undated'),el('span',item.kind+' · '+item.status+' '),extLink('Source',item.url));list.append(li)}timeline.append(list)}
+ }}
+ let busy=false;d.ontoggle=async()=>{if(!d.open||busy||b.dataset.loaded)return;busy=true;try{const raw=await fetchDetails(r.state);b.querySelector('.failure')?.remove();showRaw(b,raw[r.id]);b.dataset.loaded='yes'}catch{if(!b.querySelector('.failure'))b.append(el('p','Extra fields unavailable. Reopen to retry or use Source.','failure'))}finally{busy=false}};return p}
+const caseRows=new Map();
+async function loadState(st){if(!stateRows.has(st)){const rows=unpack(st).map(v=>Object.fromEntries(H.keys.map((k,i)=>[k,v[i]])));for(const r of rows)if(r.case_group){if(!caseRows.has(r.case_group))caseRows.set(r.case_group,[]);caseRows.get(r.case_group).push(r)}stateRows.set(st,rows)}return stateRows.get(st)}
+function summary(rows){
+ const box=$('overview');box.replaceChildren();const cats=new Map();for(const r of rows)cats.set(r.category,(cats.get(r.category)||0)+1);
+ const total=rows.length.toLocaleString(),states=new Set(rows.map(r=>r.state)).size,term=mode==='rules'?(rows.length===1?'rule':'rules'):$('bucket').value?'distinct permits':(rows.length===1?'public record':'public records');
+ const info=el('p',total+' '+term+(states>1?' across '+states+' states and territories':''));box.append(info);
+ if(mode==='permits'&&federalOnly){
+   const only=$('bucket').value,n=rows.filter(r=>r.permit_representative).length;
+   if(only||n){const toggle=el('button',only?'Show all federal records':'Show '+n.toLocaleString()+' distinct '+(n===1?'permit':'permits'),'text-button');toggle.id='federalInstruments';toggle.onclick=()=>{facet='';$('bucket').value=only?'':'permits';mapMetric=only?'active':'permits';update()};info.append(' · ',toggle)}
+ }
+ const wrap=el('div',null,'facets');box.append(wrap);
+ const chooseFacet=key=>{facet=facet===key?'':key;update()};
+ const sorted=[...cats].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));if(!cats.has(facet))facet='';
+ for(const [key,n] of sorted.filter(([k],i)=>i<3||k===facet)){const b=el('button',key+' '+n.toLocaleString());b.setAttribute('aria-pressed',String(key===facet));b.onclick=()=>chooseFacet(key);wrap.append(b)}
+ const other=sorted.slice(3).filter(([k])=>k!==facet);if(other.length){const sel=el('select');sel.setAttribute('aria-label','More topics');sel.append(new Option('More topics',''),...other.map(([k,n])=>new Option(k+' '+n.toLocaleString(),k)));sel.onchange=()=>chooseFacet(sel.value);wrap.append(sel)}
+}
+function render(){const list=$('list'),total=Math.ceil(visible.length/size);list.replaceChildren(...visible.slice(rulePage*size,(rulePage+1)*size).map(mode==='rules'?card:historyCard));if(!visible.length)list.append(el('p',mode==='rules'?'No matching ordinance records.':'No matching permit records in this collection.','empty'));
+ $('totals').textContent=visible.length.toLocaleString();const box=$('rulePages');box.replaceChildren();if(total>1){const prev=el('button','‹'),next=el('button','›');prev.setAttribute('aria-label','Previous page');next.setAttribute('aria-label','Next page');prev.disabled=!rulePage;next.disabled=rulePage>=total-1;prev.onclick=()=>{rulePage--;render()};next.onclick=()=>{rulePage++;render()};box.append(prev,el('span',(rulePage+1)+' / '+total),next)}$('export').disabled=!visible.length}
+function mobileMap(show){mapOnly=show;$('federalOnly').hidden=mode!=='permits'&&!show;$('panels').classList.toggle('map-mode',show);for(const [id,active] of [['showMap',show],['showRecords',!show&&mode==='rules'],['historyLink',!show&&mode==='permits']])$(id).setAttribute('aria-pressed',String(active))}
+function setMode(next){if(next==='rules')federalOnly=false;if(next!==mode){mode=next;$('query').value='';facet=''}$('bucket').value='';mapMetric=next==='permits'?'active':'rules';mobileMap(false);update()}
+function selectMetric(k){if(k==='rules')federalOnly=false;mapMetric=k;mode=k==='rules'?'rules':'permits';$('bucket').value=k==='rules'?'':k;for(const id of ['year','register','family','pathway','query'])$(id).value='';$('held').checked=$('stateRules').checked=false;facet='';mobileMap(mapOnly);update()}
+for(const b of document.querySelectorAll('[data-metric]'))b.onclick=()=>selectMetric(b.dataset.metric);
+$('historyLink').onclick=()=>setMode('permits');$('showRecords').onclick=()=>setMode('rules');$('showMap').onclick=()=>mobileMap(true);
+function displayContext(st,j,name){const box=$('context');box.replaceChildren();box.hidden=!j;if(!j)return;
+ const n=historyCount(st,name),rs=A.rules.filter(r=>jkey(r)===j&&ok(r)).length;
+ if(mode==='rules'&&n||mode==='permits'&&rs){const btn=el('button',mode==='rules'?'See '+n.toLocaleString()+' permit records':'See '+rs+' verified '+(rs===1?'ordinance':'ordinances'));btn.onclick=()=>setMode(mode==='rules'?'permits':'rules');box.append(btn)}
+ const g=places.get(j);if(g&&mode==='rules'&&!rs){const raw=g[6],desc=el('span',localSearchNote(g));box.append(desc);if(g[8])box.append(extLink('Local website',g[8]))}box.hidden=!box.children.length}
+function syncURL(st,j,name){const p=new URLSearchParams();if(st)p.set('state',st);if(j){p.set('id',j);if(name)p.set('area',name)}if(mode==='permits'){p.set('view','permits');if(federalOnly)p.set('issuer','federal');if($('bucket').value)p.set('status',$('bucket').value)}if($('query').value)p.set('q',$('query').value);const hash=p.toString()?'#'+p:'';if(location.hash!==hash)try{history.replaceState(null,'',location.pathname+hash)}catch{}}
+function update(){
+ const seq=++generation,st=$('state').value,j=$('jur').value,g=places.get(j),name=scoped.get(j)?.[1]||g?.[3]||'',q=$('query').value.trim().toLowerCase().split(/\s+/).filter(Boolean);rulePage=0;
+ $('federalGuide').hidden=!federalOnly;$('federalOnly').hidden=mode!=='permits'&&!mapOnly;$('federalOnly').setAttribute('aria-pressed',String(federalOnly));
+ $('query').placeholder=mode==='rules'?'Rule, district or keyword':'Project or permit number';$('resultTitle').textContent=mode==='rules'?'Ordinances':metricNames[$('bucket').value]||(federalOnly?'Federal permit history':'Permit history');
+ $('ruleFilters').hidden=mode!=='rules';$('permitFilters').hidden=mode==='rules';displayContext(st,j,name);syncURL(st,j,name);
+ map(st,j);if($('coverageDetails').open)geoList();
+ const f=$('family').value,path=$('pathway').value;
+ if(mode==='rules'){visible=A.rules.filter(r=>(!st||r.state===st)&&(!j||jkey(r)===j||($('stateRules').checked&&r.level==='state'&&r.state===st))&&(!f||r.category===f)&&(!path||r.pathways.some(p=>p.path===path))&&($('held').checked||ok(r))&&q.every(w=>(r._search??=JSON.stringify(r).toLowerCase()).includes(w)));if(!st&&!j&&!q.length)visible=alternateStates(visible);if(j)visible.sort((a,b)=>Number(!ok(a))-Number(!ok(b))||Number(b.topic==='use-permission')-Number(a.topic==='use-permission'));$('filterButton').textContent=f||path||$('held').checked||$('stateRules').checked?'Filters •':'Filters';summary(visible);if(facet)visible=visible.filter(r=>r.category===facet);render();return}
+ const sources=federalOnly?H.federalMetrics:H.areas,states=st?(sources[st]?[st]:[]):Object.keys(sources);
+ function show(rr){if(seq!==generation)return;const locs=rr.filter(r=>!federalOnly||r.federal_issuer).filter(r=>!j||(g?.[2]==='state'?r.state===g[1]:(norm(r.locality,r.state)===norm(name,r.state)||norm(r.county,r.state)===norm(name,r.state))&&r.state===(st||scoped.get(j)?.[0]||g?.[1])));const year=r=>(r.date||r.month||'').slice(0,4)||'Undated';
+ options($('register'),[...new Set(locs.map(r=>r.dataset))].sort().map(v=>[v,v]),'All registers');options($('year'),[...new Set(locs.map(year))].sort().reverse().map(v=>[v,v]),'All years');
+ const reg=$('register').value,yr=$('year').value,bucket=$('bucket').value;$('filterButton').textContent=reg||yr||bucket?'Filters •':'Filters';visible=locs.filter(r=>(!bucket||(r.permit_representative&&(bucket==='permits'||r.permit_bucket===bucket)))&&(!reg||reg===r.dataset)&&(!yr||yr===year(r))&&q.every(w=>(r._search??=[r.project,r.record_no,r.kind,r.status,r.locality,r.county,r.preview,r.dataset,r.federal_issuer,r.date,r.month].join(' ').toLowerCase()).includes(w)));if(q.length){const exact=visible.filter(r=>String(r.record_no||'').toLowerCase()===q.join(' '));if(exact.length)visible=exact}if(states.length>1)visible.sort((a,b)=>(b.date||b.month||'').localeCompare(a.date||a.month||'')||a.id.localeCompare(b.id));summary(visible);if(facet)visible=visible.filter(r=>r.category===facet);render()}
+ if(states.every(s=>stateRows.has(s))){show(states.flatMap(s=>stateRows.get(s)));return}
+ visible=[];$('overview').replaceChildren();$('list').replaceChildren(el('p','Loading permit records…','empty'));$('totals').textContent='';$('rulePages').replaceChildren();$('export').disabled=true;
+ Promise.all(states.map(loadState)).then(data=>show(data.flat())).catch(()=>{if(seq!==generation)return;const retry=el('button','Retry');retry.onclick=update;$('list').replaceChildren(el('p','Permit records could not be loaded.','empty'),retry)})
+}
+$('state').onchange=()=>{facet='';choose($('state').value)};$('jur').onchange=()=>{facet='';const id=$('jur').value,st=scoped.get(id)?.[0]||places.get(id)?.[1];if(id&&!$('state').value&&st)choose(st,id);else update()};
+for(const id of ['family','held','pathway','stateRules','register','year','bucket'])$(id).onchange=()=>{facet='';if(id==='bucket')mapMetric=$('bucket').value||'rules';update();if($('more').matches(':popover-open'))$('more').hidePopover()};
+$('query').oninput=update;$('geosearch').oninput=geoList;$('coverageDetails').ontoggle=()=>{if($('coverageDetails').open)geoList()};$('national').onclick=()=>choose('');
+$('federalOnly').onclick=()=>{federalOnly=!federalOnly;mode='permits';facet='';$('register').value=$('bucket').value='';mapMetric='active';mobileMap(mapOnly);update()};
+$('reset').onclick=()=>{federalOnly=false;for(const id of ['query','family','pathway','geosearch','year','register','bucket'])$(id).value='';$('held').checked=$('stateRules').checked=false;facet='';mapMetric='rules';choose('')};
+$('export').onclick=()=>{if(!visible.length)return;const cols=mode==='rules'?['id','state','jurisdiction','category','topic','scope','summary','document_status','district','pathways','effective','thresholds','authority','locator','evidence','url','check']:H.keys;
+ const esc=v=>{let s=typeof v==='object'&&v!==null?JSON.stringify(v):String(v??'');if(/^[=+@\-\t\r]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'};const blob=new Blob([[cols,...visible.map(r=>cols.map(k=>r[k]))].map(row=>row.map(esc).join(',')).join('\r\n')],{type:'text/csv;charset=utf-8'});const u=URL.createObjectURL(blob),a=el('a');a.href=u;a.download=mode+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)};
+function openLocation(){
+facet='';for(const id of ['family','pathway','year','register','bucket'])$(id).value='';
+$('held').checked=$('stateRules').checked=false;
+const args=new URLSearchParams(location.hash.slice(1)||location.search),st=args.get('state')==='all'?'':sn.has(args.get('state'))?args.get('state'):args.has('area')?'VA':'';
+mode=args.get('view')==='permits'?'permits':'rules';federalOnly=mode==='permits'&&args.get('issuer')==='federal';mapMetric=mode==='permits'?'active':'rules';$('query').value=args.get('q')||'';if(mode==='permits'&&['active','historical','unconfirmed','permits'].includes(args.get('status'))){mapMetric=args.get('status');$('bucket').value=mapMetric}mobileMap(false);
+const area=args.get('area');choose(st,args.get('id')||matchPlace(st,area)?.[0]||(area&&H.areas[st]?.[area]?st+':'+area:''));
+}
+window.addEventListener('hashchange',openLocation);openLocation();

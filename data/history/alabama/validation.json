@@ -1,0 +1,14 @@
+{
+  "events": 28,
+  "datasets": {
+    "Alabama ADEM synthetic minor air files": 10,
+    "Huntsville occupancy certificates": 6,
+    "Huntsville building permits": 12
+  },
+  "geography": {
+    "markers": 13,
+    "outside": {
+      "place": 3
+    }
+  }
+}

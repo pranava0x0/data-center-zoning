@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "stormwater": ["6a3f36483f14459abcf274412ef6690e", 303, "Construction stormwater general permit action"],
+    "vwp_gp": ["04dfc61324a5406b8fa87fd6184b1faf", 193, "Virginia Water Protection general permit coverage"],
+    "vwp_ip": ["68834b17056f4d789b49e2e6f6cc6168", 192, "Virginia Water Protection individual permit record"],
+    "vwp_np": ["3daa69f3e3a741599bd85e3725a82acb", 191, "Virginia Water Protection non-permit record"],
+    "sswd": ["efef679304ee4b9e80d927b135430e72", 312, "State Surface Waters Determination"],
+    "vpdes_outfalls": ["e27149e12fc744bd989ee304f27bd3e8", 119, "VPDES outfall location"]
+  },
+  "aliases": {
+    "Project Loch": {"locality": "Chesterfield", "url": "https://www.deq.virginia.gov/news-info/shortcuts/controversial-permits/project-loch"},
+    "Project Raspberry": {"locality": "Botetourt", "url": "https://www.deq.virginia.gov/news-info/shortcuts/topics-of-interest/google-s-project-raspberry"}
+  },
+  "vpt_search": ["data", "Project Loch", "Project Raspberry"],
+  "vpt_environmental_programs": ["Stormwater Plan Review","VWPP","Groundwater Withdrawal","VPDES","VPA","Mitigation Banking","Nutrient Banking","Solid Waste","Habitat Management","Drinking Water","Private Wells","Onsite Sewage","Dam Safety"]
+}

@@ -1,0 +1,34 @@
+{
+  "Amazon Data Services BWI final air permit": {
+    "sha256": "2c637a36ee5588e8465a875a98a672f055c43a9298cde7134aa5e240a841e19f",
+    "url": "https://mde.maryland.gov/datacenters/Documents/2026_AmazonDataServicesBWIIssuedPTC.pdf"
+  },
+  "Aligned Data Centers final air permit": {
+    "sha256": "d7d643828e17f70931efc66b2e94cf998ce15c7aa1422218c41f1ce8a5a429af",
+    "url": "https://mde.maryland.gov/programs/land/MarylandBrownfieldVCP/Documents/AlignedDataCenterJan2025IssuedPTC.pdf"
+  },
+  "Rowan Environmental management plan approval (Bauxite II)": {
+    "sha256": "1df0fedd3b7f9fefb9582717586ac365f93ba95422c64a70835a05ca98fc0ab0",
+    "url": "https://mde.maryland.gov/programs/land/MarylandBrownfieldVCP/SiteAssets/Pages/remediationsites/BauxiteII%20EMP%20Approval.pdf"
+  },
+  "Quantum Maryland Permit Water Appropriation and Use Permit FR2025G001(01)": {
+    "sha256": "121f58b4ad51f37a9592896457cdc6fd66f3c6195880b32288641a1ee0cc1fa9",
+    "url": "https://mde.maryland.gov/datacenters/Documents/FR2025G001%20%282%29.pdf"
+  },
+  "Quantum Maryland Permit Water Appropriation and Use Permit FR2023G001(03)": {
+    "sha256": "864fd0111dbd5a0b0387f64281c8a811683e2f14cfac1460c277c38c1d741da0",
+    "url": "https://mde.maryland.gov/datacenters/Documents/FR2023G001%20%282%29.pdf"
+  },
+  "Quantum Maryland Permit Water Appropriation and Use Permit FR2024S001(01)": {
+    "sha256": "84282a42dda5ed1e9ebec3299d20302008c477c47d99a1a29f6edf67c25b6845",
+    "url": "https://mde.maryland.gov/datacenters/Documents/FR2024S001.pdf"
+  },
+  "Quantum Frederick general permit for stormwater discharges letter": {
+    "sha256": "327de1af1fe8e1a692e2f1d2347b91c248f10664d41259f7b72322504cd483be",
+    "url": "https://mde.maryland.gov/programs/land/MarylandBrownfieldVCP/SiteAssets/Pages/remediationsites/Permitting%20Response%20QL_Fnl.pdf"
+  },
+  "MDE rescinding approval of Quantum Maryland environmental plan": {
+    "sha256": "31a0a15cf020fd97b3d812aa16f556a90d671157b71430bcd0e543bfc40a4e9b",
+    "url": "https://mde.maryland.gov/programs/land/MarylandBrownfieldVCP/SiteAssets/Pages/remediationsites/EMPresend.pdf"
+  }
+}

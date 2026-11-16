@@ -1,0 +1,50 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_45_place_500k.zip",
+      "bytes": 638600,
+      "sha256": "f502827f2befaed6b94a7f70185601ec8043e1b2dfb02e794eee65a158e87a4d"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "gan.pdf": {
+      "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/DepartmentDecision.pdf",
+      "bytes": 169982,
+      "sha256": "13f512f9f35eb1745906367c326f543a5ef3c5289e0911263d1f926b95967958"
+    },
+    "ganbase.pdf": {
+      "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/DepartmentDecisions/GannettEnterprises/StatementofBasis.pdf",
+      "bytes": 136775,
+      "sha256": "b65ae40b56af7755b8459b19293412646482574ce03fd2ab06ff3268d2dc57a2"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "val1.pdf": {
+      "url": "https://des.sc.gov/sites/des/files/2026-06/CP-50000316%20v1.0%20-%20AIR-Construction%20Permit.pdf",
+      "bytes": 322500,
+      "sha256": "799f5f576ce67b0acab0e6df9a3da45639546298eab4e83dbab6e804a4197a86"
+    },
+    "val2.pdf": {
+      "url": "https://des.sc.gov/sites/des/files/Documents/BAQ/Valara/ConstructionPermit.pdf",
+      "bytes": 382336,
+      "sha256": "1fae6184c793992ee008c89a4f3f9633428e6526c5f5d5ed7bf1ae70f0162f8b"
+    },
+    "valpage.html.gz": {
+      "url": "https://des.sc.gov/community/community-engagement/environmental-sites-projects/valara-holdings-high-performance-compute-center",
+      "bytes": 70933,
+      "sha256": "891746c85fb98e5459b664549a67e9aceb6d757898043c9085c7566cf34120ee"
+    },
+    "waterboard.pdf": {
+      "url": "https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf",
+      "bytes": 744334,
+      "sha256": "30cca07541dfbad3e1e51750880f3e64fcc996c2e4b8d9fbcfe17aafba19e5ce"
+    }
+  }
+}

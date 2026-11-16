@@ -1,0 +1,50 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_01_place_500k.zip",
+      "bytes": 943429,
+      "sha256": "46e660f394d2ce090487b2506c31a3b00cd2ffba02d04c9b72800f28fa5cf19b"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "dig.html.gz": {
+      "url": "https://adem.alabama.gov/sites/default/files/2026-11/10-26digipower.html",
+      "bytes": 2151,
+      "sha256": "5df9cc92ae199dc280cbb5935f210d588b69a40142c819f4e864bc6a35b5a4fb"
+    },
+    "dot.pdf": {
+      "url": "https://adem.alabama.gov/sites/default/files/2026-09/09-26dotier-analysis.pdf",
+      "bytes": 425980,
+      "sha256": "8d95eb78961fc7b372eec1c4b2e9f2e4863e499e83ceb307530f5e67adcfad05"
+    },
+    "dot25.pdf": {
+      "url": "https://adem.alabama.gov/sites/default/files/2025-09/09-25dotier-analysis.pdf",
+      "bytes": 222591,
+      "sha256": "6a71970989a6ea88191225f68ddb85877d96ff9b184195f58ff58c3f0ae1bb3b"
+    },
+    "hsv-0.json.gz": {
+      "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
+      "bytes": 1180,
+      "sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
+    },
+    "hsv-1.json.gz": {
+      "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
+      "bytes": 1102,
+      "sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
+    },
+    "hsv-identity.html.gz": {
+      "url": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "bytes": 20627,
+      "sha256": "021c9e33bf71c3a07d7f6479cdde009c7cae7b8060db8849452a04ebf951e521"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    }
+  }
+}

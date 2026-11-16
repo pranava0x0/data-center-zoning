@@ -1,0 +1,32 @@
+{
+  "events": 28,
+  "source_pages_screened": 2815,
+  "datasets": {
+    "NJDEP NJPDES bulletin": 5,
+    "NJDEP NJPDES proposed actions": 1,
+    "NJDEP land resource permitting": 17,
+    "NJDEP treatment works applications": 1,
+    "NJSEA zoning certificate case reviews": 3,
+    "Bridgewater Township planning agenda": 1
+  },
+  "statuses": {
+    "Revoked": 1,
+    "Issued": 6,
+    "Proposed permit action": 1,
+    "Application Administratively Complete": 5,
+    "Application Received": 6,
+    "Approved": 2,
+    "Technical Deficiency Information Received": 1,
+    "Technical Information Requested": 1,
+    "Amended Application Received": 1,
+    "Suitability review": 3,
+    "On agenda": 1
+  },
+  "geography": {
+    "markers": 59,
+    "outside": {
+      "place": 22
+    }
+  },
+  "hashed_files": 24
+}

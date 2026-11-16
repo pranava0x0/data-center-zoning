@@ -1,0 +1,250 @@
+[
+  {
+    "state": "NM",
+    "jurisdiction": "New Mexico",
+    "url": "https://www.env.nm.gov/air-quality/permitting-section-home-page/",
+    "depth": 0,
+    "sha256": "14ef28275545f2bd1e70e4118aa3d9ae5dbec333506a5f42e2fbf0f320236a66",
+    "adapter": "html",
+    "error": null,
+    "hits": [],
+    "links": [
+      [
+        3,
+        "https://coda.io/d/Current-Permitting-Actions-Under-Review_dw_kXh6I1El/Current-Permitting-Actions-Under-Review_suKp1",
+        "Current Permitting Actions Under Review"
+      ],
+      [
+        3,
+        "https://www.env.nm.gov/air-quality/air-quality-title-v-operating-permits-guidance-page/",
+        "Title V Operating Permits"
+      ],
+      [
+        3,
+        "https://www.env.nm.gov/air-quality/aqb-epermitting-portal/",
+        "AQB ePermitting Portal"
+      ],
+      [
+        3,
+        "https://www.env.nm.gov/air-quality/permit-fees-2/",
+        "Information on Permit Fees"
+      ],
+      [
+        3,
+        "https://www.env.nm.gov/air-quality/permitting-section-procedures-and-guidance/",
+        "Permitting Procedures and Guidance"
+      ],
+      [
+        3,
+        "https://www.env.nm.gov/air-quality/planning-section/",
+        "Planning"
+      ],
+      [
+        2,
+        "https://www.env.nm.gov/air-quality/wp-content/uploads/sites/2/2021/09/AQBP-APMAP-Instructions-19.07.23.pdf",
+        "Instructions"
+      ],
+      [
+        2,
+        "https://www.env.nm.gov/regulatory-resources/",
+        "Laws and Regulations"
+      ]
+    ],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "New Mexico",
+    "url": "https://www.env.nm.gov/air-quality/air-quality-title-v-operating-permits-guidance-page/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "New Mexico",
+    "url": "https://www.env.nm.gov/air-quality/aqb-epermitting-portal/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "New Mexico",
+    "url": "https://www.env.nm.gov/air-quality/permit-fees-2/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "Santa Fe County",
+    "url": "https://www.santafecountynm.gov/uploads/documents/Ordinance_2026-06.pdf",
+    "depth": 0,
+    "sha256": "067ce148d0f6144e9740b04e4172360cda1a525598e6c153a3a24fc41a31e9d3",
+    "adapter": "scan_needs_review",
+    "error": null,
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "U.S. EPA (New Mexico coverage areas)",
+    "url": "https://www.epa.gov/npdes/authorization-status-epas-construction-and-industrial-stormwater-programs",
+    "depth": 0,
+    "sha256": "e43c8ef8470129b5b32538dd9c5a10a60dc1eabf53570eed0c2cd217e229288a",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "water",
+        "start": 14314,
+        "end": 14326,
+        "match": "Pretreatment",
+        "context": "tewaterexpand or collapse the child menu Combined Sewer Overflows (CSOs) Sanitary Sewer Overflows (SSOs) Peak Flows Integrated Planning National Pretreatment Programexpand or collapse the child menu Standards and Requirements Roles and Responsibilities Events, Training and Webinars, and Publications Pesticide Permitting Stormwaterexpand or collapse the child menu C"
+      }
+    ],
+    "links": [
+      [
+        5,
+        "https://www.epa.gov/system/files/documents/2022-01/2022-cgp-final-appendix-b-areas-of-permit-cover.pdf",
+        "Appendix B of the 2022 CGP - Areas of Permit Coverage (pdf)"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/electronic-reporting-epas-npdes-general-permits",
+        "Electronic Notice of Intent (eNOI)"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/epas-2012-construction-general-permit-cgp-and-related-documents",
+        "Part 9 of the CGP"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/federal-laws-apply-npdes-permit-program",
+        "Other Federal Laws that Apply to the NPDES Permit Program"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/integrated-planning-municipal-stormwater-and-wastewater",
+        "Integrated Planning"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/npdes-permit-basics",
+        "Permit Basics"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/npdes-permit-limits",
+        "Permit Limits"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/oil-and-gas-stormwater-permitting",
+        "Oil and Gas Permitting"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/pesticide-permitting",
+        "Pesticide Permitting"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/resources-permit-writers",
+        "NPDES Permit Writers' Manual"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/resources-permit-writers",
+        "Resources for Permit Writers"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/stormwater-discharges-industrial-activities-epas-2021-msgp",
+        "Appendix C of the 2021 MSGP - Permit Areas Eligible for Coverage"
+      ],
+      [
+        3,
+        "https://www.epa.gov/npdes/stormwater-planning",
+        "Stormwater Planning"
+      ],
+      [
+        3,
+        "https://www.epa.gov/planandbudget",
+        "Planning, Budget, and Results"
+      ],
+      [
+        2,
+        "https://www.epa.gov/laws-regulations",
+        "Laws & Regulations"
+      ],
+      [
+        2,
+        "https://www.epa.gov/laws-regulations/regulations",
+        "Regulations"
+      ],
+      [
+        2,
+        "https://www.epa.gov/npdes/npdes-regulations",
+        "NPDES Regulations"
+      ],
+      [
+        2,
+        "https://www.regulations.gov/",
+        "Regulations.gov"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "U.S. EPA (New Mexico coverage areas)",
+    "url": "https://www.epa.gov/system/files/documents/2022-01/2022-cgp-final-appendix-b-areas-of-permit-cover.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "U.S. EPA (New Mexico coverage areas)",
+    "url": "https://www.epa.gov/npdes/electronic-reporting-epas-npdes-general-permits",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NM",
+    "jurisdiction": "U.S. EPA (New Mexico coverage areas)",
+    "url": "https://www.epa.gov/npdes/epas-2012-construction-general-permit-cgp-and-related-documents",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  }
+]

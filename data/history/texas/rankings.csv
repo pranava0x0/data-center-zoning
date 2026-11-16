@@ -1,0 +1,52 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Bexar County,58,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,2,Taylor County,40,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,3,Dallas County,30,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,4,Collin County,15,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,4,Ellis County,15,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,6,Travis County,14,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,7,Tarrant County,10,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,8,Harris County,7,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,9,Reeves County,5,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,10,Medina County,4,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,11,Bell County,3,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,12,Angelina County,2,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,12,Denton County,2,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,12,El Paso County,2,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,12,Montgomery County,2,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,12,Pecos County,2,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,12,Ward County,2,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Carson County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Dickens County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Hood County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Milam County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Navarro County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Wichita County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+county,18,Williamson County,1,,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,lab supplied
+incorporated_place,1,San Antonio city,46,4865000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,2,Austin city,12,4805000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,2,Red Oak city,12,4861196,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Dallas city,11,4819000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,5,Richardson city,10,4861796,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Allen city,7,4801924,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Fort Worth city,7,4827000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Garland city,7,4829000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,9,Plano city,5,4858016,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,10,Houston city,4,4835000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Midlothian city,3,4848096,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,11,Temple city,3,4872176,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,13,El Paso city,2,4824000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,13,Irving city,2,4837000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,13,Roanoke city,2,4862504,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Euless city,1,4824768,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Lancaster city,1,4841212,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Lufkin city,1,4845072,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Mansfield city,1,4846452,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,McKinney city,1,4845744,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Pflugerville city,1,4857176,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Round Rock city,1,4863500,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Southlake city,1,4869032,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,16,Wichita Falls city,1,4879000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,1,The Woodlands CDP,2,4872656,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,2,Hornsby Bend CDP,1,4834856,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,2,Timberwood Park CDP,1,4873057,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

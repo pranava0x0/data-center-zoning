@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-date-3601057559-0-termination_date",
+    "state": "ID",
+    "jurisdiction": "Chubbuck city",
+    "county": "Bannock County",
+    "project": "ICCU CAMPUS EXPANSION AND DATA CENTER",
+    "record_no": "IDR1000CE",
+    "kind": "Construction stormwater permit coverage",
+    "dataset": "EPA water permit timeline",
+    "date": "2020-04-15",
+    "date_role": "Termination Date",
+    "status": "Terminated",
+    "url": "https://echo.epa.gov/effluent-charts#/IDR1000CE",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS · IDR1000CE · 3601057559 · version 0 · TERMINATION_DATE",
+    "details": {
+      "federal_issuer": "U.S. Environmental Protection Agency",
+      "base_record": "fed-epa-idr1000ce-3601057559-0",
+      "npdes_id": "IDR1000CE",
+      "version": "0",
+      "agency_type": "EP6",
+      "reported_issuer": "U.S. EPA",
+      "field": "TERMINATION_DATE",
+      "program": "NPDES"
+    }
+  }
+]

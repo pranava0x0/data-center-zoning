@@ -1,0 +1,122 @@
+{
+  "collectors": 15,
+  "series": 24,
+  "rows": 3802,
+  "results": [
+    {
+      "collector": "history_loudoun.py",
+      "rows": 1933,
+      "series_sha256": {
+        "loudoun": "3efa67cf4bd543cdfb21f95cf0314f75b26a416c9ed7a18cf4c89282ca4bca30"
+      }
+    },
+    {
+      "collector": "history_oh.py",
+      "rows": 141,
+      "series_sha256": {
+        "oh": "48f77278ba095f64f0c470628671d716c961110e671c3be7a624b0a478d7d6c5"
+      }
+    },
+    {
+      "collector": "history_tx.py",
+      "rows": 650,
+      "series_sha256": {
+        "tx": "6d1e032036976722568d54298a7e48519b6c19ab34e620c9118eff8f2d4924eb"
+      }
+    },
+    {
+      "collector": "history_az.py",
+      "rows": 408,
+      "series_sha256": {
+        "az": "f43920f934927262287cd773dac45fab8850d0db439d07a41f99a37c59a561ff"
+      }
+    },
+    {
+      "collector": "history_in.py",
+      "rows": 458,
+      "series_sha256": {
+        "in": "5b0e756d0a2c2b1df21981d207bc82e1c0426a97da0e430ea3d7cb980653960e"
+      }
+    },
+    {
+      "collector": "history_fairfax.py",
+      "rows": 53,
+      "series_sha256": {
+        "fairfax_va": "14fa4ff649eeec8395a39e32ebc19a587beac3ed7099c615c95a63056a267fe2"
+      }
+    },
+    {
+      "collector": "history_henrico.py",
+      "rows": 10,
+      "series_sha256": {
+        "henrico_va": "7dae539dc6fe530d3d3b0400f307cf04e4cd552a9b5d6178bfd211727a150b75"
+      }
+    },
+    {
+      "collector": "metropriority.py",
+      "rows": 10,
+      "series_sha256": {
+        "metropriority_oh": "771a3e1d11404c87614999aaaf5bdf46e90310865b404fd0eb6d90cbfe8733aa"
+      }
+    },
+    {
+      "collector": "history_elkgrove.py",
+      "rows": 10,
+      "series_sha256": {
+        "elkgrove_il": "70ea50d53c7d9cbc64a07dbdaf4161d911919c370b74a899e203f1009ddec198"
+      }
+    },
+    {
+      "collector": "history_manassas_city.py",
+      "rows": 7,
+      "series_sha256": {
+        "manassascity_va": "7979e159284193be270310d16b34089b50c3ee7b10d81967ff3ca6cb886b335a"
+      }
+    },
+    {
+      "collector": "federal_aviation_letters.py",
+      "rows": 38,
+      "series_sha256": {
+        "faaletters_ca": "37d0d16dff7e76cbe9d8a2fd98a609991d3943bc7e8af7e71a316f4c313cfb6f"
+      }
+    },
+    {
+      "collector": "federal_corps_library.py",
+      "rows": 5,
+      "series_sha256": {
+        "corpslibrary_oh": "313c4a57fd63e80ac3d94e74d97a80ca8389d29a56de9a46d458c11f9c834425",
+        "corpslibrary_or": "f801cdba09aca6211cd2941449c18dbf3bd463bb6b69d6c102359bcab66723fc",
+        "corpslibrary_il": "2382a92a86298bbc350cebb20c306f284e2ebc83586271393544144e04f70e2c",
+        "corpslibrary_la": "783f48368828df36e247e77cecb5a53cad6f82f813ad80f230da6fa1d938e8b4"
+      }
+    },
+    {
+      "collector": "history_federal_va_prior.py",
+      "rows": 9,
+      "series_sha256": {
+        "corpsprior_va": "ce85d79e797ca3817e8ff5d1df2b9b757d5e3072bf544903ecfc455bb1149478"
+      }
+    },
+    {
+      "collector": "history_water_fire_cases.py",
+      "rows": 68,
+      "series_sha256": {
+        "waterfire_az": "dc5c591b13785bb566fb4f96afa859503d1af08f2ad7894a6cc9a2561593dc59",
+        "waterfire_ca": "3db4cb0276be556aa23837c55c95637ad03f578c426ff670aa2ede2d09a68fc4",
+        "waterfire_pa": "12efe9c6ce050bdf40fa482468175527bc3c1af678ba0c230e6072e60584fec6",
+        "waterfire_tx": "9899451384ffef2a1017ddc4a7da5637f7fe9c535d566fdf6ec5219054665491",
+        "waterfire_va": "c862d18070f63e6212bc5f3f1646fc3886c19772fb7b9e79d9bf5b1c6a2231c3",
+        "waterfire_wa": "561d9fcf1ecd88c828fada0f102d679e3a15a4969d042f37214442f34ade33be"
+      }
+    },
+    {
+      "collector": "territory_grant_review.py",
+      "rows": 2,
+      "series_sha256": {
+        "territorygrant_as": "1519ca08f116180e4592c5e428815d1674dcd136c8c5b00e35992ca9dcc669e0",
+        "territorygrant_vi": "4a857ad4984d10e1b5af232247fe32f1ef7c1eb0a175a045831cf207ebdd019d"
+      }
+    }
+  ],
+  "limits": "An offline replay compares the same input bytes. It does not measure retrieval from current portals or completeness of the search."
+}

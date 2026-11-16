@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fed-doe-cx-013962",
+    "state": "IL",
+    "jurisdiction": "DuPage County",
+    "county": "DuPage County",
+    "dataset": "Department of Energy NEPA determinations",
+    "record_no": "CX-013962",
+    "project": "Argonne Enterprise Data Center",
+    "kind": "NEPA categorical exclusion — proposed new data-center building",
+    "status": "Categorical exclusion determined",
+    "date": "2015-07-15",
+    "date_role": "DOE determination date",
+    "url": "https://www.energy.gov/sites/default/files/CX-013962.pdf",
+    "source_url": "https://www.energy.gov/sites/default/files/CX-013962.pdf",
+    "source_sha256": "d06982dca54866bb4c93d7bc7612b2b6c9069927fba99eaa8b24448d748225fc",
+    "locator": "DOE case record, dated July 15; ASO-CX-317, transmittal p. 1, project description p. 2",
+    "details": {
+      "federal_issuer": "Department of Energy",
+      "scope": "DOE reviewed the proposed 12,000-square-foot one-story Argonne Enterprise Data Center. The attached July 20 transmittal communicates the decision; DOE lists July 15 as the determination date. Changes in scope may require further review.",
+      "agency_case_page": "https://www.energy.gov/nepa/articles/cx-013962-categorical-exclusion-determination",
+      "agency_case_sha256": "aed93a88662fabff5229c69dd72466cc92adbfa9fc7c9f0339ca8135879eff70",
+      "activity_reviewed": "proposed new data-center building",
+      "exclusion_class": "B1.15",
+      "location_source": "https://www.energy.gov/nepa/ea-1866-modernization-planning-argonne-national-laboratory-illinois",
+      "location_sha256": "81d1a1bc2eb4d8214e3946aa88644ebcbe24d44770a439667c863e0dcb4e8054",
+      "location_locator": "DOE/EA-1866 introduction; location only"
+    }
+  }
+]

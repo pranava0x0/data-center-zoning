@@ -1,0 +1,31 @@
+{
+  "state": "MS",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 30,
+  "county": {
+    "Madison County": 13,
+    "DeSoto County": 8,
+    "Hinds County": 3,
+    "Warren County": 3,
+    "Lauderdale County": 1,
+    "Oktibbeha County": 1,
+    "Rankin County": 1
+  },
+  "agency_reported_locality": {
+    "Canton": 9,
+    "Southaven": 8,
+    "Ridgeland": 4,
+    "Vicksburg": 3,
+    "Clinton": 2,
+    "Brandon": 1,
+    "Jackson": 1,
+    "Meridian": 1,
+    "Starkville": 1
+  },
+  "datasets": {
+    "Mississippi DEQ enSearch facility permits": 16,
+    "EPA ICIS-NPDES permit versions": 12,
+    "Southaven Board of Aldermen planning decisions": 2
+  },
+  "cross_register_date_matches": 7
+}

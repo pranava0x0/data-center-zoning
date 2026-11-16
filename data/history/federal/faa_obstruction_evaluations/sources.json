@@ -1,0 +1,2450 @@
+{
+  "https://oeaaa.faa.gov/oeaaa/oe3a/main/": {
+    "sha256": "b08076b7cc47bcb367851646aab64842dec5bc936cea3729bffbc04d2ec5dc5f",
+    "bytes": 13517,
+    "retrieved": "2026-11-16T07:29:53+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a/main/"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a/main/components/home/homeView.html": {
+    "sha256": "f89464a59166ddc9785d5276a627d3cc9b9d3e148ad056a875a7fe125de904f7",
+    "bytes": 6213,
+    "retrieved": "2026-11-16T07:29:54+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a/main/components/home/homeView.html"
+  },
+  "https://efiling.energy.ca.gov/GetDocument.aspx?DocumentContentId=63885&tn=232020": {
+    "sha256": "2f9baee3fee130a836b858185d6db56191e3209253f684352f77b145cbd9334d",
+    "bytes": 876677,
+    "retrieved": "2026-11-16T07:29:56+00:00",
+    "resolved": "https://efiling.energy.ca.gov/GetDocument.aspx?DocumentContentId=63885&tn=232020"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a/main/components/download/downloadController.js": {
+    "sha256": "2e7e99c76ef65f7b974a19da78e36545d0c8f5a724c2f14d21ad2f69a5621cfd",
+    "bytes": 7970,
+    "retrieved": "2026-11-16T07:30:41+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a/main/components/download/downloadController.js"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a/main/components/download/downloadView.html": {
+    "sha256": "a19745fd78bfba85f9ecace24d78f67f85596f10a15dcce781cddba6908dbd4a",
+    "bytes": 11938,
+    "retrieved": "2026-11-16T07:30:55+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a/main/components/download/downloadView.html"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a/main/shared/js/services.js": {
+    "sha256": "60897f1828439c17c7b93b2ef1b0117d3fd4230e4c5c8789486a20df931df1fd",
+    "bytes": 55240,
+    "retrieved": "2026-11-16T07:30:56+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a/main/shared/js/services.js"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a/external/portal-api/getReportYearsPerRegion.do": {
+    "sha256": "e0a91a6bc490131040748d89fb62bf5d1cb3a9bb736c2d3c29c5e7adb6dd0e0b",
+    "bytes": 4561,
+    "retrieved": "2026-11-16T07:31:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a/external/portal-api/getReportYearsPerRegion.do"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip": {
+    "sha256": "22b6dcd40c8758040c1d07d1eb36784891b11cec93238d84784a05af050c9a01",
+    "bytes": 12071080,
+    "retrieved": "2026-11-16T07:31:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2019List.gzip": {
+    "sha256": "f3f48c9d62eff3c3294ce24bf47814d4dbe394a778b613c5c3d6690dbd6bafc3",
+    "bytes": 9896145,
+    "retrieved": "2026-11-16T07:31:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2026List.gzip": {
+    "sha256": "68767da860bff2032f111cf8c2511c877366f028f149914aa75fad31b7752769",
+    "bytes": 2553515,
+    "retrieved": "2026-11-16T07:34:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2026List.gzip": {
+    "sha256": "208d734f60a183a5b3bf730d041bc2a625a303bb2e0b92b280df74bb100dfee0",
+    "bytes": 7698521,
+    "retrieved": "2026-11-16T07:34:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip": {
+    "sha256": "081486746aba2279cdddf7e24acef0276409769f8a4e3b3e3270c90efd5e1833",
+    "bytes": 25188060,
+    "retrieved": "2026-11-16T07:34:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2026List.gzip": {
+    "sha256": "35df3d6d07a71790036cb61482b6ba8076e3da2f2eb47e49b0f60c04215d2d9b",
+    "bytes": 3001329,
+    "retrieved": "2026-11-16T07:34:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip": {
+    "sha256": "dee2db6d4420e4619c79b8ca53a726f1198c5b4dd72ee82bb43272d1535e0498",
+    "bytes": 6671789,
+    "retrieved": "2026-11-16T07:34:15+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip": {
+    "sha256": "994cfbc30169a416f9c4111f020f5d3a1cf316df77e63dec4a71248f3be7eb71",
+    "bytes": 24637451,
+    "retrieved": "2026-11-16T07:34:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip": {
+    "sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+    "bytes": 18236017,
+    "retrieved": "2026-11-16T07:34:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip": {
+    "sha256": "02ef42aea79a94e3681f992ed0234f9d26a5f76a3186fa179945f462173be7dd",
+    "bytes": 13445524,
+    "retrieved": "2026-11-16T07:34:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2026List.gzip": {
+    "sha256": "4d74fc859f95e51599d66999772ad219fd6520443b58f4652f41f3d21b17c034",
+    "bytes": 2095895,
+    "retrieved": "2026-11-16T07:34:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2026List.gzip": {
+    "sha256": "3598b1df282858356caadbb3a1bf96d65f0f392968487826ca75cef0454cb59d",
+    "bytes": 4288581,
+    "retrieved": "2026-11-16T07:34:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2026List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2025List.gzip": {
+    "sha256": "f998e71f6834a6d291de2414e8c1b5448653a4475847a9464d53e2127fc6117e",
+    "bytes": 1122972,
+    "retrieved": "2026-11-16T07:34:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2025List.gzip": {
+    "sha256": "0a0c224c4540c6cf7e0b108063e733cf7fc375f3e69b71e83864b49cb90d420e",
+    "bytes": 11995000,
+    "retrieved": "2026-11-16T07:34:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip": {
+    "sha256": "589bafd20e7172f1c31040c4beec3addda766de15a67e05d0f4bca222161443c",
+    "bytes": 18035968,
+    "retrieved": "2026-11-16T07:34:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip": {
+    "sha256": "69c3e55633ede839af00c725cb17358552356bf42cd1711dd299494a85f62daf",
+    "bytes": 29232055,
+    "retrieved": "2026-11-16T07:34:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2025List.gzip": {
+    "sha256": "f0e681464b41a5ecdbc1f5e2a4a8df2e487acfb524442f601e3978e753ec6ed9",
+    "bytes": 4556345,
+    "retrieved": "2026-11-16T07:34:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip": {
+    "sha256": "c3de84df84c132518d5069c99a229ca82a69fe74ca7ed0199dae4ca40f9c2ab8",
+    "bytes": 10398354,
+    "retrieved": "2026-11-16T07:34:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip": {
+    "sha256": "b8f616ca268f39e5486de7e0b07c31f165be70285494777f975d202d68deedae",
+    "bytes": 38369130,
+    "retrieved": "2026-11-16T07:34:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2025List.gzip": {
+    "sha256": "3c816622469f275fbde5d09395e59243204c330f1c8fb6ed80e2bc2a08c6bda7",
+    "bytes": 22326766,
+    "retrieved": "2026-11-16T07:34:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2025List.gzip": {
+    "sha256": "def21c4fc6d3a5f3b544de6dd55d622c876d251eeb9e2df9440428c001007367",
+    "bytes": 15322341,
+    "retrieved": "2026-11-16T07:34:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2025List.gzip": {
+    "sha256": "02acd00574fac44d1c41065f94bbe6e7c4a26629e1a0453ae2c8bf799fe58a90",
+    "bytes": 2964411,
+    "retrieved": "2026-11-16T07:34:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2025List.gzip": {
+    "sha256": "893e05b01e470f43156e06784c0eacd2f0c885fe3976a8b4d98a758e2f1e19da",
+    "bytes": 5320362,
+    "retrieved": "2026-11-16T07:34:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2025List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2024List.gzip": {
+    "sha256": "c9dd1a583fda8b2f68ce6d33e11cf9fdb84c7c6f9ec90a60f705c7191a0f07e1",
+    "bytes": 1348899,
+    "retrieved": "2026-11-16T07:34:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip": {
+    "sha256": "bb687211b9f1eb16daf27e5da627dbd616581cc05529e2afc1921e4b797686b4",
+    "bytes": 9370790,
+    "retrieved": "2026-11-16T07:34:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip": {
+    "sha256": "d76b3384401ced990b0a9656b2e2d4f9ce3039fd19818a08bfc6b11709aa0fe8",
+    "bytes": 14816661,
+    "retrieved": "2026-11-16T07:34:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2024List.gzip": {
+    "sha256": "a509819ee2cb7c726743dfedb5bbdf104d3d208c61f0585963d4acfdd2716a9a",
+    "bytes": 25813015,
+    "retrieved": "2026-11-16T07:34:42+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2024List.gzip": {
+    "sha256": "661b0623a6f036b9a154f6e3f25990a705cc30c25e46409f855359f2717b2cea",
+    "bytes": 4845891,
+    "retrieved": "2026-11-16T07:34:42+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2024List.gzip": {
+    "sha256": "01957de79a62ff6554f527025b592394686c759afb35ba6ba10ee0486541e5b3",
+    "bytes": 9620071,
+    "retrieved": "2026-11-16T07:34:43+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip": {
+    "sha256": "db62d28f408494b5680adc9819491c0d7b4e7b25df98dd8deed04a652b6fbdd5",
+    "bytes": 29656064,
+    "retrieved": "2026-11-16T07:34:46+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2024List.gzip": {
+    "sha256": "6b4c6ab4cb5478bd671a292fe2673bd78011bdceb8ee0e5a7bae5370e06cf48f",
+    "bytes": 20808007,
+    "retrieved": "2026-11-16T07:34:47+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2024List.gzip": {
+    "sha256": "eec254bd4e47943008740ee62c5500138fb47d9b8646e0d5c4ca83dfb23ddfba",
+    "bytes": 12680330,
+    "retrieved": "2026-11-16T07:34:49+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2024List.gzip": {
+    "sha256": "c8dc64544892ae07631fe2fd91cdcb25c4bfa1b510713b7436c9d7e421333c96",
+    "bytes": 3256848,
+    "retrieved": "2026-11-16T07:34:49+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2024List.gzip": {
+    "sha256": "df136f4a130e9777eba775a32c8b43d3a61ce075e0eb9e8e72ccca1c7713352a",
+    "bytes": 4395624,
+    "retrieved": "2026-11-16T07:34:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2024List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2023List.gzip": {
+    "sha256": "9dc272dd6adf4553f8c9a052e820aaed751d7dadea53fceac4fec92dec9b2a12",
+    "bytes": 1395147,
+    "retrieved": "2026-11-16T07:34:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2023List.gzip": {
+    "sha256": "3bf6d9aee9f8d1416bd478c53d5e3def60c70177a185226fe45ccdd0ec8df92a",
+    "bytes": 9801997,
+    "retrieved": "2026-11-16T07:34:51+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip": {
+    "sha256": "5af4077e2b6f7cc0482856d0eba42fa44382f0f4f8b82aa2bab0656eed9eb8df",
+    "bytes": 19190344,
+    "retrieved": "2026-11-16T07:34:53+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2023List.gzip": {
+    "sha256": "3f58b1fad5f5007854082c4c5ad06ebcc1959b4a7a9157ac01d4eef97aefb354",
+    "bytes": 28804888,
+    "retrieved": "2026-11-16T07:34:55+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2023List.gzip": {
+    "sha256": "cc93439dd3900b9d3a7a8a30899dc3614bb38d1c4e19fda1c2238e30d4c3be3a",
+    "bytes": 5326816,
+    "retrieved": "2026-11-16T07:34:56+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2023List.gzip": {
+    "sha256": "dedee6bc64333507dc2e4f092ccb19796e2c572357bf7d3bf352ebf61808a6ed",
+    "bytes": 8432841,
+    "retrieved": "2026-11-16T07:34:57+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2023List.gzip": {
+    "sha256": "02bd80fcad5dc92dba5b344b87708358d43a4bf92bbe7ab3bb9186ec908213b9",
+    "bytes": 37113297,
+    "retrieved": "2026-11-16T07:34:59+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2023List.gzip": {
+    "sha256": "eaeeb13a2fc33576d08c16c6fac72828fe4d2f499a0f5c2892d1cfd72b621e23",
+    "bytes": 22203903,
+    "retrieved": "2026-11-16T07:35:01+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2023List.gzip": {
+    "sha256": "d9c81e2a7c813585602edea8b516bee1cabb1f622cb99ac1101d97efa8f79b8c",
+    "bytes": 12592350,
+    "retrieved": "2026-11-16T07:35:02+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2023List.gzip": {
+    "sha256": "a469f8695f467c46013fb7f31fda2ab9948bdd193e0118afb0dea0d6c9e88c77",
+    "bytes": 2122070,
+    "retrieved": "2026-11-16T07:35:03+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2023List.gzip": {
+    "sha256": "a225f5ae858bce3dd19c8bfdd784a2dec669921979432f0cdc929236f4f9702f",
+    "bytes": 3625034,
+    "retrieved": "2026-11-16T07:35:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2023List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2022List.gzip": {
+    "sha256": "644aa170f4c0454ca93b0e990ad2f49250a23dc15c15cb6ee922f0921b327eb8",
+    "bytes": 919549,
+    "retrieved": "2026-11-16T07:35:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2022List.gzip": {
+    "sha256": "eb1d04e3b32d6da81b561bba45ce6580e4ccc1b505a055e4297b7f575104a9fb",
+    "bytes": 15042739,
+    "retrieved": "2026-11-16T07:35:05+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2022List.gzip": {
+    "sha256": "552c390d13329500aef2d53fbd358e38826e8a14218d1af563134155f2cff4ad",
+    "bytes": 30171837,
+    "retrieved": "2026-11-16T07:35:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2022List.gzip": {
+    "sha256": "49fd2f775d26e3065a2f3770d004248a621d912a01b6b6407ad5d863453abcab",
+    "bytes": 36259899,
+    "retrieved": "2026-11-16T07:35:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2022List.gzip": {
+    "sha256": "4524a6f484a6cb70b0a0d0e512f160f7374b4763dc3463c4d0d6e618a153ea6a",
+    "bytes": 8513658,
+    "retrieved": "2026-11-16T07:35:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2022List.gzip": {
+    "sha256": "2ba7ca4e06a07ca1645318ba3f9e60183882bb1918b73b81e81260a29d1d53c9",
+    "bytes": 11807911,
+    "retrieved": "2026-11-16T07:35:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2022List.gzip": {
+    "sha256": "a10d65c3fd47ea5223b2412a0c5a57994fcb1d601e2247f7b5ce6cb9125e02e2",
+    "bytes": 54199887,
+    "retrieved": "2026-11-16T07:35:16+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2022List.gzip": {
+    "sha256": "d85f4b74ed858d648ee58a85ab2511f7f6be736aab29ebb15c753f18ae646c26",
+    "bytes": 31723916,
+    "retrieved": "2026-11-16T07:35:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2022List.gzip": {
+    "sha256": "869416973bd2164b43420ce87dbf8ada95666554c045d8e138a5e903b671f72d",
+    "bytes": 21698285,
+    "retrieved": "2026-11-16T07:35:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2022List.gzip": {
+    "sha256": "c7e13462d57cf02e4325803c4d6599cc551fd31f2e1719c3f645a8312f12a2fa",
+    "bytes": 1681087,
+    "retrieved": "2026-11-16T07:35:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2022List.gzip": {
+    "sha256": "19ffc7c7cbc9e825d3d2c9d6158c8efb8e5032b62fe6533ec577c9331b146497",
+    "bytes": 2038012,
+    "retrieved": "2026-11-16T07:35:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2022List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2021List.gzip": {
+    "sha256": "7dfd3837f43f9bc11f7095862fbf1c1b8d15161051b386d6494dfcbb4f41fe74",
+    "bytes": 475209,
+    "retrieved": "2026-11-16T07:35:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2021List.gzip": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "retrieved": "2026-11-16T07:35:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2021List.gzip": {
+    "sha256": "b26165be66170ac6f7399071836e8078fed6eaf5bed692a6df3e8fa8d6cd274b",
+    "bytes": 17258565,
+    "retrieved": "2026-11-16T07:35:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2021List.gzip": {
+    "sha256": "93170a3d16ccb67bcbaa08b2c52071c6c6336e2f511019305fbf3bb2b12a5b5c",
+    "bytes": 35374087,
+    "retrieved": "2026-11-16T07:35:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2021List.gzip": {
+    "sha256": "f9e42826046084f91f7410dc1dbdaae82b31fa72479d06f373d8fe74b9a14730",
+    "bytes": 5860840,
+    "retrieved": "2026-11-16T07:35:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2021List.gzip": {
+    "sha256": "85169b2e595fe51155de0e6a5de4fb24e3371759e3ccd313955298e3e6267389",
+    "bytes": 8961541,
+    "retrieved": "2026-11-16T07:35:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2021List.gzip": {
+    "sha256": "44a7f42864dec8f7d13a2cf1ea777183ffa91a89915766ae4bcd2f6443368928",
+    "bytes": 46520750,
+    "retrieved": "2026-11-16T07:35:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2021List.gzip": {
+    "sha256": "c6779ead9cc0befc845861cd3fc4e0074732038015dfe3eb2b2a4137cf24eb52",
+    "bytes": 27688993,
+    "retrieved": "2026-11-16T07:35:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2021List.gzip": {
+    "sha256": "81b6bad45fbc375c770e60979044f8018d52c9f8896617e319f4d1c928c1b8c6",
+    "bytes": 24145693,
+    "retrieved": "2026-11-16T07:35:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2021List.gzip": {
+    "sha256": "25a91fded3567bb7163fc5b1b36c271974da00eaffb0dd92f7b0db4cff0f1c2d",
+    "bytes": 995485,
+    "retrieved": "2026-11-16T07:35:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2021List.gzip": {
+    "sha256": "d544e242e4827048403642029d59635100832ebf98adc0088ec1361f72b85bf3",
+    "bytes": 1539435,
+    "retrieved": "2026-11-16T07:35:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2021List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2020List.gzip": {
+    "sha256": "ae8a458c5b6e7519ce1b7bb78676233ba0bf57e5c52d8faf8a15de9a9c6c77df",
+    "bytes": 844880,
+    "retrieved": "2026-11-16T07:35:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2020List.gzip": {
+    "sha256": "d1491e65175b08a746d59aa8c9655752e89107e7e2fa9997fbf4c8d477d21249",
+    "bytes": 5419891,
+    "retrieved": "2026-11-16T07:35:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2020List.gzip": {
+    "sha256": "e323be1f3df39153096bfbace1071927f28371106918409548e9432c37242554",
+    "bytes": 6981295,
+    "retrieved": "2026-11-16T07:35:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2020List.gzip": {
+    "sha256": "c397dfa6af14d80bd31e70162a57ea570be292a43ad8c3be8a1f8c007fc4d10c",
+    "bytes": 12827455,
+    "retrieved": "2026-11-16T07:35:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2020List.gzip": {
+    "sha256": "b7997aaf6a820dd41fb22d186405a03d6b91b5accfa231551d16f17e8bf3f89a",
+    "bytes": 3574531,
+    "retrieved": "2026-11-16T07:35:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2020List.gzip": {
+    "sha256": "342dea078d0d0b1c7edf36bb4cf74bed59f88db48011e866a5af679dec7c76a8",
+    "bytes": 4492825,
+    "retrieved": "2026-11-16T07:35:41+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2020List.gzip": {
+    "sha256": "2dd100945750bfe44ccc879ebb104e26e98c78a7ddc03e5da9db3ebd644a42c3",
+    "bytes": 20287227,
+    "retrieved": "2026-11-16T07:35:43+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2020List.gzip": {
+    "sha256": "4ee925091c12fc0a7d6945fdc3ef7507028733458ae5ca1044bdf32814d5bf8b",
+    "bytes": 10994253,
+    "retrieved": "2026-11-16T07:35:44+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2020List.gzip": {
+    "sha256": "92337b25395b9de6f6bc3e1e29739e9fc60eed6c5714da7ce74aeb1747b53ed8",
+    "bytes": 7241784,
+    "retrieved": "2026-11-16T07:35:45+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2020List.gzip": {
+    "sha256": "0b44af5eede551206bb04b461a5b129136e775241611da38483481442683af30",
+    "bytes": 1616478,
+    "retrieved": "2026-11-16T07:35:45+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2020List.gzip": {
+    "sha256": "64563aa8d7a3c0f91735c56508fe6d0dfdf6b51d761b487b4a33d8c8beb2c293",
+    "bytes": 1334825,
+    "retrieved": "2026-11-16T07:35:46+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2020List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2019List.gzip": {
+    "sha256": "36aec4dd175c7a9875f0ac9ca58a1a24b8dbee019a483c17f7ba2707fad74518",
+    "bytes": 289091,
+    "retrieved": "2026-11-16T07:35:46+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2019List.gzip": {
+    "sha256": "a7595c15b3b9510c7c4d3bcfff6faadd9573c15e3acec095de5431b59fd7acf7",
+    "bytes": 5285776,
+    "retrieved": "2026-11-16T07:35:47+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2019List.gzip": {
+    "sha256": "81864721723f2758ec91df1c71f9d13a06867bf5d7c681b7e129e3a6e61a1ab0",
+    "bytes": 9578297,
+    "retrieved": "2026-11-16T07:35:48+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2019List.gzip": {
+    "sha256": "21f834c476a275f7cec18ccba4c35845239364e2ab210c2d2fdea0f74354caa3",
+    "bytes": 14420183,
+    "retrieved": "2026-11-16T07:35:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2019List.gzip": {
+    "sha256": "4021f82fcf91a9481541af81542afaed6813163626708a43bdcfaad379c5c243",
+    "bytes": 3096045,
+    "retrieved": "2026-11-16T07:35:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2019List.gzip": {
+    "sha256": "82d4346edf604dd3bc0afda005109666ea411698f0b4ac0c88535806444d001f",
+    "bytes": 4843322,
+    "retrieved": "2026-11-16T07:35:51+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2019List.gzip": {
+    "sha256": "66971c6d88dbdd912b9388762ad5a04cf7d734208959784dc089246e6072d035",
+    "bytes": 21834917,
+    "retrieved": "2026-11-16T07:35:53+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2019List.gzip": {
+    "sha256": "bfac5c3942f5b39f11c05560557b678aac6d2c21f6ff05c8bdc55d417991ec14",
+    "bytes": 12551840,
+    "retrieved": "2026-11-16T07:35:54+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2019List.gzip": {
+    "sha256": "7f5e5a1335a5876838bf2e6b82ff066d0248cb981d884c469f99e1eb2290c925",
+    "bytes": 1878356,
+    "retrieved": "2026-11-16T07:35:54+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2019List.gzip": {
+    "sha256": "8911f5644db62ca44562f869f2d8a738b609f8f8981d2c0021312981783c9c70",
+    "bytes": 2284785,
+    "retrieved": "2026-11-16T07:35:55+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2019List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2018List.gzip": {
+    "sha256": "5568724a9b37f472d148a979d52aa348dfa197f395257e718e9d7496d71613ed",
+    "bytes": 384973,
+    "retrieved": "2026-11-16T07:35:55+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2018List.gzip": {
+    "sha256": "51dfbb8d20ac3de4292c0e6ee9c0743917de22a22a5ad566c35acd780fd74710",
+    "bytes": 6006563,
+    "retrieved": "2026-11-16T07:35:56+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2018List.gzip": {
+    "sha256": "ba258b7177a85e9f528e2aaf1d88cb83018d4f03b6f88dfd4937ee0842f191cd",
+    "bytes": 7428627,
+    "retrieved": "2026-11-16T07:35:57+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2018List.gzip": {
+    "sha256": "d62efa79bfd3d8971fea457d3d3633afd9e4571cd3183681a71f55207db8fd52",
+    "bytes": 12698578,
+    "retrieved": "2026-11-16T07:35:58+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2018List.gzip": {
+    "sha256": "73ac33bf7d58306ec71b8464021f634a8ddbaf14e2878358d88154cf89778bd0",
+    "bytes": 2611062,
+    "retrieved": "2026-11-16T07:35:58+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2018List.gzip": {
+    "sha256": "79bbb7709fb20087c8d6f109665b00a2cd37ac9bf435caecb2fd5da9931756c7",
+    "bytes": 4256319,
+    "retrieved": "2026-11-16T07:35:59+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2018List.gzip": {
+    "sha256": "e9b6895dd5227cd19caf7f535b120857256c7283f30e3aa189be48f7af3a6898",
+    "bytes": 14819852,
+    "retrieved": "2026-11-16T07:36:00+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2018List.gzip": {
+    "sha256": "3f582c786529dec1672bc5c748f1e4eedbe82c8d31cdcd5b037ef1e726ac8671",
+    "bytes": 11447017,
+    "retrieved": "2026-11-16T07:36:02+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2018List.gzip": {
+    "sha256": "42b2c845f7b980dc0bc171ef12a07f42e11b6590ba71820bca2b4a8183000fef",
+    "bytes": 9324486,
+    "retrieved": "2026-11-16T07:36:03+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2018List.gzip": {
+    "sha256": "2b6bf89d53056170682ece800db05710c0391799ae0d927b5febc89c49443eac",
+    "bytes": 2191782,
+    "retrieved": "2026-11-16T07:36:03+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2018List.gzip": {
+    "sha256": "e370adf20d0a2e2e04f0001034e340b3340abc5c785c077a38a26685bf38c6dc",
+    "bytes": 3199753,
+    "retrieved": "2026-11-16T07:36:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2018List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2017List.gzip": {
+    "sha256": "a93dba367fc1ebc0ef4fd94e45fe2ac0db7769e1a73df34ca3bd3155dcd65859",
+    "bytes": 188228,
+    "retrieved": "2026-11-16T07:36:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2017List.gzip": {
+    "sha256": "59e8735e8482f958daa83729467ca67d9d1bf4208b0fbeccec165b50b7a29852",
+    "bytes": 3612253,
+    "retrieved": "2026-11-16T07:36:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2017List.gzip": {
+    "sha256": "41e88d5d4d23765ca9e6a7d021f480f54d75a5e14590f890fab03154bfdc6b81",
+    "bytes": 5786660,
+    "retrieved": "2026-11-16T07:36:05+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2017List.gzip": {
+    "sha256": "197bd1f430a0553616765448d21430a99a0e820e2745e402f9e0d22a160571f5",
+    "bytes": 8401034,
+    "retrieved": "2026-11-16T07:36:06+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2017List.gzip": {
+    "sha256": "f3a2adc9ef8f207937cd9f59fc51c2d3129fb5087265e3191eb4ddaa20dfb1d8",
+    "bytes": 1822790,
+    "retrieved": "2026-11-16T07:36:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2017List.gzip": {
+    "sha256": "992d0a4f3891b0829a75c7ac803e9378bcd252f2a4060c8f18079b370a63cf9b",
+    "bytes": 2674270,
+    "retrieved": "2026-11-16T07:36:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2017List.gzip": {
+    "sha256": "5787edb75735d8bab0c5963c78a2b553285ccb53a46f58166606eedb66fa6939",
+    "bytes": 10840747,
+    "retrieved": "2026-11-16T07:36:08+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2017List.gzip": {
+    "sha256": "9ec8cbf95142e583c71ae5b28bfb8392f8f1b7ed672ae4ef87ae7ce314f13c76",
+    "bytes": 9228269,
+    "retrieved": "2026-11-16T07:36:09+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2017List.gzip": {
+    "sha256": "2469f415e4f9acafcebf0d28c7a44465848ecf4f7acafa13e7d2f89b78a07c95",
+    "bytes": 5744379,
+    "retrieved": "2026-11-16T07:36:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2017List.gzip": {
+    "sha256": "5438387258dc4453dcfafc4b3304838a147f2815425c57e9c97ea30d62bbd28d",
+    "bytes": 1572873,
+    "retrieved": "2026-11-16T07:36:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2017List.gzip": {
+    "sha256": "be270c371b560061001a70eb6470a82af6ce0911e804215a9e1d580888271ed2",
+    "bytes": 1714134,
+    "retrieved": "2026-11-16T07:36:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2017List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2016List.gzip": {
+    "sha256": "f40d0a3eb2037b616e261464fa2113ada426d4866621d1cb69c7f24a32cb75e7",
+    "bytes": 1472333,
+    "retrieved": "2026-11-16T07:36:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2016List.gzip": {
+    "sha256": "a67ebb3584cf511aa9f39eadceb8523d4b2d9353ba1fb5729701795ee66dbba1",
+    "bytes": 2421692,
+    "retrieved": "2026-11-16T07:36:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2016List.gzip": {
+    "sha256": "4e6586a73bba01f84aedefb23bb41e7ab06f67b5103be505737b96a75121c22e",
+    "bytes": 4475514,
+    "retrieved": "2026-11-16T07:36:13+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2016List.gzip": {
+    "sha256": "95684334f04d4a7cbd1a019b7ae6eebf7ba4a4c2139cf6834ad51523b5e9795f",
+    "bytes": 6882432,
+    "retrieved": "2026-11-16T07:36:13+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2016List.gzip": {
+    "sha256": "3bc2b263c8d4245fa8b1dc0d202eae7a676c17d5725a6ec47741bc40218334c1",
+    "bytes": 1294207,
+    "retrieved": "2026-11-16T07:36:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2016List.gzip": {
+    "sha256": "641ea33278f971af109eed9bb893357f3c79f1dce7a7ae73ef756fcb004879ec",
+    "bytes": 1778300,
+    "retrieved": "2026-11-16T07:36:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2016List.gzip": {
+    "sha256": "87163d0af0ade453426ece093be2f69bd61b4d13a402167b2bad8d4fcffaad22",
+    "bytes": 13112752,
+    "retrieved": "2026-11-16T07:36:15+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2016List.gzip": {
+    "sha256": "20dab04728a2de08bfc985064d20ec192e12cfa40aba4784e477d51cc43a6803",
+    "bytes": 5317149,
+    "retrieved": "2026-11-16T07:36:16+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2016List.gzip": {
+    "sha256": "b34998248517792091415fd9499d7567d6a62da0415a6b631b729b6d0aaa262c",
+    "bytes": 5004986,
+    "retrieved": "2026-11-16T07:36:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2016List.gzip": {
+    "sha256": "e19fa54ce6a39260319864854c0793e4b52013b770e6e3c9d3319e73ead5344f",
+    "bytes": 1203702,
+    "retrieved": "2026-11-16T07:36:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2016List.gzip": {
+    "sha256": "511c92439cce9f5d3b74339f911a19a2060f1223bd828901a798c11f686b4275",
+    "bytes": 1164114,
+    "retrieved": "2026-11-16T07:36:18+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2016List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2015List.gzip": {
+    "sha256": "81502dd14e56408a2027062b3db00bd2b1bba4a6699ccf5cb3512fa69670692c",
+    "bytes": 420679,
+    "retrieved": "2026-11-16T07:42:06+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2015List.gzip": {
+    "sha256": "c82d26e2ebdf939e7b10326b7f4c9955b450ec60f636dc611d15dbc07cf11d0c",
+    "bytes": 2107502,
+    "retrieved": "2026-11-16T07:42:06+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2015List.gzip": {
+    "sha256": "0a744ceeb1f88b8c91d3a12af75f99af18764f99db414b689a591f5e3e7cf4f3",
+    "bytes": 3716955,
+    "retrieved": "2026-11-16T07:42:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2015List.gzip": {
+    "sha256": "63683db6eb0204d6c8a20f23d41875e9da3d60cd27ee91af6e58d47ff3650929",
+    "bytes": 6713500,
+    "retrieved": "2026-11-16T07:42:08+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2015List.gzip": {
+    "sha256": "ca0a1742392e7804c21044eb2b5cb2494e995465ba6c65f9145973fca8314a9b",
+    "bytes": 680873,
+    "retrieved": "2026-11-16T07:42:08+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2015List.gzip": {
+    "sha256": "7dd0e966bb0a81cb6fb1cc5986440bfca59e2dbdb570402551011406bac8fa9f",
+    "bytes": 2246284,
+    "retrieved": "2026-11-16T07:42:09+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2015List.gzip": {
+    "sha256": "8f8f56a17d0af0ffad9882abfe2d25defdda51f302f3ab52765a28d8b50cd671",
+    "bytes": 9929165,
+    "retrieved": "2026-11-16T07:42:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2015List.gzip": {
+    "sha256": "e013c29f3c4f1f5383e4106e618da32b87c335cd30edabd8f3217e0cbb5e599d",
+    "bytes": 4191071,
+    "retrieved": "2026-11-16T07:42:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2015List.gzip": {
+    "sha256": "1d955c1cee6acfea440d6bb48412d183997c19828dada06d9d44fa0af1b5fa24",
+    "bytes": 5061610,
+    "retrieved": "2026-11-16T07:42:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2015List.gzip": {
+    "sha256": "e7d3dce5c6a9e0de8214fbbb520f316d1b052e8e0809c5036afdf1797301131e",
+    "bytes": 762090,
+    "retrieved": "2026-11-16T07:42:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2015List.gzip": {
+    "sha256": "89edd73f2c65abecdc61e5c757217d82ec4bb74d1fa00712ee0f0cba847fb413",
+    "bytes": 1406229,
+    "retrieved": "2026-11-16T07:42:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2015List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2014List.gzip": {
+    "sha256": "f3c7c287daffadae465ce913535c38dc3738b94d06a658762668fbe972fe32a7",
+    "bytes": 285017,
+    "retrieved": "2026-11-16T07:42:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2014List.gzip": {
+    "sha256": "cb307b2e71d52c96c5cc65974c9abcdb44cd64a59a0369557801429dbf7a4787",
+    "bytes": 2528296,
+    "retrieved": "2026-11-16T07:42:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2014List.gzip": {
+    "sha256": "98d5edf864e2a11c32c12987c04b63f87e945e46ee68b0ba286a1dbd85e4772c",
+    "bytes": 3466568,
+    "retrieved": "2026-11-16T07:42:13+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2014List.gzip": {
+    "sha256": "0b32860d49100e95463a5da6587384b5a08f924c43b22406174f1b678d5edd4d",
+    "bytes": 6876563,
+    "retrieved": "2026-11-16T07:42:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2014List.gzip": {
+    "sha256": "81d960079a5d4fe86e3c0eb2915c48dd050219825d4442ae5e8b22c350d6de14",
+    "bytes": 937096,
+    "retrieved": "2026-11-16T07:42:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2014List.gzip": {
+    "sha256": "f3997293ad1ea50fb3eda445a96119aa372b5df8f25691aef26e77ba96bd8a30",
+    "bytes": 1758208,
+    "retrieved": "2026-11-16T07:42:15+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2014List.gzip": {
+    "sha256": "f3d9d67e0a2ffa56f47ffba34a1ac767641344320d8a585224e2cb167021cafe",
+    "bytes": 6206543,
+    "retrieved": "2026-11-16T07:42:16+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2014List.gzip": {
+    "sha256": "d3e85ec6cc54a5933fb5058d69bed143f7f8e21509aa0d384255ad0e140a684c",
+    "bytes": 4582157,
+    "retrieved": "2026-11-16T07:42:16+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2014List.gzip": {
+    "sha256": "2b0d992121d688fb3ecc0ab9e5a3298e8210b3987384f3af4c7d86c0ec3e3e2d",
+    "bytes": 4227171,
+    "retrieved": "2026-11-16T07:42:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2014List.gzip": {
+    "sha256": "bf436dde3f8ecd4617776ba640f721e2837eb75cc7f3ea9a17324f7370622bb8",
+    "bytes": 677617,
+    "retrieved": "2026-11-16T07:42:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2014List.gzip": {
+    "sha256": "322d28561599ef5964fd94e567ba0e82c0228e4a7427f79a28d25f5d4a342eba",
+    "bytes": 1085498,
+    "retrieved": "2026-11-16T07:42:18+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2014List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2013List.gzip": {
+    "sha256": "4a1eab55efd011539b6a9ea26f19908dc831d7dda7c27d07e6462346f554daf9",
+    "bytes": 337925,
+    "retrieved": "2026-11-16T07:42:18+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2013List.gzip": {
+    "sha256": "16e9377c936bed2e15370af538fa0030938ddcf18860b9235c7c9b5c0465d70b",
+    "bytes": 1965562,
+    "retrieved": "2026-11-16T07:42:18+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2013List.gzip": {
+    "sha256": "816ae11342d958f5d6f1281753675579e22d778247be24218b8efbb38e8d45ba",
+    "bytes": 3496621,
+    "retrieved": "2026-11-16T07:42:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2013List.gzip": {
+    "sha256": "6863953e8f81d624cfa4d0b2784befc0e940478c72543c33360ba8258650873e",
+    "bytes": 6026779,
+    "retrieved": "2026-11-16T07:42:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2013List.gzip": {
+    "sha256": "4353111abf8063684484fdb516732b12fd59ec23a72ab8a198fc8ae7b536d47b",
+    "bytes": 782137,
+    "retrieved": "2026-11-16T07:42:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2013List.gzip": {
+    "sha256": "23bcdfdcfcdae89c2703612876c3b3527b9a76fc048c275efc44e6a6528386fb",
+    "bytes": 1685082,
+    "retrieved": "2026-11-16T07:42:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2013List.gzip": {
+    "sha256": "869b866db39d0db4184c75e0409fc380c5fb4f8d0587609b374e3ccda9681e2f",
+    "bytes": 7031185,
+    "retrieved": "2026-11-16T07:42:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip": {
+    "sha256": "381784a9f2f4767f333715f18c9c0f199dcad21612aae3d655543c586561b9e3",
+    "bytes": 4919527,
+    "retrieved": "2026-11-16T07:42:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2013List.gzip": {
+    "sha256": "14de096955d15e3289ef13a0a5c19ae9b8b140bbd8ccb3222689df6e48293346",
+    "bytes": 3832934,
+    "retrieved": "2026-11-16T07:42:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2013List.gzip": {
+    "sha256": "80aee673cc4dda9e46fdb3b4788b37297e788b811b5a05fe0e0cd516e0417bbd",
+    "bytes": 552614,
+    "retrieved": "2026-11-16T07:42:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2013List.gzip": {
+    "sha256": "cc2111789f72b1ef9b8468e94b7b708274e514d20fe38204c042ba5808383f23",
+    "bytes": 1016759,
+    "retrieved": "2026-11-16T07:42:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2013List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2012List.gzip": {
+    "sha256": "6f1125f7ab0b5666a215f516fe7a416c0b8514c5e37e9e865b6fe81eade66a46",
+    "bytes": 302008,
+    "retrieved": "2026-11-16T07:42:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2012List.gzip": {
+    "sha256": "6acc3fbb37422bb165ba076f5c1c4784651038ef43dac5a1b373539b9c26b8bb",
+    "bytes": 2233698,
+    "retrieved": "2026-11-16T07:42:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2012List.gzip": {
+    "sha256": "a5a4219caa78d90814bfd76bc53c052f4c31d3b97492e3ba19795b2c582ea719",
+    "bytes": 3320898,
+    "retrieved": "2026-11-16T07:42:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2012List.gzip": {
+    "sha256": "38405f71cffcdb6c73e270e886a28dc1ece02b602af6864dc843fcfca72030a0",
+    "bytes": 5890290,
+    "retrieved": "2026-11-16T07:42:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2012List.gzip": {
+    "sha256": "ff00cfaa4dcb2c84cff72c4b2fb37022d3b6084182a9beaa45fff075bfc0204c",
+    "bytes": 819863,
+    "retrieved": "2026-11-16T07:42:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2012List.gzip": {
+    "sha256": "c0ed19f4b1c09c851db4a22f7d87272c36d64fb0c8b61e8cacf8baaac7ff1211",
+    "bytes": 1963856,
+    "retrieved": "2026-11-16T07:42:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2012List.gzip": {
+    "sha256": "549cabd1a9797fe8bd666cdea210a3b58543de0aa00674d3c4870ef9deaa6306",
+    "bytes": 6371488,
+    "retrieved": "2026-11-16T07:42:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2012List.gzip": {
+    "sha256": "c38a09f66566899c55f4d5a107495f98cbf279840abb9d377355501bde64ecb4",
+    "bytes": 4432678,
+    "retrieved": "2026-11-16T07:42:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2012List.gzip": {
+    "sha256": "563671203c5151c2bc36f15c667834d402f469515a9a5922b44d2af18797cb14",
+    "bytes": 5069122,
+    "retrieved": "2026-11-16T07:42:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2012List.gzip": {
+    "sha256": "d127437ed8a57c0c654d360bf62683160b0556a3808bf76285dffa9edae4ff2c",
+    "bytes": 963981,
+    "retrieved": "2026-11-16T07:42:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2012List.gzip": {
+    "sha256": "6e6b8730c33154bd024cce5acb24fb63f295842b92f338447841a3f49c4a882f",
+    "bytes": 1267823,
+    "retrieved": "2026-11-16T07:42:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2012List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2011List.gzip": {
+    "sha256": "b3adb8d30c389f68fbb3ccfcb11faa3eeb492c52f4160b342bb38520916db468",
+    "bytes": 171961,
+    "retrieved": "2026-11-16T07:42:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2011List.gzip": {
+    "sha256": "06b0e21f5e1f2edda0f53a4a838eb8d0c5d0556f856880e220d87bba53252761",
+    "bytes": 1907254,
+    "retrieved": "2026-11-16T07:42:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2011List.gzip": {
+    "sha256": "34d1f2c90937ea7fcb14bf0e6037a645343a54ba85af02e70ac3fbfbae55aade",
+    "bytes": 2869552,
+    "retrieved": "2026-11-16T07:42:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2011List.gzip": {
+    "sha256": "85744e1ab153e07814bd8d2a62cc6e84eb8e931c9bd530b76ba655cf66925938",
+    "bytes": 5178941,
+    "retrieved": "2026-11-16T07:42:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2011List.gzip": {
+    "sha256": "385327ddff15ea19a3661eeaf9c8ed3c354c3655e6e87d721ddb9af07daea240",
+    "bytes": 866815,
+    "retrieved": "2026-11-16T07:42:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2011List.gzip": {
+    "sha256": "db94ea343f12f025156157dcec6ca47ccddd3e9dd8b751a7e71c80e38f8a0f5b",
+    "bytes": 2171484,
+    "retrieved": "2026-11-16T07:42:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2011List.gzip": {
+    "sha256": "51a7420448b1a3b3ea59cde85a3bae483f10487f7d1d5f7bf23fd04ff681f063",
+    "bytes": 6220722,
+    "retrieved": "2026-11-16T07:42:33+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2011List.gzip": {
+    "sha256": "60162e2c6c159e5231b9dec58d6647d0df16fa4deb082e1bcccb9649749ad0f7",
+    "bytes": 4251161,
+    "retrieved": "2026-11-16T07:42:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2011List.gzip": {
+    "sha256": "28dc692ced72ff46517f0fa21becb1cd4e90dec055eea322e18e0899dc84fd5b",
+    "bytes": 4455687,
+    "retrieved": "2026-11-16T07:42:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2011List.gzip": {
+    "sha256": "eba4057137c4816f9ad1f4e1fdb01679291747df1cb7a3a6363da7e58646ddab",
+    "bytes": 1156671,
+    "retrieved": "2026-11-16T07:42:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2011List.gzip": {
+    "sha256": "a464382e46b2e1c97cccf1671572126e12926e3f97ee3423a72f45416b19da94",
+    "bytes": 1383254,
+    "retrieved": "2026-11-16T07:42:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2011List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2010List.gzip": {
+    "sha256": "716814259f276418f1fdf51427bccb6cf8673d0983eb1b5fb9d00d9769ea0850",
+    "bytes": 138036,
+    "retrieved": "2026-11-16T07:42:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2010List.gzip": {
+    "sha256": "5293cce0f98e5282fa97d4a1582b31c45cce77799c3a0a6573ab26a7f6ed3a89",
+    "bytes": 2067866,
+    "retrieved": "2026-11-16T07:42:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2010List.gzip": {
+    "sha256": "f9fb8fe23fe4d6697e4a61a4726a7c3a6665e8673218652c89e0fba1403d179e",
+    "bytes": 2463459,
+    "retrieved": "2026-11-16T07:42:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2010List.gzip": {
+    "sha256": "bf611a9f68ca42f911261f1a1d06c56f478ab6d36087f783d75ed3f04b8d01b8",
+    "bytes": 4100571,
+    "retrieved": "2026-11-16T07:42:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2010List.gzip": {
+    "sha256": "9870743f2f85962b9c821879c6e1eb80f7f6786b0e2caef119cb13a356135c5f",
+    "bytes": 638992,
+    "retrieved": "2026-11-16T07:42:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2010List.gzip": {
+    "sha256": "0630a637e06ba8e426413b29d4f28fda1b57a9c2253eb955d8e1ab048d15036f",
+    "bytes": 1508931,
+    "retrieved": "2026-11-16T07:42:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2010List.gzip": {
+    "sha256": "026f3e5240e4727ebd1735e20138349146d969ac38a5df34df87139021f4c4c5",
+    "bytes": 4588684,
+    "retrieved": "2026-11-16T07:42:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2010List.gzip": {
+    "sha256": "a137fb974b599088a544c42f6c1b8968fe4a7a6fde581c48a8c46ccab382754e",
+    "bytes": 3514054,
+    "retrieved": "2026-11-16T07:42:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2010List.gzip": {
+    "sha256": "89e48ce5d715852146516d61a4ea007085bf94a0bc1676dc57e3355f81052c4b",
+    "bytes": 3832466,
+    "retrieved": "2026-11-16T07:42:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2010List.gzip": {
+    "sha256": "1d1418cf3787801165a5027fd2d8e4904d3be36124139b241df1513b9d75271b",
+    "bytes": 916968,
+    "retrieved": "2026-11-16T07:42:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2010List.gzip": {
+    "sha256": "e4b9b21aab31285561cd188503e60a80a7d1f6dcb78c40f74fe579aaac7b6298",
+    "bytes": 1018900,
+    "retrieved": "2026-11-16T07:42:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2010List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2009List.gzip": {
+    "sha256": "c5873e5c27b982e184ab479d85d560253cae3711dfff3cb4dcc2a8914ba2f53f",
+    "bytes": 142019,
+    "retrieved": "2026-11-16T07:42:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2009List.gzip": {
+    "sha256": "71b6a2789f6e899478caafd4f77a8bd56ff935209c28a6278fd1d9b457941a7c",
+    "bytes": 1421401,
+    "retrieved": "2026-11-16T07:42:41+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2009List.gzip": {
+    "sha256": "b76d53ab003bb8181ce441732530c0561c4f7d463661da02ebbd1aa9516c58e3",
+    "bytes": 2486134,
+    "retrieved": "2026-11-16T07:42:41+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2009List.gzip": {
+    "sha256": "49d565e00dbd3672ae4e07c6f292cd9150a8fe6e19034eac78b601130ffa09d1",
+    "bytes": 4123094,
+    "retrieved": "2026-11-16T07:42:42+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2009List.gzip": {
+    "sha256": "da7c13c138ef392c37ed3ee1175b8987a1f396434829a509c2354e18edab9239",
+    "bytes": 697728,
+    "retrieved": "2026-11-16T07:42:42+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2009List.gzip": {
+    "sha256": "10676c1d8ad0eb7f526f369872741f9e77adc758eac6d6afa76cb4e06af50294",
+    "bytes": 1672736,
+    "retrieved": "2026-11-16T07:42:43+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2009List.gzip": {
+    "sha256": "c7bea1c00295ad8cef2b2cd419e8e0163faa238460bfb3bca1b56468100fc38b",
+    "bytes": 5691448,
+    "retrieved": "2026-11-16T07:42:43+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2009List.gzip": {
+    "sha256": "a38c3d3d76b3f40eec442ce7d5c2c28e749162ee182b6f75f73b0b5f7c42f096",
+    "bytes": 3775570,
+    "retrieved": "2026-11-16T07:42:44+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2009List.gzip": {
+    "sha256": "3266f3cb88d00936bae446f7d7c5fd3d18e6fa0eef1cff32415e4c11d101b104",
+    "bytes": 4428157,
+    "retrieved": "2026-11-16T07:42:45+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2009List.gzip": {
+    "sha256": "d9382b991551a09f0b2dec89288771d84d1287f626aac8ba678509bebbeb9b3c",
+    "bytes": 1076953,
+    "retrieved": "2026-11-16T07:42:45+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2009List.gzip": {
+    "sha256": "52fd0055811c1674cf98afc6d6c0a6c84e13e1f2362a7de0e09fe16e7992b580",
+    "bytes": 983337,
+    "retrieved": "2026-11-16T07:42:45+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2009List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2008List.gzip": {
+    "sha256": "03b2fa595ad482ae189f17ca3f50e8066949bd2119ebde4e2423dd8d3af26eda",
+    "bytes": 427748,
+    "retrieved": "2026-11-16T07:42:46+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2008List.gzip": {
+    "sha256": "8a62048014178dc5671e802eec84ad02fa5271f2056f798b491513857b8638b6",
+    "bytes": 1777750,
+    "retrieved": "2026-11-16T07:42:46+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2008List.gzip": {
+    "sha256": "cf48099d4e67450ad89b0873272dcae5488414c48ea7c6de2f310a4faa1aa11a",
+    "bytes": 2462531,
+    "retrieved": "2026-11-16T07:42:47+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2008List.gzip": {
+    "sha256": "9ac96ccecbd5b9a969236eef320c1a958657857d81fde8ce803e1d9c6cabeef1",
+    "bytes": 4222560,
+    "retrieved": "2026-11-16T07:42:47+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2008List.gzip": {
+    "sha256": "7665fb04ef65f42f085c7e128a9884fdcb28dee18d1b4adf749a001c42e609ee",
+    "bytes": 585794,
+    "retrieved": "2026-11-16T07:42:48+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2008List.gzip": {
+    "sha256": "4d4efdbe548172fce3f707d3b286e29b86ec7f16571d619bbd21035fd2040dee",
+    "bytes": 1704417,
+    "retrieved": "2026-11-16T07:42:48+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2008List.gzip": {
+    "sha256": "9b7ba1c77834dbe4fa739d49b76ae5df5f19a15786936217cf3cb123d6e59094",
+    "bytes": 5160090,
+    "retrieved": "2026-11-16T07:42:49+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2008List.gzip": {
+    "sha256": "23e40913e49f0e2ddd39809ddb964495aa14b5502545910aa4734fb6bf62ce00",
+    "bytes": 3399593,
+    "retrieved": "2026-11-16T07:42:49+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2008List.gzip": {
+    "sha256": "0481220df4c1c4014c2f8c06d658c3ab2d7b653617de53eb7e6cf79767112f10",
+    "bytes": 3509464,
+    "retrieved": "2026-11-16T07:42:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2008List.gzip": {
+    "sha256": "ffa6ec2f3e46243d35abbea74f33ed28adbbef1d6892bdd36339d2731756be37",
+    "bytes": 405224,
+    "retrieved": "2026-11-16T07:42:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTE2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2008List.gzip": {
+    "sha256": "e70d7743cc182dc91cf6d2d5aff40dbfce544e165eac5895829609910d27c1f4",
+    "bytes": 587900,
+    "retrieved": "2026-11-16T07:42:50+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77WTW2008List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2007List.gzip": {
+    "sha256": "553ce543b10e537209fa979b301f45ae74c511d04d1b6b4b4e030d47bc0b0a47",
+    "bytes": 172165,
+    "retrieved": "2026-11-16T07:42:51+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2007List.gzip": {
+    "sha256": "980284bc9252f9208334e778fb9dde7920bdbddd43afe6575781b3691fc8b015",
+    "bytes": 2105089,
+    "retrieved": "2026-11-16T07:42:51+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2007List.gzip": {
+    "sha256": "cc762c61c923125bebaaf3407c60fd8d3a80fd958e79a06ca966e4a48cab2b18",
+    "bytes": 2736983,
+    "retrieved": "2026-11-16T07:42:52+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2007List.gzip": {
+    "sha256": "9b96951a83ba2de1b9fcfc7b5d8ffe999159324496df488accfef88e7ed3b344",
+    "bytes": 5286507,
+    "retrieved": "2026-11-16T07:42:52+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2007List.gzip": {
+    "sha256": "ce9e6aec82f51dfcb26a7e39533691c2de8db50e148765e4f33cf4657edb2de4",
+    "bytes": 738348,
+    "retrieved": "2026-11-16T07:42:52+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2007List.gzip": {
+    "sha256": "7cfc5766dcb0b9bf70ccdbfdfb2bf45cd1886af677b5e7e2e874051487f55928",
+    "bytes": 1893108,
+    "retrieved": "2026-11-16T07:42:53+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2007List.gzip": {
+    "sha256": "4762c14be640888ed0821a2398c2c2087f8597bcebe4bb2161aae363a69d91e6",
+    "bytes": 5284936,
+    "retrieved": "2026-11-16T07:42:54+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2007List.gzip": {
+    "sha256": "72c732dbd654112a14e2097306779966562b671268a029dcc286286325242b12",
+    "bytes": 4752943,
+    "retrieved": "2026-11-16T07:42:54+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2007List.gzip": {
+    "sha256": "4d1a712b5d70d66cd6da8bb691ce88078046725d7eaca69bb726a27be3a80853",
+    "bytes": 4024359,
+    "retrieved": "2026-11-16T07:42:55+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2007List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2006List.gzip": {
+    "sha256": "133296c2ccd48c607467636c68cd332449e99354e9e6c4c7acfbb05091e4cca1",
+    "bytes": 223611,
+    "retrieved": "2026-11-16T07:42:55+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2006List.gzip": {
+    "sha256": "2141ae2a0c596dda33e158754f7f4b33ad96696d5c01b49d8987d1f4eae3feab",
+    "bytes": 1700452,
+    "retrieved": "2026-11-16T07:42:56+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2006List.gzip": {
+    "sha256": "e31d2185e0ab0ec1e92ee7ebf0fb8f488125aa9656d94712cf7612513fd4f068",
+    "bytes": 2713008,
+    "retrieved": "2026-11-16T07:42:56+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2006List.gzip": {
+    "sha256": "e33a4992d036327fcedd71bde2e9f5da5866149d54897fc19dbc0f015d7e4ee4",
+    "bytes": 4446040,
+    "retrieved": "2026-11-16T07:42:57+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2006List.gzip": {
+    "sha256": "c8b9b293d4ff79682c06cc75e987ee65ab734a1db13d5c43101a39653b75fcd9",
+    "bytes": 733829,
+    "retrieved": "2026-11-16T07:42:57+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2006List.gzip": {
+    "sha256": "417c8f2d0b7b38099309f3dedded19fc1c9c176795bae7c53f858507e4ffae21",
+    "bytes": 1770639,
+    "retrieved": "2026-11-16T07:42:58+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2006List.gzip": {
+    "sha256": "11a7c3b0e7d4f90b2e5b0cdfc97f0492d60ff1a9fa44c1080dbf8757dae79119",
+    "bytes": 5128027,
+    "retrieved": "2026-11-16T07:42:58+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2006List.gzip": {
+    "sha256": "98ad85e1079d136008373fae808569a6eb5b18970f61d2cd6f5dee6e524b741d",
+    "bytes": 4446726,
+    "retrieved": "2026-11-16T07:42:59+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2006List.gzip": {
+    "sha256": "908d6c8c4c68664cf248043ca8547a5171d61aa2fa670e9f7bef8f4e1473f3d6",
+    "bytes": 4314009,
+    "retrieved": "2026-11-16T07:43:00+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2006List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2005List.gzip": {
+    "sha256": "99e67c2c1e0da828010f415e3ee12585eb9e092d84bd67e9f00f5418eff12751",
+    "bytes": 109590,
+    "retrieved": "2026-11-16T07:43:00+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2005List.gzip": {
+    "sha256": "139b8b603f4aa175026395798fa3257364148b112db37577d3584e9d3f730eae",
+    "bytes": 1392885,
+    "retrieved": "2026-11-16T07:43:00+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2005List.gzip": {
+    "sha256": "b17ed8b42891dd9460b1fd8c2005cbf0a990515c168eab5a952a8a823676006a",
+    "bytes": 1799011,
+    "retrieved": "2026-11-16T07:43:01+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2005List.gzip": {
+    "sha256": "d1984906624abd84afa6ddfcf674b94091d63820672321c1f880e57075ceb4d8",
+    "bytes": 3171920,
+    "retrieved": "2026-11-16T07:43:01+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2005List.gzip": {
+    "sha256": "d469a85ad77ebc4f3b90142179cb2c3c850317431c8e0575da85d3445224804c",
+    "bytes": 485953,
+    "retrieved": "2026-11-16T07:43:02+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2005List.gzip": {
+    "sha256": "80c2330c31d0e6ba51ccfca64c85ac82dc3414864fa9ad7905bb6f1a674209f6",
+    "bytes": 1029842,
+    "retrieved": "2026-11-16T07:43:02+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2005List.gzip": {
+    "sha256": "ea83c9e1a49bf61960594494e13851b5e572e377a667cc2c571b73eadf8c2c05",
+    "bytes": 3368832,
+    "retrieved": "2026-11-16T07:43:03+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2005List.gzip": {
+    "sha256": "2118d70635b98595084753b02bf0a6c2996f76b7c5e4a51e994b5625c509f67a",
+    "bytes": 3465761,
+    "retrieved": "2026-11-16T07:43:03+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2005List.gzip": {
+    "sha256": "79334238869dcd9fd372a072387b185ea4f656508c3a8b54782b31eaeb444077",
+    "bytes": 2812337,
+    "retrieved": "2026-11-16T07:43:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2005List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2004List.gzip": {
+    "sha256": "f64a3b7e6bbf5852423ef34d08affa0f4f911e8c3f459e0386bad0a61a8311f2",
+    "bytes": 137000,
+    "retrieved": "2026-11-16T07:43:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2004List.gzip": {
+    "sha256": "9549c920492330eda66867e797fbd98f6f2ebb9addee527b98ad00f240768ff2",
+    "bytes": 1230699,
+    "retrieved": "2026-11-16T07:43:04+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2004List.gzip": {
+    "sha256": "2e3481cc89ca3c5f9aa7271d696638e240d0525f46aa26dfef0c4807ee6a7c33",
+    "bytes": 1507977,
+    "retrieved": "2026-11-16T07:43:05+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2004List.gzip": {
+    "sha256": "b5109ce7596ee9db0e538115536450436591240224ae2e56023932ecfad2f657",
+    "bytes": 3156938,
+    "retrieved": "2026-11-16T07:43:05+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2004List.gzip": {
+    "sha256": "372e8e9ee97bdbf4a9af6a2c3fe0dc026a5f2a1a097314637b9ef15336439f1b",
+    "bytes": 459307,
+    "retrieved": "2026-11-16T07:43:05+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2004List.gzip": {
+    "sha256": "8d25caa5d2cc2f48e4903e87a8231abf7a7f50953577c00ab440f8e1aa6a4927",
+    "bytes": 812697,
+    "retrieved": "2026-11-16T07:43:06+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2004List.gzip": {
+    "sha256": "84dd6d216fb72d15e6d50d44a263ae169a9487cb7ce907bd4e843d21475f7ba2",
+    "bytes": 3218610,
+    "retrieved": "2026-11-16T07:43:06+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2004List.gzip": {
+    "sha256": "6b0e83fd2d5b4efb1741815331570273626330e86ea12ab86f37b2e171115b36",
+    "bytes": 3776019,
+    "retrieved": "2026-11-16T07:43:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2004List.gzip": {
+    "sha256": "55aee7148210466d9eede1edf886ac5b0a00ee6675ff899227aedeafa95205d5",
+    "bytes": 2541716,
+    "retrieved": "2026-11-16T07:43:07+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2004List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2003List.gzip": {
+    "sha256": "74bc365ce8d0988ef608798bbf37af6c20abdb2fba7cb58e2f5a492b2e048e11",
+    "bytes": 201820,
+    "retrieved": "2026-11-16T07:43:08+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2003List.gzip": {
+    "sha256": "940e63efbf7b5de90e855db7cc4993ba26ef73f2af63954be26132e07bcaee85",
+    "bytes": 1261893,
+    "retrieved": "2026-11-16T07:43:08+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2003List.gzip": {
+    "sha256": "e2a607c6ec09c60a540cdf65b5e289ca6635117a76ddc99f0d356f825512d4cf",
+    "bytes": 1378205,
+    "retrieved": "2026-11-16T07:43:08+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2003List.gzip": {
+    "sha256": "41d3123db9fef8c5292023c46f93fd2ab1643762d2171c3eeace89c179967a3f",
+    "bytes": 3390768,
+    "retrieved": "2026-11-16T07:43:09+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2003List.gzip": {
+    "sha256": "b850da246e469dd478747ab96348ad58b2d771b27e219615d080413805bd3a7c",
+    "bytes": 324391,
+    "retrieved": "2026-11-16T07:43:09+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2003List.gzip": {
+    "sha256": "05c5eb47efbdbd0e346ff101ddf974cc16c9d63121ec92ddb9e494d913a1166f",
+    "bytes": 778747,
+    "retrieved": "2026-11-16T07:43:09+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2003List.gzip": {
+    "sha256": "7ddd60e97ae95f8336bc2d9d158545474877e9b57abc65a9bbccbdc08c150220",
+    "bytes": 3898380,
+    "retrieved": "2026-11-16T07:43:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2003List.gzip": {
+    "sha256": "57c31dfb9c69fa9c26c71c68b2ce3774ee1d2abcac555cb612750f82ea0b71f5",
+    "bytes": 2717728,
+    "retrieved": "2026-11-16T07:43:10+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2003List.gzip": {
+    "sha256": "2c12f068b76664c35625746555f36f0758fce07a2946e38ddd945044253ede3d",
+    "bytes": 1907494,
+    "retrieved": "2026-11-16T07:43:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2003List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2002List.gzip": {
+    "sha256": "c75454c46956a354313ab444f9fa24362685525e0854ded761cebdb3cc5a6bd3",
+    "bytes": 87152,
+    "retrieved": "2026-11-16T07:43:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2002List.gzip": {
+    "sha256": "233b5c1f08a767f8b6e1355414a1245d86d72025f099c79a6ac9ac1a695fdc84",
+    "bytes": 742680,
+    "retrieved": "2026-11-16T07:43:11+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2002List.gzip": {
+    "sha256": "2e6bdd4e488c718676e09d892d4f8def3159cdeb8297d7534620b89ad1df40f5",
+    "bytes": 1006173,
+    "retrieved": "2026-11-16T07:43:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2002List.gzip": {
+    "sha256": "2f74a23f4f7e9a058db07f7ec4e10421a2634d17361a45da1bfd513e979dbc13",
+    "bytes": 2405714,
+    "retrieved": "2026-11-16T07:43:12+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2002List.gzip": {
+    "sha256": "8174ba06fcd23d6cd7c7a70260e5cf2525dd776d82002193d1dc2e44d8d895ed",
+    "bytes": 286309,
+    "retrieved": "2026-11-16T07:43:13+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2002List.gzip": {
+    "sha256": "7e8f477417af2dbe1c04be986fc6bc933979ffd9d17796723165bc4e6c6afae5",
+    "bytes": 633736,
+    "retrieved": "2026-11-16T07:43:13+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2002List.gzip": {
+    "sha256": "d3b82c46f7a2622d9069f20a5f84926bd949a80b9442a5395e6ba602b04098f5",
+    "bytes": 1890723,
+    "retrieved": "2026-11-16T07:43:13+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2002List.gzip": {
+    "sha256": "9d62fe5056af923652420fd45dc98ab02f3130c773c977d671c41534f0e6d329",
+    "bytes": 1447291,
+    "retrieved": "2026-11-16T07:43:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2002List.gzip": {
+    "sha256": "9f4ddb75c7e24863e8999c7f9a97b8b5ab0e82172cb27f5f9400b3e75b898012",
+    "bytes": 1414587,
+    "retrieved": "2026-11-16T07:43:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2002List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2001List.gzip": {
+    "sha256": "3869a19b593706e1e8ba42f03657f40b7d65bfe319571ba08f69ef93d18757f6",
+    "bytes": 88519,
+    "retrieved": "2026-11-16T07:43:14+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2001List.gzip": {
+    "sha256": "77a8a20cbd793c40a241c32c1c71997e598b975e4bc920a5591ab1bfce068900",
+    "bytes": 556404,
+    "retrieved": "2026-11-16T07:43:15+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2001List.gzip": {
+    "sha256": "32c75b110d0ee6febe436717549b5cf07d5d8240a0b44a072c45d439bb483d85",
+    "bytes": 954794,
+    "retrieved": "2026-11-16T07:43:15+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2001List.gzip": {
+    "sha256": "8d147e8dbf7da7c57a04f2ef2607c249c2de52ca1c5043f8b3956ff36dc0cc4d",
+    "bytes": 2219340,
+    "retrieved": "2026-11-16T07:43:15+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2001List.gzip": {
+    "sha256": "49a42079582e5fc5be853c84a0b4f9f3c24ac3fa20459b64396a0418a1cfb3ca",
+    "bytes": 197883,
+    "retrieved": "2026-11-16T07:43:16+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2001List.gzip": {
+    "sha256": "26266cb8e571be7e591e7b0e903dcb2f3869cde175a6d88217fbc096adb8388f",
+    "bytes": 686463,
+    "retrieved": "2026-11-16T07:43:16+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2001List.gzip": {
+    "sha256": "83d28b994c0f91846a703f485a4e2dea03bce16d9d09410248f5ed9cab2d7d94",
+    "bytes": 1695006,
+    "retrieved": "2026-11-16T07:43:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2001List.gzip": {
+    "sha256": "7b080d2f101950c76c910b5ce49eefced681d7d5a8dae665b26352043e69ccbd",
+    "bytes": 1460609,
+    "retrieved": "2026-11-16T07:43:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2001List.gzip": {
+    "sha256": "b8be141db067d4c91ef2aff03552417cde9722bd1819ffe71ca8eb9c90b298cf",
+    "bytes": 1423710,
+    "retrieved": "2026-11-16T07:43:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2001List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2000List.gzip": {
+    "sha256": "f2d77b1f6c595af720d32fdfab35587b5e2532baa268cb8cb0b258f8d80e7a4f",
+    "bytes": 66964,
+    "retrieved": "2026-11-16T07:43:17+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2000List.gzip": {
+    "sha256": "a8d894a02084713f9a804c5016e91cba1bb984cddb28b866ee92503c6e0e8356",
+    "bytes": 584368,
+    "retrieved": "2026-11-16T07:43:18+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2000List.gzip": {
+    "sha256": "33e31a3ddb3764a9e0d1882c1a765d42ce67f0ddf5fc81e0f1f5ace071a62ace",
+    "bytes": 813461,
+    "retrieved": "2026-11-16T07:43:18+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2000List.gzip": {
+    "sha256": "52cd444905aa5e6d33e10a24353f6fea63ef07f41fac3346f286c11b1c4743ff",
+    "bytes": 2162343,
+    "retrieved": "2026-11-16T07:43:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2000List.gzip": {
+    "sha256": "3e56bf6736da0a35000bb0eda27883c042947ee1f7451c9a16a6a5c2806fbe7f",
+    "bytes": 168897,
+    "retrieved": "2026-11-16T07:43:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2000List.gzip": {
+    "sha256": "2e4fa4043570638fca7b0dd082c6824338e2a692e2513068657c4cdfe582f37d",
+    "bytes": 473795,
+    "retrieved": "2026-11-16T07:43:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2000List.gzip": {
+    "sha256": "fbab127a5f4b48cd9e702454cf4dc5e90caf0efd918f48a73c38adf450fb13d0",
+    "bytes": 1676829,
+    "retrieved": "2026-11-16T07:43:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2000List.gzip": {
+    "sha256": "ec36158b46b0a46331307649dc818328be9fd80aa30aabe89cb55455642775b3",
+    "bytes": 1375626,
+    "retrieved": "2026-11-16T07:43:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2000List.gzip": {
+    "sha256": "e05836e1088bbdc6ab39fa37cc4e00439b253917415a7a5ccedb7c58533ec9bf",
+    "bytes": 1023694,
+    "retrieved": "2026-11-16T07:43:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2000List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1999List.gzip": {
+    "sha256": "9bd4f74a396bca7775309d32b228ef17c663eff8d812956c90cf0648721152a0",
+    "bytes": 58842,
+    "retrieved": "2026-11-16T07:43:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1999List.gzip": {
+    "sha256": "b22476165338820fe4828754215a67a0bf7ed97f85617f3eb9f01f8a9e028fbc",
+    "bytes": 395817,
+    "retrieved": "2026-11-16T07:43:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1999List.gzip": {
+    "sha256": "a59e446979f6cb1813a12969639f0dfdedf1b78f277e08cc01cda2db6584d01b",
+    "bytes": 656052,
+    "retrieved": "2026-11-16T07:43:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1999List.gzip": {
+    "sha256": "146eba8eb44f7c73c3758e3afa5ff5841b0247333212feb7db6a8e1493f6cbbd",
+    "bytes": 1555214,
+    "retrieved": "2026-11-16T07:43:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1999List.gzip": {
+    "sha256": "22119bf4266c636ffc18093a68c2ec6c312916b1dcda3cb8c2aaf427ebda1238",
+    "bytes": 172523,
+    "retrieved": "2026-11-16T07:43:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1999List.gzip": {
+    "sha256": "796097905f8f46f179a680354c7617896c7c74e8f1c52c419240c69c0f46f698",
+    "bytes": 493220,
+    "retrieved": "2026-11-16T07:43:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1999List.gzip": {
+    "sha256": "51fe5d5bdcf55b994e251deb6668c865991aee6ac08ab1deee2d3a7a857c6fff",
+    "bytes": 1177183,
+    "retrieved": "2026-11-16T07:43:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1999List.gzip": {
+    "sha256": "8ad7a21ae45cf4178c7762f4d3e6ae504a23cbd69a8eaff3fb1f5b909854d747",
+    "bytes": 1054675,
+    "retrieved": "2026-11-16T07:43:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1999List.gzip": {
+    "sha256": "1917783111664e2d69083c76fd459368ea756a6e4217e5330a1ed9ee5c3b5cca",
+    "bytes": 690400,
+    "retrieved": "2026-11-16T07:43:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1999List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1998List.gzip": {
+    "sha256": "f6fc16004eaeb89f371043b8d6286469b502b56a56eb10a8a64b04f1ec4776a8",
+    "bytes": 22468,
+    "retrieved": "2026-11-16T07:43:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1998List.gzip": {
+    "sha256": "d522a03661a63ef269860b3f256f2321ddd8a5d11c1c613cf24695db2c8ed940",
+    "bytes": 363263,
+    "retrieved": "2026-11-16T07:43:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1998List.gzip": {
+    "sha256": "4bb08e740d36cf7a36bc7a605bdce80f5b4b5857cc78dd9c95b059b228f858e9",
+    "bytes": 786495,
+    "retrieved": "2026-11-16T07:43:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1998List.gzip": {
+    "sha256": "adfc5635512115360e052fc2dc1fa6adc4f5ebe8973018f391e6eb89b2cd4c08",
+    "bytes": 1603531,
+    "retrieved": "2026-11-16T07:43:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1998List.gzip": {
+    "sha256": "cc52ecaece24d3faf71dc8a5f449831c9edb06a152e12e00f10ea02d6c06f527",
+    "bytes": 137299,
+    "retrieved": "2026-11-16T07:43:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1998List.gzip": {
+    "sha256": "13761dec5fbe3e42da24881e2a60afb4d41eaabc605f5bde09532b17c49c961c",
+    "bytes": 333960,
+    "retrieved": "2026-11-16T07:43:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1998List.gzip": {
+    "sha256": "65777abb2e2cc8315510c2fe2eadfa6bbb74513fe20019ea4847f77a285c639d",
+    "bytes": 1711460,
+    "retrieved": "2026-11-16T07:43:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1998List.gzip": {
+    "sha256": "9b3d13127938381d501cba01df44b2e74b55025361aa4f7f608ff529fe900b71",
+    "bytes": 1179887,
+    "retrieved": "2026-11-16T07:43:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1998List.gzip": {
+    "sha256": "38c80486c8d40219e79157235d68b0fec228ff9581affca895b29689313c8f08",
+    "bytes": 1001798,
+    "retrieved": "2026-11-16T07:43:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1998List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1997List.gzip": {
+    "sha256": "ba99b84b85006e05910c28659b082ba4c1408900591fc8d5df850a8b220a39e0",
+    "bytes": 31532,
+    "retrieved": "2026-11-16T07:43:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1997List.gzip": {
+    "sha256": "d9ddaa39383ab1bb91abf87fe0b046aa32d27e8e4de456b305180f5d2dc9e00f",
+    "bytes": 479994,
+    "retrieved": "2026-11-16T07:43:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1997List.gzip": {
+    "sha256": "eae45f1194d500432720598a7dfa5e3b10e62b13a1d77ce13d8570b985f36bb3",
+    "bytes": 1010094,
+    "retrieved": "2026-11-16T07:43:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1997List.gzip": {
+    "sha256": "d62a737f22d00eb056041ad8224bc1d0c9bd8a8a6a1325ce9368ed96cc524780",
+    "bytes": 1723520,
+    "retrieved": "2026-11-16T07:43:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1997List.gzip": {
+    "sha256": "228606049719448c242428cd20e22bae1565de3e9c44dc53823be5cbae153ea1",
+    "bytes": 180416,
+    "retrieved": "2026-11-16T07:43:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1997List.gzip": {
+    "sha256": "797870320e2ee78ccb18926f3852101f43708764024e4c5b0d650067801f5451",
+    "bytes": 432200,
+    "retrieved": "2026-11-16T07:43:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1997List.gzip": {
+    "sha256": "843073dddb0ec1bb5efb980057da443aa184afae7da6a37e2a6b8c22c37aa109",
+    "bytes": 1582372,
+    "retrieved": "2026-11-16T07:43:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1997List.gzip": {
+    "sha256": "8ead6de56c8421994c177166ffc20b8bb86d7f0c0c43f18424405382de047ecb",
+    "bytes": 877459,
+    "retrieved": "2026-11-16T07:43:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1997List.gzip": {
+    "sha256": "5050e880f8936cf221e75076c0fe6dd5be6d29a52c4f38553f346713130565ec",
+    "bytes": 946,
+    "retrieved": "2026-11-16T07:43:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP1997List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1996List.gzip": {
+    "sha256": "0fadb162dd9e4378ebe8bd7849dd5f1fc029419630fa70b233045305bc5988c6",
+    "bytes": 37254,
+    "retrieved": "2026-11-16T07:43:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1996List.gzip": {
+    "sha256": "8e2bef4fbc550fb7edbda29e948a19e40c1fe99cd168e7536c1ceb764ec96a16",
+    "bytes": 397877,
+    "retrieved": "2026-11-16T07:43:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1996List.gzip": {
+    "sha256": "6bb99e3b11388ada0cdf1b539074c2c4ed119cc8c9ad813a3c0b3769525b6cd8",
+    "bytes": 603642,
+    "retrieved": "2026-11-16T07:43:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1996List.gzip": {
+    "sha256": "202ddf7a0654d301e87425d140fe0a43475f69f4da66e96d23ff271f94273464",
+    "bytes": 1208524,
+    "retrieved": "2026-11-16T07:43:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1996List.gzip": {
+    "sha256": "7b316d1da5c1639f94eb85ad49bf73a5a082a9cbd1f9000d0adba78e365b492d",
+    "bytes": 121086,
+    "retrieved": "2026-11-16T07:43:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANE1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1996List.gzip": {
+    "sha256": "354ac3e763be5c0a1db5902db01dca3730d37557cc3b66355ea75455ae33e747",
+    "bytes": 332481,
+    "retrieved": "2026-11-16T07:43:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1996List.gzip": {
+    "sha256": "ccb981712fb2c35087925c0bf4756feed76694b0c9e3cac0a3c0487975dd5a7e",
+    "bytes": 1379144,
+    "retrieved": "2026-11-16T07:43:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1996List.gzip": {
+    "sha256": "56303cf399bb3d0a8002ff9f77913ae85743a61d72619b0204cba362f5b5c3e2",
+    "bytes": 810286,
+    "retrieved": "2026-11-16T07:43:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1996List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1995List.gzip": {
+    "sha256": "7c59e5bc595b5e928bca54d4a7f0eeafad85f73bf0949f9110c8000a997f4eb3",
+    "bytes": 18930,
+    "retrieved": "2026-11-16T07:43:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AAL1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1995List.gzip": {
+    "sha256": "d6dd672d98a10f41c35f1fc7b67b602c07e420779d3bab6301ef2971ab12c0be",
+    "bytes": 40054,
+    "retrieved": "2026-11-16T07:43:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1995List.gzip": {
+    "sha256": "626285bfff0a62b7c523ba7dccceb28963afe35cb731e823f47ff0e5e00c0162",
+    "bytes": 507268,
+    "retrieved": "2026-11-16T07:43:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1995List.gzip": {
+    "sha256": "e3689b40604d4b1eb9893114c0c9483bf05d3edfef22d011e1367f51890f098b",
+    "bytes": 664614,
+    "retrieved": "2026-11-16T07:43:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1995List.gzip": {
+    "sha256": "2281e0b2f51f3a491cdf90aa6298796b9596d95ab5a80ac8b234043dd1014127",
+    "bytes": 289045,
+    "retrieved": "2026-11-16T07:43:33+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1995List.gzip": {
+    "sha256": "aedd6b58c47af7fcde51987f35598a11a29e73a191e56df80aa30a83b3e9744b",
+    "bytes": 814724,
+    "retrieved": "2026-11-16T07:43:33+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1995List.gzip": {
+    "sha256": "6b5daa9309ad400ace972079100f721186012156e3adcaf505bd0503d381e242",
+    "bytes": 564168,
+    "retrieved": "2026-11-16T07:43:33+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1995List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1994List.gzip": {
+    "sha256": "64c6993eef885c384d103e0c2f7d50fd4d59b2db8d04fbe1c851e8ea3a764221",
+    "bytes": 1028,
+    "retrieved": "2026-11-16T07:43:33+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1994List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1994List.gzip": {
+    "sha256": "2d75497fe72ba6a0d4322ff08d26ba7b2f7d855500a9cceb7565eeb82b35294f",
+    "bytes": 429980,
+    "retrieved": "2026-11-16T07:43:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1994List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1994List.gzip": {
+    "sha256": "059124468efbd9a4ee0318ce607a36667ba75de32007df0b0ecd6076a0ddd5e7",
+    "bytes": 571933,
+    "retrieved": "2026-11-16T07:43:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1994List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1994List.gzip": {
+    "sha256": "119c9df58ceb99fa15721c553d387636f67779b49c4d4b9e26f57fdd76f1929e",
+    "bytes": 297649,
+    "retrieved": "2026-11-16T07:43:34+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1994List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1994List.gzip": {
+    "sha256": "bac5bff637aad29708533c97eb7f06d2603b6ff543fc66d147baa68eb10273ba",
+    "bytes": 780497,
+    "retrieved": "2026-11-16T07:43:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1994List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1994List.gzip": {
+    "sha256": "3c597e4f954f2293073804159169287f233f996160d066f2857aeb316601740c",
+    "bytes": 459181,
+    "retrieved": "2026-11-16T07:43:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1994List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1993List.gzip": {
+    "sha256": "e96061da1d183f58251856e10b079d7d361264305f0da7853b359e20d64cdd67",
+    "bytes": 464847,
+    "retrieved": "2026-11-16T07:43:35+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1993List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1993List.gzip": {
+    "sha256": "0481720090dd8cd4483e907e052aec33675c41af3b9f306176d7e9b29c151bf4",
+    "bytes": 541351,
+    "retrieved": "2026-11-16T07:43:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1993List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1993List.gzip": {
+    "sha256": "82bff906632a694810e963fb250347e3f96fef2cc7a90343b9c41bb7e6551b5e",
+    "bytes": 284635,
+    "retrieved": "2026-11-16T07:43:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1993List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1993List.gzip": {
+    "sha256": "b6057f672c76c4db0fb5cdc144dc9dec62a9150b94f0b2ed1d03b996138e45c3",
+    "bytes": 545057,
+    "retrieved": "2026-11-16T07:43:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1993List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1993List.gzip": {
+    "sha256": "8c8db3c2b780598a77fd698a35cd7a6ed7e91ebaee02bdf4de960aed064d31b5",
+    "bytes": 449389,
+    "retrieved": "2026-11-16T07:43:36+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1993List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1992List.gzip": {
+    "sha256": "d99853cac2f068faded942956fa18758aedb7319501b8607a435131bea104dff",
+    "bytes": 417447,
+    "retrieved": "2026-11-16T07:43:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1992List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1992List.gzip": {
+    "sha256": "25e0b2277f2d696c562fd9b6e232bb7ecc13c4eb46094fccae8ece64f3e4c908",
+    "bytes": 544275,
+    "retrieved": "2026-11-16T07:43:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1992List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1992List.gzip": {
+    "sha256": "1ab4812f5fc0b6955e2fea50fc9a2b25b40e654228741fdf73bfc67ea1301f10",
+    "bytes": 259267,
+    "retrieved": "2026-11-16T07:43:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1992List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1992List.gzip": {
+    "sha256": "c5d3f6ded24c88936808b9c10f4c93d75f61140383d7ef8d5e6ffde2c2859100",
+    "bytes": 633874,
+    "retrieved": "2026-11-16T07:43:37+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1992List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1992List.gzip": {
+    "sha256": "2eac489d780552c20b1a5306abe71f264670e5277e594554f5fe2948bf27e7d2",
+    "bytes": 497839,
+    "retrieved": "2026-11-16T07:43:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1992List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1991List.gzip": {
+    "sha256": "1e19061bf041fe6b285c34967552196d745d88307127292f0d4ca39eae43fe59",
+    "bytes": 423198,
+    "retrieved": "2026-11-16T07:43:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1991List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1991List.gzip": {
+    "sha256": "22b708db1ff33b4f2a93625c30fd80e9b0d3c1b6d87b88243b4d30470a2c137e",
+    "bytes": 498586,
+    "retrieved": "2026-11-16T07:43:38+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1991List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1991List.gzip": {
+    "sha256": "899eae8bf70bc3c08b92774810ac603bd25af1c1b6da340c6fd8b2a8413253da",
+    "bytes": 251804,
+    "retrieved": "2026-11-16T07:43:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1991List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1991List.gzip": {
+    "sha256": "e8bcc5e0cf75fce9f7d870bdff9fcf5e3f3c3ff185f714532cf8a93e4c4f1e79",
+    "bytes": 556980,
+    "retrieved": "2026-11-16T07:43:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1991List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1991List.gzip": {
+    "sha256": "e20d96876cf5891183adc48b9ff4448afb04d0afc77019551917e03d2719efd6",
+    "bytes": 475519,
+    "retrieved": "2026-11-16T07:43:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1991List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1990List.gzip": {
+    "sha256": "091d47550b530e5418382bb3577cd4e17c64c6f9c3e260064dea67a651b56aef",
+    "bytes": 345687,
+    "retrieved": "2026-11-16T07:43:39+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1990List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1990List.gzip": {
+    "sha256": "6606ccfc2a792c49e17d7871f62b8f5fbc9d782a267ea2735ea33ce62f8aed4a",
+    "bytes": 309250,
+    "retrieved": "2026-11-16T07:43:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL1990List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1990List.gzip": {
+    "sha256": "27afde108fed0d7fb48cc14dfa913cc3ea825f895c758737abdf0c05fe39abbb",
+    "bytes": 195861,
+    "retrieved": "2026-11-16T07:43:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1990List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1990List.gzip": {
+    "sha256": "0e14df50db64e396eda9d67484d92fe526b03350f04d52b2922e608cfcda66dd",
+    "bytes": 536315,
+    "retrieved": "2026-11-16T07:43:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1990List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1990List.gzip": {
+    "sha256": "4308af7ba09e7ab7e5193d707ff6dded94adfd668978fa910d6e58f67b893cce",
+    "bytes": 418371,
+    "retrieved": "2026-11-16T07:43:40+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1990List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1989List.gzip": {
+    "sha256": "27a1eaf009869d22855e77b78e3b5b22587819a1b3ad6e1010948957e2053677",
+    "bytes": 1550,
+    "retrieved": "2026-11-16T07:45:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1989List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1989List.gzip": {
+    "sha256": "d4e7eab31413188f1fe83d054f759f16fe0ec6480885e0d5257b91364f53240e",
+    "bytes": 390732,
+    "retrieved": "2026-11-16T07:45:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1989List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1989List.gzip": {
+    "sha256": "5da10576e4fbef8829ad7cedf2badbc027baa2ffb0a9ee8f16c31a8d5eeae741",
+    "bytes": 257689,
+    "retrieved": "2026-11-16T07:45:19+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1989List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1989List.gzip": {
+    "sha256": "a7851b65c7fba350014b4478bd5ca9107d0e671fd30602320e6befae0c620ff4",
+    "bytes": 452706,
+    "retrieved": "2026-11-16T07:45:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1989List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1989List.gzip": {
+    "sha256": "8e9a7fd52480a6da9bbb2c83af059161acd569ce73c6321197b3797466cf9236",
+    "bytes": 487993,
+    "retrieved": "2026-11-16T07:45:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1989List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1988List.gzip": {
+    "sha256": "764b229b75acc3f18b39c41b4cf74a411107781b1a2d37b8a06f4c5f62d62dd0",
+    "bytes": 762,
+    "retrieved": "2026-11-16T07:45:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE1988List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1988List.gzip": {
+    "sha256": "6fbad853aff6bc3a272a11cb8941ecea7519b2c3a90759fe76b97718e41c0652",
+    "bytes": 390833,
+    "retrieved": "2026-11-16T07:45:20+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1988List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1988List.gzip": {
+    "sha256": "3e3e2af30b20ac93b298ec5e295ea71e4a69255f2887ab26921810495a9e4f46",
+    "bytes": 152443,
+    "retrieved": "2026-11-16T07:45:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM1988List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1988List.gzip": {
+    "sha256": "dd9d81e858e7e508e02bbf5492d14bbbaa5e87cf31e9c1c107eeadcbfe4878b0",
+    "bytes": 202577,
+    "retrieved": "2026-11-16T07:45:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1988List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1988List.gzip": {
+    "sha256": "5eab577d2f926720d2877ddaa3b0e7b0b21c4081efa97dd342ce986cd7b11749",
+    "bytes": 458226,
+    "retrieved": "2026-11-16T07:45:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1988List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1987List.gzip": {
+    "sha256": "bc1c1944ad9bbfaf6b2877da5959eeb2629e416d7ef8499a433da54bb0f405bf",
+    "bytes": 330441,
+    "retrieved": "2026-11-16T07:45:21+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1987List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1987List.gzip": {
+    "sha256": "07dcaf83a3687022f46250ab7430b45b9c6a1224d60f637803ff9b65edef1df7",
+    "bytes": 74588,
+    "retrieved": "2026-11-16T07:45:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1987List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1987List.gzip": {
+    "sha256": "e2eb771ef69801ea04810e11f74ee1e6c7f376e9887ef88cc81e54c51490c855",
+    "bytes": 486429,
+    "retrieved": "2026-11-16T07:45:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1987List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1986List.gzip": {
+    "sha256": "6f875cc61ff2287027fd96dc0ddf75973b0fb0239b984df86505c2ac603819ae",
+    "bytes": 394633,
+    "retrieved": "2026-11-16T07:45:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1986List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1986List.gzip": {
+    "sha256": "bd4c530dbcdff931d960936cc0242612f65e3ee4c67cb539102c119cbb5ef730",
+    "bytes": 27095,
+    "retrieved": "2026-11-16T07:45:22+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1986List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1986List.gzip": {
+    "sha256": "59b23e44ebd7a8b36c3576e0585d80e368279d0142473c41941baed5d3a9452f",
+    "bytes": 589276,
+    "retrieved": "2026-11-16T07:45:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1986List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1985List.gzip": {
+    "sha256": "6d1d003e5eb9f6cd12bde26f2978d31b11db0d94831bda303af8410ed533443b",
+    "bytes": 287540,
+    "retrieved": "2026-11-16T07:45:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1985List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1985List.gzip": {
+    "sha256": "adc62b40f93140ce0d0309afe8cc121cff1190342cdac76a582886fffd7fd369",
+    "bytes": 10892,
+    "retrieved": "2026-11-16T07:45:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1985List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1985List.gzip": {
+    "sha256": "d0a5e9b0d6bdfd08e48c9170ac385907dfd02e00001a5fd924c35f0ac203ba9d",
+    "bytes": 493501,
+    "retrieved": "2026-11-16T07:45:23+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1985List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1984List.gzip": {
+    "sha256": "682697e6d69dc67a6c2b2bc9be5f5c1b299d84e0ae0e3065db6d6d1d4a600195",
+    "bytes": 409061,
+    "retrieved": "2026-11-16T07:45:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1984List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1984List.gzip": {
+    "sha256": "fc7dafc41b15912b2b8b631ae9602bb4ee242952736ff8556e81e5625144c3dd",
+    "bytes": 4886,
+    "retrieved": "2026-11-16T07:45:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1984List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1984List.gzip": {
+    "sha256": "ef2e5df06010f032ee9be3f122ff292558d52c6d803e14ce41aa1b17a753f46a",
+    "bytes": 703975,
+    "retrieved": "2026-11-16T07:45:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1984List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1983List.gzip": {
+    "sha256": "2a5b8bc5e2730a06ea1f95e5b8d6ef7ec83e033f80ca73c4b0a701932b59eb11",
+    "bytes": 1738,
+    "retrieved": "2026-11-16T07:45:24+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1983List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1983List.gzip": {
+    "sha256": "09a7b852a4b88088bc2e579e7cb73d7cb111511f08d6f6929851fbc77e806815",
+    "bytes": 604937,
+    "retrieved": "2026-11-16T07:45:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1983List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1982List.gzip": {
+    "sha256": "6dbb9b602c2d0e1abb0ca1eebde00c2873496d840e115dbaf06ac6db93e042d9",
+    "bytes": 2678,
+    "retrieved": "2026-11-16T07:45:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1982List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1982List.gzip": {
+    "sha256": "69b14ef05d4e4e2540e4af47b4a3a2a86a8bc9e39b3cf95f8389fc6528aab75e",
+    "bytes": 704481,
+    "retrieved": "2026-11-16T07:45:25+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1982List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1981List.gzip": {
+    "sha256": "3844de3facaa72d746086f71fb9adaa0afd9babffd6cdd4bcc4ab647c18e3812",
+    "bytes": 762,
+    "retrieved": "2026-11-16T07:45:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1981List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1981List.gzip": {
+    "sha256": "61931094a9da0d03f85425ab96054e6f3ea8e9c2fc712c2864b0170021b01fbe",
+    "bytes": 1858,
+    "retrieved": "2026-11-16T07:45:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1981List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1981List.gzip": {
+    "sha256": "b3fa7426a307f99dc475733ae860d823346d0dfb498ac6387bf7b87eb5487bf7",
+    "bytes": 34117,
+    "retrieved": "2026-11-16T07:45:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1981List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1980List.gzip": {
+    "sha256": "c1bcd406d31c7bdef5cf074cb67eda2a8d2fbff47d54276c5adf907c4d6e054c",
+    "bytes": 980,
+    "retrieved": "2026-11-16T07:45:26+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1980List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1980List.gzip": {
+    "sha256": "4fa20156768bcaf61b8d56ebbd40a69188fc31ee6bc1334d250f5a7d834cc239",
+    "bytes": 30312,
+    "retrieved": "2026-11-16T07:45:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1980List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1979List.gzip": {
+    "sha256": "77bce0134f4a99fd2ba1b75df9175d731ad6562e6a15b3416123604b0ecc0981",
+    "bytes": 1321,
+    "retrieved": "2026-11-16T07:45:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1979List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1979List.gzip": {
+    "sha256": "9609752485f20ebc8db19dc33303f33225fd0ce4531211ce79aefe0c52cbd25f",
+    "bytes": 22367,
+    "retrieved": "2026-11-16T07:45:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1979List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1978List.gzip": {
+    "sha256": "d02e22966de07ec2708dd93aa98c34c0dd02a0dce93b3b1eb8866d77f0a37ee4",
+    "bytes": 993,
+    "retrieved": "2026-11-16T07:45:27+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1978List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1978List.gzip": {
+    "sha256": "7b71c227c71715dcddbf7d2fa8b568630021d92d169f6317a90203f19ea853d1",
+    "bytes": 21770,
+    "retrieved": "2026-11-16T07:45:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1978List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1977List.gzip": {
+    "sha256": "3844de3facaa72d746086f71fb9adaa0afd9babffd6cdd4bcc4ab647c18e3812",
+    "bytes": 762,
+    "retrieved": "2026-11-16T07:45:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AEA1977List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1977List.gzip": {
+    "sha256": "cb694f8a0d53b4aff8c5c1f2e5635a6984267cd12334051a5e6c7f7328563f93",
+    "bytes": 1018,
+    "retrieved": "2026-11-16T07:45:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1977List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1977List.gzip": {
+    "sha256": "c804590877d5726c11d9a7db17cf486e6cc40e2236319bc3a8c590ad86d5f52c",
+    "bytes": 17837,
+    "retrieved": "2026-11-16T07:45:28+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1977List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1976List.gzip": {
+    "sha256": "ab7baf99a77d040311bfb612e8a3af859d8d179b65483c1756abeaf79e1d8098",
+    "bytes": 1029,
+    "retrieved": "2026-11-16T07:45:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO1976List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1976List.gzip": {
+    "sha256": "ffd13e8e0ed607c6f166c8651f10208dda5510f2d76accd5d506e36203909c17",
+    "bytes": 11089,
+    "retrieved": "2026-11-16T07:45:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1976List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1975List.gzip": {
+    "sha256": "c9430b522df4bed4451e73daf9a1b6644af0f3bfb64cf529d0658d6397ff7008",
+    "bytes": 12334,
+    "retrieved": "2026-11-16T07:45:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1975List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1974List.gzip": {
+    "sha256": "28634dfa118551f47c13161b374b1f98b6cefe4ea94602d37939184ec7fb33f7",
+    "bytes": 15226,
+    "retrieved": "2026-11-16T07:45:29+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1974List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1973List.gzip": {
+    "sha256": "4524503e4df27eb1a34a4e6cf83044d250c8a39c4f21718462f1f70f699e967e",
+    "bytes": 15178,
+    "retrieved": "2026-11-16T07:45:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1973List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1972List.gzip": {
+    "sha256": "8c92f083303a723ba3970f2c284fbc7b5fa1b14b6a0ac2350e7aa2518a871e73",
+    "bytes": 17647,
+    "retrieved": "2026-11-16T07:45:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1972List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1971List.gzip": {
+    "sha256": "f61e9af21b8cd6e49d8e57c6c5c352c3d41b7f50025b83cf9a9b1e11567154b9",
+    "bytes": 13026,
+    "retrieved": "2026-11-16T07:45:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1971List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1970List.gzip": {
+    "sha256": "8ffc88d08baa71991e5f8e87f686c9b28a88bf2e18f6e5ae43bb1956e5429105",
+    "bytes": 11639,
+    "retrieved": "2026-11-16T07:45:30+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1970List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1969List.gzip": {
+    "sha256": "eaa926d1762c6dc6c8de4a68a35942a06a902661c2c77a32d1707528ce1ef7f3",
+    "bytes": 10741,
+    "retrieved": "2026-11-16T07:45:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1969List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1968List.gzip": {
+    "sha256": "5800efc9f44932b5cd79500f7fbf4fa30094f867492bddd3dbc0a1c3a5391aee",
+    "bytes": 15623,
+    "retrieved": "2026-11-16T07:45:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1968List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1967List.gzip": {
+    "sha256": "c96de37406c92e23a9d0f7da4569b6c7a5287cf75c2b98ff50faa774d09242e4",
+    "bytes": 12811,
+    "retrieved": "2026-11-16T07:45:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1967List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1966List.gzip": {
+    "sha256": "6cf58d7edc9c5e7118b5eff0a61e64d87cba2851e8df24f8f176a0ff4824cb85",
+    "bytes": 13877,
+    "retrieved": "2026-11-16T07:45:31+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1966List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1965List.gzip": {
+    "sha256": "4f1ae427b5fea437b62fca9529db5ea7b297edb4cc8a550323475d24e91df09c",
+    "bytes": 7406,
+    "retrieved": "2026-11-16T07:45:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1965List.gzip"
+  },
+  "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1960List.gzip": {
+    "sha256": "129653f5e765833f2b58410a4a2aaf9bc200561eda738bae6c4534619c5f9ac4",
+    "bytes": 963,
+    "retrieved": "2026-11-16T07:45:32+00:00",
+    "resolved": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW1960List.gzip"
+  }
+}

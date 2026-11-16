@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "UT",
+  "started_utc": "2026-11-16T22:51:14+00:00",
+  "steps": [
+    {
+      "step": "collectors/utah/history.py --refresh",
+      "rc": 0,
+      "seconds": 18.5,
+      "tail": ""
+    },
+    {
+      "step": "collectors/federal/epa_named_water_permits.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "collectors/federal/faa_obstruction_evaluations.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "UT",
+    "ok": true,
+    "rows": 108,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "collectors/utah/history.py",
+        "seconds": 0.2,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/epa_named_water_permits.py",
+        "seconds": 0.2,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/faa_obstruction_evaluations.py",
+        "seconds": 23.9,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "output/history/federal/faa_obstruction_evaluations/utah.json": "9e492750bea078ba462658ee2780a7f2a659ac275dcec2bf75c6c78fcd0b4852",
+      "output/history/utah/history.json": "a7511c71290ad3391bd13dcbdb80e7af4fe33da644b5bfbb9279adbe29f3764a",
+      "output/history/federal/epa_named_water_permits/utah.json": "b02ca3dbcc3ec2f6c69cf6ef3df47c2ca2949374ccccd9ff5da87355ca22f54d"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "ut-air-NOI_Pub_H-14180",
+      "ut-air-NOI_Pub_H-15941",
+      "ut-air-NOI_Pub_H-16322",
+      "ut-air-NOI_Pub_H-16342",
+      "ut-air-NOI_Pub_H-16372",
+      "ut-air-NOI_Pub_H-16399"
+    ]
+  },
+  "finished_utc": "2026-11-16T22:52:21+00:00"
+}

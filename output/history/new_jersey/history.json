@@ -1,0 +1,681 @@
+[
+  {
+    "id": "nj-NJDEP%20NJPDES%20bulletin%7CNJG0338079%7CRevoked%7C2025-06-11",
+    "state": "NJ",
+    "dataset": "NJDEP NJPDES bulletin",
+    "record_no": "NJG0338079",
+    "project": "Equinix NY11, 1400 Federal Boulevard",
+    "kind": "NJPDES administrative revocation",
+    "status": "Revoked",
+    "date": "2025-06-11",
+    "date_role": "Revocation effective date",
+    "jurisdiction": "Carteret Borough",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/3ac1a971-9028-463b-9849-c198c6082bc2/content#page=99",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/3ac1a971-9028-463b-9849-c198c6082bc2/content",
+    "source_sha256": "4ea8543917ed43a9812c89d76fb7e22c446f1407acc6e2cc7f7a50f9669bbc14",
+    "locator": "Page 99 — NJG0338079",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-08-20-3ac1a971.pdf",
+      "county": "Middlesex County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20NJPDES%20bulletin%7CNJG0342599%7CIssued%7C2023-07-17",
+    "state": "NJ",
+    "dataset": "NJDEP NJPDES bulletin",
+    "record_no": "NJG0342599",
+    "project": "MERCK SHARP & DOHME - K-22 DATA CENTER",
+    "kind": "NJPDES general permit authorization (5G2)",
+    "status": "Issued",
+    "date": "2023-07-17",
+    "date_role": "Issue date",
+    "jurisdiction": "Kenilworth Boro",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/02966dbf-0136-4925-a8e9-c80e619926bc/content#page=57",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/02966dbf-0136-4925-a8e9-c80e619926bc/content",
+    "source_sha256": "f3c72a6337a24f6b1b9ca3e0185a0d0cdeb9d6538baf45964eedcef45c0d41bf",
+    "locator": "Page 57 — NJG0342599",
+    "details": {
+      "archive": "cache/history/nj/issue-2024-02-21-02966dbf.pdf",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "discharge_category": "5G2"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20NJPDES%20bulletin%7CNJG0366897%7CIssued%7C2025-02-11",
+    "state": "NJ",
+    "dataset": "NJDEP NJPDES bulletin",
+    "record_no": "NJG0366897",
+    "project": "PROPOSED DATA CENTER DEVELOPMENT",
+    "kind": "NJPDES general permit authorization (5G3)",
+    "status": "Issued",
+    "date": "2025-02-11",
+    "date_role": "Issue date",
+    "jurisdiction": "South Brunswick Twp",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/4e14c86b-300d-47f7-aacc-42bee6f5819a/content#page=32",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/4e14c86b-300d-47f7-aacc-42bee6f5819a/content",
+    "source_sha256": "d4f055dc734c142ee31378f1c521a3032a9a9af55750e64bf8658c1aaf224e88",
+    "locator": "Page 32 — NJG0366897",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-04-16-4e14c86b.pdf",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "discharge_category": "5G3"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20NJPDES%20bulletin%7CNJG0367028%7CIssued%7C2025-02-11",
+    "state": "NJ",
+    "dataset": "NJDEP NJPDES bulletin",
+    "record_no": "NJG0367028",
+    "project": "LINCOLN DATA CENTER",
+    "kind": "NJPDES general permit authorization (5G3)",
+    "status": "Issued",
+    "date": "2025-02-11",
+    "date_role": "Issue date",
+    "jurisdiction": "Vineland City",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/4e14c86b-300d-47f7-aacc-42bee6f5819a/content#page=33",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/4e14c86b-300d-47f7-aacc-42bee6f5819a/content",
+    "source_sha256": "d4f055dc734c142ee31378f1c521a3032a9a9af55750e64bf8658c1aaf224e88",
+    "locator": "Page 33 — NJG0367028",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-04-16-4e14c86b.pdf",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "discharge_category": "5G3"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20NJPDES%20bulletin%7CNJG0372781%7CIssued%7C2025-07-11",
+    "state": "NJ",
+    "dataset": "NJDEP NJPDES bulletin",
+    "record_no": "NJG0372781",
+    "project": "COREWEAVE DATA CENTER / APPLICATION 2025-7064",
+    "kind": "NJPDES general permit authorization (5G3)",
+    "status": "Issued",
+    "date": "2025-07-11",
+    "date_role": "Issue date",
+    "jurisdiction": "Kenilworth Boro",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/3ac1a971-9028-463b-9849-c198c6082bc2/content#page=196",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/3ac1a971-9028-463b-9849-c198c6082bc2/content",
+    "source_sha256": "4ea8543917ed43a9812c89d76fb7e22c446f1407acc6e2cc7f7a50f9669bbc14",
+    "locator": "Page 196 — NJG0372781",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-08-20-3ac1a971.pdf",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "discharge_category": "5G3"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20NJPDES%20proposed%20actions%7CNJ0382728%7CProposed%20permit%20action%7C2026-10-21",
+    "state": "NJ",
+    "dataset": "NJDEP NJPDES proposed actions",
+    "record_no": "NJ0382728",
+    "project": "Equinix NY10-1, 275 Hartz Way",
+    "kind": "Individual stormwater construction permit",
+    "status": "Proposed permit action",
+    "date": "2026-10-21",
+    "date_role": "Bulletin publication date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content#page=10",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content",
+    "source_sha256": "3454e30dd71ac1e81cc77932a7f7a2da2e1dd79d9c40e59ec68e6b5d20d3ab6b",
+    "locator": "Page 10 — NJ0382728",
+    "details": {
+      "archive": "cache/history/nj/issue-2026-10-21-be5629b1.pdf",
+      "county": "Hudson County",
+      "issuer": "NJDEP Bureau of NJPDES Stormwater Permitting"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-20-0002.1%20-%20LUP%20-%20250001%7CApplication%20Administratively%20Complete%7C2025-08-20",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-20-0002.1 - LUP - 250001",
+    "project": "Equinix NY10-1",
+    "kind": "Flood hazard individual permit",
+    "status": "Application Administratively Complete",
+    "date": "2025-08-20",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/53759007-ea05-4e9d-bdb9-d8a7fdbc2a23/content#page=64",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/53759007-ea05-4e9d-bdb9-d8a7fdbc2a23/content",
+    "source_sha256": "96b2a8790183332620c882b1d7321e21502318c17547a1bff3ce642fe501679a",
+    "locator": "Page 64 — 0909-20-0002.1 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-09-03-53759007.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2025-10-01-aed09044.pdf",
+          "page": 63
+        },
+        {
+          "archive": "issue-2025-10-15-0a05ff1c.pdf",
+          "page": 65
+        },
+        {
+          "archive": "issue-2026-01-07-8880ded5.pdf",
+          "page": 80
+        },
+        {
+          "archive": "issue-2026-01-07-bfad7293.pdf",
+          "page": 79
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-20-0002.1%20-%20LUP%20-%20250001%7CApplication%20Received%7C2025-07-08",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-20-0002.1 - LUP - 250001",
+    "project": "Equinix NY10-1",
+    "kind": "Flood hazard individual permit",
+    "status": "Application Received",
+    "date": "2025-07-08",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/53759007-ea05-4e9d-bdb9-d8a7fdbc2a23/content#page=64",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/53759007-ea05-4e9d-bdb9-d8a7fdbc2a23/content",
+    "source_sha256": "96b2a8790183332620c882b1d7321e21502318c17547a1bff3ce642fe501679a",
+    "locator": "Page 64 — 0909-20-0002.1 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-09-03-53759007.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2025-10-01-aed09044.pdf",
+          "page": 63
+        },
+        {
+          "archive": "issue-2025-10-15-0a05ff1c.pdf",
+          "page": 65
+        },
+        {
+          "archive": "issue-2026-01-07-8880ded5.pdf",
+          "page": 80
+        },
+        {
+          "archive": "issue-2026-01-07-bfad7293.pdf",
+          "page": 79
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-20-0002.1%20-%20LUP%20-%20250001%7CApproved%7C2025-12-18",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-20-0002.1 - LUP - 250001",
+    "project": "Equinix NY10-1",
+    "kind": "Flood hazard individual permit",
+    "status": "Approved",
+    "date": "2025-12-18",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/8880ded5-2d00-4ac3-92e1-140a5abb92b3/content#page=80",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/8880ded5-2d00-4ac3-92e1-140a5abb92b3/content",
+    "source_sha256": "89a9ddbb9bd77e8db6d7ab1e23dd5ef30646bfbac5d97e462396e0826728fcdf",
+    "locator": "Page 80 — 0909-20-0002.1 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2026-01-07-8880ded5.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2026-01-07-bfad7293.pdf",
+          "page": 79
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-20-0002.1%20-%20LUP%20-%20250001%7CTechnical%20Deficiency%20Information%20Received%7C2025-09-26",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-20-0002.1 - LUP - 250001",
+    "project": "Equinix NY10-1",
+    "kind": "Flood hazard individual permit",
+    "status": "Technical Deficiency Information Received",
+    "date": "2025-09-26",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/0a05ff1c-18cd-45c3-8be6-96336d1b8a11/content#page=65",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/0a05ff1c-18cd-45c3-8be6-96336d1b8a11/content",
+    "source_sha256": "699d9f5966a20e10ab5416b21616a5b0d46f8bb85a7b2152c5190512f673f1cb",
+    "locator": "Page 65 — 0909-20-0002.1 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-10-15-0a05ff1c.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2026-01-07-8880ded5.pdf",
+          "page": 80
+        },
+        {
+          "archive": "issue-2026-01-07-bfad7293.pdf",
+          "page": 79
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-20-0002.1%20-%20LUP%20-%20250001%7CTechnical%20Information%20Requested%7C2025-09-16",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-20-0002.1 - LUP - 250001",
+    "project": "Equinix NY10-1",
+    "kind": "Flood hazard individual permit",
+    "status": "Technical Information Requested",
+    "date": "2025-09-16",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/aed09044-90ac-4cb3-8680-67753a9247c2/content#page=63",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/aed09044-90ac-4cb3-8680-67753a9247c2/content",
+    "source_sha256": "68742a5b7fa1d6a39f835ea50ed7b6cf149abb5c507be3cde2902adc1bc54a77",
+    "locator": "Page 63 — 0909-20-0002.1 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-10-01-aed09044.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2025-10-15-0a05ff1c.pdf",
+          "page": 65
+        },
+        {
+          "archive": "issue-2026-01-07-8880ded5.pdf",
+          "page": 80
+        },
+        {
+          "archive": "issue-2026-01-07-bfad7293.pdf",
+          "page": 79
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-26-0003.1%20-%20LUP%20-%20260001%7CApplication%20Administratively%20Complete%7C2026-07-22",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-26-0003.1 - LUP - 260001",
+    "project": "CoreSite NY4 data center",
+    "kind": "Flood hazard individual permit and verification",
+    "status": "Application Administratively Complete",
+    "date": "2026-07-22",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/65bc88f9-16e4-4536-bf71-ed0a5800c606/content#page=82",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/65bc88f9-16e4-4536-bf71-ed0a5800c606/content",
+    "source_sha256": "296db7e1d2f96a2f68c23f064314d65f1f3f3a96fd20d5eaa15f488539152e0a",
+    "locator": "Page 82 — 0909-26-0003.1 - LUP - 260001",
+    "details": {
+      "archive": "cache/history/nj/issue-2026-08-05-65bc88f9.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C0909-26-0003.1%20-%20LUP%20-%20260001%7CApplication%20Received%7C2026-07-17",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "0909-26-0003.1 - LUP - 260001",
+    "project": "CoreSite NY4 data center",
+    "kind": "Flood hazard individual permit and verification",
+    "status": "Application Received",
+    "date": "2026-07-17",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/65bc88f9-16e4-4536-bf71-ed0a5800c606/content#page=82",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/65bc88f9-16e4-4536-bf71-ed0a5800c606/content",
+    "source_sha256": "296db7e1d2f96a2f68c23f064314d65f1f3f3a96fd20d5eaa15f488539152e0a",
+    "locator": "Page 82 — 0909-26-0003.1 - LUP - 260001",
+    "details": {
+      "archive": "cache/history/nj/issue-2026-08-05-65bc88f9.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20FWW%20-%20250001%7CApplication%20Administratively%20Complete%7C2025-06-09",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - FWW - 250001",
+    "project": "QTS Princeton site",
+    "kind": "Freshwater wetlands line verification",
+    "status": "Application Administratively Complete",
+    "date": "2025-06-09",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - FWW - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20FWW%20-%20250001%7CApplication%20Received%7C2025-05-29",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - FWW - 250001",
+    "project": "QTS Princeton site",
+    "kind": "Freshwater wetlands line verification",
+    "status": "Application Received",
+    "date": "2025-05-29",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - FWW - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20FWW%20-%20250001%7CIssued%7C2025-11-06",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - FWW - 250001",
+    "project": "QTS Princeton site",
+    "kind": "Freshwater wetlands line verification",
+    "status": "Issued",
+    "date": "2025-11-06",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - FWW - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20LUP%20-%20250001%7CAmended%20Application%20Received%7C2025-08-06",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - LUP - 250001",
+    "project": "QTS Princeton data center",
+    "kind": "Combined flood hazard permit, wetlands general permit and transition area waiver",
+    "status": "Amended Application Received",
+    "date": "2025-08-06",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20LUP%20-%20250001%7CApplication%20Administratively%20Complete%7C2025-06-09",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - LUP - 250001",
+    "project": "QTS Princeton data center",
+    "kind": "Combined flood hazard permit, wetlands general permit and transition area waiver",
+    "status": "Application Administratively Complete",
+    "date": "2025-06-09",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20LUP%20-%20250001%7CApplication%20Received%7C2025-05-29",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - LUP - 250001",
+    "project": "QTS Princeton data center",
+    "kind": "Combined flood hazard permit, wetlands general permit and transition area waiver",
+    "status": "Application Received",
+    "date": "2025-05-29",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1101-10-0002.5%20-%20LUP%20-%20250001%7CApproved%7C2025-11-07",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1101-10-0002.5 - LUP - 250001",
+    "project": "QTS Princeton data center",
+    "kind": "Combined flood hazard permit, wetlands general permit and transition area waiver",
+    "status": "Approved",
+    "date": "2025-11-07",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "East Windsor Township",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content#page=60",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/e483e093-34f0-4a2c-bee9-23feda316b6e/content",
+    "source_sha256": "d0dc4fbb922015875f2398837fd15119f89f20116daae9bbf3dc96ca020651fb",
+    "locator": "Page 60 — 1101-10-0002.5 - LUP - 250001",
+    "details": {
+      "archive": "cache/history/nj/issue-2025-11-25-e483e093.pdf",
+      "county": "Mercer County",
+      "issuer": "New Jersey Department of Environmental Protection"
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1201-08-0002.2%20-%20FWW%20-%20230001%7CApplication%20Administratively%20Complete%7C2023-04-21",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1201-08-0002.2 - FWW - 230001",
+    "project": "Equinix NY11",
+    "kind": "Freshwater wetlands general permit modification",
+    "status": "Application Administratively Complete",
+    "date": "2023-04-21",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Carteret Borough",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content#page=54",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content",
+    "source_sha256": "7d75abe47f3acf83a37dc52c86dfd52dce0d6f43cc1f2e7da2067e5c186c49fa",
+    "locator": "Page 54 — 1201-08-0002.2 - FWW - 230001",
+    "details": {
+      "archive": "cache/history/nj/issue-2024-01-17-1110236f.pdf",
+      "county": "Middlesex County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2024-01-17-fc6c0bfa.pdf",
+          "page": 54
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1201-08-0002.2%20-%20FWW%20-%20230001%7CApplication%20Received%7C2023-04-21",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1201-08-0002.2 - FWW - 230001",
+    "project": "Equinix NY11",
+    "kind": "Freshwater wetlands general permit modification",
+    "status": "Application Received",
+    "date": "2023-04-21",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Carteret Borough",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content#page=54",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content",
+    "source_sha256": "7d75abe47f3acf83a37dc52c86dfd52dce0d6f43cc1f2e7da2067e5c186c49fa",
+    "locator": "Page 54 — 1201-08-0002.2 - FWW - 230001",
+    "details": {
+      "archive": "cache/history/nj/issue-2024-01-17-1110236f.pdf",
+      "county": "Middlesex County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2024-01-17-fc6c0bfa.pdf",
+          "page": 54
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20land%20resource%20permitting%7C1201-08-0002.2%20-%20FWW%20-%20230001%7CIssued%7C2024-01-02",
+    "state": "NJ",
+    "dataset": "NJDEP land resource permitting",
+    "record_no": "1201-08-0002.2 - FWW - 230001",
+    "project": "Equinix NY11",
+    "kind": "Freshwater wetlands general permit modification",
+    "status": "Issued",
+    "date": "2024-01-02",
+    "date_role": "Agency milestone completion date",
+    "jurisdiction": "Carteret Borough",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content#page=54",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/1110236f-631f-4001-985d-38ffcb6af740/content",
+    "source_sha256": "7d75abe47f3acf83a37dc52c86dfd52dce0d6f43cc1f2e7da2067e5c186c49fa",
+    "locator": "Page 54 — 1201-08-0002.2 - FWW - 230001",
+    "details": {
+      "archive": "cache/history/nj/issue-2024-01-17-1110236f.pdf",
+      "county": "Middlesex County",
+      "issuer": "New Jersey Department of Environmental Protection",
+      "repeated_in": [
+        {
+          "archive": "issue-2024-01-17-fc6c0bfa.pdf",
+          "page": 54
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJDEP%20treatment%20works%20applications%7C26-0421%7CApplication%20Received%7C2026-08-28",
+    "state": "NJ",
+    "dataset": "NJDEP treatment works applications",
+    "record_no": "26-0421",
+    "project": "Equinix NY03, 600 Jefferson Avenue",
+    "kind": "Treatment works approval application",
+    "status": "Application Received",
+    "date": "2026-08-28",
+    "date_role": "Application received date",
+    "jurisdiction": "Secaucus",
+    "url": "https://dspace.njstatelib.org/server/api/core/bitstreams/aa8e5268-7f87-41e7-bcbb-1ec77998e7ba/content#page=153",
+    "source_url": "https://dspace.njstatelib.org/server/api/core/bitstreams/aa8e5268-7f87-41e7-bcbb-1ec77998e7ba/content",
+    "source_sha256": "d4f6ac3b302424f00812b245b40af5d84da08fe6d98b57c2a5470d40bc59f6ce",
+    "locator": "Page 153 — 26-0421",
+    "details": {
+      "archive": "cache/history/nj/issue-2026-09-16-aa8e5268.pdf",
+      "county": "Hudson County",
+      "issuer": "NJDEP Division of Water Quality",
+      "repeated_in": [
+        {
+          "archive": "issue-2026-10-07-b651e064.pdf",
+          "page": 246
+        }
+      ]
+    }
+  },
+  {
+    "id": "nj-NJSEA%20zoning%20certificate%20case%20reviews%7C22-235%7CSuitability%20review%7C2022-07-14",
+    "state": "NJ",
+    "dataset": "NJSEA zoning certificate case reviews",
+    "record_no": "22-235",
+    "project": "CoreSite NY3, 2 Emerson Lane",
+    "kind": "Zoning certificate application / suitability review",
+    "status": "Suitability review",
+    "date": "2022-07-14",
+    "date_role": "Dated suitability review (not date received)",
+    "jurisdiction": "Secaucus",
+    "url": "https://njmc.s3.us-east-2.amazonaws.com/Final_Board_Book2_7_28_22.pdf#page=18",
+    "source_url": "https://njmc.s3.us-east-2.amazonaws.com/Final_Board_Book2_7_28_22.pdf",
+    "source_sha256": "76ebf78d96f8cb2ca5e60fbf82e91d9a9b00f6a035d75f218fc3aaf87dedd546",
+    "locator": "Page 18 — 22-235",
+    "details": {
+      "archive": "cache/history/nj/sec-22-jul.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Sports and Exposition Authority"
+    }
+  },
+  {
+    "id": "nj-NJSEA%20zoning%20certificate%20case%20reviews%7C22-439%7CSuitability%20review%7C2022-12-05",
+    "state": "NJ",
+    "dataset": "NJSEA zoning certificate case reviews",
+    "record_no": "22-439",
+    "project": "Dawn US Holdings / Evoque, 15 Enterprise Avenue North",
+    "kind": "Zoning certificate application / suitability review",
+    "status": "Suitability review",
+    "date": "2022-12-05",
+    "date_role": "Dated suitability review (not date received)",
+    "jurisdiction": "Secaucus",
+    "url": "https://njmc.s3.us-east-2.amazonaws.com/pdfs/meeting/2022/dec-agenda.pdf#page=21",
+    "source_url": "https://njmc.s3.us-east-2.amazonaws.com/pdfs/meeting/2022/dec-agenda.pdf",
+    "source_sha256": "0d46f00af2e8390f4785ebf35e5c7897a726e4c12f29961bdbf79a0c3bb41cd3",
+    "locator": "Page 21 — 22-439",
+    "details": {
+      "archive": "cache/history/nj/sec-22-dec.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Sports and Exposition Authority"
+    }
+  },
+  {
+    "id": "nj-NJSEA%20zoning%20certificate%20case%20reviews%7C24-291%7CSuitability%20review%7C2024-09-11",
+    "state": "NJ",
+    "dataset": "NJSEA zoning certificate case reviews",
+    "record_no": "24-291",
+    "project": "CoreSite NY4, 215 County Avenue",
+    "kind": "Zoning certificate application / suitability review",
+    "status": "Suitability review",
+    "date": "2024-09-11",
+    "date_role": "Dated suitability review (not date received)",
+    "jurisdiction": "Secaucus",
+    "url": "https://njmc.s3.us-east-2.amazonaws.com/pdfs/meeting/2024/sept-agenda.pdf#page=18",
+    "source_url": "https://njmc.s3.us-east-2.amazonaws.com/pdfs/meeting/2024/sept-agenda.pdf",
+    "source_sha256": "9f3c94e4e3f5181b172bde63f33dcd17d85632ef3945118c64410d43b24fc1c0",
+    "locator": "Page 18 — 24-291",
+    "details": {
+      "archive": "cache/history/nj/sec-24-sep.pdf",
+      "county": "Hudson County",
+      "issuer": "New Jersey Sports and Exposition Authority"
+    }
+  },
+  {
+    "id": "nj-bridgewater-25-021-PB",
+    "state": "NJ",
+    "dataset": "Bridgewater Township planning agenda",
+    "jurisdiction": "Bridgewater Township",
+    "record_no": "25-021-PB",
+    "project": "1200 Route 22 Land Investors LLC, Greymark Office Tract",
+    "kind": "Preliminary major subdivision",
+    "status": "On agenda",
+    "date": "2026-03-17",
+    "date_role": "Agenda date",
+    "url": "https://bridgewaternj.gov/agenda-library/planning-board-meetings/2026-planning-board-meeting-documents/2026-agendas-planning-board/1162-03-17-26-planning-board-meeting-agenda/file",
+    "source_url": "https://bridgewaternj.gov/agenda-library/planning-board-meetings/2026-planning-board-meeting-documents/2026-agendas-planning-board/1162-03-17-26-planning-board-meeting-agenda/file",
+    "source_sha256": "4fcff563af713ee36b93bf8c5522d83a8506bad7141c8fc4efb48f375a852cd9",
+    "locator": "Final meeting agenda, page 2, section 8",
+    "details": {
+      "county": "Somerset County",
+      "issuer": "Bridgewater Township Planning Board",
+      "evidence_method": "Human-reviewed official PDF via public web reader; direct PDF fetch returned 403. Recheck this excerpt against the linked original before refreshing.",
+      "archive": "data/history/new_jersey/bridge.json"
+    }
+  }
+]

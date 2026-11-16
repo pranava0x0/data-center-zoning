@@ -1,0 +1,31 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2746%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 2,
+  "counties": {
+    "Minnehaha County": 2
+  },
+  "places": {
+    "Outside incorporated places": 1,
+    "Sioux Falls city": 1
+  },
+  "points": [
+    {
+      "county": "Minnehaha County",
+      "place": "Outside incorporated places",
+      "name": "TierPoint Sioux Falls West Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Minnehaha County",
+      "place": "Sioux Falls city",
+      "name": "ADP South Dakota",
+      "operator": null,
+      "type": "building"
+    }
+  ]
+}

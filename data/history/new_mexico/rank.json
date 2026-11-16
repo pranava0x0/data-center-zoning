@@ -1,0 +1,111 @@
+{
+  "unit": "Mapped features; a campus may have several points. No current operating status inferred.",
+  "points": 18,
+  "counties": {
+    "Bernalillo County": 9,
+    "Valencia County": 5,
+    "Doña Ana County": 3,
+    "Santa Fe County": 1
+  },
+  "places": {
+    "Albuquerque city": 7,
+    "Los Lunas village": 5,
+    "Outside incorporated places": 4,
+    "Las Cruces city": 1,
+    "Santa Fe city": 1
+  },
+  "facility_source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "place_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2735%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "cases": [
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": "Southwest Cyberport"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": "Oso Grande"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": "505 Marquette"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": "123 Central"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": "UNM Data Center"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": null
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Outside incorporated places",
+      "name": "HPC"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Albuquerque city",
+      "name": "Molina Healthcare"
+    },
+    {
+      "county": "Santa Fe County",
+      "place": "Santa Fe city",
+      "name": "John F. Simms Building"
+    },
+    {
+      "county": "Valencia County",
+      "place": "Los Lunas village",
+      "name": "Meta"
+    },
+    {
+      "county": "Bernalillo County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Valencia County",
+      "place": "Los Lunas village",
+      "name": "Meta"
+    },
+    {
+      "county": "Valencia County",
+      "place": "Los Lunas village",
+      "name": "Meta"
+    },
+    {
+      "county": "Valencia County",
+      "place": "Los Lunas village",
+      "name": "Meta"
+    },
+    {
+      "county": "Doña Ana County",
+      "place": "Las Cruces city",
+      "name": null
+    },
+    {
+      "county": "Doña Ana County",
+      "place": "Outside incorporated places",
+      "name": "Information Systems Facility"
+    },
+    {
+      "county": "Valencia County",
+      "place": "Los Lunas village",
+      "name": "Meta"
+    },
+    {
+      "county": "Doña Ana County",
+      "place": "Outside incorporated places",
+      "name": "Project Jupiter"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "jurisdiction": "MI",
+  "started_utc": "2026-11-16T22:55:09+00:00",
+  "steps": [
+    {
+      "step": "collectors/michigan/history.py --fetch",
+      "rc": 0,
+      "seconds": 29.9,
+      "tail": ""
+    },
+    {
+      "step": "collectors/federal/epa_named_water_permits.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "collectors/federal/faa_obstruction_evaluations.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "MI",
+    "ok": true,
+    "rows": 24,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "collectors/michigan/history.py",
+        "seconds": 0.9,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/epa_named_water_permits.py",
+        "seconds": 0.3,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/faa_obstruction_evaluations.py",
+        "seconds": 24.1,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "output/history/federal/faa_obstruction_evaluations/michigan.json": "6ac030b7f5fe4573bcaf604cb2606bee45bfba1f505af33d39e93e696a0073bf",
+      "output/history/michigan/history.json": "3ee0b230941d707af433404d537bf56d3067be2d97b138e83fde261daa30827e",
+      "output/history/federal/epa_named_water_permits/michigan.json": "053a5ef789a243f3f7dd579e0e74da062031529373fb19c4e3d3a04951fb46aa"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "mi-mpsc-21990-rehearing",
+      "mi-saline-foundations"
+    ]
+  },
+  "finished_utc": "2026-11-16T22:56:32+00:00"
+}

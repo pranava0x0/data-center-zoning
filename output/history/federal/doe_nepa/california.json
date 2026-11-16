@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fed-doe-cx-008184",
+    "state": "CA",
+    "jurisdiction": "San Mateo County",
+    "county": "San Mateo County",
+    "dataset": "Department of Energy NEPA determinations",
+    "record_no": "CX-008184",
+    "project": "Stanford Research Computer Facility at SLAC",
+    "kind": "NEPA categorical exclusion — proposed new data-center building",
+    "status": "Categorical exclusion determined",
+    "date": "2012-05-02",
+    "date_role": "DOE determination date",
+    "url": "https://www.energy.gov/sites/default/files/CX-008184.pdf",
+    "source_url": "https://www.energy.gov/sites/default/files/CX-008184.pdf",
+    "source_sha256": "8ea96768a30f7120076368c450ae84fcff23d467c99eeb7d432be40657ed31e0",
+    "locator": "SS-SC-12-03, p. 1 scope, p. 3 determination",
+    "details": {
+      "federal_issuer": "Department of Energy",
+      "scope": "DOE applied the support-building exclusion to proposed construction of a 21,500-square-foot research computer facility with 3 MW of potential data-center capacity. This is environmental review, not evidence of a local building permit or operation.",
+      "agency_case_page": "https://www.energy.gov/nepa/articles/cx-008184-categorical-exclusion-determination",
+      "agency_case_sha256": "0accd691e1e554f5639606e368517cd41d58ed4eab5e5be09db30889c60dcfea",
+      "activity_reviewed": "proposed new data-center building",
+      "exclusion_class": "B1.15",
+      "location_source": "https://www.energy.gov/sites/default/files/2026-03/ea-1975-sa-03-2023-12.pdf",
+      "location_sha256": "df5ada19efb0b40d84f0b511739abce4c555d0d3261f898023fa65a2b9d08390",
+      "location_locator": "DOE/EA-1975-SA-03, §1.1, SLAC campus location"
+    }
+  }
+]

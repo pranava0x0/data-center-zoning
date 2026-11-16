@@ -1,0 +1,40 @@
+[
+  {
+    "id": "fed-epa-mar1002s4-3602258681-0",
+    "state": "MA",
+    "dataset": "U.S. EPA water discharge permits",
+    "record_no": "MAR1002S4",
+    "jurisdiction": "Lowell city",
+    "county": "Middlesex County",
+    "project": "MARKLEY LOWELL DATA CENTER",
+    "kind": "Construction stormwater permit coverage",
+    "status": "Expired",
+    "date": "2020-08-14",
+    "date_role": "Issue date",
+    "url": "https://echo.epa.gov/effluent-charts#/MAR1002S4",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS.csv · MAR1002S4 · activity 3602258681 · version 0",
+    "details": {
+      "federal_issuer": "U.S. Environmental Protection Agency",
+      "federal_program": "NPDES",
+      "agency_type": "EP6",
+      "reported_issuer": "U.S. EPA",
+      "version": "0",
+      "status_code": "EXP",
+      "master_permit": "MAR100000",
+      "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary",
+      "location_method": "EPA facility point and Census polygons; municipality requires matching address locality.",
+      "location_sources": [
+        "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip",
+        "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_25_place_500k.zip"
+      ],
+      "reported_locality": "LOWELL",
+      "issue_date": "2020-08-14",
+      "effective_date": "2020-08-14",
+      "expiration_date": "2022-02-15",
+      "termination_date": null,
+      "retirement_date": null
+    }
+  }
+]

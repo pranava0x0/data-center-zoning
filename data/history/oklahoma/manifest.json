@@ -1,0 +1,292 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2740%27&returnIdsOnly=true",
+      "sha256": "7a2d2beea9714e983ff55cd0e04cb5cb74a0a1ddbaa3b3395cde6d103a054578",
+      "bytes": 3369,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2740%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "6ae3f80c0230a2b030bfa74b450b43fb9548b5cf66abd803a124b735b5b7a230",
+      "bytes": 1447865,
+      "ext": "json"
+    }
+  },
+  "index": {
+    "url": "https://oklahoma.gov/deq/deq-information-on-data-centers.html",
+    "sha256": "abfab126eaed718db84b7eb27552cb847706b509e36e1cdea35281a52e285ed9",
+    "bytes": 665192,
+    "ext": "html"
+  },
+  "air": {
+    "url": "https://oklahoma.gov/deq/permits/air-permits/pp-ip.html",
+    "sha256": "82544f0e83d514b6112bf6e1b7e234cb8467f6e9e424b3f36c1586188f70f384",
+    "bytes": 314412,
+    "ext": "html"
+  },
+  "active": {
+    "url": "https://oklahoma.gov/deq/permits/air-permits/pp-ip/active-air-permit-listing.html",
+    "sha256": "bb8c067fa205300caaef9812925ba5c35324e096d4568f69cec24b26c0f001ac",
+    "bytes": 315027,
+    "ext": "html"
+  },
+  "issued": {
+    "url": "https://oklahoma.gov/deq/permits/air-permits/pp-ip/air-permits-issued-during-past-year.html",
+    "sha256": "9ff7864d69915c59fcb2f26cd03e25ae83fe1f0df45dbcd7ea223e55c8cbe6d5",
+    "bytes": 315484,
+    "ext": "html"
+  },
+  "proofs": {
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0940-O.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0940-O.pdf",
+      "sha256": "41d117b09553f3e9c837581494aa1f8625c44e05e9314acfbf1a0b34ab6ab2a6",
+      "bytes": 160766,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0806-AD.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0806-AD.pdf",
+      "sha256": "e436a6675402c7219143c940303f844dbaaaa1794cef6ba60e045b922b6b879d",
+      "bytes": 3372198,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0466-C.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0466-C.pdf",
+      "sha256": "8552a15e3ae8ad4fab30b737fe67d730d8641f78d72114ec1bc23f00ad9cc2ee",
+      "bytes": 15815271,
+      "ext": "pdf"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073054": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073054",
+      "sha256": "1b417c767b5fe82cb42083ed276d76a3223d186da03158c3ea7ee4857481b264",
+      "bytes": 65838,
+      "ext": "html"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2014-0047-C.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2014-0047-C.pdf",
+      "sha256": "8ba924b50a93c0e2ff9418a37e7751eaa2e245cd3e1627895d31dfd8cf182619",
+      "bytes": 3930031,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2014-0047-C%20M-1.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2014-0047-C%20M-1.pdf",
+      "sha256": "23b5dfbfa2d76d183e1f55ea213812eaf50e04cd0dc0b834513200a63c7fe28e",
+      "bytes": 4145106,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2015-1514-C%20M-2.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2015-1514-C%20M-2.pdf",
+      "sha256": "793cd15591c40d45107c0241f85a39dd41c6eb6811c47fc622cc63abdef23772",
+      "bytes": 4911574,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2015-1514-C%20M-3.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2015-1514-C%20M-3.pdf",
+      "sha256": "53c672da90450254c3ee3faa9890d36a43f923b410296ecd048bccad5d8f0a5e",
+      "bytes": 12664092,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2021-0235-TVR.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2021-0235-TVR.pdf",
+      "sha256": "c16192716d4df9e8bec3c48ebaca62acf362a64817d44519896aeed1569646ae",
+      "bytes": 14136080,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2021-0235-C%20M-2.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2021-0235-C%20M-2.pdf",
+      "sha256": "ce812034da335d799a01553c83b2868f844171c3be0184d0d48a2a331d6e0114",
+      "bytes": 15154252,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-C%20M-4.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-C%20M-4.pdf",
+      "sha256": "b860824e8fda9f2ea5f4d6ad773e9bb87d99650543a4214c529a8e64ab49a256",
+      "bytes": 2235099,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-C%20M-2.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-C%20M-2.pdf",
+      "sha256": "b9cb4d609ae82b076fb469313d2fedc07beb7d8d605e41a70b07b007753196b6",
+      "bytes": 2211537,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-C%20M-1.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-C%20M-1.pdf",
+      "sha256": "a4dce7f20b831729f8a535ec9a3b87cbfff80c7f1ee3b71594a10b03d4c21447",
+      "bytes": 2003098,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-AD%20M-1.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2007-021-AD%20M-1.pdf",
+      "sha256": "5bf50e2d4b56f16965155c2e81942c39e3edd82552253c1dde73997d8b8aa453",
+      "bytes": 535145,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2021-0235-C%20M-1.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2021-0235-C%20M-1.pdf",
+      "sha256": "ba1fd3b3ad7638025322e6894517aca29823bd194f8d2a945c18f6ddc2bcb6e7",
+      "bytes": 16175098,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2010-011-O%20M-3.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2010-011-O%20M-3.pdf",
+      "sha256": "d96639e8a9cbdbf6e8430f49ea3ec4eff26e61f53b402ab1b27d9e1028fc6c79",
+      "bytes": 2526566,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2019-0668-AD.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2019-0668-AD.pdf",
+      "sha256": "ad385a25f49121794395ce9f8a98f06309bcfad6c0cb739de3d838da15a276f5",
+      "bytes": 333280,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2019-0668-AD%20M-1.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2019-0668-AD%20M-1.pdf",
+      "sha256": "a880ea895e645b43aca696401a237a5606404bd3dd82080e214c012d88668c21",
+      "bytes": 1763092,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2001-002-O%20M-1.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2001-002-O%20M-1.pdf",
+      "sha256": "854342f06616e856343a67a1930ab44af68b84b2cb58a657836133d3b567ab4a",
+      "bytes": 2209629,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2024-1253-C.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2024-1253-C.pdf",
+      "sha256": "c7588b4982135f5195310f96aa77980039f3bfdb19a2dc8c6f2fcf5a25be6c4b",
+      "bytes": 7805398,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2022-0496-O.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2022-0496-O.pdf",
+      "sha256": "c930a3c56c7d251915b40e32c0a94d4444f8904b1a8dfdb7d12dbbffdda2e133",
+      "bytes": 315660,
+      "ext": "pdf"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073048": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073048",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0113-C.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0113-C.pdf",
+      "sha256": "c556271873d89c6cdc92a9832280e1db7d13b94a9186fbc8b6b4ebe71d871226",
+      "bytes": 8372357,
+      "ext": "pdf"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1072126": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1072126",
+      "sha256": "a8bffc7979887556266e0bbe4adb37ec950315df04318ef455feb394d765bcc8",
+      "bytes": 65848,
+      "ext": "html"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073108": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073108",
+      "sha256": "c4aab4794391e5725f31ace5e192c15432570f9ca3681cb55ee400845f26a0cb",
+      "bytes": 65834,
+      "ext": "html"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/air-quality/Citadel%20Facility-2026-0286-C.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/air-quality/Citadel%20Facility-2026-0286-C.pdf",
+      "sha256": "e0d0712fec73850fa16c41e93bd56a0670f8c45d958e4eeaaee4e0e684841cdf",
+      "bytes": 664890,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2026-0025-O.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2026-0025-O.pdf",
+      "sha256": "d4d280455dd31d9bd552e9545621f3b02f8028f3d4f1bd06c4eae9a4842b22a2",
+      "bytes": 358883,
+      "ext": "pdf"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073030": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073030",
+      "sha256": "7d91bfa97f5c9d47796024271633d368753fb1b716e6ea5b66be0aa53fcc1cf7",
+      "bytes": 65854,
+      "ext": "html"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0947-C.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/2025-0947-C.pdf",
+      "sha256": "ac758740d506d9316fdb1e5183442a85b426636ab95dd3f6a7c9df461bab724e",
+      "bytes": 7862710,
+      "ext": "pdf"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1072441": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1072441",
+      "sha256": "7c57c1b94a1169003be335c7ce2303597ad6826bf4f6cb67ced5f5473eb89a86",
+      "bytes": 65846,
+      "ext": "html"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073342": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073342",
+      "sha256": "56b88f8a645867382cab8a55f67ba0aa43d047b5a4879a8f81dae5718dfe819a",
+      "bytes": 65881,
+      "ext": "html"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073341": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1073341",
+      "sha256": "573902232bd155f85857236d3ddfd145c9ace349031fb3102d39f0bb2ea07f96",
+      "bytes": 65877,
+      "ext": "html"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/Stillwater%20Data%20Center%20Permit.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/Stillwater%20Data%20Center%20Permit.pdf",
+      "sha256": "e40cadcb8c09c4ec2c6f8c8acc99742daa11254d0786c1edc212537bd4f49fd2",
+      "bytes": 5756921,
+      "ext": "pdf"
+    },
+    "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1072162": {
+      "url": "https://applications.deq.ok.gov/PermitsPublicReview/permitinformation.aspx?id=1072162",
+      "sha256": "892f9d1495488fe5493eabf695923d0ac70eace0c94f3334031a7231c6dac89a",
+      "bytes": 65872,
+      "ext": "html"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/Myall%20LLC%20Permit_2025.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/Myall%20LLC%20Permit_2025.pdf",
+      "sha256": "e035436aab285fb0a76892f870244dec44bd6d09308cf7e2b8e65030c850448d",
+      "bytes": 1711835,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/water-division/Muskogee_Google_WL000051260075_Permit.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/water-division/Muskogee_Google_WL000051260075_Permit.pdf",
+      "sha256": "0e86744eb4eb17cbadb21e186d6482d640da84efb09d225441a2d7c01ab94df1",
+      "bytes": 467556,
+      "ext": "pdf"
+    },
+    "https://oklahoma.gov/content/dam/ok/en/deq/documents/water-division/Muskogee_Google_SL000051260580_Permit.pdf": {
+      "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/water-division/Muskogee_Google_SL000051260580_Permit.pdf",
+      "sha256": "02e199cb6d8b19a30e582b99359b69eef086c74da773b9281e07d5314d0e5cb8",
+      "bytes": 450597,
+      "ext": "pdf"
+    }
+  },
+  "active_csv": {
+    "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/air-quality/Permits_In_Active_Review2.csv",
+    "sha256": "b5bc1aed74c456907ac4481e1a29968f49466769653e16c54a9ed0144de8efb8",
+    "bytes": 41234,
+    "ext": "csv"
+  },
+  "issued_csv": {
+    "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/air-quality/Permits_Issued_During_Past_Year.csv",
+    "sha256": "efd67507c2627ab111ec6430c32a87252ef85483585574190cb05bcd97f54907",
+    "bytes": 84679,
+    "ext": "csv"
+  },
+  "tulsa": {
+    "url": "https://tulsaplanning.org/tmapc/agendas/exhibits/Z-7851.pdf",
+    "sha256": "4802da0d55636f8aa9486f0e0a302f0950f085fdbc6116c9508d7d0e7f691280",
+    "bytes": 41954334,
+    "ext": "pdf"
+  },
+  "still": {
+    "url": "https://stillwaterok.gov/852/Data-Center-Project",
+    "sha256": "a4c05921efe42e5a7bcd0e753baded143cc4621582fd9e9260bbc7dea5f74466",
+    "bytes": 142318,
+    "ext": "html"
+  }
+}

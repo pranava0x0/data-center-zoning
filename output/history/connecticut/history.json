@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ct-com-alt-25-000527-0",
+    "state": "CT",
+    "dataset": "Hartford building and trade permits",
+    "record_no": "COM-ALT-25-000527",
+    "project": "Replacement of Data Center cooling tower (EC-1).  Misc. steel work and associated Mechanical and Electrical work. FM REQUIRES A FINAL FIRE INSPEC",
+    "jurisdiction": "Hartford",
+    "kind": "Commercial Alteration Permit",
+    "status": "Issued",
+    "date": "2026-02-02",
+    "date_role": "Permit issue date",
+    "url": "https://utility.arcgis.com/usrsvcs/servers/d595ae995fb049d3ac54919ebf24b1ac/rest/services/HartfordOpenDataTables/FeatureServer/0/3205",
+    "locator": "Hartford Building Permits 20200101 to Current / COM-ALT-25-000527",
+    "details": {
+      "issuer": "City of Hartford",
+      "archive": "cache/history/ct/hartford.json.gz",
+      "archive_sha256": "03c25f70483d75c1390eb1e90711df5ad1955416e94500b9555a40578aadd023",
+      "issue_date": "2026-02-02",
+      "closed_date": null,
+      "address": "690 ASYLUM AV, #NP EC1, HARTFORD, CT 06105"
+    }
+  },
+  {
+    "id": "ct-1292-1",
+    "state": "CT",
+    "dataset": "Connecticut Siting Council data center docket",
+    "record_no": "1292",
+    "project": "Digital Realty Trumbull data center — Bloom Energy 2 MW fuel cells",
+    "jurisdiction": "Trumbull",
+    "kind": "Petition for declaratory ruling",
+    "status": "Received",
+    "date": "2017-02-27",
+    "date_role": "Council receipt date",
+    "url": "https://portal.ct.gov/lib/csc/pending_petitions/2_petitions_1201through1300/pe1292_file.pdf",
+    "locator": "Council docket filing and petition p. 1",
+    "details": {
+      "issuer": "Connecticut Siting Council",
+      "archive": "cache/history/ct/bloom.pdf",
+      "archive_sha256": "fa786d6e95cb9fd2082ada93c0f73e9c9660d469d1863a6f170aaa6d03175801",
+      "source_index": "https://portal.ct.gov/CSC/3_Petitions/Petition-Nos-1291-1300/Petition-No-1292-Bloom-Trumbull"
+    }
+  },
+  {
+    "id": "ct-1292-2",
+    "state": "CT",
+    "dataset": "Connecticut Siting Council data center docket",
+    "record_no": "1292",
+    "project": "Digital Realty Trumbull data center — Bloom Energy 2 MW fuel cells",
+    "jurisdiction": "Trumbull",
+    "kind": "Declaratory ruling",
+    "status": "Certificate not required with conditions",
+    "date": "2017-04-27",
+    "date_role": "Council vote date; letter dated April 28",
+    "url": "https://portal.ct.gov/lib/csc/pending_petitions/2_petitions_1201through1300/pe1292-dcltr-fuelcell.pdf",
+    "locator": "Council decision p. 1, conditional ruling",
+    "details": {
+      "issuer": "Connecticut Siting Council",
+      "archive": "cache/history/ct/decision.pdf",
+      "archive_sha256": "0987323f25e3c46c88f12e4be662d155f0e766f78415729bda739477b95eea6c",
+      "source_index": "https://portal.ct.gov/CSC/3_Petitions/Petition-Nos-1291-1300/Petition-No-1292-Bloom-Trumbull"
+    }
+  },
+  {
+    "id": "ct-1292-3",
+    "state": "CT",
+    "dataset": "Connecticut Siting Council data center docket",
+    "record_no": "1292",
+    "project": "Digital Realty Trumbull data center — Bloom Energy 2 MW fuel cells",
+    "jurisdiction": "Trumbull",
+    "kind": "1 MW unit commissioning",
+    "status": "Commissioned",
+    "date": "2018-06-14",
+    "date_role": "First unit commissioning date",
+    "url": "https://portal.ct.gov/-/media/csc/3_petitions-medialibrary/petitions_medialibrary/mediapetitionnos1201-1300/20210510-bloom-listofcompletedsites.pdf?rev=87bd3557e5a948e7baf6e9e34c2a4746&hash=E9EDC78C314D45057C9BA9E56A188210",
+    "locator": "Completion list: first 1292 row",
+    "details": {
+      "issuer": "Connecticut Siting Council",
+      "archive": "cache/history/ct/completion.pdf",
+      "archive_sha256": "15f6c3b3ba359fc476e7dc87875c73882b2e34062c32867bf517e197036ef952",
+      "source_index": "https://portal.ct.gov/CSC/3_Petitions/Petition-Nos-1291-1300/Petition-No-1292-Bloom-Trumbull"
+    }
+  },
+  {
+    "id": "ct-1292-4",
+    "state": "CT",
+    "dataset": "Connecticut Siting Council data center docket",
+    "record_no": "1292",
+    "project": "Digital Realty Trumbull data center — Bloom Energy 2 MW fuel cells",
+    "jurisdiction": "Trumbull",
+    "kind": "1 MW unit commissioning",
+    "status": "Commissioned",
+    "date": "2018-06-15",
+    "date_role": "Second unit commissioning date",
+    "url": "https://portal.ct.gov/-/media/csc/3_petitions-medialibrary/petitions_medialibrary/mediapetitionnos1201-1300/20210510-bloom-listofcompletedsites.pdf?rev=87bd3557e5a948e7baf6e9e34c2a4746&hash=E9EDC78C314D45057C9BA9E56A188210",
+    "locator": "Completion list: second 1292 row",
+    "details": {
+      "issuer": "Connecticut Siting Council",
+      "archive": "cache/history/ct/completion.pdf",
+      "archive_sha256": "15f6c3b3ba359fc476e7dc87875c73882b2e34062c32867bf517e197036ef952",
+      "source_index": "https://portal.ct.gov/CSC/3_Petitions/Petition-Nos-1291-1300/Petition-No-1292-Bloom-Trumbull"
+    }
+  },
+  {
+    "id": "ct-1292-5",
+    "state": "CT",
+    "dataset": "Connecticut Siting Council data center docket",
+    "record_no": "1292",
+    "project": "Digital Realty Trumbull data center — Bloom Energy 2 MW fuel cells",
+    "jurisdiction": "Trumbull",
+    "kind": "Notice of completion",
+    "status": "Notice of completion",
+    "date": "2021-05-10",
+    "date_role": "Completion notice transmission date",
+    "url": "https://portal.ct.gov/-/media/csc/3_petitions-medialibrary/petitions_medialibrary/mediapetitionnos1201-1300/20210510-bloom-listofcompletedsites.pdf?rev=87bd3557e5a948e7baf6e9e34c2a4746&hash=E9EDC78C314D45057C9BA9E56A188210",
+    "locator": "Email p. 1; dates of commissioning differ",
+    "details": {
+      "issuer": "Connecticut Siting Council",
+      "archive": "cache/history/ct/completion.pdf",
+      "archive_sha256": "15f6c3b3ba359fc476e7dc87875c73882b2e34062c32867bf517e197036ef952",
+      "source_index": "https://portal.ct.gov/CSC/3_Petitions/Petition-Nos-1291-1300/Petition-No-1292-Bloom-Trumbull"
+    }
+  },
+  {
+    "id": "ct-8-11spr-6",
+    "state": "CT",
+    "dataset": "Norwalk site plan surety decisions",
+    "record_no": "8-11SPR",
+    "project": "FPG Norden DC — 10 Norden Place data recovery center",
+    "jurisdiction": "Norwalk",
+    "kind": "Site plan surety release",
+    "status": "Release approved; 15% retained",
+    "date": "2014-09-26",
+    "date_role": "Effective date of commission action",
+    "url": "https://www.norwalkct.gov/Archive/ViewFile/Item/8217",
+    "locator": "Zoning Commission minutes; 8-11SPR surety release, 15% maintenance retainage",
+    "details": {
+      "issuer": "City of Norwalk Zoning Commission",
+      "evidence": "15% of the required surety be retained as a maintenance",
+      "archive": "data/history/connecticut/norwalk.json",
+      "evidence_mode": "Primary municipal minutes via public web index; pinned extract."
+    }
+  },
+  {
+    "id": "ct-8-11spr-7",
+    "state": "CT",
+    "dataset": "Norwalk site plan surety decisions",
+    "record_no": "8-11SPR",
+    "project": "FPG Norden DC — 10 Norden Place data recovery center",
+    "jurisdiction": "Norwalk",
+    "kind": "Site plan surety release",
+    "status": "Maintenance surety release approved with condition",
+    "date": "2016-01-29",
+    "date_role": "Effective date of commission action",
+    "url": "https://www.norwalkct.gov/Archive.aspx?ADID=9949",
+    "locator": "Zoning Commission minutes; 8-11SPR maintenance surety release, continued site maintenance and parking conditions",
+    "details": {
+      "issuer": "City of Norwalk Zoning Commission",
+      "evidence": "the effective date of this action be January 29, 2016.",
+      "archive": "data/history/connecticut/norwalk.json",
+      "evidence_mode": "Primary municipal minutes via public web index; pinned extract."
+    }
+  }
+]

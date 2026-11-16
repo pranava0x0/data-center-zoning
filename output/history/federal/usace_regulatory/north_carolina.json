@@ -1,0 +1,275 @@
+[
+  {
+    "id": "federal-corps-1062d41300cb5b270d2ffe10",
+    "state": "NC",
+    "jurisdiction": "US Army Corps of Engineers — Wilmington District",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAW-2025-01960",
+    "project": "Stamey Farm Road Datacenter 255 Stamey Farm Rd Statesville Iredell County",
+    "kind": "Environmental assessment",
+    "status": "In Progress",
+    "date": "2026-05-14",
+    "date_role": "public notice date associated with EA",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2025-01960%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2025-01960%22&max=200&start=0&sa=true",
+    "locator": "Army file SAW-2025-01960; ORM nepa_ea action; 2026-05-14",
+    "details": {
+      "source_sha256": "2c1de7cc2d67172336f5efe8df53e0d98d36858acdada0e823496bd7a27c1c87",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAW-2025-01960",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAW-2025-01960",
+      "da_number": "SAW-2025-01960",
+      "district_code": "SAW",
+      "orm_view": "nepa_ea",
+      "census_county": "Iredell County",
+      "census_county_geoid": "37097",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-80.97242%2C35.77743&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "6a4a6762f3f89811207fb57c6471e2736231029c54b1a4c319baea5fcd62e14e",
+      "longitude": -80.97242,
+      "latitude": 35.77743
+    }
+  },
+  {
+    "id": "federal-corps-1e5e631d218382a5a2db4e54",
+    "state": "NC",
+    "jurisdiction": "US Army Corps of Engineers — Wilmington District",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAW-2026-00878",
+    "project": "Microsoft Datacenter/ Edwin Robertson Rd/ Roxboro/ Person County",
+    "kind": "Environmental assessment",
+    "status": "In Progress",
+    "date": "2026-11-13",
+    "date_role": "public notice date associated with EA",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2026-00878%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2026-00878%22&max=200&start=0&sa=true",
+    "locator": "Army file SAW-2026-00878; ORM nepa_ea action; 2026-11-13",
+    "details": {
+      "source_sha256": "27ebc386688db97f4381c2b43b4f3bc1228c8f62e6862f1641c395f75918796d",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAW-2026-00878",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAW-2026-00878",
+      "da_number": "SAW-2026-00878",
+      "district_code": "SAW",
+      "orm_view": "nepa_ea",
+      "census_county": "Person County",
+      "census_county_geoid": "37145",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.99316%2C36.47829&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "a4f26d09135f3d93bdac18eae70b1bb30a22ea6d96d9299d4ab9eadcdc23d15e",
+      "longitude": -78.99316,
+      "latitude": 36.47829,
+      "county": "Person County",
+      "county_basis": "USACE district RRS notice"
+    }
+  },
+  {
+    "id": "federal-corps-4635fa8b978a5846b58db5b1",
+    "state": "NC",
+    "jurisdiction": "US Army Corps of Engineers — Wilmington",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAW-2022-02515",
+    "project": "Stover North Datacenter/Microsoft Corporation/Newton - Catawba County",
+    "kind": "Standard Permit",
+    "status": "Issued With Special Conditions",
+    "date": "2024-05-07",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2022-02515%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2022-02515%22&max=200&start=0&sa=true",
+    "locator": "Army file SAW-2022-02515; ORM issued action; 2024-05-07",
+    "details": {
+      "source_sha256": "0214e4b98c07759d1a7560789ce705689cb33a759ef8f4aa0e3fef764949cf56",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAW-2022-02515",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAW-2022-02515",
+      "da_number": "SAW-2022-02515",
+      "district_code": "SAW",
+      "orm_view": "issued",
+      "census_county": "Catawba County",
+      "census_county_geoid": "37035",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.31796%2C35.62032&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "df40f3954ace2cfce1f7a5b2c5fa97655cd2d8cddd021d08d90c842b4f60b8c1",
+      "longitude": -81.31796,
+      "latitude": 35.62032,
+      "orm_public_notice_date": "24-JUL-2023",
+      "consultations": {
+        "esa": [
+          {
+            "actionId": 12261291,
+            "actionFolderId": 5350339,
+            "actionLinkId": 12250481,
+            "beginDate": "2023-08-01",
+            "endDate": "2024-05-03",
+            "agency": "US Fish and Wildlife Service",
+            "consultationType": "Formal",
+            "closureMethod": "Agency Took No Action"
+          }
+        ],
+        "s106Nhpa": [
+          {
+            "actionId": 12261292,
+            "actionFolderId": 5350339,
+            "actionLinkId": 12250481,
+            "beginDate": "2023-07-21",
+            "endDate": "2024-01-26",
+            "effectsDetermination": "No Effect: No Historic Properties Affected/Present"
+          }
+        ],
+        "wqc401": [
+          {
+            "actionLinkId": 12250481,
+            "beginDate": "2023-07-21",
+            "endDate": "2023-11-29",
+            "certifyingAuthorityNotified": "State Agency",
+            "closureMethod": "Procedure Complete"
+          }
+        ]
+      },
+      "final_ea_publication": "20250114"
+    }
+  },
+  {
+    "id": "federal-corps-54532fd8717a37cc55c1df34",
+    "state": "NC",
+    "jurisdiction": "US Army Corps of Engineers — Wilmington",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAW-2026-00878",
+    "project": "Microsoft Datacenter/ Edwin Robertson Rd/ Roxboro/ Person County",
+    "kind": "Standard Permit",
+    "status": "Pending",
+    "date": "2026-10-31",
+    "date_role": "application received date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2026-00878%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2026-00878%22&max=200&start=0&sa=true",
+    "locator": "Army file SAW-2026-00878; ORM pending action; 2026-10-31",
+    "details": {
+      "source_sha256": "27ebc386688db97f4381c2b43b4f3bc1228c8f62e6862f1641c395f75918796d",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAW-2026-00878",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAW-2026-00878",
+      "da_number": "SAW-2026-00878",
+      "district_code": "SAW",
+      "orm_view": "pending",
+      "census_county": "Person County",
+      "census_county_geoid": "37145",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-78.99316%2C36.47829&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "a4f26d09135f3d93bdac18eae70b1bb30a22ea6d96d9299d4ab9eadcdc23d15e",
+      "longitude": -78.99316,
+      "latitude": 36.47829,
+      "orm_public_notice_date": "13-NOV-2026",
+      "county": "Person County",
+      "county_basis": "USACE district RRS notice"
+    }
+  },
+  {
+    "id": "federal-corps-f07f4fec0b5a4fbc159bc326",
+    "state": "NC",
+    "jurisdiction": "US Army Corps of Engineers — Wilmington",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAW-2023-00898",
+    "project": "Lyle Creek Datacenter (CLT04)/Microsoft Corp/Conover - Catawba County",
+    "kind": "Standard Permit",
+    "status": "Issued With Special Conditions",
+    "date": "2024-04-03",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2023-00898%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2023-00898%22&max=200&start=0&sa=true",
+    "locator": "Army file SAW-2023-00898; ORM issued action; 2024-04-03",
+    "details": {
+      "source_sha256": "9fd266772acad0b709da36a5faf45e158d7a6b8099facb5c503ec8185d4bdf7f",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAW-2023-00898",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAW-2023-00898",
+      "da_number": "SAW-2023-00898",
+      "district_code": "SAW",
+      "orm_view": "issued",
+      "census_county": "Catawba County",
+      "census_county_geoid": "37035",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.20539%2C35.73135&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "df40f3954ace2cfce1f7a5b2c5fa97655cd2d8cddd021d08d90c842b4f60b8c1",
+      "longitude": -81.20539,
+      "latitude": 35.73135,
+      "orm_public_notice_date": "01-JUN-2023",
+      "consultations": {
+        "s106Nhpa": [
+          {
+            "actionId": 12336740,
+            "actionFolderId": 5374090,
+            "actionLinkId": 12204745,
+            "beginDate": "2023-09-27",
+            "endDate": "2024-02-22",
+            "effectsDetermination": "No Effect: No Historic Properties Affected/Present"
+          }
+        ],
+        "wqc401": [
+          {
+            "actionLinkId": 12204745,
+            "beginDate": "2023-07-24",
+            "endDate": "2024-03-21",
+            "certifyingAuthorityNotified": "State Agency",
+            "closureMethod": "Procedure Complete"
+          }
+        ]
+      },
+      "final_ea_publication": "20250114"
+    }
+  },
+  {
+    "id": "federal-corps-notice-13569733",
+    "state": "NC",
+    "jurisdiction": "US Army Corps of Engineers — Wilmington",
+    "dataset": "US Army Corps of Engineers district public notices",
+    "record_no": "SAW-2026-00878",
+    "project": "Microsoft Datacenter/ Edwin Robertson Rd/ Roxboro/ Person County",
+    "kind": "District public notice of proposed action",
+    "status": "Public notice published",
+    "date": "2026-11-13",
+    "date_role": "notice opening date",
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=969d6c36-cb3c-4174-e0a2-82d49fd787a6&filename=SAW-2026-00878-PN.pdf&token=&preview=true",
+    "source_url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotice?id=13569733",
+    "locator": "RRS notice ID 13569733; Army file SAW-2026-00878",
+    "details": {
+      "source_sha256": "48dd4776c8d53772139897f1e38c8cedf5c81db2564c036e3ef223829969868a",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAW-2026-00878",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAW-2026-00878",
+      "district_code": "SAW",
+      "county": "Person County",
+      "county_basis": "USACE RRS",
+      "comments_end": "2026-12-14",
+      "source_description": "Interested parties are notified that the U.S. Army Corps of Engineers, Wilmington District has received an application for a Department of the Army permit pursuant to Section 404 of the Clean Water Act. The purpose of this public notice is to solicit comments from the public and information necessary to evaluate the probable impact on the public interest regarding a proposed data center. The applicant is requesting a permit for the permanent discharge of fill material into 0.47 acre of wetland, 0.29 ac (4,045 linear feet [lf]) of stream and the permanent-no permanent loss of 0.012 ac (11 lf) of stream for the construction of four one-story data center buildings, two logistics centers, one campus amenities building that will contain multiple storage servers, an on-site electrical substation and substation logistics center, sewage treatment, detention ponds and associated infrastructure.",
+      "notice_id": 13569733,
+      "notice_documents": [
+        {
+          "url": "https://publibrary.sec.usace.army.mil/api/download?id=969d6c36-cb3c-4174-e0a2-82d49fd787a6&filename=SAW-2026-00878-PN.pdf&token=&preview=true",
+          "sha256": "1586445b88d7f291b0003da80d6dce89884fac9005422d1f3731ae481db7b889"
+        },
+        {
+          "url": "https://publibrary.sec.usace.army.mil/api/download?id=d63a1995-cbb5-495e-a391-50e7a00c40e1&filename=SAW-2026-00878-Plans.pdf&token=&preview=true",
+          "sha256": "6944c368f7516ba76847363673ea1aa632e450d667778edb3cb05ea224e92ec6"
+        }
+      ]
+    }
+  }
+]

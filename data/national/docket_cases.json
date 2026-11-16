@@ -1,0 +1,330 @@
+[
+  {
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Zoning variance",
+    "status": "Conditional approval",
+    "date": "2025-12-04",
+    "role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "locator": "2025-12-04 · DOA/ZV-2025-01602",
+    "anchors": [
+      "The Zoning Commission approved the Type 2 Variance with a vote of 8-1",
+      "DOA/ZV-2025-01602"
+    ],
+    "summary": "The parking variance depended on approval of the master plan amendment. The later denial prevented it taking effect."
+  },
+  {
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Postponed",
+    "date": "2025-12-10",
+    "role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "locator": "2025-12-10 · DOA/ZV-2025-01602",
+    "anchors": [
+      "Postponed until April 23, 2026",
+      "DOA/ZV-2025-01602"
+    ],
+    "summary": "The board postponed its hearing; no permit was issued."
+  },
+  {
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Postponed",
+    "date": "2026-04-23",
+    "role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "locator": "2026-04-23 · DOA/ZV-2025-01602",
+    "anchors": [
+      "Postponed until July 15, 2026",
+      "DOA/ZV-2025-01602"
+    ],
+    "summary": "The board postponed its hearing; no permit was issued."
+  },
+  {
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Denied",
+    "date": "2026-07-15",
+    "role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "locator": "2026-07-15 · DOA/ZV-2025-01602",
+    "anchors": [
+      "denied the request for the Development Order Amendment with a vote of 5-1-1",
+      "DOA/ZV-2025-01602"
+    ],
+    "summary": "The board denied the amendment. This did not undo the earlier approved plan."
+  },
+  {
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "no": "DRO-2026-00966",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Approved with conditions",
+    "date": "2026-10-07",
+    "role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "locator": "2026-10-07 · DRO-2026-00966",
+    "anchors": [
+      "October 7, 2026 – The DRO approved the requests subject to Conditions of Approval",
+      "DRO-2026-00966"
+    ],
+    "summary": "The development review officer approved a separate plan modification subject to conditions."
+  },
+  {
+    "state": "GU",
+    "dataset": "Guam Hybrid Land Use Commission minutes",
+    "jurisdiction": "Tamuning municipality",
+    "county": "",
+    "no": "2021-24A",
+    "project": "TeleGuam cable landing station and data center",
+    "kind": "Conditional use permit",
+    "status": "Approved with conditions",
+    "date": "2022-05-12",
+    "role": "Commission vote",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "pages": [
+      10,
+      11,
+      12
+    ],
+    "locator": "Meeting minutes pp. 4–5 (PDF 10–11), separate motions",
+    "anchors": [
+      "to approve Application No. 2021-24A",
+      "cable landing station and data center",
+      "Motion passed unanimously"
+    ],
+    "summary": "The commission approved the conditional use for a cable landing station and data center on two specified Tamuning lots."
+  },
+  {
+    "state": "GU",
+    "dataset": "Guam Hybrid Land Use Commission minutes",
+    "jurisdiction": "Tamuning municipality",
+    "county": "",
+    "no": "2021-24B",
+    "project": "TeleGuam cable landing station and data center",
+    "kind": "Height variance",
+    "status": "Approved with conditions",
+    "date": "2022-05-12",
+    "role": "Commission vote",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "pages": [
+      10,
+      11,
+      12
+    ],
+    "locator": "Meeting minutes pp. 4–5 (PDF 10–11), separate motions",
+    "anchors": [
+      "2021-24B",
+      "cable landing station and data center",
+      "Motion passed unanimously"
+    ],
+    "summary": "The commission approved the separate height variance for the same project."
+  },
+  {
+    "state": "DE",
+    "dataset": "Delaware Coastal Zone Act decisions",
+    "jurisdiction": "New Castle County",
+    "county": "New Castle County",
+    "project": "Project Washington",
+    "no": "CZA-448SD",
+    "kind": "Coastal zone applicability decision",
+    "status": "Prohibited as proposed",
+    "date": "2026-02-03",
+    "role": "Decision signed",
+    "url": "https://documents.dnrec.delaware.gov/Admin/Public-Notices/CCE20260043/Status-Decision.pdf",
+    "pages": [
+      2
+    ],
+    "anchors": [
+      "proposed Project Washington is prohibited from development"
+    ],
+    "summary": "The decision applies to the submitted campus design and fuel-storage configuration.",
+    "locator": "PDF 2, CZA-448SD"
+  },
+  {
+    "state": "DE",
+    "dataset": "Delaware Coastal Zone Act decisions",
+    "jurisdiction": "New Castle County",
+    "county": "New Castle County",
+    "project": "Project Washington",
+    "no": "CZ-2026-01",
+    "kind": "Coastal zone appeal",
+    "status": "Appeal filed",
+    "date": "2026-02-17",
+    "role": "Appeal filing date recorded by board",
+    "url": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf",
+    "pages": [
+      6
+    ],
+    "anchors": [
+      "Appellant filed its appeal on February 17, 2026"
+    ],
+    "summary": "Starwood challenged the Secretary’s February determination.",
+    "locator": "PDF 6, CZ-2026-01"
+  },
+  {
+    "state": "DE",
+    "dataset": "Delaware Coastal Zone Act decisions",
+    "jurisdiction": "New Castle County",
+    "county": "New Castle County",
+    "project": "Project Washington",
+    "no": "CZ-2026-01",
+    "kind": "Coastal zone appeal",
+    "status": "Decision affirmed",
+    "date": "2026-04-17",
+    "role": "Final order date",
+    "url": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf",
+    "pages": [
+      78
+    ],
+    "anchors": [
+      "The Secretary’s Status Decision is AFFIRMED",
+      "17th day of April 2026"
+    ],
+    "summary": "The board upheld the prohibition on this proposal. This is not a statewide ban on data centers.",
+    "locator": "PDF 78, CZ-2026-01"
+  },
+  {
+    "state": "ME",
+    "dataset": "Lewiston City Council development agreements",
+    "jurisdiction": "Lewiston",
+    "county": "Androscoggin County",
+    "project": "MillCompute · Bates Mill 3",
+    "no": "323-2025",
+    "kind": "Development agreement vote",
+    "status": "Rejected, 0–7",
+    "date": "2025-12-16",
+    "role": "City Council vote",
+    "url": "https://www.lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6685",
+    "pages": [
+      4,
+      6
+    ],
+    "anchors": [
+      "323-2025",
+      "Did Not Pass - Vote 0-7",
+      "Bates Mill 3"
+    ],
+    "summary": "The council rejected the proposed development agreement; this was not a building permit decision.",
+    "locator": "PDF 4, 6, 323-2025"
+  },
+  {
+    "state": "RI",
+    "dataset": "Rhode Island DEM emergency generator permits",
+    "jurisdiction": "Johnston",
+    "county": "Providence County",
+    "project": "FM Global Data Center · generator 1",
+    "no": "GPEG-19",
+    "kind": "Emergency generator air permit",
+    "status": "Issued",
+    "date": "2009-03-10",
+    "role": "Issuance letter date",
+    "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf",
+    "pages": [
+      2,
+      1
+    ],
+    "anchors": [
+      "GENERAL PERMIT NO. GPEG-19",
+      "10 March 2009",
+      "FM GLOBAL DATA CENTER"
+    ],
+    "summary": "DEM issued a separate permit for each of three emergency generators at the Johnston campus. Continued validity is not established.",
+    "locator": "Permit cover, PDF p. 2; transmittal p. 1."
+  },
+  {
+    "state": "RI",
+    "dataset": "Rhode Island DEM emergency generator permits",
+    "jurisdiction": "Johnston",
+    "county": "Providence County",
+    "project": "FM Global Data Center · generator 2",
+    "no": "GPEG-20",
+    "kind": "Emergency generator air permit",
+    "status": "Issued",
+    "date": "2009-03-10",
+    "role": "Issuance letter date",
+    "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf",
+    "pages": [
+      7,
+      1
+    ],
+    "anchors": [
+      "GENERAL PERMIT NO. GPEG-20",
+      "10 March 2009",
+      "FM GLOBAL DATA CENTER"
+    ],
+    "summary": "DEM issued a separate permit for each of three emergency generators at the Johnston campus. Continued validity is not established.",
+    "locator": "Permit cover, PDF p. 7; transmittal p. 1."
+  },
+  {
+    "state": "RI",
+    "dataset": "Rhode Island DEM emergency generator permits",
+    "jurisdiction": "Johnston",
+    "county": "Providence County",
+    "project": "FM Global Data Center · generator 3",
+    "no": "GPEG-21",
+    "kind": "Emergency generator air permit",
+    "status": "Issued",
+    "date": "2009-03-10",
+    "role": "Issuance letter date",
+    "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf",
+    "pages": [
+      12,
+      1
+    ],
+    "anchors": [
+      "GENERAL PERMIT NO. GPEG-21",
+      "10 March 2009",
+      "FM GLOBAL DATA CENTER"
+    ],
+    "summary": "DEM issued a separate permit for each of three emergency generators at the Johnston campus. Continued validity is not established.",
+    "locator": "Permit cover, PDF p. 12; transmittal p. 1."
+  },
+  {
+    "state": "PA",
+    "dataset": "Susquehanna River Basin Commission consumptive use approvals",
+    "jurisdiction": "Salem Township (Luzerne County)",
+    "county": "Luzerne County",
+    "project": "Amazon Data Services · PHL100 campus",
+    "no": "20240901",
+    "kind": "Consumptive water use approval",
+    "status": "Approved",
+    "date": "2024-09-12",
+    "role": "Docket approval date",
+    "url": "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20240901",
+    "pages": [
+      1
+    ],
+    "anchors": [
+      "Approval Date: September 12, 2024",
+      "PHL100 DATA CENTER CAMPUS",
+      "0.060 mgd"
+    ],
+    "summary": "The interstate commission approved up to 60,000 gallons per day as a 30-day average for evaporative cooling and related uses. The approval addresses consumptive use from the identified well.",
+    "locator": "Docket 20240901, §§1–3, p. 1"
+  }
+]

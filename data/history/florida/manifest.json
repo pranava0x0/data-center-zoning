@@ -1,0 +1,214 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2712%27&returnIdsOnly=true",
+      "sha256": "6b24159aa5f0bc68cf30875cd479c69f5cf351a752d536d9ca55b28a193f9ac5",
+      "bytes": 2449,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2712%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "9cd2ac260814a01fcacfcc8bb6460059c7ef61414e9016b9c19302fb5920d95b",
+      "bytes": 3631292,
+      "ext": "json"
+    }
+  },
+  "miami": {
+    "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0",
+    "where": "UPPER(ProjectName) LIKE '%DATA%CENTER%' OR UPPER(ProjectName) LIKE '%DATACENTRE%' OR UPPER(ProjectName) LIKE '%COLOCATION%' OR UPPER(ProjectName) LIKE '%EQUINIX%' OR UPPER(ProjectName) LIKE '%TERREMARK%' OR UPPER(ProjectName) LIKE '%NAP OF THE AMERICAS%' OR UPPER(ProjectName) LIKE '%FLEXENTIAL%' OR UPPER(ProjectName) LIKE '%QTS DATA%' OR UPPER(ProjectName) LIKE '%COPT DATA%' OR UPPER(ProjectName) LIKE '%CORE%SITE%' OR UPPER(ScopeOfWork) LIKE '%DATA%CENTER%' OR UPPER(ScopeOfWork) LIKE '%DATACENTRE%' OR UPPER(ScopeOfWork) LIKE '%COLOCATION%' OR UPPER(ScopeOfWork) LIKE '%EQUINIX%' OR UPPER(ScopeOfWork) LIKE '%TERREMARK%' OR UPPER(ScopeOfWork) LIKE '%NAP OF THE AMERICAS%' OR UPPER(ScopeOfWork) LIKE '%FLEXENTIAL%' OR UPPER(ScopeOfWork) LIKE '%QTS DATA%' OR UPPER(ScopeOfWork) LIKE '%COPT DATA%' OR UPPER(ScopeOfWork) LIKE '%CORE%SITE%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0?f=json",
+      "sha256": "59f6bb35141b7477a9c2b9b9bb3e40aac92fa00869f39f73a8678c317335601c",
+      "bytes": 21305,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0/query?f=json&where=UPPER%28ProjectName%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25CORE%25SITE%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28ScopeOfWork%29+LIKE+%27%25CORE%25SITE%25%27&returnIdsOnly=true",
+      "sha256": "82ce108c023ae6ca534c13d58eda8a741b58b72fe1f4df0a69b7c622b0a26939",
+      "bytes": 58,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0/query?f=json&objectIds=2772%2C252941&outFields=OBJECTID%2CPermitNumber%2CApplicationNumber%2CFULLADDR%2CFOLIO%2CPermitStatus%2CPermitIssuedDate%2CMasterPermitStatus%2CScopeOfWork%2CProjectName%2CPermitType%2CApplicationType%2CApplicationStatusDate%2CMasterPermitNumber&returnGeometry=false",
+        "sha256": "e12ba076a4afa8ace93a061fb5818b24bd160ecb39e751cb5f57afb1bd91b7e6",
+        "bytes": 2623,
+        "ext": "json"
+      }
+    ]
+  },
+  "dade": {
+    "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1",
+    "where": "UPPER(FFRMLINE) LIKE '%DATA%CENTER%' OR UPPER(FFRMLINE) LIKE '%DATACENTRE%' OR UPPER(FFRMLINE) LIKE '%COLOCATION%' OR UPPER(FFRMLINE) LIKE '%EQUINIX%' OR UPPER(FFRMLINE) LIKE '%TERREMARK%' OR UPPER(FFRMLINE) LIKE '%NAP OF THE AMERICAS%' OR UPPER(FFRMLINE) LIKE '%FLEXENTIAL%' OR UPPER(FFRMLINE) LIKE '%QTS DATA%' OR UPPER(FFRMLINE) LIKE '%COPT DATA%' OR UPPER(FFRMLINE) LIKE '%CORE%SITE%' OR UPPER(PROPUSE) LIKE '%DATA%CENTER%' OR UPPER(PROPUSE) LIKE '%DATACENTRE%' OR UPPER(PROPUSE) LIKE '%COLOCATION%' OR UPPER(PROPUSE) LIKE '%EQUINIX%' OR UPPER(PROPUSE) LIKE '%TERREMARK%' OR UPPER(PROPUSE) LIKE '%NAP OF THE AMERICAS%' OR UPPER(PROPUSE) LIKE '%FLEXENTIAL%' OR UPPER(PROPUSE) LIKE '%QTS DATA%' OR UPPER(PROPUSE) LIKE '%COPT DATA%' OR UPPER(PROPUSE) LIKE '%CORE%SITE%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1?f=json",
+      "sha256": "c95ce7a206bc54a2ea0d2a324b7a4d1e55a9cc1c350498c2c8a4282ee087903e",
+      "bytes": 8739,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1/query?f=json&where=UPPER%28FFRMLINE%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28FFRMLINE%29+LIKE+%27%25CORE%25SITE%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28PROPUSE%29+LIKE+%27%25CORE%25SITE%25%27&returnIdsOnly=true",
+      "sha256": "5678ccebca69814aca2996a6240843d9419ee84219cb7012d9a316ea8a4f7e50",
+      "bytes": 93,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1/query?f=json&objectIds=38632%2C63467%2C184408%2C195415%2C203805%2C256623%2C259793&outFields=OBJECTID%2CID%2CPROCNUM%2CADDRESS%2CFOLIO%2CTYPE%2CPROPUSE%2CAPPTYPE%2CFFRMLINE%2CMPRMTNUM%2CISSUDATE%2CBLDCMPDT%2CBPSTATUS%2CDESC1&returnGeometry=false",
+        "sha256": "f777348bf5aecd84bc1e433c74dd4f866bd1985738e6bf6c3da66a5aeb12baec",
+        "bytes": 4178,
+        "ext": "json"
+      }
+    ]
+  },
+  "tampa": {
+    "url": "https://arcgis.tampagov.net/arcgis/rest/services/Planning/PermitsAll/FeatureServer/0",
+    "where": "UPPER(PROJECTNAME1) LIKE '%DATA%CENTER%' OR UPPER(PROJECTNAME1) LIKE '%DATACENTRE%' OR UPPER(PROJECTNAME1) LIKE '%COLOCATION%' OR UPPER(PROJECTNAME1) LIKE '%EQUINIX%' OR UPPER(PROJECTNAME1) LIKE '%TERREMARK%' OR UPPER(PROJECTNAME1) LIKE '%NAP OF THE AMERICAS%' OR UPPER(PROJECTNAME1) LIKE '%FLEXENTIAL%' OR UPPER(PROJECTNAME1) LIKE '%QTS DATA%' OR UPPER(PROJECTNAME1) LIKE '%COPT DATA%' OR UPPER(PROJECTNAME1) LIKE '%CORE%SITE%' OR UPPER(PROJECTNAME2) LIKE '%DATA%CENTER%' OR UPPER(PROJECTNAME2) LIKE '%DATACENTRE%' OR UPPER(PROJECTNAME2) LIKE '%COLOCATION%' OR UPPER(PROJECTNAME2) LIKE '%EQUINIX%' OR UPPER(PROJECTNAME2) LIKE '%TERREMARK%' OR UPPER(PROJECTNAME2) LIKE '%NAP OF THE AMERICAS%' OR UPPER(PROJECTNAME2) LIKE '%FLEXENTIAL%' OR UPPER(PROJECTNAME2) LIKE '%QTS DATA%' OR UPPER(PROJECTNAME2) LIKE '%COPT DATA%' OR UPPER(PROJECTNAME2) LIKE '%CORE%SITE%' OR UPPER(PROJECTDESCRIPTION) LIKE '%DATA%CENTER%' OR UPPER(PROJECTDESCRIPTION) LIKE '%DATACENTRE%' OR UPPER(PROJECTDESCRIPTION) LIKE '%COLOCATION%' OR UPPER(PROJECTDESCRIPTION) LIKE '%EQUINIX%' OR UPPER(PROJECTDESCRIPTION) LIKE '%TERREMARK%' OR UPPER(PROJECTDESCRIPTION) LIKE '%NAP OF THE AMERICAS%' OR UPPER(PROJECTDESCRIPTION) LIKE '%FLEXENTIAL%' OR UPPER(PROJECTDESCRIPTION) LIKE '%QTS DATA%' OR UPPER(PROJECTDESCRIPTION) LIKE '%COPT DATA%' OR UPPER(PROJECTDESCRIPTION) LIKE '%CORE%SITE%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://arcgis.tampagov.net/arcgis/rest/services/Planning/PermitsAll/FeatureServer/0?f=json",
+      "sha256": "c5a17616033817a993edb4f082d8a0a496253467ee61ac81aaf847a993055141",
+      "bytes": 11124,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://arcgis.tampagov.net/arcgis/rest/services/Planning/PermitsAll/FeatureServer/0/query?f=json&where=UPPER%28PROJECTNAME1%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28PROJECTNAME1%29+LIKE+%27%25CORE%25SITE%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28PROJECTNAME2%29+LIKE+%27%25CORE%25SITE%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28PROJECTDESCRIPTION%29+LIKE+%27%25CORE%25SITE%25%27&returnIdsOnly=true",
+      "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+      "bytes": 49,
+      "ext": "json"
+    },
+    "batches": []
+  },
+  "water_files": {
+    "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/0",
+    "where": "UPPER(PROJECT_NAME) LIKE '%DATA%CENTER%' OR UPPER(PROJECT_NAME) LIKE '%DATACENTRE%' OR UPPER(PROJECT_NAME) LIKE '%COLOCATION%' OR UPPER(PROJECT_NAME) LIKE '%EQUINIX%' OR UPPER(PROJECT_NAME) LIKE '%TERREMARK%' OR UPPER(PROJECT_NAME) LIKE '%NAP OF THE AMERICAS%' OR UPPER(PROJECT_NAME) LIKE '%FLEXENTIAL%' OR UPPER(PROJECT_NAME) LIKE '%QTS DATA%' OR UPPER(PROJECT_NAME) LIKE '%COPT DATA%' OR UPPER(PROJECT_NAME) LIKE '%CORE%SITE%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/0?f=json",
+      "sha256": "c06aa6bfd98a2fc987fb1775224956544060cc5ad22d9a191bc697b2b6116eed",
+      "bytes": 13303,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/0/query?f=json&where=UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25CORE%25SITE%25%27&returnIdsOnly=true",
+      "sha256": "693e013e6f7c417a08f30da8b4a21871eb988b5ed8b1a0fcf1792f8c3a4541d8",
+      "bytes": 249,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/0/query?f=json&objectIds=2049%2C22263%2C27704%2C27705%2C28746%2C32250%2C33004%2C44200%2C44460%2C76109%2C88411%2C88858%2C88884%2C104261%2C104262%2C104263%2C104264%2C104265%2C108992%2C112465%2C112466%2C116338%2C126672%2C126673%2C154059%2C154154%2C154155%2C154834%2C166183%2C166371%2C166653&outFields=OBJECTID%2CAPP_NO%2CPERMIT_NO%2CPROJECT_NAME%2CLink%2CAPP_PERMIT_NO%2CMostRecentApp%2CAppTypeDesc%2CPermitFamily%2CPermitSubFamilyDesc%2CPermitType%2CApplicantName%2CApplicantCompanyName%2CAppStatus%2CPermitStatus%2CLandUse%2CAppFinalActionDate%2CIssueDate%2CPermitExpirationDate%2CIsSWM%2CFEE_PERMIT_TYPE%2CIsTestData%2CAppReceivedDate%2CLegalCompDate%2CIsInPermitView&returnGeometry=false",
+        "sha256": "9f20fb7b35664b1bafe5d62992f4bd9c7d5050cdbb1d8b3f75247568d34093b3",
+        "bytes": 25305,
+        "ext": "json"
+      }
+    ]
+  },
+  "water_permits": {
+    "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/2",
+    "where": "UPPER(PROJECT_NAME) LIKE '%DATA%CENTER%' OR UPPER(PROJECT_NAME) LIKE '%DATACENTRE%' OR UPPER(PROJECT_NAME) LIKE '%COLOCATION%' OR UPPER(PROJECT_NAME) LIKE '%EQUINIX%' OR UPPER(PROJECT_NAME) LIKE '%TERREMARK%' OR UPPER(PROJECT_NAME) LIKE '%NAP OF THE AMERICAS%' OR UPPER(PROJECT_NAME) LIKE '%FLEXENTIAL%' OR UPPER(PROJECT_NAME) LIKE '%QTS DATA%' OR UPPER(PROJECT_NAME) LIKE '%COPT DATA%' OR UPPER(PROJECT_NAME) LIKE '%CORE%SITE%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/2?f=json",
+      "sha256": "2c5ca909c16823fa349ec20330929f68443db509bf2446c520842956b550fb1c",
+      "bytes": 13344,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/2/query?f=json&where=UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25CORE%25SITE%25%27&returnIdsOnly=true",
+      "sha256": "6377e36a2dc0434baaae2d4d84f06b570a61091741fa985d7f428cafb26b1944",
+      "bytes": 170,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://geoweb.sfwmd.gov/agsext1/rest/services/Regulation_ApplicationPermits/RegBndSearch_RegPermitting/FeatureServer/2/query?f=json&objectIds=22263%2C27704%2C27705%2C28746%2C32250%2C33004%2C44200%2C44460%2C88411%2C104263%2C108992%2C112466%2C116338%2C126673%2C154059%2C154155%2C154834%2C166183%2C166371&outFields=OBJECTID%2CAPP_NO%2CPERMIT_NO%2CAPP_PERMIT_NO%2CPROJECT_NAME%2CMostRecentApp%2CAppTypeDesc%2CPermitFamily%2CPermitSubFamilyDesc%2CPermitType%2CApplicantName%2CApplicantCompanyName%2CAppStatus%2CPermitStatus%2CLandUse%2CAppFinalActionDate%2CIssueDate%2CPermitExpirationDate%2CLink%2CIsSWM%2CFEE_PERMIT_TYPE%2CIsTestData%2CAppReceivedDate%2CLegalCompDate%2CIsInPermitView&returnGeometry=false",
+        "sha256": "318beac2950b52b4842d231aeb694f2ba43bcd3c230f8746a1aa3864437bb425",
+        "bytes": 16513,
+        "ext": "json"
+      }
+    ]
+  },
+  "hills": {
+    "url": "https://maps.hillsboroughcounty.org/arcgis1a/rest/services/SDEMapServices/RegulatoryZoning/MapServer/3",
+    "where": "UPPER(JOB_TITLE) LIKE '%DATA%CENTER%' OR UPPER(JOB_TITLE) LIKE '%DATACENTRE%' OR UPPER(JOB_TITLE) LIKE '%COLOCATION%' OR UPPER(JOB_TITLE) LIKE '%EQUINIX%' OR UPPER(JOB_TITLE) LIKE '%TERREMARK%' OR UPPER(JOB_TITLE) LIKE '%NAP OF THE AMERICAS%' OR UPPER(JOB_TITLE) LIKE '%FLEXENTIAL%' OR UPPER(JOB_TITLE) LIKE '%QTS DATA%' OR UPPER(JOB_TITLE) LIKE '%COPT DATA%' OR UPPER(JOB_TITLE) LIKE '%CORE%SITE%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://maps.hillsboroughcounty.org/arcgis1a/rest/services/SDEMapServices/RegulatoryZoning/MapServer/3?f=json",
+      "sha256": "63bdf33db71bbfb7bc05ada375938ff5a3ef0a9fb50d2abc58d2f735c0957e02",
+      "bytes": 5951,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://maps.hillsboroughcounty.org/arcgis1a/rest/services/SDEMapServices/RegulatoryZoning/MapServer/3/query?f=json&where=UPPER%28JOB_TITLE%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25EQUINIX%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25TERREMARK%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25NAP+OF+THE+AMERICAS%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25QTS+DATA%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25COPT+DATA%25%27+OR+UPPER%28JOB_TITLE%29+LIKE+%27%25CORE%25SITE%25%27&returnIdsOnly=true",
+      "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+      "bytes": 49,
+      "ext": "json"
+    },
+    "batches": []
+  },
+  "miami_parcel": {
+    "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0",
+    "where": "FOLIO='0101030801050'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0?f=json",
+      "sha256": "c14d98969e43a8c682dc2e80271948c7b903ab6b1b773fb0bd93ac870fd5989e",
+      "bytes": 21305,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0/query?f=json&where=FOLIO%3D%270101030801050%27&returnIdsOnly=true",
+      "sha256": "78f2526fbb03155a6f69dfc06958fd5d4ad0c537ca1579135d860db7853b4f4c",
+      "bytes": 619,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0/query?f=json&objectIds=2772%2C6882%2C14076%2C17792%2C17933%2C25076%2C27963%2C31904%2C32972%2C35259%2C36399%2C36469%2C36484%2C39097%2C45508%2C45964%2C50845%2C64766%2C71465%2C84317%2C84619%2C88019%2C89490%2C90262%2C93670%2C96874%2C98971%2C102734%2C107902%2C113999%2C114468%2C114870%2C124664%2C125559%2C128575%2C129325%2C134798%2C141897%2C142834%2C147806%2C148124%2C149269%2C154623%2C162249%2C164030%2C168733%2C169576%2C170841%2C173818%2C174503&outFields=OBJECTID%2CPermitNumber%2CApplicationNumber%2CFULLADDR%2CFOLIO%2CPermitStatus%2CPermitIssuedDate%2CMasterPermitStatus%2CScopeOfWork%2CProjectName%2CPermitType%2CApplicationType%2CApplicationStatusDate%2CMasterPermitNumber&returnGeometry=false",
+        "sha256": "9a1f5df96b915602c9d5de6671c2fd41efd0e7862b3958ffc8fb77d194cd757e",
+        "bytes": 21453,
+        "ext": "json"
+      },
+      {
+        "url": "https://gis.miami.gov/gis/rest/services/Maps/iBuildPermits/MapServer/0/query?f=json&objectIds=175856%2C177089%2C177975%2C181120%2C181357%2C183298%2C183761%2C183996%2C194050%2C196812%2C199714%2C213917%2C214275%2C218953%2C221001%2C221426%2C221677%2C225685%2C228640%2C247804%2C248738%2C251747%2C252941%2C253602%2C254346%2C266543%2C268729%2C268841%2C270256%2C271282%2C275906%2C287007%2C287042%2C289035%2C293282%2C297583&outFields=OBJECTID%2CPermitNumber%2CApplicationNumber%2CFULLADDR%2CFOLIO%2CPermitStatus%2CPermitIssuedDate%2CMasterPermitStatus%2CScopeOfWork%2CProjectName%2CPermitType%2CApplicationType%2CApplicationStatusDate%2CMasterPermitNumber&returnGeometry=false",
+        "sha256": "090621c33f3c8b1bc6a5bd33171f6256c8131e84784c2a4da63de2e3fa8c634e",
+        "bytes": 16028,
+        "ext": "json"
+      }
+    ]
+  },
+  "dade_parcel": {
+    "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1",
+    "where": "FOLIO='3049330410015'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1?f=json",
+      "sha256": "c95ce7a206bc54a2ea0d2a324b7a4d1e55a9cc1c350498c2c8a4282ee087903e",
+      "bytes": 8739,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1/query?f=json&where=FOLIO%3D%273049330410015%27&returnIdsOnly=true",
+      "sha256": "f6ab38dd2219a13970c1c2ab1c383a9128200bc6a68cf1158d7a053fe9a0f8f7",
+      "bytes": 52,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1/query?f=json&objectIds=63467&outFields=OBJECTID%2CID%2CPROCNUM%2CADDRESS%2CFOLIO%2CTYPE%2CPROPUSE%2CAPPTYPE%2CFFRMLINE%2CMPRMTNUM%2CISSUDATE%2CBLDCMPDT%2CBPSTATUS%2CDESC1&returnGeometry=false",
+        "sha256": "8a96925210acb7e8f9a3a82f30177efc8bf8be0915ba411f4c6c217cf57e8e43",
+        "bytes": 1956,
+        "ext": "json"
+      }
+    ]
+  }
+}

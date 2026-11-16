@@ -1,0 +1,1920 @@
+[
+  {
+    "structure_gis_id": "2655",
+    "object_id": 1242,
+    "issue_date": "2008-04-09",
+    "pin": "045391908000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+2655&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "3164",
+    "object_id": 1472,
+    "issue_date": "2020-05-18",
+    "pin": "060386530000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+3164&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "3258",
+    "object_id": 1520,
+    "issue_date": "2001-02-12",
+    "pin": "030399036000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+3258&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "3378",
+    "object_id": 1574,
+    "issue_date": "2008-04-09",
+    "pin": "045391908000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+3378&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "28854",
+    "object_id": 14332,
+    "issue_date": "2007-09-11",
+    "pin": "088381462000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+28854&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "28857",
+    "object_id": 14333,
+    "issue_date": "2007-09-11",
+    "pin": "088381462000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+28857&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "46618",
+    "object_id": 22465,
+    "issue_date": "2023-05-26",
+    "pin": "061307791000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+46618&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "46624",
+    "object_id": 22470,
+    "issue_date": "1997-12-04",
+    "pin": "061483407000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+46624&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "46625",
+    "object_id": 22471,
+    "issue_date": "2009-10-26",
+    "pin": "061483407000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+46625&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "56743",
+    "object_id": 27978,
+    "issue_date": "2000-06-20",
+    "pin": "044174648000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+56743&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "56822",
+    "object_id": 28019,
+    "issue_date": null,
+    "pin": "060298548000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+56822&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "56852",
+    "object_id": 28036,
+    "issue_date": "2000-08-30",
+    "pin": "060182916000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+56852&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "64392",
+    "object_id": 31893,
+    "issue_date": "2007-08-03",
+    "pin": "040464286000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+64392&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "67516",
+    "object_id": 33538,
+    "issue_date": "2000-08-30",
+    "pin": "060182916000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+67516&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "67525",
+    "object_id": 33542,
+    "issue_date": "2001-05-01",
+    "pin": "060182916000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+67525&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "101080",
+    "object_id": 51205,
+    "issue_date": "1999-11-24",
+    "pin": "060202337000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+101080&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "101130",
+    "object_id": 51229,
+    "issue_date": "2014-10-07",
+    "pin": "042200988000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+101130&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "101132",
+    "object_id": 51231,
+    "issue_date": "2014-10-07",
+    "pin": "042295813000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+101132&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "101220",
+    "object_id": 51272,
+    "issue_date": "1997-12-18",
+    "pin": "030297084000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+101220&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "108640",
+    "object_id": 55031,
+    "issue_date": "2000-01-19",
+    "pin": "088200644000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+108640&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "109158",
+    "object_id": 55263,
+    "issue_date": "1999-12-22",
+    "pin": "061483407000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+109158&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "109159",
+    "object_id": 55264,
+    "issue_date": "2000-01-11",
+    "pin": "061483407000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+109159&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "109160",
+    "object_id": 55265,
+    "issue_date": "1997-12-04",
+    "pin": "061483407000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+109160&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "109162",
+    "object_id": 55267,
+    "issue_date": "2000-06-01",
+    "pin": "030391106000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+109162&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "109170",
+    "object_id": 55272,
+    "issue_date": null,
+    "pin": "061483407000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+109170&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "109171",
+    "object_id": 55273,
+    "issue_date": "2003-04-18",
+    "pin": "061307725000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+109171&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "117649",
+    "object_id": 59727,
+    "issue_date": null,
+    "pin": "089278681000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+117649&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "117650",
+    "object_id": 59728,
+    "issue_date": "2000-12-06",
+    "pin": "089367531000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+117650&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "117651",
+    "object_id": 59729,
+    "issue_date": "2000-12-06",
+    "pin": "089372808000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+117651&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "117689",
+    "object_id": 59739,
+    "issue_date": "1997-09-08",
+    "pin": "044261032000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+117689&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "129018",
+    "object_id": 66035,
+    "issue_date": "2016-09-20",
+    "pin": "045352692000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+129018&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "129030",
+    "object_id": 66040,
+    "issue_date": "2011-08-23",
+    "pin": "045358110000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+129030&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "129043",
+    "object_id": 66047,
+    "issue_date": "2014-10-07",
+    "pin": "045159083000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+129043&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "129976",
+    "object_id": 66546,
+    "issue_date": "2017-01-13",
+    "pin": "033201325000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+129976&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "135118",
+    "object_id": 69223,
+    "issue_date": "1999-12-30",
+    "pin": "046368231000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+135118&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "135181",
+    "object_id": 69265,
+    "issue_date": null,
+    "pin": "034462865000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+135181&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "135190",
+    "object_id": 69271,
+    "issue_date": "1999-02-05",
+    "pin": "034468458000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+135190&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "135194",
+    "object_id": 69274,
+    "issue_date": "1999-08-03",
+    "pin": "034468458000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+135194&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "135237",
+    "object_id": 69294,
+    "issue_date": "2018-10-04",
+    "pin": "034365461000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+135237&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "187060",
+    "object_id": 93216,
+    "issue_date": "2006-08-30",
+    "pin": "060178810000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+187060&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "197739",
+    "object_id": 97918,
+    "issue_date": "2011-08-23",
+    "pin": "045254455000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+197739&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "199111",
+    "object_id": 98585,
+    "issue_date": "2010-08-20",
+    "pin": "060170268000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+199111&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "199113",
+    "object_id": 98586,
+    "issue_date": "2008-03-13",
+    "pin": "060170268000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+199113&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "200395",
+    "object_id": 99190,
+    "issue_date": "2011-06-29",
+    "pin": "060108050000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+200395&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "201691",
+    "object_id": 99801,
+    "issue_date": null,
+    "pin": "089374763000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+201691&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "201693",
+    "object_id": 99802,
+    "issue_date": "2010-07-23",
+    "pin": "089374763000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+201693&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "201695",
+    "object_id": 99803,
+    "issue_date": "2009-07-10",
+    "pin": "089382215000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+201695&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "218454",
+    "object_id": 104712,
+    "issue_date": "1999-11-24",
+    "pin": "060202337000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+218454&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "218622",
+    "object_id": 104796,
+    "issue_date": "2013-06-07",
+    "pin": "061467942000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+218622&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "219226",
+    "object_id": 105098,
+    "issue_date": "2024-06-07",
+    "pin": "088392214000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+219226&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2023-018612",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2504313&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Construction of a three story Data Center on an existing campus."
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "219228",
+    "object_id": 105099,
+    "issue_date": "2012-06-27",
+    "pin": "088389930000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+219228&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "219230",
+    "object_id": 105100,
+    "issue_date": "2018-05-07",
+    "pin": "088389930000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+219230&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "220922",
+    "object_id": 105934,
+    "issue_date": "2012-03-26",
+    "pin": "045458114000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+220922&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "223058",
+    "object_id": 106867,
+    "issue_date": "2016-03-16",
+    "pin": "089291706000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+223058&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "223060",
+    "object_id": 106868,
+    "issue_date": "2013-03-21",
+    "pin": "089291706000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+223060&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "223062",
+    "object_id": 106869,
+    "issue_date": "2013-10-22",
+    "pin": "089291706000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+223062&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "223064",
+    "object_id": 106870,
+    "issue_date": "2015-04-15",
+    "pin": "089291706000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+223064&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "230874",
+    "object_id": 110759,
+    "issue_date": "2014-10-17",
+    "pin": "060485060000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+230874&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "230876",
+    "object_id": 110760,
+    "issue_date": "2014-01-08",
+    "pin": "060485060000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+230876&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "230878",
+    "object_id": 110761,
+    "issue_date": "2013-05-16",
+    "pin": "060485060000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+230878&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "232576",
+    "object_id": 111603,
+    "issue_date": "2014-02-06",
+    "pin": "045175529000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+232576&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "232577",
+    "object_id": 111604,
+    "issue_date": "2014-02-06",
+    "pin": "045175529000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+232577&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "238483",
+    "object_id": 114545,
+    "issue_date": "2014-05-15",
+    "pin": "030393965000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+238483&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "244612",
+    "object_id": 117534,
+    "issue_date": "2017-12-08",
+    "pin": "097354183000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+244612&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "244614",
+    "object_id": 117535,
+    "issue_date": "2020-09-08",
+    "pin": "097354183000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+244614&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "244620",
+    "object_id": 117538,
+    "issue_date": "2015-06-05",
+    "pin": "097354183000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+244620&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "244622",
+    "object_id": 117539,
+    "issue_date": "2016-04-05",
+    "pin": "097354183000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+244622&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "244934",
+    "object_id": 117695,
+    "issue_date": "2023-05-22",
+    "pin": "233108602000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+244934&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246808",
+    "object_id": 118621,
+    "issue_date": "2015-11-02",
+    "pin": "045282657000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246808&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246810",
+    "object_id": 118622,
+    "issue_date": "2015-10-08",
+    "pin": "045282657000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246810&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246826",
+    "object_id": 118629,
+    "issue_date": "2019-07-29",
+    "pin": "162392026000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246826&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246828",
+    "object_id": 118630,
+    "issue_date": "2015-12-08",
+    "pin": "162392026000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246828&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246830",
+    "object_id": 118631,
+    "issue_date": "2017-06-28",
+    "pin": "162392026000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246830&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246832",
+    "object_id": 118632,
+    "issue_date": "2020-09-28",
+    "pin": "162392026000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246832&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "246834",
+    "object_id": 118633,
+    "issue_date": "2018-03-29",
+    "pin": "162392026000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+246834&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "247002",
+    "object_id": 118717,
+    "issue_date": "2015-10-15",
+    "pin": "060307119000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+247002&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "247004",
+    "object_id": 118718,
+    "issue_date": "2015-12-04",
+    "pin": "060307119000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+247004&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "248610",
+    "object_id": 119506,
+    "issue_date": "2016-06-21",
+    "pin": "061361948000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+248610&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "249078",
+    "object_id": 119740,
+    "issue_date": "2017-08-25",
+    "pin": "060209652000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+249078&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "249080",
+    "object_id": 119741,
+    "issue_date": "2018-11-05",
+    "pin": "060209652000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+249080&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "249282",
+    "object_id": 119839,
+    "issue_date": "2016-04-08",
+    "pin": "060307119000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+249282&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "249692",
+    "object_id": 120044,
+    "issue_date": "2018-03-29",
+    "pin": "062462761000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+249692&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "249696",
+    "object_id": 120045,
+    "issue_date": "2016-11-17",
+    "pin": "062462761000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+249696&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "249702",
+    "object_id": 120048,
+    "issue_date": "2018-12-28",
+    "pin": "062493798000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+249702&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "253090",
+    "object_id": 121734,
+    "issue_date": "2018-04-27",
+    "pin": "042394385000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+253090&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254056",
+    "object_id": 122211,
+    "issue_date": "2017-03-10",
+    "pin": "033201325000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254056&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254058",
+    "object_id": 122212,
+    "issue_date": "2017-03-10",
+    "pin": "033201325000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254058&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254228",
+    "object_id": 122248,
+    "issue_date": "2022-08-09",
+    "pin": "087100681000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254228&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254230",
+    "object_id": 122249,
+    "issue_date": "2022-03-02",
+    "pin": "061450432000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254230&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254232",
+    "object_id": 122250,
+    "issue_date": "2025-05-08",
+    "pin": "061450432000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254232&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254234",
+    "object_id": 122251,
+    "issue_date": "2019-02-14",
+    "pin": "061450432000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254234&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254236",
+    "object_id": 122252,
+    "issue_date": "2018-09-21",
+    "pin": "061450432000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254236&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "254238",
+    "object_id": 122253,
+    "issue_date": "2017-01-27",
+    "pin": "061450432000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+254238&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "255116",
+    "object_id": 122691,
+    "issue_date": "2017-06-21",
+    "pin": "061268762000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+255116&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "256270",
+    "object_id": 123268,
+    "issue_date": "2017-06-02",
+    "pin": "042197707000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+256270&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "256272",
+    "object_id": 123269,
+    "issue_date": "2017-06-02",
+    "pin": "042197707000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+256272&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "257544",
+    "object_id": 123904,
+    "issue_date": "2017-08-29",
+    "pin": "044152877000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+257544&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "257610",
+    "object_id": 123937,
+    "issue_date": "2023-09-14",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+257610&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "258010",
+    "object_id": 124137,
+    "issue_date": "2017-08-25",
+    "pin": "030296913000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+258010&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "259922",
+    "object_id": 124956,
+    "issue_date": "2018-06-22",
+    "pin": "034357851000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+259922&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "259924",
+    "object_id": 124957,
+    "issue_date": "2019-12-16",
+    "pin": "034263373000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+259924&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260480",
+    "object_id": 125232,
+    "issue_date": "2019-03-27",
+    "pin": "041352218000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260480&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260484",
+    "object_id": 125234,
+    "issue_date": "2018-01-11",
+    "pin": "059309091000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260484&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260968",
+    "object_id": 125475,
+    "issue_date": "2022-05-13",
+    "pin": "194103673000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260968&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260970",
+    "object_id": 125476,
+    "issue_date": "2018-11-05",
+    "pin": "194103673000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260970&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260974",
+    "object_id": 125477,
+    "issue_date": "2022-03-28",
+    "pin": "194103673000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260974&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260980",
+    "object_id": 125478,
+    "issue_date": "2021-05-19",
+    "pin": "194103673000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260980&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "260982",
+    "object_id": 125479,
+    "issue_date": null,
+    "pin": "061177666000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+260982&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261064",
+    "object_id": 125520,
+    "issue_date": "2019-05-21",
+    "pin": "162176713000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261064&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261104",
+    "object_id": 125540,
+    "issue_date": "2018-05-23",
+    "pin": "044288975000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261104&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261218",
+    "object_id": 125597,
+    "issue_date": "2018-05-17",
+    "pin": "097398776000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261218&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261220",
+    "object_id": 125598,
+    "issue_date": "2018-07-11",
+    "pin": "097398776000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261220&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261222",
+    "object_id": 125599,
+    "issue_date": "2018-08-24",
+    "pin": "097398776000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261222&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261230",
+    "object_id": 125603,
+    "issue_date": "2018-08-03",
+    "pin": "124299328000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261230&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261232",
+    "object_id": 125604,
+    "issue_date": "2018-07-13",
+    "pin": "124299328000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261232&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261234",
+    "object_id": 125605,
+    "issue_date": "2018-05-02",
+    "pin": "124299328000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261234&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "261248",
+    "object_id": 125612,
+    "issue_date": "2019-05-13",
+    "pin": "044282013000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+261248&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "262190",
+    "object_id": 126080,
+    "issue_date": "2020-02-11",
+    "pin": "194498227000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+262190&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "262194",
+    "object_id": 126082,
+    "issue_date": "2019-01-09",
+    "pin": "061275931000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+262194&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "262298",
+    "object_id": 126134,
+    "issue_date": "2018-10-10",
+    "pin": "030382006000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+262298&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "262302",
+    "object_id": 126136,
+    "issue_date": "2018-06-15",
+    "pin": "030382006000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+262302&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "262574",
+    "object_id": 126272,
+    "issue_date": "2024-05-29",
+    "pin": "061200160000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+262574&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "262578",
+    "object_id": 126274,
+    "issue_date": "2020-09-24",
+    "pin": "061200160000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+262578&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "264755",
+    "object_id": 127360,
+    "issue_date": "2018-11-30",
+    "pin": "061355894000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+264755&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "264757",
+    "object_id": 127361,
+    "issue_date": "2020-07-27",
+    "pin": "088101859000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+264757&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265667",
+    "object_id": 127810,
+    "issue_date": "2019-06-12",
+    "pin": "194498227000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265667&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265669",
+    "object_id": 127811,
+    "issue_date": "2020-12-29",
+    "pin": "194498227000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265669&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265687",
+    "object_id": 127820,
+    "issue_date": "2020-06-30",
+    "pin": "044288975000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265687&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265717",
+    "object_id": 127833,
+    "issue_date": "2023-05-25",
+    "pin": "246203645000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265717&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "B20655910100",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2173766&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "DATA CENTER SHELL"
+      },
+      {
+        "number": "B20656720100",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+1437854&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "DATA CENTER SHELL"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "265719",
+    "object_id": 127834,
+    "issue_date": "2023-05-25",
+    "pin": "246203645000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265719&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "B20655910100",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2173766&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "DATA CENTER SHELL"
+      },
+      {
+        "number": "B20656720100",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+1437854&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "DATA CENTER SHELL"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "265723",
+    "object_id": 127836,
+    "issue_date": "2019-09-26",
+    "pin": "246200886000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265723&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265725",
+    "object_id": 127837,
+    "issue_date": "2019-12-02",
+    "pin": "246200886000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265725&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265751",
+    "object_id": 127850,
+    "issue_date": "2020-03-25",
+    "pin": "044370416000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265751&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265767",
+    "object_id": 127856,
+    "issue_date": "2020-11-19",
+    "pin": "124369522000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265767&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265782",
+    "object_id": 127864,
+    "issue_date": "2023-08-28",
+    "pin": "044370416000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265782&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265881",
+    "object_id": 127912,
+    "issue_date": "2019-08-02",
+    "pin": "044193385000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265881&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265885",
+    "object_id": 127914,
+    "issue_date": "2019-08-01",
+    "pin": "043482656000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265885&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265895",
+    "object_id": 127919,
+    "issue_date": "2019-07-17",
+    "pin": "034385918000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265895&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "265897",
+    "object_id": 127920,
+    "issue_date": "2019-08-23",
+    "pin": "034385918000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+265897&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "266937",
+    "object_id": 128429,
+    "issue_date": "2020-01-24",
+    "pin": "043482656000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+266937&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "266939",
+    "object_id": 128430,
+    "issue_date": "2019-11-12",
+    "pin": "043482656000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+266939&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "266971",
+    "object_id": 128446,
+    "issue_date": "2020-01-28",
+    "pin": "045494813000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+266971&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "267015",
+    "object_id": 128468,
+    "issue_date": "2019-11-18",
+    "pin": "042394385000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+267015&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "267635",
+    "object_id": 128773,
+    "issue_date": "2020-08-24",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+267635&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "267637",
+    "object_id": 128774,
+    "issue_date": "2020-08-24",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+267637&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "268403",
+    "object_id": 129156,
+    "issue_date": "2020-04-27",
+    "pin": "043482656000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+268403&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "268407",
+    "object_id": 129158,
+    "issue_date": "2022-04-14",
+    "pin": "062159785000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+268407&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "268411",
+    "object_id": 129159,
+    "issue_date": "2020-08-10",
+    "pin": "062159785000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+268411&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "268413",
+    "object_id": 129160,
+    "issue_date": "2020-06-16",
+    "pin": "062159785000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+268413&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "268699",
+    "object_id": 129303,
+    "issue_date": "2020-07-08",
+    "pin": "034385918000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+268699&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "269377",
+    "object_id": 129639,
+    "issue_date": "2020-07-22",
+    "pin": "089100937000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+269377&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "269379",
+    "object_id": 129640,
+    "issue_date": "2021-08-27",
+    "pin": "089104437000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+269379&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "269401",
+    "object_id": 129651,
+    "issue_date": "2020-12-11",
+    "pin": "162392026000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+269401&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "269427",
+    "object_id": 129664,
+    "issue_date": "2022-01-19",
+    "pin": "062462761000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+269427&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270161",
+    "object_id": 130026,
+    "issue_date": "2021-02-23",
+    "pin": "030455548000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270161&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270163",
+    "object_id": 130027,
+    "issue_date": "2020-12-11",
+    "pin": "029151508000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270163&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270165",
+    "object_id": 130028,
+    "issue_date": "2020-11-12",
+    "pin": "041108666000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270165&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270217",
+    "object_id": 130054,
+    "issue_date": "2022-09-13",
+    "pin": "060189720000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270217&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270247",
+    "object_id": 130069,
+    "issue_date": "2025-05-02",
+    "pin": "060209652000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270247&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-057229",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+461875&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "NEW 4-STORY BUILDING CONSISTING OF 12 DATA HALLS, \nMECHANICAL PENTHOUSE, BACKUP GENERATORS, POWER \nEQUIPMENT CENTERS AND ADMINISTRATIVE \nFUNCTIONS. A BRIDGE CONNECTING THE NEW BUILDING \nTO AN EXISTING BUILDING ON CAMPUS AT THE 2ND LEVEL.  \nTHE SCOPE OF WORK WITHIN THESE DOCUMENTS \nCONSISTS OF ALL ARCHITECTURAL, STRUCTURAL, \nMECHANICAL, ELECTRICAL, AND \nPLUMBING WORK TO SUPPORT THE CONSTRUCTION OF \nTHE CORE AND SHELL OF THE BUILDING AND THE TENANT \nBUILD OUT OF THE DATA HALL."
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "270249",
+    "object_id": 130070,
+    "issue_date": "2023-04-05",
+    "pin": "060209652000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270249&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270821",
+    "object_id": 130355,
+    "issue_date": "2021-06-21",
+    "pin": "097354183000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270821&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270823",
+    "object_id": 130356,
+    "issue_date": "2021-05-12",
+    "pin": "097354183000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270823&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270933",
+    "object_id": 130411,
+    "issue_date": "2021-04-19",
+    "pin": "061303369000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270933&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "270937",
+    "object_id": 130413,
+    "issue_date": "2021-04-19",
+    "pin": "061407107000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+270937&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "271013",
+    "object_id": 130450,
+    "issue_date": "2021-03-19",
+    "pin": "162176713000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+271013&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "272336",
+    "object_id": 131107,
+    "issue_date": "2021-08-05",
+    "pin": "044381108000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+272336&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "272664",
+    "object_id": 131267,
+    "issue_date": "2025-05-06",
+    "pin": "203170856000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+272664&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-031304",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+1034397&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Three story data center that includes both core & shell and tenant fit-up.  The tenant fit-up is broken into office + 18 phases and we would like each phase to have a separate permit.  We are initially submitting Architectural and Structural drawing sets for review with the remainder of the discipline sets to be submitted once the Architectural and Structural sets are approved."
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "272672",
+    "object_id": 131271,
+    "issue_date": "2022-03-31",
+    "pin": "034385918000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+272672&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "272674",
+    "object_id": 131272,
+    "issue_date": "2021-06-07",
+    "pin": "034385918000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+272674&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "273538",
+    "object_id": 131703,
+    "issue_date": "2023-07-19",
+    "pin": "062275493000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+273538&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "B30490460100",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+586476&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": false,
+        "description": "SHELL BUILDING"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "273540",
+    "object_id": 131704,
+    "issue_date": "2023-07-09",
+    "pin": "062275493000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+273540&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "273684",
+    "object_id": 131776,
+    "issue_date": "2024-03-20",
+    "pin": "093365404000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+273684&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "273686",
+    "object_id": 131777,
+    "issue_date": "2022-04-26",
+    "pin": "093365404000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+273686&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "273692",
+    "object_id": 131780,
+    "issue_date": "2021-10-13",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+273692&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "273694",
+    "object_id": 131781,
+    "issue_date": "2022-03-17",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+273694&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "274238",
+    "object_id": 132053,
+    "issue_date": "2021-10-12",
+    "pin": "203354208000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+274238&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "274270",
+    "object_id": 132068,
+    "issue_date": "2022-06-29",
+    "pin": "061285496000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+274270&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "274590",
+    "object_id": 132228,
+    "issue_date": "2022-08-31",
+    "pin": "042152579000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+274590&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "274594",
+    "object_id": 132230,
+    "issue_date": "2021-12-27",
+    "pin": "124369522000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+274594&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "274674",
+    "object_id": 132270,
+    "issue_date": "2022-04-11",
+    "pin": "044381108000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+274674&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "274890",
+    "object_id": 132375,
+    "issue_date": "2022-01-20",
+    "pin": "088481748000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+274890&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "276200",
+    "object_id": 133021,
+    "issue_date": "2022-03-09",
+    "pin": "063498140000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+276200&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "276202",
+    "object_id": 133022,
+    "issue_date": "2022-05-19",
+    "pin": "063494014000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+276202&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "276812",
+    "object_id": 133327,
+    "issue_date": "2025-01-15",
+    "pin": "044155625000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+276812&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-056493",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2183049&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": false,
+        "description": "QTS ASH1-DC2 CORESHELL BUILDING PERMIT; NEW CONSTRUCTION; THIS PERMIT WILL COVER ALL 3 FLOORS BUT WILL HAVE 3 MORE PERMITS FOR OCCUPANCY PURPOSES (1 PER FLOOR). Electronic copy"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "277154",
+    "object_id": 133498,
+    "issue_date": "2022-06-07",
+    "pin": "045299249000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+277154&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "277180",
+    "object_id": 133510,
+    "issue_date": "2022-05-09",
+    "pin": "034385918000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+277180&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "277206",
+    "object_id": 133523,
+    "issue_date": "2022-08-25",
+    "pin": "089208954000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+277206&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "277530",
+    "object_id": 133683,
+    "issue_date": "2023-10-17",
+    "pin": "203371445000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+277530&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "278348",
+    "object_id": 134089,
+    "issue_date": "2022-08-15",
+    "pin": "096183926000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+278348&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "278362",
+    "object_id": 134091,
+    "issue_date": "2023-03-20",
+    "pin": "045195615000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+278362&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "278522",
+    "object_id": 134171,
+    "issue_date": "2022-10-13",
+    "pin": "045279612000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+278522&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "278598",
+    "object_id": 134209,
+    "issue_date": "2023-01-31",
+    "pin": "193367800000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+278598&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "279120",
+    "object_id": 134470,
+    "issue_date": "2023-03-10",
+    "pin": "045399350000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+279120&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "279272",
+    "object_id": 134542,
+    "issue_date": "2023-04-11",
+    "pin": "032155119000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+279272&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "279292",
+    "object_id": 134552,
+    "issue_date": "2024-11-15",
+    "pin": "122207249000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+279292&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "281822",
+    "object_id": 135817,
+    "issue_date": "2023-09-14",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+281822&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "282384",
+    "object_id": 136098,
+    "issue_date": "2023-11-15",
+    "pin": "194103673000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+282384&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "282418",
+    "object_id": 136115,
+    "issue_date": "2023-07-10",
+    "pin": "032155119000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+282418&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "282604",
+    "object_id": 136208,
+    "issue_date": "2023-11-17",
+    "pin": "113272390000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+282604&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "282856",
+    "object_id": 136334,
+    "issue_date": "2024-07-01",
+    "pin": "044292829000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+282856&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "283420",
+    "object_id": 136616,
+    "issue_date": "2024-01-03",
+    "pin": "193276668000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+283420&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "283422",
+    "object_id": 136617,
+    "issue_date": "2024-01-03",
+    "pin": "193274995000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+283422&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2023-004504",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2722830&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Building 2 of 2 on campus. revisions. electronic copy \nCURRENT: CORE/SHELL 3 STORY FLEX WAREHOUSE AND COMMERCIAL OFFICE\nFUTURE PURPOSE OF SPACE: 3 STORY SINGLE TENANT COMPUTER DATA CENTER\nAssociated grading permit: (County #X20231280001)"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "283508",
+    "object_id": 136660,
+    "issue_date": "2024-04-03",
+    "pin": "045252512000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+283508&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "283731",
+    "object_id": 136771,
+    "issue_date": "2024-08-27",
+    "pin": "235297431000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+283731&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-000861",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+1266329&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Data Center - Core and Shell"
+      },
+      {
+        "number": "BLDC-2024-001396",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2370579&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Data Center - Administrative office fit-out"
+      },
+      {
+        "number": "BLDC-2024-001400",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2510485&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Data Center - Data Hall fit-out"
+      },
+      {
+        "number": "BLDC-2024-001425",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+942932&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Data Center - Data Hall fit-out"
+      },
+      {
+        "number": "BLDC-2024-001431",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+195282&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Data Center - Data Hall fit-out"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "283738",
+    "object_id": 136774,
+    "issue_date": "2024-06-25",
+    "pin": "203354208000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+283738&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "283740",
+    "object_id": 136775,
+    "issue_date": "2024-05-16",
+    "pin": "203354208000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+283740&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "284074",
+    "object_id": 136942,
+    "issue_date": "2024-11-25",
+    "pin": "234371847000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+284074&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "284076",
+    "object_id": 136943,
+    "issue_date": "2024-07-24",
+    "pin": "234371847000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+284076&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "285494",
+    "object_id": 137650,
+    "issue_date": "2025-01-31",
+    "pin": "193178229000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285494&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-041274",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+886243&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Fourth building on the campus.  CURRENT: CORE/SHELL 3-STORY FLEX WAREHOUSE AND COMMERCIAL OFFICE, FUTURE PURPOSE OF SPACE: 3-STORY SINGLE TENANT COMPUTER DATA CENTER."
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "285498",
+    "object_id": 137652,
+    "issue_date": "2025-01-31",
+    "pin": "193281883000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285498&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-039132",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2202277&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Third building on the campus.  CURRENT: CORE/SHELL 3-STORY FLEX WAREHOUSE AND COMMERICAL OFFICE. FUTURE PURPOSE OF SPACE: 3-STORY SINGLE TENANT COMPUTER DATA CENTER."
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "285508",
+    "object_id": 137657,
+    "issue_date": "2025-06-17",
+    "pin": "063477734000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285508&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "285644",
+    "object_id": 137725,
+    "issue_date": "2025-03-21",
+    "pin": "043171795000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285644&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "285646",
+    "object_id": 137726,
+    "issue_date": "2025-01-02",
+    "pin": "043176560000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285646&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "285668",
+    "object_id": 137736,
+    "issue_date": "2024-11-19",
+    "pin": "044175589000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285668&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "285848",
+    "object_id": 137826,
+    "issue_date": "2025-04-23",
+    "pin": "093365404000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285848&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "285850",
+    "object_id": 137827,
+    "issue_date": "2025-04-16",
+    "pin": "093365404000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+285850&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "286360",
+    "object_id": 138082,
+    "issue_date": "2025-05-07",
+    "pin": "089496314000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286360&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "286364",
+    "object_id": 138084,
+    "issue_date": "2025-04-09",
+    "pin": "030286764000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286364&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "286470",
+    "object_id": 138137,
+    "issue_date": "2025-02-26",
+    "pin": "030292034000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286470&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-063290",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2654457&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Core and Shell building with an admin area. Also includes a 3rd floor data center build out which consist of 24 MWs. Electronic copy"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "286568",
+    "object_id": 138186,
+    "issue_date": "2025-06-09",
+    "pin": "044461959000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286568&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-064947",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+220176&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Construct Core and Shell for Data Center. Electronic Copy"
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "286570",
+    "object_id": 138187,
+    "issue_date": "2025-06-05",
+    "pin": "044461959000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286570&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": [
+      {
+        "number": "BLDC-2024-064895",
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=ID+%3D+2215076&outFields=%2A&returnGeometry=false&f=pjson",
+        "in_description_screen": true,
+        "description": "Construct Core and Shell for Data Center."
+      }
+    ]
+  },
+  {
+    "structure_gis_id": "286576",
+    "object_id": 138190,
+    "issue_date": "2025-04-09",
+    "pin": "162176713000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286576&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  },
+  {
+    "structure_gis_id": "286594",
+    "object_id": 138199,
+    "issue_date": "2025-06-30",
+    "pin": "096183926000",
+    "source_url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?where=LU_GIS_LOUD_ID+%3D+286594&outFields=%2A&returnGeometry=false&f=pjson",
+    "candidate_permits": []
+  }
+]

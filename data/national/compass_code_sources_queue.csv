@@ -1,0 +1,1014 @@
+priority,url,referred_geoids,states,technologies,authority_basis,market_markers,prior_codebook_url_check,same_host_jurisdiction_or_verified_referral
+1,https://co.richmond.va.us/files/Zoning_Ordinance_-_Complete(5).pdf,51159,VA,high_voltage_transmission;solar,matched jurisdiction website host,0,False,True
+2,https://www.rockinghamcountyva.gov/DocumentCenter/View/390/Zoning-Ordinance--Date-of-Enactment-10-1-14?bidId=,51165,VA,high_voltage_transmission;wind,matched jurisdiction website host,0,False,True
+3,https://colonialheightsva.gov/DocumentCenter/View/219/Zoning-Ordinance?bidId=,5118448;51570,VA,high_voltage_transmission,government host: issuing scope unverified;matched jurisdiction website host,0,False,True
+4,https://pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf,51155,VA,solar,matched jurisdiction website host,0,False,True
+5,https://www.berryvilleva.gov/DocumentCenter/View/2877/Zoning-Ordinance-July-2026,5106968,VA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+6,https://www.co.middlesex.va.us/DocumentCenter/View/1467/Zoning-Ordinance-of-Middlesex-County---07-06-2021-Final,51119,VA,solar,matched jurisdiction website host,0,False,True
+7,https://www.fairfaxva.gov/files/assets/city/v/2/city-clerk/documents/fairfax-zoning-amended-2025-07-22.pdf,5126496,VA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+8,https://www.franklincountyva.gov/DocumentCenter/View/3071/Franklin-County-Code-of-Ordinances--Chapter-25--Zoning-PDF,51067,VA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+9,https://www.loudoun.gov/DocumentCenter/View/173093/Ch-13-Definitions-01-05-23,51107,VA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+10,https://www.loudoun.gov/DocumentCenter/View/176098/Chapter-4-Use-Specific-Standards-PDF,51107,VA,solar,matched jurisdiction website host,0,False,True
+11,https://www.mecklenburgva.com/DocumentCenter/View/860/2023-Zoning-Ordinance,51117,VA,solar,matched jurisdiction website host,0,False,True
+12,https://www.pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf,51155,VA,wind,matched jurisdiction website host,0,False,True
+13,https://www.wytheco.org/DocumentCenter/View/698/Land-Use-Classification-Ordinance---Draft-31---October-2025,51197,VA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+14,https://henrico.gov/pdfs/countyattorney/Chpt024Zoning.pdf,51087,VA,high_voltage_transmission;solar;wind,government host: issuing scope unverified,0,False,False
+15,https://kwc.gov/DocumentCenter/View/3380/Chapter-86---Zoning--Subdivision-Ordinance,51101,VA,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+16,https://documents.jamescitycountyva.gov/Minutes/Ordinances/1983/31A-7504111983.pdf,51095,VA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+17,https://greenecountyva.gov/DocumentCenter/View/290/Zoning-Ordinance-PDF-7222025,51079,VA,solar,government host: issuing scope unverified,0,False,False
+18,https://sussexcountyva.gov/wp-content/uploads/2025/04/April-7-Chapter_34__ZONING.rev_.finaldraft.3.28.25.pdf,51183,VA,geothermal_electricity,government host: issuing scope unverified,0,False,False
+19,https://www.fairfaxva.gov/files/assets/city/v/2/city-clerk/documents/fairfax-zoning-amended-2026-07-28.pdf,51600,VA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+20,https://www.nelsoncounty-va.gov/wp-content/uploads/2023/07/Current-Nelson-Co.-Zoning-Ord.-Eff-060107-Amend-08-09-2022-Editorial.pdf,51125,VA,solar,government host: issuing scope unverified,0,False,False
+21,https://www.roanokeva.gov/DocumentCenter/View/16551/Proposed-Amendments-to-the-Zoning-Code-Text-Amendments-November-2021,51770,VA,wind,government host: issuing scope unverified,0,False,False
+22,https://cityoffrost.municipalimpact.com/documents/340/City_Ordinance.pdf,4827768,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+23,https://fairchildstx.gov/wp-content/uploads/2025/09/2006-04-Ordinance-Granting-Franchise-to-Centerpoint-Energy.pdf,4825068,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+24,https://lakesidetexas.us/wp-content/uploads/2023/08/Ordinance-428-Oncor-Franchise-Contract.pdf,4840744,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+25,https://www.arlingtontx.gov/files/assets/city/v/5/city-secretary/documents/city-code-of-ordinances/unified-development-code-chapter.pdf,4804000,TX,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+26,https://www.bartlett-tx.us/sites/default/files/fileattachments/planning_amp_development/page/2704/ordinance_2023-1127-01_subdivision_code.pdf,4805732,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+27,https://www.cityofcouplandtx.us/wp-content/uploads/go-x/u/e2cdbb16-9c98-4735-812b-3842f2f58ee3/coupland-subdivision-ordinance-no.-2018-9-13-03-with-exhibit-b.pdf,4817312,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+28,https://www.cityofovilla.org/DocumentCenter/View/109/ORD2010013Zoning,4854444,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+29,https://www.decaturtx.org/DocumentCenter/View/7482/Subdivision-Ordinance-Update-2024-03-06,4819528,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+30,https://www.mcallen.net/docs/default-source/planning-files/udc_adopted-02-09-2026.pdf,4845384,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+31,https://www.nashtx.org/wp-content/uploads/2022/09/nash_zoning_ordinance_2014.pdf,4850352,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+32,https://www.odessa-tx.gov/DocumentCenter/View/1433/New-Zoning-Ordinance---City-of-Odessa-Texas-PDF,4853388,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+33,https://www.taltytexas.com/upload/page/0204/docs/1999-08-02_Zoning_Ordinance_Article_298d7.pdf,4871756,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+34,https://www.wallistexas.org/page/open/709/0/Ordinance%20No.%20161.pdf,4876240,TX,high_voltage_transmission,matched jurisdiction website host,0,False,True
+35,https://abilenetx.gov/DocumentCenter/View/3749/Zoning-Districts-PDF,4801000,TX,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+36,https://jamaicabeachtx.gov/DocumentCenter/View/327/ORDINANCE-NO-2006-2,4837252,TX,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+37,https://www.coyoteflatstx.gov/assets/docs/city-ordinances.pdf,4817429,TX,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+38,https://www.paloalto.gov/files/assets/public/v/1/development-services/building-division/adoptive-ordinances/2025-edition/urgent_ord_5665-cenc-1.pdf,0655282,CA,geothermal_heat_pumps,government host: issuing scope unverified,1,False,False
+39,https://www.lindsay.ca.us/sites/default/files/fileattachments/city_council/meeting/8598/12.1_d_-_zoning_ordinance_-_exhibit_a.pdf,0641712,CA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+40,https://rmadocs.venturacounty.gov/planning/ordinances/coastal-zoning/ventura-county-coastal-zoning-ordinance.pdf,06111,CA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+41,https://www.cityofshastalake.gov/DocumentCenter/View/3768/Codified-Interim-Zoning-Ordinance-IZO,0671225,CA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+42,https://www.fresnocountyca.gov/files/sharedassets/county/v/1/public-works-and-planning/zoning-ordinance/2026-march-article-3-development-and-operational-standards.pdf,06019,CA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+43,https://www.sandiegocounty.gov/content/dam/sdc/pds/zoning/ALPHABETICAL%20LIST%20OF%20INDIVIDUAL%20LAND%20USES.pdf,06073,CA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+44,https://www.sandiegocounty.gov/pds/zoning/formfields/PDS-316.pdf,06073,CA,solar,government host: issuing scope unverified,0,False,False
+45,https://www.santacruzca.gov/files/assets/city/v/1/pl/documents/green-building-program/ordinance-202312-energy-reach-code.pdf,0669112,CA,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+46,https://dublinohiousa.gov/dev/dev/wp-content/uploads/2021/10/C5_Dublin-Zoning-Code-Regs.pdf,3922694,OH,geothermal_heat_pumps,government host: issuing scope unverified,6,False,False
+47,https://co.knox.oh.us/wp-content/uploads/2024/09/Zoning-Resolution-Hilliar-Township.pdf,39083,OH,solar;wind,matched jurisdiction website host,0,False,True
+48,http://www.crosbytwp.org/PDF/ZONING%20RESOLUTION%20revised%20jul%202013.pdf,3906119470,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+49,https://bainbridgetwp.com/wp-content/uploads/sites/4/2024/03/Zoning-Resolution-Effective-3-27-2024-Z-2023-2.pdf,3905503590,OH,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+50,https://co.shelby.oh.us/DocumentCenter/View/1046/Franklin-Township-Zoning-Regulations,39149,OH,wind,matched jurisdiction website host,0,False,True
+51,https://fultoncountyoh.com/DocumentCenter/View/13315/2011-County-Zoning-Code,39051,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+52,https://swancreektwp.org/wp-content/uploads/2018/06/OCTOBER-6-2017-ZONING-RESOLUTION-23rd-REVISION-1.pdf,3905175861,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+53,https://www.cityofoxford.org/Documents/%20Government/%20City%20Charter%20and%20Codified%20Ordinances/Fee%20Ordinances/2023%20Fee%20Ordinance.pdf?t=202603230833000,3959234,OH,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+54,https://www.clearcreektownship.com/media/user/zoning/ZONEBK%209-12-24.pdf,3916515700,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+55,https://www.co.ottawa.oh.us/DocumentCenter/View/596/Harris-Township-Zoning-Resolution-PDF,39123,OH,wind,matched jurisdiction website host,0,False,True
+56,https://www.franklincountyohio.gov/files/assets/public/v/1/edp/documents/zoning/zoning-resolution-updated-01-10-23.pdf,39049,OH,wind,matched jurisdiction website host,0,False,True
+57,https://www.millcreektwpohio.us/pdfs/2024_02_05_MillcreekZoningResolution.pdf,3915950288,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+58,https://www.salemtownship-warrencounty.com/media/departments/zoning/code2012.pdf,3916569988,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+59,https://www.waynetownship.us/app/download/967268196/ZONING%20CODE%2012.7.2018.pdf,3916582306,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+60,https://www2.auglaizecounty.org/sites/default/files/documents/St.%20Marys%20Township%20Zoning.pdf,39011,OH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+61,https://cdn.toledo.oh.gov/uploads/documents/Plan-Commission/Zoning-Resolutions/Lucas-County-Subdivision-Regulations-04-22-14.pdf,39095,OH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+62,https://cdn.toledo.oh.gov/uploads/documents/Plan-Commission/Zoning-Resolutions/Swanton-2-27-23.pdf,3975896,OH,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+63,https://madison.oh.gov/document_center/Building%20Zoning/Zoning%20Resolution%20Body%20July%202025%20Final%20Draft.pdf,39097,OH,wind,government host: issuing scope unverified,0,False,False
+64,https://www.greenecountyohio.gov/DocumentCenter/View/31703/Bath-Township-Zoning-Resolution-March-2024,3905704220,OH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+65,https://www.greenecountyohio.gov/DocumentCenter/View/32900/Sivercreek-TWP-Zoning-Resolution_Article13-2-28-25?bidId=,39057;3905772473,OH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+66,https://www.greenecountyohio.gov/DocumentCenter/View/7861/Jefferson-Township-Zoning-Resolution-09-28-2016-PDF,3905738626,OH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+67,https://www.greenecountyohio.gov/DocumentCenter/View/7861/Jefferson-Township-Zoning-Resolution-09-28-2016-PDF?bidId=,39057,OH,wind,government host: issuing scope unverified,0,False,False
+68,https://www.greenecountyohio.gov/DocumentCenter/View/7862/Miami-Township-Zoning-Resolution-4-21-25-PDF?bidId=,39057,OH,solar,government host: issuing scope unverified,0,False,False
+69,http://cityofchickamauga.org/media/Zoning-Ordinance-Revised-10-1-2014.pdf,1315984,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+70,http://madisonga.com/DocumentCenter/View/5319/20250908_CityofMadisonZoningOrdinanceText_Adopted,1349196,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+71,https://bullochcounty.net/wp-content/uploads/2023/06/Appendix-C-Zoning-ADOPTED-4_4_23-002-002.pdf,13031,GA,solar,matched jurisdiction website host,0,False,True
+72,https://crispcounty.com/planning-zoning-codes/serve/113/1674/Crisp%20County%20Georgia%20Land%20Development%20Code.pdf,13081,GA,solar,linked government codebook referral,0,False,True
+73,https://gradycountyga.gov/wp-content/uploads/2022/07/Grady-County_-GA-Code-of-Ordinances-thru-_1-compressed.pdf,13131,GA,solar,matched jurisdiction website host,0,False,True
+74,https://upsoncountyga.org/DocumentCenter/View/3613/UpsonCountyAppendix_A_ZONING_Oct22,13293,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+75,https://www.cityofjacksonga.com/DocumentCenter/View/222/Zoning-with-Ordinance-Attached-PDF,1341596,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+76,https://www.habershamga.com/userfiles/File/Habersham-UDO_06-01-26.pdf,13137,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+77,https://www.harriscountyga.gov/wp-content/uploads/2022/11/Harris_County_Adopted_UDC_Effective_4-1-2023.pdf,13145,GA,solar,matched jurisdiction website host,0,False,True
+78,https://www.jasper-ga.us/pdf/Chapter-94-Zoning.pdf,1341932,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+79,https://www.monroega.com/sites/default/files/fileattachments/code_department/page/1361/zoning_ordinance_1-13-2026_web.pdf,1352192,GA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+80,http://www.decaturcountyga.gov/wp-content/uploads/2022/08/Decatur-County-Unified-Development-Ordinance-8-23-22.pdf,13087,GA,solar,government host: issuing scope unverified,0,False,False
+81,https://www.floydcountyga.gov/sites/default/files/fileattachments/planning_amp_zoning/page/133/uldc_2021.pdf,13115,GA,solar,government host: issuing scope unverified,0,False,False
+82,https://www.franklincountyga.gov/sites/g/files/vyhlif6256/f/uploads/franklin_county_udc_amended_3-6-23_1.pdf,13119,GA,solar,government host: issuing scope unverified,0,False,False
+83,https://www.oconeecountyga.gov/DocumentCenter/View/18002/Unified-Development-Code-PDF,13219,GA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+84,https://www.oconeecountyga.gov/DocumentCenter/View/22624/Bogart-UDC-Amendments-4-13-2026-ePortfolio,1309068,GA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+85,https://www.troupcountyga.gov/Content/Documents/planning/2025/Troup%20County%20Unified%20Development%20Ordinance.pdf,13285,GA,solar,government host: issuing scope unverified,0,False,False
+86,https://www.bensonaz.gov/DocumentCenter/View/842/Zoning-Regulations-2026-,0405770,AZ,high_voltage_transmission,government host: issuing scope unverified,1,False,False
+87,https://www.dhaz.gov/DocumentCenter/View/1293/Ordinance-6-21,0419145,AZ,high_voltage_transmission,matched jurisdiction website host,0,False,True
+88,https://www.mohave.gov/media/ll1dxipp/mohave-county-zoning-ordinance.pdf,04015,AZ,solar;wind,government host: issuing scope unverified,0,False,False
+89,https://www.maricopa-az.gov/files/assets/city/v/1/development-services/documents/previous-zoning-code.pdf,0444410,AZ,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+90,https://stuyvesantny.us/wp-content/uploads/2022/04/Zoning-Law-Adopted-9-6-2018-modified-4-14-22.pdf,3602171850,NY,solar;wind,matched jurisdiction website host,0,False,True
+91,http://hannibalny.org/wp-content/uploads/2019/01/ZONING-LAW-6-16-10-2-1.pdf,3607532028,NY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+92,http://marcellusny.com/wp-content/uploads/Zoning_Law_2009.pdf,3606745491,NY,wind,matched jurisdiction website host,0,False,True
+93,https://canaannewyork.org/wp-content/uploads/2018/03/Zoning-Laws.pdf,3602112056,NY,wind,matched jurisdiction website host,0,False,True
+94,https://clermontny.org/wp-content/uploads/2018/11/Clermont-Zoning-Book.pdf,3602116177,NY,wind,matched jurisdiction website host,0,False,True
+95,https://pulteneyny.com/wp-content/uploads/2026/01/2025-Pulteney-Zoning-Regulations-2025-FINAL.pdf,3610159982,NY,high_voltage_transmission,linked government codebook referral,0,True,True
+96,https://townofbenton.us/wp-content/uploads/2021/05/Zoning-Codes.pdf,3612306002,NY,wind,linked government codebook referral,0,True,True
+97,https://townofcatharine.com/wp-content/uploads/2023/05/Draft-2-of-Town-of-Catharine-Zoning-Law.pdf,3609712914,NY,wind,matched jurisdiction website host,0,False,True
+98,https://townofclaverack.com/pdfs/ZRC-Zoning-Code-Aug-2011-Public.pdf,3602116045,NY,solar,matched jurisdiction website host,0,False,True
+99,https://townoflyme.com/wp-content/uploads/2023/06/lyme_zoning_2017_final.pdf,3604543863,NY,wind,matched jurisdiction website host,0,False,True
+100,https://townofoakfieldny.com/wp-content/uploads/2015/11/Oakfield-Zoning.pdf,3603754166,NY,wind,matched jurisdiction website host,0,False,True
+101,https://townofwalton.org/wp-content/uploads/2012/05/ZONING-BOOK.pdf,3602578047,NY,wind,matched jurisdiction website host,0,False,True
+102,https://www.allegany.org/uploads/1/4/0/1/140198361/zoning_ordinance_iii.pdf,3600901297,NY,wind,matched jurisdiction website host,0,False,True
+103,https://www.gerryny.us/uploads/1/3/2/0/132023476/town_of_gerry_-_zoning_law.pdf,3601328838,NY,wind,matched jurisdiction website host,0,False,True
+104,https://www.greeceny.gov/files/2020_Zoning_Ordinance.pdf,3605530290,NY,solar,matched jurisdiction website host,0,False,True
+105,https://www.horiconny.gov/sites/g/files/vyhlif16401/files/media/zoning-planning/file/431/zoning_law.pdf,3611335639,NY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+106,https://www.townofmaltany.gov/DocumentCenter/View/6571/Zoning-Code-Update-Redline-August-2025-ID-3436153,3609144743,NY,high_voltage_transmission,linked government codebook referral,0,True,True
+107,https://www.townofplattsburghny.gov/wp-content/uploads/2023/06/2023-Zoning-Ordinance-Final.pdf,3601958585,NY,wind,linked government codebook referral,0,True,True
+108,https://www.townofplattsburghny.gov/wp-content/uploads/2026/04/2026-Zoning-Ordinance.pdf,3601958585,NY,geothermal_heat_pumps,linked government codebook referral,0,True,True
+109,https://www.townofseneca.com/uploads/1/8/4/9/18490564/zoning_with_2018_changes.pdf,3606966289,NY,wind,matched jurisdiction website host,0,False,True
+110,https://www.townoftheresany.com/uploads/1/1/5/4/115409115/finalzoningregulationspg1-105.pdf,3604573528,NY,wind,matched jurisdiction website host,0,False,True
+111,https://www.townofyates.org/Forms/Yates%20Zoning%20Book%20Revised.pdf,3607383448,NY,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+112,https://lewiscountyny.gov/wp-content/uploads/2024/02/2023-Town-of-Osceola-Zoning-Law.pdf,3604955497,NY,solar;wind,government host: issuing scope unverified,0,False,False
+113,https://townofchampionny.gov/wp-content/uploads/2018/03/TChampionZoningadopted-2014.pdf,3604513717,NY,solar;wind,government host: issuing scope unverified,0,False,False
+114,https://www.denningny.gov/wp-content/uploads/2023/05/TOD-ZONING-LAW-2019.pdf,3611120247,NY,geothermal_heat_pumps;wind,government host: issuing scope unverified,0,False,False
+115,https://www.harmonyny.gov/uploads/1/3/5/9/135908327/harmony_zoning_laws_updated_2024.pdf,3601332248,NY,solar;wind,government host: issuing scope unverified,0,False,False
+116,https://www4.schohariecounty-ny.gov/PdfFiles/TSHA/landUse/2017LandUseLaw.pdf,3609566641,NY,solar;wind,government host: issuing scope unverified,0,False,False
+117,http://berlinnyus.gov/pdf2025/1998%20Land%20Use%20Regs.pdf,3608306189,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+118,https://chester-ny.gov/wp-content/uploads/2017/06/INTRODUCTORY-LOCAL-LAW-OF-2017-CHAPTER-98-ZONING-AMENDMENTS.pdf,3607115308,NY,solar,government host: issuing scope unverified,0,False,False
+119,https://lewiscountyny.gov/wp-content/uploads/2022/10/Town-of-Denmark-Zoning-Law-December-2019.pdf,3604920214,NY,wind,government host: issuing scope unverified,0,False,False
+120,https://lewiscountyny.gov/wp-content/uploads/2022/10/Town-of-Greig-Zoning-Law.pdf,3604930796,NY,wind,government host: issuing scope unverified,0,False,False
+121,https://lewiscountyny.gov/wp-content/uploads/2022/10/Town-of-Harrisburg-Zoning-Law.pdf,3604932358,NY,wind,government host: issuing scope unverified,0,False,False
+122,https://lewiscountyny.gov/wp-content/uploads/2022/10/Town-of-Montague-Land-Use-Law.pdf,3604948032,NY,wind,government host: issuing scope unverified,0,False,False
+123,https://lewiscountyny.gov/wp-content/uploads/2022/10/Town-of-Pinckney-Zoning-Law.pdf,3604957925,NY,wind,government host: issuing scope unverified,0,False,False
+124,https://lewiscountyny.gov/wp-content/uploads/2024/01/Town-of-West-Turin-Zoning-Law-2023-Final-1.pdf,3604981094,NY,wind,government host: issuing scope unverified,0,False,False
+125,https://lewiscountyny.gov/wp-content/uploads/2025/01/T-Croghan-25-1-Zoning-Law-Update.pdf,3604919081,NY,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+126,https://lewiscountyny.gov/wp-content/uploads/2025/09/Town-of-Greig-Zoning-Law-Sep-2025-Final.pdf,3604930796,NY,solar,government host: issuing scope unverified,0,False,False
+127,https://lewiscountyny.gov/wp-content/uploads/2025/10/T-West-Turin-Zoning-25.pdf,3604981094,NY,solar,government host: issuing scope unverified,0,False,False
+128,https://romulusny.gov/wp-content/uploads/2020/04/Romulus-Zoning-2020-03-10.pdf,3609963440,NY,wind,government host: issuing scope unverified,0,False,False
+129,https://schohariecounty-ny.gov/Documents/Towns/Town%20of%20Middleburgh/Zoning%20Law/zoningLawAmend2022.pdf,3609546855,NY,wind,government host: issuing scope unverified,0,False,False
+130,https://townofboonvilleny.gov/wp-content/uploads/sites/45/2026/01/2024-Zoning-Law-complete-03-13-2024.pdf,3606507366,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+131,https://townofbrasher.gov/wp-content/uploads/Zoning-Regulation-Book.pdf,3608907938,NY,solar,government host: issuing scope unverified,0,False,False
+132,https://townofchemung.gov/post/_docs/ZoningCode_2019_Amended.pdf,3601515077,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+133,https://townofcorningny.gov/wp-content/uploads/2025/03/2025-Corning-Zoning-Update.pdf,3610118267,NY,solar,government host: issuing scope unverified,0,False,False
+134,https://townofdeerparkny.gov/wp-content/uploads/Town-of-Deerpark-Zoning-2013.pdf,3607119961,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+135,https://townofsalemny.gov/wp-content/uploads/2026/02/Zoning-Law-of-the-Town-of-Salem-Local-Law-4-of-2024.pdf,3611564782,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+136,https://townofwatertownny.gov/wp-content/uploads/2025/07/Zoning-Code-2025.pdf,3604578619,NY,solar,government host: issuing scope unverified,0,False,False
+137,https://townofwinfieldny.gov/wp-content/uploads/2023/05/zoning-regulations.pdf,3604382568,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+138,https://varickny.gov/wp-content/uploads/2023/10/Varick-Zoning-Code-2023.pdf,3609976958,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+139,https://villageofarcadeny.gov/wp-content/uploads/VOA-files/Zoning%20Board%20Documents/Town%20of%20Arcade%20Zoning%20Law%20December%202020.pdf,3612102418,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+140,https://woodstockny.gov/application/files/6917/6624/6982/Zoning_Edits_Accepted_October_3rd_2023.pdf,3611183052,NY,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+141,https://www.esopus.gov/building/chapter_123_zoning.pdf,3611124691,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+142,https://www.madisoncounty.ny.gov/DocumentCenter/View/2881/Land-Use-Law-PDF,3605371399,NY,wind,government host: issuing scope unverified,0,False,False
+143,https://www.owascony.gov/sites/g/files/vyhlif4831/f/news/2025_town_of_owasco_zoning_law_-_clean.pdf,3601155871,NY,wind,government host: issuing scope unverified,0,False,False
+144,https://www.townofalexandriany.gov/uploads/4/5/0/7/45076661/zoning_ordinance.pdf,3604501176,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+145,https://www.townofeastotto.gov/uploads/1/4/2/7/142714364/zoning_regulations_1996.pdf,3600922678,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+146,https://www.townofhurleyny.gov/sites/g/files/vyhlif7651/f/news/local_law_2_of_2026_amending_chapter_210_zoning_-_final_2026-09-08.pdf,3611137143,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+147,https://www.townoflakegeorge.gov/DocumentCenter/View/1201/Chapter-175--Zoning-Amendments-Adoption-102418-Clean-Copy-PDF,3611340519,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+148,https://www.townofniagarany.gov/wp-content/uploads/FINAL-Niagara-Zoning-Code-October-2025-1.pdf,3606351033,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+149,https://www.townofpolandny.gov/uploads/1/3/5/9/135908327/zoning_ordinance.pdf,3601358926,NY,wind,government host: issuing scope unverified,0,False,False
+150,https://www.townofskaneateles.gov/assets/Uploads/TOS-Chapter-148-Zoning4.01.08.2024-.pdf,3606767521,NY,wind,government host: issuing scope unverified,0,False,False
+151,https://www.watertown-ny.gov/media/PlanningZoning/Zoning%20Ordinance/2023%20Feb%20FINAL_Full%20Ordinance_small.pdf,3604578619,NY,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+152,https://www.yorkshireny.gov/uploads/1/4/5/1/145112937/zoninglaw22.pdf,3600984055,NY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+153,https://westmont.illinois.gov/DocumentCenter/View/5043/VillageofWestmentZoningOrdinance-AsAmended-Feb-19-2026,1780645,IL,geothermal_heat_pumps,government host: issuing scope unverified,1,False,False
+154,http://evergreenpark-ill.com/DocumentCenter/View/1502/ORDINANCE-23-2018-PDF,1724634,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+155,https://blueisland.org/DocumentCenter/View/1501/Zoning-Ordinance-PDF,1706704,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+156,https://bureaucounty-il.gov/wp-content/uploads/2024/07/Article_III_-_Zoning_Districts_-_Agricultural.pdf,17011,IL,wind,matched jurisdiction website host,0,False,True
+157,https://eastdundee.net/Ordinances%20and%20Resolutions/2015/Resolutions/res1715.pdf?t=202308231542250,1721696,IL,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+158,https://princeville.org/wp-content/uploads/2023/03/Title-17-Zoning-2.pdf,1761925,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+159,https://ringwood-il.us/sites/default/files/Subdivision-Ordinance.pdf,1764135,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+160,https://villageofphilo.com/wp-content/uploads/2024/08/VILLAGE-OF-PHILO-ZONING-ORDINANCE_Final-2022-Amendment.pdf,1759533,IL,high_voltage_transmission,linked government codebook referral,0,True,True
+161,https://villageoftimberlane.org/wp-content/uploads/2025/09/O25-079-01ZoningOrdinance.pdf,1775360,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+162,https://www.cityofcresthill.com/DocumentCenter/View/598/Zoning-Ordinance-PDF,1717458,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+163,https://www.lakecountyil.gov/DocumentCenter/View/28214/Final-Draft_April-2019_Access-and-Use-Ordinance,17097,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+164,https://www.northbrook.il.us/DocumentCenter/View/9572/20250911_Adopted-Zoning-Code-Full-Draft,1753481,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+165,https://www.portbarrington.net/wp-content/uploads/2020/04/CHAPTER-154-ZONING-CODE-20-04.pdf,1761216,IL,high_voltage_transmission,linked government codebook referral,0,True,True
+166,https://www.villageoflagrange.com/DocumentCenter/View/2600/O-20-39-Amendments-to-Code-of-Ordinances-Chapter-102-for-Construction-of-Utility-Facilities-in-Public-Rights-of-Way,1740767,IL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+167,https://www.woodford-county.org/DocumentCenter/View/1851/Zoning-Ordinance-March-22-2018pdf,17203,IL,solar,matched jurisdiction website host,0,False,True
+168,https://randolphcountyil.gov/wp-content/uploads/County-Ordinances.pdf,17157,IL,geothermal_heat_pumps;high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+169,https://fultoncountyil.gov/wp-content/uploads/2025/02/UPDATED-Zoning-Ordinance-with-Index-2-10-25-3.pdf,17057,IL,solar;wind,government host: issuing scope unverified,0,False,False
+170,https://marshallcountyillinois.gov/wp-content/uploads/2024/09/Zoning-Ordinance-Text.pdf,17123,IL,solar;wind,government host: issuing scope unverified,0,False,False
+171,https://perrycountyil.gov/wp-content/uploads/2025/01/55-ZONING-CODE-CHAPTER-40.pdf,17145,IL,solar;wind,government host: issuing scope unverified,0,False,False
+172,https://www.kanecountyil.gov/FDER/Zoning%20Petitions%20Documents/Petition%205007.pdf,17089,IL,solar;wind,government host: issuing scope unverified,0,False,False
+173,https://iroquoiscountyil.gov/wp-content/uploads/2024/01/2023-zoningordinance-min.pdf,17075,IL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+174,https://piatt.gov/zoning/zoning%20ordinance.pdf,17147,IL,solar,government host: issuing scope unverified,0,False,False
+175,https://warrencountyil.gov/wp-content/uploads/2024/01/Updated_Zoning_Code_for_8.26.2022.pdf,17187,IL,wind,government host: issuing scope unverified,0,False,False
+176,https://wincoil.gov/images/departments/Highway/Forms/04-Ordinance_Code_Utilties-Facilities-_R-O-W-_Co._HWY.pdf,17201,IL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+177,https://www.champaigncountyil.gov/planningandzoning/PDF/forms/Ordinance_Zoning.pdf,17019,IL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+178,https://www.piatt.gov/zoning/appendix%20a%20over%20500kw%20amended%207-13-22;5-17-23.pdf,17147,IL,wind,government host: issuing scope unverified,0,False,False
+179,https://www.rockislandcountyil.gov/DocumentCenter/View/771/Zoning-Ordinance-PDF,17161,IL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+180,https://www.sterling-il.gov/DocumentCenter/View/270/Sterling-Zoning-Code-PDF,1772546,IL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+181,https://cityoffrostproof.com/wp-content/uploads/2026/09/Frostproof-Land-Development-Code-2026.pdf,1224900,FL,high_voltage_transmission,linked government codebook referral,0,True,True
+182,https://estero-fl.gov/wp-content/uploads/library-ada/Ordinances/2015/Ordinance%202015-09%20FPL%20Franchise%20adopted%20091615.pdf,1221150,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+183,https://stlucievillagefl.gov/wp-content/uploads/2023/02/Ordinance-2023-1.pdf,1262800,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+184,https://www.baycountyfl.gov/DocumentCenter/View/627/Chapter-35-Land-Development-Regulations,12005,FL,wind,matched jurisdiction website host,0,False,True
+185,https://www.calhouncountyfl.gov/uploads/2020/02/2010landdevelopmentcode_000.pdf,12013,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+186,https://www.calhouncountyfl.gov/uploads/2024/07/ordinance-2020-01-adopted-09152020.pdf,12013,FL,solar,matched jurisdiction website host,0,False,True
+187,https://www.cityofbradentonbeach.com/DocumentCenter/View/7374/Land-Development-Code-LDC-SUPPLEMENT-3-OCTOBER-2023-PDF,1207975,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+188,https://www.hardeecountyfl.gov/uploads/2024/12/Unified-Land-Development-Code-adopted-10_12_23-via-Ord-2023-13-ADA.pdf,12049,FL,solar,linked government codebook referral,0,True,True
+189,https://www.leegov.com/bocc/Ordinances/17-02.pdf,12071,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+190,https://www.leegov.com/bocc/Ordinances/23-14.pdf,12071,FL,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+191,https://www.miamibeachfl.gov/wp-content/uploads/2024/02/Zoning-Ordinance-89-2665.pdf,1245025,FL,high_voltage_transmission,linked government codebook referral,0,True,True
+192,https://www.mylakealfred.com/DocumentCenter/View/2510/Unified-Land-Development-Code-ULDC---Interim-SB180---Effective-11032025,1237525,FL,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+193,https://www.ocoee.org/DocumentCenter/View/389/Ordinance-No-94-22-PDF,1251075,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+194,https://www.townofmalabar.org/DocumentCenter/View/2411/Ordinance-2009-24-Florida-Power-and-Light-Franchise-Agreement,1242625,FL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+195,https://discover.pbc.gov/pzb/zoning/ULDCPDF/Amendments/2009_02_ULDC_Ordinance_2010-005.pdf,12099,FL,wind,government host: issuing scope unverified,0,False,False
+196,https://www.dunedin.gov/files/assets/city/v/1/city-clerk/documents/dori/ordinances/2024/ord-24-02-grant-duke-energy-utility-right-of-way-02.22.24.pdf,1218575,FL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+197,https://palmyrapike.org/wp-content/uploads/2025/07/Palmyra-Twp-Zoning-Ord-2025-07-15.pdf,4210357728,PA,wind,matched jurisdiction website host,1,False,True
+198,https://www.ultwp.com/sites/g/files/vyhlif3966/f/uploads/official_zoning_ordinance.pdf,4207179080,PA,geothermal_heat_pumps;solar;wind,matched jurisdiction website host,0,False,True
+199,http://providencetownship.com/wp-content/uploads/2024/01/Providence-Township-Zoning-Ordinance.pdf,4207162832,PA,solar;wind,matched jurisdiction website host,0,False,True
+200,https://conoytownship.org/wp-content/uploads/2024/05/ZONING-ORDINANCE-2024.pdf,4207115824,PA,solar;wind,matched jurisdiction website host,0,False,True
+201,https://eastearltwp.org/images/documents/EAST_EARL_Proposed_Zoning_Ordinance_Ver_10.pdf,4207121072,PA,geothermal_heat_pumps;wind,matched jurisdiction website host,0,False,True
+202,https://lowerchancefordtwppa.gov/ordinances/ZoningOrdinance.pdf,4213344872,PA,solar;wind,matched jurisdiction website host,0,False,True
+203,https://palmertwp.com/forms/2023adoptedzoningordinance.122723.pdf,4209557672,PA,solar;wind,matched jurisdiction website host,0,False,True
+204,https://penntwpcc.org/download/pdf/ordinances/2021-05-Penn-Twp-Zoning-Ordinance.pdf,4204158824,PA,solar;wind,matched jurisdiction website host,0,False,True
+205,https://www.cherrytreetwp.com/Zoning/Mergeof02-2012%20AND%2001-2021WEB.pdf,4212113136,PA,high_voltage_transmission;wind,matched jurisdiction website host,0,False,True
+206,https://www.eastmarlborough.org/wp-content/uploads/2019-zoning-ordinance.pdf,4202921480,PA,geothermal_heat_pumps;wind,matched jurisdiction website host,0,False,True
+207,https://www.middlepaxtontwp.org/wp-content/uploads/2022/05/Zoning-Ordinance-orientation-fixed.pdf,4204349040,PA,geothermal_heat_pumps;wind,linked government codebook referral,0,True,True
+208,https://www.monaghantownship.com/sites/g/files/vyhlif7036/f/uploads/ord-97-zoning-ordinance-amendments.pdf,4213350328,PA,solar;wind,matched jurisdiction website host,0,False,True
+209,https://www.shrewsburytownship.org/wp-content/uploads/2016/03/zoning%20ordinance%202015.pdf,4213370576,PA,solar;wind,matched jurisdiction website host,0,False,True
+210,https://www.westmarlboroughpa.gov/wp-content/uploads/2023/05/zoning-ordinance.pdf,4202983464,PA,geothermal_heat_pumps;wind,matched jurisdiction website host,0,False,True
+211,http://damascustwp.org/ord/ZONING.pdf,4212718104,PA,wind,matched jurisdiction website host,0,False,True
+212,http://newlondontwp.net/ordinances/Chapter_1_Zoning.pdf,4202953816,PA,wind,matched jurisdiction website host,0,False,True
+213,http://paupacktownship.org/forms/Paupack%20Township%20Zoning%20Ordinance%20-%20Jan_2013.pdf,4212758480,PA,wind,matched jurisdiction website host,0,False,True
+214,http://scotttownship.org/Ordinances/zoningord.pdf,4206968400,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+215,http://southnewtontownship.net/wp-content/uploads/2021/08/ZONING-ORD-S-NEWTON-TOWNSHIP-2011.pdf,4204172384,PA,solar,matched jurisdiction website host,0,False,True
+216,http://www.co.somerset.pa.us/files/plan_files/Subdivision/subdivisionordinance.pdf,42111,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+217,http://www.eastbethtwp.com/files/QuickSiteImages/2016-1.Zoning.pdf,4212520808,PA,wind,matched jurisdiction website host,0,False,True
+218,http://www.hamiltonban.com/getmedia/302d222f-8f97-4142-ae7b-71d31345c7b5/Ordinance2015-04.pdf,4200132200,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+219,http://www.hanovertownship.org/pdf/2016ZoningOrdinance.pdf,4207932416,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+220,http://www.hanovertownship.org/pdf/ZoningOrdinance2018.pdf,4207932416,PA,wind,matched jurisdiction website host,0,False,True
+221,https://allentownship.org/forms/zoning_ordinance.pdf,4209500948,PA,wind,matched jurisdiction website host,0,False,True
+222,https://astontownship.net/download/ordinances/Aston%20Township%20Zoning%20Ordinance%202011.pdf,4204503336,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+223,https://blackcreektownship.org/cms-bct/assets/_core/file/Black_Creek_Township_Zoning_Ordinance_2024_9_16_2024_002.pdf,4207906672,PA,wind,matched jurisdiction website host,0,False,True
+224,https://bloominggrovetownship.com/wp-content/uploads/2022/04/Zoning-Ordinance-Blooming-Grove.pdf,4210307088,PA,wind,matched jurisdiction website host,0,False,True
+225,https://conoytownship.org/wp-content/uploads/2026/01/ZONING-ORDINANCE-2025-AMENDED.pdf,4207115824,PA,geothermal_heat_pumps,linked government codebook referral,0,True,True
+226,https://covingtontwp.org/wp-content/uploads/2021/03/zoning-ordinance.pdf,4206916664,PA,wind,linked government codebook referral,0,True,True
+227,https://crawfordcountypa.net/wp-content/uploads/2026/02/South-Shenango-Zoning-Ordinance-9-21-17-website.pdf,42039,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+228,https://ephratatownship.org/ckfinder/userfiles/files/Ephrata%20Township%20Zoning%20Ordinance%202014(1).pdf,4207123840,PA,wind,matched jurisdiction website host,0,False,True
+229,https://granvilletwp.org/wp-content/uploads/2023/06/ZONING-ORDINANCE_revised-2023-1.pdf,4208730480,PA,solar,matched jurisdiction website host,0,False,True
+230,https://hanovertwp-nc.org/media/2854/3-afhbd-draft-ordinance-proposed-from-2025-08-26-bos-meeting.pdf,4209532432,PA,solar,matched jurisdiction website host,0,False,True
+231,https://heidelbergtownship.com/wp-content/uploads/2020/07/Zoning-Ordinance-Amended-through-062320.pdf,4207533608,PA,geothermal_electricity,matched jurisdiction website host,0,False,True
+232,https://hopewelltwp.com/wp-content/uploads/2022/07/Ordinance1956-1Furnishin_20220718125842.pdf,4200735640,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+233,https://lewistownship.com/wp-content/uploads/2025/05/Lewis-Township-Zoning-Ordinance-2025-final-and-executed1201365.1.pdf,4209742952,PA,solar,matched jurisdiction website host,0,False,True
+234,https://lowernazareth.com/Documents/Boards%20and%20Commissions/Ordinances/Zoning%20Ordinance/LNT-ZO-Article-6-Supplemental-Regulations.pdf?t=202511140937020,4209545024,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+235,https://newton-township.com/wp-content/uploads/2024/04/Newton-SAPA-Zoning-Ord-FINAL-12_20_2023-2.pdf,4206954136,PA,wind,matched jurisdiction website host,0,False,True
+236,https://oleytownship.org/wrp/wp-content/uploads/2023/03/CHAPTER-27.-ZONING-2023.pdf,4201156672,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+237,https://palmertwp.com/forms/DRAFTzoningordinance110623.pdf,4209557672,PA,geothermal_electricity,matched jurisdiction website host,0,False,True
+238,https://paradisetownship.org/wp-content/uploads/2021/11/Zoning-Ordinance-as-amended-thru-2020-03-17.pdf,4207157848,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+239,https://perrytownshiplawrencecountypa.com/wp-content/uploads/2025/06/AEF-Regulations-Standards-Ordinance.pdf,4207359488,PA,solar,matched jurisdiction website host,0,False,True
+240,https://rosstwp.com/wp-content/uploads/2022/06/Ross-zoning-compilation-2015-rev-Oct-2017-and-Feb-2022.pdf,4208966280,PA,solar,matched jurisdiction website host,0,False,True
+241,https://sadsburytwp.org/wp-content/uploads/2022/09/Sadsbury-Township-Zoning-Ordinance-combined.pdf,4202967080,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+242,https://salfordtownship.com/uploads/O_Ordinance%20133%20Zoning.pdf,4209167528,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+243,https://summittownship.com/wp-content/uploads/2026/01/2021-02-Summit-Township-Zoning-Ordinance-Amended-2025-12-20-BLANK-LAST-PAGE.pdf,4204975208,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+244,https://thornhursttwp.com/wp-content/uploads/2017/06/Chapter-27-Zoning.pdf,4206976601,PA,wind,matched jurisdiction website host,0,False,True
+245,https://warminstertownship.org/wp-content/uploads/2013/03/zoning_ord_adopted_100109.pdf,4201780952,PA,wind,matched jurisdiction website host,0,False,True
+246,https://warringtontwp.org/wp-content/uploads/2025/12/Warrington-Zoning-Ordinance-Amended-3-16-22-Redline-1.pdf,4213381056,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+247,https://washtwpberks.org/wp-content/uploads/2022/06/Alternative-Energy-Ordinance-8-27-10.pdf,4201181184,PA,solar,matched jurisdiction website host,0,False,True
+248,https://www.allentownship.org/forms/codeofordinances.pdf,4209500948,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+249,https://www.athenstownship.org/FINAL%20Formatted%20Ordinance_220114.pdf,4201503400,PA,wind,matched jurisdiction website host,0,False,True
+250,https://www.bentleyvilleborough.com/uploads/7/9/9/9/79993728/ordinance_496_of_2001_zoning.pdf,4205672,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+251,https://www.blackcreektownship.org/cms-bct/assets/_core/file/Black_Creek_Township_Zoning_Ordinance_(updated).pdf,4207906672,PA,solar,matched jurisdiction website host,0,False,True
+252,https://www.casstownship.org/images/ordinances/Cass_Zoning_-_Adopted_July_2013.pdf,4210711608,PA,wind,linked government codebook referral,0,True,True
+253,https://www.castaneatownshippa.gov/wp-content/uploads/2024/11/Zoning-Ordiance.pdf,4203511640,PA,wind,matched jurisdiction website host,0,False,True
+254,https://www.cherrytreetwp.com/Zoning/08112021-Ord01-2021EntireOrdinanceWEB.pdf,4212113136,PA,solar,linked government codebook referral,0,True,True
+255,https://www.co.fulton.pa.us/files/live-folders/brushcreek/Brush%20Creek%20Township%20Subdivision%20and%20Land%20Development%20Ordinance%20-%20December%202015.pdf,42057,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+256,https://www.conewagotwp.com/wp-content/uploads/Rice-Township-Data-Center-Ordinance-1.pdf,4213315656,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+257,https://www.eastbradford.org/DocumentCenter/View/2268/Third-Draft-East-Bradford-Township-Zoning-Ordinance-Update,4202920824,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+258,https://www.franklintownship.org/wp-content/uploads/Amendment-to-Zoning-Ordinance-Steep-Slope-FINAL-TO-ADVERTISE-8.14.18-002.pdf,4213327480,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+259,https://www.hanovertownship.org/pdf/Zoning%20Ordinance%202020.pdf,4207932416,PA,solar,matched jurisdiction website host,0,False,True
+260,https://www.hazletownship.com/images/HTZoning_Ordinance81318.pdf,4207933376,PA,wind,linked government codebook referral,0,True,True
+261,https://www.hazletownship.com/images/pdf/HTZoning-Ordinance81318.pdf,4207933376,PA,solar,matched jurisdiction website host,0,False,True
+262,https://www.kennett.pa.us/DocumentCenter/View/257/Ordinance-200-Alternative-Energy-PDF,4202939344,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+263,https://www.libertytwplife.org/images/Liberty_Twp._Zoning_Ordinance.pdf,4208543104,PA,high_voltage_transmission,linked government codebook referral,0,True,True
+264,https://www.luzernecounty.org/DocumentCenter/View/310/Zoning-Ordinance-for-Luzerne-County-PDF,42079,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+265,https://www.mckeantownship.com/app/download/6932518104/Zoning%20Ordinance%202021.pdf,4204946224,PA,solar,matched jurisdiction website host,0,False,True
+266,https://www.millcreektownship.com/DocumentCenter/View/3156/Millcreek-Township-Zoning-Ordinance---Updated-June-2024,4204949548,PA,wind,matched jurisdiction website host,0,False,True
+267,https://www.northamptontownship.com/media/1365/code-of-ordinances-northampton-township-full-2-9-16.pdf,4201754688,PA,wind,matched jurisdiction website host,0,False,True
+268,https://www.penntownship.us/sites/g/files/vyhlif1061/f/uploads/penn_township_zoning_ordinances_adopted_2019.pdf,4202958808,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+269,https://www.raphotownship.com/DocumentCenter/View/1406/Rapho-Township-Zoning-Ordinance-amended-through-2022-10-20,4207163440,PA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+270,https://www.salisburytownshippa.org/wp-content/uploads/2015/02/FINAL-ZONING-ORDINANCE-BOC-ADOPTED-03-26-2015.pdf,4207767576,PA,wind,matched jurisdiction website host,0,False,True
+271,https://www.sewickleytownship.org/DocumentCenter/View/355/Chapter-28--Zoning,4212969392,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+272,https://www.shoholatwp.org/wp-content/uploads/2020/07/ORDINANCE66-AdoptedOrdinances11-13-08.pdf,4210370496,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+273,https://www.shoholatwp.org/wp-content/uploads/2020/07/Ordinance-No.-79-Zoning1.pdf,4210370496,PA,wind,matched jurisdiction website host,0,False,True
+274,https://www.springtwpberks.org/wp-content/uploads/2023/09/2015-Zoning-Ordinance-Amendments-Ordinance-415.pdf,4201172824,PA,geothermal_heat_pumps,linked government codebook referral,0,True,True
+275,https://www.twp.ferguson.pa.us/sites/g/files/vyhlif9771/f/news/2019_11_18_ch27zoning_fergusontownship_jlw.pdf,4202725624,PA,wind,matched jurisdiction website host,0,False,True
+276,https://www.uppermilford.net/wp-content/uploads/2014/02/master_zoning.pdf,4207779160,PA,wind,matched jurisdiction website host,0,False,True
+277,https://www.wtwp.org/pdf/Code%20of%20Ordinances%20for%20website%203-3-2009.pdf,4204381216,PA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+278,https://highland.adamscountypa.gov/getmedia/84edee6a-770e-4f12-88e0-0d87448512dc/Highland-Township-Zoning-Ordinance-of-2025-Final-Compiled.pdf,42001;4200134424,PA,high_voltage_transmission;solar;wind,government host: issuing scope unverified,0,False,False
+279,https://www.fallspa.gov/wp-content/uploads/2021/11/Falls-Township-Wyoming-County-Zoning-Ordinance-1-4-16.pdf,4213125128,PA,geothermal_heat_pumps;solar;wind,government host: issuing scope unverified,0,False,False
+280,https://www.attorneygeneral.gov/wp-content/uploads/2024/04/SOM-Draft-Zoning-Ordinance-1-26-2024.pdf,4212571792,PA,solar;wind,government host: issuing scope unverified,0,False,False
+281,https://northumberlandcountypa.gov/htdocs/wp-content/uploads/documents/planning/SALDOTotalOrdinance2026-05-18.pdf,42097,PA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+282,https://warrencountypa.gov/DocumentCenter/View/3455/Zoning-Ordinance---amended-February-18-2026,4212360480,PA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+283,https://www.attorneygeneral.gov/wp-content/uploads/2019/07/Carroll-Township-Ordinance.pdf,4209911416,PA,wind,government host: issuing scope unverified,0,False,False
+284,https://www.attorneygeneral.gov/wp-content/uploads/2022/05/North-Beaver-Township-Ordinance.pdf,4207354768,PA,solar,government host: issuing scope unverified,0,False,False
+285,https://www.bethlehem-pa.gov/CityOfBethlehem/media/Ordinance-PDFs/ARTICLE-1327.pdf?ext=.pdf,4206088,PA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+286,https://www.norcopa.gov/corecode/uploads/document6/uploaded_pdfs/corecode/Ord792-2026%20-%20Amendments%20to%20the%20NorCo%20Subdivision%20and%20Land%20Development%20Ordinance%20(SALDO)_2464.pdf,42095,PA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+287,https://www.libertylakewa.gov/DocumentCenter/View/5330/Chapter-2---Zoning-Districts,5339335,WA,high_voltage_transmission,matched jurisdiction website host,1,False,True
+288,https://www.cityofup.com/DocumentCenter/View/1440/Ordinance-157-PDF,5373465,WA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+289,https://www.cityofvancouver.us/wp-content/uploads/2026/06/Vancouver-Municipal-Code-VMC-Title-20-Land-Use-and-Development-Code-dated-as-of-May-5-2026_linked-headings.pdf,5374060,WA,high_voltage_transmission,linked government codebook referral,0,True,True
+290,https://www.co.kittitas.wa.us/uploads/bocc/ordinances/2019-004-ordinance.pdf,53037,WA,solar,matched jurisdiction website host,0,False,True
+291,https://www.co.pacific.wa.us/dcd/images/PC/2023.10.05%20Draft%20Zoning%20Ord.%20No.%20194%20-%20Clean%20Version.pdf,53049,WA,wind,matched jurisdiction website host,0,False,True
+292,https://www.co.pacific.wa.us/dcd/images/PC/2023.10.05%20Draft%20Zoning%20Ord.%20No.%20194%20-%20Track%20Changes.pdf,53049,WA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+293,https://www.grangerwashington.org/DocumentCenter/View/301/City-of-Granger-Full-Municipal-Code-October-2023-PDF,5327960,WA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+294,https://www.yakimacounty.us/DocumentCenter/View/15357/Yakima-County-Critical-Areas-Ordinance-Title-16C,53077,WA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+295,http://www.klickitatcounty.gov/DocumentCenter/View/15693/1-Zoning-Ordinance-Amended-11-21-2023,53039,WA,wind,government host: issuing scope unverified,0,False,False
+296,https://www.othellowa.gov/media/Building-and-Planning/Ordinances/Critical%20Areas.%20OMC%2013.08.%206.16.20.pdf,5352215,WA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+297,https://www.sultanwa.gov/DocumentCenter/View/7557/Ordinance-1418-25-Title-16-Zoning-Code-Updates-PDF,5368260,WA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+298,http://jaycounty.net/images/custom/2020_jay_county_zoning_subdivision_ordinance.pdf,18075,IN,solar;wind,matched jurisdiction website host,0,False,True
+299,https://co.clark.in.us/images/2025/pdf/Clark_County_UDO_Amended_JULY_2025.pdf,18019,IN,solar,matched jurisdiction website host,0,False,True
+300,https://co.clark.in.us/images/2026/Planning/Clark%20County%20UDO_Amended%20feb%2026%202026a.pdf,18019,IN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+301,https://rushcounty.in.gov/wp-content/uploads/2026/03/Rush-County-UDO-Draft-C-on-30-January-2026.pdf,18139,IN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+302,https://www.browncounty-in.gov/DocumentCenter/View/142/Brown-County-Zoning-Ordinance-PDF,18013,IN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+303,https://www.clintonco.com/downloads/apc/ordinances/2015revisedUDO02.05.2020.pdf,18023,IN,wind,matched jurisdiction website host,0,False,True
+304,https://www.clintonco.com/downloads/commissioners/UnifiedDevelopmentOrdinanceAmd2020-02.pdf,18023,IN,solar,matched jurisdiction website host,0,False,True
+305,https://www.crownpoint.in.gov/DocumentCenter/View/1957/2024_CrownPointIN_CodeofOrdinances,1816138,IN,high_voltage_transmission,linked government codebook referral,0,True,True
+306,https://www.franklincounty.in.gov/wp-content/uploads/2022/08/Franklin-County-Citizens-Zoning-and-Subdivision-Control-Code.pdf,18047,IN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+307,https://www.in.gov/counties/wabash/files/ordinances/Current-Wabash-County-Zoning-Ordinance.pdf,18169,IN,geothermal_heat_pumps,linked government codebook referral,0,True,True
+308,https://www.in.gov/towns/georgetown/files/Ordinances/ZONING-ORDINANCE.pdf,1827324,IN,high_voltage_transmission,linked government codebook referral,0,True,True
+309,https://www.tippecanoe.in.gov/DocumentCenter/View/37843/Unified-Zoning-Ordinance-UZO-Third-Edition-PDF,18157,IN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+310,https://lakecountyin.gov/departments/planning-commission/ordinances-c/unified%20development%20ordinance%20no.%202560.pdf,18089,IN,geothermal_heat_pumps;wind,government host: issuing scope unverified,0,False,False
+311,https://www.in.gov/counties/cass/files/Cass-County-Zoning-Ordinance-2024.pdf,18017,IN,solar;wind,government host: issuing scope unverified,0,False,False
+312,https://www.in.gov/counties/white/files/2008-Zoning-Ordinance-Updated-through-101821.pdf,18181,IN,solar;wind,government host: issuing scope unverified,0,False,False
+313,https://laporteco.in.gov/Resources/Commissions/2008/Ordinances/Ordinance2008-16.pdf,18091,IN,wind,government host: issuing scope unverified,0,False,False
+314,https://starke.in.gov/wp-content/uploads/2026/02/Article-6-Zoning-Part-2-1.pdf,18149,IN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+315,https://www.franklincounty.in.gov/wp-content/uploads/FC-Citizens-Zoning-Subdivision-Control-Code-ADOPTED-ORDINANCE1.pdf,1842372,IN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+316,https://www.in.gov/counties/carroll/files/ORDINANCE-2024-11.pdf,18015,IN,solar,government host: issuing scope unverified,0,False,False
+317,https://www.in.gov/counties/floyd/health-department/files/Floyd-County-Ordinances2.pdf,18043,IN,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+318,https://www.in.gov/counties/grant/files/ZoningOrdinance.pdf,18053,IN,wind,government host: issuing scope unverified,0,False,False
+319,https://www.in.gov/counties/howard/files/Zoning-Ordinance-2009-BCCO-21.pdf,18067,IN,wind,government host: issuing scope unverified,0,False,False
+320,https://www.in.gov/counties/randolph/files/apc-minutes/Unified-Zoning-Ordinance-Updated-Nov-2025.pdf,18135,IN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+321,https://www.in.gov/counties/shelby/files/plan-commission/comprehensive-plan-ordinances/Unified-Development-Ordinance_2025.pdf,18145,IN,solar,government host: issuing scope unverified,0,False,False
+322,https://www.in.gov/counties/wabash/files/ordinances/2024-85-09.pdf,18169,IN,solar,government host: issuing scope unverified,0,False,False
+323,https://www.in.gov/counties/white/files/2008-Zoning-Ordinance-Updated-through-020926.pdf,18181,IN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+324,"https://www.in.gov/towns/porter/files/town-code/Porter,-IN-Code-of-Ordinances-thru-19.pdf",1861164,IN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+325,https://www.miamicountyin.gov/DocumentCenter/View/121/Miami-County-Ordinances-PDF,18103,IN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+326,https://www.wallnj.gov/DocumentCenter/View/4184/Ordinance-19-2018-Well-Regulation,3402576460,NJ,geothermal_heat_pumps,government host: issuing scope unverified,3,False,False
+327,https://www.greenbrooktwp.org/_readwritedata/_file_depot/TGB%20Zoning%20Ordinance%20Updated%202025.pdf,3403527510,NJ,high_voltage_transmission,linked government codebook referral,0,True,True
+328,https://www.cityofprineville.com/DocumentCenter/View/1987/Ordinance-No-1189---CEC-Non-Exclusive-Franchise,4159850,OR,high_voltage_transmission,matched jurisdiction website host,11,False,True
+329,http://www.cityofadamsoregon.com/uploads/3/1/2/3/3123389/development_code.pdf,4100350,OR,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+330,https://ci.manzanita.or.us/wp-content/uploads/2026/06/Ordinance-Signed-25-04.pdf,4145700,OR,high_voltage_transmission,matched jurisdiction website host,0,False,True
+331,https://www.cityofvale.com/wp-content/uploads/2015/10/ValeCityCode-08-zoning.pdf,4176600,OR,geothermal_electricity,matched jurisdiction website host,0,False,True
+332,https://harneycountyor.gov/wp-content/uploads/2023/03/Harney-County-Zoning-Ord-Current-FINAL-VERSION-20141.pdf,41025,OR,geothermal_electricity;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+333,https://www.columbiacountyor.gov/media/Land_Development/planning%20division%20files/2022-05%20Zoning%20Ordinance.pdf,41009,OR,geothermal_electricity;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+334,https://www.morrowcountyor.gov/sites/default/files/fileattachments/ordinance/13021/3.010_exclusive_farm_use_11012018.pdf,41049,OR,geothermal_electricity;solar,government host: issuing scope unverified,0,False,False
+335,http://www.lowelloregon.gov/sites/default/files/fileattachments/administration/page/2031/d_landdevelopmentcode-final.pdf,4144050,OR,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+336,https://hrccd.hoodrivercounty.gov/images/uploads/documents/%2BZoning_Articles_Complete_Copy_with_Table_of_Content___all_2022_Updates.pdf,41027,OR,wind,government host: issuing scope unverified,0,False,False
+337,https://turneroregon.gov/vertical/sites/%7B85E5A386-9024-4192-A152-0B30E6890600%7D/uploads/TurnerLUDC3.2.23.pdf,4175150,OR,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+338,https://www.bakercountyor.gov/planning/zoning/chapter_150_definitions.pdf,41001,OR,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+339,https://www.bakercountyor.gov/planning/zoning/chapter_410_exclusive_farm_use_zone.pdf,41001,OR,geothermal_electricity,government host: issuing scope unverified,0,False,False
+340,https://www.lebanonoregon.gov/DocumentCenter/View/195/Chapter-1611-Overlay-Land-Use-Zones-PDF,4141650,OR,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+341,https://www.mcminnvilleoregon.gov/sites/default/files/fileattachments/community_development/page/1341/zoning_ordinance_master_-_6-18-2026_with_bookmarks.pdf,4145000,OR,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+342,https://www.scappoose.gov/DocumentCenter/View/2640/An-Ordinance-Relating-to-the-Delivery-of-Power-Within-the-City-of-Scappoose-and-Granting-a-Non-Exclusive-Franchise-to-CRPUD,4165500,OR,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+343,https://www.yamhillcounty.gov/DocumentCenter/View/8478/Zoning-Ordinance-Section-0402-Exclusive-Farm-Use-EF-80-EF-40-EF-20-Ord-872-PDF,41071,OR,geothermal_electricity,government host: issuing scope unverified,0,False,False
+344,https://caldwellcountync.org/DocumentCenter/View/496/Zoning-Ordinance-PDF,37027,NC,high_voltage_transmission;solar,matched jurisdiction website host,0,False,True
+345,https://www.northamptonnc.com/DocumentCenter/View/330/Zoning-Ordinance-12-20-16-PDF,37131,NC,high_voltage_transmission;solar,matched jurisdiction website host,0,False,True
+346,http://richmondnc.com/DocumentCenter/View/2926/ZONING-ORDINANCE,37153,NC,solar,matched jurisdiction website host,0,False,True
+347,http://www.villageofflatrock.org/vertical/sites/%7B9D37D958-4706-4059-B825-E099E8D3624C%7D/uploads/Ordinance96_-_Amended_08-04-25_-_Land_Development_Ordinance.pdf,3723600,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+348,http://www.villageofsthelena.com/attachments/011_2021%20Unified%20Development%20Ordinance%20(U.D.O).pdf,3758620,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+349,https://pinelevel.org/ZONING%20ORDINANCE%209-2005.pdf,3752020,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+350,https://toknc.com/app/uploads/2021/07/UDO-Master.pdf,3735600,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+351,https://townofwallburg.com/wp-content/uploads/2025/03/Wallburg-Zoning-Ordinance.Clean_.5-20-2021.pdf,3770740,NC,high_voltage_transmission,linked government codebook referral,0,True,True
+352,https://washconc.org/wp-content/uploads/2022/04/2021-Zoning-Ordinance-Updated-for-7-1-2021-160-D-changes.pdf,37187,NC,wind,linked government codebook referral,0,True,True
+353,https://www.catawbacountync.gov/site/assets/files/10593/udo_2007_updated_through_2023_toc_cover.pdf,37035,NC,solar,matched jurisdiction website host,0,False,True
+354,https://www.co.davidson.nc.us/DocumentCenter/View/3619/Davidson-County-Zoning-Ordinance-PDF,37057,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+355,https://www.co.davidson.nc.us/DocumentCenter/View/4386/Davidson-County-Zoning-Ordinance-PDF,37057,NC,solar,matched jurisdiction website host,0,False,True
+356,https://www.co.davidson.nc.us/DocumentCenter/View/4386/Davidson-County-Zoning-Ordinance-PDF?bidId=,37057,NC,wind,matched jurisdiction website host,0,False,True
+357,https://www.eastbendnc.com/forms/zoning.pdf,3719320,NC,high_voltage_transmission,linked government codebook referral,0,False,True
+358,https://www.harnett.org/planning/downloads/official-adopted-udo-amended-2025-may.pdf,37085,NC,wind,matched jurisdiction website host,0,False,True
+359,https://www.mineralspringsnc.com/Ordinances/Mineral%20Springs%20Development%20Ordinance%20ADOPTED%207-11-19-FINAL.pdf,3743360,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+360,https://www.onslowcountync.gov/DocumentCenter/View/23671/Zoning-Ordinance,37133,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+361,https://www.pittcountync.gov/DocumentCenter/View/806/Zoning-Ordinance-PDF,37147,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+362,https://www.richmondnc.com/DocumentCenter/View/5991/ZONING-ORDINANCE-,37153,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+363,https://www.sharpsburgnc.com/files/assets/public/v/1/financial-services/documents/sharpsburg-zoningordinance.pdf,3761060,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+364,https://www.vancecounty.org/wp-content/uploads/2017/05/Ord.-39-Zoning1.pdf,37181,NC,solar,matched jurisdiction website host,0,False,True
+365,https://www.vancecounty.org/wp-content/uploads/2024/02/Vance-County-Zoning-Ordinance-Updated-Feb-2024.pdf,37181,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+366,https://www.warrenton.nc.gov/page/open/377/0/ZONING%20CODE%20CHAPTER%20151%20-%20updated%205-15-2024.pdf,3771100,NC,high_voltage_transmission,linked government codebook referral,0,True,True
+367,https://www.yadkincountync.gov/DocumentCenter/View/5102/Zoning-Ordinance-,37197,NC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+368,https://alexandercountync.gov/pdf/land-development-code.pdf,37003,NC,high_voltage_transmission;solar,government host: issuing scope unverified,0,True,False
+369,https://gatescountync.gov/vertical/Sites/%7BC4993D33-7F3A-4388-B179-2EC1739C7E2E%7D/uploads/2021_Gates_County_Ordinances_amended_3.16.2022(1).pdf,37073,NC,solar;wind,government host: issuing scope unverified,0,False,False
+370,https://www.franklincountync.gov/DocumentCenter/View/841/Article-5---Zoning-Districts-and-Standards,37069,NC,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+371,https://www.madisoncountync.gov/uploads/5/9/7/0/59701963/madison_county_land_use_ordinance_[amended_april_2024]__1_.pdf,37115,NC,solar;wind,government host: issuing scope unverified,0,False,False
+372,https://henderson.nc.gov/Documents/Departments/Development%20Services/Zoning%20Ordinance%208-5-2025.pdf,37089,NC,wind,government host: issuing scope unverified,0,False,False
+373,https://mcdowellnc.gov/departments/planning/ordinances/Zoning_Ordinance.pdf,37111,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+374,https://rowancountync.gov/DocumentCenter/View/26677/Proposed-Zoning-Ordinance-Changes-PDF?bidId=,37159,NC,solar,government host: issuing scope unverified,0,False,False
+375,https://www.archdale-nc.gov/DocumentCenter/View/1581/City-of-Archdale-Zoning-Ordinance,3701720,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+376,https://www.chapelhillnc.gov/files/assets/town/v/1/planning/documents/plans-and-ordinances/development-ordinance.pdf,3711800,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+377,https://www.cherokeecounty-nc.gov/DocumentCenter/View/69/Watershed-Protection-Ordinance-PDF,37039,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+378,https://www.cumberlandcountync.gov/docs/default-source/planning-documents/ordinances/county/completed/county-zoning-ordinance__03-15-2021.pdf,37051,NC,solar,government host: issuing scope unverified,0,False,False
+379,https://www.currituckcountync.gov/wp-content/uploads/UDO.pdf,37053,NC,solar,government host: issuing scope unverified,0,False,False
+380,https://www.pittcountync.gov/DocumentCenter/View/3205/Grimesland-Zoning-Ordinance,3728240,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+381,https://www.randolphcountync.gov/DocumentCenter/View/1786/The-Unified-Development-Ordinance,37151,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+382,https://www.rockinghamcountync.gov/files/documents/UDOAmended5620241402100249092024AM.pdf,37157,NC,solar,government host: issuing scope unverified,0,False,False
+383,https://www.sampsoncountync.gov/files/sharedassets/public/v/1/documents/financelegal/ordinances-amp-policies/zoning-ordinance-website.pdf,37163,NC,solar,government host: issuing scope unverified,0,False,False
+384,https://www.sampsoncountync.gov/files/sharedassets/public/v/1/documents/planningzoning/zoning-ordinance-current-2-2025.pdf,37163,NC,wind,government host: issuing scope unverified,0,False,False
+385,https://www.stanlycountync.gov/DocumentCenter/View/485/Mar-18-2024-Zoning-Ordinance-PDF,37167,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+386,https://www.waynesvillenc.gov/sites/default/files/Land%20Development%20Standards_June2024.pdf,3771500,NC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+387,https://www.co.jackson.mn.us/vertical/Sites/%7B47B68709-5081-4D2D-A79C-49891B025171%7D/uploads/Development_Code_Combined_PDFs.pdf,27063,MN,solar;wind,matched jurisdiction website host,0,False,True
+388,http://www.co.stevens.mn.us/DocumentCenter/View/2722/Stevens-County-Zoning-Ordinance-11-17-2020-PDF?bidId=,27149,MN,solar,matched jurisdiction website host,0,False,True
+389,https://birdislandcity.com/vertical/sites/%7B86FD61E2-C042-4B4D-82B9-018D59A78D8C%7D/uploads/Ordinance-167.pdf,2706076,MN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+390,https://co.aitkin.mn.us/ordinances/pdf/zoning-ordinance.pdf,27001,MN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+391,https://lqpco.com/DocumentCenter/View/187/Lac-qui-Parle-County-Land-Use-Ordinance-2022pdf,27073,MN,wind,matched jurisdiction website host,0,False,True
+392,https://www.co.aitkin.mn.us/ordinances/pdf/zoning-ordinance.pdf,27001,MN,solar,matched jurisdiction website host,0,False,True
+393,https://www.co.beltrami.mn.us/media/rtxf2pbf/ordinance-35-tower.pdf,27007,MN,wind,matched jurisdiction website host,0,False,True
+394,https://www.co.grant.mn.us/DocumentCenter/View/3369/2025-Grant-County-Shoreland-Ordinance-,27051,MN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+395,https://www.co.hubbard.mn.us/uploads/dm/16109/County_Ordinance_Number_17_Shoreland.pdf,27057,MN,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+396,https://www.co.mower.mn.us/DocumentCenter/View/1168/Mower-County-Zoning-Ordinance-PDF,27099,MN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+397,https://www.co.nobles.mn.us/wp-content/uploads/2024/01/Full-2016-Ordinance.pdf,27105,MN,wind,matched jurisdiction website host,0,False,True
+398,https://www.co.rock.mn.us/Title%20XV%20Land%20Useage%20Chapters%20150-153%20(2025).pdf,27133,MN,wind,matched jurisdiction website host,0,False,True
+399,https://www.co.todd.mn.us/sites/default/files/env_land_resources/Land%20Ordinance%2020170103_1.pdf,27153,MN,wind,matched jurisdiction website host,0,False,True
+400,https://www.co.wadena.mn.us/DocumentCenter/View/3047/Proposed-2020-Zoning-Ordinance---Draft-for-Public-Hearing-,27159,MN,solar,matched jurisdiction website host,0,False,True
+401,https://www.duluthtownship.gov/Planning_Zoning/Ordinance%20and%20CLUP/Ordinance%20No%206%20plus%206.1%20and%206.2.pdf,2713717018,MN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+402,https://www.lqpco.com/DocumentCenter/View/584/Land-Use-Ordinance-2024,27073,MN,solar,matched jurisdiction website host,0,False,True
+403,https://www.olmstedcounty.gov/sites/default/files/2024-05/Chapter%201400%20Zoning%20Ordinance_2023_0.pdf,27109,MN,high_voltage_transmission,linked government codebook referral,0,True,True
+404,https://www.stlouiscountymn.gov/Portals/0/Library/Dept/Auditor/County-Board/Ordinance-62-Zoning%20Updated%202020.pdf?ver=c2LK-uo9xyvDMo6QPYdJcQ%3D%3D,27137,MN,wind,matched jurisdiction website host,0,False,True
+405,https://www.chisagocountymn.gov/DocumentCenter/View/4330/Zoning-Ordinance-No-20241218-1-PDF?bidId=,27025,MN,high_voltage_transmission;solar;wind,government host: issuing scope unverified,0,False,False
+406,https://www.millelacs.mn.gov/DocumentCenter/View/2823/Development-Ordinance-PDF,27095,MN,high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+407,https://goodhuecountymn.gov/files/county_ordinances/zoning_ordinance.pdf,27049,MN,solar,government host: issuing scope unverified,0,False,False
+408,https://wilkincounty.gov/vertical/sites/%7B6E7AB7CB-4769-4357-B6C8-90E546FFE488%7D/uploads/Wilkin_County_Land_Use_Ordinance_5.2025.pdf,27167,MN,wind,government host: issuing scope unverified,0,False,False
+409,https://www.aitkincountymn.gov/ordinances/pdf/celltowerord.pdf,27001,MN,wind,government host: issuing scope unverified,0,False,False
+410,https://www.browncountymn.gov/DocumentCenter/View/595/Brown-County-Zoning-Ordinance-PDF,27015,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+411,https://www.carltoncountymn.gov/DocumentCenter/View/201/Carlton-County-Ordinance-27---Zoning-Ordinance--PDF,27017,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+412,https://www.eqb.state.mn.us/sites/eqb/files/Scott%20County_Ordinance.pdf,27139,MN,wind,government host: issuing scope unverified,0,False,False
+413,https://www.isanticountymn.gov/DocumentCenter/View/450/Isanti-County-Zoning-Ordinance---2014-PDF,27059,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+414,https://www.itascacountymn.gov/DocumentCenter/View/635/Floodplain-Ordinance,27061,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+415,https://www.lqpcomn.gov/DocumentCenter/View/584/Land-Use-Ordinance-2024,27073,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+416,https://www.millelacs.mn.gov/DocumentCenter/View/992/Section-12062-Development-Ordinance-PDF,27095,MN,solar,government host: issuing scope unverified,0,False,False
+417,https://www.ricecountymn.gov/DocumentCenter/View/7963/2022-Adopted-Zoning-Amendments?bidId=,27131,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+418,"https://www.roseaucountymn.gov/Documents/Government/Document%20Center/County%20Ordinances/Ordinance%20No.%207%20-%20Regulation%20of%20Essential%20Public%20Service%20Lines%20(Electric,%20Telephone,%20Gas,%20Water,%20Sewer%20).pdf?t=202507050024370",27135,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+419,https://www.scottcountymn.gov/DocumentCenter/View/9324/Scott-County---Ordinance-Number-22---Management-of-the-Public-Right-of-Way---November-2017?bidId=,27139,MN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+420,https://www.sibleycounty.gov/DocumentCenter/View/2930/ARTICLE-300-SUBDIVISION-ORDINANCE,27143,MN,wind,government host: issuing scope unverified,0,False,False
+421,https://www.wrightcountymn.gov/DocumentCenter/View/28142/Ordinance-Amendment-23-1,27171,MN,solar,government host: issuing scope unverified,0,False,False
+422,https://townofdolores.colorado.gov/sites/townofdolores/files/documents/Appendix_A___LAND_USE_CODE%20Muni%20Code%20codification.pdf,08083;0820770,CO,geothermal_heat_pumps;wind,government host: issuing scope unverified;matched jurisdiction website host,0,False,True
+423,https://www.co.cheyenne.co.us/assets/pdfs/zoning_1041_adopted_regs_2019.pdf,08017,CO,geothermal_electricity;wind,matched jurisdiction website host,0,False,True
+424,https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf,08017,CO,high_voltage_transmission;solar,matched jurisdiction website host,0,False,True
+425,https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf,08101,CO,wind,matched jurisdiction website host,0,False,True
+426,https://townofophir.colorado.gov/sites/g/files/lrnvjt831/files/documents/Ophir-Land-Use-Code_Final-09-16-2025.pdf,0855870,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+427,https://www.berthoud.org/DocumentCenter/View/1676/Ordinance-604-Granting-Franchise-PDF,0806255,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+428,https://www.cogs.us/DocumentCenter/View/3490/New-Development-Code-Adopted-August-2-2018,0830780,CO,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+429,https://www.fruita.org/DocumentCenter/View/412/Ordinance-2011-14-PDF,0828745,CO,geothermal_electricity,matched jurisdiction website host,0,False,True
+430,https://www.fruita.org/DocumentCenter/View/705/Ordinance-2022-15-PDF,0828745,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+431,https://www.haydencolorado.com/DocumentCenter/View/591/Hayden-Development-Code_Final,0835070,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+432,https://www.mesacounty.us/sites/default/files/2023-12/Land%20Development%20Code%20-%202020%20(Amended%2010-17-23)_3.pdf,08077,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+433,https://www.norwoodtown.com/files/cabc11b2c/revised-land-use-code-feb-20.pdf,0854880,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+434,https://www.superiorcolorado.gov/files/assets/town/v/1/town-clerk/documents/ordinances/2024/o-04-land-use-code-amendment.pdf,0875640,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+435,https://www.townoflimon.com/images/pdf/mc/2018_municipal_code_complete.pdf,0844980,CO,high_voltage_transmission,matched jurisdiction website host,0,False,True
+436,https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/21-057_Kit%20Carson%20County%20Land%20Use%20Code%20-%20October%2020%2C%202021%20Final.pdf,08063,CO,solar;wind,government host: issuing scope unverified,0,False,False
+437,https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Zoning%20Regulations%20-%20September%202024.pdf,08087,CO,solar;wind,government host: issuing scope unverified,0,False,False
+438,https://www.elbertcounty-co.gov/DocumentCenter/View/2241/Resolution-22-36-Adoption-of-1041-Revisions-and-Article-XVII-of-the-Elbert-County-Zoning-Code,08039,CO,solar;wind,government host: issuing scope unverified,0,False,False
+439,https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf,08021,CO,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+440,https://deltacountyco.gov/DocumentCenter/View/16005/2023-Delta-County-Land-Use-Code,08029,CO,geothermal_electricity,government host: issuing scope unverified,0,False,False
+441,https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf,08005,CO,solar,government host: issuing scope unverified,0,False,False
+442,https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/las-animas-county-land-use-rules-and-regs.pdf,08071,CO,wind,government host: issuing scope unverified,0,False,False
+443,https://phillipscounty.colorado.gov/sites/phillipscounty/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf,08095,CO,wind,government host: issuing scope unverified,0,False,False
+444,https://sanjuancounty.colorado.gov/sites/g/files/lrnvjt966/files/LandUseCode_2017-03-08.pdf,08111,CO,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+445,https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf,08115,CO,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+446,https://townofhotchkiss.colorado.gov/sites/g/files/lrnvjt1216/files/documents/Signed%20Ordinance%202021-01.pdf,0837545,CO,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+447,https://townofridgway.colorado.gov/sites/g/files/lrnvjt1246/files/documents/Ordinance-No.-03-2026.pdf,0864200,CO,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+448,https://townofridgway.colorado.gov/sites/g/files/lrnvjt1246/files/documents/SMPA%20Franchise%20Ordinance.pdf,0864200,CO,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+449,https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf,08007,CO,geothermal_electricity,government host: issuing scope unverified,0,False,False
+450,https://www.townofmoffatco.gov/uploads/ordinance-no.-4-2009-electric-franchise-ammendment.pdf,0851250,CO,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+451,https://www.weld.gov/files/sharedassets/public/v/13/departments/planning-and-zoning/documents/land-use-applications/1041-sef.pdf,08123,CO,solar,government host: issuing scope unverified,0,False,False
+452,https://www.deltami.gov/defaults/Government/Ordinances/Delta%20Township%20Zoning%20Ordinance-4-19-21.pdf,2604521520,MI,geothermal_heat_pumps,government host: issuing scope unverified,2,False,False
+453,http://oregontownship.org/wordpress/wp-content/uploads/2021/05/ZoningOrdinanceMaster2020.pdf,2608761060,MI,high_voltage_transmission;solar,matched jurisdiction website host,0,False,True
+454,https://roscommontownshipmi.gov/wp-content/uploads/2025/09/Zoning-Ordinance-86-Rev-July-2025.pdf,2614369560,MI,geothermal_heat_pumps;solar,linked government codebook referral,0,True,True
+455,https://www.bueltownship.com/uploads/7/9/2/9/7929312/adopted_zoning_ordinance_buel_2019_1_.pdf,2615111540,MI,high_voltage_transmission;solar,linked government codebook referral,0,True,True
+456,http://krakowtownship.org/Resources/2010%20zoning%20ord%202.pdf,2614143900,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+457,http://www.villageofportaustin.com/uploads/1/2/5/9/125928295/zoning_ordinance_106-04_as_of_10.10.2016.pdf,2665680,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+458,https://berglandmi.gov/wp-content/uploads/2026/05/Zoning-Ordinance-5.21.2026.pdf,2613107640,MI,high_voltage_transmission,linked government codebook referral,0,True,True
+459,https://co.muskegon.mi.us/DocumentCenter/View/977/Model-Zoning-Ordinance-PDF,26121,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+460,https://dentontownshipmi.gov/wp-content/uploads/2025/07/2025.05.30-Denton-Zoning-Ordinance-Clean-1.pdf,2614321640,MI,high_voltage_transmission,linked government codebook referral,0,True,True
+461,https://foresttwp.com/wp-content/uploads/2026/03/forest-twp-zoning-ordinance.pdf,2604929420,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+462,https://fruitlandmi.gov/wp-content/uploads/2021/11/ARTICLE-R-6-POWER-FRANCHISE-ORDINANCE.pdf,2612130980,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+463,https://glenarbortownship.com/wp-content/uploads/2024/06/ZoningOrdinance_5.0.pdf,2608932380,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+464,https://heathtownship.net/wp-content/uploads/2025/02/ZoningOrdinance-1.pdf,2600537460,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+465,https://keelertownshipmi.gov/wp-content/uploads/2025/08/2025-Zoning-Ordinance-Adopted-05.01.2025.pdf,2615942500,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+466,https://laketontwpmi.gov/wp-content/uploads/2025/06/Zoning-Ordinance-with-amendments-adopted-through-Sept-2023-PDF-for-online-posting.pdf,2612145160,MI,solar,linked government codebook referral,0,True,True
+467,https://leroytwp.com/wp-content/uploads/2022/06/Leroy-Zoning-Ordinance-Effective-May-8-2022.pdf,2606547080,MI,solar,linked government codebook referral,0,True,True
+468,https://loditownshipmi.org/wp-content/uploads/2024/12/FULL-UPDATED-ZONING-ORDINANCE-11192024.pdf,2616149120,MI,high_voltage_transmission,linked government codebook referral,0,True,True
+469,https://manisteecountymi.gov/DocumentCenter/View/1195/Manistee-Township-Zoning-Ordinance-2018-Revised-PDF,26101,MI,wind,matched jurisdiction website host,0,False,True
+470,https://manisteecountymi.gov/DocumentCenter/View/2024/Arcadia-Township-Zoning-Ordiance-No-183-Feb-2022-amended-186-Jul-2023PDF,26101;2610103320,MI,high_voltage_transmission,government host: issuing scope unverified;matched jurisdiction website host,0,False,True
+471,https://marengomi.gov/wp-content/uploads/2022/07/ZoningOrdinance2022.01.pdf,2602551520,MI,solar,matched jurisdiction website host,0,False,True
+472,https://milantownship.org/wp-content/uploads/2022/03/MTwp-ZONING_ORDINANCE-2008-1-updated-01-31-2022.pdf,2611553900,MI,solar,linked government codebook referral,0,True,True
+473,https://mooremi.gov/media/uploads/docs/ZONING_ORDINANCE1.PDF,2615155320,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+474,https://norvelltwp-mi.gov/wp-content/uploads/2026/03/Zoning-Ordinance-Final-With-Jan-20-2026-Amendment.pdf,2607559180,MI,geothermal_heat_pumps,linked government codebook referral,0,True,True
+475,https://onondagatownship.org/wp-content/uploads/2025/10/2025.10.14-Amended-Zoning-Ordinance.pdf,2606560800,MI,solar,matched jurisdiction website host,0,False,True
+476,https://otsegocountymi.gov/DocumentCenter/View/2917/Otsego-County-Zoning-Ordinance---Amended-August-12-2025,26137,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+477,https://otsegocountymi.gov/DocumentCenter/View/2917/Otsego-County-Zoning-Ordinance---Amended-August-27-2024,26137,MI,wind,matched jurisdiction website host,0,False,True
+478,https://pentwatervillage.org/documents/2019_Village_Zoning_Ordinance_Update__02596295x9ED46__Final_riRLz_sJJW5.pdf,2663540,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+479,https://plainfieldtwpmi.com/wp-content/uploads/2020/01/ordinance52.pdf,2606964640,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+480,https://plainfieldtwpmi.com/wp-content/uploads/zoning/Zoning-Ordinance.pdf,2606964640,MI,solar,matched jurisdiction website host,0,False,True
+481,https://presqueisletwp.org/wp-content/uploads/2022/12/Presque-Isle-Township-Zoning-Ordinance-amended-11-14-22.pdf,2614166340,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+482,https://sandstonetownship.org/wp-content/uploads/2025/01/CONSUMERS-ENERGY-COMPANY-ELECTRIC-FRANCHISE-ORDINANCE-2025-1-Final_web.pdf,2607571500,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+483,https://solontwp.org/wp-content/uploads/2022/07/Solon-Township-compiled-general-ordinances-document-2022-February-14-03086861x9ED46.pdf,2608174460,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+484,https://southbranchtownship.com/wp-content/uploads/2024/04/South-Branch-Township-Zoning-Ordinance-amended-2018.pdf,2603974760,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+485,https://springlaketwp.org/wp-content/uploads/delightful-downloads/2023/11/Zoning-Ordinance-2019-updated-through-8-14-2023.pdf,2613975840,MI,solar,matched jurisdiction website host,0,False,True
+486,https://twp.columbia.mi.us/wp-content/uploads/2022/01/COLUMBIA-TWP-Zoning-Ordinance-As-Adopted-2-18-19.pdf,2607517400,MI,solar,matched jurisdiction website host,0,False,True
+487,https://wellstownshipmarquettecounty.com/files/Wells%20Township%20Zoning%20Ordinance%202020.pdf,2610385260,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+488,https://wexfordcounty.org/wp-content/uploads/2018/02/WexfordCoZoningOrdinance5_amended2012.pdf,26165,MI,wind,matched jurisdiction website host,0,False,True
+489,https://wheatfieldtwpmi.gov/wp-content/uploads/2024/05/Wheatfield-Twp-Zoning-Ordinance-As-Amended-thru-Ord-2024-1-Subm-4-17-24.pdf,2606586520,MI,solar,matched jurisdiction website host,0,False,True
+490,https://www.bluelaketownship.org/wp-content/uploads/2020/03/Ordinance-75-Zoning.pdf,2612109340,MI,solar,matched jurisdiction website host,0,False,True
+491,"https://www.conwaymi.gov/vimages/shared/vnews/stories/61782a3d4041b/Zoning%20Ordinance,%20Revised%207-2021.pdf",2609317920,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+492,https://www.eatoncounty.org/DocumentCenter/View/6494/Zoning-Ordinance-updated-10-2-2023-PDF,26045,MI,wind,matched jurisdiction website host,0,False,True
+493,https://www.jerometownship.org/wp-content/uploads/2025/11/JT-zoning-ordinance_25a_11122025.pdf,2611141760,MI,solar,matched jurisdiction website host,0,False,True
+494,https://www.laketwp.org/PDF/Zoning_Ordinance/draft/ZO_Draft_260811.pdf,2601944240,MI,high_voltage_transmission,linked government codebook referral,0,True,True
+495,https://www.mariontownship.com/e/zoning-ordinance-combined-may2025.pdf?1747074771,2609351640,MI,solar,matched jurisdiction website host,0,False,True
+496,https://www.mecostatwp.org/wp-content/uploads/2021/08/Mecosta-Township-Compiled-Zoning-Ordinance-2020-October-13-.pdf,2610752780,MI,solar,matched jurisdiction website host,0,False,True
+497,https://www.peninsulatownship.com/uploads/1/0/4/3/10438394/ordinance_36_-_consumers_energy_company_electric_franchise_ordinance.pdf,2605563340,MI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+498,https://cascostclair.gov/wp-content/uploads/2024/07/04-17-24-Zoning-Ordinance.pdf,2614713720,MI,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+499,https://alberttwpmi.gov/wp-content/uploads/2026/01/Albert-Township-Zoning-Ordinance-2026.pdf,2611900940,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+500,https://almenatownship.gov/documents/Almena%20Twp%20Zoning%20Ord%208-1-24.pdf,2615901600,MI,solar,government host: issuing scope unverified,0,False,False
+501,https://arcadami.gov/wp-content/uploads/2024/01/2021.08.11-Arcada-Ordinance-final.pdf,2605703260,MI,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+502,https://bearcreektownshipmi.gov/wp-content/uploads/2019/01/TWP_BC-30-11-City-of-Petoskey-Electric-Franchise-Ordinance.pdf,2604706380,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+503,https://comstockmi.gov/wp-content/uploads/2025/03/Ordinance-552-Moratorium.pdf,2607717680,MI,solar,government host: issuing scope unverified,0,False,False
+504,https://deltacountymi.gov/wp-content/uploads/2023/03/Delta-County-Zoning-Ordinance.pdf,26041,MI,wind,government host: issuing scope unverified,0,False,False
+505,https://frenchtownmi.gov/DocumentCenter/View/219/DTE-Energy-Marketing-Inc-Electric-Franchise-Ordinance-193-PDF,2611530820,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+506,https://ghtmi.gov/wp-content/uploads/2024/12/GHT-Zoning-Ordinance_11222024.pdf,2613933360,MI,solar,government host: issuing scope unverified,0,False,False
+507,https://gladwincounty-mi.gov/wp-content/uploads/2022/12/2018-32-.-Zoning-Ordinance-Revision.pdf,26051,MI,wind,government host: issuing scope unverified,0,False,False
+508,https://greenwoodoceanami.gov/wp-content/uploads/2023/03/2022-01-Ordinance-Great-Lakes-Energy-Co-op.pdf,2612735160,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+509,https://hamlineatonmi.gov/wp-content/uploads/2024/12/2022-02_interimzoningordinance.pdf,2604536200,MI,solar,government host: issuing scope unverified,0,False,False
+510,https://hayestwpclaremi.gov/wp-content/uploads/2024/06/Revised-2019-Hayes-Township-Zoning-Ordinance-amended-April-18-2024-1.pdf,2603537340,MI,solar,government host: issuing scope unverified,0,False,False
+511,https://henriettatownshipmi.gov/wp-content/uploads/2023/01/2023-Zoning-Ordinance.pdf,2607537700,MI,solar,government host: issuing scope unverified,0,False,False
+512,https://manisteecountymi.gov/DocumentCenter/View/1198/Marilla-Township-Zoning-Ordinance-PDF,2610151580,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+513,https://manisteecountymi.gov/DocumentCenter/View/1201/Pleasanton-Township-Zoning-Ordinance-PDF,2610164860,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+514,https://miltontownshipmi.gov/wp-content/uploads/2025/08/CURRENT-Milton-Zoning-Ordinance-Amended-Thru-Mar-2025.pdf,2600954440,MI,solar,government host: issuing scope unverified,0,False,False
+515,https://norvelltwp-mi.gov/wp-content/uploads/2024/02/Ordinance-23-Consumers-Energy-Franchise.pdf,2607559180,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+516,https://pinerivermi.gov/wp-content/uploads/2023/06/2022-Zoning-Ordinance.pdf,2605764360,MI,solar,government host: issuing scope unverified,0,False,False
+517,https://sidneymi.gov/wp-content/uploads/2025/03/Ordinance-Book-2025-version.pdf,2611773840,MI,solar,government host: issuing scope unverified,0,False,False
+518,https://vanburencountymi.gov/wp-content/uploads/2026/04/17984-120-HAZARDOUS-WASTE-MATERIAL-RELEASE-ORDINANCE.pdf,26159,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+519,https://waterlootwpmi.gov/wp-content/uploads/2026/06/Waterloo-Twp-Zoning-Ordinance_FINAL_4.28.2026.pdf,2607584300,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+520,https://winfieldtownshipmi.gov/wp-content/uploads/2025/09/Winfield-Township_Zoning-Ordinance_-Energy-Facility-September-19-2025_Public-Hearing-Version.pdf,2611787880,MI,solar,government host: issuing scope unverified,0,False,False
+521,https://wrighttownshipottawami.gov/wp-content/uploads/2024/08/Zoning-Ordinance-07-29-24.pdf,2613988820,MI,solar,government host: issuing scope unverified,0,False,False
+522,https://www.baldwintwpiosco.gov/download/17138/baldwin-township-zoning-ordinance-adopted-7-9-25.pdf,2606904920,MI,solar,government host: issuing scope unverified,0,False,False
+523,https://www.courtlandtwpmi.gov/DocumentCenter/View/1150/Courtland-Township-compiled-zoning-ordinance-document-2026-June-10,2608118500,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+524,https://www.garfieldmi.gov/download/12723/ordinance-68-complete-zoning-ordinance.pdf,2605531580,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+525,https://www.geneseetwpmi.gov/wp-content/uploads/2020/11/Ordinance-603-Final-.pdf,2604931800,MI,solar,government host: issuing scope unverified,0,False,False
+526,https://www.manisteecountymi.gov/DocumentCenter/View/1188/Cleon-Township-Zoning-Ordinance-PDF,2610116380,MI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+527,https://www.voliniatownship.gov/download/12955/volinia-township-zoning-ordinance-2021.pdf,2602782580,MI,solar,government host: issuing scope unverified,0,False,False
+528,https://jeffersoncountytn.gov/wp-content/uploads/2021/07/Revised-Zoning-Resolution_April-2021.pdf,47089,TN,solar;wind,matched jurisdiction website host,0,False,True
+529,https://rutherfordcountytn.gov/vertical/sites/%7B0DE57B3C-95FA-46CF-BF78-CE4E5703EB9C%7D/uploads/zoning_ordinance_(adopted)_11-15-12_as_amended_-_12-11-2025.pdf,47149,TN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+530,https://www.cheathamcountytn.gov/assets/pdfs/bldg_codes/land_use/zoning_amendments.pdf,47021,TN,high_voltage_transmission,matched jurisdiction website host,0,False,True
+531,https://haywoodtn.gov/wp-content/uploads/2024/07/Haywood-County-Zoning-Resolution-July-2024.pdf,47075,TN,solar,government host: issuing scope unverified,0,False,False
+532,https://planningandcodes.loudoncounty-tn.gov/documents/meetings/LoudonCounty/2026/20260714_CORPCBZA.pdf,47105,TN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+533,https://roanecountytn.gov/wp-content/uploads/2023/06/Zoning-Regulations-edited.pdf,47145,TN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+534,https://www.robertsoncountytn.gov/departments/planning/Zoning%20Regulations/ZONING%20RESOLUTION-%20REVISED%20%202021.pdf,47147,TN,wind,government host: issuing scope unverified,0,False,False
+535,https://www.trousdalecountytn.gov/Documents/Government/County%20Departments/Building%20Codes%20Zoning%20and%20Planning/Documents/202103%20Hartsville%20Trousdale%20Subdivision%20Regulations%20(updated%20March%202021).pdf?t=202602031503190,47169,TN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+536,https://www.wilsoncountytn.gov/DocumentCenter/View/1800/20260721--Zoning-Ordinance-revised,47189,TN,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+537,https://www.washoecounty.gov/clerks/cco/ordinances/1443.pdf,32031,NV,wind,government host: issuing scope unverified,0,False,False
+538,https://waynecountyutah.gov/uploads/wayne-county-land-use-ordinances-resolutions-1_1_2011.pdf,49055,UT,high_voltage_transmission;wind,matched jurisdiction website host,0,False,True
+539,https://www.duchesne.utah.gov/wp-content/uploads/2018/05/Zoning-Ordinance-Amendments-2018.pdf,49013,UT,solar;wind,matched jurisdiction website host,0,False,True
+540,https://hideoututah.gov/wp-content/uploads/2021/08/Ordinance-2021-O-11-Rocky-Mountain-Power-Franchise-Agreement.pdf,4935120,UT,high_voltage_transmission,matched jurisdiction website host,0,False,True
+541,https://newharmonyutah.org/wp-content/uploads/2020/04/nh-land-use-ordinance-2-3-20.pdf,4954440,UT,high_voltage_transmission,matched jurisdiction website host,0,False,True
+542,https://scipio.utah.gov/documents/808/Scipio_Town_Zoning_Ordinances_2018.pdf,4967880,UT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+543,https://www.boxeldercountyut.gov/DocumentCenter/View/2318/Ordinance-654---Data-Center-Moratorium,49003,UT,geothermal_electricity,government host: issuing scope unverified,0,False,False
+544,https://www.utahcounty.gov/apps/WebLink/Dept/COMDEV/LandUseUpdate_7-10-2019.pdf,49049,UT,wind,government host: issuing scope unverified,0,False,False
+545,https://butlercounty.iowa.gov/images/docs/departments/zoning/ordinances/Butler_County_Zoning_Ordinance_No_28_7-18-23.pdf,19023,IA,high_voltage_transmission;solar;wind,linked government codebook referral,0,True,True
+546,https://boonecounty.iowa.gov/files/county_ordinances/139_amendment_to_zoning_district_map_133.pdf,19015,IA,wind,matched jurisdiction website host,0,False,True
+547,https://brightoniowa.com/vertical/sites/%7BAFBA74E6-DEFB-4736-8185-DF533289FEA2%7D/uploads/Ordinance_No._2022-01_-_Electrical_Franchise_Including_Franchise.pdf,1908470,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+548,https://cityofbadger.com/documents/323/ordinances.pdf,1904195,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+549,https://cityofcollins.municipalimpact.com/documents/200/Ordinance_CHAPTER_160_and_165_and_170__Zoning_and_Subdivision__-_Rev._2022.pdf,1915195,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+550,https://cityofdurantiowa.com/uploads/dm/25502/CityofDurantCityCodeofOrdinances.pdf,1922980,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+551,https://cityofrichlandia.org/documents/784/Code-of-Ordinances-2018-Title-VI-Physical-Environment.pdf,1966720,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+552,https://mitchellcounty.iowa.gov/wp-content/uploads/Zoning-Ordinance-Update-1.pdf,19131,IA,high_voltage_transmission,linked government codebook referral,0,True,True
+553,https://poweshiekcountyiowa.gov/files/sanitarian_zoning/zoning_ordinance_of_2011_23226.pdf,19157,IA,high_voltage_transmission,linked government codebook referral,0,True,True
+554,https://www.boonecounty.iowa.gov/files/county_ordinances/142_health_and_sanitation_806.pdf,19015,IA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+555,https://www.boonecounty.iowa.gov/files/county_ordinances/94_amendment_to_zoning_ordinance_648.pdf,19015,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+556,https://www.camancheia.org/DocumentCenter/View/376/CODE-OF-ORDINANCES-CAMANCHE-2024pdf-PDF,1910135,IA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+557,https://www.co.greene.ia.us/files/documents/GreeneCountyCodeofOrdinances1611123206041023PM.pdf,19073,IA,wind,matched jurisdiction website host,0,False,True
+558,https://www.fremontcountyia.gov/vimages/shared/vnews/stories/5caebb278b3cf/Ordinance20211.pdf,19071,IA,solar,matched jurisdiction website host,0,False,True
+559,https://www.leecounty.org/files/documents/ProposedOrdinanceDRAFTd4222news61261478042225-064932PMa.pdf,19111,IA,wind,matched jurisdiction website host,0,False,True
+560,https://www.polkcountyiowa.gov/media/bdcba5hh/zoning-ordinance-draft-changes-5-11-23.pdf,19153,IA,wind,matched jurisdiction website host,0,False,True
+561,https://www.polkcountyiowa.gov/media/nl3bfqg0/zoning-ordinance-updated-2024-adopted-10-14-24.pdf,19153,IA,solar,matched jurisdiction website host,0,False,True
+562,https://www.spillville.org/wp-content/uploads/2023/01/Spillville-2022-Code-of-Ordinances.pdf,1974370,IA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+563,https://plymouthcountyiowa.gov/wp-content/uploads/2024/05/2024-Updating-version-ZONING-ORDINANCE-Update-20231024-Clean-Version.pdf,19149,IA,solar;wind,government host: issuing scope unverified,0,False,False
+564,https://winneshiekcounty.iowa.gov/wp-content/uploads/2024/04/Winn-Co-Zoning-Ordinance-V-2-22-24.pdf,19191,IA,solar;wind,government host: issuing scope unverified,0,False,False
+565,https://www.clintoncounty-ia.gov/files/county_ordinances/chapter0_zoning_ordinance.pdf,19045,IA,solar;wind,government host: issuing scope unverified,0,False,False
+566,https://www.greenecounty.iowa.gov/files/documents/GreeneCountyCodeofOrdinances1611123206041023PM.pdf,19073,IA,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+567,https://www.marioncountyiowa.gov/files/zoning/2023_chapter_55_zoning_ordinance_updates_14894.pdf,19125,IA,solar;wind,government host: issuing scope unverified,0,False,False
+568,https://www.millscountyiowa.gov/DocumentCenter/View/584/Chapter-27-Code-of-Ordinances,19129,IA,high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+569,https://www.pottcounty-ia.gov/files/planning_and_development/pottawattamie_county_ordinance_202305_91556.pdf,19155,IA,solar;wind,government host: issuing scope unverified,0,False,False
+570,https://adamscounty.iowa.gov/files/county_ordinances/21_zoning_871.pdf,19003,IA,wind,government host: issuing scope unverified,0,False,False
+571,https://appanoosecounty.iowa.gov/wp-content/uploads/2020/01/Zoning-Ordinance-May-2014.pdf,19007,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+572,https://appanoosecounty.iowa.gov/wp-content/uploads/2020/08/Zoning-Ordinance-Revised-2020.pdf,19007,IA,wind,government host: issuing scope unverified,0,False,False
+573,https://cedarcounty.iowa.gov/files/county_ordinances/nonpublic_water_supply_wells_construction.pdf,19031,IA,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+574,https://cerrogordo.gov/files/county_ordinances/69_industrial_or_utility_scale_electricity_generation_and_storage_installations_and_systems_883.pdf,19033,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+575,https://clarkecounty.iowa.gov/wp-content/uploads/2025/08/Ordinance-39-Clarke-County-Zoning-2025-Update-Amending-31-33-34.pdf,19039,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+576,https://elections.marshallcountyia.gov/files/sample_ballots/20230912_ordinance_15066_34979.pdf,19127;1949755,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+577,https://grundycountyiowa.gov/images/departments/zoning/pdf/Development%20Ordinance%202023.pdf,19075,IA,solar,government host: issuing scope unverified,0,False,False
+578,https://johnsoncountyiowa.gov/sites/default/files/2025-02/Johnson%20County%20UDO%20-%20OFFICIAL%20VERSION%20%282020%20ed%2C%202025%20recod%29%20-%20adopted%201.30.25.pdf,19103,IA,solar,government host: issuing scope unverified,0,False,False
+579,https://lyoncounty.iowa.gov/files/zoning/zoning_ord_2012_43366.pdf,19119,IA,wind,government host: issuing scope unverified,0,False,False
+580,https://mononacountyiowa.gov/files/environmental_health_zoning/current_mc_zoning_regulations_chapter_100_amended_03112025_12875.pdf,19133,IA,solar,government host: issuing scope unverified,0,False,False
+581,https://osceolacountyia.gov/wp-content/uploads/2020/04/2013_Osceola_Co_Zoning_Ordinance.pdf,19143,IA,wind,government host: issuing scope unverified,0,False,False
+582,https://secure.iowadot.gov/aviation/data_driven/publications/apZoning/IFA%20-%20Hardin%20County.pdf,19083,IA,wind,government host: issuing scope unverified,0,False,False
+583,https://shelbycounty.iowa.gov/files/county_ordinances/20066_shelby_county_zoning_regulations_510.pdf,19165,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+584,https://siouxcountyia.gov/wp-content/uploads/2018/09/Ordinance-1-a.pdf,19167,IA,wind,government host: issuing scope unverified,0,False,False
+585,https://unioncountyiowa.gov/wp-content/uploads/2024/05/Ordinance-73-Amendment-for-Future-Projects1.pdf,19175,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+586,https://winneshiekcounty.iowa.gov/wp-content/uploads/2017/01/Proposed-Zoning-Ordinance-V-2015.pdf,19191,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+587,https://worthcountyiowa.gov/files/board_of_supervisors/an_ordinance_enacting_a_new_rightofway_control_ordinance_to_regulate_certain_occupancies_and_uses_of_county_rightofway_32149.pdf,19195,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+588,https://www.auduboncountyia.gov/webres/File/amendment-1a-zoning-ordinance.pdf,19009,IA,wind,government host: issuing scope unverified,0,False,False
+589,https://www.casscountyia.gov/wp-content/uploads/2019/10/Cass-County-Code-of-Ordinances-Recompiled-2020.12.15-Updated-2024.06.18-with-Ord-38.pdf,19029,IA,wind,government host: issuing scope unverified,0,False,False
+590,https://www.casscountyia.gov/wp-content/uploads/2020/12/CASS-CO-CODE-OF-ORDINANCES-LastAmended_2020-12-15.pdf,19029,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+591,https://www.cherokeecounty.iowa.gov/Document_Center/How%20Do%20I/Read%20View/Ordinances/Ordinance%20No.%202017-01.pdf,19035,IA,wind,government host: issuing scope unverified,0,False,False
+592,https://www.crawfordcounty.iowa.gov/files/code/an_ordinance_to_amend_the_crawford_county_iowa_zoning_ordinance.pdf,19047,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+593,https://www.dallascountyiowa.gov/DocumentCenter/View/305/Chapter-45-Zoning-Ordinance-for-the-Unincorporated-Areas-of-Dallas-County-PDF,19049,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+594,https://www.franklincountyia.gov/Document_Center/Code%20of%20Ordinances/Chapter%2070%20-%202024%20Code.pdf,19069,IA,wind,government host: issuing scope unverified,0,False,False
+595,https://www.grundycountyiowa.gov/images/departments/zoning/pdf/Development%20Ordinance%202023.pdf,19075,IA,wind,government host: issuing scope unverified,0,False,False
+596,https://www.grundycountyiowa.gov/images/documents/announcements/Grundy%20County%20Development%20Ordinance%202022%20FINAL%20DRAFT%2009-12-22%20002.pdf,19075,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+597,https://www.johnsoncountyiowa.gov/sites/default/files/2025-02/Johnson%20County%20UDO%20-%20OFFICIAL%20VERSION%20%282020%20ed%2C%202025%20recod%29%20-%20adopted%201.30.25.pdf,19103,IA,wind,government host: issuing scope unverified,0,False,False
+598,https://www.jonescountyiowa.gov/files/county_ordinances/chapter3_jones_county_zoning_ordinance_62634.pdf,19105,IA,wind,government host: issuing scope unverified,0,False,False
+599,https://www.jonescountyiowa.gov/files/county_ordinances/chapter3_jones_county_zoning_ordinance_65521.pdf,19105,IA,solar,government host: issuing scope unverified,0,False,False
+600,https://www.mahaskacountyia.gov/files/board_of_supervisors/2020_ordinances_41669.pdf,19123,IA,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+601,https://www.mahaskacountyia.gov/files/board_of_supervisors/2026_ordinances_33331.pdf,19123,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+602,https://www.muscatinecountyiowa.gov/files/ordinances/chapter_ii_zoning_ordinance.pdf,19139,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+603,https://www.storycountyiowa.gov/DocumentCenter/View/11613/Signed-Ordinance-287,19169,IA,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+604,https://www.tamacounty.iowa.gov/files/county_ordinances/6.3_airport_tall_structure_zoning_ordinance_943.pdf,19171,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+605,https://www.warrencountyia.gov/wp-content/uploads/2026/01/2026-all-ordinance.pdf,19181,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+606,https://www.webstercountyia.gov/document_center/Departments/Board%20of%20Supervisors/Ordinances/Ord.%202020-05.pdf,19187,IA,solar,government host: issuing scope unverified,0,False,False
+607,https://www.webstercountyia.gov/document_center/Departments/Board%20of%20Supervisors/Ordinances/Ordinance%202023-04.pdf,19187,IA,wind,government host: issuing scope unverified,0,False,False
+608,https://www3.scottcountyiowa.gov/board/pub/code/chapters/Chapter_06_-_Zoning_for_Unincorporated_Areas.pdf,19163,IA,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+609,https://www.harfordcountymd.gov/DocumentCenter/View/18362/5-10-21-Zoning-Code-Update---Bill-21-01AA,24025,MD,solar,matched jurisdiction website host,0,False,True
+610,https://www.washco-md.net/wp-content/uploads/legal-ZoningOrd.pdf,24043,MD,high_voltage_transmission,linked government codebook referral,0,True,True
+611,https://dnr.maryland.gov/pprp/Documents/BaltimoreCityZoningDocs.pdf,24510,MD,solar;wind,government host: issuing scope unverified,0,False,False
+612,https://dnr.maryland.gov/pprp/Documents/AlleganyZoningDocs.pdf,24001,MD,solar,government host: issuing scope unverified,0,False,False
+613,https://dnr.maryland.gov/pprp/Documents/CharlesZoningDocs.pdf,24017,MD,wind,government host: issuing scope unverified,0,False,False
+614,https://dnr.maryland.gov/pprp/Documents/TalbotZoningDocs.pdf,24041,MD,wind,government host: issuing scope unverified,0,False,False
+615,https://dnr.maryland.gov/pprp/Documents/WorcesterZoningDocs.pdf,24047,MD,solar,government host: issuing scope unverified,0,False,False
+616,https://www.sandspringsok.gov/DocumentCenter/View/21/Zoning-Code,4065300,OK,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+617,https://andoverma.gov/DocumentCenter/View/10817/Andover-Zoning-Bylaw-32122,2500901465,MA,wind,matched jurisdiction website host,1,False,True
+618,https://ashburnham-ma.gov/DocumentCenter/View/445/Zoning-by-Law-PDF,2502701885,MA,solar;wind,matched jurisdiction website host,0,False,True
+619,https://www.townofbourne.com/sites/g/files/vyhlif12841/f/uploads/zoning_bylaw_2022_for_website_1.pdf,2500107175,MA,solar;wind,matched jurisdiction website host,0,False,True
+620,https://www.townofwinchendon.com/DocumentCenter/View/665/Zoning-Bylaw-October-2019-Amended-PDF,2502780405,MA,solar;wind,matched jurisdiction website host,0,False,True
+621,https://egremont-ma.gov/DocumentCenter/View/98/09-22-2020-Egremont-Zoning-Bylaw-PDF,2500321360,MA,solar,matched jurisdiction website host,0,False,True
+622,https://montague-ma.gov/files/2019-02-19_STM_Montague_Zoning_Bylaws_Proposed_Redline.pdf,2501142285,MA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+623,https://townofheath.org/files/Zoning_Bylaws_V3-2.pdf,2501129650,MA,wind,matched jurisdiction website host,0,False,True
+624,https://wellesleyma.gov/DocumentCenter/View/12119/Full-Zoning-Bylaw_Version-10-1-2018,2502174175,MA,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+625,https://www.deerfieldma.us/DocumentCenter/View/1901/Chapter-179-Zoning-Revisions---Town-Meeting-Version---Approved---10-23-23-C,2501116670,MA,solar,matched jurisdiction website host,0,False,True
+626,https://www.dudleyma.gov/DocumentCenter/View/220/Zoning-Bylaws-Updated-Through-05-20-2019-PDF,2502717685,MA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+627,https://www.ipswichma.gov/DocumentCenter/View/18214/Ipswich-Protective-Zoning-Bylaw-As-Amended-Through-October-2023,2500932310,MA,solar,matched jurisdiction website host,0,False,True
+628,https://www.lakevillema.org/sites/g/files/vyhlif751/f/pages/master-2021_zoning_by-law._atm_5.10.2021.pdf,2502333920,MA,wind,matched jurisdiction website host,0,False,True
+629,https://www.manchester.ma.us/DocumentCenter/View/3109/Draft-Zoning-Bylaw-with-Tracked-Changes-,2500937995,MA,wind,matched jurisdiction website host,0,False,True
+630,https://www.mashpeema.gov/DocumentCenter/View/681/2024-Zoning-Bylaws,2500139100,MA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+631,https://www.northbrookfield.net/DocumentCenter/View/473/Zoning-Bylaws-updated-to-2021,2502747135,MA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+632,https://www.oakbluffsma.gov/DocumentCenter/View/2458/AMENDED-ZONING-BY-LAW-CURRENT-TO-MAY-2019-PDF?bidId=,2500750390,MA,wind,matched jurisdiction website host,0,False,True
+633,https://www.sandwichmass.org/DocumentCenter/View/719/Zoning-By-Law-November-2017-PDF,2500159735,MA,solar,matched jurisdiction website host,0,False,True
+634,https://www.sheffieldma.gov/sites/g/files/vyhlif3806/f/uploads/zoningbylaw_updated_5-25.pdf,2500361065,MA,solar,matched jurisdiction website host,0,False,True
+635,https://www.town.canton.ma.us/DocumentCenter/View/9386/2021-Zoning-By-Laws,2502111315,MA,wind,matched jurisdiction website host,0,False,True
+636,https://www.town.plympton.ma.us/sites/g/files/vyhlif1091/f/uploads/2017_zoning_bylaws_rev_051717_1.pdf,2502354415,MA,solar,matched jurisdiction website host,0,False,True
+637,https://www.townofchesterfieldma.com/sites/g/files/vyhlif7606/f/uploads/amended_zoning_by-laws_oct_2025.pdf,2501513590,MA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+638,https://www.townofmilton.org/DocumentCenter/View/2319/Zoning-Bylaw-Unofficial-Planning-Board-Edition-PDF,2502141690,MA,wind,matched jurisdiction website host,0,False,True
+639,https://www.townofrussell.us/sites/g/files/vyhlif7626/f/uploads/zoning_by-laws_of_russell_ma.pdf,2501358650,MA,wind,matched jurisdiction website host,0,False,True
+640,https://www.wilmingtonma.gov/sites/g/files/vyhlif5221/f/uploads/zoning_bylaw_2021.5.1.pdf,2501780230,MA,wind,matched jurisdiction website host,0,False,True
+641,https://www.wnewbury.org/DocumentCenter/View/6548/Zoning-Bylaws-approved---as-of-12-23-25-PDF,2500977150,MA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+642,https://fairhaven-ma.gov/wp-content/uploads/2024/04/Ch.-198-Fairhaven-Zoning.pdf,2500522130,MA,solar;wind,government host: issuing scope unverified,0,False,False
+643,https://hampdenma.gov/DocumentCenter/View/198/Zoning-Bylaws-PDF,2501328075,MA,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+644,https://www.falmouthma.gov/DocumentCenter/View/14415/Town-of-Falmouth-Massachusetts-Zoning-Bylaw-Town-Code-Chapter-240-Articles-1-14-November-2022,2500123105,MA,solar;wind,government host: issuing scope unverified,0,False,False
+645,https://www.millburyma.gov/sites/g/files/vyhlif4706/f/uploads/millbury_zoning_bylaws_pdf_02.11.21.pdf,2502741340,MA,solar;wind,government host: issuing scope unverified,0,False,False
+646,https://www.rutlandma.gov/DocumentCenter/View/364/Zoning-by-Laws-PDF,2502758825,MA,solar;wind,government host: issuing scope unverified,0,False,False
+647,https://www.truro-ma.gov/DocumentCenter/View/1041/2024-Zoning-Bylaw-PDF,2500170605,MA,solar;wind,government host: issuing scope unverified,0,False,False
+648,https://www.wellfleet-ma.gov/sites/g/files/vyhlif16026/f/uploads/zoning_1_2022.pdf,2500174385,MA,solar;wind,government host: issuing scope unverified,0,False,False
+649,https://conwayma.gov/files/Conway_Zoning_Bylaws_-_Final_6-1-2024.pdf,2501115200,MA,wind,government host: issuing scope unverified,0,False,False
+650,https://douglas-ma.gov/DocumentCenter/View/3919/Zoning-Bylaws-2023,2502717300,MA,wind,government host: issuing scope unverified,0,False,False
+651,https://pelhamma.gov/files/Zoning_chpt_125.pdf,2501552560,MA,solar,government host: issuing scope unverified,0,False,False
+652,https://rowe-ma.gov/files/Zoning_Bylaws_05-12-2025_MASTER_COPY.pdf,2501158335,MA,solar,government host: issuing scope unverified,0,False,False
+653,https://townofberkleyma.gov/wp-content/uploads/2025/05/2023-ZONING-BYLAW-Art-21-PB.pdf,2500505280,MA,solar,government host: issuing scope unverified,0,False,False
+654,https://westhamptonma.gov/wp-content/uploads/2024-0410_-_the_zoning_bylaw_-_as_reviewed_by_mass_ag.pdf,2501576380,MA,wind,government host: issuing scope unverified,0,False,False
+655,https://wilbraham-ma.gov/DocumentCenter/View/102/Zoning-By-Law?bidId=,2501379740,MA,wind,government host: issuing scope unverified,0,False,False
+656,https://www.athol-ma.gov/sites/g/files/vyhlif2741/f/uploads/zoning_bylaws_-_amended_thru_october_20_2020.pdf,2502702480,MA,wind,government host: issuing scope unverified,0,False,False
+657,https://www.cohassetma.gov/DocumentCenter/View/11469/4a-Combined-Z1-Reorganization-of-Zoning-Bylaw-Part-1-pdf,2502114640,MA,solar,government host: issuing scope unverified,0,False,False
+658,https://www.colrain-ma.gov/files/CompleteColrainZoningBylawsrevisedMay62014.pdf,2501114885,MA,wind,government host: issuing scope unverified,0,False,False
+659,https://www.phillipston-ma.gov/sites/g/files/vyhlif3676/f/pages/phillipston_zoning_bylaw_withtable_may_8_2019_final_with_cover.pdf,2502753225,MA,wind,government host: issuing scope unverified,0,False,False
+660,https://www.plymouth-ma.gov/DocumentCenter/View/7334/Zoning-Bylaw-10-2024,2502354310,MA,wind,government host: issuing scope unverified,0,False,False
+661,https://www.plymouth-ma.gov/DocumentCenter/View/7334/Zoning-Bylaw-10-2024-PDF,2502354310,MA,solar,government host: issuing scope unverified,0,False,False
+662,https://www.scituatema.gov/sites/g/files/vyhlif11836/f/pages/24-04_pb_zoning_bylaw_changes_-final_-_post_ag_approval.pdf,2502360330,MA,solar,government host: issuing scope unverified,0,False,False
+663,https://www.walpole-ma.gov/sites/g/files/vyhlif12086/f/uploads/zoning_bylaws_may_2025.pdf,2502172495,MA,solar,government host: issuing scope unverified,0,False,False
+664,https://www.co.sauk.wi.us/sites/default/files/fileattachments/land_resources_and_environment/page/130729/draft_zoning_july_2025.pdf,55111,WI,solar;wind,matched jurisdiction website host,0,False,True
+665,https://farmingtontown.com/wp-content/uploads/2022/03/0-TOWN-OF-FARMINGTON-ZONING-ORDINANCE.pdf,5509525350,WI,high_voltage_transmission,linked government codebook referral,0,True,True
+666,https://mwtown.org/2016/wp-content/uploads/2016/01/mw_general_zoning_ordinance_2007-1_052207.pdf,5512548462,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+667,https://townofdupont.org/wp-content/uploads/2019/11/Zoning-Ordinance_Adopted-5-17-2011_Amended-7-17-2018.pdf,5513521200,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+668,https://www.co.columbia.wi.us/columbiacounty/Portals/3/OrdinanceChapter12Sub100/Chapter12Subchapter100.pdf,55021,WI,wind,linked government codebook referral,0,True,True
+669,https://www.co.langlade.wi.us/i/f/files/CODE%20OF%20ORDINANCES-%20Revised%207-1-2025.pdf,55067,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+670,https://www.co.pepin.wi.us/vertical/sites/%7B379104F9-0DE8-498C-8406-82AD4E352E4A%7D/uploads/CHAPTER_19_MISSISSIPPI_RIVER_BLUFFLAND_ZONING_CODE__(1).pdf,55091,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+671,https://www.co.shawano.wi.us/i_shawano/np/03-20-24_proposed_2024_amendments_to_shawano_county_zoning_ordinance_7-14.pdf,55115,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+672,https://www.co.shawano.wi.us/i_shawano/pu/6-3-19_zoning_ordinance.pdf,55115,WI,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+673,https://www.co.walworth.wi.us/DocumentCenter/View/7531/CZA-Dec-21---DNR-Required-Floodplain-Ordinance-Update-2021,55127,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+674,https://www.kewauneeco.org/i/f/files/County%20Clerk/April%202024%20Spring%20Election/Kewaunee%20County%20floodplain%20ordinance%20final%20for%20publication%2006_2024.pdf,55061,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+675,https://www.townofgroverwi.com/assets/files/2022/01/final-chapter-10-zoning.pdf,5507531725,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+676,https://www.townofnewton.org/wp-content/uploads/2026/01/051425-Newton-Ordinance-Zoning-Land-Division.pdf,5507157200,WI,high_voltage_transmission,matched jurisdiction website host,0,False,True
+677,https://manitowoccountywi.gov/wp-content/uploads/2021/01/zoning-guide.pdf,55071,WI,solar,government host: issuing scope unverified,0,False,False
+678,https://tn.springgreen.wi.gov/Ordinance/Ordinances/Chapter%2007%20-%20LandDivision.pdf,5511176050,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+679,https://towngenesee.wi.gov/wi/towngenesee/Amendment%20to%20Town%20Zoning%20Code_101222.pdf,5513328487,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+680,https://townofhollandwi.gov/assets/files/2022/04/1-2008-subdivision-ordinance-amended-2022-with-appendix.pdf,5506335350,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+681,https://townoflindina.wi.gov/wp-content/uploads/2025/12/TOWN-OF-LINDINA-ZONING-ORDINANCE-updated-121025.pdf,5505744675,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+682,https://townoflisbonwi.gov/assets/files/2025/07/8th-amendment-to-zoning-ordinance-53-a-8.pdf,5505744825,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+683,https://townofredriverwis.gov/wp-content/uploads/2026/01/Chapter-10-T-Red-River-Zoning-Ordinance-FP-Cert-DATCP-Certified-FINAL-2017_amendments-2021.pdf,5506166700,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+684,https://townofrockbridge.wi.gov/wp-content/uploads/2025/10/ZONING-ORD-2019-FARMLAND-PRES-CHANGES-11-22-19-NO-BOLD-NO-RED.pdf,5510368675,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+685,https://townofsheboyganfallswi.gov/wp-content/uploads/2025/09/Chapter-7-Zoning-reanacted-442024-.pdf,5511773050,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+686,https://townofwinchesterwi.gov/wp-content/uploads/2024/07/Chapter-17-Zoning-Ordinance-Approved-07-15-2024.pdf,5513987650,WI,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+687,https://www.bayfieldcounty.wi.gov/DocumentCenter/View/17585/ZONING-SECTION-13-Article-D-Sec-13-1-60-thru-13-1-79doc-Revised-7-30-2024-Zoning-District-Classification-Towns,5500705375,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+688,https://www.chippewacountywi.gov/DocumentCenter/View/116/Chapter-70---Zoning-PDF,55017,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+689,https://www.co.door.wi.gov/DocumentCenter/View/1480/SHORELAND-ZONING-ORDINANCE,55029,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+690,https://www.co.iron.wi.gov/DocumentCenter/View/304/Title-9-Land-Use-Ordinance-PDF,55051,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+691,https://www.marquettecountywi.gov/wp-content/uploads/2025/10/Chapter-70Zoning-1212025-update-23.pdf,55077,WI,solar,government host: issuing scope unverified,0,False,False
+692,https://www.marquettecountywi.gov/wp-content/uploads/2026/02/Chapter-62_Comprehensive-Zoning-searchable.pdf,55077,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+693,https://www.ocontocountywi.gov/DocumentCenter/View/256/14a---Chapter-14---Zoning-Ordinance-PDF,55083,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+694,https://www.ozaukeecounty.gov/DocumentCenter/View/25437/Chapter-19-Ozaukee-County-Shoreland-Protection-Ordinance,55089,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+695,https://www.sawyercounty.gov/DocumentCenter/View/37152/Floodplain-Ordinance-2-15-2024,55113,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+696,https://www.townofdaywi.gov/assets/files/2026/06/12.09.2025-town-of-day-zoning-ordinance-final-master-copy-clean-amended-5.21.2026-2.pdf,5507318950,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+697,https://www.townofjacksonwi.gov/CMS/files/Complete%20Town%20of%20Jackson%20Zoning%20Booklet%2C%203-5-2020.pdf,5513137700,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+698,https://www.woodcountywi.gov/departments/Clerk/Ordinances/700-Zoning%20Ordinance.pdf,55141,WI,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+699,http://www.co.washington.ne.us/media/draftplan/Washington_County_Zoning_Regulations_draft.pdf,31177,NE,geothermal_heat_pumps;solar;wind,matched jurisdiction website host,0,False,True
+700,https://webstercounty.ne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31181,NE,high_voltage_transmission;solar;wind,linked government codebook referral,0,True,True
+701,https://garfieldcounty.ne.gov/pdfs/planning_zoning/Garfield%20County%20Zoning_new%20clean_070622.pdf,31071,NE,solar;wind,matched jurisdiction website host,0,False,True
+702,https://kearneycounty.ne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31099,NE,solar;wind,matched jurisdiction website host,0,False,True
+703,https://kearneycounty.ne.gov/wp-content/uploads/sites/41/2025/12/zoning_regulations.pdf,31099,NE,geothermal_heat_pumps;high_voltage_transmission,matched jurisdiction website host,0,False,True
+704,https://saunderscounty.ne.gov/pdfs/zoning/Zoning%20Regulations.pdf,31155,NE,solar;wind,matched jurisdiction website host,0,False,True
+705,https://www.yorkcounty.ne.gov/uploads/1/4/5/5/145507130/york_county_ne_2015_adopted_zoning_regulations__6_.pdf,31185,NE,high_voltage_transmission;wind,linked government codebook referral,0,True,True
+706,https://buffalocounty.ne.gov/files/Zoning/2025/Buffalo%20County%20Zoning%20Regulations%20-%20Updated%203.12.2025%20-%20%20Draft%20of%20Additions%20Revisions.pdf,31019,NE,wind,matched jurisdiction website host,0,False,True
+707,https://cedarcountyne.gov/wp-content/uploads/sites/59/2026/04/Zoning-Regulations.pdf,31027,NE,high_voltage_transmission,linked government codebook referral,0,True,True
+708,https://claycounty.ne.gov/pdfs/zoning/zoning_regulations.pdf,31035,NE,wind,matched jurisdiction website host,0,False,True
+709,https://greeleycounty.ne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31077,NE,wind,matched jurisdiction website host,0,False,True
+710,https://greeleycounty.ne.gov/wp-content/uploads/sites/34/2025/06/zoning_regulations.pdf,31077,NE,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+711,https://hayescounty.ne.gov/pdfs/planning_zoning/2011_zoning_regulations.pdf,31085,NE,wind,matched jurisdiction website host,0,False,True
+712,https://howardcounty.ne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31093,NE,wind,matched jurisdiction website host,0,False,True
+713,https://merrickcounty.ne.gov/pdfs/planning_zoning/zoning_regs/Silver%20Creek%20Zoning_Final.pdf,31121,NE,wind,matched jurisdiction website host,0,False,True
+714,https://merrickcounty.ne.gov/wp-content/uploads/sites/65/2026/04/Merrick-County-Zoning_Final.pdf,31121,NE,high_voltage_transmission,matched jurisdiction website host,0,False,True
+715,https://saunderscounty.ne.gov/wp-content/uploads/sites/12/2024/10/Zoning-Regulations.pdf,31155,NE,high_voltage_transmission,matched jurisdiction website host,0,False,True
+716,https://www.beatrice.ne.gov/media/xybl55e2/26-6-recodifying-all-the-ordinances-of-the-city-of-beatrice-nebraska-adopting-and-enacting-a-new-code-for-the-city.pdf,3103390,NE,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+717,https://www.cityofhumphrey.com/vimages/shared/vnews/stories/5cbdbfcf3869e/Humphrey%20Zoning_070318.pdf,3123480,NE,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+718,https://www.citywaverly.com/vimages/shared/vnews/stories/620ea640e9a25/Wavelry%20Municipal%20Code.pdf,3151770,NE,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+719,https://phelpscounty.ne.gov/pdfs/zoning/Phelps%20County%20Final%20Draft%20Zoning%20112622.pdf,31137,NE,geothermal_heat_pumps;high_voltage_transmission;solar;wind,government host: issuing scope unverified,0,False,False
+720,https://thayercountyne.gov/wp-content/uploads/2025/06/Thayer-County-Zoning-Regulation-signed-2025-Redacted-Version-1.pdf,31169,NE,geothermal_heat_pumps;high_voltage_transmission;solar;wind,government host: issuing scope unverified,0,False,False
+721,https://antelopecounty.nebraska.gov/sites/default/files/doc/Antelope%20County%20Zoning%20Regs_adopted%20041018.pdf,31003,NE,geothermal_heat_pumps;high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+722,https://cumingcountyne.gov/wp-content/uploads/2021/06/2-Zoning-Regulations-Resolution-20200201-February-26-2020.pdf,31039,NE,geothermal_heat_pumps;high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+723,https://browncountyne.gov/wp-content/uploads/2024/09/Zoning-Regulations.pdf,31017,NE,solar;wind,government host: issuing scope unverified,0,False,False
+724,https://hamiltoncountyne.gov/wp-content/uploads/2021/07/hamilton-county-zoning-current.pdf,31081,NE,geothermal_heat_pumps;solar,government host: issuing scope unverified,0,False,False
+725,https://holtcounty.nebraska.gov/sites/default/files/doc/Holt%20Co%20Zoning%20Update%20Final.pdf,31089,NE,geothermal_heat_pumps;solar,government host: issuing scope unverified,0,False,False
+726,https://loupcounty.nebraska.gov/sites/default/files/doc/TAYLOR%20LOUP%20COUNTY%20ZONING%20_%20SUBDIVISION%20REGULATIONS.pdf,31115,NE,solar;wind,government host: issuing scope unverified,0,False,False
+727,https://perkinscounty.ne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31135,NE,solar;wind,government host: issuing scope unverified,0,False,False
+728,https://scottsbluffcountyne.gov/wp-content/uploads/sites/4/2024/04/zoning-regulations.pdf,31157,NE,high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+729,https://sewardcountyne.gov/wp-content/uploads/sites/50/2025/09/Zoning-Regulations.pdf,31159,NE,geothermal_heat_pumps;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+730,https://thomascountyne.gov/pdfs/planning_zoning/zoning%20regulations.pdf,31171,NE,solar;wind,government host: issuing scope unverified,0,False,False
+731,https://adamscountyne.gov/images/PDFS/PlanningZoning/AdamsCoZoning%20Regs%20-%202010%20final.pdf,31001,NE,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+732,https://adamscountyne.gov/images/PDFS/PlanningZoning/AdamsCoZoningRegs_thruOct2016.pdf,31001,NE,wind,government host: issuing scope unverified,0,False,False
+733,https://burtcountyne.gov/wp-content/uploads/sites/28/2026/04/zoning_regulations_with-Abandonment-04232026.pdf,31021,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+734,https://cherrycountyne.gov/pdfs/planning_zoning/Cherry%20County%20Zoning%207.26.pdf,31031,NE,solar,government host: issuing scope unverified,0,False,False
+735,https://cherrycountyne.gov/wp-content/uploads/sites/51/2025/10/Zoning-Regulations-2025-Draft.pdf,31031,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+736,https://colfaxcountyne.gov/pdfs/planning_zoning/Zoning_Regulations.pdf,31037,NE,wind,government host: issuing scope unverified,0,False,False
+737,https://cumingcountyne.gov/wp-content/uploads/2021/06/Zoning-Regulations-Final.pdf,31039,NE,wind,government host: issuing scope unverified,0,False,False
+738,https://custercountyne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31041,NE,solar,government host: issuing scope unverified,0,False,False
+739,https://dakotacounty.ne.gov/pdfs/planning_zoning/21C-024%20Planning%20Zoning%20Amended%20Regulations%2026Jul21.pdf,31043,NE,wind,government host: issuing scope unverified,0,False,False
+740,https://deuelcountyne.gov/pdfs/planning_zoning/Zoning%20Regulations.pdf,31049,NE,wind,government host: issuing scope unverified,0,False,False
+741,https://fillmorecountyne.gov/wp-content/uploads/sites/9/2024/10/Shickley_Zoning-2013-final.pdf,31059,NE,wind,government host: issuing scope unverified,0,False,False
+742,https://frontiercounty.ne.gov/pdfs/planning_zoning/regulations.pdf,31063,NE,wind,government host: issuing scope unverified,0,False,False
+743,https://furnascounty.ne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31065,NE,wind,government host: issuing scope unverified,0,False,False
+744,https://furnascounty.ne.gov/wp-content/uploads/sites/47/2025/06/zoning_regulations.pdf,31065,NE,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+745,https://gardencounty.ne.gov/wp-content/uploads/sites/32/2025/11/Garden-County-Zoning-Regulations-1.pdf,31069,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+746,https://hamiltoncountyne.gov/wp-content/uploads/2021/04/phillips-zoning-regs.pdf,31081,NE,wind,government host: issuing scope unverified,0,False,False
+747,https://jeffersoncounty.nebraska.gov/sites/default/files/doc/Agenda_Proposed%20Zoning%20Hearing%20Changes%203%209%202023.pdf,31095,NE,wind,government host: issuing scope unverified,0,False,False
+748,https://jeffersoncounty.nebraska.gov/sites/default/files/doc/JEFFERSON%20CO%20NEBRASKA%20ZONING%20REGULATIONS%20AMENDED_APPROVED%203_23_2023%20USE.pdf,31095,NE,solar,government host: issuing scope unverified,0,False,False
+749,https://jeffersoncounty.nebraska.gov/sites/default/files/doc/Redacted%20Jefferson%20Co%20NE%20Zoning%20Regs%202026.pdf,31095,NE,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+750,https://johnsoncounty.ne.gov/uploads/1/0/4/6/1046396/zoning_manual_with_2016_amendments___table_of_contents.pdf,31097,NE,wind,government host: issuing scope unverified,0,False,False
+751,https://knoxcountyne.gov/pdfs/planning_zoning/Resolution%202025-04.pdf,31107,NE,wind,government host: issuing scope unverified,0,False,False
+752,https://knoxcountyne.gov/wp-content/uploads/sites/37/2026/01/zoning_regulations_2025-1-7-26-amendments-copy.pdf,31107,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+753,https://lincolncountyne.gov/wp-content/uploads/2020/08/Resolution-No.-2020-08-Amendment-to-Sections-8.07-and-8.08-of-the-Zoning-Regulations.pdf,31111,NE,wind,government host: issuing scope unverified,0,False,False
+754,https://nancecountyne.gov/wp-content/uploads/sites/40/2025/06/Nance-County-Nebraska-Zoning-Regulations.pdf,31125,NE,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+755,https://pawneecountyne.gov/pdfs/planning_zoning/Zoning%20Book.pdf,31133,NE,wind,government host: issuing scope unverified,0,False,False
+756,https://perkinscounty.ne.gov/wp-content/uploads/sites/74/2026/03/zoning_regulations.pdf,31135,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+757,https://polkcounty.nebraska.gov/sites/default/files/doc/zoning%20rules.pdf,31143,NE,wind,government host: issuing scope unverified,0,False,False
+758,https://redwillowcountyne.gov/pdfs/planning_zoning/zoning_regulations.pdf,31145,NE,wind,government host: issuing scope unverified,0,False,False
+759,https://stantoncounty.nebraska.gov/sites/default/files/doc/2017%20Zoning%20Regulations%20approved%20nov%202017%20-%20amended%202023.pdf,31167,NE,wind,government host: issuing scope unverified,0,False,False
+760,https://stantoncounty.nebraska.gov/sites/default/files/doc/Zoning%20Regulations%20-%20amended%202026%20April.pdf,31167,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+761,https://stantoncounty.nebraska.gov/sites/default/files/doc/Zoning%20Regulations%20-%20amended%20June%202025.pdf,31167,NE,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+762,https://valleycountyne.gov/pdfs/planning_zoning/Valley%20County%20NE%20Zoning%20Regulations%202015.pdf,31175,NE,wind,government host: issuing scope unverified,0,False,False
+763,https://www.casscountyne.gov/utility/openPDF/cacone/ZoningRegulations112025Amended063026.pdf?alt=media,31025,NE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+764,https://cityofunionky.org/wp-content/uploads/2024/04/ORDINANCE-2024-04-compressed.pdf,2178384,KY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+765,https://oakgroveky.org/tcg/wp-content/uploads/2021/11/2021-11-Zoning-Ordinance-Repealing-1991-04.pdf,2157090,KY,high_voltage_transmission,linked government codebook referral,0,True,True
+766,https://russellsprings.net/wp-content/uploads/2017/07/Zoning-Regulation-Part-1.pdf,2167494,KY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+767,http://www.hendersoncountyky.gov/DocumentCenter/View/1226/Henderson-County-Zoning_FINAL-11-12-2020,21101,KY,solar,government host: issuing scope unverified,0,False,False
+768,https://mercercounty.ky.gov/boards-and-commissions/planning-and-zoning/Documents/MCZO2024.pdf,21167,KY,solar,government host: issuing scope unverified,0,False,False
+769,https://ordinance.scottky.gov/wp-content/uploads/2022/09/22-02-full-ordinance.pdf,21209,KY,solar,government host: issuing scope unverified,0,False,False
+770,https://stanford.ky.gov/City%20Departments/PublishingImages/Pages/Planning-and-Zoning-Board/05152025_ZONING%20ORDINANCE%20FOR%20THE%20CITY%20OF%20STANFORD.pdf,2173110,KY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+771,https://www.meadeky.gov/DocumentCenter/View/384/Meade-County-Fiscal-Court---Ordinance-No-2025-07---Meade-County-Planning-and-Zoning-Ordinance-920-00,21163,KY,solar,government host: issuing scope unverified,0,False,False
+772,https://www.meadeky.gov/DocumentCenter/View/445/Meade-County-Zoning-Ordinance----Prepared-And-Adopted-By-The-Meade-County-Land-Use-Zoning-Commission---920,21163,KY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+773,https://www.woodfordcountyky.gov/DocumentCenter/View/312/Ord-2026-02-ARTICLE-VII-ZONING-DISTRICTS-PDF,21239,KY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+774,https://townofevansville.org/vertical/sites/%7B9E8A7884-EEB9-47AC-A5E4-B494E375E73B%7D/uploads/Evansville_Zoning_Ordinance__3-27-23_Final.pdf,5625765,WY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+775,https://www.plattecountywyoming.com/media/Commissioners/Resolutions/2022/2022-03%20Updating%20Planning%20_%20Zoning%20Rules%20and%20Regs.pdf,56031,WY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+776,https://www.sinclairwyoming.com/_pdfs/2025/Ordinance%202025-03%20Rocky%20Mountain%20Power%20easement%20signed.pdf,5671150,WY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+777,"https://www.townofupton.com/_pdfs/2025/Ordinance%20No.%202,%20Series%202024-Upton%20BHE%20Electric%20Franchise.pdf",5679125,WY,high_voltage_transmission,matched jurisdiction website host,0,False,True
+778,https://parkcounty-wy.gov/wp-content/uploads/Documents/Planning%20and%20Zoning/Documents/Regs_Policies/2015%20Development%20Standards%20and%20Regulations%20(web1).pdf,56029,WY,high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+779,https://www.albanycountywy.gov/DocumentCenter/View/1004/Zoning-Resolution-,56001,WY,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+780,https://www.uintacountywy.gov/DocumentCenter/View/608/Uinta-County-Land-Use-Resolution-2023,56041,WY,high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+781,https://my.casperwy.gov/Zoning/CountyZoningClassInfo.pdf,56025,WY,solar,government host: issuing scope unverified,0,False,False
+782,https://parkcounty-wy.gov/wp-content/uploads/Documents/Planning%20and%20Zoning/Documents/Regs_Policies/2025%20Park%20County%20DSR%20-%20ADOPTED.pdf,56029,WY,solar,government host: issuing scope unverified,0,False,False
+783,https://www.millswy.gov/sites/default/files/fileattachments/ordinance/12401/ord_137.pdf,5653460,WY,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+784,https://bowmannd.com/wp-content/uploads/2024/12/2024-ZONING-ORDINACE.pdf,38011,ND,solar;wind,matched jurisdiction website host,0,False,True
+785,https://www.billingscountynd.gov/DocumentCenter/View/480/Billings-County-Zoning-Ordinance-August-2010-with-Amendments-FINAL-as-of-2_6_2024-PDF,38007,ND,high_voltage_transmission;wind,matched jurisdiction website host,0,False,True
+786,https://cityofbelfield.com/wp-content/uploads/2026/03/2019-Zoning-Ordinance-Final.pdf,3805820,ND,high_voltage_transmission,matched jurisdiction website host,0,False,True
+787,https://www.ashley-nd.com/wp-content/uploads/2018/08/AshleyMunicipalCode.pdf,3803540,ND,high_voltage_transmission,matched jurisdiction website host,0,False,True
+788,https://www.burkecountynd.com/s/Amended-Burke-County-Zoning-Ordinance-2025.pdf,38013,ND,high_voltage_transmission,matched jurisdiction website host,0,False,True
+789,https://www.burkecountynd.com/s/Zoning-Ordinance-2025.pdf,38013,ND,wind,matched jurisdiction website host,0,False,True
+790,https://www.mchenrycountynd.gov/wp-content/uploads/2016/09/Zoning-final-1-5-16.pdf,38049,ND,high_voltage_transmission,matched jurisdiction website host,0,False,True
+791,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Logan/Logan20090407.pdf,38047,ND,high_voltage_transmission;wind,government host: issuing scope unverified,0,False,False
+792,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Cass/Pleasant137048Zoning20070919.pdf,3801763100,ND,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+793,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Cass/Rich142054Zoning20180329.pdf,38017,ND,wind,government host: issuing scope unverified,0,False,False
+794,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Cass/Tower140055Zoning20070823.pdf,3801779300,ND,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+795,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Dickey/Elden130063Zoning20081205.pdf,38021,ND,wind,government host: issuing scope unverified,0,False,False
+796,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Divide/DivideZoning20190402.pdf,38023,ND,solar,government host: issuing scope unverified,0,False,False
+797,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Grand%20Forks/GrandForks20070725.pdf,38035,ND,wind,government host: issuing scope unverified,0,False,False
+798,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Griggs/Greenfield144059Zoning20150408.pdf,38039,ND,wind,government host: issuing scope unverified,0,False,False
+799,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Hettinger/Hettinger20070726.pdf,38041,ND,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+800,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/LaMoure/Sheridan136061Zoning20100921.pdf,38045,ND,wind,government host: issuing scope unverified,0,False,False
+801,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Oliver/Oliver20160407.pdf,38065,ND,wind,government host: issuing scope unverified,0,False,False
+802,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Ramsey/Prospect158061Zoning20070725.pdf,3807164740,ND,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+803,https://deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Sargent/Herman131053Zoning20070731.pdf,38081,ND,wind,government host: issuing scope unverified,0,False,False
+804,https://dunncountynd.gov/vertical/sites/%7B565AA8FB-A7E9-4453-8706-895E3925615D%7D/uploads/2022_Dunn_County_Land_Development_Code(1).pdf,38025,ND,wind,government host: issuing scope unverified,0,False,False
+805,https://www.burleigh.gov/media/03ant1iw/zoning-ordinance-2024.pdf,38015,ND,wind,government host: issuing scope unverified,0,False,False
+806,https://www.burleigh.gov/media/boqbzbyb/tmb-zoning-ordinance-10-29-25_adopted.pdf,38015,ND,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+807,https://www.deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Pierce/Pierce20070727.pdf,38069,ND,wind,government host: issuing scope unverified,0,False,False
+808,https://www.deq.nd.gov/WQ/2_NDPDES_Permits/1_AFO_CAFO/CountyZoning/Towner/Towner20070726.pdf,38095,ND,wind,government host: issuing scope unverified,0,False,False
+809,https://www.mcleancountynd.gov/image/cache/Planning_Zoning_Minutes_04-18-2022.pdf,38055,ND,solar,government host: issuing scope unverified,0,False,False
+810,https://www.mcleancountynd.gov/image/cache/Zoning_Ordinance_-_Revised_5-24-2022.pdf,38055,ND,wind,government host: issuing scope unverified,0,False,False
+811,https://www.mortonnd.gov/vertical/Sites/%7B90CBB59C-38EA-4D41-861A-81C9DEBD6022%7D/uploads/Morton_Co_Land_Use_Code_3_13_2025.pdf,38059,ND,wind,government host: issuing scope unverified,0,False,False
+812,https://www.starkcountynd.gov/vertical/sites/%7B32FA3A56-B3F6-4B8B-A428-F9C97B78EC24%7D/uploads/Stark_County_Zoning_Code_Compilation_Document_2022_final_3.2.2023.pdf,38089,ND,wind,government host: issuing scope unverified,0,False,False
+813,https://www.stutsmancounty.gov/files/zoning-ordinance.pdf,38093,ND,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+814,https://www.stutsmancounty.gov/files/zoning_info.pdf,38093,ND,wind,government host: issuing scope unverified,0,False,False
+815,https://rushcountykansas.org/documents/planning_zoning/Rush%20County%20Ks%20Zoning%20Regulations%20072011%20Revised%20v3.pdf,20165,KS,high_voltage_transmission;wind,linked government codebook referral,0,False,True
+816,https://www.pawneecountykansas.com/DocumentCenter/View/151/Zoning-Regulations-PDF,20145,KS,high_voltage_transmission;wind,matched jurisdiction website host,0,False,True
+817,https://parkcityks.gov/DocumentCenter/View/3992/Park-City-Zoning-Regulations-12-16-2025,2054450,KS,high_voltage_transmission,matched jurisdiction website host,0,False,True
+818,https://syracuseks.gov/documents/139/City_of_Syracuse_Zoning_Regulations617.pdf,2069850,KS,high_voltage_transmission,matched jurisdiction website host,0,False,True
+819,https://www.crawfordcountykansas.org/uploads/6/2/7/8/62784259/2017_zoning_regulations.pdf,20037,KS,wind,matched jurisdiction website host,0,False,True
+820,https://www.crawfordcountykansas.org/uploads/6/2/7/8/62784259/zoning_regulations_of_crawford_county_pz_edited.pdf,20037,KS,high_voltage_transmission,linked government codebook referral,0,True,True
+821,https://www.miamicountyks.org/DocumentCenter/View/284/Zoning-Regulations?bidId=,20121,KS,wind,matched jurisdiction website host,0,False,True
+822,https://www.staffordcounty.org/uploads/1/3/3/6/133660997/updated_zoning_regulations_2026.pdf,20185,KS,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+823,https://www.dgcoks.gov/sites/default/files/media/depts/administration/pdf/county-code-chapter-12-zoning-and-land-use-regulations.pdf,20045,KS,wind,government host: issuing scope unverified,0,False,False
+824,https://www.leavenworthcounty.gov/Department/Planning%20&%20Zoning/Document%20Center/Regulations/2022.12.07%20Updated%20LVCO%20Zoning%20and%20Subdivison%20Regulations.pdf,20103,KS,solar,government host: issuing scope unverified,0,False,False
+825,https://www.leavenworthcounty.gov/Department/Planning%20&%20Zoning/Document%20Center/Regulations/2024.11.18%20Updated%20LVCO%20Zoning%20and%20Subdivison%20Regulations%20-%20Print%20Edition.pdf,20103,KS,wind,government host: issuing scope unverified,0,False,False
+826,https://hollyhill.sc.gov/sites/hollyhill/files/Documents/2024%20Town%20of%20Holly%20Hill%20Zoning%20Ordinance.pdf,4534360,SC,high_voltage_transmission,linked government codebook referral,0,True,True
+827,https://townofiva.org/documents/181/Zoning_Ordinance.pdf,4536160,SC,high_voltage_transmission,linked government codebook referral,0,True,True
+828,https://travelersrestsc.com/wp-content/uploads/2020/01/Zoning-ordinance-Jan-2020.pdf,4572430,SC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+829,https://www.cityofspartanburg.org/DocumentCenter/View/3063/City-Zoning-Ordinance,4568290,SC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+830,https://www.cityofwellford.com/uploads/2/9/3/5/29352507/zoning_ordinance_2024.pdf,4575580,SC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+831,https://www.jackson-sc.gov/pdfs/Zoning-Ordinance-2023.pdf,4536205,SC,high_voltage_transmission,matched jurisdiction website host,0,False,True
+832,https://www.newberrycounty.gov/sites/default/files/uploads/documents/ordinance_no._11-25-2022.pdf,45071,SC,solar,matched jurisdiction website host,0,False,True
+833,https://westcolumbiasc.gov/wp-content/uploads/2026/07/Zoning-Ordinance-2004-Official-May-2025-web-copy_July-2026.pdf,4575850,SC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+834,https://www.charlestoncounty.gov/departments/zoning-planning/files/approved-pds/PD-144.pdf?r=805,45019,SC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+835,https://www.horrycountysc.gov/media/i0pfcm2o/appendix-b-zoning-ordinance-upated-912026.pdf,45051,SC,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+836,https://www.lex-co.sc.gov/sites/lexco/files/Documents/Lexington%20County/Departments/Zoning/Zoning%20Ordinance/Zoning%20Ordinance%206.24.25.pdf,45063,SC,solar,government host: issuing scope unverified,0,False,False
+837,https://baldwincountyal.gov/docs/default-source/plannin-zoning/ordinances-and-regulations/zoning-ordinance-(updated-5-20-2025).pdf?sfvrsn=c1b4d700_3,01003,AL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+838,https://cityofalabaster.com/DocumentCenter/View/515/Zoning-Ordinance---Complete-PDF,0100820,AL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+839,https://cityofargo.org/wp-content/uploads/2026/05/Zoning-Ordinance-with-Amendments-May-2026.pdf,0102320,AL,high_voltage_transmission,linked government codebook referral,0,True,True
+840,https://cityofvalley.com/wp-content/uploads/2025/10/City-Zoning-Ordinance-2024.pdf,0178204,AL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+841,https://trussville.org/wp-content/uploads/2020/12/Zoning-Ord-Complete-2020.pdf,0176944,AL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+842,https://www.arabcity.org/wp-content/uploads/2019/07/Ordinance-NO-2016-3-Zoning-Ordinance.pdf,0102116,AL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+843,https://www.cityofcreola.org/wp-content/uploads/forms/Zoning-Ordinance-2023-004-Amendments-March-2026.pdf,0118304,AL,high_voltage_transmission,matched jurisdiction website host,0,False,True
+844,https://www.cityofopp.com/wp-content/uploads/2026/04/2021-Zoning-and-Development-Code.pdf,0157120,AL,high_voltage_transmission,linked government codebook referral,0,True,True
+845,https://www.harpersvilleal.gov/DocumentCenter/View/316/harpersville_zoning_ordinance_12-04-2023_0,0133256,AL,high_voltage_transmission,linked government codebook referral,0,True,True
+846,https://www.highlandlakeal.gov/uploads/1/0/0/5/100513590/zoning_ordinance-final_10-3-2016.pdf,0134480,AL,high_voltage_transmission,linked government codebook referral,0,True,True
+847,https://www.coventry-ct.gov/DocumentCenter/View/9347/FINAL-3-28-25-ZONING-REGULATIONS,0911017800,CT,geothermal_heat_pumps;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+848,https://www.granby-ct.gov/DocumentCenter/View/612/Zoning-Regulations-updated-92025-PDF,0911032640,CT,geothermal_heat_pumps;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+849,https://bethanyct.gov/filestorage/216/228/288/3270/TOWN-OF-BETHANY-ZONING-REGULATIONS-EFFECTIVE-_October_10%2C_2022.pdf,0917004580,CT,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+850,https://building.demopolisal.gov/wp-content/uploads/2025/04/ZONING-ORD-THE-MASTER-FILE-Aug-1-2023.pdf,0120296,AL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+851,https://portal.ct.gov/-/media/csc/1_dockets-medialibrary/1_media_do500_600/do510/applicantsubmissions/application/bulk/town-of-westport-zoning-regulations.pdf,0919083500,CT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+852,https://portal.ct.gov/-/media/csc/1_dockets-medialibrary/1_media_do500_600/do525/applicantsubmissions/application/bulk/24_-_complete_zoning_regulations_-_7-3-2023_northstonington.pdf,0918055500,CT,wind,government host: issuing scope unverified,0,False,False
+853,https://portal.ct.gov/-/media/csc/1_dockets-medialibrary/1_media_do500_600/do546/applicantsubmissions/applicationrecd10_28_2025/27---zoning-regs-w-amendments.pdf?rev=363051cfd2ed4aebb9451967e9de926f&hash=354A5AE900CCBCBA3D47B94C84F1FC56,0917054870,CT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+854,https://portal.ct.gov/-/media/csc/1_dockets-medialibrary/media_do400-499/do494/applicantsubmissions/application20200902/bulk/zoning-regs---wolcott_001.pdf?rev=8db6dde4220e4d51b8a645f8959e120f&hash=F39D204DA663D9D89EF8FFC605DD12D7,0914087560,CT,wind,government host: issuing scope unverified,0,False,False
+855,https://www.cromwellct.gov/DocumentCenter/View/639/Town-of-Cromwell-Zoning-Regulations-Effective-June-2-2025,0913018080,CT,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+856,https://www.lebanonct.gov/sites/g/files/vyhlif4596/f/uploads/zoning_regulations_thru_4-10-22.pdf,0918042390,CT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+857,https://www.oldlyme-ct.gov/DocumentCenter/View/917/Complete-OL-Zoning-Regs---effective-April-1-2024--final,0913057040,CT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+858,https://www.prestonct.gov/DocumentCenter/View/5002/APPROVED-ZONING-REGULATIONS-Update-June-5-2026,0918062150,CT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+859,https://www.somersct.gov/Documents/Boards%20Commissions/Zoning%20Commission/ZONING%20REGULATIONS%20rev%201.27.2025.pdf?t=202603051546000,0911069220,CT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+860,https://www.westoveral.gov/uploads/1/3/7/7/13775401/2023_zoning_ordinance_dated_4_29_2025.pdf,0181504,AL,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+861,https://www.wiltonct.gov/sites/g/files/vyhlif10026/f/uploads/zoning_regs_revised_jun_25_2019_updated_app_b_0.pdf,0919086370,CT,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+862,https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/4695.pdf?sfvrsn=e2345e46_3,22015,LA,high_voltage_transmission,matched jurisdiction website host,0,False,True
+863,https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/ordinance-no-4968.pdf?sfvrsn=4fb14ae9_3,22015,LA,solar,matched jurisdiction website host,0,False,True
+864,https://www.riocommunities.net/sites/default/files/fileattachments/ordinance/9195/ordinance_2023-88_ch_4_zoning_code.pdf,3563145,NM,geothermal_electricity,linked government codebook referral,0,True,True
+865,https://www.roswell-nm.gov/DocumentCenter/View/11146/COMPLETE-ZONING-ORDINANCE-after-adding-Ordinance-20-08-Home-Occupation-8172020,3564930,NM,high_voltage_transmission,matched jurisdiction website host,0,False,True
+866,https://www.santafecountynm.gov/userfiles/LandDevelopmentCode.pdf,35049,NM,geothermal_electricity,government host: issuing scope unverified,0,False,False
+867,https://greenbriercounty.net/wp-content/uploads/2022.04.11.Greenbrier.County.Zoning.Ordinance.pdf,54025,WV,wind,matched jurisdiction website host,0,False,True
+868,https://www.berkeleywv.org/DocumentCenter/View/342/Subdivision--Land-Development-Ordinance-Amended-30-January-2025-PDF,54003,WV,high_voltage_transmission,matched jurisdiction website host,0,False,True
+869,https://www.exeternh.gov/sites/default/files/fileattachments/planning_board/page/14051/2025_final_zoning_ordinance_w-cover_appendix.pdf,3301525380,NH,wind,government host: issuing scope unverified,1,False,False
+870,https://www.exeternh.gov/sites/default/files/fileattachments/zoning_board_of_adjustment/page/13161/final_2018_zo_as_amended_3-13-18.pdf,3301525380,NH,high_voltage_transmission,government host: issuing scope unverified,1,False,False
+871,http://www.sugarhillnh.org/wp-content/uploads/2008/12/Ordinance-Detailed-2020.pdf,3300974740,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+872,https://bownh.gov/DocumentCenter/View/87/Zoning-Ordinance---Articles-1---14-with-2026-amendments-included-PDF,3301306500,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+873,https://loudonnh.org/DocumentCenter/View/2473/zoning_ordinance_2025_0,3301343380,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+874,https://randolph.nh.gov/wp-content/uploads/2023/05/LANDUSE-ORD-2023.pdf,3300763860,NH,wind,matched jurisdiction website host,0,False,True
+875,https://strafford.nh.gov/wp-content/uploads/2026/04/20260310ZoningOrdinances.pdf,3301773860,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+876,https://townofbennington.com/images/planningzoning/SubdivisionRegulations.pdf,3301104900,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+877,https://www.candianh.org/DocumentCenter/View/1972/Zoning-Regulations---Zoning-Ordinance-and-Map-PDF,3301509300,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+878,https://www.cornishnh.net/wp-content/uploads/2025/06/2025_ZONING-ORDINANCE.pdf,3301915060,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+879,https://www.hampsteadnh.us/DocumentCenter/View/355/Zoning-Ordinance-PDF,3301532900,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+880,https://www.hamptonfalls.org/DocumentCenter/View/214/Zoning-Ordinance-March-2025-PDF,3301533460,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+881,https://www.lisbon.nh.gov/DocumentCenter/View/848/Zoning-Ordinance-Regulations-2023-PDF,3300942020,NH,high_voltage_transmission,linked government codebook referral,0,True,True
+882,https://www.londonderrynh.gov/DocumentCenter/View/666/Zoning-Ordinance-PDF,3301543220,NH,high_voltage_transmission,linked government codebook referral,0,True,True
+883,https://www.miltonnh-us.com/sites/g/files/vyhlif916/f/pages/2026_milton_zoning_ordinance_final_approved_03-11-2026-rev_1.pdf,3301748660,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+884,https://www.newfieldsnh.gov/DocumentCenter/View/445/Zoning-Ordinances-2025,3301551380,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+885,https://www.watervillevalley.org/sites/g/files/vyhlif1401/f/uploads/wv_zoning_ordinance_03102020.pdf,3300979380,NH,high_voltage_transmission,matched jurisdiction website host,0,False,True
+886,https://bethlehemnh.gov/wp-content/uploads/2026/04/2026-Zoning-Ordinance.pdf,3300905460,NH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+887,https://bradfordnh.gov/uploads/2025-bradford-zoning-ordinance.pdf,3301306980,NH,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+888,https://goffstownnh.gov/DocumentCenter/View/5750/2026-Zoning-Ordinance-PDF,3301129860,NH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+889,https://grotonnh.gov/planningboard/2023-02-07%20Final%20with%20mark-ups%20Zoning%20Ordinance%20with%20Proposed%20Amendments.pdf,3300932180,NH,wind,government host: issuing scope unverified,0,False,False
+890,https://www.bristolnh.gov/DocumentCenter/View/3169/Bristol-Zoning-Ordinance-March-2026,3300907700,NH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+891,https://www.eppingnh.gov/DocumentCenter/View/429/Zoning-Ordinance-PDF,3301524660,NH,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+892,https://www.lisbon.nh.gov/DocumentCenter/View/344/Zoning-Ordinances-Regulations-2023-PDF,3300942020,NH,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+893,https://www.templenh.gov/sites/g/files/vyhlif5071/f/pages/zoning-ordinance-2024-09-04-reformatted.pdf,3301176260,NH,wind,government host: issuing scope unverified,0,False,False
+894,https://bannockcounty.us/wp-content/uploads/2021/07/current_bannock_county_zoning_ordinance_1998-1_amd_35.pdf,16005,ID,wind,matched jurisdiction website host,0,False,True
+895,https://cityofhazenar.gov/documents/152/Hazen_Municipal_Code_2026.pdf,0530940,AR,high_voltage_transmission,linked government codebook referral,0,True,True
+896,https://goodingcounty.org/DocumentCenter/View/2187/Proposed-Draft-Gooding-County-Energy-Project-Ordinance-111424,16047,ID,solar,matched jurisdiction website host,0,False,True
+897,https://islandparkid.govoffice2.com/vertical/sites/%7B64CAC5EE-008E-4847-97A6-BB3F3BDE8645%7D/uploads/2025_Development_code.pdf,1640600,ID,high_voltage_transmission,matched jurisdiction website host,0,False,True
+898,https://owyheecounty.net/wp-content/uploads/2022/05/Title-9-Zoning-Ordinance.pdf,16073,ID,solar,matched jurisdiction website host,0,False,True
+899,https://www.bearlakecounty.info/uploads/2/8/6/7/28674675/alternate_energy_ordinance_draft.pdf,16007,ID,solar,matched jurisdiction website host,0,False,True
+900,https://www.bearlakecounty.info/uploads/2/8/6/7/28674675/county_subdivision_ordinance_2019.pdf,16007,ID,high_voltage_transmission,matched jurisdiction website host,0,False,True
+901,https://adacounty.id.gov/developmentservices/wp-content/uploads/sites/37/12_2_2024-ORDINANCE-ENACTING-NEW-TITLE-8-ADA-COUNTY-ZONING-CODE-PDF-PZ_JAN2025.pdf?fbclid=IwY2xjawHmyGZleHRuA2FlbQIxMAABHRGrVqW7ga-DHThkxfZ7TUyBaYuLKKA6ji-7BDyCpz2hKdoNAthmbxOP2A_aem_rlu4DLKA1F0UpSNW78DgvQ,16001,ID,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+902,https://adacounty.id.gov/developmentservices/wp-content/uploads/sites/37/1_3_2025-ORDINANCE-ENACTING-NEW-TITLE-8-ADA-COUNTY-ZONING-CODE-PDF-202000092-INTERNAL-CLIEN.pdf,16001,ID,solar,government host: issuing scope unverified,0,False,False
+903,https://camascounty.id.gov/wp-content/uploads/2024/06/ADOPTED-ZONING-ORDINANCE-Revised-2023-1.pdf,16025,ID,wind,government host: issuing scope unverified,0,False,False
+904,https://www.cassia.gov/media/Building%20&%20Zoning/Amendments/2019/Title9_Chapter9.pdf,16031,ID,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+905,https://www.livingstonmontana.org/sites/default/files/fileattachments/building_amp_planning/page/2245/ch30_zoning_adopted_final_to_municode.pdf,3043975,MT,high_voltage_transmission,linked government codebook referral,0,True,True
+906,https://carbonmt.gov/wp-content/uploads/2023/10/Carbon-County-Development-Regulations-PLANNING-BOARD-SEPT-REC.pdf,30009,MT,solar,government host: issuing scope unverified,0,False,False
+907,https://carbonmt.gov/wp-content/uploads/2024/06/Carbon-County-Development-Regulations-Adopted-May-2021.pdf,30009,MT,wind,government host: issuing scope unverified,0,False,False
+908,https://madisoncountymt.gov/DocumentCenter/View/16247/Ordinance-3-2025-Road-and-Bridge-Standards,30057,MT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+909,https://www.gallatinmt.gov/DocumentCenter/View/1172/Zoning-Regulation,30031,MT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+910,https://www.lccountymt.gov/files/assets/county/community-dev-and-planning/documents/fhuga_zoning_regulations__final__2-14-19__.pdf,30049,MT,wind,government host: issuing scope unverified,0,False,False
+911,https://robertscosd.gov/files/2022/10/Roberts-County-Zoning-Ordinance-042021.pdf,46109,SD,high_voltage_transmission;solar;wind,linked government codebook referral,0,True,True
+912,https://minercountysd.org/media/miner-county/documents/Miner%20County%20Zoning%20Manual.pdf,46097,SD,solar;wind,matched jurisdiction website host,0,False,True
+913,http://www.claycountysd.org/userfiles/files/Ordinances/Final%20Revised%202013%20Clay%20County%20Zoning%20Ordinance_Codified%20Through%202017-1.pdf,46027,SD,wind,matched jurisdiction website host,0,False,True
+914,https://charlesmixcounty.gov/files/2018/09/Charles-Mix-Temp-Zoning-8-8-18.pdf,46023,SD,wind,matched jurisdiction website host,0,False,True
+915,https://edmunds.sdcounties.org/files/2024/05/Edmunds-County-Zoning-Ordinance-5-24.pdf,46045,SD,wind,matched jurisdiction website host,0,False,True
+916,https://edmunds.sdcounties.org/files/2024/11/Edmunds-County-Zoning-Ordinance-5-07-24.pdf,46045,SD,high_voltage_transmission,matched jurisdiction website host,0,False,True
+917,https://handcountysd.gov/wp-content/uploads/2026/04/Hand-draft-Zoning-Ordinance-Final-Draft-030426.pdf,46059,SD,high_voltage_transmission,matched jurisdiction website host,0,False,True
+918,https://spinkcounty-sd.org/zoningordinances/TITLE_17_ZONING-updated%208-23-23.pdf,46115,SD,high_voltage_transmission,matched jurisdiction website host,0,False,True
+919,https://turner.sdcounties.org/uploads/1/4/4/2/144282440/2008_revised_ordinances.pdf,46125,SD,wind,matched jurisdiction website host,0,False,True
+920,https://unioncountysd.org/wp-content/uploads/Ordinances/UCC%202008-002%20-%202008%20Revised%20Zoning%20Regulations%20for%20Union%20County.pdf,46127,SD,wind,matched jurisdiction website host,0,False,True
+921,https://www.brown.sd.us/sites/default/files/2026-08/title_4_zoning.pdf,46013,SD,high_voltage_transmission,matched jurisdiction website host,0,False,True
+922,https://www.codington.org/wp-content/uploads/2018/10/Codington-County-Zoning-Ordinance-65-Adopted-03-28-17.pdf,46029,SD,wind,matched jurisdiction website host,0,False,True
+923,https://www.davisoncounty.org/wp-content/uploads/2022/05/Zoning-Ordinance-Revised-8-June-2021.pdf,46035,SD,high_voltage_transmission,linked government codebook referral,0,True,True
+924,https://www.lawrence.sd.us/DocumentCenter/View/85/Lawrence-County-Zoning-Ordinance-PDF,46081,SD,wind,matched jurisdiction website host,0,False,True
+925,https://www.spinkcounty-sd.org/zoningordinances/TITLE_17_ZONING-updated%208-23-23.pdf,46115,SD,wind,matched jurisdiction website host,0,False,True
+926,https://grantcounty.sd.gov/photos/downloads/GrantCoZoningOrd2023.pdf,46051,SD,solar;wind,government host: issuing scope unverified,0,False,False
+927,https://codington.sdcounty.gov/wp-content/uploads/2017/01/ORDINANCE-30-ADOPTED-APRIL-2006-FULL-ORDINANCE.pdf,46029,SD,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+928,https://minnweb.minnehahacounty.gov/wp-content/uploads/2025/04/EntireDROrdinance_updated-04-25.pdf,46099,SD,wind,government host: issuing scope unverified,0,False,False
+929,https://sully.sdcounty.gov/media/sullycountynet/documents/forms/Sully%20County%20Zoning%20Ordinance.pdf,46119,SD,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+930,https://unioncountysd.gov/wp-content/uploads/Ordinances/UCC%202008-002%20-%202008%20Revised%20Zoning%20Regulations%20for%20Union%20County.pdf,46127,SD,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+931,https://www.lincolncountysd.gov/DocumentCenter/View/796/2009-Revised-Zoning-Ordinance-PDF,46083,SD,wind,government host: issuing scope unverified,0,False,False
+932,https://www.newcastlede.gov/DocumentCenter/View/63366/UDC-Revision-03102026,10003,DE,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+933,https://minotme.org/vertical/Sites/%7B1666B81B-370A-463B-B8FB-32BAA0E22AAF%7D/uploads/2022_Land_Use_Code(1).pdf,2300146160,ME,geothermal_heat_pumps;high_voltage_transmission,matched jurisdiction website host,0,False,True
+934,https://phippsburg.com/vertical/sites/%7B80D70921-4572-4200-8876-61A701FD14B2%7D/uploads/Shoreland_Zoning_Ordinance_(2025).pdf,2302358515,ME,geothermal_heat_pumps;high_voltage_transmission,matched jurisdiction website host,0,False,True
+935,https://arrowsic.org/wp-content/uploads/2026/08/Town-of-Arrowsic-2019-revision-Zoning-Ordinances-amended-June-11-2026.pdf,2302301570,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+936,https://bowdoinmaine.gov/wp-content/uploads/town-ordinances/Shoreland%20Zoning%20Ordinance.pdf,2302306260,ME,high_voltage_transmission,linked government codebook referral,0,False,True
+937,https://bridgtonmaine.org/wp-content/uploads/2019/07/Tower-Ordinance-rev-2019.06.11.pdf,2300507170,ME,wind,matched jurisdiction website host,0,False,True
+938,https://denmarkmaine.org/uploads/2025-6-7-zoning-ordinance-of-the-municipality-of-denmark-maine.pdf,2301717250,ME,wind,matched jurisdiction website host,0,False,True
+939,https://farmington-maine.org/files/Ordinances%20and%20Policies/Shoreland_Zoning_Ordinance_07012018_.pdf,2300724775,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+940,https://otisfieldme.gov/DocumentCenter/View/961/Definitions-for-the-Town-of-Otisfields-Ordinances,2301755960,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+941,https://townoflongisland.us/wp/wp-content/uploads/2021/05/Chapter-14-Land-Use-Ordinance.pdf,2300541067,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+942,https://www.bentonmaine.info/sites/g/files/vyhlif6671/f/uploads/land_use_ordinance_revision_march_2022_5.pdf,2301104475,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+943,https://www.bowdoinham.com/sites/default/files/town-document/Land%20Use%20Ordinance_amended_6-12-19.pdf,2302306365,ME,wind,matched jurisdiction website host,0,False,True
+944,https://www.bristolmaine.org/DocumentCenter/View/325/Shoreland-Zoning-Ordinance,2301507485,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+945,https://www.cranberryisles-me.gov/wp-content/uploads/2021/02/Land-Use-Shoreland-Zoning-Ordinance-October-1-2020.pdf,2300914905,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+946,https://www.farmington-maine.org/files/Ordinances%20and%20Policies/Zoning_Ordinance_052521.pdf,2300724775,ME,wind,matched jurisdiction website host,0,False,True
+947,https://www.freeportmaine.com/DocumentCenter/View/2553/05-28-24_chapter_65_shoreland_zoning_ordinance,2300526525,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+948,https://www.fryeburgmaine.org/DocumentCenter/View/260/Land-Use-Ordinance,2301726910,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+949,https://www.newcastlemaine.us/sites/g/files/vyhlif6211/f/uploads/shoreland_ordinance_2024.12.10.pdf,2301548645,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+950,"https://www.northhavenmaine.org/Shoreland%20Zone%20Ordinance%20for%20the%20Municipality%20of%20North%20Haven%20Enacted%20November%2020,%202023.pdf?t=202311201110110",2301351620,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+951,https://www.pownalmaine.org/vertical/sites/%7BE22E4F8E-90D9-49E3-A5FC-00AC79420AA6%7D/uploads/2021_Ordinance_Amendment_Packet.pdf,2300560685,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+952,https://www.skowhegan.org/DocumentCenter/View/5057/Shoreland-Zoning-Amenment-2020,2302568910,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+953,https://www.stocktonsprings.org/vertical/sites/%7B8949E95B-F68F-4A72-B7A8-584080603AC0%7D/uploads/Land_Use_Ordinance_2024.pdf,2302774475,ME,wind,matched jurisdiction website host,0,False,True
+954,https://www.townofchebeagueisland.org/vertical/Sites/%7B984705D3-C709-4324-9040-19247D095968%7D/uploads/Shoreland_Zoning_Ord_eff_4-7-18.pdf,2300512300,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+955,https://www.townofchebeagueisland.org/vertical/sites/%7B984705D3-C709-4324-9040-19247D095968%7D/uploads/Zoning_Ordinance_eff_6-8-2024_FINAL(1).pdf,2300512300,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+956,https://www.townofnorthberwick.org/DocumentCenter/View/519/Zoning-Ordinance,2303150325,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+957,https://www.trentonme.com/images/pdf/Trenton%20Shoreland%20Zoning.pdf,2300977415,ME,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+958,https://www.turnermaine.com/wp-content/uploads/2024/10/Turner-Zoning-Ordinance-04-2024.pdf,2300177800,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+959,https://www.veazie.net/DocumentCenter/View/277/Chapter-30---Shoreland-Zoning-PDF,2301978780,ME,high_voltage_transmission,matched jurisdiction website host,0,False,True
+960,https://www.westbath.org/vertical/sites/%7B8D54E1CA-5A26-4740-9A42-C675DDB0D420%7D/uploads/Land_Use_Ordinance_amended_5.16.2023.pdf,2302381930,ME,solar,matched jurisdiction website host,0,False,True
+961,https://lyman-me.gov/wp-content/uploads/2022/05/Shoreland-zoning-ordinance-amended-06-08-2021.pdf,2303141750,ME,geothermal_heat_pumps;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+962,https://www.norridgewock.gov/DocumentCenter/View/441/Proposed-ordinance-PDF,2302549835,ME,geothermal_heat_pumps;high_voltage_transmission,government host: issuing scope unverified,0,False,False
+963,https://bluehillme.gov/wp-content/uploads/2023/03/20230310-CSPRO-Amendments-Marked-Against-Current-Ordinance-1.pdf,2300905700,ME,solar,government host: issuing scope unverified,0,False,False
+964,https://embden.maine.gov/wp-content/uploads/2022/01/Shoreland-Zoning-Ordinance-2918.pdf,2302523410,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+965,https://greenvilleme.gov/wp-content/uploads/Greenville-Land-Use-Ordinance-9.17.2025-edit-9.18.2025.pdf,2302129535,ME,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+966,https://lubecme.gov/wp-content/uploads/sites/32/2025/04/shoreland-zoning-ordinance-2024.pdf,2302941610,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+967,https://mapletonmaine.gov/wp-content/uploads/2019/07/Mapleton-Zoning-Ordinance-2003.pdf,2300343255,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+968,https://prospectmaine.gov/wp-content/uploads/2025/09/Shoreland-Zoning-Ordinance.pdf,2302761210,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+969,https://rockportmaine.gov/uploads/dm/10693/Land_Use_Ordinance__June_9_2026.pdf,2301363660,ME,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+970,https://rockportmaine.gov/vertical/sites/%7B6F0724F7-400D-4D0B-B299-FF5E21F5B92A%7D/uploads/2018_Rockport_Land_Use_Ordinance.pdf,2301363660,ME,wind,government host: issuing scope unverified,0,False,False
+971,https://solon.maine.gov/uploads/2024.01-building-ordinance-replaces-2003.01-07-23-24-.pdf,2302569505,ME,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+972,https://www.athens.maine.gov/wp-content/uploads/2025/07/ShorelandZoningOrdinanceCompleteJuly2025.pdf,2302501885,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+973,https://www.damariscotta.maine.gov/DocumentCenter/View/407/Land-Use-Ordinance-PDF,2301516235,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+974,https://www.fairfield-me.gov/DocumentCenter/View/459/Shoreland-Zoning-PDF,2302524320,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+975,https://www.gorhammaine.gov/sites/g/files/vyhlif4456/f/uploads/entire_searchable_ludc_07022024.pdf,2300528240,ME,wind,government host: issuing scope unverified,0,False,False
+976,https://www.hermonmaine.gov/wp-content/uploads/2017/02/Land-Use-Code-2.pdf,2301932510,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+977,"https://www.maine.gov/dep/ftp/projects/Spinney-L28397AN/Public%20Comments/Philbrick,%20Jeff/2019.12.02%20email%20attachments/Alnashorelandordinance.pdf",2301501010,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+978,https://www.nobleboro.maine.gov/vertical/Sites/%7BB86CC247-8643-4EEA-9ED0-19C285E9E25F%7D/uploads/Land_Use_Ordinance_-_03.15.25(1).pdf,2301549660,ME,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+979,https://www.raymondmaine.gov/uploads/subdivision-ordinance-2025.pdf,2300561945,ME,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+980,https://www.union.maine.gov/vertical/sites/%7B45C83186-1E71-4F7C-A6A6-4C9EBBC99C05%7D/uploads/Land_Use_Ordinance_-_Amended_June_10_2025.pdf,2301378115,ME,wind,government host: issuing scope unverified,0,False,False
+981,https://www.wiltonmaine.gov/wp-content/uploads/2024/03/Wilton-Zoning-Ordinance.pdf,2300785850,ME,wind,government host: issuing scope unverified,0,False,False
+982,https://www.winthropmaine.gov/DocumentCenter/View/398/Zoning-Ordinance-March-18-2019-amended-February-2-2026,2301186970,ME,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+983,https://www.wiscasset.gov/DocumentCenter/View/204/June-2024-Ordinance-Book-PDF,2301587075,ME,geothermal_heat_pumps,government host: issuing scope unverified,0,False,False
+984,https://www.moretownvt.org/wp-content/uploads/2023/03/Moretown-Zoning-and-Subdivision-Regulations-as-Amended-3-7-2023.pdf,5002346225,VT,high_voltage_transmission;wind,matched jurisdiction website host,0,False,True
+985,http://bristolvt.org/wp-content/uploads/2017/04/Bristol-Zoning-Final.pdf,5000109025,VT,wind,matched jurisdiction website host,0,False,True
+986,http://www.guildhallvt.org/uploads/5/8/4/0/5840249/zoning_bylaws.pdf,5000930775,VT,high_voltage_transmission,matched jurisdiction website host,0,False,True
+987,https://dummerston.org/archive/planning/ZoningBylawUpdate%20draft.1.20.15.pdf,5002518325,VT,high_voltage_transmission,matched jurisdiction website host,0,False,True
+988,https://faystonvt.com/wp-content/uploads/2022/09/Proposed-Town-of-Fayston-Land-Use-Regulations-2022.pdf,5002325825,VT,wind,matched jurisdiction website host,0,False,True
+989,https://grandislevt.org/wp-content/uploads/2022/03/Grand-Isle-Zoning-Bylaws-and-Subdivision-Regulations.pdf,5001329275,VT,wind,matched jurisdiction website host,0,False,True
+990,https://townofmorgan.com/wp-content/uploads/2021/01/zoning-bylaws-adopted-2012.pdf,5001946450,VT,wind,linked government codebook referral,0,True,True
+991,https://townofwoodstock.org/wp-content/uploads/2020/10/TOWN-Zoning-Regulations-searchable-1.pdf,5002785975,VT,wind,matched jurisdiction website host,0,False,True
+992,https://www.ludlow.vt.us/vertical/sites/%7B78E8DA21-0D46-4486-AF59-9D2B5A1048F3%7D/uploads/Article_6_-_Flood_Plain_Management_Ordinance.pdf,5002741275,VT,high_voltage_transmission,matched jurisdiction website host,0,False,True
+993,https://www.townofsalisbury.org/vertical/sites/%7B59D8C83C-9968-4A65-BB2B-00DE19899066%7D/uploads/1.Zoning_Regs.pdf,5000162575,VT,wind,matched jurisdiction website host,0,False,True
+994,https://www.townofwoodstock.org/fileadmin/files/Archive/2020/10/TOWN-Zoning-Regulations-searchable-1.pdf,5002785975,VT,geothermal_heat_pumps,matched jurisdiction website host,0,False,True
+995,https://addisonvt.gov/wp-content/uploads/sites/12/2024/12/Addison-Town-Zoning-and-Subdivision-Regulations-Adopted-November-2024.pdf,5000100325,VT,high_voltage_transmission;solar,government host: issuing scope unverified,0,False,False
+996,http://www.bensonvermont.gov/wp-content/uploads/2023/03/BensonVT-Zoning-Regulations-041618.pdf,5002105200,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+997,https://addisonvt.gov/wp-content/uploads/sites/12/2024/03/AddisonZoningReg_as-of-November-2007.pdf,5000100325,VT,wind,government host: issuing scope unverified,0,False,False
+998,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Brandon_AdoptedAmendment_LandUseOrdinance_May_2014.pdf,5002107750,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+999,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Canaan_Proposed_ZoningBylaws_November_2017.pdf,5000911800,VT,wind,government host: issuing scope unverified,0,False,False
+1000,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Fairfax_AmendmentAdopted_(zoning)Bylaws_August_2011.pdf,5001124925,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+1001,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Georgia_Adopted_(zoning)Bylaws_April_2010.pdf,5001127700,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+1002,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Highgate_Adopted_Development_Regulations_March_2015.pdf,5001133025,VT,wind,government host: issuing scope unverified,0,False,False
+1003,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Hubbarton_Adopted_ZoningBylaws_July_2003.pdf,5002134450,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+1004,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Manchester_Adopted_LandUseDevelopmentOrdinance_June_2020.pdf,5000342850,VT,wind,government host: issuing scope unverified,0,False,False
+1005,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Milton_Adopted_UnifiedDevelopmentRegulations_January_2023.pdf,5000745250,VT,wind,government host: issuing scope unverified,0,False,False
+1006,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/NorthHero_Adopted_(zoning)Bylaws_June_2010.pdf,5001350650,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+1007,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Proctor_ProposedRe-Adoption_ZoningRegulations_January_2016.pdf,5002157250,VT,wind,government host: issuing scope unverified,0,False,False
+1008,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Warren_ProposedAmendments_LandUseDevelopmentRegulations_July_2022.pdf,5002376525,VT,wind,government host: issuing scope unverified,0,False,False
+1009,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Weathersfield_Adopted_(zoning)Bylaws_September_2007.pdf,5002777500,VT,wind,government host: issuing scope unverified,0,False,False
+1010,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/WestHaven_AmendmentAdopted_ZoningBylaws_November_2006.pdf,5002180875,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False
+1011,https://outside.vermont.gov/agency/ACCD/bylaws/Bylaws%20and%20Plans%20Approved/Woodford_Proposed_ZoningBylaws_March_2020.pdf,5000385675,VT,wind,government host: issuing scope unverified,0,False,False
+1012,https://wardsborovt.gov/wp-content/uploads/2024/08/wardsboro_zoningbylaw_2008.pdf,5002576225,VT,wind,government host: issuing scope unverified,0,False,False
+1013,https://www.clarendonvt.gov/wp-content/uploads/2026/04/Clarendon-Zoning-Draft-update-2026-w-Maps-1.pdf,5002114500,VT,high_voltage_transmission,government host: issuing scope unverified,0,False,False

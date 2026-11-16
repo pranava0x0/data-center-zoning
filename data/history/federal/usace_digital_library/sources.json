@@ -1,0 +1,170 @@
+{
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/data%20center/maxRecords/50": {
+    "sha256": "d35fab0b9edf090789acfbf342db96fdacf271efdc8aa7fdf50543d828462409",
+    "bytes": 42872,
+    "retrieved": "2026-11-16T08:14:59+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/data%20center/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/data%20center/mode/exact/maxRecords/50": {
+    "sha256": "376e3f524227889580ac332b90477b27e6986f25674cc84e019bc82a7a6ce9a5",
+    "bytes": 31179,
+    "retrieved": "2026-11-16T08:15:56+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/data%20center/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/datacenter/mode/exact/maxRecords/50": {
+    "sha256": "9ab35f085978b732f5eda4af66523e9a54557fa09fc0fd347de9eca5b2fd4f15",
+    "bytes": 4328,
+    "retrieved": "2026-11-16T08:15:56+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/datacenter/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll7/searchterm/data%20center/mode/exact/maxRecords/50": {
+    "sha256": "46ea3879c9c22f9f7699d81ff5250d6bc10bfbdcc5f1750ce5028752ad40c4fc",
+    "bytes": 38545,
+    "retrieved": "2026-11-16T08:16:04+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll7/searchterm/data%20center/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll7/searchterm/datacenter/mode/exact/maxRecords/50": {
+    "sha256": "ca42186a7da466d9ad74497281efea6997592fc3bd25fce389577860ba9f4949",
+    "bytes": 3571,
+    "retrieved": "2026-11-16T08:16:05+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll7/searchterm/datacenter/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8300": {
+    "sha256": "6fded62852a883d854de70672d5af98f7210023513f8581a1c5b1538e6d49f4d",
+    "bytes": 4310,
+    "retrieved": "2026-11-16T08:16:32+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8300"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8406": {
+    "sha256": "fbe0da4110670843874e8f2170cca8b5fc2a8a9b7d299bd56b502a4b53ca999d",
+    "bytes": 4226,
+    "retrieved": "2026-11-16T08:16:33+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8406"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/11021": {
+    "sha256": "e8347bbbd7ee898b088818d6aae355c9808b6a1a2b6ad48f36fc72552cde7787",
+    "bytes": 4242,
+    "retrieved": "2026-11-16T08:16:35+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/11021"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/10863": {
+    "sha256": "797ce5e7bca30c3d4840e18ed9588cad0159895873d7e74c3cc2fb11c4b90f8c",
+    "bytes": 4251,
+    "retrieved": "2026-11-16T08:16:35+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/10863"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8222": {
+    "sha256": "f977f43500c1846bf4ebc36a5bfd02b2fbbfd741a52ca7b04dc9b689d9473523",
+    "bytes": 4023,
+    "retrieved": "2026-11-16T08:16:37+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8222"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/9780": {
+    "sha256": "68b6cad8a0a11700e414cde3d6853fe2d69dcee9fce6f6d0fc6647e788909461",
+    "bytes": 4235,
+    "retrieved": "2026-11-16T08:16:38+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/9780"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/3944": {
+    "sha256": "2502521ab45be6b20fadd3499e2fe343f8792ffc543b9c23dd26772d57f695c1",
+    "bytes": 4102,
+    "retrieved": "2026-11-16T08:16:39+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/3944"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/2705": {
+    "sha256": "045472dacd2c2571af0ffe8859cbc619344b26173e43c3cc46d8b1299c56aa99",
+    "bytes": 3866,
+    "retrieved": "2026-11-16T08:16:40+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/2705"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/6603": {
+    "sha256": "142efce9f47751d644ef4ff685d6749aab9bde5956fff5cc9256752e48539ce0",
+    "bytes": 4194,
+    "retrieved": "2026-11-16T08:16:42+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/6603"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/7282": {
+    "sha256": "f67c81e25c7f7b7b8bc4db65b543fbb26f08f80e4c7bda0266646b1c4c969078",
+    "bytes": 4230,
+    "retrieved": "2026-11-16T08:16:44+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/7282"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/1248": {
+    "sha256": "68603fcd4761f6bc84e340b40b7a751a7bfa39afa73dc1830cdda269b98afd79",
+    "bytes": 3304,
+    "retrieved": "2026-11-16T08:16:45+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/1248"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/9379": {
+    "sha256": "7441faad44419df278850549d66eff9f68a053e84ef1720be6e2c95962e6ecfc",
+    "bytes": 4435,
+    "retrieved": "2026-11-16T08:16:46+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/9379"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/6427": {
+    "sha256": "2cbf22313c991db006e36df6e8e66eb96f802d58f984508c22f94d529ff4297e",
+    "bytes": 4424,
+    "retrieved": "2026-11-16T08:16:47+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/6427"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/6976": {
+    "sha256": "0fcfa4daa2541154d478bdbe8a6148612641658192955640b3a51bdaddf6cd11",
+    "bytes": 4357,
+    "retrieved": "2026-11-16T08:16:48+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/6976"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/8406/download": {
+    "sha256": "89c4d2b993279f08c4528f4752d90c3fcc12869bfbafd36d8c86b43d8dacb5de",
+    "bytes": 15570177,
+    "retrieved": "2026-11-16T08:17:56+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/8406/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9780/download": {
+    "sha256": "2cefc35431c4cf71146a3f3982b52bc8ee6def6889964c92c66976e4999371c4",
+    "bytes": 2885081,
+    "retrieved": "2026-11-16T08:18:19+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9780/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/2705/download": {
+    "sha256": "d929c05a5b915183c097df45a3f384c5cca3f72b2f21fbff01aba43107df33ed",
+    "bytes": 325688,
+    "retrieved": "2026-11-16T08:18:21+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/2705/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/3944/download": {
+    "sha256": "8794dbd5b256b648ab460606a2d8888475ed2021f8197cb5f9c3abb626bdbf6f",
+    "bytes": 996634,
+    "retrieved": "2026-11-16T08:18:29+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/3944/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9379/download": {
+    "sha256": "a8a5c29f199cab7201948fdc8aacc14d1699ff46535ffc4754578e8d6a653074",
+    "bytes": 726581,
+    "retrieved": "2026-11-16T08:18:31+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9379/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10863/download": {
+    "sha256": "89d433d237a84b94928b4d4de96260fa1f9366df8bfff4e19db5f5231c41cb49",
+    "bytes": 2855286,
+    "retrieved": "2026-11-16T08:18:50+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10863/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/7282/download": {
+    "sha256": "ca7d16f5e881a0e5155a774fe6b9598a0e25cf3863e9f8fffd9507616b4e45b6",
+    "bytes": 6062303,
+    "retrieved": "2026-11-16T08:19:21+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/7282/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/1248/download": {
+    "sha256": "2a74c8d45870beee8d34847fc05166b1b7faa5b9e10223df31653e6f10e791e5",
+    "bytes": 507,
+    "retrieved": "2026-11-16T08:19:22+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/1248/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/6976/download": {
+    "sha256": "30d0b2fabf7aafc3405b1d1780e6b2d66f8bde3ffab446c16f0600469a469f1d",
+    "bytes": 1239216,
+    "retrieved": "2026-11-16T08:19:30+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/6976/download"
+  }
+}

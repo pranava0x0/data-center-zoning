@@ -1,0 +1,125 @@
+{
+  "cutoff": "2026-11-15",
+  "pnnl": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+  "census": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_04_place_500k.zip",
+  "mesa": {
+    "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json",
+    "fields": ":id as src_id,permit_number,application_name,description_of_work,permit_type,type_of_work,status,issued_date,opened_date,finaled_date,cofo_date,status_date,property_address,permit_module,record_type,record_id",
+    "search": [
+      "application_name",
+      "description_of_work"
+    ]
+  },
+  "phoenix_permit": {
+    "url": "https://maps.phoenix.gov/pub/rest/services/Public/Planning_Permit/MapServer/1",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,PER_TYPE,PER_NUM,PROJECT,PERMIT_NAME,PERMIT_STAT,PER_ENT_DATE,PER_ISSUE_DATE,PER_COMPL_DATE,STREET_FULL_NAME,PID,PER_TYPE_DESC,SCOPE_DESC,PER_EXPIRE_DATE",
+    "search": [
+      "PERMIT_NAME",
+      "SCOPE_DESC"
+    ]
+  },
+  "phoenix_plan": {
+    "url": "https://maps.phoenix.gov/pub/rest/services/Public/Planning_Permit/MapServer/0",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,PER_TYPE,PER_NUM,PROJECT,PERMIT_NAME,PERMIT_STAT,PER_ENT_DATE,PER_ISSUE_DATE,PER_COMPL_DATE,STREET_FULL_NAME,PID,PER_TYPE_DESC,SCOPE_DESC,PER_EXPIRE_DATE",
+    "search": [
+      "PERMIT_NAME",
+      "SCOPE_DESC"
+    ]
+  },
+  "tempe": {
+    "url": "https://services.arcgis.com/lQySeXwbBg53XWDi/arcgis/rest/services/building_permits/FeatureServer/0",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,PermitNum,Description,AppliedDate,IssuedDate,StatusDate,StatusCurrent,OriginalAddress1,ProjectName,PermitTypeDesc,PermitType,CompletedDate,COIssuedDate",
+    "search": [
+      "Description",
+      "ProjectName"
+    ]
+  },
+  "tucson": {
+    "url": "https://gis.tucsonaz.gov/public/rest/services/PublicMaps/PermitsCode/MapServer/81",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,NUMBER,STATUS,TYPE,WORKCLASS,APPLYDATE,ISSUEDATE,COMPLETEDATE,PROJECTNAME,DESCRIPTION,ADDRESS,CSS_URL,ENGOV_URL,PRO_URL",
+    "search": [
+      "PROJECTNAME",
+      "DESCRIPTION"
+    ]
+  },
+  "air": {
+    "url": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0",
+    "oid": "ESRI_OID",
+    "fields": "ESRI_OID,OBJECTID,facility_id,facility_nm,facility_desc,city,county_nm,name,permit_nbr,permit_status_cd,permit_classification_dsc,operating_status_dsc,OnBaseWebLink",
+    "search": [
+      "facility_nm",
+      "facility_desc",
+      "name"
+    ]
+  },
+  "chandler_minutes": "https://public.destinyhosted.com/chanddocs/2026/CC/20260105_2026/9189_20251211_regular-meeting_FINAL.pdf",
+  "pima_nov": "https://content.govdelivery.com/accounts/AZPIMA/bulletins/41731cb",
+  "storm_old": {
+    "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/0",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,APPROVAL_DATE,RECEIVED_DATE,LTF_NUMBER,AZNPDES_NUMBER,TERM_CANCEL_DATE,ACTIVITY,FACILITY_NAME,CITY,STATE_CODE,APPLICATION_DESCRIPTION,APPLICATION_NAME,APPLICATION_STATUS,WAIVER",
+    "search": [
+      "FACILITY_NAME",
+      "APPLICATION_DESCRIPTION",
+      "APPLICATION_NAME"
+    ]
+  },
+  "demin_old": {
+    "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/1",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,APPROVAL_DATE,RECEIVED_DATE,LTF_NUMBER,AZNPDES_NUMBER,TERM_CANCEL_DATE,ACTIVITY,FACILITY_NAME,CITY,STATE_CODE,APPLICATION_DESCRIPTION,APPLICATION_NAME,APPLICATION_STATUS",
+    "search": [
+      "FACILITY_NAME",
+      "APPLICATION_DESCRIPTION",
+      "APPLICATION_NAME"
+    ]
+  },
+  "industrial_old": {
+    "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/2",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,APPROVAL_DATE,RECEIVED_DATE,LTF_NUMBER,AZNPDES_NUMBER,TERM_CANCEL_DATE,ACTIVITY,FACILITY_NAME,CITY,STATE_CODE,APPLICATION_DESCRIPTION,APPLICATION_NAME,APPLICATION_STATUS",
+    "search": [
+      "FACILITY_NAME",
+      "APPLICATION_DESCRIPTION",
+      "APPLICATION_NAME"
+    ]
+  },
+  "storm": {
+    "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/3",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,APPROVAL_DATE,RECEIVED_DATE,LTF_NUMBER,AZNPDES_NUMBER,TERM_CANCEL_DATE,ACTIVITY,FACILITY_NAME,CITY,STATE_CODE,WQDB_NOI_NUMBER,WAIVER",
+    "search": [
+      "FACILITY_NAME"
+    ]
+  },
+  "demin": {
+    "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/4",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,APPROVAL_DATE,RECEIVED_DATE,LTF_NUMBER,AZNPDES_NUMBER,TERM_CANCEL_DATE,ACTIVITY,FACILITY_NAME,CITY,STATE_CODE,WQDB_NOI_NUMBER,APPLICATION_STATUS",
+    "search": [
+      "FACILITY_NAME"
+    ]
+  },
+  "industrial": {
+    "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/5",
+    "oid": "OBJECTID",
+    "fields": "OBJECTID,APPROVAL_DATE,RECEIVED_DATE,LTF_NUMBER,AZNPDES_NUMBER,TERM_CANCEL_DATE,ACTIVITY,FACILITY_NAME,CITY,STATE_CODE,WQDB_NOI_NUMBER",
+    "search": [
+      "FACILITY_NAME"
+    ]
+  },
+  "scottsdale": {
+    "url": "https://hub.arcgis.com/api/download/v1/items/68ba7b38073f4cd4aee38d2b59afcaf4/csv?layers=12",
+    "source": "https://www.arcgis.com/home/item.html?id=68ba7b38073f4cd4aee38d2b59afcaf4",
+    "facilities": [
+      "F002278",
+      "F003007"
+    ],
+    "promotable_facility": "F002278",
+    "verified_legal_owner_base": "IRON MOUNTAIN"
+  }
+}

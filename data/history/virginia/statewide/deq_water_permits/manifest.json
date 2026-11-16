@@ -1,0 +1,99 @@
+{
+  "records": 447,
+  "source_audits": {
+    "stormwater": {
+      "dataset": "VA DEQ — Stormwater Permits Daily",
+      "url": "https://www.arcgis.com/home/item.html?id=6a3f36483f14459abcf274412ef6690e",
+      "download_url": "https://hub.arcgis.com/api/v3/datasets/6a3f36483f14459abcf274412ef6690e_303/downloads/data?format=csv&spatialRefId=4326",
+      "rows_scanned": 34207,
+      "matched_source_rows": 368,
+      "rows_linked_by_number": 8,
+      "unique_record_numbers": 140,
+      "csv_bytes": 30044505,
+      "csv_sha256": "9560067e1f00da31ccc340244b1594a3b7fc406ebc82037a2a485a72e5baf291"
+    },
+    "vwp_gp": {
+      "dataset": "VA DEQ — Virginia Water Protection (VWP) General Permits",
+      "url": "https://www.arcgis.com/home/item.html?id=04dfc61324a5406b8fa87fd6184b1faf",
+      "download_url": "https://hub.arcgis.com/api/v3/datasets/04dfc61324a5406b8fa87fd6184b1faf_193/downloads/data?format=csv&spatialRefId=4326",
+      "rows_scanned": 8230,
+      "matched_source_rows": 23,
+      "rows_linked_by_number": 0,
+      "unique_record_numbers": 23,
+      "csv_bytes": 7338873,
+      "csv_sha256": "1f3cd005acd15745ed80d1605dced60379d8200758982d48576064bd9725c671"
+    },
+    "vwp_ip": {
+      "dataset": "VA DEQ — Virginia Water Protection (VWP) Individual Permits (IP)",
+      "url": "https://www.arcgis.com/home/item.html?id=68834b17056f4d789b49e2e6f6cc6168",
+      "download_url": "https://hub.arcgis.com/api/v3/datasets/68834b17056f4d789b49e2e6f6cc6168_192/downloads/data?format=csv&spatialRefId=4326",
+      "rows_scanned": 1748,
+      "matched_source_rows": 11,
+      "rows_linked_by_number": 0,
+      "unique_record_numbers": 11,
+      "csv_bytes": 1544073,
+      "csv_sha256": "183b7ac282ada94b7c46afe708b5143685638bb49e6d6b14ffa35d3760515501"
+    },
+    "vwp_np": {
+      "dataset": "VA DEQ — Virginia Water Protection (VWP) Non-Permit (NP)",
+      "url": "https://www.arcgis.com/home/item.html?id=3daa69f3e3a741599bd85e3725a82acb",
+      "download_url": "https://hub.arcgis.com/api/v3/datasets/3daa69f3e3a741599bd85e3725a82acb_191/downloads/data?format=csv&spatialRefId=4326",
+      "rows_scanned": 2552,
+      "matched_source_rows": 14,
+      "rows_linked_by_number": 0,
+      "unique_record_numbers": 14,
+      "csv_bytes": 2237109,
+      "csv_sha256": "d88f1dc5e6e1bc1b82fc84a05b855984b98a36e7153fac11703d90cb1c5634f0"
+    },
+    "sswd": {
+      "dataset": "VA DEQ — VWP SSWD",
+      "url": "https://www.arcgis.com/home/item.html?id=efef679304ee4b9e80d927b135430e72",
+      "download_url": "https://hub.arcgis.com/api/v3/datasets/efef679304ee4b9e80d927b135430e72_312/downloads/data?format=csv&spatialRefId=4326",
+      "rows_scanned": 949,
+      "matched_source_rows": 5,
+      "rows_linked_by_number": 0,
+      "unique_record_numbers": 5,
+      "csv_bytes": 210317,
+      "csv_sha256": "d02d7ea8275d4461c01e28a338cf28069ea57740058735d20552aeafd92f7993"
+    },
+    "vpdes_outfalls": {
+      "dataset": "VA DEQ — Virginia Pollutant Discharge Elimination System (VPDES) Permit Outfalls",
+      "url": "https://www.arcgis.com/home/item.html?id=e27149e12fc744bd989ee304f27bd3e8",
+      "download_url": "https://hub.arcgis.com/api/v3/datasets/e27149e12fc744bd989ee304f27bd3e8_119/downloads/data?format=csv&spatialRefId=4326",
+      "rows_scanned": 10845,
+      "matched_source_rows": 0,
+      "rows_linked_by_number": 0,
+      "unique_record_numbers": 0,
+      "csv_bytes": 2351525,
+      "csv_sha256": "007922444267b55613833e14d3f17dfc3400ab5fe8fa23cd9739c60824056400"
+    },
+    "vpt": {
+      "url": "https://permits.virginia.gov/Permit/Search",
+      "queries": {
+        "data": 81,
+        "Project Loch": 1,
+        "Project Raspberry": 1
+      },
+      "distinct_returned": 83,
+      "environmental_matches": 18,
+      "sha256": "47fd295cbcc6d8bcd87a4f094919ebe59400ce60fe5422ee5ee0e6bd7efda5d7"
+    }
+  },
+  "source_sha256": {
+    "stormwater": "9560067e1f00da31ccc340244b1594a3b7fc406ebc82037a2a485a72e5baf291",
+    "vwp_gp": "1f3cd005acd15745ed80d1605dced60379d8200758982d48576064bd9725c671",
+    "vwp_ip": "183b7ac282ada94b7c46afe708b5143685638bb49e6d6b14ffa35d3760515501",
+    "vwp_np": "d88f1dc5e6e1bc1b82fc84a05b855984b98a36e7153fac11703d90cb1c5634f0",
+    "sswd": "d02d7ea8275d4461c01e28a338cf28069ea57740058735d20552aeafd92f7993",
+    "vpdes_outfalls": "007922444267b55613833e14d3f17dfc3400ab5fe8fa23cd9739c60824056400",
+    "vpt": "47fd295cbcc6d8bcd87a4f094919ebe59400ce60fe5422ee5ee0e6bd7efda5d7"
+  },
+  "retrieval": {
+    "gis": {
+      "retrieved_utc": "2026-11-16T02:55:11.078794+00:00"
+    },
+    "vpt": {
+      "retrieved_utc": "2026-11-16T02:58:32.976375+00:00"
+    }
+  }
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "key": "smart-pc",
+    "oid": 130788,
+    "record_no": "ZC-25-2025",
+    "project": "Karis Critical — Smart Farms at Beech and Green Chapel",
+    "kind": "Rezoning recommendation",
+    "status": "Favorably recommended to council",
+    "source": "smart",
+    "gis_name": "Smart Farms Annexation and Rezoning",
+    "board": "PC",
+    "primary_gis": false,
+    "date_role": "planning commission recommendation date",
+    "locator": "May 19 minutes, p. 4",
+    "scope": "115.445-acre site intended for a data center. Rezone from agricultural to limited general employment. Not a building permit.",
+    "evidence": [
+      [
+        "smart",
+        4,
+        "ZC-25-2025 was favorably recommended to council"
+      ]
+    ],
+    "authority": "New Albany Planning Commission",
+    "county": "Licking County",
+    "visual_scope": {
+      "key": "smart",
+      "sha256": "6e82ffe023ae885b31e9748f4cc0f2f4106f9c945ae00d7b9e1e45eace89efa3",
+      "page": 27,
+      "reviewer": "Sol: read scanned municipal-file exhibit A, p. 27, rendered as smart-p27.png",
+      "excerpt": "to permit a data center facility on the Property."
+    }
+  },
+  {
+    "key": "smart-council",
+    "oid": 130788,
+    "record_no": "ZC-25-2025",
+    "project": "Karis Critical — Smart Farms at Beech and Green Chapel",
+    "kind": "Rezoning",
+    "status": "Approved",
+    "source": "smart",
+    "gis_name": "Smart Farms Annexation and Rezoning",
+    "board": "CC2",
+    "primary_gis": true,
+    "date_role": "city council second hearing and approval date",
+    "locator": "CC2Status / CC2HearingDate; May 19 was a recommendation",
+    "scope": "115.445-acre site intended for a data center. Rezone from agricultural to limited general employment. Not a building permit.",
+    "evidence": [
+      [
+        "smart",
+        4,
+        "ZC-25-2025 was favorably recommended to council"
+      ]
+    ],
+    "authority": "New Albany City Council",
+    "county": "Licking County",
+    "visual_scope": {
+      "key": "smart",
+      "sha256": "6e82ffe023ae885b31e9748f4cc0f2f4106f9c945ae00d7b9e1e45eace89efa3",
+      "page": 27,
+      "reviewer": "Sol: read scanned municipal-file exhibit A, p. 27, rendered as smart-p27.png",
+      "excerpt": "to permit a data center facility on the Property."
+    }
+  },
+  {
+    "key": "qts-sign",
+    "oid": 130723,
+    "record_no": "VAR-65-2024",
+    "project": "QTS NAL1 — two data-center buildings",
+    "kind": "Sign variance",
+    "status": "Approved",
+    "source": "qts",
+    "gis_name": "QTS Sign Variances",
+    "board": "BZA",
+    "primary_gis": true,
+    "date_role": "board of zoning appeals decision date",
+    "locator": "VAR-65-2024 and staff packet pp. 13, 27",
+    "scope": "Quantity and sizes of proposed signs for QTS buildings at 1235/1225 Beech Road. Scope does not establish site construction approval.",
+    "evidence": [
+      [
+        "qts",
+        13,
+        "two QTS buildings located in the Licking County portion"
+      ],
+      [
+        "qts",
+        27,
+        "with data center and associated admin spaces"
+      ]
+    ],
+    "authority": "New Albany Board of Zoning Appeals",
+    "county": "Licking County"
+  },
+  {
+    "key": "edge25",
+    "oid": 130795,
+    "record_no": "CU-38-2025",
+    "project": "EdgeConneX South — temporary concrete batch plant",
+    "kind": "Conditional use permit",
+    "status": "Approval with Conditions",
+    "source": "edge25",
+    "gis_name": "EdgeConnex Batch Plant Conditional Use",
+    "board": "PC",
+    "primary_gis": false,
+    "date_role": "planning commission approval vote date",
+    "locator": "Decision and Record of Action p. 109; PLCU20250038",
+    "scope": "Temporary batch plant supporting phased data-center construction. Operation limited to July 2027 unless extended.",
+    "evidence": [
+      [
+        "edge25",
+        109,
+        "PLCU20250038 was Approval with Conditions"
+      ],
+      [
+        "edge25-scope",
+        157,
+        "used for data center uses"
+      ],
+      [
+        "edge25-scope",
+        157,
+        "Licking County"
+      ]
+    ],
+    "authority": "New Albany Planning Commission",
+    "county": "Licking County",
+    "family": "PLCU20250038"
+  },
+  {
+    "key": "edge26",
+    "oid": 130865,
+    "record_no": "CU-26-2026",
+    "project": "EdgeConneX South — temporary concrete batch plant",
+    "kind": "Conditional use permit",
+    "status": "Approval with Conditions",
+    "source": "edge26",
+    "gis_name": "EdgeConnex Batch Plant Conditional Use",
+    "board": "PC",
+    "primary_gis": false,
+    "date_role": "planning commission approval vote date",
+    "locator": "Decision and Record of Action p. 13; PLCU20260026",
+    "scope": "Temporary batch plant supporting phased data-center construction. Continuation of the same site; conditional-use term through December 31, 2028 unless extended.",
+    "evidence": [
+      [
+        "edge26",
+        13,
+        "PLCU20260026 was Approval with Conditions"
+      ],
+      [
+        "edge25-scope",
+        157,
+        "used for data center uses"
+      ],
+      [
+        "edge25-scope",
+        157,
+        "Licking County"
+      ]
+    ],
+    "authority": "New Albany Planning Commission",
+    "county": "Licking County",
+    "family": "PLCU20250038"
+  },
+  {
+    "key": "aws-variances",
+    "record_no": "BZA-22-24",
+    "project": "Amazon Data Services — 4120 Scioto Darby Road",
+    "kind": "Zoning variances",
+    "status": "Approved with seven conditions (5-0)",
+    "date": "2022-07-21",
+    "source": "h-july",
+    "vote_page": 15,
+    "authority": "Hilliard Board of Zoning Appeals",
+    "locator": "July 21 minutes in August packet, pp. 12–15",
+    "scope": "Height, security fencing, landscaping, trees and parking variances for a 152.13-acre data-center site. Board required 954 caliper inches of replacement trees and separate access approvals.",
+    "evidence": [
+      [
+        "h-july",
+        12,
+        "proposed Amazon data center complex"
+      ],
+      [
+        "h-july",
+        15,
+        "Approved with seven conditions (5-0)"
+      ]
+    ],
+    "county": "Franklin County"
+  },
+  {
+    "key": "oppidan-fence",
+    "record_no": "BZA-22-29",
+    "project": "Oppidan — 4861 Edwards Farm Road",
+    "kind": "Zoning variance for security fencing",
+    "status": "Approved (7-0)",
+    "date": "2022-08-18",
+    "source": "h-aug",
+    "vote_page": 8,
+    "authority": "Hilliard Board of Zoning Appeals",
+    "locator": "August 18 BZA minutes, pp. 7–8",
+    "scope": "Eight-foot front-yard security fence allowed under three conditions, including obtaining a separate fence permit. The variance does not document issuance of that fence permit.",
+    "evidence": [
+      [
+        "h-aug",
+        7,
+        "OPPIDAN DATA CENTER"
+      ],
+      [
+        "h-aug",
+        8,
+        "a fence permit be obtained prior to construction"
+      ],
+      [
+        "h-aug",
+        8,
+        "Approved (7-0)"
+      ]
+    ],
+    "county": "Franklin County"
+  },
+  {
+    "key": "oppidan-split",
+    "record_no": "PZ-22-42",
+    "project": "Oppidan — 4861 Edwards Farm Road",
+    "kind": "Lot split",
+    "status": "Approved with two conditions (4-2)",
+    "date": "2022-08-11",
+    "source": "h-aug-pz",
+    "vote_page": 15,
+    "authority": "Hilliard Planning & Zoning Commission",
+    "locator": "City minutes PDF pp. 12–16",
+    "scope": "Lot split for the planned data center.",
+    "evidence": [
+      [
+        "h-aug-pz",
+        12,
+        "OPPIDAN DATA CENTER"
+      ],
+      [
+        "h-aug-pz",
+        15,
+        "Approved with two conditions (4-2)"
+      ]
+    ],
+    "county": "Franklin County"
+  },
+  {
+    "key": "oppidan-plan-denied",
+    "record_no": "PZ-22-42",
+    "project": "Oppidan — 4861 Edwards Farm Road",
+    "kind": "Level B site plan",
+    "status": "Motion failed and the application was denied (3-3)",
+    "date": "2022-08-11",
+    "source": "h-aug-pz",
+    "vote_page": 16,
+    "authority": "Hilliard Planning & Zoning Commission",
+    "locator": "City minutes PDF pp. 12–16",
+    "scope": "Initial site-plan vote tied. The lot split passed separately; a later hearing reconsidered the design.",
+    "evidence": [
+      [
+        "h-aug-pz",
+        12,
+        "OPPIDAN DATA CENTER"
+      ],
+      [
+        "h-aug-pz",
+        16,
+        "Motion failed and the application was denied (3-3)"
+      ]
+    ],
+    "county": "Franklin County"
+  },
+  {
+    "key": "oppidan-reconsidered",
+    "record_no": "PZ-22-42",
+    "project": "Oppidan — 4861 Edwards Farm Road",
+    "kind": "Level B site plan",
+    "status": "Approved with five conditions (6-0)",
+    "date": "2022-09-08",
+    "source": "h-sept",
+    "vote_page": 4,
+    "authority": "Hilliard Planning & Zoning Commission",
+    "locator": "City minutes PDF pp. 2–4",
+    "scope": "On reconsideration, sidewalk, access, landscaping and generator-yard screening conditions; applicant must still obtain construction permits. At this date the minutes call data centers a by-right B-3 use.",
+    "evidence": [
+      [
+        "h-sept",
+        2,
+        "OPPIDAN DATA CENTER"
+      ],
+      [
+        "h-sept",
+        4,
+        "Approved with five conditions (6-0)"
+      ]
+    ],
+    "county": "Franklin County"
+  }
+]

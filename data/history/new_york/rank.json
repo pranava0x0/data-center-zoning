@@ -1,0 +1,274 @@
+{
+  "state": "NY",
+  "unit": "Mapped IM3 markers, not unique sites or MW; building and campus counts may overlap. Source county; incorporated place is Census point-in-polygon.",
+  "sources": {
+    "atlas": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "3dbacc1ebe5507ed2c80c964886eed20a7bba4cc1e43381b610fd23a6c81b4a6"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2736%27&f=json&returnIdsOnly=true",
+      "sha256": "e6f2cd3d42fbe7262da9117b6c1e4e22fd1ac1467298277aa86fa3993dbc2d79"
+    },
+    "places": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2736%27&f=json&outFields=OBJECTID%2CGEOID%2CNAME&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6&returnGeometry=true",
+      "sha256": "e6d4d38eeb167359630e018c6d15d63dd7ba33323010a1f64689c4c480a39b05"
+    }
+  },
+  "atlas_national_sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+  "total": 37,
+  "county": {
+    "Niagara County": 13,
+    "Rockland County": 4,
+    "Albany County": 3,
+    "New York County": 3,
+    "Dutchess County": 2,
+    "Erie County": 2,
+    "Richmond County": 2,
+    "Franklin County": 1,
+    "Kings County": 1,
+    "Monroe County": 1,
+    "Onondaga County": 1,
+    "St. Lawrence County": 1,
+    "Suffolk County": 1,
+    "Westchester County": 1,
+    "Yates County": 1
+  },
+  "place": {
+    "Outside incorporated places": 16,
+    "Niagara Falls city": 12,
+    "New York city": 6,
+    "Albany city": 1,
+    "Potsdam village": 1,
+    "Yonkers city": 1
+  },
+  "geometry": {
+    "building": 31,
+    "point": 5,
+    "campus": 1
+  },
+  "markers": [
+    {
+      "place": "Outside incorporated places",
+      "county": "Erie County",
+      "geometry": "point",
+      "label": "Frontier Science"
+    },
+    {
+      "place": "New York city",
+      "county": "New York County",
+      "geometry": "point",
+      "label": "Digital Realty New York JFK12"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Albany County",
+      "geometry": "point",
+      "label": "Lumen Albany 4"
+    },
+    {
+      "place": "New York city",
+      "county": "Kings County",
+      "geometry": "point",
+      "label": "Dataverge"
+    },
+    {
+      "place": "Albany city",
+      "county": "Albany County",
+      "geometry": "point",
+      "label": null
+    },
+    {
+      "place": "Potsdam village",
+      "county": "St. Lawrence County",
+      "geometry": "building",
+      "label": "Old Main"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Dutchess County",
+      "geometry": "building",
+      "label": "IBM Quantum Data Center"
+    },
+    {
+      "place": "New York city",
+      "county": "Richmond County",
+      "geometry": "building",
+      "label": "Merrill Lynch Data Center"
+    },
+    {
+      "place": "New York city",
+      "county": "Richmond County",
+      "geometry": "building",
+      "label": "Telehouse Teleport"
+    },
+    {
+      "place": "New York city",
+      "county": "New York County",
+      "geometry": "building",
+      "label": "32 Avenue of the Americas"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Yates County",
+      "geometry": "building",
+      "label": "Greenidge Power Plant and Data Center"
+    },
+    {
+      "place": "New York city",
+      "county": "New York County",
+      "geometry": "building",
+      "label": "33 Thomas Street"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Suffolk County",
+      "geometry": "building",
+      "label": "Cable & Wireless Cable Landing Station"
+    },
+    {
+      "place": "Yonkers city",
+      "county": "Westchester County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Albany County",
+      "geometry": "building",
+      "label": "Turnkey Internet"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Erie County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Onondaga County",
+      "geometry": "building",
+      "label": "SU Green Data Center"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Rockland County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Rockland County",
+      "geometry": "building",
+      "label": "Bloomberg Data Center"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Rockland County",
+      "geometry": "building",
+      "label": "fifteenfortyseven CSR ORNY1"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Rockland County",
+      "geometry": "building",
+      "label": "Databank LGA3"
+    },
+    {
+      "place": "Niagara Falls city",
+      "county": "Niagara County",
+      "geometry": "building",
+      "label": "Blockfusion Niagra Falls"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Monroe County",
+      "geometry": "building",
+      "label": "Landmax Data Systems, Inc"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Dutchess County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Franklin County",
+      "geometry": "campus",
+      "label": "NYGC Chateaugay"
+    }
+  ]
+}

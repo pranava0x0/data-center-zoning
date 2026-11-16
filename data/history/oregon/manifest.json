@@ -1,0 +1,426 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "c25-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=25&documenttype=1&pagenumber=1",
+      "bytes": 8118,
+      "sha256": "b71ea50d7b4c5217fde35bb7ac0404044e1adb751ad3890dc379223affd9c535"
+    },
+    "c25-2.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=25&documenttype=1&pagenumber=2",
+      "bytes": 7820,
+      "sha256": "9101e3109da51c0d13e8a3aa8be96807bc631895df3511fd82af9fd095e9260a"
+    },
+    "c26-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=1",
+      "bytes": 8667,
+      "sha256": "5c39a52d943ec4f6faa5a6ad701c156edf6a835530ee926acfad882cad991e6f"
+    },
+    "c26-10.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=10",
+      "bytes": 8499,
+      "sha256": "728fc8a7806ff6e95128c37c214a0f0beadc12695f03f6b2ebac7de135d8ac0d"
+    },
+    "c26-11.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=11",
+      "bytes": 8434,
+      "sha256": "7c9845f003bda3f5edcd0962c22c2939067f9ab8b96cad8ede761742050225d7"
+    },
+    "c26-12.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=12",
+      "bytes": 8542,
+      "sha256": "0438168a4b5df05e24eaab3a15aeab75f3bdd74acc20d0c54dedce5e93b05176"
+    },
+    "c26-13.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=13",
+      "bytes": 8410,
+      "sha256": "f9ca0481a2382eca49cc1994fa506f0b0239fa9f533d2ca48a7d3e9c38d23052"
+    },
+    "c26-14.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=14",
+      "bytes": 8184,
+      "sha256": "405781664f7248988e2859563e7b03381083625cd49ac5c7601f2d777ba9c237"
+    },
+    "c26-15.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=15",
+      "bytes": 8231,
+      "sha256": "556e57a8b42445f33cc490ccba5f1d5f4f5b17f5ec5a287b62abee3c6a329458"
+    },
+    "c26-16.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=16",
+      "bytes": 8197,
+      "sha256": "0be4d19f74c87f288da9402701ae7e84d1d6245c71cd91984e6234189f877e4c"
+    },
+    "c26-17.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=17",
+      "bytes": 8222,
+      "sha256": "f218921eefefff4b3b5b7bfbc0fe0eb9f618051c42d5e86c32a28155e04f3d84"
+    },
+    "c26-18.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=18",
+      "bytes": 8357,
+      "sha256": "1a1747ca0ad07ebcd9a3f23677e9396575128f0f7c64fd586d266ca6fddf66f5"
+    },
+    "c26-19.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=19",
+      "bytes": 7968,
+      "sha256": "2c776daa91dea2828c6b64028b574368917448f264926fb09c27c338a8767c1a"
+    },
+    "c26-2.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=2",
+      "bytes": 8566,
+      "sha256": "e0ce4e6b63ed24747e6e09ff0addd558df33bf24c3cb44d03ac1b6386de6d5b0"
+    },
+    "c26-3.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=3",
+      "bytes": 8489,
+      "sha256": "f3a85ba1c0787059c419b7a614a0ec7d9e6981a6a4d3db463597a32972edcc07"
+    },
+    "c26-4.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=4",
+      "bytes": 8516,
+      "sha256": "135ed0d71fe7d6fe2e8fa95a1b9cd08793fa0a6bfa421dab9c78f56bd524fc38"
+    },
+    "c26-5.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=5",
+      "bytes": 8339,
+      "sha256": "ae0d05adb00c6cd5e8a81c449dfe9c34ed80967dac6382a2703823956dd71a58"
+    },
+    "c26-6.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=6",
+      "bytes": 8357,
+      "sha256": "eec992acd9438930a7a43ef46efa06319d033fc26c7f9d06aec2ef417f7db400"
+    },
+    "c26-7.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=7",
+      "bytes": 8604,
+      "sha256": "9074e6c918a9674b9d3386e05c35e25a98068c473e0f4288a7b622d488c3aae7"
+    },
+    "c26-8.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=8",
+      "bytes": 8438,
+      "sha256": "7bcef5af8e7586441177f59fba0e22c55ff31eca80090bc7602eb30fc57eb273"
+    },
+    "c26-9.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=26&documenttype=1&pagenumber=9",
+      "bytes": 8399,
+      "sha256": "c7cd9a517b1fe420e753cb52ce3471ab0c0fc94a446350edcd10c53b8dba80a3"
+    },
+    "c30-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=30&documenttype=1&pagenumber=1",
+      "bytes": 8244,
+      "sha256": "f22afd48e64f6c456d62ac0463882f956a18d63fa8d47a4bfceab49714335fcf"
+    },
+    "c30-2.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=30&documenttype=1&pagenumber=2",
+      "bytes": 8296,
+      "sha256": "21645caf6a81321ed391c4fd92bb8d8f16143d2ff8d31f58daed090fc86283d9"
+    },
+    "c30-3.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=30&documenttype=1&pagenumber=3",
+      "bytes": 8150,
+      "sha256": "c7561e1c720de443b4aa60ead5df8aa8b2f8b47ba9286fbcae82c02e9381f6f3"
+    },
+    "c30-4.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=30&documenttype=1&pagenumber=4",
+      "bytes": 7118,
+      "sha256": "2c82d1a7951706b1e040e28eb688d4c21a04eee60bff38cbde665a709f1458ec"
+    },
+    "c33-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=33&documenttype=1&pagenumber=1",
+      "bytes": 7980,
+      "sha256": "377f8588236d7e3cebcbce2fd0b3a4110921698cf0748179393501c18a48d1ca"
+    },
+    "c33-2.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=33&documenttype=1&pagenumber=2",
+      "bytes": 6293,
+      "sha256": "4fc87988f40323e8f8d04fb092f573eda9b42852196d180a77b1d832aa42b8a9"
+    },
+    "c34-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=1",
+      "bytes": 8315,
+      "sha256": "ac192b070f712be6d735b674b4b84ff10ffc39586912d909f0f8e3ea2a9bd289"
+    },
+    "c34-10.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=10",
+      "bytes": 8180,
+      "sha256": "0a0ae8315ab78e599c47ffd302801cb9611f381b23462dc0172b44f15415fe5a"
+    },
+    "c34-11.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=11",
+      "bytes": 7169,
+      "sha256": "9bcb89adb76e08d737201acd186add44e41aeff645d14a051bdaaf3e39d65764"
+    },
+    "c34-2.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=2",
+      "bytes": 8481,
+      "sha256": "292a80238e7d294c783480ebe1feae8fd46b740f188e0226f274dd60f03df818"
+    },
+    "c34-3.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=3",
+      "bytes": 8559,
+      "sha256": "be13fb0f717b36e12b5d123ca7390fc2d26fa4cb33b455c14bbc999cc6beacee"
+    },
+    "c34-4.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=4",
+      "bytes": 8295,
+      "sha256": "978bee764618a5053ddba5264237c5ff2dfaacc6330a2460f1d92670d055f4a2"
+    },
+    "c34-5.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=5",
+      "bytes": 8567,
+      "sha256": "ee76de53972747e97e5f60a2841c78178fe968e02e5a92cf2c7f49e6d1011917"
+    },
+    "c34-6.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=6",
+      "bytes": 8696,
+      "sha256": "2795eee200159287687648eb3e3a7ab23ac900bbc629a0d515ef74107afe1c61"
+    },
+    "c34-7.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=7",
+      "bytes": 8419,
+      "sha256": "bcff8c5c2bcddeefc1f91e15f332a4e58f2a01e712d235a05ad5ae7e618c27d1"
+    },
+    "c34-8.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=8",
+      "bytes": 8331,
+      "sha256": "89669359961577f6af5bfb8d4e839ddfb9ba8ca2cfdf50c9eac3b7a28527740b"
+    },
+    "c34-9.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=34&documenttype=1&pagenumber=9",
+      "bytes": 8189,
+      "sha256": "16bb7dbd9f83b6fc4557f87a5d815436a2f44fa720e4eeaecd8c019cd00870bc"
+    },
+    "c7-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=7&documenttype=1&pagenumber=1",
+      "bytes": 7872,
+      "sha256": "bda2d93510e7f3feb576a5a4ca7480940db829966eeffd5fc1cea1588490a363"
+    },
+    "c9-1.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=9&documenttype=1&pagenumber=1",
+      "bytes": 8341,
+      "sha256": "514036388e6f46633ff5f907b63c17a1946c61ac4bc6a4368f482121b63d48d3"
+    },
+    "c9-2.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=9&documenttype=1&pagenumber=2",
+      "bytes": 8321,
+      "sha256": "028d3cc0d48f6581a8bbd5de79e6acfec70bdc6a60adb57b751cde8e11040798"
+    },
+    "c9-3.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=9&documenttype=1&pagenumber=3",
+      "bytes": 7900,
+      "sha256": "c92f456bf476fc2a6fd517f9cef0092fb94b6c1cffb486f1c2fbd0ba8eba1554"
+    },
+    "c9-4.html.gz": {
+      "url": "https://deqonline.deq.state.or.us/aq/aqpermitsonline/SearchResult.asp?county=9&documenttype=1&pagenumber=4",
+      "bytes": 7675,
+      "sha256": "a2d71faa6effe9463e96369c4dd4172c3893d670a8bbd9b2e933d8c67ca25c16"
+    },
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_41_place_500k.zip",
+      "bytes": 339960,
+      "sha256": "e38cdb3a0552c17eab8541f56a23ef27f973f6b7294fd22d168a761647627893"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "permit-09bc92c21d57ef7aa1.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0059-ST-01_P_2019.PDF",
+      "bytes": 6574280,
+      "sha256": "36bf6a584737c093e50700b381114ae2bde61783e1f7c91758d98e99043b9b60"
+    },
+    "permit-0a9f34a34ed1d0825c.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0071-ST-01_P_2018.PDF",
+      "bytes": 461693,
+      "sha256": "21787909fcc2f87a111f6ea871f0c976513ff906f6ff5ecf9cb8f6e1f6cbe659"
+    },
+    "permit-1356c40a1e6cce4d3f.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0123-ST-01_P_2023.PDF",
+      "bytes": 838338,
+      "sha256": "be9cbf2ab1cf2e7be3068451fdd6897e7486b0c717a8288f08dc7ccb67e161a3"
+    },
+    "permit-1a4c5e154e4b281028.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/07-0046-ST-01_P_2019.PDF",
+      "bytes": 607955,
+      "sha256": "4b53eb11b17cf4e2dfd6af1a5be363781441e0d2cce655a6fae65ca5a5d35ada"
+    },
+    "permit-1d7eaffc595c1a4126.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0251-ST-01_P_2024.PDF",
+      "bytes": 399675,
+      "sha256": "f06cd7c000e6a694d9e2623616b1c70ecb62691ac1923da0f58af2d4514ae0d5"
+    },
+    "permit-257d2026608e2cff77.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0062-ST-01_P_2021.PDF",
+      "bytes": 10345732,
+      "sha256": "a172bf8a15ae23369c3ada575342d95e91f9124301c7705a13ab04d89cc4a7de"
+    },
+    "permit-2a0879c9429cb0a5c4.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0071-ST-01_P_2023.PDF",
+      "bytes": 9056706,
+      "sha256": "f395b9129f6fb47261a974f342abceb5d61d1d5dfad6f542014cf061d7a27cff"
+    },
+    "permit-36e0c993a8516c1132.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0028-ST-01_P_2018.PDF",
+      "bytes": 474795,
+      "sha256": "b47064e69b6a6e1f2a2c725899e9159718edaf50163080bb671169cd86ecfbd3"
+    },
+    "permit-4dfb93146748cefb43.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0157-ST-01_P_2022.PDF",
+      "bytes": 903774,
+      "sha256": "c9fcbcb2f5ab4e4d15e7dfc38961c08647ac89aa896835b425aa4a12ec4d03f1"
+    },
+    "permit-4e369c3fbd3d6bad2b.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0235-ST-01_P_2020.PDF",
+      "bytes": 2688219,
+      "sha256": "615de6e723f6919139bb8149867748169b78cbf2bc9d913bd84c83cb76533424"
+    },
+    "permit-575a66cba80ae7deb9.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0029-ST-01_P_2018.PDF",
+      "bytes": 455274,
+      "sha256": "4849cdfdbc6aef30987f8676be2bb36564d968b3feb9d8cf270b3bc0a8df9bcb"
+    },
+    "permit-583543dfb94eca2d3b.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0063-ST-01_P_2023.PDF",
+      "bytes": 1054600,
+      "sha256": "25da6a3462a0a0e4a1e3cd137425c0ba5a8936b102a2d3523ecd47e723ae5a1a"
+    },
+    "permit-58e10f4056377687ed.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0183-SI-01_P_2018.PDF",
+      "bytes": 232540,
+      "sha256": "9a263b838f5a258472f236605dbc68a4e80fdc78749509fcf302d1c0dc50baf8"
+    },
+    "permit-64d6014ec31b7a409a.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0054-ST-01_P_2018.PDF",
+      "bytes": 453886,
+      "sha256": "274ddaa908a8fae1319c7271d560772a601029486868cde3050f3b631e7d4311"
+    },
+    "permit-660d7bc39bb4368d8c.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0086-ST-01_P_2021.PDF",
+      "bytes": 10285875,
+      "sha256": "744c3f06e366bb3a3eb0f1c19d6719a41b37aa36fa9232090f833ea61e895edc"
+    },
+    "permit-72372dea439f34fb5b.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0008-ST-01_P_2018.PDF",
+      "bytes": 475247,
+      "sha256": "59f87887641741a52b5b983d94728bf18d3db6c8bf17e94043742ea5212b7182"
+    },
+    "permit-8089869467a5588768.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0336-ST-01_P_2024.PDF",
+      "bytes": 407090,
+      "sha256": "cefc743bb4d2e35e501e878fd74bffdd1ef6a18e26febdd712b684e2f03cfec7"
+    },
+    "permit-85f4a9baf6babfd005.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/GeneralPermits/aqgp018.PDF",
+      "bytes": 381292,
+      "sha256": "78819e32a8d9fb2cf59ca4a75c15ae081c16e621068ed233db88e9e9e3d002d9"
+    },
+    "permit-89c6c73512b4ae5435.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0241-SI-01_P_2020.PDF",
+      "bytes": 3869431,
+      "sha256": "e64176e21a4aea774ef6d3eb525c589b865e1119bb9b3d69a37155730b174e14"
+    },
+    "permit-8ca353aa1a952bdc13.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0186-ST-01_P_2023.PDF",
+      "bytes": 492924,
+      "sha256": "a44cdff915aab85f1aaa092beb8edf8da8ddf72062593d4db4ac60e11ec1d5c2"
+    },
+    "permit-9f9eaa05fd793f313f.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/07-0046-ST-01_P_2021.PDF",
+      "bytes": 9335190,
+      "sha256": "b382342fc5f6fd7c6443e0ef934d41cce3129dba645b0a116bcc62154c989c20"
+    },
+    "permit-abbef55298cb556525.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0007-ST-01_P_2018.PDF",
+      "bytes": 467105,
+      "sha256": "d46e63ce9b79187e840c3cd069def902144ff3cabd24a697213a0d0878059169"
+    },
+    "permit-aca80df331fee0a536.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0054-ST-01_P_2024.PDF",
+      "bytes": 1350135,
+      "sha256": "9c8b9545c4f45d5b55d768f1d8d41fcb5f52562b9b881ef09572964d80e57842"
+    },
+    "permit-b1d600dd006b975b32.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0222-ST-01_P_2020.PDF",
+      "bytes": 2455735,
+      "sha256": "24658fbe51760e03b962ce445be6b41db29c409beba857dbc471dc20055cfa35"
+    },
+    "permit-b75b3c1d53d61bb860.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0233-ST-01_P_2021.PDF",
+      "bytes": 519178,
+      "sha256": "126860c4adac91512acf41f0e5e74e8368d7e72bd190825d938ceb3bc9237022"
+    },
+    "permit-ba9dcd66eef1121892.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0121-ST-01_P_2024.PDF",
+      "bytes": 1921503,
+      "sha256": "868049409f4ca4ea8134d8606f337901f7fa37e72a54ffe065f12597c882dd87"
+    },
+    "permit-cfdba7421c45bfda03.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/25-0067-ST-01_P_2024.PDF",
+      "bytes": 1924453,
+      "sha256": "21c1fc7995a82c857ffc834165add116a7db578b95dd512b8d8651d2bd475a9a"
+    },
+    "permit-e4bf110108b28b0cd0.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/30-0028-ST-01_P_2023.PDF",
+      "bytes": 1892730,
+      "sha256": "cec395134b1b84ba4d250e7a541a0384b787990382d9b73d1bf5bd7d863673d9"
+    },
+    "permit-f9eb127b6da49bd63f.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/34-0244-ST-01_P_2021.PDF",
+      "bytes": 20837204,
+      "sha256": "5347fac717c82ce441c06f88ed30af51c2f37fd4d6910d63ff4bde1b852e7061"
+    },
+    "permit-fff7cd44580b6e3588.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/07-0009-BS-01_P_2022.PDF",
+      "bytes": 489259,
+      "sha256": "f6263a4b077eec938ba15041bbff95c206b1dd7fea91e24dd46ceba2a44df498"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "permit-2bcf088ee870619f60.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/07-0037-ST-01_P_2018.PDF",
+      "bytes": 318545,
+      "sha256": "5ff4b5e69b31f3856329c0dda8be161b1711d92719c6ea108b11622bf43877ca"
+    },
+    "permit-5b154f1ce2476104a5.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/33-0022-ST-01_P_2020.PDF",
+      "bytes": 7325635,
+      "sha256": "1102119e7721c6ba593f9e49418ecb1e9588ff74e6200a8e3ab2c6f522f53853"
+    },
+    "permit-7cb2540d09396e1579.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/33-0028-ST-01_P_2017.PDF",
+      "bytes": 263260,
+      "sha256": "ca387dc88690a5a9b6d2838b89d75ab001c8d1a207be2307de3d481ead2a33d4"
+    },
+    "permit-8722dc276b5c3decce.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/33-0061-ST-01_P_2019.PDF",
+      "bytes": 447592,
+      "sha256": "d80dd37fa0c10dc68ca9734f98cddb879feb440ecc0ab55207b1f0831dace07f"
+    },
+    "permit-be2b34c35ef2e8d418.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/33-0028-ST-01_P_2022.PDF",
+      "bytes": 8422859,
+      "sha256": "084e196e0877e1adb5548798a775062c1bfda2e39f6756b98e153b0ebb66ee52"
+    },
+    "permit-2ea57fc9db78b8b3ab.pdf": {
+      "url": "https://deqonline.deq.state.or.us/AQPermitsonline/07-0037-ST-01_P_2022.PDF",
+      "bytes": 10391490,
+      "sha256": "0efffafd483968c550c30a12b6cab32772a058a51f8cf275f15485a24b7137aa"
+    }
+  },
+  "document_type": "1 (Permit)",
+  "candidate_documents": 36,
+  "county_source_rows": {
+    "25": 45,
+    "7": 24,
+    "30": 86,
+    "33": 27,
+    "9": 95,
+    "34": 259,
+    "26": 468
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "state": "WI",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 60,
+  "county": {
+    "Racine County": 42,
+    "Ozaukee County": 18
+  },
+  "agency_reported_locality": {
+    "Mount Pleasant": 42,
+    "Port Washington": 18
+  },
+  "datasets": {
+    "Wisconsin DNR air permit tracking": 47,
+    "Wisconsin DNR Lighthouse campus review": 10,
+    "Mount Pleasant Plan Commission minutes": 3
+  },
+  "cross_register_date_matches": 0,
+  "air_facility_register_rows_including_inactive": {
+    "35961": 12,
+    "38402": 2
+  },
+  "cutoff": "2026-11-15"
+}

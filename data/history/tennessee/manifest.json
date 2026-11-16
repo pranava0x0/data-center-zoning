@@ -1,0 +1,265 @@
+{
+  "snapshot_utc": "2026-11-16T05:08:21+00:00",
+  "atlas": {
+    "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+    "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+    "ext": "json",
+    "bytes": 497573
+  },
+  "place_ids": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2747%27&returnIdsOnly=true",
+    "sha256": "6c409a5630e8be61ef23239d4a64e922ad4029423432f559e35dca0857988b34",
+    "ext": "json",
+    "bytes": 2092
+  },
+  "places": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2747%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+    "sha256": "f3cfc933e0dc67652006fbbbf22b81ef0d14a792f54897cad70d6a7726c7c073",
+    "ext": "json",
+    "bytes": 2895363
+  },
+  "layers": {},
+  "unavailable_layers": {
+    "nash_issued": "robots preflight HTTP 403",
+    "nash_app": "robots preflight HTTP 403",
+    "nash_trade": "robots preflight HTTP 403",
+    "shelby": "robots preflight HTTP 504",
+    "frank2016": "robots preflight HTTP 403",
+    "frank2017": "robots preflight HTTP 403",
+    "frank2018": "robots preflight HTTP 403",
+    "frank2018q4": "robots preflight HTTP 403",
+    "frank2019": "robots preflight HTTP 403"
+  },
+  "franklin_matters": {
+    "url": "https://webapi.legistar.com/v1/franklintn/matters?%24filter=substringof%28%27Data+Center%27%2CMatterTitle%29+eq+true&%24top=1000",
+    "sha256": "9660f355bdda6d9831b6ef03fe9b00bd82ce7ce308bffc2c842f51d8dd97b68c",
+    "ext": "json",
+    "bytes": 3138
+  },
+  "franklin_histories": {
+    "2394": {
+      "url": "https://webapi.legistar.com/v1/franklintn/matters/2394/histories",
+      "sha256": "f368df494a9b062a54f0dfa8a081625b10c60efb03ca326afd3fc33c2b26f4ba",
+      "ext": "json",
+      "bytes": 1118
+    },
+    "3824": {
+      "url": "https://webapi.legistar.com/v1/franklintn/matters/3824/histories",
+      "sha256": "a085ccb4b03e444b7383f4b0c5c292ff9f28256f316562ec86586236c878ca10",
+      "ext": "json",
+      "bytes": 1118
+    }
+  },
+  "docs": {
+    "internet_archive": {
+      "url": "https://web.archive.org/web/20250703012450id_/https://www.shelbytnhealth.com/DocumentCenter/View/7174/01156-01PC-070225Permit",
+      "sha256": "ad49163dda209c1d1bef6578c2980a1424dd68af3728961bfc7247ebeaa43aa8",
+      "ext": "pdf",
+      "bytes": 882997
+    },
+    "permit_copy": {
+      "url": "https://rachelandthecity.com/the-xai-files/records/county-and-epa/shelby-county-air-permit-01156-01pc-2025-07-02.pdf",
+      "sha256": "ad49163dda209c1d1bef6578c2980a1424dd68af3728961bfc7247ebeaa43aa8",
+      "ext": "pdf",
+      "bytes": 882997
+    },
+    "grassmere": {
+      "url": "https://www.govinfo.gov/content/pkg/USCOURTS-tnmd-3_26-cv-01143/pdf/USCOURTS-tnmd-3_26-cv-01143-0.pdf",
+      "sha256": "98c0447a3e776ca8997499901f6cd8592ea2024025b3c58d61e5f7bb7355cdd9",
+      "ext": "pdf",
+      "bytes": 623695
+    },
+    "memphis_water": {
+      "url": "https://memphistn.gov/wp-content/uploads/2025/03/xAi-Additional-Documents.pdf",
+      "sha256": "27b025f95c4a70b36e73dc5c3afaeea04caaa2b695a604684e002d28fa212ee2",
+      "ext": "pdf",
+      "bytes": 3270559
+    }
+  },
+  "parcel_queries": {
+    "point -86.76414722155243 36.14048086555338": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&geometry=-86.76414722155243%2C36.14048086555338&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects",
+      "sha256": "2c15b969689acf971b7b547a75adfb129ca3e72bf8eb49e3bea5658c39b2164f",
+      "ext": "json",
+      "bytes": 723
+    },
+    "point -86.63779793670544 36.032681338002526": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&geometry=-86.63779793670544%2C36.032681338002526&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects",
+      "sha256": "9286cd9d6df749dfa9b584b22efc95b885419948e50fa36bd23340b5b2469835",
+      "ext": "json",
+      "bytes": 725
+    },
+    "point -86.78368364767915 36.21535166057947": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&geometry=-86.78368364767915%2C36.21535166057947&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects",
+      "sha256": "a188c470f7a6cf5cb822e0ee3793470eac0672019d25a8ae3bb49254166f6d88",
+      "ext": "json",
+      "bytes": 737
+    },
+    "point -86.79712085996425 36.28218000148583": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&geometry=-86.79712085996425%2C36.28218000148583&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects",
+      "sha256": "ff99c743c20d59ea5be45a71c8ad7ed272080e99c2295eb874900b703ab8c457",
+      "ext": "json",
+      "bytes": 739
+    },
+    "address 2902%BRICK CHURCH%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%272902%25BRICK+CHURCH%25%27",
+      "sha256": "a5e77eda0af600a6a2b98bf19f865b9f1fea4e54b53be93aaf37a01e9d3d8a24",
+      "ext": "json",
+      "bytes": 717
+    },
+    "address 3800%EZELL%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%273800%25EZELL%25%27",
+      "sha256": "db157989de98bc4ab35e8dd8fd9b9c5d45b3de6c4fab9838fbd576fd9d7deb80",
+      "ext": "json",
+      "bytes": 738
+    },
+    "address 2992%SIDCO%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%272992%25SIDCO%25%27",
+      "sha256": "c0e5ae368f7dca21fc35355af70f862fb24946ef93785f5beb4f4e105d4d884e",
+      "ext": "json",
+      "bytes": 590
+    },
+    "address 1841%AIR LANE%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%271841%25AIR+LANE%25%27",
+      "sha256": "c0e5ae368f7dca21fc35355af70f862fb24946ef93785f5beb4f4e105d4d884e",
+      "ext": "json",
+      "bytes": 590
+    },
+    "address 338%WOODYCREST%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%27338%25WOODYCREST%25%27",
+      "sha256": "058cb830239308b5a3907a2fe7ff0c9954583f4f125fea68d0aae1e90b250107",
+      "ext": "json",
+      "bytes": 726
+    },
+    "address 147%4TH%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%27147%254TH%25%27",
+      "sha256": "239a28ace61a96c0fcbb3724def99b964f67918619324e4271ea445c74a733d6",
+      "ext": "json",
+      "bytes": 719
+    },
+    "address 648%GRASSMERE%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%27648%25GRASSMERE%25%27",
+      "sha256": "5d0c0ac538c4641a01d6e3b087aa1ca4b8b89dcc54a9d56d5913605af8e6f8c2",
+      "ext": "json",
+      "bytes": 742
+    },
+    "address 650%GRASSMERE%": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=UPPER%28PropAddr%29+LIKE+%27650%25GRASSMERE%25%27",
+      "sha256": "c0e5ae368f7dca21fc35355af70f862fb24946ef93785f5beb4f4e105d4d884e",
+      "ext": "json",
+      "bytes": 590
+    },
+    "APN 13300013500": {
+      "url": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0/query?f=json&outFields=OBJECTID%2CAPN%2CPropAddr%2CPropCity%2CLUDesc&returnGeometry=false&where=APN%3D%2713300013500%27",
+      "sha256": "5d0c0ac538c4641a01d6e3b087aa1ca4b8b89dcc54a9d56d5913605af8e6f8c2",
+      "ext": "json",
+      "bytes": 742
+    }
+  },
+  "parcels": {
+    "10507016900": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/10507016900",
+      "sha256": "820d2886f50449e588f6a1997fcaf97e4d170e1cff49796eb796369d6ecf77e9",
+      "ext": "json",
+      "bytes": 6042
+    },
+    "17400003200": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/17400003200",
+      "sha256": "9c251193af7acfb7c59ee12a3708cd2b613d29443544d635dd0dd5adf37759cd",
+      "ext": "json",
+      "bytes": 27674
+    },
+    "06013021700": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/06013021700",
+      "sha256": "3f4ba30cb6d729ac2ef47ad382c4e7bdddb1031c4727be12bd427f556eafb2fd",
+      "ext": "json",
+      "bytes": 12406
+    },
+    "03100015400": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/03100015400",
+      "sha256": "74a6336e45ef51d1a9230558fa0fe68f70788fce2bedf39037137db0f0f616be",
+      "ext": "json",
+      "bytes": 23235
+    },
+    "06000015700": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/06000015700",
+      "sha256": "c8de4ab3782eb5f4238cac236d40c8abe071d7135a3b7588170e8021ff362101",
+      "ext": "json",
+      "bytes": 1359
+    },
+    "14810013500": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/14810013500",
+      "sha256": "5b2c80fb244a8adf4202bae81acf6f08ce62750af4558a79f90560d6ad2e81bc",
+      "ext": "json",
+      "bytes": 87330
+    },
+    "10512003800": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/10512003800",
+      "sha256": "c3e2426aa33e295005e825404297887fb978f160598c6ca4484e36130e67eb76",
+      "ext": "json",
+      "bytes": 34534
+    },
+    "09306109600": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/09306109600",
+      "sha256": "b11627c0969e45d5781a5af5bf1e36e7dbdac1c55c15ad10b70d9fbad711f066",
+      "ext": "json",
+      "bytes": 50321
+    },
+    "13300013500": {
+      "url": "https://maps.nashville.gov/parcelservice/permithistory/13300013500",
+      "sha256": "782ad033011c9a594e96b8c748c216cdafcef907ac143fc22d042797cdf6b4b4",
+      "ext": "json",
+      "bytes": 81623
+    }
+  },
+  "echo": {
+    "DATA CENTER": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=DATA+CENTER",
+      "sha256": "91e3ed27db2331b339e9c6857702f9bf6662c2ac762835ca8bc91e4d467e61a0",
+      "ext": "json",
+      "bytes": 8848
+    },
+    "DATACENTER": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=DATACENTER",
+      "sha256": "25a56e18acef96510436e039d6b04e91e0dc3aec020bdb257504f9a0af263efd",
+      "ext": "json",
+      "bytes": 1286
+    },
+    "DATA CENTRE": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=DATA+CENTRE",
+      "sha256": "5bc3e13a3d3a43fe488f1c26b4c48788ca1402dd487ffe49403797c183370221",
+      "ext": "json",
+      "bytes": 702
+    },
+    "WOOLHAWK": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=WOOLHAWK",
+      "sha256": "5003b345597e3487bc636425f93d26be93a63c00d376d915a4e61c930618c0e7",
+      "ext": "json",
+      "bytes": 5133
+    },
+    "FOXMAN": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=FOXMAN",
+      "sha256": "32753f50e6fea30e8e5ab3d06d8ff0609fd79559d04fc67c12589fd30f00b65f",
+      "ext": "json",
+      "bytes": 5031
+    },
+    "COLOSSUS": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=COLOSSUS",
+      "sha256": "1b7d4100a257ef376070456d0f2605e7cfad940936d51e4ad402bc8f302709d6",
+      "ext": "json",
+      "bytes": 2494
+    },
+    "OPPIDAN": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=OPPIDAN",
+      "sha256": "c0df6fc9cb5a9261ddf26bcb6c83548702a6984ed203d5bd0953b66a907d5cbf",
+      "ext": "json",
+      "bytes": 1279
+    },
+    "PROJECT RAINIER": {
+      "url": "https://echodata.epa.gov/echo/cwa_rest_services.get_facility_info?output=JSON&p_st=TN&p_fn=PROJECT+RAINIER",
+      "sha256": "057882506a889ac6fa1d4d4b752580e86e7123672dc552a8498e7fd4416605c1",
+      "ext": "json",
+      "bytes": 706
+    }
+  }
+}

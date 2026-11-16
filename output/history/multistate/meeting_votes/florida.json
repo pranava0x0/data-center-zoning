@@ -1,0 +1,107 @@
+[
+  {
+    "id": "fl-case-48e856b86d69c",
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "record_no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Zoning variance",
+    "status": "Conditional approval",
+    "date": "2025-12-04",
+    "date_role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_sha256": "ab81ec89981d3de2f9abf45f7740cc5acd2cc3c2c9ad854969d39434af895e53",
+    "locator": "2025-12-04 · DOA/ZV-2025-01602",
+    "details": {
+      "decision": "The parking variance depended on approval of the master plan amendment. The later denial prevented it taking effect.",
+      "evidence": "The Zoning Commission approved the Type 2 Variance with a vote of 8-1"
+    }
+  },
+  {
+    "id": "fl-case-18d0334e96294",
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "record_no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Postponed",
+    "date": "2025-12-10",
+    "date_role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_sha256": "ab81ec89981d3de2f9abf45f7740cc5acd2cc3c2c9ad854969d39434af895e53",
+    "locator": "2025-12-10 · DOA/ZV-2025-01602",
+    "details": {
+      "decision": "The board postponed its hearing; no permit was issued.",
+      "evidence": "Postponed until April 23, 2026"
+    }
+  },
+  {
+    "id": "fl-case-721981f6a5959",
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "record_no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Postponed",
+    "date": "2026-04-23",
+    "date_role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_sha256": "ab81ec89981d3de2f9abf45f7740cc5acd2cc3c2c9ad854969d39434af895e53",
+    "locator": "2026-04-23 · DOA/ZV-2025-01602",
+    "details": {
+      "decision": "The board postponed its hearing; no permit was issued.",
+      "evidence": "Postponed until July 15, 2026"
+    }
+  },
+  {
+    "id": "fl-case-77849f854042a",
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "record_no": "DOA/ZV-2025-01602",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Denied",
+    "date": "2026-07-15",
+    "date_role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_sha256": "ab81ec89981d3de2f9abf45f7740cc5acd2cc3c2c9ad854969d39434af895e53",
+    "locator": "2026-07-15 · DOA/ZV-2025-01602",
+    "details": {
+      "decision": "The board denied the amendment. This did not undo the earlier approved plan.",
+      "evidence": "denied the request for the Development Order Amendment with a vote of 5-1-1"
+    }
+  },
+  {
+    "id": "fl-case-d1dd640652ac9",
+    "state": "FL",
+    "dataset": "Palm Beach County Project Tango decisions",
+    "jurisdiction": "Palm Beach County",
+    "county": "Palm Beach County",
+    "record_no": "DRO-2026-00966",
+    "project": "Project Tango · Central Park Commerce Center",
+    "kind": "Development plan review",
+    "status": "Approved with conditions",
+    "date": "2026-10-07",
+    "date_role": "County decision date",
+    "url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_url": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx",
+    "source_sha256": "ab81ec89981d3de2f9abf45f7740cc5acd2cc3c2c9ad854969d39434af895e53",
+    "locator": "2026-10-07 · DRO-2026-00966",
+    "details": {
+      "decision": "The development review officer approved a separate plan modification subject to conditions.",
+      "evidence": "October 7, 2026 – The DRO approved the requests subject to Conditions of Approval"
+    }
+  }
+]

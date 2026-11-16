@@ -1,0 +1,55 @@
+{
+  "jurisdiction": "MN",
+  "started_utc": "2026-11-16T15:30:18+00:00",
+  "steps": [
+    {
+      "step": "history_mn.py --refresh",
+      "rc": 0,
+      "seconds": 9.0,
+      "tail": ""
+    },
+    {
+      "step": "federal_aviation.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "federal_corps.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "check": {
+    "jurisdiction": "MN",
+    "ok": true,
+    "rows": 51,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "history_mn.py",
+        "seconds": 0.1,
+        "ok": true
+      },
+      {
+        "script": "federal_aviation.py",
+        "seconds": 23.0,
+        "ok": true
+      },
+      {
+        "script": "federal_corps.py",
+        "seconds": 0.5,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "history_corps_mn.json": "df466406a6cf66258e12a4605229e41259e70a15e62c8c6d06541f502c4320be",
+      "history_faa_mn.json": "e0af81057d760451a1c187bf568e04f35ce40dcc7ad5224953993f8f86b3bea9",
+      "history_mn.json": "d9e0ef205dc28e37ed030e35e2d3d621b8eb485cfa110b1cf956d44af076c7c6"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "finished_utc": "2026-11-16T15:31:14+00:00"
+}

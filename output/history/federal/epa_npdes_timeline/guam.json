@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-date-3601493686-0-expiration_date",
+    "state": "GU",
+    "jurisdiction": "Guam",
+    "county": "",
+    "project": "DOCOMO PACIFIC DATA CENTER",
+    "record_no": "GUR10000T",
+    "kind": "Construction stormwater permit coverage",
+    "dataset": "EPA water permit timeline",
+    "date": "2022-02-15",
+    "date_role": "Expiration Date",
+    "status": "Expired",
+    "url": "https://echo.epa.gov/effluent-charts#/GUR10000T",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS · GUR10000T · 3601493686 · version 0 · EXPIRATION_DATE",
+    "details": {
+      "federal_issuer": "U.S. Environmental Protection Agency",
+      "base_record": "fed-epa-gur10000t-3601493686-0",
+      "npdes_id": "GUR10000T",
+      "version": "0",
+      "agency_type": "EP6",
+      "reported_issuer": "U.S. EPA",
+      "field": "EXPIRATION_DATE",
+      "program": "NPDES"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "https://publibrary.sec.usace.army.mil/api/download?id=969d6c36-cb3c-4174-e0a2-82d49fd787a6&filename=SAW-2026-00878-PN.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=969d6c36-cb3c-4174-e0a2-82d49fd787a6&filename=SAW-2026-00878-PN.pdf&token=&preview=true",
+    "sha256": "1586445b88d7f291b0003da80d6dce89884fac9005422d1f3731ae481db7b889",
+    "bytes": 198132,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=d63a1995-cbb5-495e-a391-50e7a00c40e1&filename=SAW-2026-00878-Plans.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=d63a1995-cbb5-495e-a391-50e7a00c40e1&filename=SAW-2026-00878-Plans.pdf&token=&preview=true",
+    "sha256": "6944c368f7516ba76847363673ea1aa632e450d667778edb3cb05ea224e92ec6",
+    "bytes": 9948101,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=ba192119-3bf3-4230-bde7-ea17674289f8&filename=Public_Notice%20Dutch%20Run%20Technology%20Campus%202026-959.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=ba192119-3bf3-4230-bde7-ea17674289f8&filename=Public_Notice%20Dutch%20Run%20Technology%20Campus%202026-959.pdf&token=&preview=true",
+    "sha256": "bde3f051ed60c6b60006de94831f1dd17855ba0d6e9c6076ff1558ae16698e87",
+    "bytes": 21879816,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=0f5879ee-fde9-422e-dba3-21f31e590b21&filename=Public_Notice%20Bobo%20Technology%20Project%202026-00976.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=0f5879ee-fde9-422e-dba3-21f31e590b21&filename=Public_Notice%20Bobo%20Technology%20Project%202026-00976.pdf&token=&preview=true",
+    "sha256": "8d0875bac26678b8a176ab41a87c5bc068c7faa15fd40feea37185dd8eba2486",
+    "bytes": 12941743,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=b9df7528-6dce-4be8-b379-85cf355c5866&filename=20261102-SAS-2025-00070-Floyd-SP-1202-CRR.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=b9df7528-6dce-4be8-b379-85cf355c5866&filename=20261102-SAS-2025-00070-Floyd-SP-1202-CRR.pdf&token=&preview=true",
+    "sha256": "2bcdff4886c5adb82c67c181955ecc9d994ca087af1ce23c7a7b4bb4a5ab2ffb",
+    "bytes": 40238404,
+    "ext": "pdf"
+  }
+}

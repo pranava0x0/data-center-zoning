@@ -1,0 +1,68 @@
+[
+  {
+    "id": "city-7fq7-8j7r-b0859e90add590",
+    "state": "LA",
+    "dataset": "East Baton Rouge building permits",
+    "jurisdiction": "East Baton Rouge Parish",
+    "county": "East Baton Rouge Parish",
+    "project": "Building permit 172753 · East Baton Rouge Parish",
+    "record_no": "172753",
+    "status": "Issued",
+    "kind": "Building permit",
+    "date": "2025-06-27",
+    "date_role": "Issue date",
+    "url": "https://data.brla.gov/resource/7fq7-8j7r.json?%24where=permitnumber%3D%27172753%27",
+    "source_url": "https://data.brla.gov/resource/7fq7-8j7r.json?%24select=permitnumber%2Cprojectdescription%2Cissueddate%2Cdesignation&%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24order=permitnumber+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "463d48900ad79609dd65a49265d492988b8fccd73f65eb082982716dec4ea62c",
+    "locator": "East Baton Rouge building permits · permitnumber 172753",
+    "details": {
+      "feed_id": "7fq7-8j7r",
+      "work_description": "Installation of diesel generator for Data Center",
+      "local_type": "Commercial"
+    }
+  },
+  {
+    "id": "city-7fq7-8j7r-6ae39a68b1334f",
+    "state": "LA",
+    "dataset": "East Baton Rouge building permits",
+    "jurisdiction": "East Baton Rouge Parish",
+    "county": "East Baton Rouge Parish",
+    "project": "Building permit 187000 · East Baton Rouge Parish",
+    "record_no": "187000",
+    "status": "Issued",
+    "kind": "Building permit",
+    "date": "2026-10-08",
+    "date_role": "Issue date",
+    "url": "https://data.brla.gov/resource/7fq7-8j7r.json?%24where=permitnumber%3D%27187000%27",
+    "source_url": "https://data.brla.gov/resource/7fq7-8j7r.json?%24select=permitnumber%2Cprojectdescription%2Cissueddate%2Cdesignation&%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24order=permitnumber+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "463d48900ad79609dd65a49265d492988b8fccd73f65eb082982716dec4ea62c",
+    "locator": "East Baton Rouge building permits · permitnumber 187000",
+    "details": {
+      "feed_id": "7fq7-8j7r",
+      "work_description": "Proposed partial demolition of the existing building (~46,880 SF) as part of the redevelopment of the site into a data center facility owned and operated by DartPoints Data Centers. Property located within Tract N-1-A-1-A-2 in Section 72, T7S-R2E, Greensburg Land District, in City of Baton Rouge, East Baton Rouge, Louisiana at the address of 7117 Florida Boulevard, Baton Rouge, LA 70806. Close to intersection of Florida Boulevard and Holmes Drive.",
+      "local_type": "Commercial"
+    }
+  },
+  {
+    "id": "city-7fq7-8j7r-90b1983dfece21",
+    "state": "LA",
+    "dataset": "East Baton Rouge building permits",
+    "jurisdiction": "East Baton Rouge Parish",
+    "county": "East Baton Rouge Parish",
+    "project": "Building permit 50882 · East Baton Rouge Parish",
+    "record_no": "50882",
+    "status": "Issued",
+    "kind": "Building permit",
+    "date": "2015-09-29",
+    "date_role": "Issue date",
+    "url": "https://data.brla.gov/resource/7fq7-8j7r.json?%24where=permitnumber%3D%2750882%27",
+    "source_url": "https://data.brla.gov/resource/7fq7-8j7r.json?%24select=permitnumber%2Cprojectdescription%2Cissueddate%2Cdesignation&%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24order=permitnumber+asc%2C%3Aid+asc&%24limit=500&%24offset=0",
+    "source_sha256": "463d48900ad79609dd65a49265d492988b8fccd73f65eb082982716dec4ea62c",
+    "locator": "East Baton Rouge building permits · permitnumber 50882",
+    "details": {
+      "feed_id": "7fq7-8j7r",
+      "work_description": "1,656 sf. Interior renovation for the installation of a new partition to create 2 new rooms in data center with 7'-0 ceiling height in existing Medical center. No EMP work to be performed.",
+      "local_type": "Commercial"
+    }
+  }
+]

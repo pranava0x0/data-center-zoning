@@ -1,0 +1,50 @@
+[
+  {
+    "id": "il-westmont-special",
+    "state": "IL",
+    "geoid": "1780645",
+    "jurisdiction": "Westmont",
+    "level": "village",
+    "authority": "Village of Westmont",
+    "url": "https://westmont.illinois.gov/DocumentCenter/View/5043/VillageofWestmentZoningOrdinance-AsAmended-Feb-19-2026",
+    "topic": "special exception",
+    "scope": "data center specific",
+    "summary": "Westmont marks data centers as special uses in O/R, M-1 and M. The office district O/R-1 has a dash and is not part of this group. Section 6.05(B) defines the use by the building’s primary purpose.",
+    "status": "adopted",
+    "locator": "Article VI §6.01 Allowed Uses, PDF p. 72 (VI-3); §6.05(B), p. 88",
+    "evidence": "Data Center",
+    "effective_date": null
+  },
+  {
+    "id": "pa-palmyra-pike-conditional",
+    "state": "PA",
+    "geoid": "4210357728",
+    "jurisdiction": "Palmyra Township (Pike County)",
+    "level": "township",
+    "authority": "Palmyra Township, Pike County",
+    "url": "https://palmyrapike.org/wp-content/uploads/2025/07/Palmyra-Twp-Zoning-Ord-2025-07-15.pdf",
+    "topic": "conditional use",
+    "scope": "data center specific",
+    "summary": "Data centers appear under conditional uses in the Highway Commercial district. The table directs the reader to §11.804 and names the Planning Commission and Board of Supervisors; it does not list a data center as a principal use approved by the zoning officer.",
+    "status": "adopted",
+    "locator": "Article IV, HC Highway Commercial, printed p. 54 / PDF p. 60; §11.804",
+    "evidence": "CONDITIONAL USES (Planning Commission / Board of Supervisors)",
+    "effective_date": null
+  },
+  {
+    "id": "az-mohave-special",
+    "state": "AZ",
+    "geoid": "04015",
+    "jurisdiction": "Mohave County",
+    "level": "county",
+    "authority": "Mohave County Development Services",
+    "url": "https://www.mohave.gov/media/ll1dxipp/mohave-county-zoning-ordinance.pdf",
+    "topic": "special exception",
+    "scope": "data center specific",
+    "summary": "Mohave County lists data centers under special-use permits in the Airport Development (A-D), Light Manufacturing (M-1), General Manufacturing (M-2) and Heavy Manufacturing (M-X) districts. The listing does not itself grant any particular facility a permit.",
+    "status": "adopted",
+    "locator": "County Zoning Ordinance §§14.D.8, 32.D.3, 33.D.3, 34.D.5; PDF pp. 40–41, 86, 89, 92–93",
+    "evidence": "Uses Allowed With a Special Use Permit",
+    "effective_date": null
+  }
+]

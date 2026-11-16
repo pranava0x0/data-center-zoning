@@ -1,0 +1,111 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2738%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 13,
+  "counties": {
+    "Dickey County": 10,
+    "Cass County": 2,
+    "Williams County": 1
+  },
+  "places": {
+    "Outside incorporated places": 11,
+    "Fargo city": 1,
+    "Harwood city": 1
+  },
+  "points": [
+    {
+      "county": "Cass County",
+      "place": "Harwood city",
+      "name": "Applied Digital",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Cass County",
+      "place": "Fargo city",
+      "name": "Dakota Carrier Network",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Dickey County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Williams County",
+      "place": "Outside incorporated places",
+      "name": "Atlas Powr Williston Datacenter",
+      "operator": "Atlas Power Holdings (ND) LLC",
+      "type": "campus"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "snapshot": "2026-11-15",
+  "source_scan_sha256": "bfd74d624c3f94e1f7bc9c4c32976cfcd5f75509c1086e3420aaa0c3ba7ff789",
+  "input_documents": 49,
+  "accepted_documents": 6,
+  "provisions": 15,
+  "dispositions": [
+    {
+      "sha256": "1064e7085a9ae90619443861118cdc98002a3f7c6982fd11e6341359bbe571f0",
+      "state": "TX",
+      "url": "https://villageofpleak.com/wp-content/uploads/2016/05/Ord.-16-80-Pleak-Zoning-Ordinance.pdf",
+      "disposition": "not promoted",
+      "reason": "Outside requested follow-up states."
+    },
+    {
+      "sha256": "15e55d7e71cee469ba94ffbbfd755493c73dfd8c6925438bc941854fd22aedb9",
+      "state": "LA",
+      "url": "https://cityofstgabriel.us/sites/default/files/fileattachments/planning_and_zoning/page/2393/comprehensive_zoning_ordinance.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "19481e4cef170f0e566acda558c3891f339632bfb83f7abd4e12c5d68f13f7a7",
+      "state": "MI",
+      "url": "https://cascostclair.gov/wp-content/uploads/2024/07/04-17-24-Zoning-Ordinance.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "19903948748452a20cad696799680684a62b6f9393a78a908dc393b584775c2f",
+      "state": "MI",
+      "url": "https://CITYOFFREMONT.NET/DocumentCenter/View/1322/Entire-Ordinance",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "1daceefbe02458899e2b93485cc9c67aa083cdbcc12e3349e80e0e9454240e02",
+      "state": "OH",
+      "url": "http://www.jtwpmc.com/wp-content/uploads/2015/07/jtwp_zoning.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "1de1621b3063345027939309aeca4582b2c5febb0dfc94b16b3efb3e1bf8c58b",
+      "state": "MI",
+      "url": "https://cityofclawson.com/your_government/building_and_planning/docs/Clawson_ZO_Zoning_Ordinance.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "23143fd5465685f041e0acc6ef50f6765a49fcae9561a69bc784fbf07baef762",
+      "state": "MI",
+      "url": "https://leroytwp.com/wp-content/uploads/2026/04/Leroy-Zoning-Ordinance-Updated-4-14-26.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "35e036877d2b734fe86e6a25baec62f67bcef0c912febc910cfdd55c6a9a2cc5",
+      "state": "KY",
+      "url": "http://www.hendersoncountyky.gov/DocumentCenter/View/1226/Henderson-County-Zoning_FINAL-11-12-2020",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "3bbd3a4aa3d7e1703f8794cea783922c99cf45288df750da9a39eaacebbc5e7c",
+      "state": "NC",
+      "url": "https://www.randolphcountync.gov/DocumentCenter/View/1786/The-Unified-Development-Ordinance",
+      "disposition": "published selected provisions",
+      "accepted": 4,
+      "definition_and_edition_pages": [
+        1,
+        22,
+        476
+      ]
+    },
+    {
+      "sha256": "3f59247374e90ef044c92dc50a299a0755f56cb0640055f72e51695de484be71",
+      "state": "SD",
+      "url": "https://www.brown.sd.us/sites/default/files/2026-08/title_4_zoning.pdf",
+      "disposition": "published selected provisions",
+      "accepted": 3,
+      "definition_and_edition_pages": [
+        2,
+        206
+      ]
+    },
+    {
+      "sha256": "3fc877da0fc59223a6225ef3494d2e496d791c166f9e58edabf26370c8d10cba",
+      "state": "SC",
+      "url": "https://springdalesc.com/files/18561298369.pdf",
+      "disposition": "published selected provisions",
+      "accepted": 1,
+      "definition_and_edition_pages": [
+        1,
+        113
+      ]
+    },
+    {
+      "sha256": "4784145ec1d25246778bfb039b81f0fa017069da4943a42765d25acc84886176",
+      "state": "MI",
+      "url": "https://www.acmetownship.org/uploads/2/4/3/0/24300134/acme_twp_zo__final__07-31-2022_.pdf",
+      "disposition": "not promoted",
+      "reason": "Additional candidate: check technology scope, later amendments and district columns before publication."
+    },
+    {
+      "sha256": "481de974ad70371e8a54294601e386e0740a8634ba0bfa797524fef582a62b35",
+      "state": "SD",
+      "url": "https://handcountysd.gov/wp-content/uploads/2026/04/Hand-draft-Zoning-Ordinance-Final-Draft-030426.pdf",
+      "disposition": "not promoted",
+      "reason": "Draft file sets a June adoption date, but official notice dates adoption July 21 and effectiveness August 28. Do not transfer draft standards without the final text."
+    },
+    {
+      "sha256": "4a8c369fc9792e46c30057a3b194609c1c1629027b194c1e8e7f182c06959b52",
+      "state": "IN",
+      "url": "https://dillsboro.in/images/2022/Dillsboro_Zoning_Ordinance_2022_UPDATED_FINAL_DOCUMENT.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "56a4c3dcf47f6b68d2e42fecabbf5c6becb1539ce48f597023975bf3c593bb5f",
+      "state": "MA",
+      "url": "https://www.falmouthma.gov/DocumentCenter/View/14415/Town-of-Falmouth-Massachusetts-Zoning-Bylaw-Town-Code-Chapter-240-Articles-1-14-November-2022",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "5db4786cdd207721b361a5fcdf0cf013bb11a591dfb5234269f5ef935acc85de",
+      "state": "IN",
+      "url": "https://www.haubstadt.net/uploads/1/2/7/0/127015135/final_zoning_ordinance3_1.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "610d8dacb040ebe7307211ae66120ff0edfb9527a3a1707fbefc4492d1e4b84a",
+      "state": "NH",
+      "url": "https://www.candianh.org/DocumentCenter/View/1972/Zoning-Regulations---Zoning-Ordinance-and-Map-PDF",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "6468ddc7d665cd55d2faf9e70aa5fe6ecc24c0093af90d425be688cb6af232b3",
+      "state": "NC",
+      "url": "https://www.pittcountync.gov/DocumentCenter/View/806/Zoning-Ordinance-PDF",
+      "disposition": "published selected provisions",
+      "accepted": 2,
+      "definition_and_edition_pages": [
+        218,
+        262
+      ]
+    },
+    {
+      "sha256": "6c5d599c475056c27076f27394da5553cc118317542f6dc1b6871d1c9e26fab4",
+      "state": "MI",
+      "url": "https://www.mariontownship.com/e/zoning-ordinance-combined-march2026.pdf?1772727773",
+      "disposition": "not promoted",
+      "reason": "Traditional hosting is covered, but a separate 2026 hyperscale moratorium and subsequent drafts complicate scope; reconcile enacted versions before publishing."
+    },
+    {
+      "sha256": "6f78101eb9532848605a93321a939d0be5266ad1f770a10e0b1fbe620552be6d",
+      "state": "VA",
+      "url": "https://www.wytheco.org/DocumentCenter/View/698/Land-Use-Classification-Ordinance---Draft-31---October-2025",
+      "disposition": "not promoted",
+      "reason": "Outside requested follow-up states."
+    },
+    {
+      "sha256": "7ad3ee8ed3fdb8b5b0c5716edfeccbd1f8e0de3c291973298972a7a48290deba",
+      "state": "KY",
+      "url": "https://www.hurstbourne.org/wp-content/uploads/2026/04/hurstbourneldcmarch2006-2.pdf",
+      "disposition": "not promoted",
+      "reason": "Telecommunications hotel terminology requires service/hosting distinction and operative district checks."
+    },
+    {
+      "sha256": "7df2c707c095e2ef8df328a7575fdcd8d4dae6db8689b457eb940ae3aa489763",
+      "state": "MI",
+      "url": "https://www.sheridantwp.com/_files/ugd/e03226_3a4ab8e1df1a41eba54b69bd064fecfc.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "820e69cdaf446b937c9b848ec587252c7562029149775cfb8451435c793ebb78",
+      "state": "MI",
+      "url": "https://leroytwp.com/wp-content/uploads/2022/06/Leroy-Zoning-Ordinance-Effective-May-8-2022.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "8f080f8f6c2227ec31eb8ca8d540719bbb336748a7a2aaa76316d7a1f05d5882",
+      "state": "MI",
+      "url": "https://perry.mi.us/wp-content/uploads/2026/07/2026-07-22-Perry-Zoning-Ordinance-updated.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "9077a55d9add7eddba64550fd2791bae178a57411088f26bef3fabfce2a3ec6c",
+      "state": "MI",
+      "url": "https://www.piersontwp.org/_files/ugd/7ad804_fa8eb2cb5e8e408c84c151d4c1c47019.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "95786f9e2a47a27a49998800ee81e876853ca52030567f02f7978d47b7f8a4e5",
+      "state": "NE",
+      "url": "https://www.cityoflavista.org/DocumentCenter/View/24823/LA-VISTA-ZONING-ORDINANCE-OCTOBER-15-2024",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "97143aab6fd69c89ca7945acdae84c99ccb149f8d402e2ef8492a1bdc7447662",
+      "state": "NH",
+      "url": "https://bownh.gov/DocumentCenter/View/87/Zoning-Ordinance---Articles-1---14-with-2026-amendments-included-PDF",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "9b1797f35b89f169b65342906a2abe74218f4f11087897f98f9de2a744f2d8ab",
+      "state": "MI",
+      "url": "https://CITYOFFREMONT.NET/DocumentCenter/View/2192/FCJZO-Ordinance---As-Amended--",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "9b7d217ba2b7ebbfe51f1529f562cc7c004bbfac5571f6739faf74e9ff818919",
+      "state": "VA",
+      "url": "https://pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf",
+      "disposition": "not promoted",
+      "reason": "Outside requested follow-up states."
+    },
+    {
+      "sha256": "a34e1480c37851c8452d9a00118f2acdd88afad17a37c56df4caac3d43cf9edc",
+      "state": "IA",
+      "url": "https://www.grundycountyiowa.gov/images/documents/announcements/Grundy%20County%20Development%20Ordinance%202022%20FINAL%20DRAFT%2009-12-22%20002.pdf",
+      "disposition": "not promoted",
+      "reason": "Grundy County FINAL DRAFT has blank ordinance number and adoption fields."
+    },
+    {
+      "sha256": "a3cf564cf633fdd27d147d5ce7e4e639836fd8fbcaf7840e43d4638786bf4690",
+      "state": "IA",
+      "url": "https://www.cityofrobins.org/wp-content/uploads/2026/05/CHAPTER-165-ZONING-REGULATIONS.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "ac2d7ecfd09a86baf6115cfa1863ac04c5080a4dc976ff9c3be107e94b8a72c9",
+      "state": "AL",
+      "url": "https://www.hueytownal.gov/DocumentCenter/View/516",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "ac8027721f4018fb1b6d40252331207d3928c6d502435b829acf203d4f87eeb6",
+      "state": "MD",
+      "url": "https://www.harfordcountymd.gov/DocumentCenter/View/18362/5-10-21-Zoning-Code-Update---Bill-21-01AA",
+      "disposition": "not promoted",
+      "reason": "Isolated source/table term: do not generalize to contemporary hosting without definition."
+    },
+    {
+      "sha256": "b15059d6c4ededfa93a6df13586371b58bfacf4b074c7f0726cd06196eedf3eb",
+      "state": "MD",
+      "url": "https://www.washco-md.net/wp-content/uploads/legal-ZoningOrd.pdf",
+      "disposition": "not promoted",
+      "reason": "Additional candidate: technical definition and later district amendments require their own full check."
+    },
+    {
+      "sha256": "b15f2d57e52a10cd47c906fbfa3c8a70cc87c37448940a4c6702a74d05311e1d",
+      "state": "VA",
+      "url": "https://clarksvilleva.org/wp-content/uploads/2024/11/Clarksville-Zoning-Ordinance_Adopted-11-19-2019-Revision-June-16-2020.pdf",
+      "disposition": "not promoted",
+      "reason": "Outside requested follow-up states."
+    },
+    {
+      "sha256": "b22b78a8f1d7f8f278ea3f97ecba4ed806607fc9b78fabc764a6ba506d7cb42c",
+      "state": "NJ",
+      "url": "http://www.neptunetownship.org/sites/default/files/documents/LDO.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "b2fef48a92eec7ff858e98e77c7690bfa23c93656a5b1d11d0235747b53193ff",
+      "state": "MI",
+      "url": "https://villageofmancelona.org/wp-content/uploads/2025/01/Mancelona-ZO-FINAL-12.27.24.pdf",
+      "disposition": "published selected provisions",
+      "accepted": 2,
+      "definition_and_edition_pages": [
+        1,
+        63,
+        68,
+        180
+      ]
+    },
+    {
+      "sha256": "ba77603a4b56b3327b34b129f23f7fb0fa490591f3d1e142e54ad076251bb45e",
+      "state": "OH",
+      "url": "https://www.newfranklin.org/DocumentCenter/View/1290",
+      "disposition": "not promoted",
+      "reason": "Consolidated New Franklin document leaves adoption date, effective date and ordinance number blank; not published here."
+    },
+    {
+      "sha256": "bc8c1e008c86d193cbc05f929b6257cb2b88cf7d6a8d0d4c46b33b1b40b36292",
+      "state": "NY",
+      "url": "https://townofdeerparkny.gov/wp-content/uploads/Town-of-Deerpark-Zoning-2013.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "bc92644e15bdff01af9a21dc5184bf6e3d4476dc763909aca968ae25b592bed1",
+      "state": "MI",
+      "url": "https://wheatfieldtwpmi.gov/wp-content/uploads/2024/05/Wheatfield-Twp-Zoning-Ordinance-As-Amended-thru-Ord-2024-1-Subm-4-17-24.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "be5bc6269b1c5286612a91a6484340faeb98b36690558cc6cd925aaec3e751a2",
+      "state": "OH",
+      "url": "https://www.northbendohio.org/_files/ugd/7241ab_59bcc9bd24a6450e8c72f10801d7491c.pdf",
+      "disposition": "not promoted",
+      "reason": "Additional candidate: definition and district permission need a current-edition check."
+    },
+    {
+      "sha256": "cb81fef117bea42b3a20b85ced8c2250d01c01af80a60e728a4ebc9d5414a15f",
+      "state": "MI",
+      "url": "https://twp.columbia.mi.us/wp-content/uploads/2022/01/COLUMBIA-TWP-Zoning-Ordinance-As-Adopted-2-18-19.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "cc5d6ea0be7db2af839a9b41c01201297e76fc4353b6d6b3f17276a207e122cb",
+      "state": "MI",
+      "url": "https://www.dundeevillage.net/DocumentCenter/View/886",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "d1c1396ece123f0e13de3624de44d7a6c9baeaad55a2cb6dc5d15097335ba2b9",
+      "state": "NC",
+      "url": "https://locustnc.com/wp-content/uploads/2026/03/Locust-Land-Development-Ordinances-Version-3.16.2026.pdf",
+      "disposition": "not promoted",
+      "reason": "Matrix label expressly includes data centers; final adoption and table edition not independently established in this pass."
+    },
+    {
+      "sha256": "d3fee7979108e94b3956ffe0e376d304dc8d43cde8c60671b168f3543f39f0f0",
+      "state": "NC",
+      "url": "https://www.cityofsaludanc.com/images/2025-12-8_Zoning_Ordinance_1.pdf",
+      "disposition": "published selected provisions",
+      "accepted": 3,
+      "definition_and_edition_pages": [
+        1,
+        44,
+        87
+      ]
+    },
+    {
+      "sha256": "d752b7270a26012a4340c273dd7ad54ed6221f070fa524abd334d9002db53310",
+      "state": "IL",
+      "url": "https://www.rockislandcountyil.gov/DocumentCenter/View/771/Zoning-Ordinance-PDF",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "d830f3ec75b3da1610c3828e0cbef9defcb70f21ba80895150e1566c603c3606",
+      "state": "IA",
+      "url": "https://mononacountyiowa.gov/files/environmental_health_zoning/current_mc_zoning_regulations_chapter_100_amended_03112025_12875.pdf",
+      "disposition": "not promoted",
+      "reason": "Contents page references both mining and data processing; no operative language established by the hit."
+    },
+    {
+      "sha256": "e464ae8cac6322fe5ce6594703696eafaf26956cf15a3da0ffe6c6fe6fe27ed8",
+      "state": "MI",
+      "url": "https://twp.columbia.mi.us/wp-content/uploads/2024/06/COLUMBIA-TWP-Zoning-Ordinance-As-Amended-thru-2-19-24-.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    },
+    {
+      "sha256": "fcf113c41cc39c53f2251df07716f9ec31a443ba3b1879de353437ff49442d84",
+      "state": "MI",
+      "url": "https://www.cityofnovi.org/media/xbxnuja1/novi-clearzoning-11-04-2025.pdf",
+      "disposition": "not promoted",
+      "reason": "Not promoted: broad office/computing terminology or unverified scope, edition or zoning columns; requires further review."
+    }
+  ]
+}

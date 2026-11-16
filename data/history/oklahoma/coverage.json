@@ -1,0 +1,22 @@
+{
+  "register_rows": 39,
+  "records": 38,
+  "datasets": {
+    "Oklahoma DEQ final data-center instruments": 28,
+    "Oklahoma DEQ permit applications": 9,
+    "Tulsa Metropolitan Area Planning Commission staff reviews": 1
+  },
+  "undated": 0,
+  "holds": [
+    {
+      "row": 1,
+      "name": "ROLAND OK",
+      "reason": "Linked instrument explicitly locates its site in Muskogee County, not the index row county."
+    },
+    {
+      "row": 30,
+      "name": "MIDDLE MILE LLC",
+      "reason": "Duplicate index row referencing the same document and permit number."
+    }
+  ]
+}

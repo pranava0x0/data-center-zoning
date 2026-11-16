@@ -1,0 +1,9 @@
+{
+  "layer": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13",
+  "id_query": "https://www.fairfaxcounty.gov/idrisi/rest/services/Jade/LandDevelopment/MapServer/13/query?f=json&where=UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true",
+  "query_sha256": "c07e49a9bc9c0ad69e505e8314f321cf12ba89eedeb9a79b84b79dd3a2224007",
+  "source_features": 53,
+  "unique_site_cases": 53,
+  "held": [],
+  "limits": "Exact project-name terms in the public approved site layer. PLUS building and fire layers do not disclose a work description in their public map table. Independent City of Fairfax excluded."
+}

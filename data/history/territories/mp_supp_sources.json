@@ -1,0 +1,698 @@
+{
+  "permitting": {
+    "url": "https://dcrm.gov.mp/our-programs/permitting/",
+    "sha256": "521f366b27c6c2c6d4c7a71f57708ece9edfda97299672537e68de31b3ff25bd",
+    "bytes": 88990,
+    "ext": "html"
+  },
+  "packet_2025_12": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/12302025-Notice-of-Application.pdf",
+    "sha256": "15087291df1126d4093fec1c577a5e8b77b2794b4e84553cb07bdb55f42323ce",
+    "bytes": 329165,
+    "ext": "pdf"
+  },
+  "packet_2024_01": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/01292023-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "aeed5dc16565881e89b5c92ddf1496c5b3733228533235c420f6d93ef5c9c41d",
+    "bytes": 201195,
+    "ext": "pdf"
+  },
+  "packet_2026_02": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02272026-NOA.pdf",
+    "sha256": "78cbda5cadfe15ae42a315e75288f854364c0b89810a1d048e5b497a736fa4bf",
+    "bytes": 344128,
+    "ext": "pdf"
+  },
+  "index": {
+    "url": "https://dcrm.gov.mp/our-programs/permitting/notice-of-applications-and-public-notices/",
+    "sha256": "6baeaeda5a3fd52db689b9fff6cc6ccace64e6f1d21150a22e8dad43757ebf5f",
+    "bytes": 126167,
+    "ext": "html"
+  },
+  "link_1c1c027d3eea943f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/01152024-MVariety-NOA_Layout.pdf",
+    "sha256": "c58d363cef3f1b246925c7b47c875ec3c0ed0118ef513c0d8b8db279a13d2f3a",
+    "bytes": 232303,
+    "ext": "pdf"
+  },
+  "link_703060f42d1afe22": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/01152025-MVariety_NOA_Layout.pdf",
+    "sha256": "7f26bb82a78736c2dff6364e5f6dbd0b14d98fcadb3f15ab4fe7f377db63cd90",
+    "bytes": 337162,
+    "ext": "pdf"
+  },
+  "link_5b2326269bb6fd2f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/01292023-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "aeed5dc16565881e89b5c92ddf1496c5b3733228533235c420f6d93ef5c9c41d",
+    "bytes": 201195,
+    "ext": "pdf"
+  },
+  "link_29809d8fb3a53d06": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/01302025-Notice-of-Application.pdf",
+    "sha256": "648964ea5c5fe4c8b543ddbcb0114f024040464980d828aa1ea711b98e492dbd",
+    "bytes": 277577,
+    "ext": "pdf"
+  },
+  "link_cb705a53ef97cd35": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02092024-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "d11e614f3675583b49291e895277b85f3c9adbfe26b154eb3828c9533d317fbc",
+    "bytes": 233755,
+    "ext": "pdf"
+  },
+  "link_05c8b5ba8e1e30de": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02142020-NOA_MVariety.pdf",
+    "sha256": "ae2f3db475c5448b6b605430af42532118f7e7ca6c4a221523bc3a96ea00152c",
+    "bytes": 367074,
+    "ext": "pdf"
+  },
+  "link_0f30a8d9cd138627": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02142025-MVariety_NOA_Layout.pdf",
+    "sha256": "e18e3e2cc6a1fcd0caa45102e1fad94933b3f8a748b9732fe79e519792afce38",
+    "bytes": 233499,
+    "ext": "pdf"
+  },
+  "link_8032379af7c40f41": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02182026-NOA.pdf",
+    "sha256": "860ccf559abf6baca21efb6fb24d47fe6403d0f205d915483d1c3a590ea52e38",
+    "bytes": 1632472,
+    "ext": "pdf"
+  },
+  "link_672c52960caa3f10": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02232024-MVariety-Notice-of-App_Layout.pdf",
+    "sha256": "20cda4d1620d3ca2e6e008493e4967f6d044a8b37785a0402d9def3bdf507d26",
+    "bytes": 356364,
+    "ext": "pdf"
+  },
+  "link_9659687c0d4f0120": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02272026-NOA.pdf",
+    "sha256": "78cbda5cadfe15ae42a315e75288f854364c0b89810a1d048e5b497a736fa4bf",
+    "bytes": 344128,
+    "ext": "pdf"
+  },
+  "link_8721eb954ae91b58": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02282025-MVariety_NOA_Layout.pdf",
+    "sha256": "a4723e298170e4cd362d64d882b9dc94c2955a2a5494c78b456181c098ce8cd6",
+    "bytes": 223173,
+    "ext": "pdf"
+  },
+  "link_8c174761cf5dc81d": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03112022-Notice-of-Application.pdf",
+    "sha256": "9ef8fcdf57eb1cadeb8efd144b9251ca6861368b03da4bea7bdb1d29c33f89e9",
+    "bytes": 124517,
+    "ext": "pdf"
+  },
+  "link_3e44c0c4c8498606": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03112024-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "c6c850b5aee08a33eb3134688ac905046232672853270cb23612d3212b9d2d44",
+    "bytes": 233298,
+    "ext": "pdf"
+  },
+  "link_1674e1c525e96f02": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03142025-Notice-of-Applications_Layout.pdf",
+    "sha256": "0e9f69ae8b1d4f3114592c6cbc2b6280c254fceaa9e38c6a770c22eaba953539",
+    "bytes": 236934,
+    "ext": "pdf"
+  },
+  "link_5bead2cf98048f44": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03172026-Mvariety_NOA.pdf",
+    "sha256": "01a698426507123a012ebb4e88f1125d4e606a24a11788df7c210c3e66dc26b3",
+    "bytes": 340682,
+    "ext": "pdf"
+  },
+  "link_773eeab0dddd646b": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03252022-Notice-of-Application.pdf",
+    "sha256": "b3392e1c6f10664f154d19847fb497befa685447e7842e660055e335a8242a3f",
+    "bytes": 121987,
+    "ext": "pdf"
+  },
+  "link_45dcc507bcc839c6": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03252024-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "d628e0abecb14037d0bd380b02bba670115798bae52bb942b2b4d9fe292890c9",
+    "bytes": 232542,
+    "ext": "pdf"
+  },
+  "link_9b7152f9d4b6ab61": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03292018_Notice-of-application_Marianas-Variety.pdf",
+    "sha256": "48212dd9762e37693280bdcb97442e389f3c0f20d363c9398825089adf01423b",
+    "bytes": 842190,
+    "ext": "pdf"
+  },
+  "link_fe91bbb3c3997001": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/03312025-Notice-of-Applications_Layout.pdf",
+    "sha256": "23de10c16d3a9175c6c7913080fd0756b4287a8f3bdf5e6673e570c6eafc5c5f",
+    "bytes": 233302,
+    "ext": "pdf"
+  },
+  "link_5987b1076de930ea": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/04052024-MVariety-Notice-of-Apps_Layout-2.pdf",
+    "sha256": "588a6f945f906e32412d348c958d3901e293fa54396be1f2c381f07e933b5202",
+    "bytes": 245455,
+    "ext": "pdf"
+  },
+  "link_5964f04cfc3bc2d0": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/04152025-Notice-of-Applications_Layout.pdf",
+    "sha256": "a9ad4a144ef10726375ef6437ff5ce2fd28b9a188273610e441f92ab602dcaaa",
+    "bytes": 351756,
+    "ext": "pdf"
+  },
+  "link_8392bac345c75fe4": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/04192024-STribune-Notice-of-Apps_Layout.pdf",
+    "sha256": "9321e26009d259de1af8ad931f34481a1a2859d64f71348ab9e4ec648fef739e",
+    "bytes": 899987,
+    "ext": "pdf"
+  },
+  "link_6c1611f3af89721b": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/04302025-Notice-of-Applications_Layout.pdf",
+    "sha256": "b7675d187b3d6f1692e4e1e24b8d0c81988503c45d7700f1e2725bd280b2922c",
+    "bytes": 355395,
+    "ext": "pdf"
+  },
+  "link_156bd77e458ee3ee": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/05152025-NOA-Layout.pdf",
+    "sha256": "367357e7251f4dae59d8e5fffe3600f7c63caf658c8ca3907e9df1eec51eb9ed",
+    "bytes": 360322,
+    "ext": "pdf"
+  },
+  "link_a409c3213109ee57": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/05152026-NOA_layout.pdf",
+    "sha256": "ed30de9928024abf6f4c9a7733179469fac82e7f5db2276103d2d40f8d371485",
+    "bytes": 339561,
+    "ext": "pdf"
+  },
+  "link_090c93dcbf258c68": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/05172024-MVariety_Notice-of-Apps_Layout.pdf",
+    "sha256": "7ee027282ed7c37e37115e7f0b6cd22e30b7fc75e531e30dbdaf410f26329654",
+    "bytes": 245550,
+    "ext": "pdf"
+  },
+  "link_e37c37de0349d823": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/05302025-NOA-Layout.pdf",
+    "sha256": "06f78af78116cf793eddaea1fa655bdc1af3a372cd7ac900605a99c1bccb160f",
+    "bytes": 313491,
+    "ext": "pdf"
+  },
+  "link_d5d3f7d50b25f2e1": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/06282024-STribune_Notice-of-Apps_Layout.PUBLISHED.pdf",
+    "sha256": "3cede5579823f546c80181db8b1a25a2d72813cea7537068e349f38568571552",
+    "bytes": 490708,
+    "ext": "pdf"
+  },
+  "link_dd948e3fab36ab1e": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/07172026-NOA_Layout.pdf",
+    "sha256": "ee4ae21d9a89c43325f993aef6867008e4a96e34052aeb03c07bc16825ad3eae",
+    "bytes": 333585,
+    "ext": "pdf"
+  },
+  "link_8eede4cac4dcfccc": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/07302025-MVariety_NOA_Layout.pdf",
+    "sha256": "67feab66fd6d6c383243e8ee75b07c58179608476dc851149bbc1525b3678fdd",
+    "bytes": 239406,
+    "ext": "pdf"
+  },
+  "link_8a8f941d5c8176ab": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/07302026-NOA.pdf",
+    "sha256": "bda2c3a0afb8e3f58d6c7cfaa2b3dd1861eece9839d04cbb305ad86ecda2157b",
+    "bytes": 279229,
+    "ext": "pdf"
+  },
+  "link_e9d7d9cc065a90a2": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/08112023-MVariety_Notice-of-App_Layout.pdf",
+    "sha256": "dcecc1da4a74303229920a5278909439924833c7717a2f7878794987b1fbecca",
+    "bytes": 213366,
+    "ext": "pdf"
+  },
+  "link_ce23cd599b8b643a": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/08152025-MVariety_NOA_Layout.pdf",
+    "sha256": "2a4dce6ee479cac027d7ad1f1fbb56e9a4b442df4d847f6b6ea2a62eb25dde58",
+    "bytes": 333285,
+    "ext": "pdf"
+  },
+  "link_2e548da149849afc": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/09082023-STribune-Notice-of-Apps_Layout.pdf",
+    "sha256": "bb5aa3812b3a235dabdb3760612660d9b1d46478bef9644b67edcb2dae557697",
+    "bytes": 478983,
+    "ext": "pdf"
+  },
+  "link_d9e08b037292a720": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/09152025-MVariety_NOA_Layout.pdf",
+    "sha256": "a190c7528268ab04e6ce7bb45e2846ea51434e415361e7275bee73434f5cd0d2",
+    "bytes": 232650,
+    "ext": "pdf"
+  },
+  "link_7f960906a2b0c9c8": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/09222023-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "7ad387615182a7cdfef149f1a016eb3544e2b78aed237f512674542d61f39bf2",
+    "bytes": 269095,
+    "ext": "pdf"
+  },
+  "link_b50eeb68ce6e544f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/09282018-Notice-of-Application.pdf",
+    "sha256": "0ab7565b7d73fd8006c5376d902fc1f62030f1934d8a8393c3f749c00b578b53",
+    "bytes": 35810,
+    "ext": "pdf"
+  },
+  "link_c618d092b8785f95": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/10034-DCRM-BECQ-Notice-of-Application-08292025-1.pdf",
+    "sha256": "9905c3e4660b5a6e933eeebcca64b3c799e814be816f4a3b40c4be58cc7be634",
+    "bytes": 329690,
+    "ext": "pdf"
+  },
+  "link_a4cb5240736c1d1d": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/10034-DCRM-Notice-of-Application-093025-1.pdf",
+    "sha256": "591e0422c9744a8f91a407b4269e4290bed494a545abaad78d76bce3e232e40e",
+    "bytes": 224787,
+    "ext": "pdf"
+  },
+  "link_00918896584d362d": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/10202023-MVariety-NOA_Layout.pdf",
+    "sha256": "b8f90288e4e47180110852252ec3aee1cd71701ad2d5f729b61e3b685e601a1d",
+    "bytes": 199454,
+    "ext": "pdf"
+  },
+  "link_9bd97c3b5becaf19": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/10212022-MVariety-NOA_Layout.pdf",
+    "sha256": "0632ad6c144008848ce4a52698da723a67e039c187cf3773b9103aa56d6c4f78",
+    "bytes": 563392,
+    "ext": "pdf"
+  },
+  "link_ff2c4ec9082e8848": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/10292025-MVariety-Notice-of-Application-Layout.pdf",
+    "sha256": "18816ce4b4a5def48a518473708339b4b13d4e545c8a86865420e444683efd1c",
+    "bytes": 344568,
+    "ext": "pdf"
+  },
+  "link_1bb61e410b800f08": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/11032023-MVariety-Notice-of-Apps_Layout.pdf",
+    "sha256": "8718d48fb673f093f866db65bd7d5bfa4445e033f0ac4f6880ad49416d348748",
+    "bytes": 274270,
+    "ext": "pdf"
+  },
+  "link_c60f1b6c00b841de": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/11092018-NoA_STribune.pdf",
+    "sha256": "02c4f977a5457bf4abc417ef69aa6d3eb5adaf98b5de5a32425729d019109208",
+    "bytes": 952023,
+    "ext": "pdf"
+  },
+  "link_8509f36362266f90": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/11152025-NOA_Layout.pdf",
+    "sha256": "f904f8981a321107b87b765d019602183098f99f0612d5ccda6bc7f57877e091",
+    "bytes": 236566,
+    "ext": "pdf"
+  },
+  "link_8fcb33e0785e64c2": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/11182022-MVariety-NOA_Layout.pdf",
+    "sha256": "f7923d58f7142ff18c57f97432c32213b0af215aadef0e126511f58c89c3c134",
+    "bytes": 540824,
+    "ext": "pdf"
+  },
+  "link_0344550c6ee300bc": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/11232018-NoA_STribune.pdf",
+    "sha256": "550f8a2cea336304d30af1d18255aa166c65f5fdb70062e03a67f2f19d7c7082",
+    "bytes": 379808,
+    "ext": "pdf"
+  },
+  "link_2b0aeaf524dfafb7": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/12152025-Notice-of-Application.pdf",
+    "sha256": "28fb60ac3bb124f321ca5f0c1e722b8b58430040284b8696fed61b20746cc7e1",
+    "bytes": 239780,
+    "ext": "pdf"
+  },
+  "link_a788976a705ce51b": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/12302022-STribune-NOA_Ad-Layout.pdf",
+    "sha256": "d63624d663312e55f31f9ecf8f6926f55dea0ce1182e167b80cac730c7547557",
+    "bytes": 535256,
+    "ext": "pdf"
+  },
+  "link_08f3d972d55818db": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/12302025-Notice-of-Application.pdf",
+    "sha256": "15087291df1126d4093fec1c577a5e8b77b2794b4e84553cb07bdb55f42323ce",
+    "bytes": 329165,
+    "ext": "pdf"
+  },
+  "link_0a64bc75ecac1051": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/4_17_2017_Notice-of-Application.pdf",
+    "sha256": "3e03d99c61f4da689b2f612abb6ffedab94c30d89876bed03f54aedba4689e16",
+    "bytes": 120239,
+    "ext": "pdf"
+  },
+  "link_5c90d21fd54e77f4": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/4_3_2017_MV-Notice-of-Application_Amendment.pdf",
+    "sha256": "b53d6e96595bca896fe6051ea61e057577e4ca1bad2a589cf2492e822dfd8556",
+    "bytes": 14954,
+    "ext": "pdf"
+  },
+  "link_dcb5663f10c93c1d": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/April-2026-NOA.pdf",
+    "sha256": "24e1a15cd36ce3454df14bd089055c13c43085a855d4053cdea2c617b678306c",
+    "bytes": 139181,
+    "ext": "pdf"
+  },
+  "link_9b04def2bb149a3f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM-NOA-100821.pdf",
+    "sha256": "6e8125005ea656e46553030240762f6d0e1dfbb21f7538a41aa145e6da0848d2",
+    "bytes": 125886,
+    "ext": "pdf"
+  },
+  "link_265e03da2d2c8a09": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM-NOA4cx5.pdf",
+    "sha256": "e635ade13b584627f84450773e19f8c27153586d126f2e66e8393d71df991de6",
+    "bytes": 132733,
+    "ext": "pdf"
+  },
+  "link_31cd39abe37acf3c": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM_NOA-as-of-April-21-2023-11-items_4x7.5_04.21.23_MVariety.pdf",
+    "sha256": "e8bea8b6aa5f9da0407213a7892f443d14edf178ce85fc39d30994f89a6e6449",
+    "bytes": 540472,
+    "ext": "pdf"
+  },
+  "link_bf75cd16fbb622a0": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM_NOA-as-of-July-14-2023-30-items_4x14.5.pdf",
+    "sha256": "1a039695c165c560a50660fc87e32120d8de5365510088fe6e5446e30e32a6bb",
+    "bytes": 206744,
+    "ext": "pdf"
+  },
+  "link_67060f6b1e29a0da": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM_NOA-as-of-June-16-2023-64-items_2-page-4x14.5.MV_.pdf",
+    "sha256": "ee6d70a8afa5da4d85346f4d28286fcfcf49eb98dc5dcb6376df4af00a31875c",
+    "bytes": 282583,
+    "ext": "pdf"
+  },
+  "link_74463b622a3d2163": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM_NOA-as-of-May-5-2023-15-items_4x9.25_05.04.23.pdf",
+    "sha256": "4ead3da5eb36ceda3ba87f94237d68b07729c7a098fcab12ea0b77dda7aa9159",
+    "bytes": 579117,
+    "ext": "pdf"
+  },
+  "link_da5b77fa64017f93": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-Notice-of-Application-07152025.pdf",
+    "sha256": "e03d875ef3fb178a87711936fe394fc1f16f879327df5fd061b47882d4527721",
+    "bytes": 348387,
+    "ext": "pdf"
+  },
+  "link_08c47347570f7f19": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-Notice-of-Application-060125.pdf",
+    "sha256": "b268c4cdf050bebf0b02d848b19ebb0465c0a67ea7d4eddc39950610b60bb02f",
+    "bytes": 199120,
+    "ext": "pdf"
+  },
+  "link_fe8acb97615ee075": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-Notice-of-Application-060155.pdf",
+    "sha256": "265366e8456514faa31dce698cf16321f44d361346b4791a3c6943a4bbcd85fa",
+    "bytes": 193926,
+    "ext": "pdf"
+  },
+  "link_b638755a9520ab37": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-Notice-of-Application-100623-5.18x7-090923-1.pdf",
+    "sha256": "268a2eb180682173f74d2e72d974a13006a27ab12f4bda58d2f9e7e8b201a5de",
+    "bytes": 989358,
+    "ext": "pdf"
+  },
+  "link_4526db9471866147": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-Notice-of-Application-101525.pdf",
+    "sha256": "9460fd03b27aeef0c08ebebb714ed78e0067f0fc68a46cef366dbc3f6c06013f",
+    "bytes": 230896,
+    "ext": "pdf"
+  },
+  "link_614e4894d2961a3c": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-Notice-of-Application-7x10.5.pdf",
+    "sha256": "d8b6e43a21320f5da8943cd3705ec58713be8a069ccdd7e2fd9c3a7f87e7f177",
+    "bytes": 1778228,
+    "ext": "pdf"
+  },
+  "link_2ba9445b8a4c6e2e": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-Notice-of-Applications-8.75-x-5.75-122823-1.pdf",
+    "sha256": "0129c75ff566ee2f976183889570d428e379a53f75a7c795ae200b4118e7feea",
+    "bytes": 1763682,
+    "ext": "pdf"
+  },
+  "link_ddd6a8d8a4c5e227": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_NOA-as-of-Apr.-7-2023-14-items_4x9.25_04.07.23.pdf",
+    "sha256": "1626bc4627923106dab74c8ee25fabdaa5fae1af8bcc3547f749f85f8efea570",
+    "bytes": 559799,
+    "ext": "pdf"
+  },
+  "link_b575fc0264b6ac3e": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_NOA-as-of-Mar.-24-2023-15-items_4x9.25_03.24.23.pdf",
+    "sha256": "3ca362baa7a6d81493b7493706ff1cbedbb4d7d8db0e8ed4c5cdfe2789b014f4",
+    "bytes": 547583,
+    "ext": "pdf"
+  },
+  "link_7b5b2e6291d0e862": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/MVA-NOA-Layout-021122-4X6_25.pdf",
+    "sha256": "236cb9cc40b6fb43c2f79e332e830fdccb33347fa28e63873e9e2acfc8b62ae6",
+    "bytes": 113561,
+    "ext": "pdf"
+  },
+  "link_fab01a5b8babeeda": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/NoA-Layout_08172018.pdf",
+    "sha256": "aec88d5a1a8340ef2c81fd30aa6db37bc5254d72041e5229301fe50945513f53",
+    "bytes": 507417,
+    "ext": "pdf"
+  },
+  "link_8a1ae4f621858980": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/Notice-of-application-as-of-Apr.13-2018_Saipan-Tribune.pdf",
+    "sha256": "4ab30488cbb8a839578f7265cb99d6ee0ea972a401dfd577f2bfb8287a2d32fa",
+    "bytes": 863988,
+    "ext": "pdf"
+  },
+  "link_d5444fec75eb240f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/01302025-MVariety_Layout.pdf",
+    "sha256": "cc089ce2201cce127a68846c2b9a7d5a2f3197ab9497115c2e19e03a1cbda3a5",
+    "bytes": 220895,
+    "ext": "pdf"
+  },
+  "link_a0bce8a917e241f3": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/02252022-MVA-Layout.pdf",
+    "sha256": "08029878a6f0b1655da02f3ab75bb79e31375705b1f9196c707a9e2fe00ea279",
+    "bytes": 121176,
+    "ext": "pdf"
+  },
+  "link_5918d5d174170b32": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/05062022-MVariety_-Ad-Layout.pdf",
+    "sha256": "e3d679a69eadce4615e1a4716a4033a26dc5d16195039669ab54520bc26f1534",
+    "bytes": 120825,
+    "ext": "pdf"
+  },
+  "link_07b457a103e605f6": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/05062024-MVariety_Layout.pdf",
+    "sha256": "a91fbbbaa7141e939b6abc3e6dc84ad6874caaddb3f57a654b07dfc93cbad774",
+    "bytes": 237416,
+    "ext": "pdf"
+  },
+  "link_95f67aafc77f200f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/06032022-MVariety-Ad-Layout.pdf",
+    "sha256": "4c9a649c4baaf98110d9253e642fd8d61d91f3aeac76ca336ca7945d1cfe1069",
+    "bytes": 730633,
+    "ext": "pdf"
+  },
+  "link_ea5423e552111761": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/06172022-MVariety-Layout.pdf",
+    "sha256": "437aaad3badcbb61513cd0980bfd98a646b1d5b40463838a0cf5cbb98c76defa",
+    "bytes": 835128,
+    "ext": "pdf"
+  },
+  "link_291e7a9c93183d25": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/07282023-MV_Layout.pdf",
+    "sha256": "d351d9edec0cac2a76b42e0570729f2eb45fd5b2ee6b1ac856b014555f13c394",
+    "bytes": 215790,
+    "ext": "pdf"
+  },
+  "link_bbfe7df52598a4f2": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/08262022-MVariety_Layout.pdf",
+    "sha256": "ff3100d948b24637f78c4e33547ee4ea6fd4622986709c2a5f78689a91e81a94",
+    "bytes": 562607,
+    "ext": "pdf"
+  },
+  "link_cd56b03a2d7a5462": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/12032021-MVA-Layout.pdf",
+    "sha256": "faccb82a69972e0a86c13364961034cb6856ff0799137989a18ca31dade504b6",
+    "bytes": 132621,
+    "ext": "pdf"
+  },
+  "link_2e5edb5bd44da652": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-8-18-17_Sam.pdf",
+    "sha256": "5b4caea44d1065dd2d315ec0fbf85ef89c70e7a621fc2cefdbff542eb669da9c",
+    "bytes": 276474,
+    "ext": "pdf"
+  },
+  "link_eacc4344142288a0": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/BECQ-DCRM052518.pdf",
+    "sha256": "b0e3cc4001fb7edaf460226a2faf9665d839f45b58dc77f444552579890d922f",
+    "bytes": 1352676,
+    "ext": "pdf"
+  },
+  "link_b274616e8f4ce273": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-1-27-23-2.pdf",
+    "sha256": "5d28a4e48db6dd7127bbba3b932a2d7a2370bfd74a7dccdc09caf87d629e520d",
+    "bytes": 556687,
+    "ext": "pdf"
+  },
+  "link_a8413c4fcffd6cef": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-10-7-22.pdf",
+    "sha256": "b176322f24a6151df32de33549752ce80681bde237c26677364a4a0f8d78d2c4",
+    "bytes": 538494,
+    "ext": "pdf"
+  },
+  "link_145f11472e3babcb": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-11-4-22-1.pdf",
+    "sha256": "07c5a5754c8994619067a06e0a10a6004db85d068fd530f656620c4786ad1ae9",
+    "bytes": 538195,
+    "ext": "pdf"
+  },
+  "link_067a423d50bc18c2": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-2-10-23.pdf",
+    "sha256": "53e9baa3cf1a8ab5cd5bd8a29c121c6c4b07398b8b46f0411bfeaaa147348343",
+    "bytes": 547709,
+    "ext": "pdf"
+  },
+  "link_b368ebec9ddc582b": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-2-24-23-1.pdf",
+    "sha256": "d850d39fa0ba09f1a971a9d8bc164e74ed9f416f434fb5d1afa28e40113a6609",
+    "bytes": 533414,
+    "ext": "pdf"
+  },
+  "link_14a9e8bcd57c94bf": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-5-19-23.pdf",
+    "sha256": "e47a72407bd26b173c54411a45155cfcf9e3d617c0f3ce80f6f0076823ba8d38",
+    "bytes": 539432,
+    "ext": "pdf"
+  },
+  "link_31c52b57f18c580f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-6-2-23.pdf",
+    "sha256": "65e359a22f4d2c03ded5fecfc5ee8ec86d8e09c90c12eb09710d4e3f41d20965",
+    "bytes": 1062514,
+    "ext": "pdf"
+  },
+  "link_4a26a58d60b19727": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM-6-30-23-revised_MVariety_Layout.pdf",
+    "sha256": "27973ad6b3071e251afc68c3a3410d78db2a1c2d3ccfe2cb1b276bd052b4764f",
+    "bytes": 267702,
+    "ext": "pdf"
+  },
+  "link_fde251dd67c8afc2": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_Permit083118.pdf",
+    "sha256": "280e5f1dc299bd7875234a6fad30e3b728111e3a0a638d0cb51304b1906f579b",
+    "bytes": 603655,
+    "ext": "pdf"
+  },
+  "link_3db2e055088bebd7": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl4x8.pdf",
+    "sha256": "de62f4338fc5a70e6258d473f3949fea30752736781ff6f338b92f80d36c39ba",
+    "bytes": 823254,
+    "ext": "pdf"
+  },
+  "link_ac47fa4e9fc27e0f": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_010518.pdf",
+    "sha256": "3e6dd8c1813427b3bf4a26967771b9dc210d9fab45a015334f4ee2c0a501e724",
+    "bytes": 862300,
+    "ext": "pdf"
+  },
+  "link_d111ed746c491fdd": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_010617.pdf",
+    "sha256": "6aa4048d4f565f084aec28a291e3d515b32a4ecf6cb9930580d98a51fb07ea32",
+    "bytes": 347625,
+    "ext": "pdf"
+  },
+  "link_dea1709ac8fc45e6": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_030218.pdf",
+    "sha256": "3233cec7022d54e3f18acc8e5f99264bbec3530428c24bc8ad7bbbaa0c42c008",
+    "bytes": 334675,
+    "ext": "pdf"
+  },
+  "link_e30c54af527e4ec8": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_031618Rvsd-1.pdf",
+    "sha256": "9902c353d884eaf99e4fe6bbbe2529841fa0f6aa78a8a2a3025807dfbda2fd02",
+    "bytes": 774127,
+    "ext": "pdf"
+  },
+  "link_38f874b2bc6c1300": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_062317.pdf",
+    "sha256": "68c00fbf3deba27f20cfba9a423fdada4b5b19534e87e3466cb96e1a08cdfe7d",
+    "bytes": 333265,
+    "ext": "pdf"
+  },
+  "link_c4fbf28830d7bdf7": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_080417.pdf",
+    "sha256": "0ad0b5d893b6c3d2e7dd5b556f8c0b93b8b0ded68ad3d7ed7bd8943711f62e4a",
+    "bytes": 914894,
+    "ext": "pdf"
+  },
+  "link_55681465a691c35c": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_091517.pdf",
+    "sha256": "7882a72dec76ffbf7349ce10af78be8e6b4182649ef390a1b1442526a6759a0c",
+    "bytes": 333113,
+    "ext": "pdf"
+  },
+  "link_e205895816451b71": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_101317.pdf",
+    "sha256": "5af7c2ffaf74dc86807345a07f1f4c2459925aba65669bef84f7609e2cf3c9ae",
+    "bytes": 336109,
+    "ext": "pdf"
+  },
+  "link_9b8d0ca8890a836e": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_102717.pdf",
+    "sha256": "ab462939b8ca187a289d1394f6172c78b07f4b25c96ca44ea3918d2b1e144341",
+    "bytes": 341049,
+    "ext": "pdf"
+  },
+  "link_7f1c40e0ffaab720": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_110917.pdf",
+    "sha256": "7bfa079bc69b1df7defe002e47d27e2bcc4ff4299422453cf2f242e3301525d8",
+    "bytes": 743686,
+    "ext": "pdf"
+  },
+  "link_10cb9181f6ec5927": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_112217.pdf",
+    "sha256": "91bfd8c2566aefe041235e75b088ff74431a8addda8c67d339fa9ae693a21a0c",
+    "bytes": 337794,
+    "ext": "pdf"
+  },
+  "link_4757a97c29bd5e1b": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_120617Rvsd1.pdf",
+    "sha256": "bc9ff5fe5e1ad8d58797e0be953bd75ecf4e93d0a3bb60ddcfedd1cce40d6d0a",
+    "bytes": 353729,
+    "ext": "pdf"
+  },
+  "link_7083c970215875bd": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_120916.pdf",
+    "sha256": "aea477733f262c68ec6747499e83567e338984fb6f869cddfea1b04096988fdb",
+    "bytes": 334222,
+    "ext": "pdf"
+  },
+  "link_94cd64d3dd5612c4": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/DCRM_PermitAppl_122217.pdf",
+    "sha256": "a054930dd33a42ad5eddbfea3e2c9c0ef45ce315561db47fe7d5f69a0cc7bfc0",
+    "bytes": 352485,
+    "ext": "pdf"
+  },
+  "link_9d1a6ecc769cbb00": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/Layout_SaipanTribune.pdf",
+    "sha256": "c756b53638f5dd82eb904f1f85a8ff679259db8d16b54db606e402f7a12cc125",
+    "bytes": 54145,
+    "ext": "pdf"
+  },
+  "link_c1f2d103d417e89d": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/Saipan-Tribune_Layout-1.pdf",
+    "sha256": "4eba2252a53cb1f2b6d77ca460f284002c6fcd85cbf7428beec493842425bad2",
+    "bytes": 2375494,
+    "ext": "pdf"
+  },
+  "link_e32b86414eead65c": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/dcrm-ad-06-05-20.pdf",
+    "sha256": "aae95cf082dff284047d9d07b43c5c2a92e56394f6d441b886c865524a59946f",
+    "bytes": 137295,
+    "ext": "pdf"
+  },
+  "link_f74d8f3b337cbc7a": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/dcrm-ad-7-31-20.pdf",
+    "sha256": "770d5a53867619c9754e65e6ff5f384a333c2714826cf08d6e74b7fa5a35dd80",
+    "bytes": 136039,
+    "ext": "pdf"
+  },
+  "link_23ad6a44cf6808a8": {
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/dcrm-ad-7-7-20.pdf",
+    "sha256": "4141669fab30a64f922bd98bdf785b47fd9c0b3cc711d80431b321101989307c",
+    "bytes": 140598,
+    "ext": "pdf"
+  }
+}

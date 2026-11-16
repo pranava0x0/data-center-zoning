@@ -1,0 +1,12 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Berkeley County,9,45015,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Spartanburg County,2,45083,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Aiken County,1,45003,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Charleston County,1,45019,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Greenville County,1,45045,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Horry County,1,45051,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Richland County,1,45079,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Columbia city,1,4516000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,Greenville city,1,4530850,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,Myrtle Beach city,1,4549075,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,North Charleston city,1,4550875,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

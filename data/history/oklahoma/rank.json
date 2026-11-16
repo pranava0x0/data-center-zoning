@@ -1,0 +1,99 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2740%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 11,
+  "counties": {
+    "Tulsa County": 8,
+    "Bryan County": 1,
+    "Muskogee County": 1,
+    "Oklahoma County": 1
+  },
+  "places": {
+    "Tulsa city": 7,
+    "Outside incorporated places": 2,
+    "Durant city": 1,
+    "Oklahoma City city": 1
+  },
+  "points": [
+    {
+      "county": "Oklahoma County",
+      "place": "Oklahoma City city",
+      "name": "Rack59 Data Center",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": "TulsaConnect DC3",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": "TulsaConnect",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": "Windstream",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": "TulsaConnect",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": "OCOSA",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": "TierPoint",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Outside incorporated places",
+      "name": "Cherokee Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Bryan County",
+      "place": "Durant city",
+      "name": "Choctaw Nation of Oklahoma Data Center",
+      "operator": "Choctaw Nation of oklahoma",
+      "type": "building"
+    },
+    {
+      "county": "Tulsa County",
+      "place": "Tulsa city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Muskogee County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    }
+  ]
+}

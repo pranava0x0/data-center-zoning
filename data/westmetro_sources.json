@@ -1,0 +1,244 @@
+{
+  "nh_portsmouth_review": {
+    "url": "https://www.portsmouthnh.gov/planportsmouth/land-use-and-zoning-regulations",
+    "sha256": "7ba53d7749aa2ed4c7f00644a1eb0e2f52bf4adffa98130f689d746563b0b5b1",
+    "bytes": 44650,
+    "ext": "html",
+    "path": "cache/westmetro/7ba53d7749aa2ed4c7f00644a1eb0e2f52bf4adffa98130f689d746563b0b5b1.html",
+    "retrieved": "2026-11-16T07:28:34.361468+00:00"
+  },
+  "ca_sc_staff": {
+    "url": "https://santaclara.legistar.com/LegislationDetail.aspx?ID=8260886&GUID=2791DE9D-56B5-49B5-9998-BC1264149D06&FullText=1",
+    "sha256": "f08db428d591e228bf24d89a8044abefc0c1e7b02cd3b78de15b89c11db3411c",
+    "bytes": 230278,
+    "ext": "html",
+    "path": "cache/westmetro/f08db428d591e228bf24d89a8044abefc0c1e7b02cd3b78de15b89c11db3411c.html",
+    "retrieved": "2026-11-16T07:32:16.671316+00:00"
+  },
+  "ca_sc_gen": {
+    "url": "https://santaclara.legistar.com/LegislationDetail.aspx?FullText=1&GUID=25408312-6834-469E-B545-48CCFFBD1814&ID=7404898",
+    "sha256": "b27bb8325d3db9de2dd6d4cc5054d84d977b7a712e74983fe4910f02aaf92f2c",
+    "bytes": 203711,
+    "ext": "html",
+    "path": "cache/westmetro/b27bb8325d3db9de2dd6d4cc5054d84d977b7a712e74983fe4910f02aaf92f2c.html",
+    "retrieved": "2026-11-16T07:32:16.865300+00:00"
+  },
+  "ca_sj_appeal": {
+    "url": "https://sanjose.legistar.com/LegislationDetail.aspx?ID=8279316&GUID=8B6AFBDB-F05D-48C6-B7E5-AAB309025968",
+    "sha256": "047fe8fd4158d96ac82fae9fbf1fb2ffd918469fb5f020a091c0902d7af78038",
+    "bytes": 100079,
+    "ext": "html",
+    "path": "cache/westmetro/047fe8fd4158d96ac82fae9fbf1fb2ffd918469fb5f020a091c0902d7af78038.html",
+    "retrieved": "2026-11-16T07:32:16.764768+00:00"
+  },
+  "ca_sj_nod": {
+    "url": "https://ceqanet.lci.ca.gov/2021020002/6",
+    "sha256": "c73777f7d137aa5100b948f5f9904633b88fa2a74c336f887bff1f05658304c5",
+    "bytes": 34427,
+    "ext": "html",
+    "path": "cache/westmetro/c73777f7d137aa5100b948f5f9904633b88fa2a74c336f887bff1f05658304c5.html",
+    "retrieved": "2026-11-16T07:32:17.398111+00:00"
+  },
+  "ca_sc_nod": {
+    "url": "https://ceqanet.lci.ca.gov/2023030248/2",
+    "sha256": "63e1c5ccd313e4160b642cb6919e75d12e19bde7d8c88d844ec7ab44547d1dbf",
+    "bytes": 35046,
+    "ext": "html",
+    "path": "cache/westmetro/63e1c5ccd313e4160b642cb6919e75d12e19bde7d8c88d844ec7ab44547d1dbf.html",
+    "retrieved": "2026-11-16T07:32:17.486631+00:00"
+  },
+  "ca_sj_holger": {
+    "url": "https://ceqanet.lci.ca.gov/2026070652",
+    "sha256": "c21e361741584e1df649c02f8ea9da2f225f6be6c5c6bfb64c4b17caa1218e1a",
+    "bytes": 26978,
+    "ext": "html",
+    "path": "cache/westmetro/c21e361741584e1df649c02f8ea9da2f225f6be6c5c6bfb64c4b17caa1218e1a.html",
+    "retrieved": "2026-11-16T07:32:17.727357+00:00"
+  },
+  "or_state_reporting": {
+    "url": "https://db.lcd.state.or.us/papa_website_reports/PublicNoticeAdoptedAmendments.aspx",
+    "sha256": "deca7a0d6113c86970b5f126cca77411d68dfeaad132f72e5a7bc2d1be2be5d4",
+    "bytes": 84269,
+    "ext": "html",
+    "path": "cache/westmetro/deca7a0d6113c86970b5f126cca77411d68dfeaad132f72e5a7bc2d1be2be5d4.html",
+    "retrieved": "2026-11-16T07:32:18.920172+00:00"
+  },
+  "or_hillsboro_historic": {
+    "url": "https://www.oregon.gov/energy/get-involved/Documents/2026-04-24-3-Dan-Dias-City-of-Hillsboro-OR-DCAC-Land-Use-Presentation.pdf",
+    "sha256": "40a456fe3786462df596f34d99af1dc48e40971dfa60dc513dc921f79e9048e7",
+    "bytes": 1433426,
+    "ext": "pdf",
+    "path": "cache/westmetro/40a456fe3786462df596f34d99af1dc48e40971dfa60dc513dc921f79e9048e7.pdf",
+    "retrieved": "2026-11-16T07:32:17.306228+00:00"
+  },
+  "or_boardman_agenda": {
+    "url": "https://meetings.municode.com/adaHtmlDocument/index?cc=BOARDMANOR&ip=True&me=ef21ab3c77a344fbb5bddb4b57a9a1f7",
+    "sha256": "e306a7e2cff3c89e587beadc710cc9174fcc45ccf9b05bd906ce5d6c72b8779c",
+    "bytes": 19390,
+    "ext": "html",
+    "path": "cache/westmetro/e306a7e2cff3c89e587beadc710cc9174fcc45ccf9b05bd906ce5d6c72b8779c.html",
+    "retrieved": "2026-11-16T07:32:17.367369+00:00"
+  },
+  "or_hermiston_state": {
+    "url": "https://www.oregon.gov/lcd/Commission/Documents/2026-02Item%209_Exhibit_1.pdf",
+    "sha256": "4966fc841266fbc3ac42a3ac8fd8678104becdf5bfe53653ca988a3d6206a873",
+    "bytes": 308055,
+    "ext": "pdf",
+    "path": "cache/westmetro/4966fc841266fbc3ac42a3ac8fd8678104becdf5bfe53653ca988a3d6206a873.pdf",
+    "retrieved": "2026-11-16T07:32:17.753063+00:00"
+  },
+  "or_state_morrow": {
+    "url": "https://www.oregon.gov/lcd/Commission/Documents/2023-11_Item_4_Combined.pdf",
+    "sha256": "8ce05e30d5d01018969e1c01a21d60cc60d34eea524a55bfd75f75567fb49f75",
+    "bytes": 6828999,
+    "ext": "pdf",
+    "path": "cache/westmetro/8ce05e30d5d01018969e1c01a21d60cc60d34eea524a55bfd75f75567fb49f75.pdf",
+    "retrieved": "2026-11-16T07:32:22.057624+00:00"
+  },
+  "nh_durham_codeindex": {
+    "url": "https://www.durhamnh.gov/686/Zoning-Ordinance",
+    "sha256": "9a75b9e7cb240fcd7137c6d4dfc18aed57736519aa4c9f15bf6257db7ae8a13f",
+    "bytes": 114920,
+    "ext": "html",
+    "path": "cache/westmetro/9a75b9e7cb240fcd7137c6d4dfc18aed57736519aa4c9f15bf6257db7ae8a13f.html",
+    "retrieved": "2026-11-16T07:37:25.167569+00:00"
+  },
+  "nh_portsmouth_code": {
+    "url": "https://files.portsmouthnh.gov/files/planning/ZoningOrd.pdf",
+    "sha256": "c6df8e3ef3b6888150e7f3f82c2157bcdc94eb184dc3d0155fac8fe6941ce89f",
+    "bytes": 7636816,
+    "ext": "pdf",
+    "path": "cache/westmetro/c6df8e3ef3b6888150e7f3f82c2157bcdc94eb184dc3d0155fac8fe6941ce89f.pdf",
+    "retrieved": "2026-11-16T07:37:25.089258+00:00"
+  },
+  "nh_portsmouth_siteplan": {
+    "url": "https://files.portsmouthnh.gov/files/planning/SitePlanReviewRegs.pdf",
+    "sha256": "1f9567d5a71d11fcf6138323a52fd02c7ef2ab556b6b43ea437490b1f982565d",
+    "bytes": 803753,
+    "ext": "pdf",
+    "path": "cache/westmetro/1f9567d5a71d11fcf6138323a52fd02c7ef2ab556b6b43ea437490b1f982565d.pdf",
+    "retrieved": "2026-11-16T07:37:24.586044+00:00"
+  },
+  "or_morrow_court": {
+    "url": "https://www.oregon.gov/luba/Docs/Opinions/2024/01-24/23074.pdf",
+    "sha256": "9bf5bc7894b8bce16b8307e2e3962be20b834ec2d3dda92581849ca9ea088eb5",
+    "bytes": 217316,
+    "ext": "pdf",
+    "path": "cache/westmetro/9bf5bc7894b8bce16b8307e2e3962be20b834ec2d3dda92581849ca9ea088eb5.pdf",
+    "retrieved": "2026-11-16T07:37:24.723959+00:00"
+  },
+  "or_morrow_public": {
+    "url": "https://www.morrowcountyor.gov/sites/default/files/fileattachments/planning/page/16600/ordinance_ord-2023-6_and_final_findings_with_attachment_-_signed.pdf",
+    "sha256": "efdf2eedc94ea7da16077ee5070f595ad18616e2371c97470ea6d0b049622f42",
+    "bytes": 20959645,
+    "ext": "pdf",
+    "path": "cache/westmetro/efdf2eedc94ea7da16077ee5070f595ad18616e2371c97470ea6d0b049622f42.pdf",
+    "retrieved": "2026-11-16T07:37:25.729024+00:00"
+  },
+  "or_morrow_index": {
+    "url": "https://www.morrowcountyor.gov/planning/page/2020-current",
+    "sha256": "4571b1e087f51de0019451493f28f96eb81fe1040f7f864898fe845cefe0706c",
+    "bytes": 67000,
+    "ext": "html",
+    "path": "cache/westmetro/4571b1e087f51de0019451493f28f96eb81fe1040f7f864898fe845cefe0706c.html",
+    "retrieved": "2026-11-16T07:37:39.400917+00:00"
+  },
+  "ca_sc_walsh": {
+    "url": "https://files.ceqanet.lci.ca.gov/249865-4/attachment/FL8y_k0VIfPhCjjKdh4TiF_mbXE52HbyrJkA-tbh0vtWLEvD427XJxmTU_f7mpDT-d7rkDVBsjtIP1G00",
+    "sha256": "6747cabf8716f9e966b91d3bdf8bc805f022f1262c65dab56e72d8598623140f",
+    "bytes": 4231303,
+    "ext": "pdf",
+    "path": "cache/westmetro/6747cabf8716f9e966b91d3bdf8bc805f022f1262c65dab56e72d8598623140f.pdf",
+    "retrieved": "2026-11-16T07:37:26.683940+00:00"
+  },
+  "ca_sj_zen": {
+    "url": "https://sanjose.legistar.com/View.ashx?GUID=45405DAD-B2C3-48A7-9925-7BD4A88945E4&ID=5502798&M=F",
+    "sha256": "f47786e45cc64abcbda7b49ab290c7fd05349e4f4d2cd82700f99e47a99e97a3",
+    "bytes": 805071,
+    "ext": "pdf",
+    "path": "cache/westmetro/f47786e45cc64abcbda7b49ab290c7fd05349e4f4d2cd82700f99e47a99e97a3.pdf",
+    "retrieved": "2026-11-16T07:40:48.925733+00:00"
+  },
+  "ca_sj_current": {
+    "url": "https://sanjose.legistar.com/View.ashx?M=F&ID=16056352&GUID=FBC5B377-0586-4942-ADF2-E1751F5B1119",
+    "sha256": "6820886c627578b333626e76cf66d85b0f3a6bef8c242899ae28e9f361b24eba",
+    "bytes": 298176,
+    "ext": "pdf",
+    "path": "cache/westmetro/6820886c627578b333626e76cf66d85b0f3a6bef8c242899ae28e9f361b24eba.pdf",
+    "retrieved": "2026-11-16T07:40:48.749266+00:00"
+  },
+  "ca_sj_attachment": {
+    "url": "https://sanjose.legistar.com/View.ashx?M=F&ID=16056383&GUID=BF0EDB0E-476A-4856-AA8E-F3CF50BE805F",
+    "sha256": "f366f3d482e2e93fa0c8e8052d43acd4ce9b135b8ea19dc88b41489873a837e8",
+    "bytes": 2969617,
+    "ext": "pdf",
+    "path": "cache/westmetro/f366f3d482e2e93fa0c8e8052d43acd4ce9b135b8ea19dc88b41489873a837e8.pdf",
+    "retrieved": "2026-11-16T07:40:49.305001+00:00"
+  },
+  "nh_durham_table": {
+    "url": "https://www.durhamnh.gov/DocumentCenter/View/20818/Section-175-53-Table-of-Uses",
+    "sha256": "2e0a44c1918538325620f6a54f522d82d92f2f7b213a3a0b07a20a4dabb699aa",
+    "bytes": 793114,
+    "ext": "pdf",
+    "path": "cache/westmetro/2e0a44c1918538325620f6a54f522d82d92f2f7b213a3a0b07a20a4dabb699aa.pdf",
+    "retrieved": "2026-11-16T07:40:48.750061+00:00"
+  },
+  "or_morrow_2025": {
+    "url": "https://www.morrowcountyor.gov/sites/default/files/fileattachments/planning/page/16600/signed_ord-2025-02_w_attachments.pdf",
+    "sha256": "322d13d86a9697166e86b5f57fbbe9d329a92f9af0c603d19ad6af6e19c31beb",
+    "bytes": 4942253,
+    "ext": "pdf",
+    "path": "cache/westmetro/322d13d86a9697166e86b5f57fbbe9d329a92f9af0c603d19ad6af6e19c31beb.pdf",
+    "retrieved": "2026-11-16T07:41:58.734174+00:00"
+  },
+  "or_hillsboro_engage": {
+    "url": "https://engage.hillsboro-oregon.gov/data-centers",
+    "sha256": "3227253439e8d29d5db7a13b1d35ab4a1afccc0a5a189cefb6955dbfb57efa35",
+    "bytes": 42152,
+    "ext": "html",
+    "path": "cache/westmetro/3227253439e8d29d5db7a13b1d35ab4a1afccc0a5a189cefb6955dbfb57efa35.html",
+    "retrieved": "2026-11-16T07:41:59.590343+00:00"
+  },
+  "or_open_hillsboro": {
+    "url": "https://www.portland.gov/ppd/portlandmaps-help-guides/portlandmaps-general-search",
+    "sha256": "09d765a914ea77570d3f5e4aba3c2a3d0863eb8e7cd04c7b168da1a09a6a1109",
+    "bytes": 75079,
+    "ext": "html",
+    "path": "cache/westmetro/09d765a914ea77570d3f5e4aba3c2a3d0863eb8e7cd04c7b168da1a09a6a1109.html",
+    "retrieved": "2026-11-16T07:42:00.010264+00:00"
+  },
+  "nh_nottingham": {
+    "url": "https://www.nottingham-nh.gov/sites/g/files/vyhlif3611/f/pages/2026_nottingham_special_town_election_results.pdf",
+    "sha256": "f1c1bed1630997e84ed738982ea71364a32d72c205815e1d0605cc87f948209c",
+    "bytes": 531939,
+    "ext": "pdf",
+    "path": "cache/westmetro/f1c1bed1630997e84ed738982ea71364a32d72c205815e1d0605cc87f948209c.pdf",
+    "retrieved": "2026-11-16T07:42:43.053202+00:00",
+    "ocr_path": "cache/westmetro/f1c1bed1630997e84ed738982ea71364a32d72c205815e1d0605cc87f948209c.ocr.json",
+    "ocr_sha256": "d0efe3b92c10f64cf247b8b5d44f2d1b1a0a5c1810268addfccc497367be8f02"
+  },
+  "ca_hay_minutes": {
+    "url": "https://hayward.legistar.com/View.ashx?GUID=6A816E4B-3966-4A72-AB46-DD485402E725&ID=1306703&M=M",
+    "sha256": "d3d25bd7a2724177c9c2c4868973c1f6ed0eccc1857501f685f4b1d5580fbbf6",
+    "bytes": 99713,
+    "ext": "pdf",
+    "path": "cache/westmetro/d3d25bd7a2724177c9c2c4868973c1f6ed0eccc1857501f685f4b1d5580fbbf6.pdf",
+    "retrieved": "2026-11-16T07:44:21.535968+00:00"
+  },
+  "ca_hay_staff": {
+    "url": "https://hayward.legistar.com/LegislationDetail.aspx?From=RSS&FullText=1&GUID=4C37C260-C950-440F-B68C-826967AFB56C&ID=7400268",
+    "sha256": "7e0c7fa5cdbb5c256f5a5255ebce245a5e083e6a13a44b6d511f201bca49dc4a",
+    "bytes": 141164,
+    "ext": "html",
+    "path": "cache/westmetro/7e0c7fa5cdbb5c256f5a5255ebce245a5e083e6a13a44b6d511f201bca49dc4a.html",
+    "retrieved": "2026-11-16T07:44:21.334362+00:00"
+  },
+  "ca_sac_nod": {
+    "url": "https://ceqanet.lci.ca.gov/1996122010/10",
+    "sha256": "179c89ddacf0b0bcb1095d4d52b8e79e72bb803a8ccbc260c09e1f9c7f82cc64",
+    "bytes": 32224,
+    "ext": "html",
+    "path": "cache/westmetro/179c89ddacf0b0bcb1095d4d52b8e79e72bb803a8ccbc260c09e1f9c7f82cc64.html",
+    "retrieved": "2026-11-16T07:44:21.879548+00:00"
+  }
+}

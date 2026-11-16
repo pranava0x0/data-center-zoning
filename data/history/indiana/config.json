@@ -1,0 +1,112 @@
+{
+  "cutoff": "2026-11-15",
+  "places": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11",
+  "atlas": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "address_screens": [
+    {
+      "area": "DartPoints site number",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 3,
+      "city": "COLUMBUS",
+      "street_no": 2425
+    },
+    {
+      "area": "IU site number",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 53,
+      "city": "BLOOMINGTON",
+      "street_no": 2737
+    },
+    {
+      "area": "DX Hammond site number",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 45,
+      "city": "HAMMOND",
+      "street_no": 100
+    },
+    {
+      "area": "IU newer address",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 53,
+      "city": "BLOOMINGTON",
+      "street_no": 2702
+    },
+    {
+      "area": "Purdue MATH site number",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    {
+      "area": "Fort Wayne Hatchworks site number",
+      "county": 2,
+      "city": "FORT WAYNE",
+      "street_no": 7510,
+      "start": "2020-01-01",
+      "end": "2026-11-15"
+    },
+    {
+      "area": "Granger Microsoft site number",
+      "county": 71,
+      "city": "GRANGER",
+      "street_no": 12501,
+      "start": "2020-01-01",
+      "end": "2026-11-15"
+    },
+    {
+      "area": "La Porte Microsoft site number",
+      "county": 46,
+      "city": "LA PORTE",
+      "street_no": 360,
+      "start": "2020-01-01",
+      "end": "2026-11-15"
+    },
+    {
+      "area": "Hobart AWS site number",
+      "county": 45,
+      "city": "HOBART",
+      "street_no": 4751,
+      "start": "2020-01-01",
+      "end": "2026-11-15"
+    },
+    {
+      "area": "Wheatfield AWS north site number",
+      "county": 37,
+      "city": "WHEATFIELD",
+      "street_no": 2938,
+      "start": "2020-01-01",
+      "end": "2026-11-15"
+    },
+    {
+      "area": "Wheatfield AWS south site number",
+      "county": 37,
+      "city": "WHEATFIELD",
+      "street_no": 2778,
+      "start": "2020-01-01",
+      "end": "2026-11-15"
+    },
+    {
+      "area": "Purdue MATH 2025",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2025-01-01",
+      "end": "2025-12-31"
+    },
+    {
+      "area": "Purdue MATH 2026",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2026-01-01",
+      "end": "2026-11-15"
+    }
+  ],
+  "start_file_date": "2024-01-01"
+}

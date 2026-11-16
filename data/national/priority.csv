@@ -1,0 +1,57 @@
+state,name,geoid,count_rank,listed_count,operating,under_construction,planned,county_equivalents,places,townships_or_subdivisions,source
+VA,Virginia,51,1,591,298,81,212,133,227,0,https://dcmap.us/states/
+TX,Texas,48,2,561,314,73,174,254,1224,0,https://dcmap.us/states/
+CA,California,06,3,343,289,6,48,58,483,0,https://dcmap.us/states/
+OH,Ohio,39,4,238,154,27,57,88,924,1313,https://dcmap.us/states/
+GA,Georgia,13,5,232,112,22,98,159,536,0,https://dcmap.us/states/
+AZ,Arizona,04,6,176,107,16,53,15,91,0,https://dcmap.us/states/
+NY,New York,36,7,168,142,2,24,62,594,933,https://dcmap.us/states/
+IL,Illinois,17,8,164,125,15,24,102,1294,1426,https://dcmap.us/states/
+FL,Florida,12,9,141,114,3,24,67,411,0,https://dcmap.us/states/
+PA,Pennsylvania,42,10,132,79,7,46,67,1014,1544,https://dcmap.us/states/
+WA,Washington,53,11,117,94,7,16,39,281,0,https://dcmap.us/states/
+IN,Indiana,18,12,106,55,12,39,92,565,1004,https://dcmap.us/states/
+NJ,New Jersey,34,13,103,90,3,10,21,323,241,https://dcmap.us/states/
+OR,Oregon,41,14,101,73,4,24,36,240,0,https://dcmap.us/states/
+NC,North Carolina,37,15,99,72,8,19,100,549,0,https://dcmap.us/states/
+MN,Minnesota,27,16,89,49,6,34,87,856,1775,https://dcmap.us/states/
+MO,Missouri,29,17,88,51,9,28,115,936,283,https://dcmap.us/states/
+CO,Colorado,08,18,87,74,4,9,64,272,0,https://dcmap.us/states/
+MI,Michigan,26,19,75,60,1,14,83,533,1240,https://dcmap.us/states/
+TN,Tennessee,47,20,74,63,4,7,95,344,0,https://dcmap.us/states/
+NV,Nevada,32,21,73,46,10,17,17,19,0,https://dcmap.us/states/
+UT,Utah,49,22,69,45,7,17,29,255,0,https://dcmap.us/states/
+IA,Iowa,19,23,67,40,6,21,99,939,0,https://dcmap.us/states/
+MD,Maryland,24,24,62,37,7,18,24,157,0,https://dcmap.us/states/
+OK,Oklahoma,40,25,60,34,6,20,77,591,0,https://dcmap.us/states/
+MA,Massachusetts,25,26,56,56,0,0,14,58,293,https://dcmap.us/states/
+WI,Wisconsin,55,27,54,43,3,8,72,608,1242,https://dcmap.us/states/
+NE,Nebraska,31,28,50,40,2,8,93,528,320,https://dcmap.us/states/
+KY,Kentucky,21,29,45,30,2,13,120,417,0,https://dcmap.us/states/
+WY,Wyoming,56,30,39,26,7,6,23,99,0,https://dcmap.us/states/
+ND,North Dakota,38,31,37,15,6,16,53,355,1305,https://dcmap.us/states/
+KS,Kansas,20,32,36,21,3,12,105,623,1258,https://dcmap.us/states/
+MS,Mississippi,28,32,36,17,3,16,82,299,0,https://dcmap.us/states/
+SC,South Carolina,45,34,32,19,7,6,46,271,0,https://dcmap.us/states/
+AL,Alabama,01,35,31,18,5,8,67,463,0,https://dcmap.us/states/
+CT,Connecticut,09,35,31,26,0,5,9,29,169,https://dcmap.us/states/
+LA,Louisiana,22,37,28,19,4,5,64,304,0,https://dcmap.us/states/
+NM,New Mexico,35,37,28,20,1,7,33,105,0,https://dcmap.us/states/
+WV,West Virginia,54,39,27,16,2,9,55,230,0,https://dcmap.us/states/
+NH,New Hampshire,33,40,24,24,0,0,10,13,221,https://dcmap.us/states/
+HI,Hawaii,15,41,23,17,4,2,5,0,0,https://dcmap.us/states/
+AR,Arkansas,05,42,22,16,3,3,75,501,0,https://dcmap.us/states/
+ID,Idaho,16,42,22,16,1,5,44,198,0,https://dcmap.us/states/
+AK,Alaska,02,44,20,16,0,4,30,149,0,https://dcmap.us/states/
+MT,Montana,30,45,19,16,1,2,56,126,0,https://dcmap.us/states/
+SD,South Dakota,46,46,17,8,0,9,66,310,899,https://dcmap.us/states/
+DE,Delaware,10,47,16,16,0,0,3,57,0,https://dcmap.us/states/
+ME,Maine,23,48,15,13,0,2,16,23,459,https://dcmap.us/states/
+RI,Rhode Island,44,49,14,14,0,0,5,8,31,https://dcmap.us/states/
+DC,District of Columbia,11,50,13,13,0,0,1,0,0,https://dcmap.us/states/
+PR,Puerto Rico,72,51,11,11,0,0,78,0,0,https://dcmap.us/states/
+VT,Vermont,50,52,9,9,0,0,14,39,237,https://dcmap.us/states/
+AS,American Samoa,60,,,,,,5,77,16,Not listed in directory
+GU,Guam,66,,,,,,1,0,20,Not listed in directory
+MP,Commonwealth of the Northern Mariana Islands,69,,,,,,4,135,12,Not listed in directory
+VI,United States Virgin Islands,78,,,,,,3,3,23,Not listed in directory

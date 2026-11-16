@@ -1,0 +1,34 @@
+key	region	role	url
+national	all	issuer directory	https://www.epa.gov/caa-permitting/caa-permitting-your-region
+titlev	all	issuer directory	https://www.epa.gov/title-v-operating-permits/epa-issued-operating-permits
+tribal	all	tribal jurisdiction guide	https://www.epa.gov/tribal-air/tribal-and-permitting-programs-epas-regional-offices
+psd-authority	all	delegation guide	https://www.epa.gov/caa-permitting/psd-air-permit-program-approval-and-delegation
+guidance	all	data center permitting guidance	https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-resources-data-centers
+r1	1	federal action register	https://www.epa.gov/caa-permitting/epa-issued-caa-permits-region-1
+r1public	1	public notice	https://www.epa.gov/caa-permitting/caa-public-comment-opportunities-region-1
+r2	2	federal action register	https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-2
+r2pr	2	territorial issuer guide	https://www.epa.gov/caa-permitting/clean-air-permitting-puerto-rico
+r2vi	2	territorial issuer guide	https://www.epa.gov/caa-permitting/clean-air-permitting-us-virgin-islands
+r3	3	federal action register	https://www.epa.gov/caa-permitting/clean-air-act-permits-issued-epa-region-3
+r4tribal	4	federal action register	https://www.epa.gov/caa-permitting/tribal-permits-southeastern-us
+r4psd	4	PSD authority / public notice route	https://www.epa.gov/caa-permitting/psd-permit-activity-region-4
+r4ghg	4	federal action register	https://www.epa.gov/caa-permitting/greenhouse-gas-ghg-permitting-florida-issued-epa-region-4
+r5	5	federal action register	https://www.epa.gov/caa-permitting/air-permits-issued-region-5-sources-tribal-lands
+r6	6	federal action register	https://www.epa.gov/caa-permitting/tribal-nsr-permits-epas-south-central-region
+r7	7	federal action register	https://www.epa.gov/caa-permitting/status-tribal-air-permits-region-7
+r8	8	federal action register	https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-8
+r8public	8	public notice	https://www.epa.gov/caa-permitting/caa-permit-public-comment-opportunities-region-8
+r9	9	federal action register	https://www.epa.gov/caa-permitting/r9-caa-permit-actions
+r9psd	9	territorial issuer guide	https://www.epa.gov/caa-permitting/r9-psd-permits
+r9t5	9	territorial issuer guide	https://www.epa.gov/caa-permitting/about-title-v-permitting-region-9
+r10	10	federal action register	https://www.epa.gov/caa-permitting/air-permits-issued-epa-region-10
+minor	all	regulatory text	https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol1/pdf/CFR-2025-title40-vol1-sec49-153.pdf
+psd	all	regulatory text	https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol3/pdf/CFR-2025-title40-vol3-sec52-21.pdf
+engine	all	regulatory text	https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol8/pdf/CFR-2025-title40-vol8-sec60-4211.pdf
+part71	all	regulatory text	https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol17/pdf/CFR-2025-title40-vol17-sec71-3.pdf
+r8pending	8	federal action register	https://www.epa.gov/caa-permitting/caa-permit-actions-pending-epa-region-8
+crosby-original	8	federal case action	https://www.epa.gov/caa-permitting/minor-nsr-permit-crusoe-energy-systems-inc-crosby-chase-ctb
+crosby-revision	8	federal case action	https://www.epa.gov/caa-permitting/synthetic-minor-nsr-permit-crusoe-energy-systems-inc-crosby-chase-ctb
+eagle	8	federal case action	https://www.epa.gov/caa-permitting/true-minor-nsr-permit-crusoe-energy-systems-inc-charging-eagle-21-25-pad
+eagle-model	8	EPA-hosted facility use evidence	https://www.epa.gov/system/files/documents/2022-05/CrusoeChargingEagle%20AQIA%20final%202022-04-29.pdf
+crosby-context	8	EPA-authored facility use evidence; held by public docket	https://downloads.regulations.gov/EPA-R08-OAR-2021-0039-0014/content.pdf

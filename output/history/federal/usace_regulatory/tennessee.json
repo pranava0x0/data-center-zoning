@@ -1,0 +1,38 @@
+[
+  {
+    "id": "federal-corps-bb5eaefe9f18cc7519ff0939",
+    "state": "TN",
+    "jurisdiction": "US Army Corps of Engineers — Nashville",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "LRN-2026-00162",
+    "project": "Hixson Data Center - Industrial Drive",
+    "kind": "Approved jurisdictional determination",
+    "status": "Approved jurisdictional determination",
+    "date": "2026-04-02",
+    "date_role": "jurisdictional determination date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRN-2026-00162%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRN-2026-00162%22&max=200&start=0&sa=true",
+    "locator": "Army file LRN-2026-00162; ORM jds action; 2026-04-02",
+    "details": {
+      "source_sha256": "64421b6b5afface6f14e5f8f1f057db9b7098c69ca341121388bef83a2c58384",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "LRN-2026-00162",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "LRN-2026-00162",
+      "da_number": "LRN-2026-00162",
+      "district_code": "LRN",
+      "orm_view": "jds",
+      "census_county": "Warren County",
+      "census_county_geoid": "47177",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-85.7544%2C35.69789&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "c987e3ae4a6d0580006b68890665c4faf6354116ea3a6fb9b8b5a46499f2d571",
+      "longitude": -85.7544,
+      "latitude": 35.69789,
+      "document_url": "https://publibrary.sec.usace.army.mil/api/download?id=3e6dae68-2818-4fd9-8663-ca812e97e0e4&filename=LRN-2026-00162_20260402_AJD-POST.pdf&token=&preview=true",
+      "document_sha256": "b94524f28c771512a12383c182ef8509fc96d01fea6ef96f5df8a32f41f14971"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "rows": 11,
+  "by_dataset": {
+    "Laramie County commissioners and planning commission": 5,
+    "Laramie County SmartGov planning permits": 4,
+    "City of Cheyenne public planning cases": 2
+  },
+  "undated": 0,
+  "source_failures": {
+    "tembo": "HTTP Error 403: Forbidden",
+    "cheyenne": "HTTP Error 403: Forbidden",
+    "cheyplan": "robots.txt disallows https://cheyenne.granicus.com/MetaViewer.php?event_id=1419&meta_id=148406&view_id=5"
+  }
+}

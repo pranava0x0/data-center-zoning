@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ma-lowell-nonconform",
+    "state": "MA",
+    "geoid": "2537000",
+    "level": "city",
+    "jurisdiction": "Lowell",
+    "topic": "zoning district",
+    "scope": "data center specific",
+    "summary": "Lowell identifies its existing data-center property as Light Industrial. Its planning department states that a lawfully pre-existing nonconforming use may continue until a change of use or abandonment for two years. This site guidance does not grant new data centers district-wide permission, and the city describes its permanent zoning rewrite as pending.",
+    "status": "guidance",
+    "url": "https://lowellma.gov/2237/Data-Centers",
+    "locator": "Data Centers, Q&A re existing Markley use, MGL Ch 40A \u00a76; district of existing facility",
+    "authority": "City of Lowell Department of Planning and Development",
+    "evidence": "Light Industrial (LI) zoning district",
+    "effective_date": null
+  }
+]

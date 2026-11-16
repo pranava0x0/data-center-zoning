@@ -1,0 +1,182 @@
+[
+  {
+    "id": "mt-bonner-r1",
+    "dataset": "Missoula County Bonner project review",
+    "jurisdiction": "Missoula County",
+    "record_no": "Bonner special exception (revision 1)",
+    "project": "Krambu — former Bonner mill",
+    "kind": "Special exception application",
+    "status": "Deemed incomplete",
+    "date": "2026-03-25",
+    "date_role": "application date",
+    "locator": "Project review timeline / withdrawal update",
+    "state": "MT",
+    "url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "source_url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "details": {
+      "source_sha256": "5a2ba08296c862defcaea72fb770911118b70d8e64174e9d1c283090f89c5e82",
+      "evidence": "First Special Exception Application - deemed incomplete",
+      "county": "Missoula County"
+    }
+  },
+  {
+    "id": "mt-bonner-r2",
+    "dataset": "Missoula County Bonner project review",
+    "jurisdiction": "Missoula County",
+    "record_no": "Bonner special exception (revision 2)",
+    "project": "Krambu — former Bonner mill",
+    "kind": "Special exception application",
+    "status": "Deemed incomplete",
+    "date": "2026-04-28",
+    "date_role": "application date",
+    "locator": "Project review timeline / withdrawal update",
+    "state": "MT",
+    "url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "source_url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "details": {
+      "source_sha256": "5a2ba08296c862defcaea72fb770911118b70d8e64174e9d1c283090f89c5e82",
+      "evidence": "Second Special Exception Application - deemed incomplete",
+      "county": "Missoula County"
+    }
+  },
+  {
+    "id": "mt-bonner-r3",
+    "dataset": "Missoula County Bonner project review",
+    "jurisdiction": "Missoula County",
+    "record_no": "Bonner special exception (revision 3)",
+    "project": "Krambu — former Bonner mill",
+    "kind": "Special exception application",
+    "status": "Deemed incomplete",
+    "date": "2026-05-11",
+    "date_role": "application date",
+    "locator": "Project review timeline / withdrawal update",
+    "state": "MT",
+    "url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "source_url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "details": {
+      "source_sha256": "5a2ba08296c862defcaea72fb770911118b70d8e64174e9d1c283090f89c5e82",
+      "evidence": "Third Special Exception Application - deemed incomplete",
+      "county": "Missoula County"
+    }
+  },
+  {
+    "id": "mt-bonner-r5",
+    "dataset": "Missoula County Bonner project review",
+    "jurisdiction": "Missoula County",
+    "record_no": "Bonner special exception (revision 5)",
+    "project": "Krambu — former Bonner mill",
+    "kind": "Special exception application",
+    "status": "Deemed incomplete",
+    "date": "2026-06-01",
+    "date_role": "application date",
+    "locator": "Project review timeline / withdrawal update",
+    "state": "MT",
+    "url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "source_url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "details": {
+      "source_sha256": "5a2ba08296c862defcaea72fb770911118b70d8e64174e9d1c283090f89c5e82",
+      "evidence": "Fifth Special Exception Application - deemed incomplete",
+      "county": "Missoula County"
+    }
+  },
+  {
+    "id": "mt-bonner-withdrawal",
+    "dataset": "Missoula County Bonner project review",
+    "jurisdiction": "Missoula County",
+    "record_no": "Bonner special exception",
+    "project": "Krambu — former Bonner mill",
+    "kind": "Special exception review",
+    "status": "Landowner withdrew signature",
+    "date": null,
+    "date_role": "date unavailable",
+    "locator": "Project review timeline / withdrawal update",
+    "state": "MT",
+    "url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "source_url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "details": {
+      "source_sha256": "5a2ba08296c862defcaea72fb770911118b70d8e64174e9d1c283090f89c5e82",
+      "evidence": "withdraw my signature from the Krambu special exception application",
+      "county": "Missoula County"
+    }
+  },
+  {
+    "id": "mt-road-staff",
+    "dataset": "Yellowstone County commission project agenda",
+    "jurisdiction": "Yellowstone County",
+    "record_no": "Heiken Road and Buffalo Trail Road agreement",
+    "project": "Big Sky Digital Infrastructure — construction roads and well drilling",
+    "kind": "Road use and maintenance agreement",
+    "status": "Staff recommended approval",
+    "date": "2026-10-27",
+    "date_role": "commission agenda date",
+    "locator": "PDF page 9",
+    "state": "MT",
+    "url": "https://www.yellowstonecountymt.gov/BOCCDocs/2026/BOCCREG/20261027_1625/AGENDApacket__10-27-26_0219_1625.pdf#page=9",
+    "source_url": "https://www.yellowstonecountymt.gov/BOCCDocs/2026/BOCCREG/20261027_1625/AGENDApacket__10-27-26_0219_1625.pdf",
+    "details": {
+      "source_sha256": "891e6f1621ed3d10ac483e21a8ca8bd2d084d15d465f05333379b15e05fe6796",
+      "evidence": "RECOMMENDED ACTION: Approve.",
+      "county": "Yellowstone County"
+    }
+  },
+  {
+    "id": "mt-well-comment",
+    "dataset": "Montana DEQ public water supply review",
+    "jurisdiction": "Montana",
+    "record_no": "Quantica Big Sky Campus public well",
+    "project": "Quantica Big Sky Campus near Broadview",
+    "kind": "Public water supply / groundwater protection",
+    "status": "Public comment requested",
+    "date": "2026-09-29",
+    "date_role": "notice date",
+    "locator": "DEQ notice, September 29",
+    "state": "MT",
+    "url": "https://deq.mt.gov/News/pressrelease-folder/Big-Sky-Campus-well-09-29-2026",
+    "source_url": "https://deq.mt.gov/News/pressrelease-folder/Big-Sky-Campus-well-09-29-2026",
+    "details": {
+      "source_sha256": "6b670b64b60e3212df446a42ce2ff0be3742df04da1c009bb1b535192333f351",
+      "evidence": "requesting public comment for a proposed well",
+      "county": "Yellowstone County"
+    }
+  },
+  {
+    "id": "mt-well-request",
+    "dataset": "Montana Sage Grouse Habitat Conservation Program consultations",
+    "jurisdiction": "Montana",
+    "record_no": "7514",
+    "project": "BSDI Water Well — Quantica Big Sky Campus",
+    "kind": "Sage grouse habitat consultation",
+    "status": "Received",
+    "date": "2026-08-13",
+    "date_role": "request received",
+    "locator": "PDF page 1",
+    "state": "MT",
+    "url": "https://deq.mt.gov/files/Water/WQInfo/Documents/Subdivisions/Quantica%20Big%20Sky%20Campus/7514%20Signed%20Letter%2020260902.pdf#page=1",
+    "source_url": "https://deq.mt.gov/files/Water/WQInfo/Documents/Subdivisions/Quantica%20Big%20Sky%20Campus/7514%20Signed%20Letter%2020260902.pdf",
+    "details": {
+      "source_sha256": "71f7d0796bdc7ee45863d8da44073ac7364eb303519e937931a301752345bf61",
+      "evidence": "request for consultation and review of your project or proposed activity on August 13, 2026",
+      "county": "Yellowstone County"
+    }
+  },
+  {
+    "id": "mt-well-review",
+    "dataset": "Montana Sage Grouse Habitat Conservation Program consultations",
+    "jurisdiction": "Montana",
+    "record_no": "7514",
+    "project": "BSDI Water Well — Quantica Big Sky Campus",
+    "kind": "Sage grouse habitat consultation",
+    "status": "Review completed",
+    "date": "2026-09-02",
+    "date_role": "signed consultation date",
+    "locator": "PDF page 1",
+    "state": "MT",
+    "url": "https://deq.mt.gov/files/Water/WQInfo/Documents/Subdivisions/Quantica%20Big%20Sky%20Campus/7514%20Signed%20Letter%2020260902.pdf#page=1",
+    "source_url": "https://deq.mt.gov/files/Water/WQInfo/Documents/Subdivisions/Quantica%20Big%20Sky%20Campus/7514%20Signed%20Letter%2020260902.pdf",
+    "details": {
+      "source_sha256": "71f7d0796bdc7ee45863d8da44073ac7364eb303519e937931a301752345bf61",
+      "evidence": "The Program has completed its review",
+      "county": "Yellowstone County"
+    }
+  }
+]

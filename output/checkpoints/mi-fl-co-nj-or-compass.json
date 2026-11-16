@@ -1,0 +1,2725 @@
+{
+  "check": "pass",
+  "upstream_releases": 5,
+  "upstream_feature_rows": 34466,
+  "states": {
+    "AK": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 423,
+      "government_roster": 237,
+      "local_search": {
+        "No mention on pages read": 25,
+        "Could not read": 34,
+        "No listed website": 106
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "AL": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1052,
+      "government_roster": 1206,
+      "local_search": {
+        "No mention on pages read": 96,
+        "No listed website": 401,
+        "Could not read": 82,
+        "Possible mention": 1,
+        "Not visited": 128
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 12,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 12
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 3,
+        "Modification, reissue, transfer or termination": 1,
+        "Other source status; inspect record": 8
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 12
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 5,
+      "permit_snapshot_buckets": {
+        "active": 1,
+        "historical": 1,
+        "unconfirmed": 3
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "AR": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1797,
+      "government_roster": 1543,
+      "local_search": {
+        "No listed website": 638,
+        "No mention on pages read": 58,
+        "Could not read": 104,
+        "Possible mention": 4
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 4,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 4
+      },
+      "history_stages": {
+        "Other source status; inspect record": 4
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 4
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "AS": {
+      "published_rules": 1,
+      "held_rules": 0,
+      "jurisdiction_frame": 99,
+      "government_roster": 0,
+      "local_search": {},
+      "pilot_frame": 1,
+      "coverage_labels": {
+        "matched source": 1
+      },
+      "document_types": {
+        "adopted": 1
+      },
+      "published_families": {
+        "Construction & land": 1
+      },
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "AZ": {
+      "published_rules": 9,
+      "held_rules": 1,
+      "jurisdiction_frame": 563,
+      "government_roster": 686,
+      "local_search": {
+        "Could not read": 102,
+        "Possible mention": 3,
+        "No mention on pages read": 77,
+        "No listed website": 130,
+        "Not visited": 1
+      },
+      "pilot_frame": 107,
+      "coverage_labels": {
+        "matched source": 5,
+        "retrieval failed": 40,
+        "screened: limited discovery": 62
+      },
+      "document_types": {
+        "adopted": 6,
+        "agency_guidance": 3
+      },
+      "published_families": {
+        "Air & power": 1,
+        "Land use & zoning": 4,
+        "Site standards": 2,
+        "Water & wastewater": 2
+      },
+      "explicit_district_pathways": 3,
+      "embedded_thresholds": 1,
+      "history_rows": 413,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Administration & correspondence": 3,
+        "Air construction & operation": 57,
+        "Building trades & occupancy": 158,
+        "Construction operating conditions": 1,
+        "Construction stormwater": 120,
+        "Engineering, subdivision & land": 15,
+        "Fire & life safety": 30,
+        "General building-code review": 7,
+        "Land use & zoning": 2,
+        "Signage & design": 14,
+        "Tree preservation & vegetation": 1,
+        "Wastewater & discharge": 5
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 5,
+        "Application, planning or review": 1,
+        "Approval reported, not necessarily permit issuance": 2,
+        "Completion or archive status, not evidence of issuance": 24,
+        "Issuance reported": 35,
+        "Modification, reissue, transfer or termination": 2,
+        "Notice or draft record": 1,
+        "Other source status; inspect record": 343
+      },
+      "history_datasets": {
+        "ADEQ legacy construction stormwater": 6,
+        "ADEQ myDEQ construction stormwater": 107,
+        "ADEQ myDEQ industrial stormwater": 3,
+        "Chandler Citizen Access": 7,
+        "Chandler city council zoning decisions": 1,
+        "Goodyear Citizen Access": 11,
+        "Maricopa County air permit register": 55,
+        "Maricopa County air public notices": 1,
+        "Mesa building permit register": 110,
+        "Phoenix permits": 71,
+        "Phoenix plan reviews": 17,
+        "Pima County dust enforcement": 1,
+        "Scottsdale permits at a verified data-center site": 7,
+        "State-issued water permits reported to EPA": 5,
+        "Tempe building safety permits": 8,
+        "Tucson commercial building permits": 3
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 330,
+      "permit_snapshot_buckets": {
+        "active": 19,
+        "historical": 194,
+        "unconfirmed": 117
+      },
+      "excluded_event_types": {
+        "application": 20,
+        "decision": 18,
+        "notice": 2,
+        "permit_action": 1,
+        "service": 4,
+        "waiver": 1
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "CA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2082,
+      "government_roster": 4535,
+      "local_search": {
+        "Could not read": 352,
+        "No mention on pages read": 292,
+        "Possible mention": 3,
+        "No listed website": 575,
+        "Not visited": 308
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 419,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 249,
+        "Construction stormwater": 12,
+        "Engineering, subdivision & land": 1,
+        "Fire & life safety": 1,
+        "Land use & zoning": 103,
+        "Power plant exemption": 32,
+        "Remediation & environmental review": 6,
+        "Wastewater & discharge": 15
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 44,
+        "Application, planning or review": 1,
+        "Approval reported, not necessarily permit issuance": 36,
+        "Completion or archive status, not evidence of issuance": 48,
+        "Issuance reported": 19,
+        "Modification, reissue, transfer or termination": 4,
+        "Other source status; inspect record": 267
+      },
+      "history_datasets": {
+        "CEC small power plant exemption docket": 32,
+        "Hayward public land-use proceedings": 6,
+        "Los Angeles issued building and trade permits": 143,
+        "San Francisco building permits": 53,
+        "San José C.3 stormwater project tracking": 12,
+        "San José building permit registers": 55,
+        "San José planning register": 57,
+        "Santa Clara public land-use proceedings": 46,
+        "State-issued water permits reported to EPA": 15
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 259,
+      "permit_snapshot_buckets": {
+        "active": 34,
+        "historical": 205,
+        "unconfirmed": 20
+      },
+      "excluded_event_types": {
+        "agenda": 18,
+        "application": 42,
+        "decision": 86,
+        "tracking": 12
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "CO": {
+      "published_rules": 1,
+      "held_rules": 0,
+      "jurisdiction_frame": 756,
+      "government_roster": 3670,
+      "local_search": {
+        "No mention on pages read": 83,
+        "No listed website": 466,
+        "Could not read": 91,
+        "Possible mention": 5,
+        "Not visited": 277
+      },
+      "pilot_frame": 1,
+      "coverage_labels": {
+        "matched source": 1
+      },
+      "document_types": {
+        "official_adoption_summary": 1
+      },
+      "published_families": {
+        "Land use & zoning": 1
+      },
+      "explicit_district_pathways": 1,
+      "embedded_thresholds": 1,
+      "history_rows": 65,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 23,
+        "Building trades & occupancy": 21,
+        "Land use & zoning": 2,
+        "Wastewater & discharge": 19
+      },
+      "history_stages": {
+        "Approval reported, not necessarily permit issuance": 1,
+        "Issuance reported": 2,
+        "Modification, reissue, transfer or termination": 17,
+        "Other source status; inspect record": 45
+      },
+      "history_datasets": {
+        "Aurora Building Division issued permit and certificates": 3,
+        "Colorado APCD air permit application tracker": 22,
+        "Colorado APCD public notices": 1,
+        "Colorado Springs land-use appeals": 2,
+        "Denver commercial permits at a verified data-center site": 18,
+        "State-issued water permits reported to EPA": 19
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 39,
+      "permit_snapshot_buckets": {
+        "active": 2,
+        "historical": 28,
+        "unconfirmed": 9
+      },
+      "excluded_event_types": {
+        "application": 21,
+        "decision": 4,
+        "notice": 1
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "CT": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 399,
+      "government_roster": 774,
+      "local_search": {
+        "No listed website": 64,
+        "Could not read": 96,
+        "No mention on pages read": 83,
+        "Not visited": 16
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "DC": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 4,
+      "government_roster": 5,
+      "local_search": {
+        "No mention on pages read": 1
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "DE": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 110,
+      "government_roster": 334,
+      "local_search": {
+        "Could not read": 29,
+        "No mention on pages read": 15,
+        "Possible mention": 1,
+        "No listed website": 17
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "FL": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1342,
+      "government_roster": 1936,
+      "local_search": {
+        "No mention on pages read": 94,
+        "Could not read": 86,
+        "No listed website": 171,
+        "Possible mention": 1,
+        "Not visited": 333
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 47,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 3,
+        "Land use & zoning": 10,
+        "Surface water & environmental resource permits": 17,
+        "Wastewater & discharge": 11,
+        "Water supply & withdrawals": 6
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 2,
+        "Approval reported, not necessarily permit issuance": 13,
+        "Completion or archive status, not evidence of issuance": 1,
+        "Modification, reissue, transfer or termination": 8,
+        "Other source status; inspect record": 23
+      },
+      "history_datasets": {
+        "City of Miami iBuild permits": 2,
+        "Miami-Dade County building permits": 1,
+        "Palm Beach County Project Tango decisions": 5,
+        "South Florida Water Management District application actions": 10,
+        "South Florida Water Management District permit register": 13,
+        "State-issued water permits reported to EPA": 11,
+        "Town of Eatonville council agendas": 5
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 26,
+      "permit_snapshot_buckets": {
+        "active": 3,
+        "historical": 13,
+        "unconfirmed": 10
+      },
+      "excluded_event_types": {
+        "application": 1,
+        "decision": 5,
+        "observation": 15
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "GA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1422,
+      "government_roster": 1372,
+      "local_search": {
+        "No mention on pages read": 84,
+        "Could not read": 82,
+        "No listed website": 320,
+        "Possible mention": 17,
+        "Not visited": 256
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 136,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 70,
+        "Building trades & occupancy": 2,
+        "Land use & zoning": 7,
+        "Regional development review": 30,
+        "Wastewater & discharge": 27
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 13,
+        "Issuance reported": 72,
+        "Modification, reissue, transfer or termination": 2,
+        "Other source status; inspect record": 49
+      },
+      "history_datasets": {
+        "Atlanta Regional Commission DRI reviews": 30,
+        "City of Alpharetta commercial permits": 2,
+        "City of South Fulton zoning information meeting": 1,
+        "Douglas County Planning and Zoning agendas": 6,
+        "Georgia EPD issued air permits": 70,
+        "State-issued water permits reported to EPA": 27
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 92,
+      "permit_snapshot_buckets": {
+        "active": 6,
+        "historical": 7,
+        "unconfirmed": 79
+      },
+      "excluded_event_types": {
+        "application": 7,
+        "observation": 30
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "GU": {
+      "published_rules": 1,
+      "held_rules": 0,
+      "jurisdiction_frame": 79,
+      "government_roster": 0,
+      "local_search": {},
+      "pilot_frame": 1,
+      "coverage_labels": {
+        "matched source": 1
+      },
+      "document_types": {
+        "agency_guidance": 1
+      },
+      "published_families": {
+        "Building & life safety": 1
+      },
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 2,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Land use & zoning": 2
+      },
+      "history_stages": {
+        "Other source status; inspect record": 2
+      },
+      "history_datasets": {
+        "Guam Hybrid Land Use Commission minutes": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {
+        "decision": 1
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "HI": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 213,
+      "government_roster": 22,
+      "local_search": {
+        "Could not read": 6,
+        "No mention on pages read": 1,
+        "No listed website": 13
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 2,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 2
+      },
+      "history_stages": {
+        "Other source status; inspect record": 2
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "IA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2789,
+      "government_roster": 1837,
+      "local_search": {
+        "Could not read": 91,
+        "No mention on pages read": 87,
+        "No listed website": 698,
+        "Possible mention": 1,
+        "Not visited": 309
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 4,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 4
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Other source status; inspect record": 3
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 4
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "ID": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 451,
+      "government_roster": 1160,
+      "local_search": {
+        "Could not read": 81,
+        "No mention on pages read": 95,
+        "Possible mention": 3,
+        "No listed website": 362,
+        "Not visited": 14
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 2,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 2
+      },
+      "history_stages": {
+        "Modification, reissue, transfer or termination": 1,
+        "Other source status; inspect record": 1
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 2,
+      "permit_snapshot_buckets": {
+        "active": 1,
+        "historical": 1,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "IL": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 3259,
+      "government_roster": 6923,
+      "local_search": {
+        "Could not read": 89,
+        "No listed website": 2910,
+        "No mention on pages read": 87,
+        "Possible mention": 5,
+        "Not visited": 822
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 240,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 216,
+        "Wastewater & discharge": 24
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 17,
+        "Completion or archive status, not evidence of issuance": 167,
+        "Modification, reissue, transfer or termination": 3,
+        "Other source status; inspect record": 53
+      },
+      "history_datasets": {
+        "Chicago building permits": 216,
+        "State-issued water permits reported to EPA": 24
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 237,
+      "permit_snapshot_buckets": {
+        "active": 23,
+        "historical": 181,
+        "unconfirmed": 33
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "IN": {
+      "published_rules": 9,
+      "held_rules": 0,
+      "jurisdiction_frame": 2079,
+      "government_roster": 2644,
+      "local_search": {
+        "No mention on pages read": 154,
+        "Could not read": 158,
+        "No listed website": 1399,
+        "Possible mention": 5,
+        "Not visited": 129
+      },
+      "pilot_frame": 1662,
+      "coverage_labels": {
+        "matched source": 6,
+        "not yet screened": 1036,
+        "retrieval failed": 222,
+        "screened: candidate only": 7,
+        "screened: limited discovery": 391
+      },
+      "document_types": {
+        "adopted": 8,
+        "agency_guidance": 1
+      },
+      "published_families": {
+        "Air & power": 1,
+        "Land use & zoning": 4,
+        "Water & wastewater": 4
+      },
+      "explicit_district_pathways": 2,
+      "embedded_thresholds": 0,
+      "history_rows": 466,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 11,
+        "Engineering, subdivision & land": 4,
+        "General building-code review": 440,
+        "Land use & zoning": 1,
+        "Wastewater & discharge": 8,
+        "Wetlands & state waters": 2
+      },
+      "history_stages": {
+        "Application, planning or review": 369,
+        "Approval reported, not necessarily permit issuance": 4,
+        "Modification, reissue, transfer or termination": 3,
+        "Other source status; inspect record": 18,
+        "Recommendation, not final decision": 1,
+        "State design release; not building permit": 71
+      },
+      "history_datasets": {
+        "City of Hobart Plan Commission minutes": 5,
+        "Indiana DHS Project Activity": 440,
+        "Indiana IDEM Waterways decisions and notices": 2,
+        "Indiana IDEM air decisions and notices": 11,
+        "State-issued water permits reported to EPA": 8
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 12,
+      "permit_snapshot_buckets": {
+        "active": 5,
+        "historical": 3,
+        "unconfirmed": 4
+      },
+      "excluded_event_types": {
+        "application": 370,
+        "decision": 5,
+        "design_release": 71,
+        "notice": 7
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "KS": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2367,
+      "government_roster": 3709,
+      "local_search": {
+        "No mention on pages read": 106,
+        "No listed website": 1946,
+        "Could not read": 68,
+        "Possible mention": 5,
+        "Not visited": 182
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 1,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 1
+      },
+      "history_stages": {
+        "Modification, reissue, transfer or termination": 1
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 1
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 1,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "KY": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1169,
+      "government_roster": 1301,
+      "local_search": {
+        "Could not read": 110,
+        "No mention on pages read": 66,
+        "No listed website": 494,
+        "Possible mention": 2,
+        "Not visited": 131
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 2,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 2
+      },
+      "history_stages": {
+        "Modification, reissue, transfer or termination": 2
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 2,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 2,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "LA": {
+      "published_rules": 2,
+      "held_rules": 0,
+      "jurisdiction_frame": 1125,
+      "government_roster": 533,
+      "local_search": {
+        "No mention on pages read": 98,
+        "No listed website": 224,
+        "Could not read": 53
+      },
+      "pilot_frame": 369,
+      "coverage_labels": {
+        "matched source": 2,
+        "not yet screened": 128,
+        "retrieval failed": 78,
+        "screened: limited discovery": 161
+      },
+      "document_types": {
+        "adopted": 2
+      },
+      "published_families": {
+        "Land use & zoning": 2
+      },
+      "explicit_district_pathways": 1,
+      "embedded_thresholds": 0,
+      "history_rows": 27,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 4,
+        "Building trades & occupancy": 3,
+        "Construction stormwater": 13,
+        "Engineering, subdivision & land": 2,
+        "Land use & zoning": 2,
+        "Wastewater & discharge": 2,
+        "Wetlands & state waters": 1
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Issuance reported": 3,
+        "Notice or draft record": 1,
+        "Other source status; inspect record": 22
+      },
+      "history_datasets": {
+        "Bossier Parish Police Jury land decisions": 2,
+        "East Baton Rouge building permits": 3,
+        "Louisiana DEQ air public notices": 1,
+        "Louisiana DEQ quarterly LPDES actions": 15,
+        "Louisiana DEQ quarterly air actions": 3,
+        "Shreveport land use decisions": 2,
+        "USACE Vicksburg District regulatory notices": 1
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 20,
+      "permit_snapshot_buckets": {
+        "active": 10,
+        "historical": 2,
+        "unconfirmed": 8
+      },
+      "excluded_event_types": {
+        "decision": 4,
+        "notice": 2
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "MA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 620,
+      "government_roster": 1089,
+      "local_search": {
+        "No mention on pages read": 100,
+        "No listed website": 118,
+        "Could not read": 76,
+        "Possible mention": 4,
+        "Not visited": 171
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 4,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 4
+      },
+      "history_stages": {
+        "Application, planning or review": 4
+      },
+      "history_datasets": {
+        "Framingham building applications": 4
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {
+        "application": 4
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "MD": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 851,
+      "government_roster": 377,
+      "local_search": {
+        "No mention on pages read": 82,
+        "Could not read": 51,
+        "Possible mention": 3,
+        "No listed website": 48
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 11,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 11
+      },
+      "history_stages": {
+        "Completion or archive status, not evidence of issuance": 11
+      },
+      "history_datasets": {
+        "Montgomery County electrical permits": 11
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 11,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 11,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "ME": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 701,
+      "government_roster": 988,
+      "local_search": {
+        "No mention on pages read": 101,
+        "Could not read": 75,
+        "No listed website": 329,
+        "Possible mention": 4,
+        "Not visited": 131
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "MI": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2409,
+      "government_roster": 2861,
+      "local_search": {
+        "No mention on pages read": 97,
+        "Could not read": 81,
+        "Possible mention": 4,
+        "No listed website": 879,
+        "Not visited": 876
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 19,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 4,
+        "Building trades & occupancy": 1,
+        "Land use & zoning": 8,
+        "Power & utility review": 3,
+        "Wastewater & discharge": 2,
+        "Water supply & withdrawals": 1
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 3,
+        "Application, planning or review": 3,
+        "Approval reported, not necessarily permit issuance": 4,
+        "Other source status; inspect record": 8,
+        "Recommendation, not final decision": 1
+      },
+      "history_datasets": {
+        "City of Southfield site-plan review": 2,
+        "Michigan EGLE air compliance inspections": 1,
+        "Michigan EGLE water withdrawal determinations": 1,
+        "Michigan Public Service Commission special contracts": 3,
+        "Michigan air permits to install": 3,
+        "Saline Township advisory committee": 1,
+        "Saline Township land use proceedings": 4,
+        "State-issued water permits reported to EPA": 2,
+        "Van Buren Township Planning Commission": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 4,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 4
+      },
+      "excluded_event_types": {
+        "application": 3,
+        "decision": 7,
+        "observation": 4
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "MN": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 3764,
+      "government_roster": 3643,
+      "local_search": {
+        "No mention on pages read": 99,
+        "Could not read": 77,
+        "Possible mention": 2,
+        "No listed website": 2013,
+        "Not visited": 746
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 38,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 11,
+        "Land use & zoning": 6,
+        "Remediation & environmental review": 21
+      },
+      "history_stages": {
+        "Completion or archive status, not evidence of issuance": 10,
+        "Issuance reported": 1,
+        "Other source status; inspect record": 27
+      },
+      "history_datasets": {
+        "Chaska Cloud HQ municipal decisions": 7,
+        "Minneapolis CCS construction permits": 11,
+        "Minnesota EQB environmental review notices": 20
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 11,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 10,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {
+        "decision": 7,
+        "notice": 20
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "MO": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2591,
+      "government_roster": 3783,
+      "local_search": {
+        "No listed website": 1595,
+        "No mention on pages read": 80,
+        "Possible mention": 6,
+        "Could not read": 93,
+        "Not visited": 392
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 6,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 6
+      },
+      "history_stages": {
+        "Modification, reissue, transfer or termination": 3,
+        "Other source status; inspect record": 3
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 6
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 6,
+      "permit_snapshot_buckets": {
+        "active": 3,
+        "historical": 3,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "MP": {
+      "published_rules": 1,
+      "held_rules": 0,
+      "jurisdiction_frame": 152,
+      "government_roster": 0,
+      "local_search": {},
+      "pilot_frame": 1,
+      "coverage_labels": {
+        "matched source": 1
+      },
+      "document_types": {
+        "agency_guidance": 1
+      },
+      "published_families": {
+        "Construction & land": 1
+      },
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "MS": {
+      "published_rules": 4,
+      "held_rules": 0,
+      "jurisdiction_frame": 920,
+      "government_roster": 964,
+      "local_search": {
+        "Could not read": 59,
+        "No listed website": 362,
+        "No mention on pages read": 62,
+        "Possible mention": 2
+      },
+      "pilot_frame": 382,
+      "coverage_labels": {
+        "matched source": 2,
+        "not yet screened": 139,
+        "retrieval failed": 101,
+        "screened: candidate only": 1,
+        "screened: limited discovery": 139
+      },
+      "document_types": {
+        "adopted": 1,
+        "agency_guidance": 3
+      },
+      "published_families": {
+        "Air & power": 1,
+        "Building & life safety": 1,
+        "Land use & zoning": 1,
+        "Water & wastewater": 1
+      },
+      "explicit_district_pathways": 1,
+      "embedded_thresholds": 0,
+      "history_rows": 30,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 7,
+        "Construction stormwater": 8,
+        "Engineering, subdivision & land": 2,
+        "Wastewater & discharge": 13
+      },
+      "history_stages": {
+        "Issuance reported": 2,
+        "Other source status; inspect record": 28
+      },
+      "history_datasets": {
+        "EPA ICIS-NPDES permit versions": 12,
+        "Mississippi DEQ enSearch facility permits": 16,
+        "Southaven Board of Aldermen planning decisions": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 15,
+      "permit_snapshot_buckets": {
+        "active": 11,
+        "historical": 1,
+        "unconfirmed": 3
+      },
+      "excluded_event_types": {
+        "application": 3,
+        "decision": 2,
+        "notice": 2
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "MT": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 748,
+      "government_roster": 1228,
+      "local_search": {
+        "No mention on pages read": 48,
+        "No listed website": 467,
+        "Could not read": 59
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 6,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 6
+      },
+      "history_stages": {
+        "Modification, reissue, transfer or termination": 5,
+        "Other source status; inspect record": 1
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 6
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 5,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 4,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "NC": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1918,
+      "government_roster": 1139,
+      "local_search": {
+        "Could not read": 95,
+        "No mention on pages read": 76,
+        "No listed website": 235,
+        "Possible mention": 15,
+        "Not visited": 341
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 9,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 9
+      },
+      "history_stages": {
+        "Other source status; inspect record": 9
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 9
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 8,
+      "permit_snapshot_buckets": {
+        "active": 7,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "ND": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2221,
+      "government_roster": 2563,
+      "local_search": {
+        "No listed website": 1869,
+        "Could not read": 58,
+        "Possible mention": 4,
+        "No mention on pages read": 75
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 1,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 1
+      },
+      "history_stages": {
+        "Other source status; inspect record": 1
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 1
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 1,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "NE": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1869,
+      "government_roster": 2522,
+      "local_search": {
+        "No mention on pages read": 93,
+        "Could not read": 82,
+        "No listed website": 1129,
+        "Possible mention": 3,
+        "Not visited": 109
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 3,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 3
+      },
+      "history_stages": {
+        "Other source status; inspect record": 3
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 3
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "NH": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 371,
+      "government_roster": 551,
+      "local_search": {
+        "Could not read": 79,
+        "No mention on pages read": 97,
+        "No listed website": 87,
+        "Not visited": 31
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "NJ": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1291,
+      "government_roster": 1400,
+      "local_search": {
+        "Could not read": 72,
+        "No listed website": 224,
+        "No mention on pages read": 107,
+        "Not visited": 376
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 37,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Engineering, subdivision & land": 1,
+        "Flood hazard & waterway review": 7,
+        "Land use & zoning": 3,
+        "Wastewater & discharge": 15,
+        "Water & sewer infrastructure": 1,
+        "Wetlands & state waters": 10
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Approval reported, not necessarily permit issuance": 2,
+        "Issuance reported": 6,
+        "Other source status; inspect record": 28
+      },
+      "history_datasets": {
+        "Bridgewater Township planning agenda": 1,
+        "NJDEP NJPDES bulletin": 5,
+        "NJDEP NJPDES proposed actions": 1,
+        "NJDEP land resource permitting": 17,
+        "NJDEP treatment works applications": 1,
+        "NJSEA zoning certificate case reviews": 3,
+        "State-issued water permits reported to EPA": 9
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 15,
+      "permit_snapshot_buckets": {
+        "active": 6,
+        "historical": 1,
+        "unconfirmed": 8
+      },
+      "excluded_event_types": {
+        "agenda": 1,
+        "application": 17,
+        "determination": 1,
+        "notice": 1
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "NM": {
+      "published_rules": 3,
+      "held_rules": 0,
+      "jurisdiction_frame": 692,
+      "government_roster": 997,
+      "local_search": {
+        "Could not read": 53,
+        "Possible mention": 1,
+        "No listed website": 253,
+        "No mention on pages read": 50
+      },
+      "pilot_frame": 139,
+      "coverage_labels": {
+        "matched source": 2,
+        "not yet screened": 20,
+        "retrieval failed": 37,
+        "screened: candidate only": 3,
+        "screened: limited discovery": 77
+      },
+      "document_types": {
+        "adopted": 1,
+        "agency_guidance": 2
+      },
+      "published_families": {
+        "Air & power": 1,
+        "Construction & land": 1,
+        "Land use & zoning": 1
+      },
+      "explicit_district_pathways": 1,
+      "embedded_thresholds": 0,
+      "history_rows": 33,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 22,
+        "Building trades & occupancy": 4,
+        "Construction stormwater": 7
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Issuance reported": 4,
+        "Modification, reissue, transfer or termination": 3,
+        "Other source status; inspect record": 25
+      },
+      "history_datasets": {
+        "Albuquerque air quality notifications": 10,
+        "Albuquerque issued building permits": 4,
+        "EPA New Mexico construction stormwater coverage": 7,
+        "New Mexico Environment Department air proceedings": 12
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 11,
+      "permit_snapshot_buckets": {
+        "active": 3,
+        "historical": 4,
+        "unconfirmed": 4
+      },
+      "excluded_event_types": {
+        "application": 8,
+        "notice": 14
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "NV": {
+      "published_rules": 3,
+      "held_rules": 0,
+      "jurisdiction_frame": 227,
+      "government_roster": 186,
+      "local_search": {
+        "Could not read": 31,
+        "No mention on pages read": 19,
+        "Possible mention": 1,
+        "No listed website": 28
+      },
+      "pilot_frame": 37,
+      "coverage_labels": {
+        "matched source": 2,
+        "retrieval failed": 15,
+        "screened: candidate only": 1,
+        "screened: limited discovery": 19
+      },
+      "document_types": {
+        "adopted": 1,
+        "agency_guidance": 2
+      },
+      "published_families": {
+        "Land use & zoning": 2,
+        "Water & wastewater": 1
+      },
+      "explicit_district_pathways": 2,
+      "embedded_thresholds": 0,
+      "history_rows": 42,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 11,
+        "Building trades & occupancy": 19,
+        "Land use & zoning": 5,
+        "Wastewater & discharge": 7
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Application, planning or review": 5,
+        "Approval reported, not necessarily permit issuance": 3,
+        "Issuance reported": 4,
+        "Other source status; inspect record": 29
+      },
+      "history_datasets": {
+        "Clark County Part 70 operating permits": 2,
+        "Clark County Title V renewal applications": 1,
+        "Clark County active dust-control snapshot": 2,
+        "Clark County air participation notices": 1,
+        "Clark County inspection sites": 3,
+        "EPA ICIS-NPDES permit versions": 7,
+        "Henderson open development permits": 15,
+        "NDEP air applications": 3,
+        "NDEP preliminary air determinations": 1,
+        "Northern Nevada Public Health air notices": 1,
+        "Washoe County planning decisions": 1,
+        "Washoe County project case files": 3,
+        "Washoe County special use permits": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 30,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 21,
+        "unconfirmed": 9
+      },
+      "excluded_event_types": {
+        "application": 7,
+        "decision": 1,
+        "notice": 3
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "NY": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2379,
+      "government_roster": 3486,
+      "local_search": {
+        "No mention on pages read": 92,
+        "Could not read": 91,
+        "No listed website": 1268,
+        "Not visited": 1036
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 467,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 4,
+        "Building trades & occupancy": 455,
+        "Land use & zoning": 2,
+        "Remediation & environmental review": 4,
+        "Wastewater & discharge": 2
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 2,
+        "Approval reported, not necessarily permit issuance": 9,
+        "Completion or archive status, not evidence of issuance": 17,
+        "Determination record": 3,
+        "Issuance reported": 254,
+        "Other source status; inspect record": 182
+      },
+      "history_datasets": {
+        "NYC BIS permit issuance": 215,
+        "NYC DOB NOW approved building permits": 47,
+        "NYC DOB building job filings": 157,
+        "NYC DOB electrical job register": 36,
+        "New York DEC air permit modifications": 2,
+        "New York DEC issued state facility air permits": 2,
+        "Niagara Falls project decisions": 3,
+        "Somerset Planning Board project decisions": 3,
+        "State-issued water permits reported to EPA": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 157,
+      "permit_snapshot_buckets": {
+        "active": 2,
+        "historical": 11,
+        "unconfirmed": 144
+      },
+      "excluded_event_types": {
+        "application": 193,
+        "decision": 6
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "OH": {
+      "published_rules": 4,
+      "held_rules": 0,
+      "jurisdiction_frame": 2961,
+      "government_roster": 3934,
+      "local_search": {
+        "Could not read": 201,
+        "No mention on pages read": 262,
+        "No listed website": 1653,
+        "Possible mention": 5,
+        "Not visited": 483
+      },
+      "pilot_frame": 2326,
+      "coverage_labels": {
+        "matched source": 3,
+        "not yet screened": 710,
+        "retrieval failed": 491,
+        "screened: candidate only": 26,
+        "screened: limited discovery": 1096
+      },
+      "document_types": {
+        "adopted": 1,
+        "agency_guidance": 2,
+        "issued_permit": 1
+      },
+      "published_families": {
+        "Construction & land": 1,
+        "Land use & zoning": 2,
+        "Water & wastewater": 1
+      },
+      "explicit_district_pathways": 2,
+      "embedded_thresholds": 0,
+      "history_rows": 141,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 1,
+        "Building trades & occupancy": 49,
+        "Construction stormwater": 52,
+        "Engineering, subdivision & land": 12,
+        "Fire & life safety": 20,
+        "Land use & zoning": 6,
+        "Water & sewer infrastructure": 1
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 19,
+        "Approval reported, not necessarily permit issuance": 2,
+        "Completion or archive status, not evidence of issuance": 65,
+        "Issuance reported": 13,
+        "Other source status; inspect record": 42
+      },
+      "history_datasets": {
+        "Columbus building and trade permits": 69,
+        "Columbus engineering filings": 10,
+        "Municipal planning decisions": 4,
+        "New Albany zoning entitlements": 4,
+        "Ohio EPA NPDES register": 52,
+        "Ohio EPA selected air and water permits": 2
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 97,
+      "permit_snapshot_buckets": {
+        "active": 23,
+        "historical": 59,
+        "unconfirmed": 15
+      },
+      "excluded_event_types": {
+        "application": 11,
+        "decision": 18
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "OK": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1229,
+      "government_roster": 1834,
+      "local_search": {
+        "No listed website": 811,
+        "Could not read": 87,
+        "No mention on pages read": 94,
+        "Not visited": 1
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "OR": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 675,
+      "government_roster": 1530,
+      "local_search": {
+        "No mention on pages read": 91,
+        "Could not read": 86,
+        "Possible mention": 1,
+        "No listed website": 413,
+        "Not visited": 180
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 82,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 34,
+        "Land use & zoning": 31,
+        "Wastewater & discharge": 17
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 14,
+        "Approval reported, not necessarily permit issuance": 30,
+        "Other source status; inspect record": 38
+      },
+      "history_datasets": {
+        "Local land-use compatibility finding in DEQ permit": 28,
+        "Oregon DEQ air permit documents": 34,
+        "Oregon planning commission cases": 3,
+        "State-issued water permits reported to EPA": 17
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 44,
+      "permit_snapshot_buckets": {
+        "active": 1,
+        "historical": 11,
+        "unconfirmed": 32
+      },
+      "excluded_event_types": {
+        "agenda": 1,
+        "determination": 29
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "PA": {
+      "published_rules": 5,
+      "held_rules": 0,
+      "jurisdiction_frame": 4643,
+      "government_roster": 4836,
+      "local_search": {
+        "No mention on pages read": 87,
+        "Could not read": 93,
+        "No listed website": 2145,
+        "Possible mention": 3,
+        "Not visited": 1142
+      },
+      "pilot_frame": 2,
+      "coverage_labels": {
+        "matched source": 2
+      },
+      "document_types": {
+        "adopted": 5
+      },
+      "published_families": {
+        "Air & power": 1,
+        "Authority & applicability": 1,
+        "Land use & zoning": 1,
+        "Site standards": 2
+      },
+      "explicit_district_pathways": 1,
+      "embedded_thresholds": 2,
+      "history_rows": 125,
+      "unnumbered_cited_events": 2,
+      "history_families": {
+        "Air construction & operation": 16,
+        "Construction blasting review": 2,
+        "Construction stormwater": 46,
+        "Fuel storage & tanks": 5,
+        "Remediation & environmental review": 3,
+        "Wastewater & discharge": 17,
+        "Water supply & withdrawals": 3,
+        "Wetlands & state waters": 33
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Application, planning or review": 44,
+        "Issuance reported": 77,
+        "Notice or draft record": 2,
+        "Other source status; inspect record": 1
+      },
+      "history_datasets": {
+        "Pennsylvania DEP data center permit tracker": 125
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 65,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 65
+      },
+      "excluded_event_types": {
+        "application": 48,
+        "decision": 8
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "PR": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1310,
+      "government_roster": 0,
+      "local_search": {},
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "RI": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 82,
+      "government_roster": 158,
+      "local_search": {
+        "Could not read": 29,
+        "No mention on pages read": 37,
+        "Possible mention": 1,
+        "No listed website": 22
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "SC": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 821,
+      "government_roster": 665,
+      "local_search": {
+        "No mention on pages read": 88,
+        "Could not read": 87,
+        "No listed website": 217,
+        "Possible mention": 5,
+        "Not visited": 75
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 7,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 7
+      },
+      "history_stages": {
+        "Modification, reissue, transfer or termination": 3,
+        "Other source status; inspect record": 4
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 7
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 6,
+      "permit_snapshot_buckets": {
+        "active": 2,
+        "historical": 3,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "SD": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1880,
+      "government_roster": 1887,
+      "local_search": {
+        "No listed website": 1249,
+        "Could not read": 68,
+        "No mention on pages read": 71,
+        "Possible mention": 1
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 4,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 4
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Other source status; inspect record": 3
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 4
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "TN": {
+      "published_rules": 4,
+      "held_rules": 0,
+      "jurisdiction_frame": 1455,
+      "government_roster": 1028,
+      "local_search": {
+        "Could not read": 112,
+        "No listed website": 336,
+        "No mention on pages read": 137,
+        "Possible mention": 3,
+        "Not visited": 43
+      },
+      "pilot_frame": 440,
+      "coverage_labels": {
+        "matched source": 2,
+        "not yet screened": 84,
+        "retrieval failed": 113,
+        "screened: candidate only": 7,
+        "screened: limited discovery": 234
+      },
+      "document_types": {
+        "adopted": 3,
+        "agency_guidance": 1
+      },
+      "published_families": {
+        "Air & power": 1,
+        "Land use & zoning": 2,
+        "Water & wastewater": 1
+      },
+      "explicit_district_pathways": 3,
+      "embedded_thresholds": 0,
+      "history_rows": 50,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Air construction & operation": 1,
+        "Building trades & occupancy": 24,
+        "Engineering, subdivision & land": 2,
+        "Fire & life safety": 1,
+        "Land use & zoning": 3,
+        "Wastewater & discharge": 19
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 5,
+        "Approval reported, not necessarily permit issuance": 2,
+        "Issuance reported": 3,
+        "Other source status; inspect record": 40
+      },
+      "history_datasets": {
+        "EPA ICIS-NPDES permit versions": 19,
+        "Franklin Municipal Planning Commission site plans": 2,
+        "Metro Nashville Codes Permit History": 28,
+        "Shelby County Health Department air permits": 1
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 34,
+      "permit_snapshot_buckets": {
+        "active": 3,
+        "historical": 28,
+        "unconfirmed": 3
+      },
+      "excluded_event_types": {
+        "application": 4,
+        "closed_file": 2,
+        "decision": 2
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "TX": {
+      "published_rules": 8,
+      "held_rules": 0,
+      "jurisdiction_frame": 2980,
+      "government_roster": 5500,
+      "local_search": {
+        "No mention on pages read": 540,
+        "Could not read": 469,
+        "Possible mention": 15,
+        "No listed website": 1078
+      },
+      "pilot_frame": 1479,
+      "coverage_labels": {
+        "matched source": 6,
+        "not yet screened": 233,
+        "retrieval failed": 369,
+        "screened: candidate only": 20,
+        "screened: limited discovery": 851
+      },
+      "document_types": {
+        "adopted": 1,
+        "agency_guidance": 5,
+        "official_adoption_summary": 2
+      },
+      "published_families": {
+        "Authority & applicability": 1,
+        "Construction & land": 1,
+        "Land use & zoning": 6
+      },
+      "explicit_district_pathways": 5,
+      "embedded_thresholds": 0,
+      "history_rows": 745,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Accessibility & architectural barriers": 25,
+        "Building trades & occupancy": 608,
+        "Engineering, subdivision & land": 15,
+        "Tree preservation & vegetation": 2,
+        "Wastewater & discharge": 95
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 83,
+        "Application, planning or review": 2,
+        "Approval reported, not necessarily permit issuance": 5,
+        "Completion or archive status, not evidence of issuance": 406,
+        "Issuance reported": 117,
+        "Modification, reissue, transfer or termination": 33,
+        "Other source status; inspect record": 74,
+        "Registration record": 25
+      },
+      "history_datasets": {
+        "Abilene city site-plan register": 2,
+        "Austin issued construction permits": 333,
+        "Dallas building permits": 70,
+        "Fort Worth development permits": 187,
+        "San Antonio issued building and trade permits": 33,
+        "State-issued water permits reported to EPA": 95,
+        "TDLR architectural barriers registrations": 25
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 656,
+      "permit_snapshot_buckets": {
+        "active": 32,
+        "historical": 495,
+        "unconfirmed": 129
+      },
+      "excluded_event_types": {
+        "application": 48,
+        "decision": 2,
+        "registration": 25
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "UT": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 457,
+      "government_roster": 632,
+      "local_search": {
+        "No listed website": 147,
+        "Could not read": 88,
+        "Possible mention": 5,
+        "No mention on pages read": 86,
+        "Not visited": 54
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 17,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 17
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 2,
+        "Modification, reissue, transfer or termination": 8,
+        "Other source status; inspect record": 7
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 17
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 11,
+      "permit_snapshot_buckets": {
+        "active": 1,
+        "historical": 5,
+        "unconfirmed": 5
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "VA": {
+      "published_rules": 38,
+      "held_rules": 13,
+      "jurisdiction_frame": 1386,
+      "government_roster": 651,
+      "local_search": {
+        "No mention on pages read": 141,
+        "Could not read": 131,
+        "No listed website": 100,
+        "Possible mention": 11
+      },
+      "pilot_frame": 361,
+      "coverage_labels": {
+        "evidence held": 4,
+        "matched source": 10,
+        "retrieval failed": 72,
+        "screened: candidate only": 5,
+        "screened: limited discovery": 270
+      },
+      "document_types": {
+        "adopted": 27,
+        "agency_guidance": 11
+      },
+      "published_families": {
+        "Air & power": 3,
+        "Authority & applicability": 3,
+        "Building & life safety": 4,
+        "Construction & land": 2,
+        "Land use & zoning": 13,
+        "Site standards": 5,
+        "Water & wastewater": 8
+      },
+      "explicit_district_pathways": 10,
+      "embedded_thresholds": 17,
+      "history_rows": 2805,
+      "unnumbered_cited_events": 2,
+      "history_families": {
+        "Administration & correspondence": 63,
+        "Air construction & operation": 229,
+        "Building trades & occupancy": 1022,
+        "Construction stormwater": 395,
+        "Engineering, subdivision & land": 377,
+        "Financial guarantee": 19,
+        "Fire & life safety": 196,
+        "General building-code review": 1,
+        "Land use & zoning": 434,
+        "Wastewater & discharge": 3,
+        "Water supply & withdrawals": 3,
+        "Wetlands & state waters": 63
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 3,
+        "Application, planning or review": 238,
+        "Approval reported, not necessarily permit issuance": 386,
+        "Completion or archive status, not evidence of issuance": 78,
+        "Determination record": 6,
+        "Issuance reported": 1803,
+        "Modification, reissue, transfer or termination": 250,
+        "Non-permit activity": 15,
+        "Other source status; inspect record": 26
+      },
+      "history_datasets": {
+        "County case files": 13,
+        "Loudoun issued permits": 1373,
+        "Loudoun land-use applications": 536,
+        "Loudoun monthly building reports": 84,
+        "Loudoun submitted permits": 24,
+        "Prince William data-center building permits": 96,
+        "State-issued water permits reported to EPA": 3,
+        "VA DEQ — Stormwater Permits Daily": 376,
+        "VA DEQ — VWP SSWD": 5,
+        "VA DEQ — Virginia Water Protection (VWP) General Permits": 23,
+        "VA DEQ — Virginia Water Protection (VWP) Individual Permits (IP)": 11,
+        "VA DEQ — Virginia Water Protection (VWP) Non-Permit (NP)": 14,
+        "Virginia DEQ issued data-center air permits": 206,
+        "Virginia Permit Transparency — DEQ air applications": 23,
+        "Virginia Permit Transparency — environmental applications": 18
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 1711,
+      "permit_snapshot_buckets": {
+        "active": 22,
+        "historical": 139,
+        "unconfirmed": 1550
+      },
+      "excluded_event_types": {
+        "application": 94,
+        "decision": 545,
+        "determination": 19,
+        "permit_action": 204,
+        "unnumbered": 1
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "VI": {
+      "published_rules": 1,
+      "held_rules": 0,
+      "jurisdiction_frame": 37,
+      "government_roster": 0,
+      "local_search": {},
+      "pilot_frame": 1,
+      "coverage_labels": {
+        "matched source": 1
+      },
+      "document_types": {
+        "agency_guidance": 1
+      },
+      "published_families": {
+        "Authority & applicability": 1
+      },
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "VT": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 451,
+      "government_roster": 567,
+      "local_search": {
+        "No listed website": 229,
+        "Could not read": 79,
+        "No mention on pages read": 83
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "WA": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 921,
+      "government_roster": 1890,
+      "local_search": {
+        "No mention on pages read": 96,
+        "Could not read": 76,
+        "No listed website": 437,
+        "Possible mention": 7,
+        "Not visited": 297
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 29,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 23,
+        "Wastewater & discharge": 6
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 6,
+        "Completion or archive status, not evidence of issuance": 13,
+        "Modification, reissue, transfer or termination": 3,
+        "Other source status; inspect record": 7
+      },
+      "history_datasets": {
+        "Seattle building permits": 23,
+        "State-issued water permits reported to EPA": 6
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 20,
+      "permit_snapshot_buckets": {
+        "active": 1,
+        "historical": 18,
+        "unconfirmed": 1
+      },
+      "excluded_event_types": {
+        "application": 8
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "WI": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 2806,
+      "government_roster": 3040,
+      "local_search": {
+        "Could not read": 86,
+        "No mention on pages read": 88,
+        "Possible mention": 6,
+        "No listed website": 1092,
+        "Not visited": 670
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "WV": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 720,
+      "government_roster": 640,
+      "local_search": {
+        "No listed website": 225,
+        "No mention on pages read": 50,
+        "Could not read": 51
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 0,
+      "unnumbered_cited_events": 0,
+      "history_families": {},
+      "history_stages": {},
+      "history_datasets": {},
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 0,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 0,
+        "unconfirmed": 0
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    },
+    "WY": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 300,
+      "government_roster": 813,
+      "local_search": {
+        "No mention on pages read": 61,
+        "Could not read": 59,
+        "No listed website": 233
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 9,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Wastewater & discharge": 9
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 2,
+        "Modification, reissue, transfer or termination": 4,
+        "Other source status; inspect record": 3
+      },
+      "history_datasets": {
+        "State-issued water permits reported to EPA": 9
+      },
+      "unmapped_history_kinds": {},
+      "distinct_identified_permits": 8,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 4,
+        "unconfirmed": 4
+      },
+      "excluded_event_types": {},
+      "unrecognized_permit_semantics": {}
+    }
+  },
+  "curated_source_checks": [
+    {
+      "rule_id": "va-lou-grade",
+      "state": "VA",
+      "source": "https://www.loudoun.gov/6244/Land-Disturbance",
+      "locator": "Do I Need a Grading Permit in Loudoun County?",
+      "mismatches": []
+    },
+    {
+      "rule_id": "va-va-groundwater",
+      "state": "VA",
+      "source": "https://law.lis.virginia.gov/vacode/title62.1/chapter25/section62.1-259/",
+      "locator": "§ 62.1-259 clauses (i), (ix); threshold is inverse of under-threshold exclusion, not an unconditional right",
+      "mismatches": []
+    },
+    {
+      "rule_id": "oh-consumptive-use",
+      "state": "OH",
+      "source": "https://codes.ohio.gov/ohio-revised-code/section-1521.23",
+      "locator": "§ 1521.23(A), (D), (E); candidate is graded as a candidate only",
+      "mismatches": []
+    },
+    {
+      "rule_id": "oh-new-albany-use",
+      "state": "OH",
+      "source": "https://datacenters.newalbanyohio.org/resident-questions/",
+      "locator": "City FAQ on district text versus site-specific rezonings",
+      "mismatches": []
+    },
+    {
+      "rule_id": "tx-construction-runoff",
+      "state": "TX",
+      "source": "https://www.tceq.texas.gov/permitting/stormwater/construction/TXR15_AIR.html",
+      "locator": "Construction General Permit, TXR150000; common-plan aggregation, small and large tiers",
+      "mismatches": []
+    },
+    {
+      "rule_id": "tx-san-marcos-districts",
+      "state": "TX",
+      "source": "https://www.sanmarcostx.gov/4772/June-16-2026-City-Council-Recap",
+      "locator": "Regular meeting item 17; scope is City's zoning districts",
+      "mismatches": []
+    },
+    {
+      "rule_id": "az-nonexempt-well",
+      "state": "AZ",
+      "source": "https://www.azleg.gov/ars/45/00512.htm",
+      "locator": "Arizona Revised Statutes 45-512, introductory exceptions and numbered category 3",
+      "mismatches": []
+    },
+    {
+      "rule_id": "az-chandler-primary-use",
+      "state": "AZ",
+      "source": "https://www.chandleraz.gov/news-center/chandlers-data-center-ordinance-now-effect",
+      "locator": "City adopted amendment bulletin, primary-use location and ancillary-use qualifications",
+      "mismatches": []
+    },
+    {
+      "rule_id": "in-withdrawal-registration",
+      "state": "IN",
+      "source": "https://www.in.gov/dnr/water/water-availability-use-rights/significant-water-withdrawal-facility-registration/",
+      "locator": "Indiana DNR SWWF threshold: aggregate capability, registration within three months, annual reporting",
+      "mismatches": []
+    },
+    {
+      "rule_id": "in-boone-pause",
+      "state": "IN",
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/07/Ordinance-2026-08.Moratorium-on-data-centers.pdf",
+      "locator": "Signed scan pp. 1–2; area, internal IT exception, §§2–3 moratorium and end date",
+      "mismatches": []
+    },
+    {
+      "rule_id": "tn-nashville-use",
+      "state": "TN",
+      "source": "https://nashville.legistar.com/LegislationDetail.aspx?FullText=1&GUID=007B8704-62ED-46D1-9E9A-8B3F778229A8&ID=8040869",
+      "locator": "BL2026-1391 §2; Metropolitan Code §17.08.030",
+      "mismatches": []
+    },
+    {
+      "rule_id": "nv-reno-pause",
+      "state": "NV",
+      "source": "https://reno.gov/business-development/development-services/initiatives-and-updates.php",
+      "locator": "June 1, 2026 resolution discussion",
+      "mismatches": []
+    },
+    {
+      "rule_id": "ms-ridgeland-by-right",
+      "state": "MS",
+      "source": "https://storage.googleapis.com/ridgelandms-media/2024/08/2023-09.pdf",
+      "locator": "Ordinance 2023-09 §§2–4; §520.02(I)",
+      "mismatches": []
+    },
+    {
+      "rule_id": "la-st-charles-industrial",
+      "state": "LA",
+      "source": "https://stcharlesgov.legistar.com/LegislationDetail.aspx?GUID=4194CDCA-7D35-4DB9-8959-5DE81A5526DC&ID=8028024",
+      "locator": "Ordinance 26-6-3, Appendix A §VI.D and §VII; final action June 1, 2026",
+      "mismatches": []
+    },
+    {
+      "rule_id": "nm-santa-fe-moratorium",
+      "state": "NM",
+      "source": "https://www.santafecountynm.gov/uploads/documents/Ordinance_2026-06.pdf",
+      "locator": "Ordinance 2026-06 §§2(E), 4–6, 10; recorded July 9, 2026",
+      "mismatches": []
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "units": "Rule rows, jurisdiction-frame rows and permit events are separate units. Passing checks do not measure legal accuracy or discovery recall."
+}

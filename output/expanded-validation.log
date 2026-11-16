@@ -1,0 +1,207 @@
+python3 scripts/screen_local.py
+{'prior research': 253, 'unavailable': 1548, 'no keyword match': 3084, 'possible mention': 67, 'no entry point': 2350}
+python3 scripts/validate_screen.py
+5259 local source snapshots verified; 7302 geographies reconciled
+python3 scripts/publish_codebook_rules.py
+11 reviewed claims from 7 codebooks
+python3 scripts/compass_code_sources.py --reuse-export --screen --claims
+Source groups: 5806
+Screen: {'no matching text in readable pages': 58, 'unreadable or blocked': 25, 'candidate text': 4, 'no machine-readable pages': 13}
+Original-verified reviewed provisions: 3
+python3 scripts/codebook_ocr.py --verify
+OCR: 363 pages; 207 keyword contexts; {'unsampled': 500, 'partial OCR only': 33, 'full OCR attempted': 24}
+Visually reviewed provisions: 17
+Verified original hashes, page coverage, OCR receipts and 17 visual claims.
+python3 scripts/import_rule_sources.py
+0 additional primary documents indexed
+python3 scripts/build.py
+{
+  "rules": 299,
+  "default_visible_count": 279,
+  "held_count": 20,
+  "visible_by_state": {
+    "VA": 42,
+    "TX": 12,
+    "OH": 10,
+    "LA": 8,
+    "NV": 4,
+    "AZ": 11,
+    "NM": 6,
+    "MS": 5,
+    "TN": 5,
+    "IN": 12,
+    "CA": 9,
+    "GA": 5,
+    "NY": 4,
+    "IL": 8,
+    "FL": 3,
+    "PA": 29,
+    "WA": 4,
+    "NJ": 2,
+    "OR": 2,
+    "NC": 3,
+    "MN": 5,
+    "MO": 1,
+    "CO": 2,
+    "MI": 4,
+    "UT": 4,
+    "IA": 3,
+    "MD": 2,
+    "OK": 7,
+    "MA": 1,
+    "WI": 3,
+    "NE": 3,
+    "KY": 4,
+    "WY": 2,
+    "ND": 9,
+    "KS": 4,
+    "SC": 1,
+    "AL": 1,
+    "CT": 1,
+    "WV": 5,
+    "NH": 4,
+    "HI": 1,
+    "AR": 3,
+    "ID": 4,
+    "AK": 1,
+    "MT": 2,
+    "SD": 5,
+    "DE": 1,
+    "ME": 1,
+    "RI": 1,
+    "DC": 2,
+    "PR": 1,
+    "VT": 1,
+    "AS": 1,
+    "GU": 1,
+    "MP": 2,
+    "VI": 2
+  },
+  "distinct_urls": 207,
+  "checks": {
+    "snapshot_match": 238,
+    "retrieval_unavailable": 20,
+    "visual_source_check": 41
+  },
+  "locations": 159,
+  "states": {
+    "VA": 55,
+    "TX": 12,
+    "OH": 10,
+    "LA": 8,
+    "NV": 4,
+    "AZ": 12,
+    "NM": 6,
+    "MS": 5,
+    "TN": 5,
+    "IN": 12,
+    "CA": 9,
+    "GA": 7,
+    "NY": 5,
+    "IL": 8,
+    "FL": 3,
+    "PA": 29,
+    "WA": 6,
+    "NJ": 2,
+    "OR": 2,
+    "NC": 3,
+    "MN": 5,
+    "MO": 1,
+    "CO": 2,
+    "MI": 4,
+    "UT": 4,
+    "IA": 4,
+    "MD": 2,
+    "OK": 7,
+    "MA": 1,
+    "WI": 3,
+    "NE": 3,
+    "KY": 4,
+    "WY": 2,
+    "ND": 9,
+    "KS": 4,
+    "SC": 1,
+    "AL": 1,
+    "CT": 1,
+    "WV": 5,
+    "NH": 4,
+    "HI": 1,
+    "AR": 3,
+    "ID": 4,
+    "AK": 1,
+    "MT": 2,
+    "SD": 5,
+    "DE": 1,
+    "ME": 1,
+    "RI": 1,
+    "DC": 2,
+    "PR": 1,
+    "VT": 1,
+    "AS": 1,
+    "GU": 1,
+    "MP": 2,
+    "VI": 2
+  },
+  "coverage_frame": {
+    "matched source": 144,
+    "retrieval failed": 1132,
+    "screened: candidate only": 74,
+    "screened: limited discovery": 3458,
+    "no local website identified": 2585,
+    "evidence held": 8
+  },
+  "unmapped": [
+    "va-lw-reclaimed",
+    "va-water-pretreatment",
+    "az-navajo-minor-air",
+    "az-srpmic-conditional",
+    "nm-epa-construction-authority",
+    "ok-cherokee-nation-consult",
+    "ok-cherokee-nation-land",
+    "ky-louisville-hearing-exception"
+  ]
+}
+python3 scripts/screen_indirect.py
+Ignoring wrong pointing object 6 0 (offset 0)
+Ignoring wrong pointing object 8 0 (offset 0)
+Ignoring wrong pointing object 10 0 (offset 0)
+Ignoring wrong pointing object 12 0 (offset 0)
+Ignoring wrong pointing object 18 0 (offset 0)
+Ignoring wrong pointing object 57 0 (offset 0)
+{'names searched': 3898, 'with leads': 86}
+python3 scripts/extract_values.py
+7 of 7 typed recipes matched
+python3 scripts/worklist.py
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis forecast
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis power
+7302 geographic work items (layers may overlap)
+python3 scripts/export_gis.py
+152 linked GIS features; 8 rows without geometry retained in master table
+python3 scripts/build_history.py
+/Users/pranava/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Exported 14350 history records.
+python3 scripts/check_site_copy.py
+writing: full detail → /Users/pranava/Projects/local ordinance zoning/output/writing-check.json
+design: slop_design: scanned 2 files (14,277 bytes); 0 FAIL, 2 WARN, 0 INFO; 0 exempted by allowlist; 0 rules disabled
+python3 scripts/national_local_screen.py
+python3 scripts/national_geocheck.py
+python3 scripts/national_gate.py
+National frame: 72418 geographies; 91811 government records; 0 Census office entries and 0 geographic sites still queued.
+python3 scripts/validate_federal.py
+Federal identity checks: {'agency_events': 1970, 'distinct_events_after_multistate_crosswalk': 1969, 'distinct_instrument_keys': 42, 'non_authorizing_actions_checked': 1913, 'host_is_not_issuer': True, 'corps_current_status': 'No active status assigned without affirmative evidence.', 'national_first_pass': True}
+python3 scripts/screen_recall.py
+Local positive controls: {'no readable linked pages': 36, 'no candidate from source screen': 31, 'mention discovered': 22}
+python3 scripts/state_scorecard.py
+56 states/territories, 173 leading localities including ties
+python3 scripts/build_coverage.py
+python3 scripts/build_viewer.py
+Standalone atlas: 2,230,296 bytes; 53 state permit registers
+python3 scripts/project_scale.py
+python3 scripts/validate_compass.py --strict-taxonomy
+/Users/pranava/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+FAIL 1 errors, 0 viewer-label notices; AK: 1 provisions / 65 history rows, AL: 1 provisions / 50 history rows, AR: 3 provisions / 29 history rows, AS: 1 provisions / 0 history rows, AZ: 11 provisions / 509 history rows, CA: 9 provisions / 509 history rows, CO: 2 provisions / 76 history rows, CT: 1 provisions / 8 history rows, DC: 2 provisions / 18 history rows, DE: 1 provisions / 3 history rows, FL: 3 provisions / 51 history rows, GA: 5 provisions / 364 history rows, GU: 1 provisions / 9 history rows, HI: 1 provisions / 9 history rows, IA: 3 provisions / 4701 history rows, ID: 4 provisions / 10 history rows, IL: 8 provisions / 391 history rows, IN: 12 provisions / 480 history rows, KS: 4 provisions / 12 history rows, KY: 4 provisions / 11 history rows, LA: 8 provisions / 32 history rows, MA: 1 provisions / 160 history rows, MD: 2 provisions / 65 history rows, ME: 1 provisions / 1 history rows, MI: 4 provisions / 24 history rows, MN: 5 provisions / 51 history rows, MO: 1 provisions / 21 history rows, MP: 2 provisions / 0 history rows, MS: 5 provisions / 32 history rows, MT: 2 provisions / 15 history rows, NC: 3 provisions / 148 history rows, ND: 9 provisions / 18 history rows, NE: 3 provisions / 151 history rows, NH: 4 provisions / 5 history rows, NJ: 2 provisions / 47 history rows, NM: 6 provisions / 40 history rows, NV: 4 provisions / 108 history rows, NY: 4 provisions / 467 history rows, OH: 10 provisions / 258 history rows, OK: 7 provisions / 54 history rows, OR: 2 provisions / 259 history rows, PA: 29 provisions / 142 history rows, PR: 1 provisions / 33 history rows, RI: 1 provisions / 3 history rows, SC: 1 provisions / 38 history rows, SD: 5 provisions / 9 history rows, TN: 5 provisions / 57 history rows, TX: 12 provisions / 962 history rows, UT: 4 provisions / 108 history rows, VA: 42 provisions / 3528 history rows, VI: 2 provisions / 0 history rows, VT: 1 provisions / 8 history rows, WA: 4 provisions / 91 history rows, WI: 3 provisions / 67 history rows, WV: 5 provisions / 13 history rows, WY: 2 provisions / 30 history rows
+make: *** [build] Error 1

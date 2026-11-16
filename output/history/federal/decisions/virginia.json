@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fed-case-grid-cx-va",
+    "state": "VA",
+    "jurisdiction": "Virginia",
+    "county": "",
+    "dataset": "Department of Energy NEPA determinations",
+    "record_no": "CX-035792",
+    "project": "Iron Mountain data center microgrid",
+    "kind": "Categorical exclusion under NEPA",
+    "status": "Categorical exclusion determined",
+    "date": "2026-04-22",
+    "date_role": "DOE decision date",
+    "url": "https://www.energy.gov/nepa/articles/cx-035792-data-center-flexibility-grid-enhancing-technology",
+    "source_url": "https://www.energy.gov/nepa/articles/cx-035792-data-center-flexibility-grid-enhancing-technology",
+    "source_sha256": "76a3947450620425c49e2c7d689511cdedebea5f0b5c49750bc2a1410bc66052",
+    "locator": "CX-035792, project description and determination date",
+    "details": {
+      "federal_issuer": "Department of Energy",
+      "scope": "DOE reviewed one project at two existing sites. Each state card describes the same federal environmental decision; neither card is an issued permit.",
+      "shared_decision": "DOE:CX-035792",
+      "determination_form": "https://www.energy.gov/sites/default/files/2026-07/CX-035792.pdf",
+      "form_sha256": "63d1f2813e3faf7cfa2c19dc22bcd9f15be64c0198e103c3e08c8c9fec25c9ad"
+    }
+  }
+]

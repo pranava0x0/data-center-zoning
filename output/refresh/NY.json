@@ -1,0 +1,88 @@
+{
+  "jurisdiction": "NY",
+  "started_utc": "2026-11-16T22:53:40+00:00",
+  "steps": [
+    {
+      "step": "collectors/new_york/history.py --refresh",
+      "rc": 0,
+      "seconds": 87.7,
+      "tail": ""
+    },
+    {
+      "step": "collectors/federal/epa_named_water_permits.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "NY",
+    "ok": true,
+    "rows": 506,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "collectors/new_york/history.py",
+        "seconds": 0.1,
+        "ok": true
+      },
+      {
+        "script": "collectors/federal/epa_named_water_permits.py",
+        "seconds": 0.2,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "output/history/new_york/history.json": "2d688657bcfac622ceece157e57042ad7af51964a30df8edb65befb5e437bcbd",
+      "output/history/federal/epa_named_water_permits/new_york.json": "22dbb32b34136b627d5b2ebe80302668e4900f1963a0ff8549c60e88f98433c3"
+    }
+  },
+  "diff": {
+    "added": [
+      "ny-job-w9ak-ipjd-B01128862-I1",
+      "ny-job-w9ak-ipjd-B01143895-I1",
+      "ny-job-w9ak-ipjd-B01143895-S1",
+      "ny-job-w9ak-ipjd-B01343773-I1",
+      "ny-job-w9ak-ipjd-M00237432-I1",
+      "ny-job-w9ak-ipjd-M00516740-I1",
+      "ny-job-w9ak-ipjd-M00665617-I1",
+      "ny-job-w9ak-ipjd-M00665634-I1",
+      "ny-job-w9ak-ipjd-M00713958-I1",
+      "ny-job-w9ak-ipjd-M00877597-I1",
+      "ny-job-w9ak-ipjd-M00975664-I1",
+      "ny-job-w9ak-ipjd-M00990578-I1",
+      "ny-job-w9ak-ipjd-M00990578-P3",
+      "ny-job-w9ak-ipjd-M00990578-P4",
+      "ny-job-w9ak-ipjd-M00990578-P5",
+      "ny-job-w9ak-ipjd-M00990578-S2",
+      "ny-job-w9ak-ipjd-M00990578-S3",
+      "ny-job-w9ak-ipjd-M01196880-I1",
+      "ny-job-w9ak-ipjd-M01251230-I1",
+      "ny-job-w9ak-ipjd-M01252416-I1",
+      "ny-job-w9ak-ipjd-M01252416-S1",
+      "ny-job-w9ak-ipjd-M01252416-S2",
+      "ny-job-w9ak-ipjd-M01278410-I1",
+      "ny-job-w9ak-ipjd-M01310727-I1",
+      "ny-job-w9ak-ipjd-M01415768-I1",
+      "ny-job-w9ak-ipjd-M01460439-I1",
+      "ny-job-w9ak-ipjd-Q00600921-I1",
+      "ny-job-w9ak-ipjd-Q00600940-I1",
+      "ny-job-w9ak-ipjd-Q00600940-P1",
+      "ny-job-w9ak-ipjd-Q01033432-I1",
+      "ny-job-w9ak-ipjd-S00723470-I1",
+      "ny-job-w9ak-ipjd-S00723470-P1",
+      "ny-job-w9ak-ipjd-X00666711-I1",
+      "ny-job-w9ak-ipjd-X01081690-I1",
+      "ny-job-w9ak-ipjd-X01096522-I1",
+      "ny-job-w9ak-ipjd-X01112392-I1",
+      "ny-job-w9ak-ipjd-X01154964-I1",
+      "ny-job-w9ak-ipjd-X01154964-S1",
+      "ny-job-w9ak-ipjd-X01154964-S3"
+    ],
+    "removed": [],
+    "changed": [
+      "ny-job-w9ak-ipjd-B00558775-I1"
+    ]
+  },
+  "finished_utc": "2026-11-16T22:55:09+00:00"
+}

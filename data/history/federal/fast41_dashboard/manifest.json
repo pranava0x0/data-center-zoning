@@ -1,0 +1,40 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "124556.json.gz": {
+      "url": "https://data.permits.performance.gov/resource/mcm3-xbid.json?%24where=project_id%3D%27124556%27&%24order=unique_id&%24limit=5000",
+      "bytes": 2755,
+      "sha256": "398dc56d84a821c8b95e1916fd1f92eee72deb0bc5391815a0b576b15edb4a7a"
+    },
+    "126036.json.gz": {
+      "url": "https://data.permits.performance.gov/resource/mcm3-xbid.json?%24where=project_id%3D%27126036%27&%24order=unique_id&%24limit=5000",
+      "bytes": 2433,
+      "sha256": "62ad4689f6b0285d5dc97e050332b81d7063048ac9a25afaa52f754b06bf1713"
+    },
+    "candidate-projects.json.gz": {
+      "url": "https://data.permits.performance.gov/resource/mcm3-xbid.json?%24select=project_id&%24where=upper%28project_title%29+like+%27%25DATA+CENTER%25%27+OR+upper%28project_title%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28project_title%29+like+%27%25DATACENTER%25%27+OR+upper%28project_title%29+like+%27%25DATA+STORAGE+AND+DATA+MANAGEMENT%25%27+OR+upper%28project_title%29+like+%27%25HIGH-PERFORMANCE+COMPUT%25%27+OR+upper%28project_title%29+like+%27%25HIGH+PERFORMANCE+COMPUT%25%27+OR+upper%28project_title%29+like+%27%25SERVER+FARM%25%27+OR+upper%28project_title%29+like+%27%25SERVER+CAMPUS%25%27+OR+upper%28project_title%29+like+%27%25COMPUTE+CAMPUS%25%27+OR+upper%28project_title%29+like+%27%25HYPERSCALE%25%27+OR+upper%28project_title%29+like+%27%25DATA+HALL%25%27+OR+upper%28project_sector%29+like+%27%25DATA+CENTER%25%27+OR+upper%28project_sector%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28project_sector%29+like+%27%25DATACENTER%25%27+OR+upper%28project_sector%29+like+%27%25DATA+STORAGE+AND+DATA+MANAGEMENT%25%27+OR+upper%28project_sector%29+like+%27%25HIGH-PERFORMANCE+COMPUT%25%27+OR+upper%28project_sector%29+like+%27%25HIGH+PERFORMANCE+COMPUT%25%27+OR+upper%28project_sector%29+like+%27%25SERVER+FARM%25%27+OR+upper%28project_sector%29+like+%27%25SERVER+CAMPUS%25%27+OR+upper%28project_sector%29+like+%27%25COMPUTE+CAMPUS%25%27+OR+upper%28project_sector%29+like+%27%25HYPERSCALE%25%27+OR+upper%28project_sector%29+like+%27%25DATA+HALL%25%27+OR+upper%28project_sector_type%29+like+%27%25DATA+CENTER%25%27+OR+upper%28project_sector_type%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28project_sector_type%29+like+%27%25DATACENTER%25%27+OR+upper%28project_sector_type%29+like+%27%25DATA+STORAGE+AND+DATA+MANAGEMENT%25%27+OR+upper%28project_sector_type%29+like+%27%25HIGH-PERFORMANCE+COMPUT%25%27+OR+upper%28project_sector_type%29+like+%27%25HIGH+PERFORMANCE+COMPUT%25%27+OR+upper%28project_sector_type%29+like+%27%25SERVER+FARM%25%27+OR+upper%28project_sector_type%29+like+%27%25SERVER+CAMPUS%25%27+OR+upper%28project_sector_type%29+like+%27%25COMPUTE+CAMPUS%25%27+OR+upper%28project_sector_type%29+like+%27%25HYPERSCALE%25%27+OR+upper%28project_sector_type%29+like+%27%25DATA+HALL%25%27+OR+upper%28action_description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28action_description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28action_description%29+like+%27%25DATACENTER%25%27+OR+upper%28action_description%29+like+%27%25DATA+STORAGE+AND+DATA+MANAGEMENT%25%27+OR+upper%28action_description%29+like+%27%25HIGH-PERFORMANCE+COMPUT%25%27+OR+upper%28action_description%29+like+%27%25HIGH+PERFORMANCE+COMPUT%25%27+OR+upper%28action_description%29+like+%27%25SERVER+FARM%25%27+OR+upper%28action_description%29+like+%27%25SERVER+CAMPUS%25%27+OR+upper%28action_description%29+like+%27%25COMPUTE+CAMPUS%25%27+OR+upper%28action_description%29+like+%27%25HYPERSCALE%25%27+OR+upper%28action_description%29+like+%27%25DATA+HALL%25%27&%24group=project_id&%24order=project_id&%24limit=5000",
+      "bytes": 55,
+      "sha256": "3bd3cef5ab6e8074c056964c3fa3b935b27009cd953cd7a3a6f044bf98b94211"
+    },
+    "count.json.gz": {
+      "url": "https://data.permits.performance.gov/resource/mcm3-xbid.json?%24select=count%28%2A%29+as+n",
+      "bytes": 36,
+      "sha256": "717a135200c62309f4abae99dee30e59ee52bd4f0a67292e2508f1b748b76a30"
+    },
+    "metadata.json.gz": {
+      "url": "https://data.permits.performance.gov/api/views/mcm3-xbid",
+      "bytes": 4304,
+      "sha256": "5af25c7c8d61869c3f188284bd3c2f1d17b070194e31521d85e270f7a3d693ab"
+    },
+    "portfolio.html.gz": {
+      "url": "https://www.permitting.gov/projects/current-fast-41-portfolio",
+      "bytes": 15090,
+      "sha256": "c2388ad43e82207d67b0a3b80bd8109575512708f56a23d5ae927dee7cb21ac7"
+    },
+    "projects.json.gz": {
+      "url": "https://data.permits.performance.gov/resource/mcm3-xbid.json?%24select=project_id%2Cproject_title%2Cproject_sector%2Cproject_sector_type%2Cproject_category%2Cproject_field_location_state%2Ccount%28%2A%29+as+row_count&%24group=project_id%2Cproject_title%2Cproject_sector%2Cproject_sector_type%2Cproject_category%2Cproject_field_location_state&%24order=project_id%2Cproject_title&%24limit=5000",
+      "bytes": 52011,
+      "sha256": "61a0721023d5bc4ad62db31cc03669deffd4a64a3897733b9f4c9ebbf96af125"
+    }
+  }
+}

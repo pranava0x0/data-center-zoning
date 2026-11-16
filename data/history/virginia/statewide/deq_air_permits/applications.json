@@ -1,0 +1,795 @@
+[
+  {
+    "id": "va-vpt-air-78148-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Henrico County",
+    "record_no": "51232-17",
+    "project": "QTS Richmond Data Center",
+    "kind": "Article 1/3 - TV/TIV and TV - Initial or Renewal",
+    "status": "In Progress",
+    "date": "2024-08-30",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/78148",
+    "source_url": "https://permits.virginia.gov/Permit/Details/78148",
+    "locator": "VPT search result ID 78148, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 78148,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "51232",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data",
+        "QTS"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-51232-16"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-109962-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Louisa County",
+    "record_no": "74340-1",
+    "project": "Northeast Creek Technology Campus",
+    "kind": "Article 6 State Major - New Stationary Source",
+    "status": "In Progress",
+    "date": "2025-12-01",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/109962",
+    "source_url": "https://permits.virginia.gov/Permit/Details/109962",
+    "locator": "VPT search result ID 109962, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 109962,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74340",
+      "match_basis": "named government project notice, same facility and jurisdiction",
+      "explicit_project_source": {
+        "site": "Northeast Creek Technology Campus",
+        "locality": "Louisa County",
+        "url": "https://www.nao.usace.army.mil/Media/News-Stories/Article/3952905/nao-2024-01939-amazon-data-services-louisa-virginia/",
+        "evidence": "Data Center Campus to be known as Northeast Creek Technology Campus",
+        "locator": "NAO-2024-01939, project description and purpose"
+      },
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-125673-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "73946-7",
+    "project": "Equinix LLC",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2025-12-23",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/125673",
+    "source_url": "https://permits.virginia.gov/Permit/Details/125673",
+    "locator": "VPT search result ID 125673, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 125673,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "73946",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "Equinix"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-73946-6"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-154535-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Culpeper County",
+    "record_no": "74270-2",
+    "project": "Amazon Data Services Inc - DCA-060",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-05",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/154535",
+    "source_url": "https://permits.virginia.gov/Permit/Details/154535",
+    "locator": "VPT search result ID 154535, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 154535,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74270",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74270-1"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-155946-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74236-2",
+    "project": "Microsoft - Gainesville Data Center - MNZ03",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-16",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/155946",
+    "source_url": "https://permits.virginia.gov/Permit/Details/155946",
+    "locator": "VPT search result ID 155946, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 155946,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74236",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data",
+        "Microsoft"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74236-1"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-157184-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "73200-4",
+    "project": "Equinix LLC - DC 14",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-18",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/157184",
+    "source_url": "https://permits.virginia.gov/Permit/Details/157184",
+    "locator": "VPT search result ID 157184, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 157184,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "73200",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "Equinix"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-73200-2",
+        "va-deq-issued-air-73200-3"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158310-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74184-5",
+    "project": "Vadata Inc IAD-140/141",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-22",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158310",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158310",
+    "locator": "VPT search result ID 158310, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158310,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74184",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74184-4"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158311-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74052-10",
+    "project": "VADATA Incorporated IAD 55",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-24",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158311",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158311",
+    "locator": "VPT search result ID 158311, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158311,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74052",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74052-9"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158312-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74173-7",
+    "project": "CyrusOne Northern Virginia Data Center-Sterling 9",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-24",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158312",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158312",
+    "locator": "VPT search result ID 158312, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158312,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74173",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data",
+        "CyrusOne"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74173-6"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158313-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74284-3",
+    "project": "Vantage Data Center VA3 LLC",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-24",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158313",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158313",
+    "locator": "VPT search result ID 158313, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158313,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74284",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data",
+        "Vantage"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74284-2"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158314-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74080-9",
+    "project": "VADATA, Inc.",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-24",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158314",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158314",
+    "locator": "VPT search result ID 158314, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158314,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74080",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74080-8"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-157182-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74115-5",
+    "project": "VADATA Inc",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-25",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/157182",
+    "source_url": "https://permits.virginia.gov/Permit/Details/157182",
+    "locator": "VPT search result ID 157182, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 157182,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74115",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74115-4"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158300-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Fairfax County",
+    "record_no": "74300-2",
+    "project": "Amazon Data Services Inc - IAD-500/501",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158300",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158300",
+    "locator": "VPT search result ID 158300, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158300,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74300",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74300-1"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158304-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "73995-6",
+    "project": "VADATA IAD Fourteen",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "Complete",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158304",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158304",
+    "locator": "VPT search result ID 158304, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158304,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": "Approved",
+      "registration": "73995",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-73995-5"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158305-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74167-6",
+    "project": "Vadata Inc (IAD132 IAD133)",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158305",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158305",
+    "locator": "VPT search result ID 158305, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158305,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74167",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74167-5"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158318-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74063-6",
+    "project": "VADATA, Inc.",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158318",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158318",
+    "locator": "VPT search result ID 158318, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158318,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74063",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74063-5"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158319-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Spotsylvania County",
+    "record_no": "74288-3",
+    "project": "Amazon Data Services Inc IAD-450",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "Complete",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158319",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158319",
+    "locator": "VPT search result ID 158319, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158319,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": "Approved",
+      "registration": "74288",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74288-2"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158320-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74349-2",
+    "project": "Amazon Data Services Inc IAD-264",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-26",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158320",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158320",
+    "locator": "VPT search result ID 158320, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158320,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74349",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74349-1"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-162995-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74189-6",
+    "project": "Equinix LLC (DC-21/Bldg 2/Bldg 3)",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-29",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/162995",
+    "source_url": "https://permits.virginia.gov/Permit/Details/162995",
+    "locator": "VPT search result ID 162995, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 162995,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74189",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "Equinix"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74189-5"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158331-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Prince William County",
+    "record_no": "74260-3",
+    "project": "NTT Global Data Centers VA10 LLC",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-30",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158331",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158331",
+    "locator": "VPT search result ID 158331, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158331,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74260",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data",
+        "NTT"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74260-2"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-158547-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "73233-9",
+    "project": "Equinix LLC",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-06-30",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/158547",
+    "source_url": "https://permits.virginia.gov/Permit/Details/158547",
+    "locator": "VPT search result ID 158547, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 158547,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "73233",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "Equinix"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-73233-8"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-171844-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Loudoun County",
+    "record_no": "74085-7",
+    "project": "VADATA Inc",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-09-09",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/171844",
+    "source_url": "https://permits.virginia.gov/Permit/Details/171844",
+    "locator": "VPT search result ID 171844, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 171844,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "74085",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-74085-5"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  },
+  {
+    "id": "va-vpt-air-173542-application",
+    "dataset": "Virginia Permit Transparency — DEQ air applications",
+    "jurisdiction": "Henrico County",
+    "record_no": "51232-19",
+    "project": "QTS Richmond Data Center",
+    "kind": "Article 6 Minor NSR - No Public Interest",
+    "status": "In Progress",
+    "date": "2026-09-24",
+    "date_role": "application received",
+    "url": "https://permits.virginia.gov/Permit/Details/173542",
+    "source_url": "https://permits.virginia.gov/Permit/Details/173542",
+    "locator": "VPT search result ID 173542, applicationReceivedDate and applicationNumber",
+    "details": {
+      "state": "VA",
+      "vpt_id": 173542,
+      "agency": "DEQ",
+      "program_type": "Air Permits",
+      "permit_status": null,
+      "registration": "51232",
+      "match_basis": "exact DEQ registration number in a government data-center inventory",
+      "explicit_project_source": null,
+      "discovery_queries": [
+        "data",
+        "QTS"
+      ],
+      "exact_register_action_ids": [],
+      "same_facility_history_ids": [
+        "va-deq-issued-air-51232-16"
+      ],
+      "source_table": "https://permits.virginia.gov/Permit/Search",
+      "evidence_method": "archived government VPT search response",
+      "snapshot_membership": "rolling VPT public search sample"
+    }
+  }
+]

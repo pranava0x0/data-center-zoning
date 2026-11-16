@@ -1,0 +1,34 @@
+{
+  "state": "LA",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 24,
+  "county": {
+    "Richland Parish": 14,
+    "West Feliciana Parish": 6,
+    "Bossier Parish": 2,
+    "Caddo Parish": 2
+  },
+  "agency_reported_locality": {
+    "Rayville": 11,
+    "Saint Francisville": 5,
+    "Richland Parish": 3,
+    "Bossier Parish": 2,
+    "Shreveport": 2,
+    "West Feliciana Parish": 1
+  },
+  "datasets": {
+    "Louisiana DEQ quarterly LPDES actions": 15,
+    "Louisiana DEQ quarterly air actions": 3,
+    "Bossier Parish Police Jury land decisions": 2,
+    "Shreveport land use decisions": 2,
+    "Louisiana DEQ air public notices": 1,
+    "USACE Vicksburg District regulatory notices": 1
+  },
+  "cross_register_date_matches": 15,
+  "quarterly_screen": {
+    "air_files": 37,
+    "air_rows_scanned": 11501,
+    "water_files": 11,
+    "water_rows_scanned": 3638
+  }
+}

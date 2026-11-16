@@ -1,0 +1,224 @@
+[
+  {
+    "key": "pa-jan",
+    "source": "pa-jan",
+    "state": "PA",
+    "jurisdiction": "Susquehanna River Basin Commission",
+    "record_no": "20251217",
+    "project": "Amazon Data Services — PHL100 Data Center Campus",
+    "kind": "Consumptive water use approval modification",
+    "status": "Executive Director hereby approves modification",
+    "date": "2026-01-26",
+    "date_role": "modification date",
+    "locator": "Approval, sections 1–3; docket 20251217",
+    "anchors": [
+      "PHL100 DATA CENTER CAMPUS",
+      "of up to 0.060 mgd",
+      "Executive Director hereby approves modification",
+      "Docket No. 20251217"
+    ],
+    "details": {
+      "issuer_level": "regional",
+      "authority": "Susquehanna River Basin Commission",
+      "locality": "Salem Township",
+      "county": "Luzerne County",
+      "action_type": "srbc_revision",
+      "original_docket": "20240901",
+      "consumptive_limit_mgd": 0.06,
+      "averaging": "30-day average",
+      "water_source": "Production Well 1, bulk water supply and public water supply",
+      "use": "Evaporative cooling and related incidental uses",
+      "note": "Separate basin groundwater approval not required while withdrawals remain below 0.100 mgd on consecutive 30-day average. Does not exempt other state or local reviews."
+    }
+  },
+  {
+    "key": "pa-mar",
+    "source": "pa-mar",
+    "state": "PA",
+    "jurisdiction": "Susquehanna River Basin Commission",
+    "record_no": "20260301",
+    "project": "Amazon Data Services — PHL100 Data Center Campus",
+    "kind": "Consumptive water use approval modification",
+    "status": "Executive Director hereby approves modification",
+    "date": "2026-03-12",
+    "date_role": "modification date",
+    "locator": "Approval, sections 1–3; docket 20260301",
+    "anchors": [
+      "PHL100 DATA CENTER CAMPUS",
+      "of up to 0.129 mgd",
+      "Executive Director hereby approves modification",
+      "Docket No. 20260301"
+    ],
+    "details": {
+      "issuer_level": "regional",
+      "authority": "Susquehanna River Basin Commission",
+      "locality": "Salem Township",
+      "county": "Luzerne County",
+      "action_type": "srbc_revision",
+      "original_docket": "20240901",
+      "consumptive_limit_mgd": 0.129,
+      "averaging": "30-day average",
+      "water_source": "Production Well 1, bulk water supply and public water supply",
+      "use": "Evaporative cooling and related incidental uses",
+      "note": "Separate basin groundwater approval not required while withdrawals remain below 0.100 mgd on consecutive 30-day average. Does not exempt other state or local reviews."
+    }
+  },
+  {
+    "key": "palomino",
+    "source": "tx-pal",
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "record_no": "WQ0005514000",
+    "project": "Palomino Alpha, LLC — data center near Zorn",
+    "kind": "Industrial wastewater discharge (TPDES) application",
+    "status": "NOTICE OF RECEIPT OF APPLICATION",
+    "date": "2026-03-16",
+    "date_role": "application received",
+    "locator": "TCEQ notice p. 1; county-hosted public notice",
+    "anchors": [
+      "PROPOSED PERMIT NO. WQ0005514000",
+      "which owns a data center",
+      "500,000 gallons per day",
+      "March 16, 2026"
+    ],
+    "details": {
+      "issuer_level": "state",
+      "authority": "Texas Commission on Environmental Quality",
+      "county": "Guadalupe County",
+      "action_type": "application",
+      "federal_reference": "TX0149110",
+      "proposed_daily_average_gallons": 500000
+    }
+  },
+  {
+    "key": "sabey-city",
+    "source": "wa-sabey",
+    "state": "WA",
+    "jurisdiction": "Quincy",
+    "record_no": "CQ-010",
+    "project": "Sabey Data Center Properties, LLC — Intergate Quincy",
+    "kind": "Industrial pretreatment municipal wastewater discharge application",
+    "status": "Application for Permit Submittal Date",
+    "date": "2020-01-01",
+    "date_role": "city records application submittal",
+    "locator": "Fact sheet pp. 4–5 and 12; acceptance marked TBD, proposed issuance",
+    "anchors": [
+      "Application for Permit Submittal Date January, 1st 2020",
+      "Sabey Intergate is a data server center",
+      "This proposed permit"
+    ],
+    "details": {
+      "issuer_level": "city",
+      "authority": "City of Quincy",
+      "action_type": "application",
+      "locality": "Quincy",
+      "conditions": "Discharge of non-evaporated cooling wastewater to municipal sewer; no municipal issuance established by fact sheet."
+    }
+  },
+  {
+    "key": "sabey-2012",
+    "source": "wa-sabey",
+    "state": "WA",
+    "jurisdiction": "Washington",
+    "record_no": "",
+    "project": "Sabey Intergate — Quincy",
+    "kind": "Temporary state industrial wastewater discharge permit",
+    "status": "A temporary discharge permit was issued",
+    "date": null,
+    "date_role": "month of issue known; day not given",
+    "locator": "City fact sheet p. 5, facility history (state issuance); historical evidence only",
+    "anchors": [
+      "A temporary discharge permit was issued",
+      "Washington State Department of Ecology in July of 2012",
+      "Sabey Intergate is a data server center"
+    ],
+    "details": {
+      "issuer_level": "state",
+      "authority": "Washington State Department of Ecology",
+      "locality": "Quincy",
+      "action_type": "undated_temp",
+      "issue_month": "2012-07",
+      "reported_number": null,
+      "note": "Not equated to the later municipal CQ-010 or to undated state register entry ST0045517.",
+      "date_precision": "month"
+    },
+    "month": "2012-07"
+  },
+  {
+    "key": "quincy-ms",
+    "source": "wa-paris",
+    "state": "WA",
+    "jurisdiction": "Washington",
+    "record_no": "ST0008102",
+    "project": "MICROSOFT CORP QUINCY",
+    "kind": "Industrial pretreatment wastewater discharge permit",
+    "status": "Inactive",
+    "date": null,
+    "date_role": "issue date not reported in related-permits table",
+    "locator": "Quincy municipal facility PARIS page, Related Permits, related permit ST0008102 (not master permit ST0005278)",
+    "anchors": [
+      "ST0008102 Eastern Pretreatment Industrial User MICROSOFT CORP QUINCY Inactive Eastern"
+    ],
+    "details": {
+      "issuer_level": "state",
+      "authority": "Washington State Department of Ecology",
+      "locality": "Quincy",
+      "action_type": "related_inactive",
+      "site_corroboration_url": "https://www.epa.gov/waterreuse/water-reuse-case-study-quincy-washington",
+      "note": "This is the related facility permit status; the master reclaimed-water permit belongs to the utility."
+    }
+  },
+  {
+    "key": "quincy-intergate",
+    "source": "wa-paris",
+    "state": "WA",
+    "jurisdiction": "Washington",
+    "record_no": "ST0045517",
+    "project": "Intergate Quincy",
+    "kind": "Industrial pretreatment wastewater discharge permit",
+    "status": "Inactive",
+    "date": null,
+    "date_role": "issue date not reported in related-permits table",
+    "locator": "Quincy municipal facility PARIS page, Related Permits, related permit ST0045517 (not master permit ST0005278)",
+    "anchors": [
+      "ST0045517 Eastern Pretreatment Industrial User Intergate Quincy Inactive Eastern"
+    ],
+    "details": {
+      "issuer_level": "state",
+      "authority": "Washington State Department of Ecology",
+      "locality": "Quincy",
+      "action_type": "related_inactive",
+      "site_corroboration_url": "https://www.quincywashington.us/DocumentCenter/View/938/Sabey-Intergate-Fact-Sheet-CQ-010-2020-PDF",
+      "note": "This is the related facility permit status; the master reclaimed-water permit belongs to the utility."
+    }
+  },
+  {
+    "key": "santaclara-fir2011-0294",
+    "source": "ca-scmarshal",
+    "state": "CA",
+    "jurisdiction": "Santa Clara",
+    "record_no": "FIR2011-0294",
+    "project": "DuPont Fabros Technology — SC1 data center, 555 Reed Street",
+    "kind": "Fire marshal permit for refrigerant handling and monitoring system",
+    "status": "Permit Issued",
+    "date": "2011-06-30",
+    "date_role": "last city review on issued revision; exact issue date not stated",
+    "locator": "Appendix P, scanned city permit p. 80 of CEC-hosted PDF; date reviewed, revision 1",
+    "anchors": [
+      "Appendix P",
+      "Permit Inspection for Refrigeration Units using R123"
+    ],
+    "details": {
+      "issuer_level": "city",
+      "authority": "City of Santa Clara Office of the Fire Marshal",
+      "action_type": "sc_fire",
+      "permit_revision": 1,
+      "review_dates": [
+        "2011-05-26",
+        "2011-06-30"
+      ],
+      "visual_page": 80,
+      "note": "City-issued permit sheet for the existing SC1 site, reproduced in a later unrelated state docket exhibit. CEC did not issue this municipal permit. Scope is R123 centrifugal chillers and refrigerant monitoring, not fuel storage. Not a Sequoia Data Center permit."
+    }
+  }
+]

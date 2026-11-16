@@ -1,0 +1,60 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "air-index.html.gz": {
+      "url": "https://www.deq.nc.gov/about/divisions/air-quality/air-quality-permitting",
+      "bytes": 19810,
+      "sha256": "00f2553069a5022d26d27dadd25a4573b07bbb6d1d6196f7ad2df2869956d1b8"
+    },
+    "air.xlsx": {
+      "url": "https://files.nc.gov/deq/Air%20Quality/permits/aapa_reports/all_permitted.xlsx",
+      "bytes": 279927,
+      "sha256": "9b0acc9f9c0904ef8115301bda9b4264776e52c76aa838560a2d59040dd31362"
+    },
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_37_place_500k.zip",
+      "bytes": 1161447,
+      "sha256": "862d9efb07f0c8c726300d5aeaa51a613c4dd43fd1fcdb7ba9fe98561f19f990"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "durham-0.json.gz": {
+      "url": "https://webgis.durhamnc.gov/server/rest/services/PublicServices/Inspections/MapServer/12/query?objectIds=5393%2C8271%2C8289%2C8564%2C9738%2C9749%2C25239%2C34053%2C34096%2C34313%2C34314%2C34315%2C34316%2C34319%2C35635%2C35806%2C35807%2C35808%2C35809%2C35813%2C35814%2C35817%2C35822%2C35824%2C35826%2C35832%2C35833%2C35834%2C35835%2C35836%2C35837%2C35839%2C35845%2C35851%2C35855%2C35858%2C35864%2C36050%2C36060%2C36628%2C36981%2C36994%2C37189%2C37198%2C38110%2C38112%2C38113%2C38116%2C38117%2C38120%2C38124%2C38125%2C38126%2C38129%2C38130%2C38131%2C38134%2C38135%2C38141%2C38316%2C38318%2C38321%2C43306%2C43308%2C43309%2C57425%2C57426%2C57433%2C57438%2C62875%2C73350%2C90771%2C90829%2C90926%2C90972%2C90974%2C91042%2C91195%2C91231%2C91265%2C91392%2C91459%2C91934%2C92072%2C93300%2C93372%2C93439&outFields=OBJECTID%2CPARCEL_ID%2CPermitNum%2CISSUE_DATE%2CCO_SIGNOFF_DATE%2CCOMMENTS%2CDESCRIPTION%2CPROJECT_NAME%2CPROJECT_TYPE%2CBLDB_ACTIVITY%2CBLD_Type%2COccupancy%2CTYPE%2CPmtStatus&returnGeometry=false&f=json",
+      "bytes": 11600,
+      "sha256": "d31b4b90561e98a7a0f6c4940a4af615b5dfef5f3a281920cae0e850b8d36472"
+    },
+    "durham-ids.json.gz": {
+      "url": "https://webgis.durhamnc.gov/server/rest/services/PublicServices/Inspections/MapServer/12/query?where=UPPER%28COMMENTS%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28COMMENTS%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28COMMENTS%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28COMMENTS%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PROJECT_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28PROJECT_TYPE%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECT_TYPE%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PROJECT_TYPE%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PROJECT_TYPE%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "bytes": 286,
+      "sha256": "51f7b4558966eef2993baa47ddc3adbf187b414a96c7b66709d97646883023c4"
+    },
+    "hamlet.html.gz": {
+      "url": "https://www.deq.nc.gov/news/press-releases/2026/08/28/ncdeqs-division-air-quality-requires-additional-monitoring-testing-final-air-quality-permits-amazon",
+      "bytes": 19348,
+      "sha256": "73e6a1884048510fdebcd30b26165167dc54739522e3a663f12f0125dc2050f5"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "raleigh-0.json.gz": {
+      "url": "https://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Building_Permits/FeatureServer/0/query?objectIds=90018%2C92101%2C92702%2C100212%2C101085%2C103657%2C109752%2C110029%2C111950%2C113299%2C116530%2C117974%2C118503%2C123166%2C130176%2C132794%2C135590%2C137783%2C140511%2C159339%2C168246%2C186884%2C198804%2C226231%2C278154&outFields=OBJECTID%2Cpermittypemapped%2Cworkclass%2Cpermitclass%2Cproposedworkdescription%2Capplieddate%2Cissueddate%2Cconstcompletedofficial%2Ccoissueddate%2Cexpiresdate%2Ccountylocation%2Cdescription%2Cjurisdiction%2Cjurisdiction_atissue%2Cjurisdiction_inout_ral%2Clandusedescription%2Coriginaladdress1%2Coriginalcity%2Cprojectname%2Cproposeduse%2Cstatuscurrent%2Cstatuscurrentmapped%2Cpermitnum%2Cvoiddate&returnGeometry=false&f=json",
+      "bytes": 3226,
+      "sha256": "1cb606feb73fb924673f1705547b021c452ba0dee215716199abd442a91bb49a"
+    },
+    "raleigh-ids.json.gz": {
+      "url": "https://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Building_Permits/FeatureServer/0/query?where=UPPER%28proposedworkdescription%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28proposedworkdescription%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28proposedworkdescription%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28proposedworkdescription%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28projectname%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28projectname%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28projectname%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28projectname%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28description%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28description%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28description%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28description%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28proposeduse%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28proposeduse%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28proposeduse%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28proposeduse%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28landusedescription%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28landusedescription%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28landusedescription%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28landusedescription%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "bytes": 172,
+      "sha256": "0e8e8c94c6e4f40ac04c7cd827db00f2a3b25ee49838a1926a716ae6b2ee2a11"
+    },
+    "richmond-hearing.html.gz": {
+      "url": "https://www.deq.nc.gov/news/events/public-hearing-preliminary-determination-air-quality-permit-applications-amazon-data-services-and",
+      "bytes": 18183,
+      "sha256": "dacd6d53d13b8d982caef9c8d30b20f4eaf14159cf6c60ac77141b94ae4b5330"
+    }
+  }
+}

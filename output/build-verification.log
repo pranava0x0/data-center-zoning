@@ -1,0 +1,94 @@
+python3 scripts/screen_local.py
+{'prior research': 303, 'unavailable': 1542, 'no keyword match': 3041, 'possible mention': 66, 'no entry point': 2350}
+python3 scripts/validate_screen.py
+5185 local source snapshots verified; 7302 geographies reconciled
+python3 scripts/build.py
+{
+  "rules": 98,
+  "default_visible_count": 84,
+  "held_count": 14,
+  "visible_by_state": {
+    "VA": 38,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 9,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9
+  },
+  "distinct_urls": 75,
+  "checks": {
+    "snapshot_match": 75,
+    "retrieval_unavailable": 14,
+    "visual_source_check": 9
+  },
+  "locations": 47,
+  "states": {
+    "VA": 51,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 10,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9
+  },
+  "coverage_frame": {
+    "matched source": 40,
+    "retrieval failed": 1538,
+    "screened: limited discovery": 3300,
+    "screened: candidate only": 70,
+    "not yet screened": 2350,
+    "evidence held": 4
+  },
+  "unmapped": [
+    "va-lw-reclaimed",
+    "va-water-pretreatment",
+    "az-navajo-minor-air",
+    "nm-epa-construction-authority"
+  ]
+}
+python3 scripts/screen_indirect.py
+Ignoring wrong pointing object 6 0 (offset 0)
+Ignoring wrong pointing object 8 0 (offset 0)
+Ignoring wrong pointing object 10 0 (offset 0)
+Ignoring wrong pointing object 12 0 (offset 0)
+Ignoring wrong pointing object 18 0 (offset 0)
+Ignoring wrong pointing object 57 0 (offset 0)
+{'names searched': 3892, 'with leads': 78}
+python3 scripts/extract_values.py
+7 of 7 typed recipes matched
+python3 scripts/worklist.py
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis forecast
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis power
+7302 geographic work items (layers may overlap)
+python3 scripts/export_gis.py
+44 linked GIS features; 4 rows without geometry retained in master table
+python3 scripts/build_history.py
+Exported 4459 history records.
+python3 scripts/check_site_copy.py
+writing: full detail → /Users/pranava/Projects/local ordinance zoning/output/writing-check.json
+design: slop_design: scanned 2 files (12,833 bytes); 0 FAIL, 0 WARN, 0 INFO; 0 exempted by allowlist; 0 rules disabled
+python3 scripts/build_viewer.py
+Standalone atlas: 1,248,996 bytes; 5 state permit registers
+python3 scripts/project_scale.py
+python3 scripts/validate_compass.py --strict-taxonomy
+PASS 0 errors, 0 viewer-label notices; AZ: 9 provisions / 408 history rows, IN: 9 provisions / 458 history rows, OH: 4 provisions / 141 history rows, TX: 8 provisions / 650 history rows, VA: 38 provisions / 2802 history rows
+python3 scripts/rank_states.py --check
+10-state queue matches pinned EPRI and directory inputs.
+python3 -m unittest discover -s tests
+................................
+----------------------------------------------------------------------
+Ran 32 tests in 0.186s
+
+OK
+/Applications/Xcode.app/Contents/Developer/usr/bin/make uat
+node tests/viewer.mjs
+UAT passed: 670 assertions across four viewports, HTTP and file://.

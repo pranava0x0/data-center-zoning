@@ -1,0 +1,41 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2730%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 3,
+  "counties": {
+    "Custer County": 1,
+    "Granite County": 1,
+    "Yellowstone County": 1
+  },
+  "places": {
+    "Billings city": 1,
+    "Outside incorporated places": 1,
+    "Philipsburg town": 1
+  },
+  "points": [
+    {
+      "county": "Yellowstone County",
+      "place": "Billings city",
+      "name": "Parsec Data Management",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Granite County",
+      "place": "Philipsburg town",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Custer County",
+      "place": "Outside incorporated places",
+      "name": "State of Montana Data Center",
+      "operator": "State of Montana",
+      "type": "building"
+    }
+  ]
+}

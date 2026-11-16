@@ -1,0 +1,32 @@
+{
+  "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip": {
+    "sha256": "da4051717caec55c75e3748c3608c2a3dbde8d1ff401bbaf4f952e3c3fb63ef1",
+    "bytes": 11626066,
+    "retrieved": "2026-11-16T06:32:21+00:00",
+    "resolved": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip"
+  },
+  "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_25_place_500k.zip": {
+    "sha256": "9b563bdfb4afb73a792331f5d86502e420f23c30544ce0d736c9338421132a6a",
+    "bytes": 162949,
+    "retrieved": "2026-11-16T06:32:21+00:00",
+    "resolved": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_25_place_500k.zip"
+  },
+  "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_66_cousub_500k.zip": {
+    "sha256": "87f3818a14080f4e58bda3e2c1433efb8d00542a0cd24d442b17ede86021e97b",
+    "bytes": 26393,
+    "retrieved": "2026-11-16T06:32:21+00:00",
+    "resolved": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_66_cousub_500k.zip"
+  },
+  "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_16_place_500k.zip": {
+    "sha256": "d26e31b80cf717e68f5e0ad0eb0f953011f5af194b9c82cc7b1684d91616a880",
+    "bytes": 197896,
+    "retrieved": "2026-11-16T06:32:21+00:00",
+    "resolved": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_16_place_500k.zip"
+  },
+  "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_40_place_500k.zip": {
+    "sha256": "7a3ca25d66cdcdfca8e68bbcdf8a05198c3ecaebe9f70a45e50e82f4dfa52e8e",
+    "bytes": 530731,
+    "retrieved": "2026-11-16T06:32:22+00:00",
+    "resolved": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_40_place_500k.zip"
+  }
+}

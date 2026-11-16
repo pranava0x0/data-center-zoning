@@ -1,0 +1,50 @@
+[
+  {
+    "id": "oh-township-geographic-limit",
+    "state": "OH",
+    "jurisdiction": "Ohio",
+    "authority": "Ohio",
+    "geoid": "39",
+    "level": "state",
+    "topic": "zoning authority",
+    "reader_title": "Township zoning stops at the city boundary",
+    "summary": "Ohio law lets townships zone unincorporated land. For a parcel annexed into a city, check the city’s zoning instead. A township name on a map does not settle who issues the permit.",
+    "scope": "generally applicable",
+    "status": "adopted",
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-519.02",
+    "locator": "Ohio Revised Code §519.02(A)",
+    "evidence": "unincorporated territory of the township"
+  },
+  {
+    "id": "oh-jersey-zoning-before-use",
+    "state": "OH",
+    "jurisdiction": "Jersey Township",
+    "authority": "Jersey Township",
+    "geoid": "3908939102",
+    "level": "township",
+    "topic": "prior approval",
+    "reader_title": "Get a township zoning permit before changing the use",
+    "summary": "Within Jersey Township’s zoning jurisdiction, building, moving, expanding or structurally altering a building, or changing how land or a building is used, requires a permit from the township zoning inspector. The rule does not classify data centers as an allowed use.",
+    "scope": "generally applicable",
+    "status": "adopted",
+    "url": "https://www.jerseytownship.us/zoning-resolution-book.html",
+    "locator": "Zoning Resolution §2.00, Zoning Permits Required",
+    "evidence": "or changed in use without a permit"
+  },
+  {
+    "id": "oh-jersey-county-building",
+    "state": "OH",
+    "jurisdiction": "Jersey Township",
+    "authority": "Jersey Township",
+    "geoid": "3908939102",
+    "level": "township",
+    "topic": "building permit",
+    "reader_title": "Township zoning comes first; the county issues the building permit",
+    "summary": "For commercial or industrial construction in the township’s zoning jurisdiction, get the township zoning permit and then apply to Licking County. The county building permit must be in hand before construction begins.",
+    "scope": "generally applicable",
+    "status": "adopted",
+    "url": "https://www.jerseytownship.us/zoning-resolution-book.html",
+    "locator": "Zoning Resolution §2.04, Building Permits Required",
+    "evidence": "first apply for and obtain an approved zoning permit"
+  }
+]

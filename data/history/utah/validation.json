@@ -1,0 +1,52 @@
+{
+  "state": "UT",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 45,
+  "county": {
+    "Salt Lake County": 15,
+    "Millard County": 12,
+    "Utah County": 12,
+    "Duchesne County": 2,
+    "Grand County": 2,
+    "Juab County": 2
+  },
+  "agency_reported_locality": {
+    "Fillmore": 12,
+    "Eagle Mountain": 8,
+    "West Jordan": 4,
+    "Bluffdale": 3,
+    "South Jordan": 3,
+    "Duchesne County": 2,
+    "Grand County": 2,
+    "Mona": 2,
+    "Salt Lake City": 2,
+    "Saratoga Springs": 2,
+    "West Valley City": 2,
+    "Cottonwood Heights": 1,
+    "Provo": 1,
+    "Spanish Fork": 1
+  },
+  "datasets": {
+    "Utah DAQ AOsIssuedAll": 19,
+    "Utah DAQ notice receipts cited in approval orders": 17,
+    "Utah DAQ NOI_Pub_H": 6,
+    "Bluffdale Planning Commission decisions": 1,
+    "Salt Lake City building permit workflow": 1,
+    "Utah DAQ AOsOutForCmt": 1
+  },
+  "cross_register_date_matches": 0,
+  "source_counts": {
+    "AOsIssuedAll": 931,
+    "NOI_Pub_H": 120,
+    "AOsOutForCmt": 13,
+    "OPS_Issued": 63,
+    "OPS_OutForCmt": 1,
+    "OPS_OutForEPA": 2,
+    "Salt Lake City layer 0": 0,
+    "Salt Lake City layer 1": 1,
+    "Salt Lake City layer 2": 0,
+    "Salt Lake City layer 3": 0
+  },
+  "cutoff": "2026-11-15",
+  "excluded_false_positive": "DAQ document 164894: Uinta Wax gas-processing/dehydrator order at a historically named data-center power station; no demonstrated causal connection to a center."
+}

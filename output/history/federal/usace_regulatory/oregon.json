@@ -1,0 +1,229 @@
+[
+  {
+    "id": "federal-corps-09b2a63d9b9acd42578ed69a",
+    "state": "OR",
+    "jurisdiction": "US Army Corps of Engineers — Portland",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "NWP-2023-00301",
+    "project": "Crane Forest Grove Data Center",
+    "kind": "Approved jurisdictional determination",
+    "status": "Approved jurisdictional determination",
+    "date": "2024-04-09",
+    "date_role": "jurisdictional determination date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2023-00301%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2023-00301%22&max=200&start=0&sa=true",
+    "locator": "Army file NWP-2023-00301; ORM jds action; 2024-04-09",
+    "details": {
+      "source_sha256": "e0e74f618d00767ff84eaba27e1f342d3edf189ceccca919e3916596041431ba",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "NWP-2023-00301",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "NWP-2023-00301",
+      "da_number": "NWP-2023-00301",
+      "district_code": "NWP",
+      "orm_view": "jds",
+      "census_county": "Washington County",
+      "census_county_geoid": "41067",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-123.08009%2C45.51538&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+      "longitude": -123.08009,
+      "latitude": 45.51538
+    }
+  },
+  {
+    "id": "federal-corps-16b5ae6fccb198227a6358ee",
+    "state": "OR",
+    "jurisdiction": "US Army Corps of Engineers — Portland",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "NWP-2020-00061",
+    "project": "Flexential H3 Data Center",
+    "kind": "Standard Permit",
+    "status": "Issued With Special Conditions",
+    "date": "2020-07-30",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2020-00061%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2020-00061%22&max=200&start=0&sa=true",
+    "locator": "Army file NWP-2020-00061; ORM issued action; 2020-07-30",
+    "details": {
+      "source_sha256": "d59dd5e0d1225901b0c95daf7df3a0c7909fb005c9b03f868264a35fea1c102c",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "NWP-2020-00061",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "NWP-2020-00061",
+      "da_number": "NWP-2020-00061",
+      "district_code": "NWP",
+      "orm_view": "issued",
+      "census_county": "Washington County",
+      "census_county_geoid": "41067",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-122.9378%2C45.5606&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+      "longitude": -122.9378,
+      "latitude": 45.5606,
+      "orm_public_notice_date": "06-MAR-2020",
+      "consultations": {
+        "efh": [
+          {
+            "actionId": 11067130,
+            "actionFolderId": 5210405,
+            "actionLinkId": 11056159,
+            "beginDate": "2020-02-07",
+            "endDate": "2020-04-16",
+            "agencyNotified": "National Marine Fisheries Service",
+            "closureMethod": "Adverse Effects"
+          }
+        ],
+        "esa": [
+          {
+            "actionId": 11067129,
+            "actionFolderId": 5210405,
+            "actionLinkId": 11056159,
+            "beginDate": "2020-02-07",
+            "endDate": "2020-04-16",
+            "agency": "National Marine Fisheries Service",
+            "consultationType": "Programmatic",
+            "closureMethod": "Activity Covered by a Programmatic Consultation"
+          }
+        ],
+        "s106Nhpa": [
+          {
+            "actionId": 11182275,
+            "actionFolderId": 5210405,
+            "actionLinkId": 11056159,
+            "beginDate": "2020-04-10",
+            "endDate": "2020-05-18",
+            "effectsDetermination": "No Adverse Effect"
+          }
+        ],
+        "wqc401": [
+          {
+            "actionLinkId": 11056159,
+            "beginDate": "2020-06-12",
+            "endDate": "2020-06-12",
+            "certifyingAuthorityNotified": "State Agency",
+            "closureMethod": "401 Agency Certification Issued"
+          }
+        ]
+      },
+      "final_ea_publication": "20250114"
+    }
+  },
+  {
+    "id": "federal-corps-82ad0693799650a023c32930",
+    "state": "OR",
+    "jurisdiction": "US Army Corps of Engineers — Portland",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "NWP-2016-00517",
+    "project": "OR1 Data Center (Digital Realty)",
+    "kind": "Standard Permit",
+    "status": "Issued With Special Conditions",
+    "date": "2017-08-09",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2016-00517%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2016-00517%22&max=200&start=0&sa=true",
+    "locator": "Army file NWP-2016-00517; ORM issued action; 2017-08-09",
+    "details": {
+      "source_sha256": "b1f8eba1d441d9767eca9100cc7c13205ba246896a78cfbc4054b01c3e00da71",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "NWP-2016-00517",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "NWP-2016-00517",
+      "da_number": "NWP-2016-00517",
+      "district_code": "NWP",
+      "orm_view": "issued",
+      "census_county": "Washington County",
+      "census_county_geoid": "41067",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-122.91837%2C45.56781&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+      "longitude": -122.91837,
+      "latitude": 45.56781,
+      "consultations": {
+        "efh": [
+          {
+            "actionId": 9885628,
+            "actionFolderId": 5025561,
+            "actionLinkId": 9815349,
+            "beginDate": "2017-03-24",
+            "endDate": "2017-04-28",
+            "agencyNotified": "National Marine Fisheries Service",
+            "closureMethod": "General Concurrence"
+          }
+        ],
+        "esa": [
+          {
+            "actionId": 9885626,
+            "actionFolderId": 5025561,
+            "actionLinkId": 9815349,
+            "beginDate": "2017-03-24",
+            "endDate": "2017-04-28",
+            "agency": "National Marine Fisheries Service",
+            "consultationType": "Programmatic",
+            "closureMethod": "Activity Covered by a Programmatic Consultation"
+          }
+        ],
+        "s106Nhpa": [
+          {
+            "actionId": 9815353,
+            "actionFolderId": 5025561,
+            "actionLinkId": 9815349,
+            "beginDate": "2017-01-20",
+            "endDate": "2017-03-20",
+            "effectsDetermination": "No Effect"
+          }
+        ],
+        "wqc401": [
+          {
+            "actionLinkId": 9815349,
+            "beginDate": "2016-12-16",
+            "endDate": "2017-07-11",
+            "certifyingAuthorityNotified": "State Agency",
+            "closureMethod": "401 Agency Certification Issued"
+          }
+        ]
+      },
+      "final_ea_publication": "20250114"
+    }
+  },
+  {
+    "id": "federal-corps-d65c488a151907a57243b7e3",
+    "state": "OR",
+    "jurisdiction": "US Army Corps of Engineers — Portland",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "NWP-2025-00021",
+    "project": "OVHcloud and Data Center West Coast LLC-1300 NE 25th Ave Generators",
+    "kind": "Approved jurisdictional determination",
+    "status": "Approved jurisdictional determination",
+    "date": "2025-05-16",
+    "date_role": "jurisdictional determination date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2025-00021%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2025-00021%22&max=200&start=0&sa=true",
+    "locator": "Army file NWP-2025-00021; ORM jds action; 2025-05-16",
+    "details": {
+      "source_sha256": "d52ed95faf4dbfe30295c060a1365a5fe0f1dc8c3994a7d763106525e62ecec7",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "NWP-2025-00021",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "NWP-2025-00021",
+      "da_number": "NWP-2025-00021",
+      "district_code": "NWP",
+      "orm_view": "jds",
+      "census_county": "Washington County",
+      "census_county_geoid": "41067",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-122.9554%2C45.5343&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "1b9b912804a1ba8f4f5548b9a86a89c28c83d4cd387d089c068ed0168ed37509",
+      "longitude": -122.9554,
+      "latitude": 45.5343
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "va-deq-issued-air-74321-2",
+    "dataset": "Virginia DEQ issued data-center air permits",
+    "jurisdiction": "Loudoun Co.",
+    "record_no": "74321-2",
+    "project": "Belmont Innovation Campus",
+    "kind": "Article 6 - mNSR",
+    "status": "Issued",
+    "date": "2026-09-28",
+    "date_role": "permit issuance",
+    "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+    "locator": "Issued register → registration/application 74321-2",
+    "source_url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+    "details": {
+      "state": "VA",
+      "region": "Northern",
+      "source_date_text": "09/28/2026",
+      "source_asof": "2026-11-09",
+      "evidence_method": "republication only — official row not corroborated",
+      "snapshot_membership": "in dated November republication",
+      "republished_snapshot": "2026-11-09",
+      "republished_snapshot_url": "https://publicevidence.org/data/virginia-data-center-air-permits.csv",
+      "republished_document_reference": "https://www.deq.virginia.gov/home/showpublisheddocument/35462/639268002667200000",
+      "deq_air_sites_match": {
+        "registration": "74321",
+        "matched": false,
+        "objectid": null,
+        "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d",
+        "scope": "facility identity only; no permit action dates"
+      }
+    }
+  },
+  {
+    "id": "va-deq-issued-air-52903-5",
+    "dataset": "Virginia DEQ issued data-center air permits",
+    "jurisdiction": "Mecklenburg Co.",
+    "record_no": "52903-5",
+    "project": "Microsoft Corporation - Timber Data Center",
+    "kind": "Article 6 - mNSR",
+    "status": "Issued",
+    "date": "2026-09-29",
+    "date_role": "permit issuance",
+    "url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+    "locator": "Issued register → registration/application 52903-5",
+    "source_url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+    "details": {
+      "state": "VA",
+      "region": "Piedmont",
+      "source_date_text": "09/29/2026",
+      "source_asof": "2026-11-09",
+      "evidence_method": "republication only — official row not corroborated",
+      "snapshot_membership": "in dated November republication",
+      "republished_snapshot": "2026-11-09",
+      "republished_snapshot_url": "https://publicevidence.org/data/virginia-data-center-air-permits.csv",
+      "republished_document_reference": "https://www.deq.virginia.gov/home/showpublisheddocument/25664/639268002668600000",
+      "deq_air_sites_match": {
+        "registration": "52903",
+        "matched": true,
+        "objectid": "3613",
+        "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d",
+        "scope": "facility identity only; no permit action dates"
+      }
+    }
+  }
+]

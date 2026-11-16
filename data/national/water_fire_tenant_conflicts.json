@@ -1,0 +1,15 @@
+{
+  "F214 2503584": {
+    "issuer_name_anchors": [
+      "CELGENE",
+      "BMS"
+    ],
+    "reason": "Temporary hazardous-material lockers name the pharmaceutical operator at a shared or repurposed property; no tie to data-center work."
+  },
+  "F214 2505533": {
+    "issuer_name_anchors": [
+      "BMS FLAMMABLE"
+    ],
+    "reason": "Storage permit names BMS, not the data-center project; city project number and address span other tenants."
+  }
+}

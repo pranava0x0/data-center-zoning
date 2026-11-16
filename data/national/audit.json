@@ -1,0 +1,30 @@
+{
+  "state_levels": 56,
+  "geographic_references": 72418,
+  "layers": {
+    "state": 56,
+    "counties": 3235,
+    "statistical place": 12943,
+    "place": 19686,
+    "other county subdivision": 20234,
+    "cousubs": 16193,
+    "territory subdivisions": 71
+  },
+  "governments_by_sheet": {
+    "General Purpose": 38640,
+    "Special District": 39313,
+    "School District": 12545,
+    "DEP School Dist": 1313
+  },
+  "tribal_geographic_references": 1305,
+  "roster_hash": "3ef3d93c91697b00d4d53384176dc584db9dacbd0f0a23e45657f0a3a1058c28",
+  "government_source": "https://www.census.gov/data/datasets/2022/econ/gus/public-use-files.html",
+  "territories": {
+    "60": "AS",
+    "66": "GU",
+    "69": "MP",
+    "78": "VI",
+    "72": "PR"
+  },
+  "notes": "Includes 50 states, DC and five inhabited territories. Minor Outlying Islands have no equivalent municipal permitting frame in these sources. Tribal polygons are not a list of sovereign governments; special districts require a separate authority check."
+}

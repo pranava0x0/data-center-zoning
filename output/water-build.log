@@ -1,0 +1,96 @@
+python3 scripts/screen_local.py
+{'prior research': 285, 'unavailable': 1544, 'no keyword match': 3057, 'possible mention': 66, 'no entry point': 2350}
+python3 scripts/validate_screen.py
+5211 local source snapshots verified; 7302 geographies reconciled
+python3 scripts/build.py
+{
+  "rules": 98,
+  "default_visible_count": 84,
+  "held_count": 14,
+  "visible_by_state": {
+    "VA": 38,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 9,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9
+  },
+  "distinct_urls": 75,
+  "checks": {
+    "snapshot_match": 75,
+    "retrieval_unavailable": 14,
+    "visual_source_check": 9
+  },
+  "locations": 47,
+  "states": {
+    "VA": 51,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 10,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9
+  },
+  "coverage_frame": {
+    "matched source": 40,
+    "retrieval failed": 1538,
+    "screened: limited discovery": 3300,
+    "screened: candidate only": 70,
+    "not yet screened": 2350,
+    "evidence held": 4
+  },
+  "unmapped": [
+    "va-lw-reclaimed",
+    "va-water-pretreatment",
+    "az-navajo-minor-air",
+    "nm-epa-construction-authority"
+  ]
+}
+python3 scripts/screen_indirect.py
+Ignoring wrong pointing object 6 0 (offset 0)
+Ignoring wrong pointing object 8 0 (offset 0)
+Ignoring wrong pointing object 10 0 (offset 0)
+Ignoring wrong pointing object 12 0 (offset 0)
+Ignoring wrong pointing object 18 0 (offset 0)
+Ignoring wrong pointing object 57 0 (offset 0)
+{'names searched': 3894, 'with leads': 78}
+python3 scripts/extract_values.py
+7 of 7 typed recipes matched
+python3 scripts/worklist.py
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis forecast
+7302 geographic work items (layers may overlap)
+python3 scripts/worklist.py --basis power
+7302 geographic work items (layers may overlap)
+python3 scripts/export_gis.py
+44 linked GIS features; 4 rows without geometry retained in master table
+python3 scripts/build_history.py
+Exported 6375 history records.
+python3 scripts/check_site_copy.py
+writing: full detail → /Users/pranava/Projects/local ordinance zoning/output/writing-check.json
+design: slop_design: scanned 2 files (13,128 bytes); 0 FAIL, 0 WARN, 0 INFO; 0 exempted by allowlist; 0 rules disabled
+python3 scripts/national_local_screen.py
+python3 scripts/build_coverage.py
+python3 scripts/build_viewer.py
+Standalone atlas: 1,430,832 bytes; 41 state permit registers
+python3 scripts/project_scale.py
+python3 scripts/validate_compass.py --strict-taxonomy
+PASS 0 errors, 0 viewer-label notices; AK: 0 provisions / 0 history rows, AL: 0 provisions / 12 history rows, AR: 0 provisions / 4 history rows, AS: 0 provisions / 0 history rows, AZ: 9 provisions / 413 history rows, CA: 0 provisions / 419 history rows, CO: 0 provisions / 19 history rows, CT: 0 provisions / 0 history rows, DC: 0 provisions / 0 history rows, DE: 0 provisions / 0 history rows, FL: 0 provisions / 16 history rows, GA: 0 provisions / 136 history rows, GU: 0 provisions / 2 history rows, HI: 0 provisions / 2 history rows, IA: 0 provisions / 4 history rows, ID: 0 provisions / 2 history rows, IL: 0 provisions / 240 history rows, IN: 9 provisions / 466 history rows, KS: 0 provisions / 1 history rows, KY: 0 provisions / 2 history rows, LA: 2 provisions / 27 history rows, MA: 0 provisions / 4 history rows, MD: 0 provisions / 11 history rows, ME: 0 provisions / 0 history rows, MI: 0 provisions / 2 history rows, MN: 0 provisions / 38 history rows, MO: 0 provisions / 6 history rows, MP: 0 provisions / 0 history rows, MS: 4 provisions / 30 history rows, MT: 0 provisions / 6 history rows, NC: 0 provisions / 9 history rows, ND: 0 provisions / 1 history rows, NE: 0 provisions / 3 history rows, NH: 0 provisions / 0 history rows, NJ: 0 provisions / 9 history rows, NM: 3 provisions / 33 history rows, NV: 3 provisions / 42 history rows, NY: 0 provisions / 467 history rows, OH: 4 provisions / 141 history rows, OK: 0 provisions / 0 history rows, OR: 0 provisions / 17 history rows, PA: 0 provisions / 125 history rows, PR: 0 provisions / 0 history rows, RI: 0 provisions / 0 history rows, SC: 0 provisions / 7 history rows, SD: 0 provisions / 4 history rows, TN: 4 provisions / 50 history rows, TX: 8 provisions / 745 history rows, UT: 0 provisions / 17 history rows, VA: 38 provisions / 2805 history rows, VI: 0 provisions / 0 history rows, VT: 0 provisions / 0 history rows, WA: 0 provisions / 29 history rows, WI: 0 provisions / 0 history rows, WV: 0 provisions / 0 history rows, WY: 0 provisions / 9 history rows
+python3 scripts/rank_states.py --check
+10-state queue matches pinned EPRI and directory inputs.
+python3 -m unittest discover -s tests
+......................................
+----------------------------------------------------------------------
+Ran 38 tests in 0.318s
+
+OK
+/Applications/Xcode.app/Contents/Developer/usr/bin/make uat
+node tests/viewer.mjs
+UAT passed: 2244 assertions across four viewports, HTTP and file://.

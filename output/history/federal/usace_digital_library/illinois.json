@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-library-elk-grove",
+    "state": "IL",
+    "jurisdiction": "Elk Grove Village",
+    "county": "Cook County",
+    "dataset": "Army Corps Digital Library project actions",
+    "record_no": "LRC-2021-849",
+    "project": "Prime Data Centers — Elk Grove Village",
+    "kind": "Jurisdictional determination",
+    "status": "Approved jurisdictional determination",
+    "date": "2022-01-21",
+    "date_role": "approved determination report completion date",
+    "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/2705/download",
+    "source_url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/2705/download",
+    "source_sha256": "d929c05a5b915183c097df45a3f384c5cca3f72b2f21fbff01aba43107df33ed",
+    "locator": "p. 1, Sections I(A)–(C), report completion date and district file",
+    "details": {
+      "federal_issuer": "US Army Corps of Engineers",
+      "scope": "This approved determination addresses aquatic jurisdiction at the site; it is not a permit authorizing construction or a discharge.",
+      "corps_file": "LRC-2021-849",
+      "document_id": 2705,
+      "library_record": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/2705",
+      "library_metadata_sha256": "045472dacd2c2571af0ffe8859cbc619344b26173e43c3cc46d8b1299c56aa99",
+      "association": "direct site action",
+      "district": "United States. Army. Corps of Engineers. Chicago District;"
+    }
+  }
+]

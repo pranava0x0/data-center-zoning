@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ky-25-cat3-0006-opened",
+    "dataset": "Louisville Metro development plans",
+    "jurisdiction": "Louisville/Jefferson County metro government",
+    "record_no": "25-CAT3-0006",
+    "project": "Camp Ground Road Data Center",
+    "kind": "Category 3 development plan",
+    "status": "Opened",
+    "date": "2025-03-24",
+    "date_role": "record opened",
+    "locator": "LOJIC planning case 25-CAT3-0006",
+    "state": "KY",
+    "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=54525&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "source_url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=54525&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "details": {
+      "source_sha256": "e5102a8386b8005f404fd7b618fddf4cf5539b2463dca85aaf632e1cb7c1ddc1",
+      "evidence": "25-CAT3-0006",
+      "county": "Jefferson County",
+      "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+      "identity_page": 4
+    }
+  },
+  {
+    "id": "ky-25-cat3-0006-status",
+    "dataset": "Louisville Metro development plans",
+    "jurisdiction": "Louisville/Jefferson County metro government",
+    "record_no": "25-CAT3-0006",
+    "project": "Camp Ground Road Data Center",
+    "kind": "Category 3 development plan",
+    "status": "APPROVED",
+    "date": "2025-07-24",
+    "date_role": "register status date",
+    "locator": "LOJIC planning case 25-CAT3-0006",
+    "state": "KY",
+    "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=54525&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "source_url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=54525&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "details": {
+      "source_sha256": "e5102a8386b8005f404fd7b618fddf4cf5539b2463dca85aaf632e1cb7c1ddc1",
+      "evidence": "25-CAT3-0006",
+      "county": "Jefferson County",
+      "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+      "identity_page": 4
+    }
+  },
+  {
+    "id": "ky-25-cat3-0015-opened",
+    "dataset": "Louisville Metro development plans",
+    "jurisdiction": "Louisville/Jefferson County metro government",
+    "record_no": "25-CAT3-0015",
+    "project": "Camp Ground Road Data Center",
+    "kind": "Category 3 development plan",
+    "status": "Opened",
+    "date": "2025-10-13",
+    "date_role": "record opened",
+    "locator": "LOJIC planning case 25-CAT3-0015",
+    "state": "KY",
+    "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "source_url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "details": {
+      "source_sha256": "2a2cec5349034d97ee335d6cae5f3c6ca5a648c33723c0fc33bc7860ea2c04ee",
+      "evidence": "25-CAT3-0015",
+      "county": "Jefferson County",
+      "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+      "identity_page": 4
+    }
+  },
+  {
+    "id": "ky-25-cat3-0015-status",
+    "dataset": "Louisville Metro development plans",
+    "jurisdiction": "Louisville/Jefferson County metro government",
+    "record_no": "25-CAT3-0015",
+    "project": "Camp Ground Road Data Center",
+    "kind": "Category 3 development plan",
+    "status": "APPROVED",
+    "date": "2026-05-10",
+    "date_role": "register status date",
+    "locator": "LOJIC planning case 25-CAT3-0015",
+    "state": "KY",
+    "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "source_url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+    "details": {
+      "source_sha256": "2a2cec5349034d97ee335d6cae5f3c6ca5a648c33723c0fc33bc7860ea2c04ee",
+      "evidence": "25-CAT3-0015",
+      "county": "Jefferson County",
+      "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+      "identity_page": 4
+    }
+  },
+  {
+    "id": "ky-campground-hearing",
+    "dataset": "Louisville Metro development plans",
+    "jurisdiction": "Louisville/Jefferson County metro government",
+    "record_no": "25-CAT3-0015",
+    "project": "Camp Ground Road Data Center",
+    "kind": "Category 3 plan hearing",
+    "status": "On agenda",
+    "date": "2026-03-05",
+    "date_role": "meeting date",
+    "locator": "March 5 planning commission item 7",
+    "state": "KY",
+    "url": "https://louisvilleky.new.swagit.com/events/45332",
+    "source_url": "https://louisvilleky.new.swagit.com/events/45332",
+    "details": {
+      "source_sha256": "5d303df76600d04c5fa6e86296f0eed21850bee68796ef9c6d1ca99035f1a6e0",
+      "evidence": "Camp Ground Rd Data Center",
+      "county": "Jefferson County"
+    }
+  },
+  {
+    "id": "ky-oldham-dw",
+    "dataset": "Oldham County Project Lincoln withdrawals",
+    "jurisdiction": "Oldham County",
+    "record_no": "Project Lincoln: D.W. Griffith",
+    "project": "Project Lincoln / D.W. Griffith",
+    "kind": "Land use application withdrawal",
+    "status": "Withdrawal posted",
+    "date": null,
+    "date_role": "date unavailable",
+    "locator": "County Board of Adjustments project page; D.W. Griffith",
+    "state": "KY",
+    "url": "https://www.oldhamcountyky.gov/projectlincoln",
+    "source_url": "https://www.oldhamcountyky.gov/projectlincoln",
+    "details": {
+      "source_sha256": "8312e80fe56a77ff31d6b049fc327381107d130c3c4d3bf21bc2a07465b3c318",
+      "evidence": "D.W. Griffith Withdrawal Email",
+      "county": "Oldham County"
+    }
+  },
+  {
+    "id": "ky-oldham-hwy",
+    "dataset": "Oldham County Project Lincoln withdrawals",
+    "jurisdiction": "Oldham County",
+    "record_no": "Project Lincoln: Highway 53",
+    "project": "Project Lincoln / Highway 53",
+    "kind": "Land use application withdrawal",
+    "status": "Withdrawal posted",
+    "date": null,
+    "date_role": "date unavailable",
+    "locator": "County Board of Adjustments project page; Highway 53",
+    "state": "KY",
+    "url": "https://www.oldhamcountyky.gov/projectlincoln",
+    "source_url": "https://www.oldhamcountyky.gov/projectlincoln",
+    "details": {
+      "source_sha256": "8312e80fe56a77ff31d6b049fc327381107d130c3c4d3bf21bc2a07465b3c318",
+      "evidence": "Highway 53 Withdrawal Letter",
+      "county": "Oldham County"
+    }
+  },
+  {
+    "id": "ky-psc-2025-00045",
+    "dataset": "Kentucky PSC project information requests",
+    "jurisdiction": "Kentucky",
+    "record_no": "2025-00045",
+    "project": "Camp Ground Road Data Center",
+    "kind": "Utility generation case information request",
+    "status": "Information requested",
+    "date": "2025-03-27",
+    "date_role": "staff information request date",
+    "locator": "Question 4, p. 7; demand assumptions test",
+    "state": "KY",
+    "url": "https://psc.ky.gov/order_vault/Orders_2025/202500045_03272025.pdf#page=7",
+    "source_url": "https://psc.ky.gov/order_vault/Orders_2025/202500045_03272025.pdf",
+    "details": {
+      "source_sha256": "2bf19a91574637d614f7a0673c8b66619c5fefc73a42a6b62c6f2008a4d56c2e",
+      "evidence": "402 MW Camp Ground Road data center only"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "review": {
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2025/08/ARC-OCT072021.pdf",
+    "sha256": "0609f3d1155af137003a365ef84b65f5323c14504c1988d21cbbc9f79a2a0a29",
+    "bytes": 4077762,
+    "ext": "pdf"
+  },
+  "minutes": {
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+    "bytes": 22028865,
+    "ext": "pdf"
+  }
+}

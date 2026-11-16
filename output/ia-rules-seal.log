@@ -1,0 +1,66 @@
+{
+  "rules": 115,
+  "default_visible_count": 100,
+  "held_count": 15,
+  "visible_by_state": {
+    "VA": 38,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 9,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9,
+    "PA": 5,
+    "CO": 1,
+    "UT": 3,
+    "IA": 3,
+    "AS": 1,
+    "GU": 1,
+    "MP": 1,
+    "VI": 1
+  },
+  "distinct_urls": 86,
+  "checks": {
+    "snapshot_match": 87,
+    "retrieval_unavailable": 15,
+    "visual_source_check": 13
+  },
+  "locations": 58,
+  "states": {
+    "VA": 51,
+    "TX": 8,
+    "OH": 4,
+    "LA": 2,
+    "NV": 3,
+    "AZ": 10,
+    "NM": 3,
+    "MS": 4,
+    "TN": 4,
+    "IN": 9,
+    "PA": 5,
+    "CO": 1,
+    "UT": 3,
+    "IA": 4,
+    "AS": 1,
+    "GU": 1,
+    "MP": 1,
+    "VI": 1
+  },
+  "coverage_frame": {
+    "matched source": 50,
+    "retrieval failed": 1538,
+    "screened: limited discovery": 3300,
+    "screened: candidate only": 70,
+    "not yet screened": 2350,
+    "evidence held": 5
+  },
+  "unmapped": [
+    "va-lw-reclaimed",
+    "va-water-pretreatment",
+    "az-navajo-minor-air",
+    "nm-epa-construction-authority"
+  ]
+}

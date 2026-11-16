@@ -1,0 +1,24 @@
+{
+  "sige": {
+    "url": "https://sigejp.pr.gov/server/rest/services/MIPR/Permisos/MapServer/layers?f=pjson",
+    "sha256": "302cf2a54240c396f4fd5c30bfcb1ea47e833f0f35aa7e328d1267186b53a6d9",
+    "bytes": 205811,
+    "ext": "json"
+  },
+  "sige2": {
+    "url": "https://sige.pr.gov/server/rest/services/MIPR/Permisos/MapServer",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "info": {
+    "url": "https://www.estadisticas.pr.gov/productos/pemas---permisos-de-construccion",
+    "sha256": "a98d47abdc37206f2cc99111aec77654d869f081a2d754aae6a3deeec888b777",
+    "bytes": 39706,
+    "ext": "html"
+  },
+  "authority": {
+    "url": "https://www.estadisticas.pr.gov/productos/mapa-interactivo-de-pr",
+    "sha256": "b37457c2d99673ddaa3f3acedac2fec50a8fbc378737612e2bc939b16ee1b7b7",
+    "bytes": 39649,
+    "ext": "html"
+  }
+}

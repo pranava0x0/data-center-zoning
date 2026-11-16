@@ -1,0 +1,104 @@
+{
+  "dx": {
+    "url": "https://permits.air.idem.in.gov/45165f.pdf",
+    "ext": "pdf",
+    "bytes": 1180515,
+    "sha256": "128beaed3864fa13b7b19dea1e1dfc30a0e70142452cacf33b0cbe1327ce5ad6"
+  },
+  "ftw": {
+    "url": "https://permits.air.idem.in.gov/47378f.pdf",
+    "ext": "pdf",
+    "bytes": 4534916,
+    "sha256": "94fa43293b2baf90d8f957f8d39efa03372f7032a4946270d4f30567e02021ff"
+  },
+  "aws": {
+    "url": "https://www.in.gov/idem/files/notice_20261118_air_50362-50375pn-js.pdf",
+    "ext": "pdf",
+    "bytes": 158127,
+    "sha256": "1e86807cc9d9634a16deeed741830933569da3442a6dc69b8ff587f1b00f19d6"
+  },
+  "water": {
+    "url": "https://www.in.gov/idem/files/notice_20260710_401_2025-78-71-enh-wqc-2.pdf",
+    "ext": "pdf",
+    "bytes": 7065582,
+    "sha256": "d393dcd461771f90622a6fb2bc9ef9ad331ab4f52f9ed2935fcc15f991d48f31"
+  },
+  "awsorig": {
+    "url": "https://ecm.idem.in.gov/cs/idcplg?IdcService=GET_FILE&allowInterrupt=1&dDocName=83762338&dID=83758295",
+    "ext": "pdf",
+    "bytes": 1756055,
+    "sha256": "70b9871829cc1bd3b7791b3368d5f73379da3c822e84919a9a4b10e1c30ee0c5"
+  },
+  "awsfinal": {
+    "url": "https://permits.air.idem.in.gov/48298f.pdf",
+    "ext": "pdf",
+    "bytes": 2626717,
+    "sha256": "fd2a3d81e0b1904039124f3f0f3ffb55d5c541956ffd270b69504266c8b69be6"
+  },
+  "awsfirst": {
+    "url": "https://permits.air.idem.in.gov/47750f.pdf",
+    "ext": "pdf",
+    "bytes": 3198591,
+    "sha256": "b3f77edaa90f0929f8a0c0011462422e5e22dee7d7839b240522517c93207cf8"
+  },
+  "dxfirst": {
+    "url": "https://permits.air.idem.in.gov/42502f.pdf",
+    "ext": "pdf",
+    "bytes": 1941020,
+    "sha256": "fcb1dcf5685f1069cafcbfd681840fc6f8fa7338fe1cab21236312e79521f07e"
+  },
+  "eki": {
+    "url": "https://www.in.gov/idem/files/notice_20261125_air_50527pn-js.pdf",
+    "ext": "pdf",
+    "bytes": 157472,
+    "sha256": "a19189c834af1e7e8954db297c60dd36b221d55fdbb0bb6b1df17a3f4661451f"
+  },
+  "jasper": {
+    "url": "https://www.in.gov/idem/files/notice_20261024_air_50413pn-cm.pdf",
+    "ext": "pdf",
+    "bytes": 156598,
+    "sha256": "e4203a920b26ed75f873c170488637d99f697f0391cf80100cc82a5376af093f"
+  },
+  "lake": {
+    "url": "https://www.in.gov/idem/files/notice_20261213_air_50590pn-cm.pdf",
+    "ext": "pdf",
+    "bytes": 157965,
+    "sha256": "6f461a4a6e1d0e0aacec370acdc4327d312e2c1e29a126d0408b883811f44bb5"
+  },
+  "lpo": {
+    "url": "https://www.in.gov/idem/files/notice_20261128_air_50526pn-cm.pdf",
+    "ext": "pdf",
+    "bytes": 156609,
+    "sha256": "36f7ae7bc3890cc559abd84824ed478c72cea67c1d6c887c8ffdac319faf4640"
+  },
+  "waterdef": {
+    "url": "https://ecm.idem.in.gov/cs/idcplg?IdcService=GET_FILE&Rendition=web&dDocName=83838498&dID=83834455&noSaveAs=1",
+    "ext": "pdf",
+    "bytes": 209038,
+    "sha256": "f72033c4a4c2fbde233bf39cc387e13a2692b915a840aef7f63afc3339eb474c"
+  },
+  "hobart": {
+    "url": "https://www.cityofhobart.org/AgendaCenter/ViewFile/Agenda/_04072026-2552?MOBILE=ON",
+    "ext": "pdf",
+    "bytes": 10536,
+    "sha256": "1e882d34e007bc9be822261da088e56bea6610eb040188fbae9d8bffded71306"
+  },
+  "_04022026-2549": {
+    "url": "https://www.cityofhobart.org/AgendaCenter/ViewFile/Minutes/_04022026-2549",
+    "ext": "pdf",
+    "bytes": 329803,
+    "sha256": "17a7c07135e15ff417009bdd16b71b91fd8269ac4da34e438be68e6eac9a5502"
+  },
+  "_05072026-2563": {
+    "url": "https://www.cityofhobart.org/AgendaCenter/ViewFile/Minutes/_05072026-2563",
+    "ext": "pdf",
+    "bytes": 20444419,
+    "sha256": "c49bfe610310461b6e75dbaa225c43f8be5c4ccdb090bf16e28f2eec43730089"
+  },
+  "_06042026-2588": {
+    "url": "https://www.cityofhobart.org/AgendaCenter/ViewFile/Minutes/_06042026-2588",
+    "ext": "pdf",
+    "bytes": 189298,
+    "sha256": "ebe53b96663b0c50684afd1469f9e0dc3f44614ef695861e04d0ad26988c8352"
+  }
+}

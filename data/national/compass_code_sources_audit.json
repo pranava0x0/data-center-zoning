@@ -1,0 +1,55 @@
+{
+  "catalog_as_of": "2026-11-15",
+  "census_vintage": 2025,
+  "release_counts": {
+    "wind": {
+      "feature_rows": 12297,
+      "distinct_source_geography_groups": 1372,
+      "sha256": "1178c79bff4eb88ed423639ccea0af3b1120d4b63c32ae5138bd2fdcacf9268f"
+    },
+    "solar": {
+      "feature_rows": 11481,
+      "distinct_source_geography_groups": 1378,
+      "sha256": "8bceb085ddb76117176c326aa42b35fe0eca983a2ebc1760fca57ce32320dca7"
+    },
+    "geothermal_heat_pumps": {
+      "feature_rows": 2638,
+      "distinct_source_geography_groups": 665,
+      "sha256": "ad688bcb2c9dfa5b08fc2685834bb63407b2157fc7dbec720b290f80c1c15e8d"
+    },
+    "geothermal_electricity": {
+      "feature_rows": 344,
+      "distinct_source_geography_groups": 102,
+      "sha256": "8b07c8b7ee9a9a9b0f2790357ee0a03a656f109437911fdbb71ced85bd246b8d"
+    },
+    "high_voltage_transmission": {
+      "feature_rows": 7706,
+      "distinct_source_geography_groups": 2289,
+      "sha256": "2a4484a326636223ccf071427f1a9053a574afe54505e31a7ac91e9b917c94d5"
+    }
+  },
+  "original_feature_rows": 34466,
+  "source_geography_technology_groups": 5806,
+  "nonempty_url_groups": 5756,
+  "unique_urls": 5327,
+  "census_ids_seen": 4441,
+  "geography_status_group_counts": {
+    "state pseudo-FIPS + state name": 121,
+    "county GEOID + name": 1878,
+    "subdivision GEOID + name + parent": 2113,
+    "geography only: statistical/non-governmental layer": 863,
+    "independent city county-equivalent GEOID + name": 5,
+    "unresolved: GEOID absent or state mismatch": 2,
+    "unresolved: local name mismatch": 34,
+    "GEOID + local name": 790
+  },
+  "url_attribution_group_counts": {
+    "external or unattributed host": 2081,
+    "government host: issuing scope unverified": 1483,
+    "code publisher: official delegation not verified": 1051,
+    "matched jurisdiction website host": 1053,
+    "linked government codebook referral": 88,
+    "no valid HTTP source": 50
+  },
+  "methodology": "One row per technology and original jurisdiction fields, original code and URL. Row ranges refer to 1-based Excel rows. Matching is exact FIPS with compatible Census layer, independent state and name confirmation; statistical geographies remain authority-unconfirmed. No aggregation of technology outcomes into data center law."
+}

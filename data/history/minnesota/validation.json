@@ -1,0 +1,44 @@
+{
+  "state": "MN",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 38,
+  "county": {
+    "Dakota County": 17,
+    "Hennepin County": 11,
+    "Carver County": 7,
+    "Rice County": 2,
+    "Nobles County": 1
+  },
+  "agency_reported_locality": {
+    "Minneapolis": 11,
+    "Chaska": 7,
+    "Rosemount": 7,
+    "Eagan": 5,
+    "Farmington": 5,
+    "Faribault": 2,
+    "Summit Lake Township": 1
+  },
+  "datasets": {
+    "Minnesota EQB environmental review notices": 20,
+    "Minneapolis CCS construction permits": 11,
+    "Chaska Cloud HQ municipal decisions": 7
+  },
+  "cross_register_date_matches": 0,
+  "eqb_unique_project_matches": 6,
+  "year_query_results": {
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 1,
+    "2023": 51,
+    "2024": 82,
+    "2025": 97,
+    "2026": 130
+  },
+  "minneapolis_candidates": 15,
+  "cutoff": "2026-11-15"
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ks-beale-contract",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Mount Sunflower development agreement",
+    "project": "Beale / Mount Sunflower data center",
+    "kind": "Development agreement",
+    "status": "Final",
+    "date": "2025-09-23",
+    "date_role": "agreement as-of date",
+    "locator": "Final redacted agreement, cover",
+    "state": "KS",
+    "url": "https://www.desotoks.us/DocumentCenter/View/3805/Final-Development-Agreement-De-Soto---Mount-Sunflower#page=1",
+    "source_url": "https://www.desotoks.us/DocumentCenter/View/3805/Final-Development-Agreement-De-Soto---Mount-Sunflower",
+    "details": {
+      "source_sha256": "0e8089f95e5c8375270921e023debe47d72cbc7224d8f86a21db47dd71404250",
+      "evidence": "DATED AS OF SEPTEMBER 23, 2025",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-beale-council",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Mount Sunflower development agreement",
+    "project": "Beale / Mount Sunflower data center",
+    "kind": "Development agreement and IRB incentive intent",
+    "status": "Approved",
+    "date": null,
+    "date_role": "month only: August 2025",
+    "locator": "Beale project overview, City Council action",
+    "state": "KS",
+    "url": "https://www.desotoks.us/496/Beale-Data-Center",
+    "source_url": "https://www.desotoks.us/496/Beale-Data-Center",
+    "details": {
+      "source_sha256": "b2decbd043905a863a27f5bc32618509dae51ad101467e92aaeb0aa402951c12",
+      "evidence": "City Council approved a Development Agreement",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center",
+      "month": "2025-08"
+    }
+  },
+  {
+    "id": "ks-beale-phase1",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Beale Phase 1 site plan",
+    "project": "Beale / Mount Sunflower data center",
+    "kind": "Site plan for buildings 1 and 2",
+    "status": "Conditionally approved",
+    "date": null,
+    "date_role": "exact vote date unavailable",
+    "locator": "Current project status",
+    "state": "KS",
+    "url": "https://www.desotoks.us/496/Beale-Data-Center",
+    "source_url": "https://www.desotoks.us/496/Beale-Data-Center",
+    "details": {
+      "source_sha256": "b2decbd043905a863a27f5bc32618509dae51ad101467e92aaeb0aa402951c12",
+      "evidence": "has received conditional approval from the City",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-beale-phase2",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Beale Phase 2 site plan",
+    "project": "Beale / Mount Sunflower data center",
+    "kind": "Site plan for Phase 2",
+    "status": "Tabled",
+    "date": "2026-10-27",
+    "date_role": "commission vote",
+    "locator": "Minutes pp. 7–8, item e, Phase 2",
+    "state": "KS",
+    "url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689#page=8",
+    "source_url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689",
+    "details": {
+      "source_sha256": "11855e2535a75bec223ae68f4670b8cee45312ddb8d21f678bc8c454ffc78577",
+      "evidence": "to table the item until the next meeting",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-beale-water-agreement",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Mount Sunflower second supplemental agreement",
+    "project": "Beale / Mount Sunflower data center",
+    "kind": "Development agreement amendment — water and wastewater",
+    "status": "Approved",
+    "date": "2026-10-01",
+    "date_role": "council meeting date",
+    "locator": "October 2 city notice; October 1 council action",
+    "state": "KS",
+    "url": "https://www.desotoks.us/m/newsflash/Home/Detail/357",
+    "source_url": "https://www.desotoks.us/m/newsflash/Home/Detail/357",
+    "details": {
+      "source_sha256": "3c0b6fff124390619d3e1b7d7a70972ece13bedebc88092b485416b53e822389",
+      "evidence": "City Council approved a second supplemental agreement",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-digital-intro",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Digital Realty development presentation",
+    "project": "Digital Realty / Astra Enterprise Park",
+    "kind": "City council project presentation",
+    "status": "On agenda",
+    "date": "2026-06-04",
+    "date_role": "council meeting date",
+    "locator": "Project resources, June 4 meeting",
+    "state": "KS",
+    "url": "https://www.desotoks.us/498/Digital-Realty-Data-Center",
+    "source_url": "https://www.desotoks.us/498/Digital-Realty-Data-Center",
+    "details": {
+      "source_sha256": "bd26093a72ef860d80c419db007a24e09ae26561bc2444ef22801ab88288da25",
+      "evidence": "Digital Realty Data Center Presentation",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-digital-phase1-agenda",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Digital Realty North site plan",
+    "project": "Digital Realty / Astra Enterprise Park",
+    "kind": "Site plan on planning commission agenda",
+    "status": "On agenda",
+    "date": "2026-09-22",
+    "date_role": "meeting date",
+    "locator": "Project resources, September 22 meeting",
+    "state": "KS",
+    "url": "https://www.desotoks.us/498/Digital-Realty-Data-Center",
+    "source_url": "https://www.desotoks.us/498/Digital-Realty-Data-Center",
+    "details": {
+      "source_sha256": "bd26093a72ef860d80c419db007a24e09ae26561bc2444ef22801ab88288da25",
+      "evidence": "Site Plan for Digital Realty North",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-digital-phase2",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Digital Realty Phase 2 site plan",
+    "project": "Digital Realty / Astra Enterprise Park",
+    "kind": "Site plan for Phase 2",
+    "status": "Tabled",
+    "date": "2026-10-27",
+    "date_role": "commission vote",
+    "locator": "Minutes pp. 4–7; Phase 2 site plan",
+    "state": "KS",
+    "url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689#page=7",
+    "source_url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689",
+    "details": {
+      "source_sha256": "11855e2535a75bec223ae68f4670b8cee45312ddb8d21f678bc8c454ffc78577",
+      "evidence": "Second by Commissioner Huggins. Martin Yes Milburn Yes",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  },
+  {
+    "id": "ks-digital-plat",
+    "dataset": "City of De Soto project and planning records",
+    "jurisdiction": "De Soto",
+    "record_no": "Astra Enterprise Park 3rd",
+    "project": "Digital Realty / Astra Enterprise Park",
+    "kind": "Final plat",
+    "status": "Approved and forwarded",
+    "date": "2026-10-27",
+    "date_role": "commission vote",
+    "locator": "Minutes p. 7, item d; easements forwarded to City Council",
+    "state": "KS",
+    "url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689#page=7",
+    "source_url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689",
+    "details": {
+      "source_sha256": "11855e2535a75bec223ae68f4670b8cee45312ddb8d21f678bc8c454ffc78577",
+      "evidence": "approve the final plat and forward to City Council",
+      "county": "Johnson County",
+      "county_source": "https://www.desotoks.us/496/Beale-Data-Center"
+    }
+  }
+]

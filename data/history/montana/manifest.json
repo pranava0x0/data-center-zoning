@@ -1,0 +1,62 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2730%27&returnIdsOnly=true",
+      "sha256": "7d6e254bb4b9d585841bffb14868c879970656b30baf44bb46796a49d9702f27",
+      "bytes": 746,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2730%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "86778267a835d30ac5ac0f2367fc682c5231d1dcfa09580a1aef61eb37921fb3",
+      "bytes": 622485,
+      "ext": "json"
+    }
+  },
+  "missoula": {
+    "url": "https://www.missoulacounty.gov/__ns/r/RenderCampaign/dfdfb199-74aa-46ea-977b-bfd4c86e7cdc",
+    "sha256": "f783e6a5250bac65402d60aabec89afeade231d15b0e16d7f988770b85ffaba4",
+    "bytes": 116919,
+    "ext": "html"
+  },
+  "well": {
+    "url": "https://deq.mt.gov/News/pressrelease-folder/Big-Sky-Campus-well-09-29-2026",
+    "sha256": "6b670b64b60e3212df446a42ce2ff0be3742df04da1c009bb1b535192333f351",
+    "bytes": 26986,
+    "ext": "html"
+  },
+  "bonner": {
+    "url": "https://missoulacountyvoice.com/bonner-data-center/",
+    "sha256": "5a2ba08296c862defcaea72fb770911118b70d8e64174e9d1c283090f89c5e82",
+    "bytes": 188398,
+    "ext": "html"
+  },
+  "yminutes": {
+    "url": "https://www.yellowstonecountymt.gov/CommMinutes/2026/10-27-26.htm",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "ypacket": {
+    "url": "https://www.yellowstonecountymt.gov/BOCCDocs/2026/BOCCREG/20261027_1625/AGENDApacket__10-27-26_0219_1625.pdf",
+    "sha256": "891e6f1621ed3d10ac483e21a8ca8bd2d084d15d465f05333379b15e05fe6796",
+    "bytes": 15278817,
+    "ext": "pdf"
+  },
+  "signed": {
+    "url": "https://deq.mt.gov/files/Water/WQInfo/Documents/Subdivisions/Quantica%20Big%20Sky%20Campus/7514%20Signed%20Letter%2020260902.pdf",
+    "sha256": "71f7d0796bdc7ee45863d8da44073ac7364eb303519e937931a301752345bf61",
+    "bytes": 1691348,
+    "ext": "pdf"
+  },
+  "yindex": {
+    "url": "https://www.yellowstonecountymt.gov/commissioners/minutes/",
+    "sha256": "2e735d6f91fdf6d1cbca0ddb9928226c054219dc011522c853d9127700e8946e",
+    "bytes": 43522,
+    "ext": "html"
+  }
+}

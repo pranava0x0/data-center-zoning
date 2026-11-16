@@ -1,0 +1,199 @@
+{
+  "captured_utc": "2026-11-16T03:05:49.335461+00:00",
+  "config_sha256": "348ab3173b9e5db47e93defe5a67eba7fef17c99126b1abb1b04f0397a95c654",
+  "reports": {
+    "2024-02": {
+      "sha256": "4da247ce2d34070bc4dd387c8e7bae38fa8bfdb04a92f4657f1a688aaebc547e",
+      "bytes": 1153056,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/194009/Building-Permits-Issued-February-1-29-2024",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2024-03": {
+      "sha256": "328de11d67badd680b56ea2bdcca6e8a2ed26c0ef4b5f6ed0fade247e5ebf7e0",
+      "bytes": 1161023,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/194010/Building-Permits-Issued-March-1-31-2024",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2024-04": {
+      "sha256": "d8732158925699ce23dfcaac0f74b7b80ae27d01d90272a1a29be15551efca1f",
+      "bytes": 1005857,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/194011/Building-Permits-Issued-April-1-30-2024",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2024-06": {
+      "sha256": "2608f10ae882b053bf48c06e4568582db6d357b26711cd0f7f6552d288846c49",
+      "bytes": 970578,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/196928/Building-Permits-Issued-June-1-30-2024",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2025-01": {
+      "sha256": "68d4a10131e15e2a0eaf19bb2f4d907be4678162a365b5ad1a797a902a158f59",
+      "bytes": 1170357,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/212630/Building-Permits-Issued-January-1-31-2025",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2025-06": {
+      "sha256": "498278131c33905e78a6289b8be5f7fc18fa607932c08dc4e0c86994499b3a50",
+      "bytes": 1024706,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/216067/Building-Permits-Issued-June-1-30-2025",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2025-09": {
+      "sha256": "bdf526c9969c62316f63a18aa0ed185b83bb8ef64d08ca242459716195d9dee6",
+      "bytes": 1079480,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/217296/Building-Permits-Issued-Sept-1-30-2025",
+      "captured_utc": "2026-11-16T03:02:30.702619+00:00"
+    },
+    "2015-01": {
+      "sha256": "9d8a6b66f7ba6395f689afe181a3ea7ce6046d69ca5fc67dc964bea5f85a63e1",
+      "bytes": 379785,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/111368/Building-Permits-Issued-2015-01January-1-31st",
+      "captured_utc": "2026-11-16T03:05:58.777196+00:00"
+    },
+    "2015-10": {
+      "sha256": "7e098ac23e24a8186e85fa9d645bfbb9d3f85698830f4ac95c6aac279a4886c6",
+      "bytes": 381114,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/116770/Building-Permits-Issued-2015-10October-1-31st",
+      "captured_utc": "2026-11-16T03:06:08.802346+00:00"
+    },
+    "2016-01": {
+      "sha256": "6bcb3659bc0dd66fba42407ef470afe92133123efebc6eb2fed73fe6ed3f4bf0",
+      "bytes": 267512,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/118139/Building-Permits-Issued-2016-01January-1-31st",
+      "captured_utc": "2026-11-16T03:06:18.810981+00:00"
+    },
+    "2016-10": {
+      "sha256": "1b4cbd5a94ccd9cfc1634ce92cf9ec3c9d9f109a850196677e1f2640f05253d9",
+      "bytes": 307470,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/124377/Building-Permits-Issued-2016-10October-1-31st",
+      "captured_utc": "2026-11-16T03:06:28.941725+00:00"
+    },
+    "2016-12": {
+      "sha256": "9f43d2367f1bbd6971ce4d2e864d4baaaac0c0da5f5bce12826e417a383cea97",
+      "bytes": 337837,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/125213/Building-Permits-Issued-2016-12December-1-31st",
+      "captured_utc": "2026-11-16T03:06:39.004159+00:00"
+    },
+    "2018-11": {
+      "sha256": "e4cfd02d0607fd521052ff15fcd0a0748be3d4e1e94a1334e804af08b638397b",
+      "bytes": 383713,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/143354/Building-Permits-Issued-2018-11November-1-30th",
+      "captured_utc": "2026-11-16T03:06:48.761124+00:00"
+    },
+    "2019-04": {
+      "sha256": "daf862371699e025e56df20e582b2f69b1eb4cfa513240d919be3d289b829efd",
+      "bytes": 859598,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/151069/Issued-Building-Permit-Report-April-1-30-2019",
+      "captured_utc": "2026-11-16T03:06:58.922230+00:00"
+    },
+    "2019-05": {
+      "sha256": "c0c9725b5970f4620b49038c9de114590b8abb3c36c8309deefc0a191f19b057",
+      "bytes": 733619,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/152272/Issued-Building-Permit-Report-June-1-30-2019",
+      "captured_utc": "2026-11-16T03:07:09.072750+00:00"
+    },
+    "2019-12": {
+      "sha256": "a2c5a2fd4b2e556f61cf016e5c24c95ceb89dd620acf127d60b6c5d957e243e6",
+      "bytes": 416571,
+      "url": "https://www.loudoun.gov/DocumentCenter/View/158480/Issued-Building-Permit-Report-December-1-31-2019",
+      "captured_utc": "2026-11-16T03:07:18.750392+00:00"
+    }
+  },
+  "permit_candidates": [
+    {
+      "ids": {
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&where=PermitType+%3D+%27Building+%28Commercial%29%27+AND+PermitWorkClass+%3D+%27New+Construction%27+AND+ParcelPIN+IN+%28%27029151508000%27%2C%27030286764000%27%2C%27030292034000%27%2C%27030296913000%27%2C%27030297084000%27%2C%27030382006000%27%2C%27030391106000%27%2C%27030393965000%27%2C%27030399036000%27%2C%27030455548000%27%2C%27032155119000%27%2C%27033201325000%27%2C%27034263373000%27%2C%27034357851000%27%2C%27034365461000%27%2C%27034385918000%27%2C%27034462865000%27%2C%27034468458000%27%2C%27040464286000%27%2C%27041108666000%27%2C%27041352218000%27%2C%27042152579000%27%2C%27042197707000%27%2C%27042200988000%27%2C%27042295813000%27%2C%27042394385000%27%2C%27043171795000%27%2C%27043176560000%27%2C%27043482656000%27%2C%27044152877000%27%29&returnIdsOnly=true&returnGeometry=false",
+        "sha256": "f173a8778d729535add95aefd3d4e26a95dc168f711b6ab1f3c8ec02a2135e73",
+        "bytes": 93
+      },
+      "batches": [
+        {
+          "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&objectIds=171745%2C724732%2C899347%2C1566231%2C1872372%2C2293692%2C2654457&outFields=ID%2CPermitNumber%2CPermitType%2CPermitWorkClass%2CParcelPIN%2CISSUEDATE%2CDESCRIPTION&returnGeometry=false",
+          "sha256": "763eb3418637fbcab89ee81ca354c38be3859f75c18e3bbf6986297c4c061572",
+          "bytes": 2528
+        }
+      ],
+      "oid": "ID"
+    },
+    {
+      "ids": {
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&where=PermitType+%3D+%27Building+%28Commercial%29%27+AND+PermitWorkClass+%3D+%27New+Construction%27+AND+ParcelPIN+IN+%28%27044155625000%27%2C%27044174648000%27%2C%27044175589000%27%2C%27044193385000%27%2C%27044261032000%27%2C%27044282013000%27%2C%27044288975000%27%2C%27044292829000%27%2C%27044370416000%27%2C%27044381108000%27%2C%27044461959000%27%2C%27045159083000%27%2C%27045175529000%27%2C%27045195615000%27%2C%27045252512000%27%2C%27045254455000%27%2C%27045279612000%27%2C%27045282657000%27%2C%27045299249000%27%2C%27045352692000%27%2C%27045358110000%27%2C%27045391908000%27%2C%27045399350000%27%2C%27045458114000%27%2C%27045494813000%27%2C%27046368231000%27%2C%27059309091000%27%2C%27060108050000%27%2C%27060170268000%27%2C%27060178810000%27%29&returnIdsOnly=true&returnGeometry=false",
+        "sha256": "656c14db6fc2981d01a432471acf62b57f4fc616030c372fb1911f640aa52c03",
+        "bytes": 86
+      },
+      "batches": [
+        {
+          "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&objectIds=220176%2C331502%2C1194045%2C1252268%2C2183049%2C2215076&outFields=ID%2CPermitNumber%2CPermitType%2CPermitWorkClass%2CParcelPIN%2CISSUEDATE%2CDESCRIPTION&returnGeometry=false",
+          "sha256": "4c6fd5f8414f38be06781db6b9811b2ad20a02c192e2c1df73678ab49db66da4",
+          "bytes": 2479
+        }
+      ],
+      "oid": "ID"
+    },
+    {
+      "ids": {
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&where=PermitType+%3D+%27Building+%28Commercial%29%27+AND+PermitWorkClass+%3D+%27New+Construction%27+AND+ParcelPIN+IN+%28%27060182916000%27%2C%27060189720000%27%2C%27060202337000%27%2C%27060209652000%27%2C%27060298548000%27%2C%27060307119000%27%2C%27060386530000%27%2C%27060485060000%27%2C%27061177666000%27%2C%27061200160000%27%2C%27061268762000%27%2C%27061275931000%27%2C%27061285496000%27%2C%27061303369000%27%2C%27061307725000%27%2C%27061307791000%27%2C%27061355894000%27%2C%27061361948000%27%2C%27061407107000%27%2C%27061450432000%27%2C%27061467942000%27%2C%27061483407000%27%2C%27062159785000%27%2C%27062275493000%27%2C%27062462761000%27%2C%27062493798000%27%2C%27063477734000%27%2C%27063494014000%27%2C%27063498140000%27%2C%27087100681000%27%29&returnIdsOnly=true&returnGeometry=false",
+        "sha256": "b8cf40dd14c015ffc4b5eae9c181cbf7f576cc37ef34188abbb6d169ddd75baa",
+        "bytes": 91
+      },
+      "batches": [
+        {
+          "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&objectIds=209541%2C461875%2C586476%2C773555%2C851884%2C2087068%2C2812489&outFields=ID%2CPermitNumber%2CPermitType%2CPermitWorkClass%2CParcelPIN%2CISSUEDATE%2CDESCRIPTION&returnGeometry=false",
+          "sha256": "42b73042b9550e4cf01f56a297278dc63f80e1522152c2e5c7d1f57f4087ae63",
+          "bytes": 3254
+        }
+      ],
+      "oid": "ID"
+    },
+    {
+      "ids": {
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&where=PermitType+%3D+%27Building+%28Commercial%29%27+AND+PermitWorkClass+%3D+%27New+Construction%27+AND+ParcelPIN+IN+%28%27088101859000%27%2C%27088200644000%27%2C%27088381462000%27%2C%27088389930000%27%2C%27088392214000%27%2C%27088481748000%27%2C%27089100937000%27%2C%27089104437000%27%2C%27089208954000%27%2C%27089278681000%27%2C%27089291706000%27%2C%27089367531000%27%2C%27089372808000%27%2C%27089374763000%27%2C%27089382215000%27%2C%27089496314000%27%2C%27093365404000%27%2C%27096183926000%27%2C%27097354183000%27%2C%27097398776000%27%2C%27113272390000%27%2C%27122207249000%27%2C%27124299328000%27%2C%27124369522000%27%2C%27162176713000%27%2C%27162392026000%27%2C%27193178229000%27%2C%27193274995000%27%2C%27193276668000%27%2C%27193281883000%27%29&returnIdsOnly=true&returnGeometry=false",
+        "sha256": "4cb716e99cbba5aa5e2b0f49e06a5f1c70da22e43e63a9560203e13b4e48fa12",
+        "bytes": 150
+      },
+      "batches": [
+        {
+          "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&objectIds=192105%2C886243%2C1885863%2C1911161%2C1926400%2C2025512%2C2030120%2C2202277%2C2247115%2C2460810%2C2504313%2C2562837%2C2686654%2C2722830&outFields=ID%2CPermitNumber%2CPermitType%2CPermitWorkClass%2CParcelPIN%2CISSUEDATE%2CDESCRIPTION&returnGeometry=false",
+          "sha256": "b5746dd77a16657bea54ef5e8420589d5ac331eb8323801e532ea1afef5cfe63",
+          "bytes": 4933
+        }
+      ],
+      "oid": "ID"
+    },
+    {
+      "ids": {
+        "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&where=PermitType+%3D+%27Building+%28Commercial%29%27+AND+PermitWorkClass+%3D+%27New+Construction%27+AND+ParcelPIN+IN+%28%27193367800000%27%2C%27194103673000%27%2C%27194498227000%27%2C%27203170856000%27%2C%27203354208000%27%2C%27203371445000%27%2C%27233108602000%27%2C%27234371847000%27%2C%27235297431000%27%2C%27246200886000%27%2C%27246203645000%27%29&returnIdsOnly=true&returnGeometry=false",
+        "sha256": "f525f6ffba4d04c8a59e0d95f32fcb896296e5e3ac151dcf98a8d309c641faa8",
+        "bytes": 110
+      },
+      "batches": [
+        {
+          "url": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?f=json&objectIds=195282%2C942932%2C1034397%2C1266329%2C1437854%2C1674923%2C2173766%2C2370579%2C2510485&outFields=ID%2CPermitNumber%2CPermitType%2CPermitWorkClass%2CParcelPIN%2CISSUEDATE%2CDESCRIPTION&returnGeometry=false",
+          "sha256": "446f6ec2dd1f58035259e0a141192bb5f58c535752f5a2af85e1efabbd63a7b7",
+          "bytes": 3305
+        }
+      ],
+      "oid": "ID"
+    }
+  ],
+  "structures": {
+    "ids": {
+      "url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?f=json&where=LU_USE+%3D+%27COM_DATA_CENTER%27+OR+LU_MULTI_USE_SUBCD1+%3D+%27COM_DATA_CENTER%27+OR+LU_MULTI_USE_SUBCD2+%3D+%27COM_DATA_CENTER%27&returnIdsOnly=true&returnGeometry=false",
+      "sha256": "94ef317c7475df6f8d2d5f858c6b920bc2b9a254b156fccd81a3f3e959bbab54",
+      "bytes": 1556
+    },
+    "batches": [
+      {
+        "url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?f=json&objectIds=1242%2C1472%2C1520%2C1574%2C14332%2C14333%2C22465%2C22470%2C22471%2C27978%2C28019%2C28036%2C31893%2C33538%2C33542%2C51205%2C51229%2C51231%2C51272%2C55031%2C55263%2C55264%2C55265%2C55267%2C55272%2C55273%2C59727%2C59728%2C59729%2C59739%2C66035%2C66040%2C66047%2C66546%2C69223%2C69265%2C69271%2C69274%2C69294%2C93216%2C97918%2C98585%2C98586%2C99190%2C99801%2C99802%2C99803%2C104712%2C104796%2C105098%2C105099%2C105100%2C105934%2C106867%2C106868%2C106869%2C106870%2C110759%2C110760%2C110761%2C111603%2C111604%2C114545%2C117534%2C117535%2C117538%2C117539%2C117695%2C118621%2C118622%2C118629%2C118630%2C118631%2C118632%2C118633%2C118717%2C118718%2C119506%2C119740%2C119741%2C119839%2C120044%2C120045%2C120048%2C121734%2C122211%2C122212%2C122248%2C122249%2C122250%2C122251%2C122252%2C122253%2C122691%2C123268%2C123269%2C123904%2C123937%2C124137%2C124956%2C124957%2C125232%2C125234%2C125475%2C125476%2C125477%2C125478%2C125479%2C125520%2C125540%2C125597%2C125598%2C125599%2C125603%2C125604%2C125605%2C125612%2C126080%2C126082%2C126134%2C126136%2C126272%2C126274%2C127360%2C127361&outFields=OBJECTID%2CLU_GIS_LOUD_ID%2CLU_ADDRESS%2CLU_MCPI%2CLU_USE%2CLU_MULTI_USE_SUBCD1%2CLU_MULTI_USE_SUBCD2%2CLU_DEVELOP_STATUS%2CLU_BP_ISSUE_DATE%2CLU_DEMOG_YEAR_BUILT%2CLU_NON_RES_SQ_FT%2CLU_AS_OF_DATE&returnGeometry=false",
+        "sha256": "d130f299afbea093a534ed9ad19005fac4283bcbc60b686f48336e19793a73d6",
+        "bytes": 46621
+      },
+      {
+        "url": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0/query?f=json&objectIds=127810%2C127811%2C127820%2C127833%2C127834%2C127836%2C127837%2C127850%2C127856%2C127864%2C127912%2C127914%2C127919%2C127920%2C128429%2C128430%2C128446%2C128468%2C128773%2C128774%2C129156%2C129158%2C129159%2C129160%2C129303%2C129639%2C129640%2C129651%2C129664%2C130026%2C130027%2C130028%2C130054%2C130069%2C130070%2C130355%2C130356%2C130411%2C130413%2C130450%2C131107%2C131267%2C131271%2C131272%2C131703%2C131704%2C131776%2C131777%2C131780%2C131781%2C132053%2C132068%2C132228%2C132230%2C132270%2C132375%2C133021%2C133022%2C133327%2C133498%2C133510%2C133523%2C133683%2C134089%2C134091%2C134171%2C134209%2C134470%2C134542%2C134552%2C135817%2C136098%2C136115%2C136208%2C136334%2C136616%2C136617%2C136660%2C136771%2C136774%2C136775%2C136942%2C136943%2C137650%2C137652%2C137657%2C137725%2C137726%2C137736%2C137826%2C137827%2C138082%2C138084%2C138137%2C138186%2C138187%2C138190%2C138199&outFields=OBJECTID%2CLU_GIS_LOUD_ID%2CLU_ADDRESS%2CLU_MCPI%2CLU_USE%2CLU_MULTI_USE_SUBCD1%2CLU_MULTI_USE_SUBCD2%2CLU_DEVELOP_STATUS%2CLU_BP_ISSUE_DATE%2CLU_DEMOG_YEAR_BUILT%2CLU_NON_RES_SQ_FT%2CLU_AS_OF_DATE&returnGeometry=false",
+        "sha256": "ee752e086364b8b719b3753c7769a1ef867638cd34d9bb46951f8200295feb6b",
+        "bytes": 37007
+      }
+    ],
+    "oid": "OBJECTID"
+  }
+}

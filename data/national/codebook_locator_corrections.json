@@ -1,0 +1,32 @@
+[
+  {
+    "referral_geoid": "2703718",
+    "url": "https://barrytownshipmn.gov/wp-content/uploads/2026/08/Barry-Zoning-Ordinance-2026-Signed.pdf",
+    "state": "MN",
+    "discovery_jurisdiction": "Barry city",
+    "corrected_geoid": "2711503736",
+    "corrected_jurisdiction": "Barry Township",
+    "source_url": "https://barrytownshipmn.gov/wp-content/uploads/2026/08/Barry-Zoning-Ordinance-2026-Signed.pdf",
+    "source_page": 1,
+    "source_sha256": "8cc6dc0c3ffa51ba0b8c444d59e342393afe5f6897f281353aa8e6c514b45032",
+    "referral_url": "https://barrytownshipmn.gov/documents/zoning-ordinance/",
+    "rationale": "The cover identifies Township of Barry, County of Pine, Minnesota. Municipality from the discovery referral is Barry city in Big Stone County; the township signed current code is linked on its own index.",
+    "geoid_source": "data/national/jurisdictions.csv (Census 2025 Gazetteer, county subdivisions)",
+    "review_date": "2026-11-16"
+  },
+  {
+    "referral_geoid": "2639180",
+    "url": "https://www.hopkinstownship.org/wp-content/uploads/2026/06/Zoning-Ordinance-Amendment-Temporary-Moratorium-Authority-and-Temporary-Moratorium-For-Data-Centers.pdf",
+    "state": "MI",
+    "discovery_jurisdiction": "Hopkins village",
+    "corrected_geoid": "2600539200",
+    "corrected_jurisdiction": "Hopkins Township",
+    "source_url": "https://www.hopkinstownship.org/wp-content/uploads/2026/06/Zoning-Ordinance-Amendment-Temporary-Moratorium-Authority-and-Temporary-Moratorium-For-Data-Centers.pdf",
+    "source_page": 1,
+    "source_sha256": "086207dc051152cf76335cb8a848dca37cb8c23eb7597c442087a7b382028a26",
+    "referral_url": "https://www.hopkinstownship.org/wp-content/uploads/2026/06/Zoning-Ordinance-Amendment-Temporary-Moratorium-Authority-and-Temporary-Moratorium-For-Data-Centers.pdf",
+    "rationale": "First page expressly identifies Hopkins Township, County of Allegan, Michigan, not the Village of Hopkins. The draft status does not affect issuer identity.",
+    "geoid_source": "data/national/jurisdictions.csv (Census 2025 Gazetteer, county subdivisions)",
+    "review_date": "2026-11-16"
+  }
+]

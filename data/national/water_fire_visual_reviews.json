@@ -1,0 +1,44 @@
+[
+  {
+    "source": "tx-may",
+    "sha256": "a3d39be4e026e0d3a9135fe8ad8eb564da38c0870f157d160c2a2d44d5970e54",
+    "pages": [
+      1,
+      2
+    ],
+    "reviewer": "Sol, visual comparison of rendered archival pages",
+    "method": "Read motion, approved vote and separate tabled item on signed minutes; OCR as index only.",
+    "record_numbers": [
+      "OP-26042003",
+      "OP-26042004",
+      "OP-A26042202"
+    ],
+    "findings": "District granted two drill/operate permits to Amazon Web Services; separately tabled the Amazon Data Services application. Minutes do not state data-center use."
+  },
+  {
+    "source": "tx-jul",
+    "sha256": "474a7bfff2dc6a8ea35dae253eb4d34aac7f5e2d95148d1884dd2697624ee33a",
+    "pages": [
+      1
+    ],
+    "reviewer": "Sol, visual comparison of rendered archival page",
+    "method": "Read separate special meeting motions and contested-hearing vote on signed minutes.",
+    "record_numbers": [
+      "OP-26042202"
+    ],
+    "findings": "Associated application remained tabled pending the hearing; July minutes omit the A in May’s printed number."
+  },
+  {
+    "source": "ca-scmarshal",
+    "sha256": "d91dce9b4de0ea14e51ba59144da8af574753e09e730e276afd949d94fc95109",
+    "pages": [
+      80
+    ],
+    "reviewer": "Sol, visual review of city permit original scan",
+    "method": "Read the municipal permit status, work scope, street address, number, revision and date-reviewed fields directly from the rasterized original.",
+    "record_numbers": [
+      "FIR2011-0294"
+    ],
+    "findings": "City Fire Marshal issued revision 1 for the DuPont Fabros refrigeration/monitoring system; June 30 is a review date, not a stated issue date."
+  }
+]

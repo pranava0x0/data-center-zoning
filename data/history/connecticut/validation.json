@@ -1,0 +1,26 @@
+{
+  "events": 8,
+  "datasets": {
+    "Hartford building and trade permits": 1,
+    "Connecticut Siting Council data center docket": 5,
+    "Norwalk site plan surety decisions": 2
+  },
+  "held_hartford_ids": [
+    "FMO-PLNREV-2024-000394",
+    "MISC-ELC-22-000460",
+    "MISC-ELC-23-000808",
+    "MISC-ELC-24-000656",
+    "MISC-ELC-24-000848",
+    "MISC-ELC-25-000503",
+    "MISC-ELC-25-001242",
+    "MISC-ELC-26-000061",
+    "MISC-ELC-26-000062",
+    "RES-NEW-20-153315"
+  ],
+  "geography": {
+    "markers": 5,
+    "outside": {
+      "place": 2
+    }
+  }
+}

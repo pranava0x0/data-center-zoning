@@ -1,0 +1,358 @@
+[
+  {
+    "id": "mi-mpsc-21990-app",
+    "state": "MI",
+    "dataset": "Michigan Public Service Commission special contracts",
+    "jurisdiction": "Saline Township",
+    "record_no": "U-21990",
+    "project": "DTE / Green Chile Ventures data center",
+    "kind": "Electric service and storage contract application",
+    "status": "Filed",
+    "date": "2025-11-03",
+    "date_role": "application date",
+    "url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf#page=1",
+    "source_url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf",
+    "locator": "MPSC issue brief p. 1; Case U-21990",
+    "details": {
+      "source_sha256": "a0f258878a4809b66e9b54dd0af93955d2777f37e23966b139faff0469e0df47",
+      "evidence": "November 3, 2025",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-mpsc-21990-decision",
+    "state": "MI",
+    "dataset": "Michigan Public Service Commission special contracts",
+    "jurisdiction": "Saline Township",
+    "record_no": "U-21990",
+    "project": "DTE / Green Chile Ventures data center",
+    "kind": "Power contract decision",
+    "status": "Conditionally approved",
+    "date": "2025-12-18",
+    "date_role": "commission decision date",
+    "url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf#page=4",
+    "source_url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf",
+    "locator": "MPSC December 18 issue brief pp. 1 and 4",
+    "details": {
+      "source_sha256": "a0f258878a4809b66e9b54dd0af93955d2777f37e23966b139faff0469e0df47",
+      "evidence": "conditional approval of the special contracts",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-mpsc-21990-rehearing",
+    "state": "MI",
+    "dataset": "Michigan Public Service Commission special contracts",
+    "jurisdiction": "Saline Township",
+    "record_no": "U-21990",
+    "project": "DTE / Green Chile Ventures data center",
+    "kind": "Rehearing and reopening requests",
+    "status": "Denied",
+    "date": "2026-03-27",
+    "date_role": "commission decision date",
+    "url": "https://www.michigan.gov/mpsc/commission/news-releases/2026/03/27/mpsc-goes-big-on-batteries",
+    "source_url": "https://www.michigan.gov/mpsc/commission/news-releases/2026/03/27/mpsc-goes-big-on-batteries",
+    "locator": "March 27 commission release; U-21990 paragraph",
+    "details": {
+      "source_sha256": "8b895b3d32630088ece00549a2f7d00038a7f004f73faca70b47fc081abfc21d",
+      "evidence": "denied petitions for rehearing",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-pti-112-16",
+    "state": "MI",
+    "dataset": "Michigan air permits to install",
+    "jurisdiction": "Kent County",
+    "record_no": "112-16",
+    "project": "SUPERNAP / MI GRR data center",
+    "kind": "Air permit to install",
+    "status": "Approved",
+    "date": "2016-11-28",
+    "date_role": "permit approval date",
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16.pdf#page=1",
+    "source_url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16.pdf",
+    "locator": "Cover page; permit 112-16; SRN P0709",
+    "details": {
+      "source_sha256": "c49e130f1b00d18f802c41f776cbcdb6d313e16ced5265e5bbe3b277922c97f5",
+      "evidence": "112-16",
+      "county": "Kent County",
+      "facility_id": "P0709",
+      "identity_source": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf",
+      "identity_page": 1,
+      "legacy_register_page": null
+    }
+  },
+  {
+    "id": "mi-pti-112-16a",
+    "state": "MI",
+    "dataset": "Michigan air permits to install",
+    "jurisdiction": "Kent County",
+    "record_no": "112-16A",
+    "project": "SUPERNAP / MI GRR data center",
+    "kind": "Air permit to install",
+    "status": "Approved",
+    "date": "2023-05-31",
+    "date_role": "permit approval date",
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16A.pdf#page=1",
+    "source_url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16A.pdf",
+    "locator": "Cover page; permit 112-16A; SRN P0709",
+    "details": {
+      "source_sha256": "5bd702e5421b99ac579577a367544978ab157a0db0e1992ac2edb8dcc77219e5",
+      "evidence": "112-16A",
+      "county": "Kent County",
+      "facility_id": "P0709",
+      "identity_source": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf",
+      "identity_page": 1,
+      "legacy_register_page": 148
+    }
+  },
+  {
+    "id": "mi-pti-91-16",
+    "state": "MI",
+    "dataset": "Michigan air permits to install",
+    "jurisdiction": "Kent County",
+    "record_no": "91-16",
+    "project": "SUPERNAP / MI GRR data center",
+    "kind": "Air permit to install",
+    "status": "Approved",
+    "date": "2016-10-07",
+    "date_role": "permit approval date",
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/91-16.pdf#page=1",
+    "source_url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/91-16.pdf",
+    "locator": "Cover page; permit 91-16; SRN P0709",
+    "details": {
+      "source_sha256": "71433cc8253b589b2ec9f0255e5a1c70a15288eed7ab46bfb98640c1a83fa84b",
+      "evidence": "91-16",
+      "county": "Kent County",
+      "facility_id": "P0709",
+      "identity_source": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf",
+      "identity_page": 1,
+      "legacy_register_page": 210
+    }
+  },
+  {
+    "id": "mi-saline-application",
+    "state": "MI",
+    "dataset": "Saline Township land use proceedings",
+    "jurisdiction": "Saline Township",
+    "record_no": "2025-001577-CZ",
+    "project": "Saline Township / RD Michigan Property Owner I",
+    "kind": "Final site-plan application",
+    "status": "Submitted",
+    "date": "2025-08-14",
+    "date_role": "application date",
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf#page=4",
+    "source_url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "locator": "Township-posted execution copy, p. 4, findings n–q; case 2025-001577-CZ",
+    "details": {
+      "source_sha256": "1481e56f84eb5f0f768020de6fff67f06821011a1e16ed70515c23c56c0bc9a1",
+      "evidence": "On August 14, 2025",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-saline-denial",
+    "state": "MI",
+    "dataset": "Saline Township land use proceedings",
+    "jurisdiction": "Saline Township",
+    "record_no": "2025-001577-CZ",
+    "project": "Saline Township / RD Michigan Property Owner I",
+    "kind": "Conditional rezoning request",
+    "status": "Denied",
+    "date": "2025-09-10",
+    "date_role": "township board vote",
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf#page=4",
+    "source_url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "locator": "Township-posted execution copy, p. 4, findings n–q; case 2025-001577-CZ",
+    "details": {
+      "source_sha256": "1481e56f84eb5f0f768020de6fff67f06821011a1e16ed70515c23c56c0bc9a1",
+      "evidence": "by a vote of 4 to 1, denied",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-saline-filed",
+    "state": "MI",
+    "dataset": "Saline Township land use proceedings",
+    "jurisdiction": "Saline Township",
+    "record_no": "2025-001577-CZ",
+    "project": "Saline Township / RD Michigan Property Owner I",
+    "kind": "Challenge to rezoning denial",
+    "status": "Filed",
+    "date": "2025-09-12",
+    "date_role": "court filing date",
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf#page=4",
+    "source_url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "locator": "Township-posted execution copy, p. 4, findings n–q; case 2025-001577-CZ",
+    "details": {
+      "source_sha256": "1481e56f84eb5f0f768020de6fff67f06821011a1e16ed70515c23c56c0bc9a1",
+      "evidence": "filed this action on September 12, 2025",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-saline-foundations",
+    "state": "MI",
+    "dataset": "Saline Township advisory committee",
+    "jurisdiction": "Saline Township",
+    "record_no": "April 29 advisory committee",
+    "project": "Saline data center operations/warehouse buildings",
+    "kind": "Foundation permit issuance report",
+    "status": "Issuance reported",
+    "date": "2026-04-29",
+    "date_role": "committee meeting date",
+    "url": "https://salinetownship.org/advisory-committee-meetings/",
+    "source_url": "https://salinetownship.org/advisory-committee-meetings/",
+    "locator": "April 29, 2026 update; no instrument IDs or issue dates published",
+    "details": {
+      "source_sha256": "b5f0678a2676dab9a9e7a550529acc2404c3a6690d7025872db08b0cfa14be77",
+      "evidence": "Permits have been issued for Operations and Warehouse building foundations",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-saline-meeting",
+    "state": "MI",
+    "dataset": "Saline Township land use proceedings",
+    "jurisdiction": "Saline Township",
+    "record_no": "2025-001577-CZ",
+    "project": "Saline Township / RD Michigan Property Owner I",
+    "kind": "Public information meeting",
+    "status": "Held",
+    "date": "2025-09-24",
+    "date_role": "meeting date",
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf#page=4",
+    "source_url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "locator": "Township-posted execution copy, p. 4, findings n–q; case 2025-001577-CZ",
+    "details": {
+      "source_sha256": "1481e56f84eb5f0f768020de6fff67f06821011a1e16ed70515c23c56c0bc9a1",
+      "evidence": "public information meeting on September 24, 2025",
+      "county": "Washtenaw County"
+    }
+  },
+  {
+    "id": "mi-saline-water-ssr",
+    "state": "MI",
+    "dataset": "Michigan EGLE water withdrawal determinations",
+    "jurisdiction": "Saline Township",
+    "record_no": "SSR 10188-20264-23",
+    "project": "Related Data Center",
+    "kind": "Site-specific water withdrawal review",
+    "status": "Authorized",
+    "date": "2026-04-24",
+    "date_role": "determination date",
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/05-01-2026_3-02-24_EGLE-Dewatering.pdf#page=2",
+    "source_url": "https://salinetownship.org/wp-content/uploads/2026/09/05-01-2026_3-02-24_EGLE-Dewatering.pdf",
+    "locator": "EGLE letter p. 2, SSR 10188-20264-23",
+    "details": {
+      "source_sha256": "92645cff3296c400bb84545982c43459a38f3c9c3fd22951ccdde51cd62d45b5",
+      "evidence": "you are hereby authorized to proceed with making the withdrawal",
+      "county": "Washtenaw County",
+      "scope": "Conditional groundwater withdrawal determination under Part 327; not a construction permit or proof of ongoing pumping."
+    }
+  },
+  {
+    "id": "mi-southfield-approval",
+    "state": "MI",
+    "dataset": "City of Southfield site-plan review",
+    "jurisdiction": "Southfield",
+    "record_no": "PSP25-0009",
+    "project": "Metrobloks, 27252 Inkster Road",
+    "kind": "Site plan review",
+    "status": "Approved",
+    "date": null,
+    "date_role": "exact vote date not established",
+    "url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/PLN%20-%202025%20Planning%20Commission%20Annual%20Report%20-%20APPROVED%201.28.26.pdf#page=3",
+    "source_url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/PLN%20-%202025%20Planning%20Commission%20Annual%20Report%20-%20APPROVED%201.28.26.pdf",
+    "locator": "Approved 2025 annual report p. 3; confirmation from December 19 city statement",
+    "details": {
+      "source_sha256": "236443d52a7067938b3183929b5d76c904b195ad6b8d32bcb695b2bf755e87b1",
+      "evidence": "To construct a new data center.",
+      "county": "Oakland County",
+      "corroboration": "https://www.cityofsouthfield.com/news/city-southfield-statement-regarding-proposed-data-center",
+      "approved_by": "2025-12-19"
+    }
+  },
+  {
+    "id": "mi-southfield-recommend",
+    "state": "MI",
+    "dataset": "City of Southfield site-plan review",
+    "jurisdiction": "Southfield",
+    "record_no": "PSP25-0009",
+    "project": "Metrobloks, 27252 Inkster Road",
+    "kind": "Site plan recommendation",
+    "status": "Favorable recommendation",
+    "date": "2025-11-19",
+    "date_role": "planning commission meeting",
+    "url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/APPROVED%2011.19.25%20Planning%20Commission%20Regular%20Meeting%20Transcript%20Minutes.pdf#page=133",
+    "source_url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/APPROVED%2011.19.25%20Planning%20Commission%20Regular%20Meeting%20Transcript%20Minutes.pdf",
+    "locator": "Transcript p. 133; motion and voice vote",
+    "details": {
+      "source_sha256": "833c3736d579e06e6d4ef26b149399ff754ea2bf144cd3fbaff1af025440c38b",
+      "evidence": "a favorable recommendation for PSP25-0009",
+      "county": "Oakland County",
+      "county_source": "https://www.cityofsouthfield.com/news/city-southfield-statement-regarding-proposed-data-center"
+    }
+  },
+  {
+    "id": "mi-supernap-inspection-2020",
+    "state": "MI",
+    "dataset": "Michigan EGLE air compliance inspections",
+    "jurisdiction": "Kent County",
+    "record_no": "P070954698",
+    "project": "SUPERNAP Grand Rapids",
+    "kind": "Air compliance inspection",
+    "status": "Compliance",
+    "date": "2020-08-04",
+    "date_role": "inspection date",
+    "url": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf#page=1",
+    "source_url": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf",
+    "locator": "Page 1, dated activity and compliance status",
+    "details": {
+      "source_sha256": "91545d42249b6c54b08499dca9e4752feb377465d08200c0683efedd95a4bc60",
+      "evidence": "ACTIVITY REPORT: Scheduled Inspection",
+      "county": "Kent County"
+    }
+  },
+  {
+    "id": "mi-vbt-25-041-final-agenda",
+    "state": "MI",
+    "dataset": "Van Buren Township Planning Commission",
+    "jurisdiction": "Van Buren Township",
+    "record_no": "25-041",
+    "project": "Project Cannoli",
+    "kind": "Final site plan on agenda",
+    "status": "On agenda",
+    "date": "2026-10-14",
+    "date_role": "meeting scheduled",
+    "url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Packets/10-14-26%20PC%20Packet.pdf?t=202610121200160#page=1",
+    "source_url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Packets/10-14-26%20PC%20Packet.pdf?t=202610121200160",
+    "locator": "October 14 agenda p. 1; final decision not established by agenda",
+    "details": {
+      "source_sha256": "c9a095eaa0b2d0c9e020e9526608b328a806b12706f8343e94f6c9ae98e8056a",
+      "evidence": "Cannoli",
+      "county": "Wayne County"
+    }
+  },
+  {
+    "id": "mi-vbt-25-041-prelim",
+    "state": "MI",
+    "dataset": "Van Buren Township Planning Commission",
+    "jurisdiction": "Van Buren Township",
+    "record_no": "25-041",
+    "project": "Project Cannoli",
+    "kind": "Preliminary site plan",
+    "status": "Approved with conditions",
+    "date": "2026-02-11",
+    "date_role": "commission decision date",
+    "url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Minutes/2-11-26%20PC%20Min.pdf#page=20",
+    "source_url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Minutes/2-11-26%20PC%20Min.pdf",
+    "locator": "Case 25-041, Feb 11 minutes pp. 1 and 20; roll call 5–2",
+    "details": {
+      "source_sha256": "d3e5d848705725d6ac557666946ab386ea8cc1bf24f93bdb020b9e95d9d8ccc1",
+      "evidence": "preliminary site plan approval with conditions",
+      "county": "Wayne County"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "cutoff": "2026-11-16",
+  "counts": {
+    "Michigan air permits to install": 3,
+    "Michigan EGLE air compliance inspections": 1,
+    "Michigan EGLE water withdrawal determinations": 1,
+    "Saline Township advisory committee": 1,
+    "Saline Township land use proceedings": 4,
+    "Michigan Public Service Commission special contracts": 3,
+    "Van Buren Township Planning Commission": 2,
+    "City of Southfield site-plan review": 2
+  },
+  "undated": 1,
+  "sourced_failures": {
+    "saline_judgment": "HTTP Error 404: Not Found",
+    "wayne": "HTTP Error 403: Forbidden"
+  },
+  "legacy_inventory_as_of": "2024-12-08",
+  "direct_issued_air_numbers": [
+    "91-16",
+    "112-16",
+    "112-16A"
+  ]
+}

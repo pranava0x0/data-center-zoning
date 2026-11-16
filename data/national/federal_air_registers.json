@@ -1,0 +1,311 @@
+[
+  {
+    "key": "national",
+    "region": "all",
+    "role": "issuer directory",
+    "url": "https://www.epa.gov/caa-permitting/caa-permitting-your-region",
+    "status": "snapshot",
+    "sha256": "84e818ddd463106f77eca09bddcbf78934b83a375d2af6e78efe592e4b82940d"
+  },
+  {
+    "key": "titlev",
+    "region": "all",
+    "role": "issuer directory",
+    "url": "https://www.epa.gov/title-v-operating-permits/epa-issued-operating-permits",
+    "status": "snapshot",
+    "sha256": "a47fbba670c6525cab23cf14e0130a3c73aa42bf74a41c91c20c20815afaf494"
+  },
+  {
+    "key": "tribal",
+    "region": "all",
+    "role": "tribal jurisdiction guide",
+    "url": "https://www.epa.gov/tribal-air/tribal-and-permitting-programs-epas-regional-offices",
+    "status": "snapshot",
+    "sha256": "682432f7115eb3f30bf777de66dc7e435ef38ea1a336106daba29fd6064ac5c9"
+  },
+  {
+    "key": "psd-authority",
+    "region": "all",
+    "role": "delegation guide",
+    "url": "https://www.epa.gov/caa-permitting/psd-air-permit-program-approval-and-delegation",
+    "status": "snapshot",
+    "sha256": "0ab6d91b009f09d3458ca6cb8d8b30da538b24fa01317a25e27144b43ef2544e"
+  },
+  {
+    "key": "guidance",
+    "region": "all",
+    "role": "data center permitting guidance",
+    "url": "https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-resources-data-centers",
+    "status": "snapshot",
+    "sha256": "6a0b25288cf4dd1a14b676e757524a9e8b4082034ce17e89eb222286494dd431"
+  },
+  {
+    "key": "r1",
+    "region": "1",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/epa-issued-caa-permits-region-1",
+    "status": "snapshot",
+    "sha256": "47c48eddaff45ce0b38ca1588b7f0d4ee02dbb555be5830e338cedd4eb5e4942",
+    "table_rows": 21,
+    "tables": 2,
+    "body_chars": 913
+  },
+  {
+    "key": "r1public",
+    "region": "1",
+    "role": "public notice",
+    "url": "https://www.epa.gov/caa-permitting/caa-public-comment-opportunities-region-1",
+    "status": "snapshot",
+    "sha256": "075b480a118387ea69a4045e39cf52046d6c4fc292c9aea8bcc5132a4a0e6d16",
+    "table_rows": 1,
+    "tables": 1,
+    "body_chars": 786
+  },
+  {
+    "key": "r2",
+    "region": "2",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-2",
+    "status": "snapshot",
+    "sha256": "6757719bc8578a79177c2148ce408ca212e4fd591708866c6c08d21a7b1e3b70",
+    "table_rows": 51,
+    "tables": 9,
+    "body_chars": 1375
+  },
+  {
+    "key": "r2pr",
+    "region": "2",
+    "role": "territorial issuer guide",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-permitting-puerto-rico",
+    "status": "snapshot",
+    "sha256": "0bfd7dc758291e1bebe27554bcfbad2329c17ce8fc79b175fad012806c1a7828"
+  },
+  {
+    "key": "r2vi",
+    "region": "2",
+    "role": "territorial issuer guide",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-permitting-us-virgin-islands",
+    "status": "snapshot",
+    "sha256": "46a338c5226a5f6f2a39e20482c5442ac4e8e25f593e9d6b5a1dbb32a1e0e1e3"
+  },
+  {
+    "key": "r3",
+    "region": "3",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/clean-air-act-permits-issued-epa-region-3",
+    "status": "snapshot",
+    "sha256": "5120a88c076f4d0a03366ae690475f4a8d95450865068506f979e14a026a1ad8",
+    "table_rows": 2,
+    "tables": 2,
+    "body_chars": 691
+  },
+  {
+    "key": "r4tribal",
+    "region": "4",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/tribal-permits-southeastern-us",
+    "status": "snapshot",
+    "sha256": "0816b56c8f71d4471cab3e403656a0fa5bc2ac98c2d2ca209da83ea806c4f3ba",
+    "table_rows": 2,
+    "tables": 2,
+    "body_chars": 741
+  },
+  {
+    "key": "r4psd",
+    "region": "4",
+    "role": "PSD authority / public notice route",
+    "url": "https://www.epa.gov/caa-permitting/psd-permit-activity-region-4",
+    "status": "snapshot",
+    "sha256": "3f1cb43c6c009758a59c471ff68b18516f895fda826b27f454cc0e2e08053c85",
+    "table_rows": 0,
+    "tables": 0,
+    "body_chars": 19
+  },
+  {
+    "key": "r4ghg",
+    "region": "4",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/greenhouse-gas-ghg-permitting-florida-issued-epa-region-4",
+    "status": "snapshot",
+    "sha256": "32bd9b2da6a5a8f76d55b4f01cd88dbe1f0f13200d8632cd1865640a2e46b125",
+    "table_rows": 3,
+    "tables": 1,
+    "body_chars": 775
+  },
+  {
+    "key": "r5",
+    "region": "5",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/air-permits-issued-region-5-sources-tribal-lands",
+    "status": "snapshot",
+    "sha256": "4cdf2d7d37ca9a11d8970c5f07d681c412d24261649964cc5d347c7045c68452",
+    "table_rows": 47,
+    "tables": 4,
+    "body_chars": 298
+  },
+  {
+    "key": "r6",
+    "region": "6",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/tribal-nsr-permits-epas-south-central-region",
+    "status": "snapshot",
+    "sha256": "c3a9c3abee8c922b86dc31daefaf9faffd3c6577d5afa4c63677f5b6419b180a",
+    "table_rows": 8,
+    "tables": 1,
+    "body_chars": 86
+  },
+  {
+    "key": "r7",
+    "region": "7",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/status-tribal-air-permits-region-7",
+    "status": "snapshot",
+    "sha256": "b82d498fbb05eff491a4d72205f0f516b95048e477e1c5951befb9829050a61a",
+    "table_rows": 24,
+    "tables": 1,
+    "body_chars": 184
+  },
+  {
+    "key": "r8",
+    "region": "8",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-8",
+    "status": "snapshot",
+    "sha256": "37d2415eec22457e87ecfe1f6b09230978eca3dd880f4ad11df718ef6899945c",
+    "table_rows": 113,
+    "tables": 8,
+    "body_chars": 1948
+  },
+  {
+    "key": "r8public",
+    "region": "8",
+    "role": "public notice",
+    "url": "https://www.epa.gov/caa-permitting/caa-permit-public-comment-opportunities-region-8",
+    "status": "snapshot",
+    "sha256": "3f4f2fbca3f6b58593db3978bf44d3ab1b555af8f3d2e1b663773b9fa5c28f32",
+    "table_rows": 4,
+    "tables": 4,
+    "body_chars": 1668
+  },
+  {
+    "key": "r9",
+    "region": "9",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/r9-caa-permit-actions",
+    "status": "snapshot",
+    "sha256": "d45a5273316f938cf23d4cd8147a81dd7630a6c3cac4536477eddc2aa2ba4f6b",
+    "table_rows": 194,
+    "tables": 2,
+    "body_chars": 1070
+  },
+  {
+    "key": "r9psd",
+    "region": "9",
+    "role": "territorial issuer guide",
+    "url": "https://www.epa.gov/caa-permitting/r9-psd-permits",
+    "status": "snapshot",
+    "sha256": "177114392cfe1d08db863c4bc7797ceec152b42d0ae5563e6c5df94333f6bead"
+  },
+  {
+    "key": "r9t5",
+    "region": "9",
+    "role": "territorial issuer guide",
+    "url": "https://www.epa.gov/caa-permitting/about-title-v-permitting-region-9",
+    "status": "snapshot",
+    "sha256": "f572a85265ebe5e4c2608446e0ee205402547ca6db3b8790e04528a4c0b319be"
+  },
+  {
+    "key": "r10",
+    "region": "10",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/air-permits-issued-epa-region-10",
+    "status": "snapshot",
+    "sha256": "d5ea3a508de922823805eb721668c2f2c2936dcee7a58ec5297ddb11117ece07",
+    "table_rows": 48,
+    "tables": 1,
+    "body_chars": 2832
+  },
+  {
+    "key": "minor",
+    "region": "all",
+    "role": "regulatory text",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol1/pdf/CFR-2025-title40-vol1-sec49-153.pdf",
+    "status": "snapshot",
+    "sha256": "8e4bfd5c84989893a2dfe561a1380ec13e8f0c6153fff222ca70c05f16f7ffdb"
+  },
+  {
+    "key": "psd",
+    "region": "all",
+    "role": "regulatory text",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol3/pdf/CFR-2025-title40-vol3-sec52-21.pdf",
+    "status": "snapshot",
+    "sha256": "650c0dc80ca0f24d0db7043fbed4bafd8a792a0b1752b8fb3f157907fb830bae"
+  },
+  {
+    "key": "engine",
+    "region": "all",
+    "role": "regulatory text",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol8/pdf/CFR-2025-title40-vol8-sec60-4211.pdf",
+    "status": "snapshot",
+    "sha256": "a83f8073de9f363ad69f112dc6448f61b941fd7dc25d1dcb41d0e93205042afc"
+  },
+  {
+    "key": "part71",
+    "region": "all",
+    "role": "regulatory text",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title40-vol17/pdf/CFR-2025-title40-vol17-sec71-3.pdf",
+    "status": "snapshot",
+    "sha256": "9f90590b26aac80c7af24f29cc07011b446cf2e222477496aef297a4bcad1c89"
+  },
+  {
+    "key": "r8pending",
+    "region": "8",
+    "role": "federal action register",
+    "url": "https://www.epa.gov/caa-permitting/caa-permit-actions-pending-epa-region-8",
+    "status": "snapshot",
+    "sha256": "563fa5a46bfd5ff192c040d7358870eb86a6ebd3b93abe9c4639583031060917",
+    "table_rows": 109,
+    "tables": 4,
+    "body_chars": 2152
+  },
+  {
+    "key": "crosby-original",
+    "region": "8",
+    "role": "federal case action",
+    "url": "https://www.epa.gov/caa-permitting/minor-nsr-permit-crusoe-energy-systems-inc-crosby-chase-ctb",
+    "status": "snapshot",
+    "sha256": "e07b109dcac098d434827ec6d5b102de1c9341fd2708ee168358d338f1a5c97e"
+  },
+  {
+    "key": "crosby-revision",
+    "region": "8",
+    "role": "federal case action",
+    "url": "https://www.epa.gov/caa-permitting/synthetic-minor-nsr-permit-crusoe-energy-systems-inc-crosby-chase-ctb",
+    "status": "snapshot",
+    "sha256": "ef4e6c98aeb364f79743a356b4607216088c0acd927499b457610d0744911180"
+  },
+  {
+    "key": "eagle",
+    "region": "8",
+    "role": "federal case action",
+    "url": "https://www.epa.gov/caa-permitting/true-minor-nsr-permit-crusoe-energy-systems-inc-charging-eagle-21-25-pad",
+    "status": "snapshot",
+    "sha256": "0df88108ca22621270f894e0f6c2416c1bcd7d03048491238322828c8182b9e3"
+  },
+  {
+    "key": "eagle-model",
+    "region": "8",
+    "role": "EPA-hosted facility use evidence",
+    "url": "https://www.epa.gov/system/files/documents/2022-05/CrusoeChargingEagle%20AQIA%20final%202022-04-29.pdf",
+    "status": "snapshot",
+    "sha256": "1c97ebfca197d224163b3d4836b40f8dd665ba22a5a59192343fdce453dee48a"
+  },
+  {
+    "key": "crosby-context",
+    "region": "8",
+    "role": "EPA-authored facility use evidence; held by public docket",
+    "url": "https://downloads.regulations.gov/EPA-R08-OAR-2021-0039-0014/content.pdf",
+    "status": "unavailable",
+    "error": "ValueError: robots preflight HTTP 403"
+  }
+]

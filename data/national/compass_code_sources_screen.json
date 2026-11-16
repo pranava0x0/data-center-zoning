@@ -1,0 +1,2795 @@
+{
+  "cohort_size": 100,
+  "eligible_distinct_urls": 1013,
+  "results": {
+    "no matching text in readable pages": 58,
+    "unreadable or blocked": 25,
+    "candidate text": 4,
+    "no machine-readable pages": 13
+  },
+  "documents": [
+    {
+      "url": "https://co.richmond.va.us/files/Zoning_Ordinance_-_Complete(5).pdf",
+      "referrals": [
+        [
+          "VA",
+          "51159",
+          "Richmond County",
+          "high_voltage_transmission"
+        ],
+        [
+          "VA",
+          "51159",
+          "Richmond County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://co.richmond.va.us/files/Zoning_Ordinance_-_Complete(5).pdf",
+        "resolved": "https://co.richmond.va.us/files/Zoning_Ordinance_-_Complete(5).pdf",
+        "sha256": "e8ab4e9be875cab80f486d198e4562888f0275651dd19b4d8e93bbea5d3c8e1c",
+        "pages": 253,
+        "text_pages": 253,
+        "hits": [],
+        "checked": "2026-11-16T07:25:56+00:00"
+      }
+    },
+    {
+      "url": "https://cityoffrost.municipalimpact.com/documents/340/City_Ordinance.pdf",
+      "referrals": [
+        [
+          "TX",
+          "4827768",
+          "Frost city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://cityoffrost.municipalimpact.com/documents/340/City_Ordinance.pdf",
+        "resolved": "https://cityoffrost.municipalimpact.com/documents/340/City_Ordinance.pdf",
+        "sha256": "87519ea4d37a88e51d4d75ce8cd38309e41bc0f51d4da8c46451b9b76d13af64",
+        "pages": 345,
+        "text_pages": 345,
+        "hits": [],
+        "checked": "2026-11-16T07:25:53+00:00"
+      }
+    },
+    {
+      "url": "https://www.paloalto.gov/files/assets/public/v/1/development-services/building-division/adoptive-ordinances/2025-edition/urgent_ord_5665-cenc-1.pdf",
+      "referrals": [
+        [
+          "CA",
+          "0655282",
+          "Palo Alto city",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 1,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.paloalto.gov/files/assets/public/v/1/development-services/building-division/adoptive-ordinances/2025-edition/urgent_ord_5665-cenc-1.pdf",
+        "error": "robots preflight HTTP 403",
+        "checked": "2026-11-16T07:25:50+00:00"
+      }
+    },
+    {
+      "url": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2021/10/C5_Dublin-Zoning-Code-Regs.pdf",
+      "referrals": [
+        [
+          "OH",
+          "3922694",
+          "Dublin city",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 6,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2021/10/C5_Dublin-Zoning-Code-Regs.pdf",
+        "resolved": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2021/10/C5_Dublin-Zoning-Code-Regs.pdf",
+        "sha256": "d8d0b0238ba8a229bd527a046bdb6aa0a306132e5f3481f4cd168829a9e066e4",
+        "pages": 5,
+        "text_pages": 5,
+        "hits": [],
+        "checked": "2026-11-16T07:25:54+00:00"
+      }
+    },
+    {
+      "url": "http://cityofchickamauga.org/media/Zoning-Ordinance-Revised-10-1-2014.pdf",
+      "referrals": [
+        [
+          "GA",
+          "1315984",
+          "Chickamauga city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://cityofchickamauga.org/media/Zoning-Ordinance-Revised-10-1-2014.pdf",
+        "error": "Source over 18 MiB; needs individual review",
+        "checked": "2026-11-16T07:25:54+00:00"
+      }
+    },
+    {
+      "url": "https://www.bensonaz.gov/DocumentCenter/View/842/Zoning-Regulations-2026-",
+      "referrals": [
+        [
+          "AZ",
+          "0405770",
+          "Benson city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 1,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.bensonaz.gov/DocumentCenter/View/842/Zoning-Regulations-2026-",
+        "resolved": "https://www.bensonaz.gov/DocumentCenter/View/842/Zoning-Regulations-2026-",
+        "sha256": "dba86dfd4213db09866398d3850651d5aa4e251d784f4ca791e07843fe8a08c6",
+        "pages": 150,
+        "text_pages": 148,
+        "hits": [],
+        "checked": "2026-11-16T07:25:53+00:00"
+      }
+    },
+    {
+      "url": "https://stuyvesantny.us/wp-content/uploads/2022/04/Zoning-Law-Adopted-9-6-2018-modified-4-14-22.pdf",
+      "referrals": [
+        [
+          "NY",
+          "3602171850",
+          "Stuyvesant town",
+          "solar"
+        ],
+        [
+          "NY",
+          "3602171850",
+          "Stuyvesant town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://stuyvesantny.us/wp-content/uploads/2022/04/Zoning-Law-Adopted-9-6-2018-modified-4-14-22.pdf",
+        "resolved": "https://stuyvesantny.gov/wp-content/uploads/2022/04/Zoning-Law-Adopted-9-6-2018-modified-4-14-22.pdf",
+        "sha256": "162eda148c5163e7b4b00b9bf2a1df3052eee8c878b0c4d46f5a60ff9897c1d1",
+        "pages": 60,
+        "text_pages": 59,
+        "hits": [],
+        "checked": "2026-11-16T07:25:51+00:00"
+      }
+    },
+    {
+      "url": "https://westmont.illinois.gov/DocumentCenter/View/5043/VillageofWestmentZoningOrdinance-AsAmended-Feb-19-2026",
+      "referrals": [
+        [
+          "IL",
+          "1780645",
+          "Westmont village",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 1,
+      "screen_result": "candidate text",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://westmont.illinois.gov/DocumentCenter/View/5043/VillageofWestmentZoningOrdinance-AsAmended-Feb-19-2026",
+        "resolved": "https://westmont.illinois.gov/DocumentCenter/View/5043/VillageofWestmentZoningOrdinance-AsAmended-May-28-2026?bidId=",
+        "sha256": "d7921272429605418c3bd9d0833092cd5642b55485ae7b0f0b49597e6ddc8f3c",
+        "pages": 235,
+        "text_pages": 227,
+        "hits": [
+          [
+            72,
+            " – – S – WAREHOUSE & DISTRIBUTION Warehouse/Logistics – – – – – – – – – – – – – – – P P – Data Center – – – – – – – – – – – – – – S S S – MANUFACTURING & INDUSTRY"
+          ],
+          [
+            88,
+            "to several recipients or vice versa but may not include retail or manufacturing uses. (B) Data Center (1) Use Category Description A building used primarily for the storage, management, processing, and transmission of digital "
+          ]
+        ],
+        "checked": "2026-11-16T07:26:00+00:00"
+      }
+    },
+    {
+      "url": "https://estero-fl.gov/wp-content/uploads/library-ada/Ordinances/2015/Ordinance%202015-09%20FPL%20Franchise%20adopted%20091615.pdf",
+      "referrals": [
+        [
+          "FL",
+          "1221150",
+          "Estero village",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://estero-fl.gov/wp-content/uploads/library-ada/Ordinances/2015/Ordinance%202015-09%20FPL%20Franchise%20adopted%20091615.pdf",
+        "resolved": "https://estero-fl.gov/wp-content/uploads/library-ada/Ordinances/2015/Ordinance%202015-09%20FPL%20Franchise%20adopted%20091615.pdf",
+        "sha256": "3a0b125fe870d9a6da3299785151abfe8cc374e1dc644b08ea154fce42071ca1",
+        "pages": 6,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:25:53+00:00"
+      }
+    },
+    {
+      "url": "https://palmyrapike.org/wp-content/uploads/2025/07/Palmyra-Twp-Zoning-Ord-2025-07-15.pdf",
+      "referrals": [
+        [
+          "PA",
+          "4210357728",
+          "Palmyra township",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 1,
+      "screen_result": "candidate text",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://palmyrapike.org/wp-content/uploads/2025/07/Palmyra-Twp-Zoning-Ord-2025-07-15.pdf",
+        "resolved": "https://palmyrapike.org/wp-content/uploads/2025/07/Palmyra-Twp-Zoning-Ord-2025-07-15.pdf",
+        "sha256": "a4bff3c9ef90aefb2aa0cb9c799d91ef845758bf1feb99b2a8f5b94141329dfb",
+        "pages": 211,
+        "text_pages": 211,
+        "hits": [
+          [
+            20,
+            " contains exhibits of cultural interest, such as a museum, art gallery, or nature center. Data Center: A facility used primarily for the housing, operation, and/or co-location of computer and communications equipment and for h"
+          ],
+          [
+            60,
+            "lity - Concrete batch plant - Conference center - Correctional facility - Crusher plant - Data center - Distillery - Distribution center/fulfillment center or truck terminal - Dormitory - Drive-in use for uses allowed in distr"
+          ]
+        ],
+        "checked": "2026-11-16T07:25:57+00:00"
+      }
+    },
+    {
+      "url": "https://www.libertylakewa.gov/DocumentCenter/View/5330/Chapter-2---Zoning-Districts",
+      "referrals": [
+        [
+          "WA",
+          "5339335",
+          "Liberty Lake city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 1,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.libertylakewa.gov/DocumentCenter/View/5330/Chapter-2---Zoning-Districts",
+        "error": "Source over 18 MiB; needs individual review",
+        "checked": "2026-11-16T07:26:09+00:00"
+      }
+    },
+    {
+      "url": "http://jaycounty.net/images/custom/2020_jay_county_zoning_subdivision_ordinance.pdf",
+      "referrals": [
+        [
+          "IN",
+          "18075",
+          "Jay County",
+          "solar"
+        ],
+        [
+          "IN",
+          "18075",
+          "Jay County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://jaycounty.net/images/custom/2020_jay_county_zoning_subdivision_ordinance.pdf",
+        "resolved": "http://jaycounty.net/images/custom/2020_jay_county_zoning_subdivision_ordinance.pdf",
+        "sha256": "3ce851ebe88e3e22884a39bd9262cfb19808c56573baa6f9af935f963a2c7197",
+        "pages": 186,
+        "text_pages": 186,
+        "hits": [],
+        "checked": "2026-11-16T07:25:57+00:00"
+      }
+    },
+    {
+      "url": "https://www.wallnj.gov/DocumentCenter/View/4184/Ordinance-19-2018-Well-Regulation",
+      "referrals": [
+        [
+          "NJ",
+          "3402576460",
+          "Wall township",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 3,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.wallnj.gov/DocumentCenter/View/4184/Ordinance-19-2018-Well-Regulation",
+        "error": "HTTP Error 403: Forbidden",
+        "checked": "2026-11-16T07:25:54+00:00"
+      }
+    },
+    {
+      "url": "https://www.cityofprineville.com/DocumentCenter/View/1987/Ordinance-No-1189---CEC-Non-Exclusive-Franchise",
+      "referrals": [
+        [
+          "OR",
+          "4159850",
+          "Prineville city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 11,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.cityofprineville.com/DocumentCenter/View/1987/Ordinance-No-1189---CEC-Non-Exclusive-Franchise",
+        "resolved": "https://www.cityofprineville.com/DocumentCenter/View/1987/Ordinance-No-1189---CEC-Non-Exclusive-Franchise",
+        "sha256": "f73c97dbb2be3c80fae527d5374cb13d347084d09da7fa1ac2de39e14d57e5e3",
+        "pages": 5,
+        "text_pages": 5,
+        "hits": [],
+        "checked": "2026-11-16T07:25:57+00:00"
+      }
+    },
+    {
+      "url": "https://caldwellcountync.org/DocumentCenter/View/496/Zoning-Ordinance-PDF",
+      "referrals": [
+        [
+          "NC",
+          "37027",
+          "Caldwell County",
+          "high_voltage_transmission"
+        ],
+        [
+          "NC",
+          "37027",
+          "Caldwell County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://caldwellcountync.org/DocumentCenter/View/496/Zoning-Ordinance-PDF",
+        "resolved": "https://caldwellcountync.org/DocumentCenter/View/496/Zoning-Ordinance-PDF",
+        "sha256": "8c97a131da83ef9a9fda541f05dba1b8084345128faa6563facc0626d5cb61b8",
+        "pages": 173,
+        "text_pages": 173,
+        "hits": [],
+        "checked": "2026-11-16T07:25:58+00:00"
+      }
+    },
+    {
+      "url": "https://www.co.jackson.mn.us/vertical/Sites/%7B47B68709-5081-4D2D-A79C-49891B025171%7D/uploads/Development_Code_Combined_PDFs.pdf",
+      "referrals": [
+        [
+          "MN",
+          "27063",
+          "Jackson County",
+          "solar"
+        ],
+        [
+          "MN",
+          "27063",
+          "Jackson County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.co.jackson.mn.us/vertical/Sites/%7B47B68709-5081-4D2D-A79C-49891B025171%7D/uploads/Development_Code_Combined_PDFs.pdf",
+        "resolved": "https://www.co.jackson.mn.us/vertical/Sites/%7B47B68709-5081-4D2D-A79C-49891B025171%7D/uploads/Development_Code_Combined_PDFs.pdf",
+        "sha256": "ec5c9c34805c03302c25944e69f46f858343f5aa1fb1d1deb2a2795c8a1ee557",
+        "pages": 345,
+        "text_pages": 326,
+        "hits": [],
+        "checked": "2026-11-16T07:26:02+00:00"
+      }
+    },
+    {
+      "url": "https://townofdolores.colorado.gov/sites/townofdolores/files/documents/Appendix_A___LAND_USE_CODE%20Muni%20Code%20codification.pdf",
+      "referrals": [
+        [
+          "CO",
+          "08083",
+          "Montezuma County",
+          "wind"
+        ],
+        [
+          "CO",
+          "0820770",
+          "Dolores town",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified",
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://townofdolores.colorado.gov/sites/townofdolores/files/documents/Appendix_A___LAND_USE_CODE%20Muni%20Code%20codification.pdf",
+        "error": "robots preflight HTTP 403",
+        "checked": "2026-11-16T07:25:55+00:00"
+      }
+    },
+    {
+      "url": "https://www.deltami.gov/defaults/Government/Ordinances/Delta%20Township%20Zoning%20Ordinance-4-19-21.pdf",
+      "referrals": [
+        [
+          "MI",
+          "2604521520",
+          "Delta charter township",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 2,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.deltami.gov/defaults/Government/Ordinances/Delta%20Township%20Zoning%20Ordinance-4-19-21.pdf",
+        "error": "Source over 18 MiB; needs individual review",
+        "checked": "2026-11-16T07:26:20+00:00"
+      }
+    },
+    {
+      "url": "https://jeffersoncountytn.gov/wp-content/uploads/2021/07/Revised-Zoning-Resolution_April-2021.pdf",
+      "referrals": [
+        [
+          "TN",
+          "47089",
+          "Jefferson County",
+          "solar"
+        ],
+        [
+          "TN",
+          "47089",
+          "Jefferson County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://jeffersoncountytn.gov/wp-content/uploads/2021/07/Revised-Zoning-Resolution_April-2021.pdf",
+        "resolved": "https://jeffersoncountytn.gov/wp-content/uploads/2021/07/Revised-Zoning-Resolution_April-2021.pdf",
+        "sha256": "43448154e7de297f8264d6fa8d0495943551a23fa2702a51956a28462f980c4b",
+        "pages": 66,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:25:58+00:00"
+      }
+    },
+    {
+      "url": "https://www.washoecounty.gov/clerks/cco/ordinances/1443.pdf",
+      "referrals": [
+        [
+          "NV",
+          "32031",
+          "Washoe County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.washoecounty.gov/clerks/cco/ordinances/1443.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:25:58+00:00"
+      }
+    },
+    {
+      "url": "https://waynecountyutah.gov/uploads/wayne-county-land-use-ordinances-resolutions-1_1_2011.pdf",
+      "referrals": [
+        [
+          "UT",
+          "49055",
+          "Wayne County",
+          "high_voltage_transmission"
+        ],
+        [
+          "UT",
+          "49055",
+          "Wayne County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://waynecountyutah.gov/uploads/wayne-county-land-use-ordinances-resolutions-1_1_2011.pdf",
+        "resolved": "https://waynecountyutah.gov/uploads/wayne-county-land-use-ordinances-resolutions-1_1_2011.pdf",
+        "sha256": "eec5326f29d93caf91e9c61b49a11aaa78bc16b929a4d1643867a85f5ad9d65c",
+        "pages": 281,
+        "text_pages": 281,
+        "hits": [],
+        "checked": "2026-11-16T07:26:00+00:00"
+      }
+    },
+    {
+      "url": "https://boonecounty.iowa.gov/files/county_ordinances/139_amendment_to_zoning_district_map_133.pdf",
+      "referrals": [
+        [
+          "IA",
+          "19015",
+          "Boone County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://boonecounty.iowa.gov/files/county_ordinances/139_amendment_to_zoning_district_map_133.pdf",
+        "resolved": "https://boonecounty.iowa.gov/files/county_ordinances/139_amendment_to_zoning_district_map_133.pdf",
+        "sha256": "050fc45075a1ff8a9ccf5cf6f625ff931cfbe216d381817e04e33670876f8b3e",
+        "pages": 2,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:25:59+00:00"
+      }
+    },
+    {
+      "url": "https://www.harfordcountymd.gov/DocumentCenter/View/18362/5-10-21-Zoning-Code-Update---Bill-21-01AA",
+      "referrals": [
+        [
+          "MD",
+          "24025",
+          "Harford County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.harfordcountymd.gov/DocumentCenter/View/18362/5-10-21-Zoning-Code-Update---Bill-21-01AA",
+        "resolved": "https://www.harfordcountymd.gov/DocumentCenter/View/18362/5-10-21-Zoning-Code-Update---Bill-21-01AA",
+        "sha256": "ac8027721f4018fb1b6d40252331207d3928c6d502435b829acf203d4f87eeb6",
+        "pages": 38,
+        "text_pages": 38,
+        "hits": [],
+        "checked": "2026-11-16T07:26:00+00:00"
+      }
+    },
+    {
+      "url": "https://www.sandspringsok.gov/DocumentCenter/View/21/Zoning-Code",
+      "referrals": [
+        [
+          "OK",
+          "4065300",
+          "Sand Springs city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.sandspringsok.gov/DocumentCenter/View/21/Zoning-Code",
+        "resolved": "https://www.sandspringsok.gov/DocumentCenter/View/21/Zoning-Code",
+        "sha256": "de37fa22b54fb53f0630d3d7862f91645f69d9210baaa21b437e5f05e1b6e2b8",
+        "pages": 333,
+        "text_pages": 333,
+        "hits": [],
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://andoverma.gov/DocumentCenter/View/10817/Andover-Zoning-Bylaw-32122",
+      "referrals": [
+        [
+          "MA",
+          "2500901465",
+          "Andover town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 1,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://andoverma.gov/DocumentCenter/View/10817/Andover-Zoning-Bylaw-32122",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:25:59+00:00"
+      }
+    },
+    {
+      "url": "https://www.co.sauk.wi.us/sites/default/files/fileattachments/land_resources_and_environment/page/130729/draft_zoning_july_2025.pdf",
+      "referrals": [
+        [
+          "WI",
+          "55111",
+          "Sauk County",
+          "solar"
+        ],
+        [
+          "WI",
+          "55111",
+          "Sauk County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.co.sauk.wi.us/sites/default/files/fileattachments/land_resources_and_environment/page/130729/draft_zoning_july_2025.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:00+00:00"
+      }
+    },
+    {
+      "url": "http://www.co.washington.ne.us/media/draftplan/Washington_County_Zoning_Regulations_draft.pdf",
+      "referrals": [
+        [
+          "NE",
+          "31177",
+          "Washington County",
+          "geothermal_heat_pumps"
+        ],
+        [
+          "NE",
+          "31177",
+          "Washington County",
+          "solar"
+        ],
+        [
+          "NE",
+          "31177",
+          "Washington County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://www.co.washington.ne.us/media/draftplan/Washington_County_Zoning_Regulations_draft.pdf",
+        "resolved": "http://www.co.washington.ne.us/media/draftplan/Washington_County_Zoning_Regulations_draft.pdf",
+        "sha256": "b6c5f1be417ef7c040268fbb068e192c8c73e3bd7fe6d156588786d91e56f478",
+        "pages": 164,
+        "text_pages": 163,
+        "hits": [],
+        "checked": "2026-11-16T07:26:04+00:00"
+      }
+    },
+    {
+      "url": "https://cityofunionky.org/wp-content/uploads/2024/04/ORDINANCE-2024-04-compressed.pdf",
+      "referrals": [
+        [
+          "KY",
+          "2178384",
+          "Union city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://cityofunionky.org/wp-content/uploads/2024/04/ORDINANCE-2024-04-compressed.pdf",
+        "resolved": "https://cityofunionky.org/wp-content/uploads/2024/04/ORDINANCE-2024-04-compressed.pdf",
+        "sha256": "ceca8e1ff9d6166704346a764c47edf5c0b27047a851c0333445eeb39222d02c",
+        "pages": 9,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:03+00:00"
+      }
+    },
+    {
+      "url": "https://townofevansville.org/vertical/sites/%7B9E8A7884-EEB9-47AC-A5E4-B494E375E73B%7D/uploads/Evansville_Zoning_Ordinance__3-27-23_Final.pdf",
+      "referrals": [
+        [
+          "WY",
+          "5625765",
+          "Evansville town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://townofevansville.org/vertical/sites/%7B9E8A7884-EEB9-47AC-A5E4-B494E375E73B%7D/uploads/Evansville_Zoning_Ordinance__3-27-23_Final.pdf",
+        "resolved": "https://townofevansville.org/vertical/sites/%7B9E8A7884-EEB9-47AC-A5E4-B494E375E73B%7D/uploads/Evansville_Zoning_Ordinance__3-27-23_Final.pdf",
+        "sha256": "84cb6bb7dd923c9c3a04a7a10eaed9647207553bf8855bf35e8dadf2536d30c6",
+        "pages": 135,
+        "text_pages": 133,
+        "hits": [],
+        "checked": "2026-11-16T07:26:04+00:00"
+      }
+    },
+    {
+      "url": "https://bowmannd.com/wp-content/uploads/2024/12/2024-ZONING-ORDINACE.pdf",
+      "referrals": [
+        [
+          "ND",
+          "38011",
+          "Bowman County",
+          "solar"
+        ],
+        [
+          "ND",
+          "38011",
+          "Bowman County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://bowmannd.com/wp-content/uploads/2024/12/2024-ZONING-ORDINACE.pdf",
+        "resolved": "https://bowmannd.com/wp-content/uploads/2024/12/2024-ZONING-ORDINACE.pdf",
+        "sha256": "dcb086bbec7a812986e71cd4b7c0bddc940c238f21ef70fd617ade6ce78fac6d",
+        "pages": 169,
+        "text_pages": 168,
+        "hits": [],
+        "checked": "2026-11-16T07:26:04+00:00"
+      }
+    },
+    {
+      "url": "https://rushcountykansas.org/documents/planning_zoning/Rush%20County%20Ks%20Zoning%20Regulations%20072011%20Revised%20v3.pdf",
+      "referrals": [
+        [
+          "KS",
+          "20165",
+          "Rush County",
+          "high_voltage_transmission"
+        ],
+        [
+          "KS",
+          "20165",
+          "Rush County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://rushcountykansas.org/documents/planning_zoning/Rush%20County%20Ks%20Zoning%20Regulations%20072011%20Revised%20v3.pdf",
+        "resolved": "https://rushcountykansas.org/documents/planning_zoning/Rush%20County%20Ks%20Zoning%20Regulations%20072011%20Revised%20v3.pdf",
+        "sha256": "9c7e4c92ab2f4a7445ae79af416abddb50ea78e9d576aa8a740a6163582de521",
+        "pages": 244,
+        "text_pages": 242,
+        "hits": [],
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://hollyhill.sc.gov/sites/hollyhill/files/Documents/2024%20Town%20of%20Holly%20Hill%20Zoning%20Ordinance.pdf",
+      "referrals": [
+        [
+          "SC",
+          "4534360",
+          "Holly Hill town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": true,
+      "source_check": {
+        "url": "https://hollyhill.sc.gov/sites/hollyhill/files/Documents/2024%20Town%20of%20Holly%20Hill%20Zoning%20Ordinance.pdf",
+        "resolved": "https://hollyhill.sc.gov/sites/hollyhill/files/Documents/2024%20Town%20of%20Holly%20Hill%20Zoning%20Ordinance.pdf",
+        "sha256": "61215949603be885a96fd5392830cdffe0e618ebf755a5f19f9f724fd24c2fdc",
+        "pages": 207,
+        "text_pages": 205,
+        "hits": [],
+        "checked": "2026-11-16T07:26:08+00:00"
+      }
+    },
+    {
+      "url": "https://baldwincountyal.gov/docs/default-source/plannin-zoning/ordinances-and-regulations/zoning-ordinance-(updated-5-20-2025).pdf?sfvrsn=c1b4d700_3",
+      "referrals": [
+        [
+          "AL",
+          "01003",
+          "Baldwin County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://baldwincountyal.gov/docs/default-source/plannin-zoning/ordinances-and-regulations/zoning-ordinance-(updated-5-20-2025).pdf?sfvrsn=c1b4d700_3",
+        "error": "Not PDF; separate adapter required",
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://www.coventry-ct.gov/DocumentCenter/View/9347/FINAL-3-28-25-ZONING-REGULATIONS",
+      "referrals": [
+        [
+          "CT",
+          "0911017800",
+          "Coventry town",
+          "geothermal_heat_pumps"
+        ],
+        [
+          "CT",
+          "0911017800",
+          "Coventry town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.coventry-ct.gov/DocumentCenter/View/9347/FINAL-3-28-25-ZONING-REGULATIONS",
+        "resolved": "https://www.coventry-ct.gov/DocumentCenter/View/9347/FINAL-7-1-26-ZONING-REGULATIONS?bidId=",
+        "sha256": "eb5f4577bc158710c9abdb48a89113c84fab7c1d980166f997f8fce798a3d0fb",
+        "pages": 161,
+        "text_pages": 161,
+        "hits": [],
+        "checked": "2026-11-16T07:26:08+00:00"
+      }
+    },
+    {
+      "url": "https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/4695.pdf?sfvrsn=e2345e46_3",
+      "referrals": [
+        [
+          "LA",
+          "22015",
+          "Bossier Parish",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/4695.pdf?sfvrsn=e2345e46_3",
+        "resolved": "https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/4695.pdf?sfvrsn=e2345e46_3",
+        "sha256": "1f1044de7c184676a9dce0a0367f122c3c454b03ba388035eb2141bb8807381d",
+        "pages": 5,
+        "text_pages": 5,
+        "hits": [],
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://www.riocommunities.net/sites/default/files/fileattachments/ordinance/9195/ordinance_2023-88_ch_4_zoning_code.pdf",
+      "referrals": [
+        [
+          "NM",
+          "3563145",
+          "Rio Communities city",
+          "geothermal_electricity"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": true,
+      "source_check": {
+        "url": "https://www.riocommunities.net/sites/default/files/fileattachments/ordinance/9195/ordinance_2023-88_ch_4_zoning_code.pdf",
+        "resolved": "https://www.riocommunities.net/sites/default/files/fileattachments/ordinance/9195/ordinance_2023-88_ch_4_zoning_code.pdf",
+        "sha256": "de493aa7981d2ac148fc4a903e55abf6dbd56e66f7923026942b5d6420dbaa83",
+        "pages": 142,
+        "text_pages": 140,
+        "hits": [],
+        "checked": "2026-11-16T07:26:07+00:00"
+      }
+    },
+    {
+      "url": "https://greenbriercounty.net/wp-content/uploads/2022.04.11.Greenbrier.County.Zoning.Ordinance.pdf",
+      "referrals": [
+        [
+          "WV",
+          "54025",
+          "Greenbrier County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://greenbriercounty.net/wp-content/uploads/2022.04.11.Greenbrier.County.Zoning.Ordinance.pdf",
+        "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>",
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://www.exeternh.gov/sites/default/files/fileattachments/planning_board/page/14051/2025_final_zoning_ordinance_w-cover_appendix.pdf",
+      "referrals": [
+        [
+          "NH",
+          "3301525380",
+          "Exeter town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 1,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.exeternh.gov/sites/default/files/fileattachments/planning_board/page/14051/2025_final_zoning_ordinance_w-cover_appendix.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://cityofhazenar.gov/documents/152/Hazen_Municipal_Code_2026.pdf",
+      "referrals": [
+        [
+          "AR",
+          "0530940",
+          "Hazen city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": true,
+      "source_check": {
+        "url": "https://cityofhazenar.gov/documents/152/Hazen_Municipal_Code_2026.pdf",
+        "resolved": "https://cityofhazenar.gov/documents/152/Hazen_Municipal_Code_2026.pdf",
+        "sha256": "6cca8b3f5c14e96133657f474a26d4da35a753cfc5a186abf80fd5356d2c1ab1",
+        "pages": 221,
+        "text_pages": 219,
+        "hits": [],
+        "checked": "2026-11-16T07:26:09+00:00"
+      }
+    },
+    {
+      "url": "https://bannockcounty.us/wp-content/uploads/2021/07/current_bannock_county_zoning_ordinance_1998-1_amd_35.pdf",
+      "referrals": [
+        [
+          "ID",
+          "16005",
+          "Bannock County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://bannockcounty.us/wp-content/uploads/2021/07/current_bannock_county_zoning_ordinance_1998-1_amd_35.pdf",
+        "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>",
+        "checked": "2026-11-16T07:26:06+00:00"
+      }
+    },
+    {
+      "url": "https://www.livingstonmontana.org/sites/default/files/fileattachments/building_amp_planning/page/2245/ch30_zoning_adopted_final_to_municode.pdf",
+      "referrals": [
+        [
+          "MT",
+          "3043975",
+          "Livingston city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": true,
+      "source_check": {
+        "url": "https://www.livingstonmontana.org/sites/default/files/fileattachments/building_amp_planning/page/2245/ch30_zoning_adopted_final_to_municode.pdf",
+        "resolved": "https://www.livingstonmontana.org/sites/default/files/fileattachments/building_amp_planning/page/2245/ch30_zoning_adopted_final_to_municode.pdf",
+        "sha256": "40764acc9f1bbf2a8fb9d32cbf6f9434b16a1adfe49ead3065d20850a730cc48",
+        "pages": 77,
+        "text_pages": 77,
+        "hits": [],
+        "checked": "2026-11-16T07:26:09+00:00"
+      }
+    },
+    {
+      "url": "https://robertscosd.gov/files/2022/10/Roberts-County-Zoning-Ordinance-042021.pdf",
+      "referrals": [
+        [
+          "SD",
+          "46109",
+          "Roberts County",
+          "high_voltage_transmission"
+        ],
+        [
+          "SD",
+          "46109",
+          "Roberts County",
+          "solar"
+        ],
+        [
+          "SD",
+          "46109",
+          "Roberts County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": true,
+      "source_check": {
+        "url": "https://robertscosd.gov/files/2022/10/Roberts-County-Zoning-Ordinance-042021.pdf",
+        "resolved": "https://robertscosd.gov/files/2022/10/Roberts-County-Zoning-Ordinance-042021.pdf",
+        "sha256": "f7735c3ed30554b704a91319251b10871682d301edd03e9b5cb05542eedaaa39",
+        "pages": 163,
+        "text_pages": 158,
+        "hits": [],
+        "checked": "2026-11-16T07:26:13+00:00"
+      }
+    },
+    {
+      "url": "https://www.newcastlede.gov/DocumentCenter/View/63366/UDC-Revision-03102026",
+      "referrals": [
+        [
+          "DE",
+          "10003",
+          "New Castle County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.newcastlede.gov/DocumentCenter/View/63366/UDC-Revision-03102026",
+        "error": "robots preflight HTTP 403",
+        "checked": "2026-11-16T07:26:07+00:00"
+      }
+    },
+    {
+      "url": "https://minotme.org/vertical/Sites/%7B1666B81B-370A-463B-B8FB-32BAA0E22AAF%7D/uploads/2022_Land_Use_Code(1).pdf",
+      "referrals": [
+        [
+          "ME",
+          "2300146160",
+          "Minot town",
+          "geothermal_heat_pumps"
+        ],
+        [
+          "ME",
+          "2300146160",
+          "Minot town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://minotme.org/vertical/Sites/%7B1666B81B-370A-463B-B8FB-32BAA0E22AAF%7D/uploads/2022_Land_Use_Code(1).pdf",
+        "resolved": "https://minotme.org/vertical/Sites/%7B1666B81B-370A-463B-B8FB-32BAA0E22AAF%7D/uploads/2022_Land_Use_Code(1).pdf",
+        "sha256": "3a28a81292e833643be900f65e47dce61eca909b6de38b9d37e14f788ab9d453",
+        "pages": 180,
+        "text_pages": 177,
+        "hits": [],
+        "checked": "2026-11-16T07:26:13+00:00"
+      }
+    },
+    {
+      "url": "https://www.moretownvt.org/wp-content/uploads/2023/03/Moretown-Zoning-and-Subdivision-Regulations-as-Amended-3-7-2023.pdf",
+      "referrals": [
+        [
+          "VT",
+          "5002346225",
+          "Moretown town",
+          "high_voltage_transmission"
+        ],
+        [
+          "VT",
+          "5002346225",
+          "Moretown town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.moretownvt.org/wp-content/uploads/2023/03/Moretown-Zoning-and-Subdivision-Regulations-as-Amended-3-7-2023.pdf",
+        "resolved": "https://www.moretownvt.org/wp-content/uploads/2023/03/Moretown-Zoning-and-Subdivision-Regulations-as-Amended-3-7-2023.pdf",
+        "sha256": "45b72c38d50fe3c253a151c12fb4967b717dfd1217e08e5d9c244b40879a37f2",
+        "pages": 112,
+        "text_pages": 112,
+        "hits": [],
+        "checked": "2026-11-16T07:26:11+00:00"
+      }
+    },
+    {
+      "url": "https://www.rockinghamcountyva.gov/DocumentCenter/View/390/Zoning-Ordinance--Date-of-Enactment-10-1-14?bidId=",
+      "referrals": [
+        [
+          "VA",
+          "51165",
+          "Rockingham County",
+          "high_voltage_transmission"
+        ],
+        [
+          "VA",
+          "51165",
+          "Rockingham County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.rockinghamcountyva.gov/DocumentCenter/View/390/Zoning-Ordinance--Date-of-Enactment-10-1-14?bidId=",
+        "resolved": "https://www.rockinghamcountyva.gov/DocumentCenter/View/390/Zoning-Ordinance--Date-of-Enactment-10-1-14?bidId=",
+        "sha256": "e68d71f967aa083f52d9ad14394c9dda0cd118549fd573e0dfaeeb9e1cdf4eb7",
+        "pages": 249,
+        "text_pages": 249,
+        "hits": [],
+        "checked": "2026-11-16T07:26:13+00:00"
+      }
+    },
+    {
+      "url": "https://fairchildstx.gov/wp-content/uploads/2025/09/2006-04-Ordinance-Granting-Franchise-to-Centerpoint-Energy.pdf",
+      "referrals": [
+        [
+          "TX",
+          "4825068",
+          "Fairchilds village",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://fairchildstx.gov/wp-content/uploads/2025/09/2006-04-Ordinance-Granting-Franchise-to-Centerpoint-Energy.pdf",
+        "resolved": "https://fairchildstx.gov/wp-content/uploads/2025/09/2006-04-Ordinance-Granting-Franchise-to-Centerpoint-Energy.pdf",
+        "sha256": "99161aec3a15094cbcbd97eba7b9039b82409a6da1f74d73d3fe3aef2af1d24e",
+        "pages": 12,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:20+00:00"
+      }
+    },
+    {
+      "url": "https://www.lindsay.ca.us/sites/default/files/fileattachments/city_council/meeting/8598/12.1_d_-_zoning_ordinance_-_exhibit_a.pdf",
+      "referrals": [
+        [
+          "CA",
+          "0641712",
+          "Lindsay city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.lindsay.ca.us/sites/default/files/fileattachments/city_council/meeting/8598/12.1_d_-_zoning_ordinance_-_exhibit_a.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:10+00:00"
+      }
+    },
+    {
+      "url": "https://co.knox.oh.us/wp-content/uploads/2024/09/Zoning-Resolution-Hilliar-Township.pdf",
+      "referrals": [
+        [
+          "OH",
+          "39083",
+          "Knox County",
+          "solar"
+        ],
+        [
+          "OH",
+          "39083",
+          "Knox County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://co.knox.oh.us/wp-content/uploads/2024/09/Zoning-Resolution-Hilliar-Township.pdf",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>",
+        "checked": "2026-11-16T07:26:10+00:00"
+      }
+    },
+    {
+      "url": "http://madisonga.com/DocumentCenter/View/5319/20250908_CityofMadisonZoningOrdinanceText_Adopted",
+      "referrals": [
+        [
+          "GA",
+          "1349196",
+          "Madison city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://madisonga.com/DocumentCenter/View/5319/20250908_CityofMadisonZoningOrdinanceText_Adopted",
+        "resolved": "http://madisonga.com/DocumentCenter/View/5319/20250908_CityofMadisonZoningOrdinanceText_Adopted",
+        "sha256": "f23cccdba7c38c749a4ece561eaf09017d30791413310b76a79b4b9b47c5366c",
+        "pages": 126,
+        "text_pages": 125,
+        "hits": [],
+        "checked": "2026-11-16T07:26:14+00:00"
+      }
+    },
+    {
+      "url": "https://www.dhaz.gov/DocumentCenter/View/1293/Ordinance-6-21",
+      "referrals": [
+        [
+          "AZ",
+          "0419145",
+          "Dewey-Humboldt town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.dhaz.gov/DocumentCenter/View/1293/Ordinance-6-21",
+        "resolved": "https://www.dhaz.gov/DocumentCenter/View/1293/Ordinance-6-21",
+        "sha256": "e616cff6ba0e2f25c9a1c8bb6fd4fc56629cf8a9b45745e688d73fb45003a50a",
+        "pages": 7,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:12+00:00"
+      }
+    },
+    {
+      "url": "http://hannibalny.org/wp-content/uploads/2019/01/ZONING-LAW-6-16-10-2-1.pdf",
+      "referrals": [
+        [
+          "NY",
+          "3607532028",
+          "Hannibal town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://hannibalny.org/wp-content/uploads/2019/01/ZONING-LAW-6-16-10-2-1.pdf",
+        "resolved": "http://hannibalny.org/wp-content/uploads/2019/01/ZONING-LAW-6-16-10-2-1.pdf",
+        "sha256": "f2ef10fe38822b64718c1d045d0f8cba1091956770af4bf721f8bf808eff7c29",
+        "pages": 57,
+        "text_pages": 57,
+        "hits": [],
+        "checked": "2026-11-16T07:26:13+00:00"
+      }
+    },
+    {
+      "url": "http://evergreenpark-ill.com/DocumentCenter/View/1502/ORDINANCE-23-2018-PDF",
+      "referrals": [
+        [
+          "IL",
+          "1724634",
+          "Evergreen Park village",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://evergreenpark-ill.com/DocumentCenter/View/1502/ORDINANCE-23-2018-PDF",
+        "resolved": "http://evergreenpark-ill.com/DocumentCenter/View/1502/ORDINANCE-23-2018-PDF",
+        "sha256": "38d206580a9e0833102b2922131c799adbb78580634e21e82627d63ddc13664e",
+        "pages": 44,
+        "text_pages": 44,
+        "hits": [],
+        "checked": "2026-11-16T07:26:16+00:00"
+      }
+    },
+    {
+      "url": "https://www.baycountyfl.gov/DocumentCenter/View/627/Chapter-35-Land-Development-Regulations",
+      "referrals": [
+        [
+          "FL",
+          "12005",
+          "Bay County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.baycountyfl.gov/DocumentCenter/View/627/Chapter-35-Land-Development-Regulations",
+        "resolved": "https://www.baycountyfl.gov/DocumentCenter/View/627/Chapter-35-Land-Development-Regulations",
+        "sha256": "210e087bf8886861ad44004a16426ec207dd3812206e149904565b1625ce167f",
+        "pages": 4,
+        "text_pages": 4,
+        "hits": [],
+        "checked": "2026-11-16T07:26:14+00:00"
+      }
+    },
+    {
+      "url": "https://www.ultwp.com/sites/g/files/vyhlif3966/f/uploads/official_zoning_ordinance.pdf",
+      "referrals": [
+        [
+          "PA",
+          "4207179080",
+          "Upper Leacock township",
+          "geothermal_heat_pumps"
+        ],
+        [
+          "PA",
+          "4207179080",
+          "Upper Leacock township",
+          "solar"
+        ],
+        [
+          "PA",
+          "4207179080",
+          "Upper Leacock township",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.ultwp.com/sites/g/files/vyhlif3966/f/uploads/official_zoning_ordinance.pdf",
+        "resolved": "https://www.ultwp.com/sites/g/files/vyhlif3966/f/uploads/official_zoning_ordinance.pdf",
+        "sha256": "2e290ff97b483bae44e3e7ef39b3e455741c80e64737f7934af14399b33b1f3f",
+        "pages": 409,
+        "text_pages": 409,
+        "hits": [],
+        "checked": "2026-11-16T07:26:19+00:00"
+      }
+    },
+    {
+      "url": "https://www.cityofup.com/DocumentCenter/View/1440/Ordinance-157-PDF",
+      "referrals": [
+        [
+          "WA",
+          "5373465",
+          "University Place city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.cityofup.com/DocumentCenter/View/1440/Ordinance-157-PDF",
+        "resolved": "https://www.cityofup.com/DocumentCenter/View/1440/Ordinance-157-PDF",
+        "sha256": "536db7f86c63d05cc02d889664e2e5c8c21384775b53743652b34cfddacc2523",
+        "pages": 3,
+        "text_pages": 3,
+        "hits": [],
+        "checked": "2026-11-16T07:26:14+00:00"
+      }
+    },
+    {
+      "url": "https://co.clark.in.us/images/2025/pdf/Clark_County_UDO_Amended_JULY_2025.pdf",
+      "referrals": [
+        [
+          "IN",
+          "18019",
+          "Clark County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://co.clark.in.us/images/2025/pdf/Clark_County_UDO_Amended_JULY_2025.pdf",
+        "error": "robots disallows this URL",
+        "checked": "2026-11-16T07:26:14+00:00"
+      }
+    },
+    {
+      "url": "http://www.cityofadamsoregon.com/uploads/3/1/2/3/3123389/development_code.pdf",
+      "referrals": [
+        [
+          "OR",
+          "4100350",
+          "Adams city",
+          "geothermal_heat_pumps"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://www.cityofadamsoregon.com/uploads/3/1/2/3/3123389/development_code.pdf",
+        "resolved": "http://www.cityofadamsoregon.com/uploads/3/1/2/3/3123389/development_code.pdf",
+        "sha256": "46ffc17b3e09acc9edb235d42a37908fd6df051f90538556bc61eb6c65a77d6a",
+        "pages": 203,
+        "text_pages": 203,
+        "hits": [],
+        "checked": "2026-11-16T07:26:17+00:00"
+      }
+    },
+    {
+      "url": "https://www.northamptonnc.com/DocumentCenter/View/330/Zoning-Ordinance-12-20-16-PDF",
+      "referrals": [
+        [
+          "NC",
+          "37131",
+          "Northampton County",
+          "high_voltage_transmission"
+        ],
+        [
+          "NC",
+          "37131",
+          "Northampton County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.northamptonnc.com/DocumentCenter/View/330/Zoning-Ordinance-12-20-16-PDF",
+        "resolved": "https://www.northamptonnc.com/DocumentCenter/View/330/Zoning-Ordinance-12-20-16-PDF",
+        "sha256": "201805e13f98e092a36472b2934a39d0d1b112d325622538770064702e5456bc",
+        "pages": 146,
+        "text_pages": 146,
+        "hits": [],
+        "checked": "2026-11-16T07:26:19+00:00"
+      }
+    },
+    {
+      "url": "http://www.co.stevens.mn.us/DocumentCenter/View/2722/Stevens-County-Zoning-Ordinance-11-17-2020-PDF?bidId=",
+      "referrals": [
+        [
+          "MN",
+          "27149",
+          "Stevens County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://www.co.stevens.mn.us/DocumentCenter/View/2722/Stevens-County-Zoning-Ordinance-11-17-2020-PDF?bidId=",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:14+00:00"
+      }
+    },
+    {
+      "url": "https://www.co.cheyenne.co.us/assets/pdfs/zoning_1041_adopted_regs_2019.pdf",
+      "referrals": [
+        [
+          "CO",
+          "08017",
+          "Cheyenne County",
+          "geothermal_electricity"
+        ],
+        [
+          "CO",
+          "08017",
+          "Cheyenne County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.co.cheyenne.co.us/assets/pdfs/zoning_1041_adopted_regs_2019.pdf",
+        "resolved": "https://www.co.cheyenne.co.us/assets/pdfs/zoning_1041_adopted_regs_2019.pdf",
+        "sha256": "25fcc0f08727467bceaade1b8eb93979434bbf51ab7df30c0f3b0aa894a70603",
+        "pages": 58,
+        "text_pages": 57,
+        "hits": [],
+        "checked": "2026-11-16T07:26:17+00:00"
+      }
+    },
+    {
+      "url": "http://oregontownship.org/wordpress/wp-content/uploads/2021/05/ZoningOrdinanceMaster2020.pdf",
+      "referrals": [
+        [
+          "MI",
+          "2608761060",
+          "Oregon township",
+          "high_voltage_transmission"
+        ],
+        [
+          "MI",
+          "2608761060",
+          "Oregon township",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://oregontownship.org/wordpress/wp-content/uploads/2021/05/ZoningOrdinanceMaster2020.pdf",
+        "resolved": "http://oregontownship.org/wordpress/wp-content/uploads/2021/05/ZoningOrdinanceMaster2020.pdf",
+        "sha256": "fc3a2cc70be9bcce82acccda0cbd0bb69bb606bfb5cde8e15b56a55c2e20921c",
+        "pages": 49,
+        "text_pages": 49,
+        "hits": [],
+        "checked": "2026-11-16T07:26:16+00:00"
+      }
+    },
+    {
+      "url": "https://rutherfordcountytn.gov/vertical/sites/%7B0DE57B3C-95FA-46CF-BF78-CE4E5703EB9C%7D/uploads/zoning_ordinance_(adopted)_11-15-12_as_amended_-_12-11-2025.pdf",
+      "referrals": [
+        [
+          "TN",
+          "47149",
+          "Rutherford County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://rutherfordcountytn.gov/vertical/sites/%7B0DE57B3C-95FA-46CF-BF78-CE4E5703EB9C%7D/uploads/zoning_ordinance_(adopted)_11-15-12_as_amended_-_12-11-2025.pdf",
+        "resolved": "https://rutherfordcountytn.gov/vertical/sites/%7B0DE57B3C-95FA-46CF-BF78-CE4E5703EB9C%7D/uploads/zoning_ordinance_(adopted)_11-15-12_as_amended_-_12-11-2025.pdf",
+        "sha256": "28cc637966c532c54fd723b79cce78ce6f20a06300f506edd7612d84d1bfce30",
+        "pages": 280,
+        "text_pages": 280,
+        "hits": [],
+        "checked": "2026-11-16T07:26:20+00:00"
+      }
+    },
+    {
+      "url": "https://www.duchesne.utah.gov/wp-content/uploads/2018/05/Zoning-Ordinance-Amendments-2018.pdf",
+      "referrals": [
+        [
+          "UT",
+          "49013",
+          "Duchesne County",
+          "solar"
+        ],
+        [
+          "UT",
+          "49013",
+          "Duchesne County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.duchesne.utah.gov/wp-content/uploads/2018/05/Zoning-Ordinance-Amendments-2018.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:19+00:00"
+      }
+    },
+    {
+      "url": "https://brightoniowa.com/vertical/sites/%7BAFBA74E6-DEFB-4736-8185-DF533289FEA2%7D/uploads/Ordinance_No._2022-01_-_Electrical_Franchise_Including_Franchise.pdf",
+      "referrals": [
+        [
+          "IA",
+          "1908470",
+          "Brighton city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://brightoniowa.com/vertical/sites/%7BAFBA74E6-DEFB-4736-8185-DF533289FEA2%7D/uploads/Ordinance_No._2022-01_-_Electrical_Franchise_Including_Franchise.pdf",
+        "resolved": "https://brightoniowa.com/vertical/sites/%7BAFBA74E6-DEFB-4736-8185-DF533289FEA2%7D/uploads/Ordinance_No._2022-01_-_Electrical_Franchise_Including_Franchise.pdf",
+        "sha256": "ed6c9d2159cddcad742f48ce561236899498b79d8134790c0d8c6cf03abd03cc",
+        "pages": 6,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:18+00:00"
+      }
+    },
+    {
+      "url": "https://dnr.maryland.gov/pprp/Documents/AlleganyZoningDocs.pdf",
+      "referrals": [
+        [
+          "MD",
+          "24001",
+          "Allegany County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://dnr.maryland.gov/pprp/Documents/AlleganyZoningDocs.pdf",
+        "resolved": "https://dnr.maryland.gov/pprp/Documents/AlleganyZoningDocs.pdf",
+        "sha256": "924f2accde4a4601bbf6aef0c6f345bb27ef211f373a6ec3d15038b3365ca5f2",
+        "pages": 24,
+        "text_pages": 24,
+        "hits": [],
+        "checked": "2026-11-16T07:26:19+00:00"
+      }
+    },
+    {
+      "url": "https://ashburnham-ma.gov/DocumentCenter/View/445/Zoning-by-Law-PDF",
+      "referrals": [
+        [
+          "MA",
+          "2502701885",
+          "Ashburnham town",
+          "solar"
+        ],
+        [
+          "MA",
+          "2502701885",
+          "Ashburnham town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://ashburnham-ma.gov/DocumentCenter/View/445/Zoning-by-Law-PDF",
+        "resolved": "https://ashburnham-ma.gov/DocumentCenter/View/445/Zoning-by-Law-PDF",
+        "sha256": "8eb35cc141f1b77c91acb33209b0b5241eeb5fb2f2e54c7bf1a7aa86404b1237",
+        "pages": 133,
+        "text_pages": 130,
+        "hits": [],
+        "checked": "2026-11-16T07:26:20+00:00"
+      }
+    },
+    {
+      "url": "https://mwtown.org/2016/wp-content/uploads/2016/01/mw_general_zoning_ordinance_2007-1_052207.pdf",
+      "referrals": [
+        [
+          "WI",
+          "5512548462",
+          "Manitowish Waters town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://mwtown.org/2016/wp-content/uploads/2016/01/mw_general_zoning_ordinance_2007-1_052207.pdf",
+        "error": "Not PDF; separate adapter required",
+        "checked": "2026-11-16T07:26:19+00:00"
+      }
+    },
+    {
+      "url": "https://garfieldcounty.ne.gov/pdfs/planning_zoning/Garfield%20County%20Zoning_new%20clean_070622.pdf",
+      "referrals": [
+        [
+          "NE",
+          "31071",
+          "Garfield County",
+          "solar"
+        ],
+        [
+          "NE",
+          "31071",
+          "Garfield County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://garfieldcounty.ne.gov/pdfs/planning_zoning/Garfield%20County%20Zoning_new%20clean_070622.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:20+00:00"
+      }
+    },
+    {
+      "url": "https://russellsprings.net/wp-content/uploads/2017/07/Zoning-Regulation-Part-1.pdf",
+      "referrals": [
+        [
+          "KY",
+          "2167494",
+          "Russell Springs city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://russellsprings.net/wp-content/uploads/2017/07/Zoning-Regulation-Part-1.pdf",
+        "resolved": "https://russellsprings.net/wp-content/uploads/2017/07/Zoning-Regulation-Part-1.pdf",
+        "sha256": "9ee7ad893b99429868f68a7bf144989ab682470db26fbfc1801e99b7616465a6",
+        "pages": 21,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:31+00:00"
+      }
+    },
+    {
+      "url": "https://www.plattecountywyoming.com/media/Commissioners/Resolutions/2022/2022-03%20Updating%20Planning%20_%20Zoning%20Rules%20and%20Regs.pdf",
+      "referrals": [
+        [
+          "WY",
+          "56031",
+          "Platte County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.plattecountywyoming.com/media/Commissioners/Resolutions/2022/2022-03%20Updating%20Planning%20_%20Zoning%20Rules%20and%20Regs.pdf",
+        "resolved": "https://www.plattecountywyoming.com/media/Commissioners/Resolutions/2022/2022-03%20Updating%20Planning%20_%20Zoning%20Rules%20and%20Regs.pdf",
+        "sha256": "57a62680bc58a294a612f82f87cbd824609d2240e17c2da57d042481e6fd3e1c",
+        "pages": 79,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:24+00:00"
+      }
+    },
+    {
+      "url": "https://www.billingscountynd.gov/DocumentCenter/View/480/Billings-County-Zoning-Ordinance-August-2010-with-Amendments-FINAL-as-of-2_6_2024-PDF",
+      "referrals": [
+        [
+          "ND",
+          "38007",
+          "Billings County",
+          "high_voltage_transmission"
+        ],
+        [
+          "ND",
+          "38007",
+          "Billings County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.billingscountynd.gov/DocumentCenter/View/480/Billings-County-Zoning-Ordinance-August-2010-with-Amendments-FINAL-as-of-2_6_2024-PDF",
+        "resolved": "https://www.billingscountynd.gov/DocumentCenter/View/480/Billings-County-Zoning-Ordinance-August-2010-with-Amendments-FINAL-as-of-2_6_2024-PDF",
+        "sha256": "125b75d5037e905e0c1b5c1735c3bdd9176acbcb83a3ea9fc904bee78832b714",
+        "pages": 118,
+        "text_pages": 118,
+        "hits": [],
+        "checked": "2026-11-16T07:26:21+00:00"
+      }
+    },
+    {
+      "url": "https://www.pawneecountykansas.com/DocumentCenter/View/151/Zoning-Regulations-PDF",
+      "referrals": [
+        [
+          "KS",
+          "20145",
+          "Pawnee County",
+          "high_voltage_transmission"
+        ],
+        [
+          "KS",
+          "20145",
+          "Pawnee County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.pawneecountykansas.com/DocumentCenter/View/151/Zoning-Regulations-PDF",
+        "resolved": "https://www.pawneecountykansas.com/DocumentCenter/View/151/Zoning-Regulations-PDF",
+        "sha256": "059a38ca1524d4baed829af3e1743fbd6b46edb331767a96e248e5be9b2feffe",
+        "pages": 157,
+        "text_pages": 157,
+        "hits": [],
+        "checked": "2026-11-16T07:26:22+00:00"
+      }
+    },
+    {
+      "url": "https://townofiva.org/documents/181/Zoning_Ordinance.pdf",
+      "referrals": [
+        [
+          "SC",
+          "4536160",
+          "Iva town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "linked government codebook referral"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": true,
+      "source_check": {
+        "url": "https://townofiva.org/documents/181/Zoning_Ordinance.pdf",
+        "resolved": "https://townofiva.org/documents/181/Zoning_Ordinance.pdf",
+        "sha256": "5cf68bb60b818182c41fe9043b3f2447e26b655e66de2890eac0d64348e31f16",
+        "pages": 48,
+        "text_pages": 47,
+        "hits": [],
+        "checked": "2026-11-16T07:26:22+00:00"
+      }
+    },
+    {
+      "url": "https://cityofalabaster.com/DocumentCenter/View/515/Zoning-Ordinance---Complete-PDF",
+      "referrals": [
+        [
+          "AL",
+          "0100820",
+          "Alabaster city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://cityofalabaster.com/DocumentCenter/View/515/Zoning-Ordinance---Complete-PDF",
+        "resolved": "https://cityofalabaster.com/DocumentCenter/View/515/Zoning-Ordinance---Complete-PDF",
+        "sha256": "6a20e63b5285a5ca64d6f6722d570b12c0561c978fd02581e3046c4f175a338c",
+        "pages": 134,
+        "text_pages": 134,
+        "hits": [],
+        "checked": "2026-11-16T07:26:26+00:00"
+      }
+    },
+    {
+      "url": "https://www.granby-ct.gov/DocumentCenter/View/612/Zoning-Regulations-updated-92025-PDF",
+      "referrals": [
+        [
+          "CT",
+          "0911032640",
+          "Granby town",
+          "geothermal_heat_pumps"
+        ],
+        [
+          "CT",
+          "0911032640",
+          "Granby town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.granby-ct.gov/DocumentCenter/View/612/Zoning-Regulations-updated-92025-PDF",
+        "resolved": "https://www.granby-ct.gov/DocumentCenter/View/612/Zoning-Regulations-Effective-Date-10126?bidId=",
+        "sha256": "fba3954934a314b00ff6ef24532ecb01701ab13621782b27eaa2365dc0e51136",
+        "pages": 177,
+        "text_pages": 174,
+        "hits": [],
+        "checked": "2026-11-16T07:26:25+00:00"
+      }
+    },
+    {
+      "url": "https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/ordinance-no-4968.pdf?sfvrsn=4fb14ae9_3",
+      "referrals": [
+        [
+          "LA",
+          "22015",
+          "Bossier Parish",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/ordinance-no-4968.pdf?sfvrsn=4fb14ae9_3",
+        "resolved": "https://www.bossierparishla.gov/docs/default-source/police-jury/recent-ordinances/ordinance-no-4968.pdf?sfvrsn=4fb14ae9_3",
+        "sha256": "b9cf3ed9b27773c453a100dfc8eb28a771a1ac853129a3d84d82a3d817a43897",
+        "pages": 12,
+        "text_pages": 12,
+        "hits": [],
+        "checked": "2026-11-16T07:26:22+00:00"
+      }
+    },
+    {
+      "url": "https://www.roswell-nm.gov/DocumentCenter/View/11146/COMPLETE-ZONING-ORDINANCE-after-adding-Ordinance-20-08-Home-Occupation-8172020",
+      "referrals": [
+        [
+          "NM",
+          "3564930",
+          "Roswell city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.roswell-nm.gov/DocumentCenter/View/11146/COMPLETE-ZONING-ORDINANCE-after-adding-Ordinance-20-08-Home-Occupation-8172020",
+        "resolved": "https://www.roswell-nm.gov/DocumentCenter/View/11146/COMPLETE-ZONING-ORDINANCE-after-adding-Ordinance-20-08-Home-Occupation-8172020",
+        "sha256": "001ff25cd6637831969df05266c82c1e1b9cbdfab117960567cf76a4c846f751",
+        "pages": 138,
+        "text_pages": 138,
+        "hits": [],
+        "checked": "2026-11-16T07:26:23+00:00"
+      }
+    },
+    {
+      "url": "https://www.berkeleywv.org/DocumentCenter/View/342/Subdivision--Land-Development-Ordinance-Amended-30-January-2025-PDF",
+      "referrals": [
+        [
+          "WV",
+          "54003",
+          "Berkeley County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.berkeleywv.org/DocumentCenter/View/342/Subdivision--Land-Development-Ordinance-Amended-30-January-2025-PDF",
+        "resolved": "https://www.berkeleywv.org/DocumentCenter/View/342/Subdivision--Land-Development-Ordinance-Amended-30-January-2025-PDF",
+        "sha256": "6549e9ce6e200c97e46d957e232ac2d0192743a9bd15b7c389d1125d84bd69c7",
+        "pages": 168,
+        "text_pages": 162,
+        "hits": [],
+        "checked": "2026-11-16T07:26:25+00:00"
+      }
+    },
+    {
+      "url": "https://www.exeternh.gov/sites/default/files/fileattachments/zoning_board_of_adjustment/page/13161/final_2018_zo_as_amended_3-13-18.pdf",
+      "referrals": [
+        [
+          "NH",
+          "3301525380",
+          "Exeter town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 1,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.exeternh.gov/sites/default/files/fileattachments/zoning_board_of_adjustment/page/13161/final_2018_zo_as_amended_3-13-18.pdf",
+        "error": "HTTP Error 404: Not Found",
+        "checked": "2026-11-16T07:26:22+00:00"
+      }
+    },
+    {
+      "url": "https://goodingcounty.org/DocumentCenter/View/2187/Proposed-Draft-Gooding-County-Energy-Project-Ordinance-111424",
+      "referrals": [
+        [
+          "ID",
+          "16047",
+          "Gooding County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://goodingcounty.org/DocumentCenter/View/2187/Proposed-Draft-Gooding-County-Energy-Project-Ordinance-111424",
+        "resolved": "https://goodingcounty.org/DocumentCenter/View/2187/Proposed-Draft-Gooding-County-Energy-Project-Ordinance-111424",
+        "sha256": "defd86eda336bf2906f7a4e7795a6567052adee5ca49e3d509c04385fcd3a4d6",
+        "pages": 30,
+        "text_pages": 30,
+        "hits": [],
+        "checked": "2026-11-16T07:26:24+00:00"
+      }
+    },
+    {
+      "url": "https://carbonmt.gov/wp-content/uploads/2023/10/Carbon-County-Development-Regulations-PLANNING-BOARD-SEPT-REC.pdf",
+      "referrals": [
+        [
+          "MT",
+          "30009",
+          "Carbon County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://carbonmt.gov/wp-content/uploads/2023/10/Carbon-County-Development-Regulations-PLANNING-BOARD-SEPT-REC.pdf",
+        "resolved": "https://carbonmt.gov/wp-content/uploads/2023/10/Carbon-County-Development-Regulations-PLANNING-BOARD-SEPT-REC.pdf",
+        "sha256": "b0c245589662b12eebbf4990a6495ea1a0a1e685f0849169c4144876f15cab9c",
+        "pages": 34,
+        "text_pages": 34,
+        "hits": [],
+        "checked": "2026-11-16T07:26:24+00:00"
+      }
+    },
+    {
+      "url": "https://minercountysd.org/media/miner-county/documents/Miner%20County%20Zoning%20Manual.pdf",
+      "referrals": [
+        [
+          "SD",
+          "46097",
+          "Miner County",
+          "solar"
+        ],
+        [
+          "SD",
+          "46097",
+          "Miner County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://minercountysd.org/media/miner-county/documents/Miner%20County%20Zoning%20Manual.pdf",
+        "resolved": "https://miner.sdcounty.gov/media/miner-county/documents/Miner%20County%20Zoning%20Manual.pdf",
+        "sha256": "173af9687fe794986ec08caa369b1b944d13f6260781e571a2de3a6c25767c79",
+        "pages": 150,
+        "text_pages": 147,
+        "hits": [],
+        "checked": "2026-11-16T07:26:30+00:00"
+      }
+    },
+    {
+      "url": "https://phippsburg.com/vertical/sites/%7B80D70921-4572-4200-8876-61A701FD14B2%7D/uploads/Shoreland_Zoning_Ordinance_(2025).pdf",
+      "referrals": [
+        [
+          "ME",
+          "2302358515",
+          "Phippsburg town",
+          "geothermal_heat_pumps"
+        ],
+        [
+          "ME",
+          "2302358515",
+          "Phippsburg town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://phippsburg.com/vertical/sites/%7B80D70921-4572-4200-8876-61A701FD14B2%7D/uploads/Shoreland_Zoning_Ordinance_(2025).pdf",
+        "resolved": "https://phippsburg.com/vertical/sites/%7B80D70921-4572-4200-8876-61A701FD14B2%7D/uploads/Shoreland_Zoning_Ordinance_(2025).pdf",
+        "sha256": "807f1dd0b99f966db70e73f4d852cc0c0ce58aa2d836652774666bb0b8128d4c",
+        "pages": 88,
+        "text_pages": 86,
+        "hits": [],
+        "checked": "2026-11-16T07:26:26+00:00"
+      }
+    },
+    {
+      "url": "http://bristolvt.org/wp-content/uploads/2017/04/Bristol-Zoning-Final.pdf",
+      "referrals": [
+        [
+          "VT",
+          "5000109025",
+          "Bristol town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://bristolvt.org/wp-content/uploads/2017/04/Bristol-Zoning-Final.pdf",
+        "resolved": "https://bristolvt.org/wp-content/uploads/2017/04/Bristol-Zoning-Final.pdf",
+        "sha256": "5456c689e434c51192a871cdf9947acc481cea122fd12fab3f78707f8b23cf26",
+        "pages": 93,
+        "text_pages": 89,
+        "hits": [],
+        "checked": "2026-11-16T07:26:30+00:00"
+      }
+    },
+    {
+      "url": "https://colonialheightsva.gov/DocumentCenter/View/219/Zoning-Ordinance?bidId=",
+      "referrals": [
+        [
+          "VA",
+          "5118448",
+          "Colonial Heights city",
+          "high_voltage_transmission"
+        ],
+        [
+          "VA",
+          "51570",
+          "Colonial Heights city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified",
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://colonialheightsva.gov/DocumentCenter/View/219/Zoning-Ordinance?bidId=",
+        "resolved": "https://colonialheightsva.gov/DocumentCenter/View/219/Zoning-Ordinance?bidId=",
+        "sha256": "4cce0b94f302a6b5a52d1fcfa27beaa9b4f347ccda5c213b5f228e740a4aab71",
+        "pages": 247,
+        "text_pages": 247,
+        "hits": [],
+        "checked": "2026-11-16T07:26:27+00:00"
+      }
+    },
+    {
+      "url": "https://lakesidetexas.us/wp-content/uploads/2023/08/Ordinance-428-Oncor-Franchise-Contract.pdf",
+      "referrals": [
+        [
+          "TX",
+          "4840744",
+          "Lakeside town",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://lakesidetexas.us/wp-content/uploads/2023/08/Ordinance-428-Oncor-Franchise-Contract.pdf",
+        "resolved": "https://lakesidetexas.us/wp-content/uploads/2023/08/Ordinance-428-Oncor-Franchise-Contract.pdf",
+        "sha256": "e340b1d5db074fa3890e8b6e957d93b434d043e49eacea128c890f55cee43ba6",
+        "pages": 9,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:32+00:00"
+      }
+    },
+    {
+      "url": "https://rmadocs.venturacounty.gov/planning/ordinances/coastal-zoning/ventura-county-coastal-zoning-ordinance.pdf",
+      "referrals": [
+        [
+          "CA",
+          "06111",
+          "Ventura County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://rmadocs.venturacounty.gov/planning/ordinances/coastal-zoning/ventura-county-coastal-zoning-ordinance.pdf",
+        "error": "robots disallows this URL",
+        "checked": "2026-11-16T07:26:25+00:00"
+      }
+    },
+    {
+      "url": "http://www.crosbytwp.org/PDF/ZONING%20RESOLUTION%20revised%20jul%202013.pdf",
+      "referrals": [
+        [
+          "OH",
+          "3906119470",
+          "Crosby township",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://www.crosbytwp.org/PDF/ZONING%20RESOLUTION%20revised%20jul%202013.pdf",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+        "checked": "2026-11-16T07:26:26+00:00"
+      }
+    },
+    {
+      "url": "https://bullochcounty.net/wp-content/uploads/2023/06/Appendix-C-Zoning-ADOPTED-4_4_23-002-002.pdf",
+      "referrals": [
+        [
+          "GA",
+          "13031",
+          "Bulloch County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "candidate text",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://bullochcounty.net/wp-content/uploads/2023/06/Appendix-C-Zoning-ADOPTED-4_4_23-002-002.pdf",
+        "resolved": "https://bullochcounty.net/wp-content/uploads/2023/06/Appendix-C-Zoning-ADOPTED-4_4_23-002-002.pdf",
+        "sha256": "7b1b77a1675088e6af8101a1121da424d8cc32749531d692dffe4b5c242b96b6",
+        "pages": 166,
+        "text_pages": 159,
+        "hits": [
+          [
+            91,
+            "on. (c) All principal and accessory structures used for cryptocurrency mining operations, server farms, and/or data centers, shall be arranged, designed and constructed to be harmonious and compatible with the site and with the"
+          ],
+          [
+            91,
+            " and accessory structures used for cryptocurrency mining operations, server farms, and/or data centers, shall be arranged, designed and constructed to be harmonious and compatible with the site and with the surrounding properti"
+          ],
+          [
+            92,
+            "not the owner or operator intends to make use of the device(s). The owner of an abandoned server farm or data center, and the owner of the property where the abandoned server farm and data center are located shall be under a d"
+          ],
+          [
+            92,
+            "r operator intends to make use of the device(s). The owner of an abandoned server farm or data center, and the owner of the property where the abandoned server farm and data center are located shall be under a duty to remove s"
+          ],
+          [
+            92,
+            "n abandoned server farm or data center, and the owner of the property where the abandoned server farm and data center are located shall be under a duty to remove such facilities. If such facilities are not removed within a rea"
+          ],
+          [
+            92,
+            "er farm or data center, and the owner of the property where the abandoned server farm and data center are located shall be under a duty to remove such facilities. If such facilities are not removed within a reasonable time, no"
+          ]
+        ],
+        "checked": "2026-11-16T07:26:29+00:00"
+      }
+    },
+    {
+      "url": "https://www.mohave.gov/media/ll1dxipp/mohave-county-zoning-ordinance.pdf",
+      "referrals": [
+        [
+          "AZ",
+          "04015",
+          "Mohave County",
+          "solar"
+        ],
+        [
+          "AZ",
+          "04015",
+          "Mohave County",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "government host: issuing scope unverified"
+      ],
+      "market_markers": 0,
+      "screen_result": "candidate text",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.mohave.gov/media/ll1dxipp/mohave-county-zoning-ordinance.pdf",
+        "resolved": "https://www.mohave.gov/media/ll1dxipp/mohave-county-zoning-ordinance.pdf",
+        "sha256": "453945e6d1d54ad2c48cfcd1262d8aa29abba32e3fc1f3b15dee1dbf4050a9fc",
+        "pages": 280,
+        "text_pages": 244,
+        "hits": [
+          [
+            17,
+            "or part of such Plan separately adopted, or any amendment to such Plan, or parts thereof. Data Center: A facility primarily used for the storage, management, processing, and transmission of digital data, housing computer or ne"
+          ],
+          [
+            41,
+            "to two hundred fifty (250) feet and must meet all FAA requirements (see Section 37.R). 8. Data centers. E. Height No use or structure within the A-D zone shall encroach upon any flight or airspace control surfaces used or estab"
+          ],
+          [
+            86,
+            " hundred and twenty-one (121) feet to two hundred fifty (250) feet (see Section 37.R). 3. Data Centers."
+          ],
+          [
+            89,
+            " one hundred twenty-one (121) feet to two hundred fifty (250) feet (see Section 37.R). 3. Data centers."
+          ],
+          [
+            93,
+            "Section 34 REGULATIONS FOR HEAVY MANUFACTURING OR “M-X” ZONE (continued) 85 5. Data centers. E. Location of Property Requirements In addition to meeting the setback and area requirements of this ordinance, buildings "
+          ]
+        ],
+        "checked": "2026-11-16T07:26:31+00:00"
+      }
+    },
+    {
+      "url": "http://marcellusny.com/wp-content/uploads/Zoning_Law_2009.pdf",
+      "referrals": [
+        [
+          "NY",
+          "3606745491",
+          "Marcellus town",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://marcellusny.com/wp-content/uploads/Zoning_Law_2009.pdf",
+        "resolved": "http://townofmarcellusny.gov/wp-content/uploads/Zoning_Law_2009.pdf",
+        "sha256": "84f7cb20ee683110bd8263a10e2956d7be5e8040903d1df0dec4bb32d9e190b7",
+        "pages": 96,
+        "text_pages": 89,
+        "hits": [],
+        "checked": "2026-11-16T07:26:27+00:00"
+      }
+    },
+    {
+      "url": "https://blueisland.org/DocumentCenter/View/1501/Zoning-Ordinance-PDF",
+      "referrals": [
+        [
+          "IL",
+          "1706704",
+          "Blue Island city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://blueisland.org/DocumentCenter/View/1501/Zoning-Ordinance-PDF",
+        "resolved": "https://blueisland.org/DocumentCenter/View/1501/Zoning-Ordinance-PDF",
+        "sha256": "895c89363e418d1d4d8e6ec9130c5d0d0caf878d87c3bb43e8f6d837cb88cbdf",
+        "pages": 87,
+        "text_pages": 87,
+        "hits": [],
+        "checked": "2026-11-16T07:26:27+00:00"
+      }
+    },
+    {
+      "url": "https://www.calhouncountyfl.gov/uploads/2020/02/2010landdevelopmentcode_000.pdf",
+      "referrals": [
+        [
+          "FL",
+          "12013",
+          "Calhoun County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.calhouncountyfl.gov/uploads/2020/02/2010landdevelopmentcode_000.pdf",
+        "resolved": "https://www.calhouncountyfl.gov/uploads/2020/02/2010landdevelopmentcode_000.pdf",
+        "sha256": "93f72cc51e5a33c8994f47981b740e6b81f85d415c5bbd53bf8ab07df7eebf65",
+        "pages": 176,
+        "text_pages": 175,
+        "hits": [],
+        "checked": "2026-11-16T07:26:31+00:00"
+      }
+    },
+    {
+      "url": "http://providencetownship.com/wp-content/uploads/2024/01/Providence-Township-Zoning-Ordinance.pdf",
+      "referrals": [
+        [
+          "PA",
+          "4207162832",
+          "Providence township",
+          "solar"
+        ],
+        [
+          "PA",
+          "4207162832",
+          "Providence township",
+          "wind"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://providencetownship.com/wp-content/uploads/2024/01/Providence-Township-Zoning-Ordinance.pdf",
+        "resolved": "http://providencetownship.com/wp-content/uploads/2024/01/Providence-Township-Zoning-Ordinance.pdf",
+        "sha256": "40b1126f75fa2bd30ec5e631d594886ef91cc2a82dc41513dfcb967af49ede06",
+        "pages": 257,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:28+00:00"
+      }
+    },
+    {
+      "url": "https://www.co.kittitas.wa.us/uploads/bocc/ordinances/2019-004-ordinance.pdf",
+      "referrals": [
+        [
+          "WA",
+          "53037",
+          "Kittitas County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://www.co.kittitas.wa.us/uploads/bocc/ordinances/2019-004-ordinance.pdf",
+        "resolved": "https://www.co.kittitas.wa.us/uploads/bocc/ordinances/2019-004-ordinance.pdf",
+        "sha256": "f2313e91430bb720012483427f01b7aa2ed8088e15398b13cb9beb7deeef6fb7",
+        "pages": 17,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:32+00:00"
+      }
+    },
+    {
+      "url": "https://co.clark.in.us/images/2026/Planning/Clark%20County%20UDO_Amended%20feb%2026%202026a.pdf",
+      "referrals": [
+        [
+          "IN",
+          "18019",
+          "Clark County",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "unreadable or blocked",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://co.clark.in.us/images/2026/Planning/Clark%20County%20UDO_Amended%20feb%2026%202026a.pdf",
+        "error": "robots disallows this URL",
+        "checked": "2026-11-16T07:26:28+00:00"
+      }
+    },
+    {
+      "url": "https://ci.manzanita.or.us/wp-content/uploads/2026/06/Ordinance-Signed-25-04.pdf",
+      "referrals": [
+        [
+          "OR",
+          "4145700",
+          "Manzanita city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://ci.manzanita.or.us/wp-content/uploads/2026/06/Ordinance-Signed-25-04.pdf",
+        "resolved": "https://ci.manzanita.or.us/wp-content/uploads/2026/06/Ordinance-Signed-25-04.pdf",
+        "sha256": "5d024a774e0a03f354fa2e7d7da8189cd490b898b19dc1e57fccd1de42264472",
+        "pages": 149,
+        "text_pages": 147,
+        "hits": [],
+        "checked": "2026-11-16T07:26:32+00:00"
+      }
+    },
+    {
+      "url": "http://richmondnc.com/DocumentCenter/View/2926/ZONING-ORDINANCE",
+      "referrals": [
+        [
+          "NC",
+          "37153",
+          "Richmond County",
+          "solar"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no matching text in readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "http://richmondnc.com/DocumentCenter/View/2926/ZONING-ORDINANCE",
+        "resolved": "http://richmondnc.com/DocumentCenter/View/2926/ZONING-ORDINANCE",
+        "sha256": "c7a960c174cfebc549b9ea4e86fbc8d276f4e8619b05c61c2391aed0f5e79c5d",
+        "pages": 86,
+        "text_pages": 79,
+        "hits": [],
+        "checked": "2026-11-16T07:26:32+00:00"
+      }
+    },
+    {
+      "url": "https://birdislandcity.com/vertical/sites/%7B86FD61E2-C042-4B4D-82B9-018D59A78D8C%7D/uploads/Ordinance-167.pdf",
+      "referrals": [
+        [
+          "MN",
+          "2706076",
+          "Bird Island city",
+          "high_voltage_transmission"
+        ]
+      ],
+      "authority_basis": [
+        "matched jurisdiction website host"
+      ],
+      "market_markers": 0,
+      "screen_result": "no machine-readable pages",
+      "duplicate_content_in_shared_pdf_scan": false,
+      "source_check": {
+        "url": "https://birdislandcity.com/vertical/sites/%7B86FD61E2-C042-4B4D-82B9-018D59A78D8C%7D/uploads/Ordinance-167.pdf",
+        "resolved": "https://birdislandcity.com/vertical/sites/%7B86FD61E2-C042-4B4D-82B9-018D59A78D8C%7D/uploads/Ordinance-167.pdf",
+        "sha256": "f23c463ed188f9f3ef4c4971dfd1c3823e5b39e492df4a1ee9373ff611fc5fd6",
+        "pages": 2,
+        "text_pages": 0,
+        "hits": [],
+        "checked": "2026-11-16T07:26:31+00:00"
+      }
+    }
+  ],
+  "scope": "Only matched, non-statistical Census local geographies. Selected source path resembles a general codebook; attributable host does not establish enactment. Source scanner reads up to 18 MiB and respects robots. Text hits are candidates, not legal findings. A state name is scoped to the cited upstream record. Missouri excluded by request."
+}

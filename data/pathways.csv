@@ -1,0 +1,53 @@
+rule_id,path,district_or_area,qualifier
+va-lou-phase1,special exception,IP; GI; MR-HI,March 2025 change; prior approvals and eligible legacy parcels require separate review
+va-lou-spex,special exception,OP; IP; GI; MR-HI,Principal use under the current use table; check footnotes and approved plans
+va-lou-legacy-use,permitted use,Route 28 CB; CI,Prior election and applicable standards required
+va-lou-legacy-use,special exception,Route 28 CO,Prior election and applicable standards required
+va-lees-pec-spex,special exception,PEC,Confirm town limits and governing approvals
+va-fx-industrial-gfa,special exception,I-2; I-3; I-4,Building exceeds 80000 square feet of gross floor area
+va-fx-commercial-gfa,special exception,C-3; C-4,Building exceeds 40000 square feet of gross floor area
+va-pwc-overlay,permitted use,DCOZOD retained parcels,Existing permissions only on qualifying parcels; confirm retention path
+va-pwc-outside,special use permit,Listed districts and designated office/industrial land bays outside overlay,See complete district list in the record
+va-fred-campus,permitted use,TOD,Campus on at least 150 contiguous acres after overlay designation
+va-ches-cup,conditional use permit,M-1; M-2,Outside Coastal Virginia Commerce Park
+va-ches-cup,permitted use,Coastal Virginia Commerce Park,Check the governing approval and separate public-service requirements
+va-jcc-industrial,special use permit,M-2,Industrial principal-use provision
+in-lake-special-exception,special exception,M-1; M-2,Unincorporated county; additional application requirements
+oh-new-albany-use,permitted use,GE; TMD,Base text only; site-specific rezoning can exclude primary data centers
+az-chandler-primary-use,planned development,PAD,Primary use only; designation alone is insufficient
+nv-reno-cup,conditional use permit,City zoning jurisdiction,Check the moratorium before treating applications as available
+ms-ridgeland-by-right,permitted use,Technical Industrial Park,Subject to site and building review
+tn-nashville-use,special exception,IR; IG,Large data centers as defined; check separate temporary pause
+tn-nashville-use,prohibited,All zoning districts,Only the separately defined campus category
+la-st-charles-industrial,permitted use,M-1; M-2,Subject to supplemental standards
+tx-san-marcos-districts,prohibited,All city zoning districts,Check vested or approved cases; do not extend to the ETJ
+tx-talty-cup,conditional use permit,Eligible districts not identified in published caption,Do not infer citywide eligibility
+tx-lewisville-sup,special use permit,Light Industrial; Warehouse; Heavy Industrial,Site review still required
+az-marana-principal,rezoning,Specific plan area,Principal data center must be explicitly approved
+az-mesa-pad,planned development,GI; HI,Principal use requires council authorization in the PAD overlay
+oh-clermont-ohio-twp-pause,temporary pause,Ohio Township in Clermont County,Dated township moratorium; check later action
+nv-reno-pause,temporary pause,City of Reno,Acceptance of data-center CUP applications; check early replacement
+nm-santa-fe-moratorium,temporary pause,County jurisdiction,Covered project at or above 1 MW; exclusions and vesting apply
+tn-nashville-pause,temporary pause,Metropolitan permitting jurisdiction,Through the date specified by the amended measure; check subsequent action
+in-boone-pause,temporary pause,Unincorporated county zoning jurisdiction,Date bounded; internal IT facilities excluded
+va-botetourt-ram,permitted use,RAM,County identifies Greenfield; town limits have separate zoning
+va-troutville-prohibition,prohibited,All town zoning districts,Dedicated facilities as defined in §240-95 within town limits
+va-brunswick-b1,conditional use permit,B-1,Board recap of case 26-037; confirm signed conditions
+va-chesterfield-cup,conditional use permit,County zoning jurisdiction,New projects; parcel-specific prior approvals require review
+va-henrico-principal,provisional use permit,M-1; M-2; M-3,P in this jurisdiction denotes a provisional permit
+tx-nrh-use-small,special use permit,C-1; C-2; I-1; I-2,New data center at or below 10000 square feet
+tx-nrh-use-general,special use permit,C-2; I-1; I-2,New data center over 10000 square feet
+pa-fairview-conditional,conditional use,Commercial Business; Industrial Business,Township approval required; minimum 50 acres.
+co-boulder-size,permitted use,Light Industrial; General Industrial,Under 50 kW in unincorporated Boulder County.
+va-pulaski-industry,permitted use,Light Industrial; Industrial; Planned Industrial,The airport overlay needs a separate underlying-zone check.
+va-franklin-enterprise-park,permitted use,Regional Enterprise Park,Listed as a permitted district use; does not issue an individual construction permit.
+tx-mcallen-industrial-approval,conditional use,I-2,Only the I-2 column has a conditional-use mark on the data center row.
+ga-habersham-special-use,special use permit,County zoning jurisdiction,Applies to primary and qualifying ancillary uses.
+ga-douglas-special-use,special use permit,OI; LI; LI-R; HI,Applies to the unincorporated county and the use defined in the NAICS 518210 row.
+alt-randolph-district,conditional district rezoning,HI-CD,Heavy Industrial Conditional District; not by-right in general industrial zoning.
+alt-mancelona-district,permitted use,Commercial; Light Industrial & Warehousing,Village definition excludes ordinary offices.
+alt-saluda-district,special use permit,C-3 Commercial,Applies to remote data processing as defined.
+alt-brown-permits,conditional use permit,H-I; AG-P,See petition requirements; a separate county building permit is also required.
+az-mohave-special,special use permit,A-D; M-1; M-2; M-X,Each district lists data centers as a special use.
+il-westmont-special,special use permit,O/R; M-1; M,The O/R-1 column does not allow the same use.
+pa-palmyra-pike-conditional,conditional use,Highway Commercial,Pike County township; see §11.804.

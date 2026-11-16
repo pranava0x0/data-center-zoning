@@ -1,0 +1,16 @@
+National frame: 72418 geographies; 91811 government records; 0 Census office entries and 0 geographic sites still queued.
+15 / 121 archived or attempted
+30 / 121 archived or attempted
+45 / 121 archived or attempted
+60 / 121 archived or attempted
+75 / 121 archived or attempted
+90 / 121 archived or attempted
+105 / 121 archived or attempted
+120 / 121 archived or attempted
+Fetch failures: 0
+Traceback (most recent call last):
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/federal_aviation.py", line 72, in <module>
+    publish()
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/federal_aviation.py", line 35, in publish
+    signed,letterhash=a.get(LETTER);txt=c.norm(c.parse(signed,'application/pdf',LETTER)[1]);assert '2019 awp 15211 oe' in txt and 'no hazard' in txt and 'building data center' in txt
+AssertionError

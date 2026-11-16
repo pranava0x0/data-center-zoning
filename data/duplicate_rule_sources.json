@@ -1,0 +1,30 @@
+[
+  {
+    "file": "national_rules_astra",
+    "id": "ky-louisville-file-pause",
+    "retained_file": "national_rules_terra",
+    "retained_id": "ky-louisville-pause",
+    "reason": "Same provision in council agenda and signed Louisville Metro ordinance; display the signed copy."
+  },
+  {
+    "file": "national_rules_astra",
+    "id": "ky-louisville-reuse",
+    "retained_file": "national_rules_terra",
+    "retained_id": "ky-louisville-reuse",
+    "reason": "Same provision in council agenda and signed Louisville Metro ordinance; display the signed copy."
+  },
+  {
+    "file": "national_rules_terra",
+    "id": "ga-douglas-phasing",
+    "retained_file": "national/douglas_ga_rules",
+    "retained_id": "ga-douglas-application-materials",
+    "reason": "Same published \u00a7352(b) application provision; retain the current county code exhibit and page check."
+  },
+  {
+    "file": "national_rules_terra",
+    "id": "ga-douglas-buffer",
+    "retained_file": "national/douglas_ga_rules",
+    "retained_id": "ga-douglas-residential-buffer",
+    "reason": "Same published \u00a7352(c) buffer. The adjacent-parcel prohibition is a separate rule in this edition."
+  }
+]

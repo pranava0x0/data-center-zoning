@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-date-3602258681-0-expiration_date",
+    "state": "MA",
+    "jurisdiction": "Lowell city",
+    "county": "Middlesex County",
+    "project": "MARKLEY LOWELL DATA CENTER",
+    "record_no": "MAR1002S4",
+    "kind": "Construction stormwater permit coverage",
+    "dataset": "EPA water permit timeline",
+    "date": "2022-02-15",
+    "date_role": "Expiration Date",
+    "status": "Expired",
+    "url": "https://echo.epa.gov/effluent-charts#/MAR1002S4",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS · MAR1002S4 · 3602258681 · version 0 · EXPIRATION_DATE",
+    "details": {
+      "federal_issuer": "U.S. Environmental Protection Agency",
+      "base_record": "fed-epa-mar1002s4-3602258681-0",
+      "npdes_id": "MAR1002S4",
+      "version": "0",
+      "agency_type": "EP6",
+      "reported_issuer": "U.S. EPA",
+      "field": "EXPIRATION_DATE",
+      "program": "NPDES"
+    }
+  }
+]

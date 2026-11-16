@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# 10 GB evidence cache: hash-pinned in data/ manifests; rebuild with make refresh-XX or restore from backup
+cache/
+*.part

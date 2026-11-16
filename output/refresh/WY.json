@@ -1,0 +1,64 @@
+{
+  "jurisdiction": "WY",
+  "started_utc": "2026-11-16T15:29:17+00:00",
+  "steps": [
+    {
+      "step": "history_wy.py --fetch",
+      "rc": 0,
+      "seconds": 13.5,
+      "tail": ""
+    },
+    {
+      "step": "national_water.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "federal_aviation.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "check": {
+    "jurisdiction": "WY",
+    "ok": true,
+    "rows": 30,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "history_wy.py",
+        "seconds": 0.1,
+        "ok": true
+      },
+      {
+        "script": "national_water.py",
+        "seconds": 0.2,
+        "ok": true
+      },
+      {
+        "script": "federal_aviation.py",
+        "seconds": 23.2,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "history_faa_wy.json": "d518d193c383fd6ca582575b341a20e9a2f2acb21c36dc71f8a8e599421ec0e4",
+      "history_wtr_wy.json": "a978ea9a55541e6cde0f6b0cc6ef98e03e724fe4bbcb391b69b57d67b4bf8dce",
+      "history_wy.json": "e295b2a75386af6efc1e9f432092f44562c59a3c547519f36a6dc809998129c9"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "wy-cys21",
+      "wy-hub-commission",
+      "wy-hub-deferred",
+      "wy-hub-issued",
+      "wy-hub-submitted",
+      "wy-oppidan",
+      "wy-site-issued",
+      "wy-site-submitted"
+    ]
+  },
+  "finished_utc": "2026-11-16T15:30:17+00:00"
+}

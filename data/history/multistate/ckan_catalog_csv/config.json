@@ -1,0 +1,20 @@
+{
+  "slug": "pwc-building",
+  "catalog": "https://data.virginia.gov/dataset/data-center-buildings",
+  "edition_date": "2026-11-15",
+  "allowed_download_host": "gisdata-pwcgov.opendata.arcgis.com",
+  "layer": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9",
+  "dataset": "Prince William data-center building permits",
+  "jurisdiction": "Prince William County",
+  "kind": "Building permit",
+  "map": {
+    "case": "PermitCase",
+    "title": "BuildingName",
+    "status": "PermitStatus",
+    "date": "OCCDate",
+    "object_id": "OBJECTID",
+    "land_use_file": "PlanningCaseNumber"
+  },
+  "date_role": "occupancy date",
+  "download_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9"
+}

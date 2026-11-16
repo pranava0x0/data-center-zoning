@@ -1,0 +1,372 @@
+{
+  "config_sha256": "af4c5a2524f2a09f80b3773f6bfe2a89d27578c900eef8dc81e225d2f53a741a",
+  "captured_utc": "2026-11-16T03:48:11.424947+00:00",
+  "layers": {
+    "new_albany": {
+      "meta": {
+        "url": "https://webgis.newalbanyohio.org/arcgis/rest/services/PublicZoning/ZoningEntitlementsBoardsCommissions/MapServer/0?f=json",
+        "sha256": "0ffec046c8bf34c063adeb66c2ae2d33f1f81a193ad6ca54434ea6480d3b07ec",
+        "bytes": 18656,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://webgis.newalbanyohio.org/arcgis/rest/services/PublicZoning/ZoningEntitlementsBoardsCommissions/MapServer/0/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "e5b8b0993c30d3784d7453ac7798a3619f8219314a556516c4101a3f914e6043",
+        "bytes": 13,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://webgis.newalbanyohio.org/arcgis/rest/services/PublicZoning/ZoningEntitlementsBoardsCommissions/MapServer/0/query?f=json&where=UPPER%28Name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28Name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28Name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Description%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28AdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28AdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28AdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28AdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28AdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28PCAdditonalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28PCAdditonalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28PCAdditonalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PCAdditonalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28PCAdditonalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28BZAAdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28BZAAdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28BZAAdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28BZAAdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28BZAAdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28ARBAdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28ARBAdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28ARBAdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28ARBAdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28ARBAdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28CC2AdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28CC2AdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28CC2AdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28CC2AdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28CC2AdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28CC1AdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28CC1AdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28CC1AdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28CC1AdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28CC1AdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28RFABAdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28RFABAdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28RFABAdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28RFABAdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28RFABAdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28PTABAdditionalInfo%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28PTABAdditionalInfo%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28PTABAdditionalInfo%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PTABAdditionalInfo%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28PTABAdditionalInfo%29+LIKE+%27%25DATA%25BUILDING%25%27&returnIdsOnly=true",
+          "sha256": "4396e929202c7c1dea97dfcdcb66028230fc8073d2ab62bb145de2e44c89eaff",
+          "bytes": 74,
+          "ext": "json"
+        },
+        "batches": [
+          {
+            "url": "https://webgis.newalbanyohio.org/arcgis/rest/services/PublicZoning/ZoningEntitlementsBoardsCommissions/MapServer/0/query?f=json&objectIds=130372%2C130597%2C130835%2C130852&outFields=OBJECTID%2CCaseNumber%2CAdoptionDate%2CYear%2CClassification%2CName%2CStatus%2CAdditionalInfo%2CPCHearingDate%2CPCStatus%2CPCAdditonalInfo%2CBZAHearingDate%2CBZAStatus%2CBZAAdditionalInfo%2CARBHearingDate%2CARBStatus%2CARBAdditionalInfo%2CCC2HearingDate%2CCC2Status%2CCC2AdditionalInfo%2CCC1HearingDate%2CCC1Status%2CCC1AdditionalInfo%2CRFABHearingDate%2CRFABStatus%2CRFABAdditionalInfo%2CPTABHearingDate%2CPTABStatus%2CPTABAdditionalInfo%2CType%2CDescription&returnGeometry=false",
+            "sha256": "b4eeec951b2efa86c45192899d6c9de5443cb413420083fd055918dc9ec506af",
+            "bytes": 7020,
+            "ext": "json"
+          }
+        ],
+        "where": "UPPER(Name) LIKE '%DATA%CENT%' OR UPPER(Name) LIKE '%DATA%CTR%' OR UPPER(Name) LIKE '%DATA%HALL%' OR UPPER(Name) LIKE '%SERVER%FARM%' OR UPPER(Name) LIKE '%DATA%BUILDING%' OR UPPER(Description) LIKE '%DATA%CENT%' OR UPPER(Description) LIKE '%DATA%CTR%' OR UPPER(Description) LIKE '%DATA%HALL%' OR UPPER(Description) LIKE '%SERVER%FARM%' OR UPPER(Description) LIKE '%DATA%BUILDING%' OR UPPER(AdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(AdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(AdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(AdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(AdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%CENT%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%CTR%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%HALL%' OR UPPER(PCAdditonalInfo) LIKE '%SERVER%FARM%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%BUILDING%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(BZAAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(ARBAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(CC2AdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(CC1AdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(RFABAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(PTABAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%BUILDING%'",
+        "oid": "OBJECTID"
+      }
+    },
+    "engineering": {
+      "meta": {
+        "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/22?f=json",
+        "sha256": "f0f6454f1ea926cde76ea01e9de437b6e641dbc73123f3dc6afe1fd4c74e4645",
+        "bytes": 5906,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/22/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "1fa8bdbe2355bb13885e1c87aea7b76dcb203a74be140a0846c9d8dfff1a38d0",
+        "bytes": 14,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/22/query?f=json&where=UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28B1_WORK_DESC%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28B1_SHORT_NOTES%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28B1_SHORT_NOTES%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28B1_SHORT_NOTES%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28B1_SHORT_NOTES%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28B1_SHORT_NOTES%29+LIKE+%27%25DATA%25BUILDING%25%27&returnIdsOnly=true",
+          "sha256": "1c082f5069468462da7ffb9967703286d1c233bc5becd3bcc483b021ad64acbb",
+          "bytes": 101,
+          "ext": "json"
+        },
+        "batches": [
+          {
+            "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/22/query?f=json&objectIds=1002%2C1817%2C1818%2C1819%2C2355%2C2908%2C3318%2C4216%2C5713%2C5976%2C6200&outFields=OBJECTID%2CB1_ALT_ID%2CB1_PER_TYPE%2CB1_PER_SUB_TYPE%2CB1_PER_CATEGORY%2CB1_PARCEL_NBR%2CSITE_ADDRESS%2CB1_SHORT_NOTES%2CB1_FILE_DD%2CB1_APPL_STATUS%2CLAST_STATUS_DT%2CB1_WORK_DESC%2CACA_URL&returnGeometry=false",
+            "sha256": "00bcdc6971ede457c4372d119917352ed4d46c84666b1182be26e97495b91c0c",
+            "bytes": 10742,
+            "ext": "json"
+          }
+        ],
+        "where": "UPPER(B1_WORK_DESC) LIKE '%DATA%CENT%' OR UPPER(B1_WORK_DESC) LIKE '%DATA%CTR%' OR UPPER(B1_WORK_DESC) LIKE '%DATA%HALL%' OR UPPER(B1_WORK_DESC) LIKE '%SERVER%FARM%' OR UPPER(B1_WORK_DESC) LIKE '%DATA%BUILDING%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%CENT%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%CTR%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%HALL%' OR UPPER(B1_SHORT_NOTES) LIKE '%SERVER%FARM%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%BUILDING%'",
+        "oid": "OBJECTID"
+      }
+    },
+    "building": {
+      "meta": {
+        "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5?f=json",
+        "sha256": "3ed203849f2e2cdafdf713daf6fe47d0c9cbe0843bc41bbec52d137e3e4b79ae",
+        "bytes": 6830,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "b2ba6261cbaef164f70deba757c01fc7a88d095847b9ddad24728b871682d781",
+        "bytes": 16,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5/query?f=json&where=UPPER%28VALUE_DESC%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28VALUE_DESC%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28VALUE_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28VALUE_DESC%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28VALUE_DESC%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28APPLICANT_BUS_NAME%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28APPLICANT_BUS_NAME%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28APPLICANT_BUS_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICANT_BUS_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICANT_BUS_NAME%29+LIKE+%27%25DATA%25BUILDING%25%27&returnIdsOnly=true",
+          "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+          "bytes": 49,
+          "ext": "json"
+        },
+        "batches": [],
+        "where": "UPPER(VALUE_DESC) LIKE '%DATA%CENT%' OR UPPER(VALUE_DESC) LIKE '%DATA%CTR%' OR UPPER(VALUE_DESC) LIKE '%DATA%HALL%' OR UPPER(VALUE_DESC) LIKE '%SERVER%FARM%' OR UPPER(VALUE_DESC) LIKE '%DATA%BUILDING%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%CENT%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%CTR%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%HALL%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%SERVER%FARM%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%BUILDING%'",
+        "oid": "OBJECTID"
+      }
+    },
+    "npdes0": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/0?f=json",
+        "sha256": "a24582a232cbc986db96be25e2cf2b5fee7ace132fcd507e8286a14c9fa860b4",
+        "bytes": 11653,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/0/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "0f034afaa459aa107bd3b7474233530d7a70cb93feed3555d3a1e816b408aa78",
+        "bytes": 14,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/0/query?f=json&where=UPPER%28facility_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "8b3c6001f3eaae9ca5a2e7a13513ce33c6e9d51bf7fd1346c4da2c821f924d41",
+          "bytes": 49,
+          "ext": "json"
+        },
+        "batches": [],
+        "where": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    },
+    "npdes1": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/1?f=json",
+        "sha256": "cffda7be93949e08bfe135706c45f79cbd12f7028c140216dbcd2452c82e21f6",
+        "bytes": 7202,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/1/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "59d2b53199400eba8272361e7a563182bcc53a7fd1a34d9b059ccd40913377ab",
+        "bytes": 14,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/1/query?f=json&where=UPPER%28facility_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "8b3c6001f3eaae9ca5a2e7a13513ce33c6e9d51bf7fd1346c4da2c821f924d41",
+          "bytes": 49,
+          "ext": "json"
+        },
+        "batches": [],
+        "where": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    },
+    "npdes2": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/2?f=json",
+        "sha256": "2b3791c8368fcc9fa80bf140dac695bd28d99c7323e0909f455bcdd077a2381b",
+        "bytes": 6677,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/2/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "f0c1d5eb8c3c44f06b91a45c9d5fe41fc7dc3783acc1810c5ea4c22a14f9d471",
+        "bytes": 14,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/2/query?f=json&where=UPPER%28facility_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "8b3c6001f3eaae9ca5a2e7a13513ce33c6e9d51bf7fd1346c4da2c821f924d41",
+          "bytes": 49,
+          "ext": "json"
+        },
+        "batches": [],
+        "where": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    },
+    "npdes3": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/3?f=json",
+        "sha256": "9f30286e6416b04dfa561591faf69f951a651b28ed7a17af0f8073fe0498750e",
+        "bytes": 12514,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/3/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "2188434517b2c0f1e5ba2a55ce35aca48c5b18a5a44fca6bed80ab9c953d3ef0",
+        "bytes": 14,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/3/query?f=json&where=UPPER%28facility_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "b810729b5378e092f315c1774ea4c9b8827ee9347987b2d8d91b540c138a04aa",
+          "bytes": 159,
+          "ext": "json"
+        },
+        "batches": [
+          {
+            "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/3/query?f=json&objectIds=286%2C472%2C1159%2C1162%2C1310%2C1710%2C2658%2C2920%2C2993%2C3228%2C3903%2C4039%2C4248%2C4395%2C4404%2C4836%2C5342%2C5785%2C5927%2C7824%2C8394%2C8512%2C8554&outFields=objectid%2Cohio_epa_no%2Cus_epa_no%2Cfacility_name%2Cfacility_city%2Cfacility_county%2Cissue_date%2Ceffective_date%2Cexpiration_date%2Cpermitdetail%2Cpermit_status%2Cpermit_id%2Capplicationid&returnGeometry=false",
+            "sha256": "6a3000d55898e6eeeb69914b9475100346fa5d27c62f6dc41c5730b7aa318d71",
+            "bytes": 10368,
+            "ext": "json"
+          }
+        ],
+        "where": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    },
+    "npdes4": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/4?f=json",
+        "sha256": "b442d00f1a1a92bc127358ae0086dc2bda29a8bdad89041909d973fc3e78be3f",
+        "bytes": 12532,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/4/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "a10f56198e0528e4010c368d63e6cc8e2c8a11f9329a20f37ec46029efebafa5",
+        "bytes": 15,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/4/query?f=json&where=UPPER%28facility_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "0391bcfc8946c59dfb761ce2fbe276990eb6ced4243a1f16a93e0897f077e443",
+          "bytes": 226,
+          "ext": "json"
+        },
+        "batches": [
+          {
+            "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/4/query?f=json&objectIds=11314%2C11836%2C17842%2C21434%2C22020%2C22262%2C22272%2C23195%2C24501%2C24724%2C24738%2C24909%2C24974%2C25506%2C25576%2C25742%2C25797%2C37476%2C37766%2C38124%2C38514%2C44642%2C47140%2C47190%2C47548%2C49809%2C50294%2C51581%2C51582%2C51811&outFields=objectid%2Cohio_epa_no%2Cus_epa_no%2Cfacility_name%2Cfacility_city%2Cfacility_county%2Cissue_date%2Ceffective_date%2Cexpiration_date%2Cpermitdetail%2Cpermit_status%2Cpermit_id%2Capplicationid&returnGeometry=false",
+            "sha256": "2c04a911a2e8c907d55be076c10b0caaf9a11221ce845f6fdf7f175707f85c74",
+            "bytes": 12704,
+            "ext": "json"
+          }
+        ],
+        "where": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    },
+    "npdes6": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/6?f=json",
+        "sha256": "d473bd37eaef1c41ac9a343607008eff0c20af3868c558cfed20254b3495a096",
+        "bytes": 6608,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/6/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "c6e487e697592b2bb268dda61b1f4e4b42334d324764cb475821e9ca8f3e67bc",
+        "bytes": 13,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/6/query?f=json&where=UPPER%28facility_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28facility_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "8b3c6001f3eaae9ca5a2e7a13513ce33c6e9d51bf7fd1346c4da2c821f924d41",
+          "bytes": 49,
+          "ext": "json"
+        },
+        "batches": [],
+        "where": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    },
+    "npdes7": {
+      "meta": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/7?f=json",
+        "sha256": "603736ac0d28d5540d57e02f9f2f474b2262624e7bac972e8969076adf7a486b",
+        "bytes": 5638,
+        "ext": "json"
+      },
+      "all_use": {
+        "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/7/query?f=json&where=1%3D1&returnCountOnly=true",
+        "sha256": "fdbe50f72cf5da923c3c34d62053270fa2c53f77b3aecdc3daa305c28f60cfaf",
+        "bytes": 14,
+        "ext": "json"
+      },
+      "screen": {
+        "ids": {
+          "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/7/query?f=json&where=UPPER%28fp_place_name%29+LIKE+%27%25DATA%25CENT%25%27+OR+UPPER%28fp_place_name%29+LIKE+%27%25DATA%25CTR%25%27+OR+UPPER%28fp_place_name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28fp_place_name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28fp_place_name%29+LIKE+%27%25DATA%25BUILDING%25%27+OR+UPPER%28fp_place_name%29+LIKE+%27%25AMAZON+DATA+SERVICES%25%27+OR+UPPER%28fp_place_name%29+LIKE+%27%25AMAZON+DATA+SYSTEMS%25%27&returnIdsOnly=true",
+          "sha256": "8b3c6001f3eaae9ca5a2e7a13513ce33c6e9d51bf7fd1346c4da2c821f924d41",
+          "bytes": 49,
+          "ext": "json"
+        },
+        "batches": [],
+        "where": "UPPER(fp_place_name) LIKE '%DATA%CENT%' OR UPPER(fp_place_name) LIKE '%DATA%CTR%' OR UPPER(fp_place_name) LIKE '%DATA%HALL%' OR UPPER(fp_place_name) LIKE '%SERVER%FARM%' OR UPPER(fp_place_name) LIKE '%DATA%BUILDING%' OR UPPER(fp_place_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(fp_place_name) LIKE '%AMAZON DATA SYSTEMS%'",
+        "oid": "objectid"
+      }
+    }
+  },
+  "docs": {
+    "hilliard_jun": {
+      "url": "https://hilliardohio.gov/wp-content/uploads/2022/01/PZ-MINUTES-6-16-22.pdf",
+      "sha256": "8ee2bc363ecb7c4f310421e03e07c422318c1b73da515d449b31412a70049056",
+      "bytes": 350676,
+      "ext": "pdf"
+    },
+    "hilliard_jul": {
+      "url": "https://hilliardohio.gov/wp-content/uploads/2022/01/PZ-MINUTES-7-14-22.pdf",
+      "sha256": "c026e2e0e59b55198a0c66875b89af5ae9c96c69776d9caf5c9ce336fe0e44c6",
+      "bytes": 487082,
+      "ext": "pdf"
+    },
+    "ohio_air": {
+      "url": "https://edocpub.epa.ohio.gov/publicportal/ViewDocument.aspx?docid=1818451",
+      "sha256": "f64db5331edd1d64962b6122f167344b52f55905433430073b2b88e44a9934e3",
+      "bytes": 602363,
+      "ext": "pdf"
+    },
+    "ohio_water": {
+      "url": "https://edocpub.epa.ohio.gov/publicportal/ViewDocument.aspx?docid=2161104",
+      "sha256": "782f7c0310bd9f1101cb109364b4606e2370f88dfa346181da37b4e3cd61b3b4",
+      "bytes": 506549,
+      "ext": "pdf"
+    },
+    "dublin4": {
+      "url": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2018/12/art-determination-3-5-20.pdf",
+      "sha256": "4dc0697986228235831985f16409bf0edc8a2387b5aae1db8778da9cb577ea4b",
+      "bytes": 858457,
+      "ext": "pdf"
+    },
+    "dublin5": {
+      "url": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2021/02/art-action-1-14-21.pdf",
+      "sha256": "a325bbab253be2e02193aff2902f0366876754b6d30b302496d2162fcac4bba9",
+      "bytes": 358739,
+      "ext": "pdf"
+    }
+  },
+  "joins": [
+    {
+      "ids": {
+        "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5/query?f=json&where=B1_PARCEL_NBR+IN+%28%27510180711%27%2C%27610207094%27%29&returnIdsOnly=true",
+        "sha256": "45c09292d0776bf581b68804a53ba06d0ff9f78fbe20276147c73668d981351e",
+        "bytes": 1511,
+        "ext": "json"
+      },
+      "batches": [
+        {
+          "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5/query?f=json&objectIds=2927%2C38136%2C99875%2C174443%2C174444%2C326895%2C327270%2C333874%2C3491999%2C4158728%2C4242086%2C4327199%2C7666431%2C7833582%2C8665175%2C9906231%2C9907849%2C10656853%2C10658412%2C11241308%2C12412849%2C13253815%2C14360540%2C15708046%2C16892380%2C21540525%2C21624800%2C23811583%2C24736877%2C25574668%2C25988448%2C29743439%2C31906186%2C33058456%2C34048982%2C39470271%2C43206413%2C44174197%2C44263123%2C44416733%2C45222168%2C46990722%2C47152020%2C48771392%2C48933394%2C49014837%2C49016420%2C49823202%2C51524949%2C52335534%2C53793576%2C54360671%2C55090298%2C55169384%2C55573222%2C55655195%2C55655196%2C55815102%2C56218928%2C56860679%2C59115586%2C61946637%2C62109690%2C63890006%2C63890007%2C63894695%2C64053458%2C64053459%2C64053464%2C64215657%2C64215658%2C64783079%2C65190662%2C65758986%2C65758987%2C65758988%2C66902281%2C67305602%2C67305603%2C67305604%2C68214201%2C68540522%2C68541667%2C69034377%2C69120976%2C69199198%2C69445113%2C69527137%2C69695399%2C70183801%2C70187709%2C70187710%2C73730419%2C76714046%2C76714047%2C76714048%2C76714049%2C76714050%2C76714051%2C76714052%2C76714053%2C76714054%2C76714055%2C76714056%2C76714057%2C76714058%2C76714059%2C76714060%2C76714061%2C76714062%2C76714063%2C76714064%2C76714065%2C76714066%2C76714067%2C76714068%2C76714069%2C76714070%2C76714071%2C76714072%2C76714073%2C76714074%2C76714075%2C76714076%2C76714077%2C76714078%2C76714079%2C76714080%2C76714081%2C76714082%2C76714083%2C76714084%2C76714085%2C76714086%2C76714087%2C76714088%2C76714089%2C76714090%2C76714091%2C76714092%2C76714093%2C76714094%2C76714095%2C76714096%2C76714097%2C76714098%2C76714099%2C76714100%2C76714101%2C76714102&outFields=OBJECTID%2CB1_ALT_ID%2CB1_PER_TYPE%2CB1_PER_SUB_TYPE%2CB1_PER_CATEGORY%2CGENERAL_TYPE%2CB1_PARCEL_NBR%2CSITE_ADDRESS%2CPERMIT_STATUS%2CAPPLICANT_BUS_NAME%2CISSUED_DT%2CLAST_STATUS_DT%2CCONST_TYPE_CODE%2CVALUE_DESC%2CACA_URL%2CB1_APPL_STATUS&returnGeometry=false",
+          "sha256": "870431d1a492c829dd0cc06fa5813f2c469169f05cdb74e6e9d9e6bce40003e8",
+          "bytes": 94120,
+          "ext": "json"
+        },
+        {
+          "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5/query?f=json&objectIds=76714103%2C76715021%2C76717792%2C76717793%2C76717794%2C76717795%2C76717796%2C76719795%2C76719796%2C76719797%2C76719798%2C76719799%2C76719800%2C76719801%2C76724573%2C76724574&outFields=OBJECTID%2CB1_ALT_ID%2CB1_PER_TYPE%2CB1_PER_SUB_TYPE%2CB1_PER_CATEGORY%2CGENERAL_TYPE%2CB1_PARCEL_NBR%2CSITE_ADDRESS%2CPERMIT_STATUS%2CAPPLICANT_BUS_NAME%2CISSUED_DT%2CLAST_STATUS_DT%2CCONST_TYPE_CODE%2CVALUE_DESC%2CACA_URL%2CB1_APPL_STATUS&returnGeometry=false",
+          "sha256": "d79901873c1d86759b3060ac62bc59f7f5d7c92c110225f460ffad3682cb9773",
+          "bytes": 12024,
+          "ext": "json"
+        }
+      ],
+      "where": "B1_PARCEL_NBR IN ('510180711','610207094')",
+      "oid": "OBJECTID"
+    }
+  ],
+  "atlas": {
+    "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+    "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+    "bytes": 497573,
+    "ext": "json"
+  },
+  "places": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2739%27&outFields=GEOID%2CNAME&outSR=4326&returnGeometry=true&maxAllowableOffset=0.000025&geometryPrecision=6",
+    "sha256": "be493d8dc1790fdaea7b496859653588d3fa1e9e9236d1ed66410d3bf658ee10",
+    "bytes": 2793358,
+    "ext": "json"
+  },
+  "place_ids": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2739%27&returnIdsOnly=true",
+    "sha256": "1f15ba87cd487825b8b966cdebf4417def044c8671f9f989f96143c1f94b34e8",
+    "bytes": 5190,
+    "ext": "json"
+  },
+  "union_townships": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/8/query?f=json&where=STATE%3D%2739%27+AND+COUNTY%3D%27159%27&outFields=GEOID%2CNAME&outSR=4326&returnGeometry=true&maxAllowableOffset=0.000025&geometryPrecision=6",
+    "sha256": "c7a043e11f46bfa4efd6f4fc2a1bcd96e989df6c4ae0504d4919b864950d697c",
+    "bytes": 31300,
+    "ext": "json"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2720%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 7,
+  "counties": {
+    "Johnson County": 5,
+    "Barber County": 1,
+    "Ellis County": 1
+  },
+  "places": {
+    "Lenexa city": 3,
+    "Olathe city": 2,
+    "Hays city": 1,
+    "Medicine Lodge city": 1
+  },
+  "points": [
+    {
+      "county": "Johnson County",
+      "place": "Lenexa city",
+      "name": "Data Center Lenexa",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Ellis County",
+      "place": "Hays city",
+      "name": "Cloud Storage Corp",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Johnson County",
+      "place": "Olathe city",
+      "name": "U.S. Bank National Data Process Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Johnson County",
+      "place": "Lenexa city",
+      "name": null,
+      "operator": "TierPoint",
+      "type": "building"
+    },
+    {
+      "county": "Johnson County",
+      "place": "Lenexa city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Johnson County",
+      "place": "Olathe city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Barber County",
+      "place": "Medicine Lodge city",
+      "name": null,
+      "operator": "SC",
+      "type": "building"
+    }
+  ]
+}

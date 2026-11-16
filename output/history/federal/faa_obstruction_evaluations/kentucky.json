@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-faa-2006-aso-1861-oe",
+    "state": "KY",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Franklin County",
+    "county": "Franklin County",
+    "record_no": "2006-ASO-1861-OE",
+    "project": "Commonwealth Data Center",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2006-04-13",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2006List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2006List.gzip",
+    "source_sha256": "11a7c3b0e7d4f90b2e5b0cdfc97f0492d60ff1a9fa44c1080dbf8757dae79119",
+    "locator": "ASO 2006 off-airport CSV · STUDY (ASN) 2006-ASO-1861-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Frankfort",
+      "original_structure_type": "TOWER$ANTENNA",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Erect new 155' Monopole Antenna Tower.",
+      "original_determination": "No Hazard"
+    }
+  }
+]

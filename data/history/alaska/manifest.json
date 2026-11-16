@@ -1,0 +1,135 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_02_place_500k.zip",
+      "bytes": 659450,
+      "sha256": "4a472052ba28105a3ff3edd3dc2d109b20a81579419585cd6b7cf9ea88b494be"
+    },
+    "cook.pdf": {
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18151.pdf",
+      "bytes": 189639,
+      "sha256": "f6fd2d84fd898077ba1b4eaa0f240994b607f93ad7615eb4793c1b9aa375cd08"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "duck.html.gz": {
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=217467",
+      "bytes": 7309,
+      "sha256": "c7e01faa79de349e0be52a48c2ecd840c9cc3204045e92561821433cc99740b9"
+    },
+    "duck.pdf": {
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/Attachment.aspx?id=151373",
+      "bytes": 1206582,
+      "sha256": "14fc0b350c930eeb07d68c677eec5a640adb2a44dcebba5e6aa539e92fb03267"
+    },
+    "parcel-00124202000.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/ParcelInfo.aspx?parcelno=00124202000",
+      "bytes": 16949,
+      "sha256": "82af34ffe658f22e35cd7249efa6f405f3d1c8e9b88cb5b0b624eeb76718f47f"
+    },
+    "parcel-00320119000.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/ParcelInfo.aspx?parcelno=00320119000",
+      "bytes": 12404,
+      "sha256": "0343ce61873eaf3090fcb4bf35b033aafbe419bb818d0a80558988140b7b0ad8"
+    },
+    "parcel-00420209000.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/ParcelInfo.aspx?parcelno=00420209000",
+      "bytes": 88587,
+      "sha256": "1ca165724de052f421e54e4aaa4824eaab9525d89ac400b222240a585e1532a1"
+    },
+    "parcel-01237160000.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/ParcelInfo.aspx?parcelno=01237160000",
+      "bytes": 6429,
+      "sha256": "bbee71ffda6d293b47e89b4addae2c1bcdc3c11da9546bac88cbc925b56acbf1"
+    },
+    "permit-202807.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=202807",
+      "bytes": 5445,
+      "sha256": "3071bb56b07edb7da5936bb39e4454b6d5e2f23128f0222f8bdad78cd715bbf1"
+    },
+    "permit-284621.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=284621",
+      "bytes": 5242,
+      "sha256": "3eafe2fa94216fd2945d43ef9cb89535a8ba0e7158e9f622233de59b3a99ed7f"
+    },
+    "permit-314818.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=314818",
+      "bytes": 4963,
+      "sha256": "f6ea07a6fe58f28b9076aa484de114027c9a10e1af99ed21c88762ed2071eabe"
+    },
+    "permit-323257.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=323257",
+      "bytes": 5817,
+      "sha256": "c56494ee09f31a4508a1b734504e3b012b9b09fd224636118a7a02455e82b435"
+    },
+    "permit-330079.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=330079",
+      "bytes": 5308,
+      "sha256": "f51211437035dbaa803248396f694d11f0acec66685694d962d276f07b3a26b7"
+    },
+    "permit-330882.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=330882",
+      "bytes": 5256,
+      "sha256": "dafced261c4bfdcc78c3951604b3fb8404724ca631f2fb6658a24a6e559d21fb"
+    },
+    "permit-349222.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=349222",
+      "bytes": 5655,
+      "sha256": "69c925199915b637e85de3cf763e6d35d9414070b355a2719ec3e15e5ccdca08"
+    },
+    "permit-355517.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=355517",
+      "bytes": 6302,
+      "sha256": "0c5489003ae5ffe729b1141633a9987bd7dd8b235a3af9acd598379ea1ca83da"
+    },
+    "permit-372442.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=372442",
+      "bytes": 6419,
+      "sha256": "8f5db01c6e6aefad2d7c77fc5925e645cba1a4a18e661e466ebebd91966197b3"
+    },
+    "permit-469523.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=469523",
+      "bytes": 5120,
+      "sha256": "9109e28004d0e523217e119639ba532b37b0cfb3e06639384746176ac750001e"
+    },
+    "permit-575538.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=575538",
+      "bytes": 7019,
+      "sha256": "625eeb3f2d6e8b289ad25f4e3fb5ed314fa4fdd20b1aebdd23e4760f14845309"
+    },
+    "permit-575546.html.gz": {
+      "url": "https://bsd.muni.org/Inspandreview/PermitInfo.aspx?apbldgkey=575546",
+      "bytes": 5621,
+      "sha256": "bb760963c171592dc78ec5073d6bbe64a9e3d71bf867081c5201fa8e8fdfb3de"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "stak.html.gz": {
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=225835",
+      "bytes": 7291,
+      "sha256": "d7060407c487a8f339d30368e1f540333349190d7c7ce65a0683e65e97f717b3"
+    },
+    "stakentry.pdf": {
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/Attachment.aspx?id=165098",
+      "bytes": 386517,
+      "sha256": "70a27b2b7b06e00d286eba1b982fed5575ff881ccb3ccbd7a07f7b250c90a725"
+    },
+    "stakfinal.pdf": {
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/Attachment.aspx?id=165095",
+      "bytes": 561805,
+      "sha256": "a77e313fa03b915a3d3ebacdfa08381112fdce8abeece7a99a157caffe6d772e"
+    },
+    "stakpre.pdf": {
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/Attachment.aspx?id=165096",
+      "bytes": 586874,
+      "sha256": "afc0945945c98727220d03bdf037814c5a6993ac4c5a52999204abca87bc427e"
+    }
+  }
+}

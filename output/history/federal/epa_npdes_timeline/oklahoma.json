@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-date-3603680968-0-termination_date",
+    "state": "OK",
+    "jurisdiction": "Latimer County",
+    "county": "Latimer County",
+    "project": "TALIHINA DATA CENTER",
+    "record_no": "OKR10I02V",
+    "kind": "Construction stormwater permit coverage",
+    "dataset": "EPA water permit timeline",
+    "date": "2025-01-17",
+    "date_role": "Termination Date",
+    "status": "Terminated",
+    "url": "https://echo.epa.gov/effluent-charts#/OKR10I02V",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS · OKR10I02V · 3603680968 · version 0 · TERMINATION_DATE",
+    "details": {
+      "federal_issuer": "U.S. Environmental Protection Agency",
+      "base_record": "fed-epa-okr10i02v-3603680968-0",
+      "npdes_id": "OKR10I02V",
+      "version": "0",
+      "agency_type": "EP6",
+      "reported_issuer": "U.S. EPA",
+      "field": "TERMINATION_DATE",
+      "program": "NPDES"
+    }
+  }
+]

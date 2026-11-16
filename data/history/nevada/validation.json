@@ -1,0 +1,51 @@
+{
+  "events": 42,
+  "datasets": {
+    "Clark County Part 70 operating permits": 2,
+    "Clark County Title V renewal applications": 1,
+    "Clark County active dust-control snapshot": 2,
+    "Clark County air participation notices": 1,
+    "Clark County inspection sites": 3,
+    "EPA ICIS-NPDES permit versions": 7,
+    "Henderson open development permits": 15,
+    "NDEP air applications": 3,
+    "NDEP preliminary air determinations": 1,
+    "Northern Nevada Public Health air notices": 1,
+    "Washoe County planning decisions": 1,
+    "Washoe County project case files": 3,
+    "Washoe County special use permits": 2
+  },
+  "statuses": {
+    "Active at snapshot": 2,
+    "Approved": 3,
+    "Approved with amended conditions": 1,
+    "Cancelled": 1,
+    "Done": 14,
+    "EXP": 7,
+    "Issued": 4,
+    "Preliminary determination": 1,
+    "Proposed action": 1,
+    "Public participation initiated": 1,
+    "Renewal application received": 1,
+    "Significant Revision": 1,
+    "Submitted": 5
+  },
+  "rank": {
+    "markers": 39,
+    "outside_mapped_places": {
+      "Washoe County": 11,
+      "Storey County": 5
+    }
+  },
+  "candidate_counts": {
+    "henderson_other": 15,
+    "henderson_grading": 0,
+    "clark_inspection": 3,
+    "clark_sources": 8,
+    "reno": 1,
+    "lasvegas": 0
+  },
+  "hash_checks": 26,
+  "excluded_candidates": 1,
+  "facility_inventory_only": 8
+}

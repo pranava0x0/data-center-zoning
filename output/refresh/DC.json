@@ -1,0 +1,54 @@
+{
+  "jurisdiction": "DC",
+  "started_utc": "2026-11-16T15:31:14+00:00",
+  "steps": [
+    {
+      "step": "history_dc.py --fetch",
+      "rc": 0,
+      "seconds": 33.6,
+      "tail": ""
+    }
+  ],
+  "check": {
+    "jurisdiction": "DC",
+    "ok": true,
+    "rows": 18,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "history_dc.py",
+        "seconds": 0.1,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "history_dc.json": "184e7acaee631b5ca9a6e090357e9cb6ee7a628b89d6096ececbe639017bbcee"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "dc-dob-B0905455",
+      "dc-dob-B1000259",
+      "dc-dob-B1010295",
+      "dc-dob-B1010526",
+      "dc-dob-B1102273",
+      "dc-dob-B1109049",
+      "dc-dob-B1110466",
+      "dc-dob-B1111699",
+      "dc-dob-B1200382",
+      "dc-dob-B1301274",
+      "dc-dob-B1407740",
+      "dc-dob-B1506565",
+      "dc-dob-B1605068",
+      "dc-dob-B1704777",
+      "dc-dob-B2011476",
+      "dc-dob-B2302191",
+      "dc-dob-BCIV2300023",
+      "dc-dob-M1200019"
+    ]
+  },
+  "finished_utc": "2026-11-16T15:31:48+00:00"
+}

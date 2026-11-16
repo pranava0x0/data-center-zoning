@@ -1,0 +1,10 @@
+{
+  "documents": 1013,
+  "results": {
+    "no match in readable pages": 635,
+    "text match": 58,
+    "unavailable": 243,
+    "no readable text": 77
+  },
+  "scope": "Every eligible PDF-type referral in the queue, including the frozen validation sample. Only reviewed, locally supported rules may enter the atlas."
+}

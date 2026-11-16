@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "source_population_digest": "77f33897daf4732e56bba07c7b7ac0ca1086c22ab50b1ae23df71ef719afebe3",
+  "sample_cohort_digest": "6e4b6794634f0e80acdacfcbec353682776549242d515f889ff324fcbc888eab",
+  "original_source_hashes_verified": 57,
+  "receipt_hashes_verified": 363,
+  "intact_page_numbers": true,
+  "complete_coverage_accounting": true,
+  "provisions": 17,
+  "accepted_originals": 6,
+  "image_reviews_verified": 17,
+  "pages_artifact_digest": "9fc8d05a674c32ed24e68eff4d21ad4e9e2c506bcb9d8e469da618cfbd5612e3",
+  "visual_manifest_digest": "a0575197a2cb58493afa4f8b257284fefb015a3a12f9422979d4433b37240699",
+  "rule_artifact_digest": "8fa88f33b5c86ab6723bcfb55002edb6d4b958215f7c25b3c56ac62724d4dceb"
+}

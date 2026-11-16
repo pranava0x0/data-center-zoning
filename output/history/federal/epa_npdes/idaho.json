@@ -1,0 +1,40 @@
+[
+  {
+    "id": "fed-epa-idr1000ce-3601057559-0",
+    "state": "ID",
+    "dataset": "U.S. EPA water discharge permits",
+    "record_no": "IDR1000CE",
+    "jurisdiction": "Chubbuck city",
+    "county": "Bannock County",
+    "project": "ICCU CAMPUS EXPANSION AND DATA CENTER",
+    "kind": "Construction stormwater permit coverage",
+    "status": "Terminated",
+    "date": "2017-05-31",
+    "date_role": "Issue date",
+    "url": "https://echo.epa.gov/effluent-charts#/IDR1000CE",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "locator": "ICIS_PERMITS.csv · IDR1000CE · activity 3601057559 · version 0",
+    "details": {
+      "federal_issuer": "U.S. Environmental Protection Agency",
+      "federal_program": "NPDES",
+      "agency_type": "EP6",
+      "reported_issuer": "U.S. EPA",
+      "version": "0",
+      "status_code": "TRM",
+      "master_permit": "IDR100000",
+      "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary",
+      "location_method": "EPA facility point and Census polygons; municipality requires matching address locality.",
+      "location_sources": [
+        "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip",
+        "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_16_place_500k.zip"
+      ],
+      "reported_locality": "CHUBBUCK",
+      "issue_date": "2017-05-31",
+      "effective_date": "2017-05-31",
+      "expiration_date": "2022-02-15",
+      "termination_date": "2020-04-15",
+      "retirement_date": null
+    }
+  }
+]

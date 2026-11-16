@@ -1,0 +1,220 @@
+[
+  {
+    "id": "nd-dickey-complaint",
+    "dataset": "Dickey County Water Resource District proceedings",
+    "jurisdiction": "Dickey County",
+    "record_no": "Webster complaint",
+    "project": "Applied Digital / East Half of Section 4",
+    "kind": "Obstruction / drainage complaint",
+    "status": "Complaint dated",
+    "date": "2025-09-10",
+    "date_role": "complaint date",
+    "locator": "Draft minutes p. 1; complaint identified",
+    "state": "ND",
+    "url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf#page=1",
+    "source_url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf",
+    "details": {
+      "source_sha256": "ae8bdd331a77d2205e8b67e3753d6cf5f7e0a2d58f2b177542dcb10e125bed32",
+      "evidence": "COMPLAINT FOR WATER-RELATED ISSUES",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-dickey-dismissal",
+    "dataset": "Dickey County Water Resource District proceedings",
+    "jurisdiction": "Dickey County",
+    "record_no": "Webster complaint",
+    "project": "Applied Digital / East Half of Section 4",
+    "kind": "Jurisdictional decision",
+    "status": "Dismissal recorded in draft minutes",
+    "date": "2025-10-15",
+    "date_role": "district meeting date",
+    "locator": "Draft minutes p. 6; unanimous motion on jurisdiction",
+    "state": "ND",
+    "url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf#page=6",
+    "source_url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf",
+    "details": {
+      "source_sha256": "ae8bdd331a77d2205e8b67e3753d6cf5f7e0a2d58f2b177542dcb10e125bed32",
+      "evidence": "due to lack of jurisdiction",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-ellendale-foundations",
+    "dataset": "Dickey County Water Resource District proceedings",
+    "jurisdiction": "Ellendale",
+    "record_no": "City building permits (unnumbered)",
+    "project": "Applied Digital / East Half of Section 4",
+    "kind": "Municipal building permit issuance report",
+    "status": "Issuance reported",
+    "date": "2025-07-28",
+    "date_role": "reported city issue date",
+    "locator": "Draft district minutes p. 1; plural permits, no count or numbers",
+    "state": "ND",
+    "url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf#page=1",
+    "source_url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf",
+    "details": {
+      "source_sha256": "ae8bdd331a77d2205e8b67e3753d6cf5f7e0a2d58f2b177542dcb10e125bed32",
+      "evidence": "the City of Ellendale issued building permits to Applied Digital",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-eln-18296-application",
+    "dataset": "North Dakota DEQ air permits to construct",
+    "jurisdiction": "Dickey County",
+    "record_no": "ACP-18296 v1.0",
+    "project": "Applied Digital ELN Generation Plant",
+    "kind": "Air construction permit application",
+    "status": "Submitted",
+    "date": "2024-12-04",
+    "date_role": "application date",
+    "locator": "Initial AQEA, p. 1; date received",
+    "state": "ND",
+    "url": "https://deq.nd.gov/aq/Notices/ELN/DRAFTACP18296v10AQEA.pdf#page=1",
+    "source_url": "https://deq.nd.gov/aq/Notices/ELN/DRAFTACP18296v10AQEA.pdf",
+    "details": {
+      "source_sha256": "4c93dbf61277a64b7e9e3ba00e23e7c8a7bfa8ecf527e1a7d4dd0cdab6be8229",
+      "evidence": "December 4, 2024",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-eln-18296-issued",
+    "dataset": "North Dakota DEQ air permits to construct",
+    "jurisdiction": "Dickey County",
+    "record_no": "ACP-18296 v1.0",
+    "project": "Applied Digital ELN Generation Plant",
+    "kind": "Air permit to construct",
+    "status": "Issued",
+    "date": "2025-10-17",
+    "date_role": "issue date",
+    "locator": "Subsequent DEQ AQEA p. 3 explicitly dates the earlier issued permit",
+    "state": "ND",
+    "url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf#page=3",
+    "source_url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf",
+    "details": {
+      "source_sha256": "2603976335a7fa299683a1533968c3fd08f1000761a974de4b32f3b6435e2666",
+      "evidence": "was issued ACP-18296 v1.0 for sixty generator engines on October 17, 2025",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-eln-18296-model",
+    "dataset": "North Dakota DEQ air permits to construct",
+    "jurisdiction": "Dickey County",
+    "record_no": "ACP-18296 v1.0",
+    "project": "Applied Digital ELN Generation Plant",
+    "kind": "Supplemental dispersion modeling",
+    "status": "Submitted",
+    "date": "2025-06-28",
+    "date_role": "supplemental filing",
+    "locator": "Initial AQEA p. 1; supplemental information",
+    "state": "ND",
+    "url": "https://deq.nd.gov/aq/Notices/ELN/DRAFTACP18296v10AQEA.pdf#page=1",
+    "source_url": "https://deq.nd.gov/aq/Notices/ELN/DRAFTACP18296v10AQEA.pdf",
+    "details": {
+      "source_sha256": "4c93dbf61277a64b7e9e3ba00e23e7c8a7bfa8ecf527e1a7d4dd0cdab6be8229",
+      "evidence": "submitted supplemental information on June 28, 2025",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-eln-18338-application",
+    "dataset": "North Dakota DEQ air permits to construct",
+    "jurisdiction": "Dickey County",
+    "record_no": "ACP-18338 v1.0",
+    "project": "Applied Digital ELN Generation Plant",
+    "kind": "Air construction permit application",
+    "status": "Submitted",
+    "date": "2026-02-16",
+    "date_role": "application date",
+    "locator": "New draft AQEA p. 2; project summary",
+    "state": "ND",
+    "url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf#page=2",
+    "source_url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf",
+    "details": {
+      "source_sha256": "2603976335a7fa299683a1533968c3fd08f1000761a974de4b32f3b6435e2666",
+      "evidence": "on February 16, 2026",
+      "county": "Dickey County"
+    }
+  },
+  {
+    "id": "nd-far-18345-application",
+    "dataset": "North Dakota DEQ air permits to construct",
+    "jurisdiction": "Cass County",
+    "record_no": "ACP-18345 v1.0",
+    "project": "Applied Digital FAR Generation Plant",
+    "kind": "Air construction permit application",
+    "status": "Submitted",
+    "date": "2026-03-09",
+    "date_role": "application date",
+    "locator": "FAR draft AQEA, p. 2; project summary",
+    "state": "ND",
+    "url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFTACP18345v1_0AQEA.pdf#page=2",
+    "source_url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFTACP18345v1_0AQEA.pdf",
+    "details": {
+      "source_sha256": "a971451d4d089ec762f248eda0b194c33a31f4b64747f005bc00a18f57c537de",
+      "evidence": "on March 9, 2026",
+      "county": "Cass County"
+    }
+  },
+  {
+    "id": "nd-fargo-harwood-et",
+    "dataset": "City of Fargo commission proceedings",
+    "jurisdiction": "Fargo",
+    "record_no": "Fargo–Harwood ET agreement",
+    "project": "Applied Digital property, West half of Section 3",
+    "kind": "Extraterritorial jurisdiction and annexation agreement",
+    "status": "Approved",
+    "date": "2025-11-24",
+    "date_role": "city commission vote",
+    "locator": "November 24 minutes, Agreement Concerning Annexation item",
+    "state": "ND",
+    "url": "https://fargond.gov/city-government/departments/city-commission/agendas-minutes/2025-minutes-video-archive/november-24-2025-minutes",
+    "source_url": "https://fargond.gov/city-government/departments/city-commission/agendas-minutes/2025-minutes-video-archive/november-24-2025-minutes",
+    "details": {
+      "source_sha256": "eee06dda3a851f10c081dd874c6a48a89f9ccb30aa9c93496349c6749b943f79",
+      "evidence": "the West half of Section 3 is within Harwood",
+      "county": "Cass County"
+    }
+  },
+  {
+    "id": "nd-jamestown-application",
+    "dataset": "North Dakota DEQ discharge permit notices",
+    "jurisdiction": "North Dakota",
+    "record_no": "ND0027073",
+    "project": "APLD Jamestown Datacenter",
+    "kind": "Discharge permit application",
+    "status": "Application recorded",
+    "date": "2023-11-01",
+    "date_role": "application date",
+    "locator": "Notice ND-2024-009, p. 1",
+    "state": "ND",
+    "url": "https://deq.nd.gov/PublicComment/NDPDES-Jamestown-20240615.pdf#page=1",
+    "source_url": "https://deq.nd.gov/PublicComment/NDPDES-Jamestown-20240615.pdf",
+    "details": {
+      "source_sha256": "55f8b5babd3b91156ba921b32fa50cc852f2e0e1dff62a3b2e117dc2fafa4f04",
+      "evidence": "Application Date: 11/1/2023"
+    }
+  },
+  {
+    "id": "nd-jamestown-notice",
+    "dataset": "North Dakota DEQ discharge permit notices",
+    "jurisdiction": "North Dakota",
+    "record_no": "ND0027073",
+    "project": "APLD Jamestown Datacenter",
+    "kind": "Draft discharge permit notice",
+    "status": "Intent to issue",
+    "date": "2024-05-15",
+    "date_role": "public notice date",
+    "locator": "Notice ND-2024-009, p. 1; agency intent only",
+    "state": "ND",
+    "url": "https://deq.nd.gov/PublicComment/NDPDES-Jamestown-20240615.pdf#page=1",
+    "source_url": "https://deq.nd.gov/PublicComment/NDPDES-Jamestown-20240615.pdf",
+    "details": {
+      "source_sha256": "55f8b5babd3b91156ba921b32fa50cc852f2e0e1dff62a3b2e117dc2fafa4f04",
+      "evidence": "Public Notice Date: 5/15/2024"
+    }
+  }
+]

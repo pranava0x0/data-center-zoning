@@ -1,0 +1,37 @@
+{
+  "measured_utc": "2026-11-16T09:01:23+00:00",
+  "measurement": "Latest cumulative usage event in each cooperating chat; cached tokens included in input. Snapshot taken before final reply; not an invoice.",
+  "roles": {
+    "coordinator": {
+      "input_tokens": 188382955,
+      "cached_input_tokens": 186354432,
+      "output_tokens": 431170,
+      "total_tokens": 188814125
+    },
+    "/root/terra_compass": {
+      "input_tokens": 158717039,
+      "cached_input_tokens": 156333312,
+      "output_tokens": 355826,
+      "total_tokens": 159072865
+    },
+    "/root/sol_survey": {
+      "input_tokens": 158619218,
+      "cached_input_tokens": 156824192,
+      "output_tokens": 363338,
+      "total_tokens": 158982556
+    },
+    "/root/astra_virginia": {
+      "input_tokens": 156619094,
+      "cached_input_tokens": 154593152,
+      "output_tokens": 359376,
+      "total_tokens": 156978470
+    }
+  },
+  "total": {
+    "input_tokens": 662338306,
+    "cached_input_tokens": 654105088,
+    "output_tokens": 1509710,
+    "total_tokens": 663848016
+  },
+  "uncached_input": 8233218
+}

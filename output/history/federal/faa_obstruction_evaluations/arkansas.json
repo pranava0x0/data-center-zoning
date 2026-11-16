@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fed-faa-2026-asw-15894-oe",
+    "state": "AR",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Johnson County",
+    "county": "Johnson County",
+    "record_no": "2026-ASW-15894-OE",
+    "project": "Ironwood Building ARK3",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2026-11-09",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+    "locator": "ASW 2026 off-airport CSV · STUDY (ASN) 2026-ASW-15894-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Clarksville",
+      "original_structure_type": "BUILDING",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Structure Type: Two-Story Data Center with Rooftop Mechanical Equipment Overall Footprint: 650 feet (length) x 450 feet (width) Building Use: Mission-critical data processing facility (data center) with associated mechanical electrical and cooling infrastructure. Number of Stories: 2 stories above finished grade. Primary Construction: Structural steel framing with reinforced concrete foundations and composite metal d",
+      "original_determination": "No Hazard"
+    }
+  },
+  {
+    "id": "fed-faa-2026-asw-9853-oe",
+    "state": "AR",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Johnson County",
+    "county": "Johnson County",
+    "record_no": "2026-ASW-9853-OE",
+    "project": "Ironwood Building ARK2",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2026-08-31",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+    "locator": "ASW 2026 off-airport CSV · STUDY (ASN) 2026-ASW-9853-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Clarksville",
+      "original_structure_type": "BUILDING",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Structure Type: Two-Story Data Center with Rooftop Mechanical Equipment Overall Footprint: 650 feet (length) x 450 feet (width) Building Use: Mission-critical data processing facility (data center) with associated mechanical electrical and cooling infrastructure. Number of Stories: 2 stories above finished grade. Primary Construction: Structural steel framing with reinforced concrete foundations and composite metal d",
+      "original_determination": "No Hazard"
+    }
+  }
+]

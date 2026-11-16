@@ -1,0 +1,65 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_50_place_500k.zip",
+      "bytes": 84408,
+      "sha256": "fed20b9ed4d5e3a1be2a7549551001c9f51b329368d6d068e7140b4989583071"
+    },
+    "counties.zip": {
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip",
+      "bytes": 141679,
+      "sha256": "3c337402b5c6e8d5aa26b4278ccf4edc8989f2683765b3ffbf22296cdb2df3a0"
+    },
+    "detail.html.gz": {
+      "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+      "bytes": 96046,
+      "sha256": "cfa506414a2318aa11e4be032ee7c54d2a18d0e3fa3a1cb79b1b4a17a324d4c8"
+    },
+    "discharge.pdf": {
+      "url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/027%201R0372-10%20Discharge%20Permit%203329-9020.pdf",
+      "bytes": 445725,
+      "sha256": "d78c84944125fa97f489457f4d2c738320dea54287fb8d0e7f1aac8b42ead074"
+    },
+    "draftwater.pdf": {
+      "url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/034%20DRAFT%20Operational%20Stormwater%20Permit-3329-INDS.pdf",
+      "bytes": 411866,
+      "sha256": "834476ba56298b579e5b0ffdc888aa4c52e4b9c9db483c024f348d037b2ba116"
+    },
+    "land.pdf": {
+      "url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/1R0372-10%20Permit%20and%20COS.pdf",
+      "bytes": 164324,
+      "sha256": "74cd02ab6284005add79cc009973c42fc521670bdee83ced880999a67cf1b7f9"
+    },
+    "points.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "bytes": 69151,
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a"
+    },
+    "query-data-center.html.gz": {
+      "url": "https://anrweb.vt.gov/ANR/Act250/default.aspx",
+      "bytes": 18735,
+      "sha256": "8e7c32715a9f6d302343f4529255b3c394926b628282032436ce4576423f77de"
+    },
+    "query-data-centre.html.gz": {
+      "url": "https://anrweb.vt.gov/ANR/Act250/default.aspx",
+      "bytes": 15922,
+      "sha256": "65fb25a76b16b3cc44e21f8fd16d982a0d009bbdcae71b6ae69b32559569a464"
+    },
+    "query-data-processing.html.gz": {
+      "url": "https://anrweb.vt.gov/ANR/Act250/default.aspx",
+      "bytes": 15926,
+      "sha256": "61adc91af7c1d5333fa9bfecd2188f06d26b34c073c5bf9b8a3948963f1d1d78"
+    },
+    "query-server-room.html.gz": {
+      "url": "https://anrweb.vt.gov/ANR/Act250/default.aspx",
+      "bytes": 15922,
+      "sha256": "6931728a3f19d86593eab1de994971a3d10681611e11b2675c7ee4fa923d8776"
+    },
+    "uic.pdf": {
+      "url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/029%201R0372-10%20Darlene%20Autery%20No%20UIC%20permit%20req.pdf",
+      "bytes": 298390,
+      "sha256": "75eae736f307b4a45b66a4ea0a14ba1845fdaaedf178315d256e90e3900f2730"
+    }
+  }
+}

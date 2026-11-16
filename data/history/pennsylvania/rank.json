@@ -1,0 +1,259 @@
+{
+  "unit": "Mapped features; a campus may have several points. No current operating status inferred.",
+  "points": 47,
+  "counties": {
+    "Venango County": 32,
+    "Montgomery County": 4,
+    "Allegheny County": 3,
+    "Luzerne County": 3,
+    "Lehigh County": 2,
+    "Clearfield County": 1,
+    "Philadelphia County": 1,
+    "Pike County": 1
+  },
+  "places": {
+    "Outside incorporated places": 44,
+    "Green Tree borough": 1,
+    "Philadelphia city": 1,
+    "Pittsburgh city": 1
+  },
+  "facility_source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "place_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2742%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "cases": [
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "DāStor: 3400 Horizon Drive"
+    },
+    {
+      "county": "Clearfield County",
+      "place": "Outside incorporated places",
+      "name": "Iron City No. 1 Power Generator and Compute Center"
+    },
+    {
+      "county": "Allegheny County",
+      "place": "Pittsburgh city",
+      "name": "Expedient Pittsburgh Nova Place"
+    },
+    {
+      "county": "Pike County",
+      "place": "Outside incorporated places",
+      "name": "SES - Hawley Earth Station"
+    },
+    {
+      "county": "Allegheny County",
+      "place": "Outside incorporated places",
+      "name": "DataBank Pittsburgh PIT2"
+    },
+    {
+      "county": "Lehigh County",
+      "place": "Outside incorporated places",
+      "name": "Flexential Allentown Data Center"
+    },
+    {
+      "county": "Philadelphia County",
+      "place": "Philadelphia city",
+      "name": "Terminal Commerce Building"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "Lumen Norristown"
+    },
+    {
+      "county": "Allegheny County",
+      "place": "Green Tree borough",
+      "name": "Expedient Pittsburgh South"
+    },
+    {
+      "county": "Lehigh County",
+      "place": "Outside incorporated places",
+      "name": "Allentown-TekPark"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "TierPoint Valley Forge"
+    },
+    {
+      "county": "Montgomery County",
+      "place": "Outside incorporated places",
+      "name": "Flexential Philadelphia - Collegeville"
+    },
+    {
+      "county": "Luzerne County",
+      "place": "Outside incorporated places",
+      "name": "Nautilus Cryptomine"
+    },
+    {
+      "county": "Luzerne County",
+      "place": "Outside incorporated places",
+      "name": "Nautilus Cryptomine"
+    },
+    {
+      "county": "Luzerne County",
+      "place": "Outside incorporated places",
+      "name": "Amazon AWS PHL"
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    },
+    {
+      "county": "Venango County",
+      "place": "Outside incorporated places",
+      "name": null
+    }
+  ]
+}

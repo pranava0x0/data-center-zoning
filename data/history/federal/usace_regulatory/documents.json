@@ -1,0 +1,176 @@
+{
+  "https://publibrary.sec.usace.army.mil/api/download?id=38de1ffd-181d-42be-89ee-d977f08e4031&filename=202400058171J26_AJD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=38de1ffd-181d-42be-89ee-d977f08e4031&filename=202400058171J26_AJD.pdf&token=&preview=true",
+    "sha256": "6010396e94a6d2c472bf22a3ea12714989bf8ba95d92cd44ca68e0ba42d32c05",
+    "bytes": 2869675,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=7b243fc8-64f4-4dac-d54e-f05f0c6ce1be&filename=LRH-2025-559-SCR.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=7b243fc8-64f4-4dac-d54e-f05f0c6ce1be&filename=LRH-2025-559-SCR.pdf&token=&preview=true",
+    "sha256": "3fa5d0eb9d69e2694fb9e510d06a4c1a50a3e756edccab60555845b3b2f0de19",
+    "bytes": 9646930,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=7b2b3081-e089-4abd-89b4-1e1ceec08344&filename=JDUpload_2025-00663-TUS.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=7b2b3081-e089-4abd-89b4-1e1ceec08344&filename=JDUpload_2025-00663-TUS.pdf&token=&preview=true",
+    "sha256": "57ef12f9a1d36ec5f4cc1ac3d3a05488ee0d84b1d2ed5833538dbd9e4a338ea9",
+    "bytes": 3835981,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=3e6dae68-2818-4fd9-8663-ca812e97e0e4&filename=LRN-2026-00162_20260402_AJD-POST.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=3e6dae68-2818-4fd9-8663-ca812e97e0e4&filename=LRN-2026-00162_20260402_AJD-POST.pdf&token=&preview=true",
+    "sha256": "b94524f28c771512a12383c182ef8509fc96d01fea6ef96f5df8a32f41f14971",
+    "bytes": 396391,
+    "ext": "pdf"
+  },
+  "https://www.mvp.usace.army.mil/Portals/57/docs/regulatory/approvjds_wi/May/2022-00578-AJK%20AJD%20Form.pdf": {
+    "url": "https://www.mvp.usace.army.mil/Portals/57/docs/regulatory/approvjds_wi/May/2022-00578-AJK%20AJD%20Form.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.mvp.usace.army.mil/Portals/57/docs/regulatory/approvjds_wi/2025-00472-JLK AJD.pdf?ver=7qnCfEsvj4hz5xWvBnqFaQ%3d%3d": {
+    "url": "https://www.mvp.usace.army.mil/Portals/57/docs/regulatory/approvjds_wi/2025-00472-JLK AJD.pdf?ver=7qnCfEsvj4hz5xWvBnqFaQ%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.mvp.usace.army.mil/Portals/57/docs/regulatory/approvjds_wi/MVP-2025-00472 AJD Posting_508.pdf?ver=GETqit4QUIz-G9jyXzKWvA%3d%3d": {
+    "url": "https://www.mvp.usace.army.mil/Portals/57/docs/regulatory/approvjds_wi/MVP-2025-00472 AJD Posting_508.pdf?ver=GETqit4QUIz-G9jyXzKWvA%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.mvs.usace.army.mil/Portals/54/docs/regulatory/JDs/2026%20JDs/MVS-2025-690.pdf?ver=LKiU_1Ht2EkUdqL7l5JKrw%3d%3d": {
+    "url": "https://www.mvs.usace.army.mil/Portals/54/docs/regulatory/JDs/2026%20JDs/MVS-2025-690.pdf?ver=LKiU_1Ht2EkUdqL7l5JKrw%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nab.usace.army.mil/Portals/63/E2-NWPR%20AJD%20Form%20%2829%20July%20%202020-v3%29LOCKED.pdf": {
+    "url": "https://www.nab.usace.army.mil/Portals/63/E2-NWPR%20AJD%20Form%20%2829%20July%20%202020-v3%29LOCKED.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nab.usace.army.mil/Portals/63/Enclosure%202NAB-2025-00423_20260824_AJD%20MFR%20w%20MTG%20Edits-For%20Posting.pdf": {
+    "url": "https://www.nab.usace.army.mil/Portals/63/Enclosure%202NAB-2025-00423_20260824_AJD%20MFR%20w%20MTG%20Edits-For%20Posting.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nab.usace.army.mil/Portals/63/NAB-2025-00545_20260515_MFR.pdf": {
+    "url": "https://www.nab.usace.army.mil/Portals/63/NAB-2025-00545_20260515_MFR.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nab.usace.army.mil/Portals/63/docs/Regulatory/JDs/Enclosure%201%20NAB-2025-00578.MFRJD-For%20Posting.pdf": {
+    "url": "https://www.nab.usace.army.mil/Portals/63/docs/Regulatory/JDs/Enclosure%201%20NAB-2025-00578.MFRJD-For%20Posting.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nab.usace.army.mil/Portals/63/Approve%20JD%20MFR-NAB-2026-00062.pdf": {
+    "url": "https://www.nab.usace.army.mil/Portals/63/Approve%20JD%20MFR-NAB-2026-00062.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2022/JUN/NAO-2006-6296.pdf?ver=EhCcfTUaqSyhyc4PlBO6_A%3d%3d": {
+    "url": "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2022/JUN/NAO-2006-6296.pdf?ver=EhCcfTUaqSyhyc4PlBO6_A%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=fa58ae44-fc14-49ff-deb2-0e8100e1075d&filename=NAO-2008-02071_MFR_AJD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=fa58ae44-fc14-49ff-deb2-0e8100e1075d&filename=NAO-2008-02071_MFR_AJD.pdf&token=&preview=true",
+    "sha256": "c6a064956dc0db022618ca7386a55adb24bfef1d90fdd2d4b9d2f55072bf883d",
+    "bytes": 2724873,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=dedd2a3a-62d5-435e-ec1a-953925eb6932&filename=NAO-2010-02502.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=dedd2a3a-62d5-435e-ec1a-953925eb6932&filename=NAO-2010-02502.pdf&token=&preview=true",
+    "sha256": "2ba28189cf9414d62abd9bedb9de81d7f5ae05e35f49175c275204b17b54ce29",
+    "bytes": 4721026,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=d25320da-73d3-4961-d3e1-f6a99bba6354&filename=NAO-2010-02502%20AJD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=d25320da-73d3-4961-d3e1-f6a99bba6354&filename=NAO-2010-02502%20AJD.pdf&token=&preview=true",
+    "sha256": "16f39e4227fd75c0681bb4f83d31ee648f372f8901c69e80fa6d0cd74393faf5",
+    "bytes": 7011336,
+    "ext": "pdf"
+  },
+  "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2022/FEB/NAO-2016-1849.pdf?ver=09t5KchxupnrRb5euivutw%3d%3d": {
+    "url": "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2022/FEB/NAO-2016-1849.pdf?ver=09t5KchxupnrRb5euivutw%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=19db5a8d-7bfb-478c-b18e-46a2492dd259&filename=2025OCT%20NAO-2017-00258%20AJD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=19db5a8d-7bfb-478c-b18e-46a2492dd259&filename=2025OCT%20NAO-2017-00258%20AJD.pdf&token=&preview=true",
+    "sha256": "5c96ed642d511e2cfa91ea4e2c145e79ad12cb89fac1f0b04956dd7b828c4184",
+    "bytes": 8001050,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=93123869-8964-4469-82a6-dd7d65b4e19c&filename=NAO-2017-01568_MFR.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=93123869-8964-4469-82a6-dd7d65b4e19c&filename=NAO-2017-01568_MFR.pdf&token=&preview=true",
+    "sha256": "48fbc10d6a356a5b8f93a53a24dea6079ca3a54448bf81a033f01fa607e3b0c9",
+    "bytes": 2730185,
+    "ext": "pdf"
+  },
+  "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2021/MAY/NAO-2021-0729.pdf?ver=0CZyKrTnAOIfb8KtFM0_WA%3d%3d": {
+    "url": "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2021/MAY/NAO-2021-0729.pdf?ver=0CZyKrTnAOIfb8KtFM0_WA%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2021/JUL/NAO-2021-1481.pdf?ver=C27O5b5WzBsRHu1ZHSm8hQ%3d%3d": {
+    "url": "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2021/JUL/NAO-2021-1481.pdf?ver=C27O5b5WzBsRHu1ZHSm8hQ%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2022/JUN/NAO-2022-0998.pdf?ver=7ImvU1b1O8GNNOxXI9A1hw%3d%3d": {
+    "url": "https://www.nao.usace.army.mil/Portals/31/docs/regulatory/ApprovedJDs/2022/JUN/NAO-2022-0998.pdf?ver=7ImvU1b1O8GNNOxXI9A1hw%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=8f35df4c-ef9d-41cb-db5d-7995edce4859&filename=2025-616_Pre-2015RegimeAJD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=8f35df4c-ef9d-41cb-db5d-7995edce4859&filename=2025-616_Pre-2015RegimeAJD.pdf&token=&preview=true",
+    "sha256": "d18356f94b1a79932661bca7229419d7f6cd0f1611bc37e87c150c6b56774951",
+    "bytes": 2851469,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=04ec8194-0443-4b3f-d7f0-13fcad3413b1&filename=2026-156_Pre-2015RegimeAJD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=04ec8194-0443-4b3f-d7f0-13fcad3413b1&filename=2026-156_Pre-2015RegimeAJD.pdf&token=&preview=true",
+    "sha256": "22a2ef00b38edd4dbeb304c12c6e80b43f201039c0cb600d5fec7ce927fdad0e",
+    "bytes": 3153713,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=dd461f7f-a950-4797-df2d-638fac97fd3e&filename=NWO-2021-1983-ND.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=dd461f7f-a950-4797-df2d-638fac97fd3e&filename=NWO-2021-1983-ND.pdf&token=&preview=true",
+    "sha256": "3d624529e10cc0e78f3da2e2998393fca83f111a191073e60bdcb5150fec8099",
+    "bytes": 1430627,
+    "ext": "pdf"
+  },
+  "https://publibrary.sec.usace.army.mil/api/download?id=256ac372-00ab-43c3-9aea-6fedeb40b37f&filename=30042026-SAS-2025-00814-Douglas-AJD-NCD.pdf&token=&preview=true": {
+    "url": "https://publibrary.sec.usace.army.mil/api/download?id=256ac372-00ab-43c3-9aea-6fedeb40b37f&filename=30042026-SAS-2025-00814-Douglas-AJD-NCD.pdf&token=&preview=true",
+    "sha256": "8ad391761f1af2e47bcf1a97b98b1597baa4385ca70b7d3072d11ca8f0bde57b",
+    "bytes": 2818803,
+    "ext": "pdf"
+  },
+  "https://www.spk.usace.army.mil/Portals/12/documents/regulatory/jd/2026/04/SPK-2026-00210-AR-Apprvd-JD.pdf": {
+    "url": "https://www.spk.usace.army.mil/Portals/12/documents/regulatory/jd/2026/04/SPK-2026-00210-AR-Apprvd-JD.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.spk.usace.army.mil/Portals/12/documents/regulatory/jd/2026/06/SPK-2026-00211-AR-Apprvd-JD.pdf": {
+    "url": "https://www.spk.usace.army.mil/Portals/12/documents/regulatory/jd/2026/06/SPK-2026-00211-AR-Apprvd-JD.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.spn.usace.army.mil/Portals/68/docs/regulatory/Jurisdictional Determinations/2024/SPN-2023-00221_AJD_2024.10.25_post to web.pdf?ver=V0VThlhkneATfapnB7Z16g%3d%3d": {
+    "url": "https://www.spn.usace.army.mil/Portals/68/docs/regulatory/Jurisdictional Determinations/2024/SPN-2023-00221_AJD_2024.10.25_post to web.pdf?ver=V0VThlhkneATfapnB7Z16g%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.spn.usace.army.mil/Portals/68/docs/regulatory/Jurisdictional Determinations/2025/SPN-2023-00221_AJD_website_2025.05.01.pdf?ver=O66PPcKjQuZ3lXo69wTmgA%3d%3d": {
+    "url": "https://www.spn.usace.army.mil/Portals/68/docs/regulatory/Jurisdictional Determinations/2025/SPN-2023-00221_AJD_website_2025.05.01.pdf?ver=O66PPcKjQuZ3lXo69wTmgA%3d%3d",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.swg.usace.army.mil/Portals/26/docs/regulatory/JDs/SWG202500704.pdf": {
+    "url": "https://www.swg.usace.army.mil/Portals/26/docs/regulatory/JDs/SWG202500704.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2022-448%20AJD.pdf": {
+    "url": "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2022-448%20AJD.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-133-3_AJD.pdf": {
+    "url": "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-133-3_AJD.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-133-2_AJD.pdf": {
+    "url": "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-133-2_AJD.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-133_AJD.pdf": {
+    "url": "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-133_AJD.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-00313_20250827_AJD_MFR.pdf": {
+    "url": "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/JD/SWT-2025-00313_20250827_AJD_MFR.pdf",
+    "error": "robots preflight HTTP 403"
+  }
+}

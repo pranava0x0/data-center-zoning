@@ -1,0 +1,78 @@
+{
+  "NAO-2011-01135": {
+    "da": [
+      {
+        "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=%22NAO-2011-01135%22&max=200&start=0&da=true",
+        "sha256": "586d5248b2090440daedef868a86be911715024fa20743fbf294f92299a72b42",
+        "bytes": 64,
+        "ext": "json"
+      }
+    ],
+    "sa": {
+      "NAO-2011-01135": [
+        {
+          "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2011-01135%22&max=200&start=0&sa=true",
+          "sha256": "586d5248b2090440daedef868a86be911715024fa20743fbf294f92299a72b42",
+          "bytes": 64,
+          "ext": "json"
+        }
+      ]
+    }
+  },
+  "NAO-2021-01135": {
+    "da": [
+      {
+        "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=%22NAO-2021-01135%22&max=200&start=0&da=true",
+        "sha256": "34a5695bd35c9bb2c92c9b96b30d647797ea018a22e32075efc3f45f615175d5",
+        "bytes": 556,
+        "ext": "json"
+      }
+    ],
+    "sa": {
+      "NAO-2021-01135": [
+        {
+          "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2021-01135%22&max=200&start=0&sa=true",
+          "sha256": "1eff56297df9539fb88f96802a19ba17dd709100a8328c1cec5ce8ba09e01e6a",
+          "bytes": 1612,
+          "ext": "json"
+        }
+      ],
+      "NAO-2021-01135-mmw": [
+        {
+          "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2021-01135-mmw%22&max=200&start=0&sa=true",
+          "sha256": "1eff56297df9539fb88f96802a19ba17dd709100a8328c1cec5ce8ba09e01e6a",
+          "bytes": 1612,
+          "ext": "json"
+        }
+      ]
+    }
+  },
+  "NAO-2006-07410": {
+    "da": [
+      {
+        "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=%22NAO-2006-07410%22&max=200&start=0&da=true",
+        "sha256": "6e4c05bf081abd1d5e59983bb718efaf1830d08c1b45079ce6dfa0f28eb3a5db",
+        "bytes": 510,
+        "ext": "json"
+      }
+    ],
+    "sa": {
+      "NAO-2006-07410": [
+        {
+          "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2006-07410%22&max=200&start=0&sa=true",
+          "sha256": "b88dd3bdff34058e342c54e2061dc0f3907ec92784468cd64c69dd1dc8a1592c",
+          "bytes": 1224,
+          "ext": "json"
+        }
+      ],
+      "NAO-2006-07410-TREC": [
+        {
+          "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2006-07410-TREC%22&max=200&start=0&sa=true",
+          "sha256": "b88dd3bdff34058e342c54e2061dc0f3907ec92784468cd64c69dd1dc8a1592c",
+          "bytes": 1224,
+          "ext": "json"
+        }
+      ]
+    }
+  }
+}

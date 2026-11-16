@@ -1,0 +1,9 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Madison County,7,01089,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Jackson County,2,01071,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Jefferson County,2,01073,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,Houston County,1,01069,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,Montgomery County,1,01101,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Huntsville city,7,0137000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,2,Birmingham city,2,0107000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Dothan city,1,0121184,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

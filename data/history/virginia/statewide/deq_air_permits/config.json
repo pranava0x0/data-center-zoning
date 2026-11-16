@@ -1,0 +1,77 @@
+{
+  "slug": "va-deq-issued-air",
+  "dataset": "Virginia DEQ issued data-center air permits",
+  "state": "VA",
+  "source_url": "https://www.deq.virginia.gov/news-info/shortcuts/permits/air/issued-air-permits-for-data-centers",
+  "release": "2026-11-09",
+  "column_labels": {
+    "project": [
+      "Air Site Name"
+    ],
+    "record_no": [
+      "Regis-tration No/App No",
+      "Registration No/App No"
+    ],
+    "date": [
+      "Permit Issuance Date"
+    ],
+    "kind": [
+      "Program Type"
+    ],
+    "jurisdiction": [
+      "City/County"
+    ],
+    "region": [
+      "Regional Office"
+    ]
+  },
+  "linked_field": "record_no",
+  "default_status": "Issued",
+  "date_role": "permit issuance",
+  "date_formats": [
+    "%m/%d/%Y",
+    "%m/%d-%Y"
+  ],
+  "allowed_link_hosts": [
+    "www.deq.virginia.gov",
+    "deq.virginia.gov"
+  ],
+  "snapshot_heading_date_regex": "(?i)Issued Air Permits for Data Centers as of ([A-Za-z]+ [0-9]{1,2}, [0-9]{4})",
+  "snapshot_date_format": "%B %d, %Y",
+  "required_field": "record_no",
+  "record_no_regex": "[0-9]+-[0-9]+",
+  "package": "2026-11-09-package.json",
+  "republished_csv": "2026-11-09.csv",
+  "republished_url": "https://publicevidence.org/data/virginia-data-center-air-permits.csv",
+  "official_cells": "official-indexed-cells.json",
+  "vpt_cells": "vpt-indexed-details.json",
+  "air_sites_item": "90b6a133362b4f94a60ec5ced47bc27d",
+  "air_sites_layer": 294,
+  "vpt_rolling_file": "vpt-rolling-search.json",
+  "vpt_terms": [
+    "data",
+    "Project Loch",
+    "Project Raspberry",
+    "Microsoft",
+    "Equinix",
+    "CyrusOne",
+    "Digital Realty",
+    "QTS",
+    "Vantage",
+    "CloudHQ",
+    "CoreSite",
+    "Stack Infrastructure",
+    "NTT",
+    "74321-2",
+    "52903-5"
+  ],
+  "vpt_project_association": {
+    "74340-1": {
+      "site": "Northeast Creek Technology Campus",
+      "locality": "Louisa County",
+      "url": "https://www.nao.usace.army.mil/Media/News-Stories/Article/3952905/nao-2024-01939-amazon-data-services-louisa-virginia/",
+      "evidence": "Data Center Campus to be known as Northeast Creek Technology Campus",
+      "locator": "NAO-2024-01939, project description and purpose"
+    }
+  }
+}

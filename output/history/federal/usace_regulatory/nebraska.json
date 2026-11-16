@@ -1,0 +1,62 @@
+[
+  {
+    "id": "federal-corps-1b310fcb314d05a4555ef6e5",
+    "state": "NE",
+    "jurisdiction": "US Army Corps of Engineers — Omaha",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "NWO-2019-00110-WEH",
+    "project": "Data Center, Development, Lancaster County",
+    "kind": "Standard Permit",
+    "status": "Issued With Special Conditions",
+    "date": "2023-06-13",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWO-2019-00110-WEH%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWO-2019-00110-WEH%22&max=200&start=0&sa=true",
+    "locator": "Army file NWO-2019-00110-WEH; ORM issued action; 2023-06-13",
+    "details": {
+      "source_sha256": "ba8453d88527e9a207fc8400029bf21ea347746c5433f3fa14a060257300c835",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "NWO-2019-00110-WEH",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "NWO-2019-00110-WEH",
+      "da_number": "NWO-2019-00110-WEH",
+      "district_code": "NWO",
+      "orm_view": "issued",
+      "census_county": "Lancaster County",
+      "census_county_geoid": "31109",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-96.64819%2C40.90156&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "29d666906990fdd525c25d59cfd21713fa12462d6dab1f3cb58e7da9c90562a4",
+      "longitude": -96.64819,
+      "latitude": 40.90156,
+      "orm_public_notice_date": "17-FEB-2023",
+      "consultations": {
+        "esa": [
+          {
+            "actionId": 12148169,
+            "actionFolderId": 5157104,
+            "actionLinkId": 12067051,
+            "beginDate": "2023-02-17",
+            "endDate": "2023-06-12",
+            "agency": "US Fish and Wildlife Service",
+            "consultationType": "Informal",
+            "closureMethod": "Agency Took No Action"
+          }
+        ],
+        "s106Nhpa": [
+          {
+            "actionId": 12148168,
+            "actionFolderId": 5157104,
+            "actionLinkId": 12067051,
+            "beginDate": "2023-02-21",
+            "endDate": "2023-06-12",
+            "effectsDetermination": "No Effect: No Historic Properties Affected/Present"
+          }
+        ]
+      },
+      "final_ea_publication": "20250114"
+    }
+  }
+]

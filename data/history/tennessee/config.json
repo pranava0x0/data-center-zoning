@@ -1,0 +1,335 @@
+{
+  "atlas": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "places": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11",
+  "cutoff": "2026-11-16",
+  "layers": {
+    "nash_issued": {
+      "url": "https://services2.arcgis.com/HdTo6HJqh92wn4D8/arcgis/rest/services/Building_Permits_Issued_2/FeatureServer/0",
+      "lex": [
+        "Purpose",
+        "Permit_Subtype_Description"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNumber",
+        "Date_Issued",
+        "Date_Entered",
+        "Permit_Type_Description",
+        "Permit_Subtype_Description",
+        "IVR_Trk",
+        "IVR_Trk_",
+        "Address",
+        "City",
+        "Parcel",
+        "Case_Status",
+        "Trade"
+      ]
+    },
+    "nash_app": {
+      "url": "https://services2.arcgis.com/HdTo6HJqh92wn4D8/arcgis/rest/services/Building_Permit_Applications_Feature_Layer_view/FeatureServer/0",
+      "lex": [
+        "Purpose",
+        "Permit_Subtype_Description"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNumber",
+        "Date_Issued",
+        "Date_Entered",
+        "Permit_Type_Description",
+        "Permit_Subtype_Description",
+        "IVR_Trk",
+        "IVR_Trk_",
+        "Address",
+        "City",
+        "Parcel",
+        "Case_Status",
+        "Trade"
+      ]
+    },
+    "nash_trade": {
+      "url": "https://services2.arcgis.com/HdTo6HJqh92wn4D8/arcgis/rest/services/Trade_Permits_View/FeatureServer/0",
+      "lex": [
+        "Purpose",
+        "Permit_Subtype_Description"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNumber",
+        "Date_Issued",
+        "Date_Entered",
+        "Permit_Type_Description",
+        "Permit_Subtype_Description",
+        "IVR_Trk",
+        "IVR_Trk_",
+        "Address",
+        "City",
+        "Parcel",
+        "Case_Status",
+        "Trade"
+      ]
+    },
+    "shelby": {
+      "url": "https://scgis.shelbycountytn.gov/serverlow/rest/services/Accela/DPD_OCCECurrentProjects/MapServer/0",
+      "lex": [
+        "APPLICATION_NAME",
+        "WORK_DESCRIPTION"
+      ],
+      "fields": [
+        "PERMIT",
+        "RECORD_ALIAS",
+        "PERMIT_TYPE_A",
+        "PERMIT_STATUS",
+        "PERMIT_STATUS_DATE",
+        "MAP_STATUS",
+        "DATE_SUBMITTED",
+        "WORKFLOW_TASK",
+        "WORKFLOW_TASK_STATUS",
+        "SITUS_CITY",
+        "ADDR_FULL_BLOCK"
+      ],
+      "aliases": [
+        "%COLOSSUS%",
+        "%XAI%"
+      ],
+      "extra": [
+        "UPPER(ADDR_FULL_BLOCK) LIKE '3231%LOWRY%'",
+        "UPPER(ADDR_FULL_BLOCK) LIKE '5420%TULANE%'"
+      ]
+    },
+    "frank2016": {
+      "url": "https://services1.arcgis.com/du2kAhlOU8gWyWb5/arcgis/rest/services/BuildingPermits2016/FeatureServer/0",
+      "lex": [
+        "Descript",
+        "Descript_1",
+        "Facilities",
+        "Faciliti_1",
+        "Comments",
+        "Location",
+        "Location_1"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNo",
+        "PermitNo_1",
+        "Issue_Date",
+        "IssueDateT",
+        "IssueDat_1",
+        "Work_Type",
+        "WorkType",
+        "Permit_Typ",
+        "PermitType",
+        "Location",
+        "Location_1",
+        "address",
+        "city",
+        "county"
+      ],
+      "aliases": [
+        "%PEAK 10%",
+        "%PEAK10%",
+        "%FLEXENTIAL%",
+        "%TIERPOINT%",
+        "%311%EDDY%",
+        "%425%DUKE%",
+        "%4600%CAROTHERS%"
+      ]
+    },
+    "frank2017": {
+      "url": "https://services1.arcgis.com/du2kAhlOU8gWyWb5/arcgis/rest/services/2017BuildingPermits/FeatureServer/0",
+      "lex": [
+        "Descript",
+        "Descript_1",
+        "Facilities",
+        "Faciliti_1",
+        "Comments",
+        "Location",
+        "Location_1"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNo",
+        "PermitNo_1",
+        "Issue_Date",
+        "IssueDateT",
+        "IssueDat_1",
+        "Work_Type",
+        "WorkType",
+        "Permit_Typ",
+        "PermitType",
+        "Location",
+        "Location_1",
+        "address",
+        "city",
+        "county"
+      ],
+      "aliases": [
+        "%PEAK 10%",
+        "%PEAK10%",
+        "%FLEXENTIAL%",
+        "%TIERPOINT%",
+        "%311%EDDY%",
+        "%425%DUKE%",
+        "%4600%CAROTHERS%"
+      ]
+    },
+    "frank2018": {
+      "url": "https://services1.arcgis.com/du2kAhlOU8gWyWb5/arcgis/rest/services/2018BuildingPermits/FeatureServer/0",
+      "lex": [
+        "Descript",
+        "Descript_1",
+        "Facilities",
+        "Faciliti_1",
+        "Comments",
+        "Location",
+        "Location_1"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNo",
+        "PermitNo_1",
+        "Issue_Date",
+        "IssueDateT",
+        "IssueDat_1",
+        "Work_Type",
+        "WorkType",
+        "Permit_Typ",
+        "PermitType",
+        "Location",
+        "Location_1",
+        "address",
+        "city",
+        "county"
+      ],
+      "aliases": [
+        "%PEAK 10%",
+        "%PEAK10%",
+        "%FLEXENTIAL%",
+        "%TIERPOINT%",
+        "%311%EDDY%",
+        "%425%DUKE%",
+        "%4600%CAROTHERS%"
+      ]
+    },
+    "frank2018q4": {
+      "url": "https://services1.arcgis.com/du2kAhlOU8gWyWb5/arcgis/rest/services/OctDec2018BP/FeatureServer/0",
+      "lex": [
+        "Descript",
+        "Descript_1",
+        "Facilities",
+        "Faciliti_1",
+        "Comments",
+        "Location",
+        "Location_1"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNo",
+        "PermitNo_1",
+        "Issue_Date",
+        "IssueDateT",
+        "IssueDat_1",
+        "Work_Type",
+        "WorkType",
+        "Permit_Typ",
+        "PermitType",
+        "Location",
+        "Location_1",
+        "address",
+        "city",
+        "county"
+      ],
+      "aliases": [
+        "%PEAK 10%",
+        "%PEAK10%",
+        "%FLEXENTIAL%",
+        "%TIERPOINT%",
+        "%311%EDDY%",
+        "%425%DUKE%",
+        "%4600%CAROTHERS%"
+      ]
+    },
+    "frank2019": {
+      "url": "https://services1.arcgis.com/du2kAhlOU8gWyWb5/arcgis/rest/services/2019BuildingPermits/FeatureServer/0",
+      "lex": [
+        "Descript",
+        "Descript_1",
+        "Facilities",
+        "Faciliti_1",
+        "Comments",
+        "Location",
+        "Location_1"
+      ],
+      "fields": [
+        "Permit__",
+        "PermitNo",
+        "PermitNo_1",
+        "Issue_Date",
+        "IssueDateT",
+        "IssueDat_1",
+        "Work_Type",
+        "WorkType",
+        "Permit_Typ",
+        "PermitType",
+        "Location",
+        "Location_1",
+        "address",
+        "city",
+        "county"
+      ],
+      "aliases": [
+        "%PEAK 10%",
+        "%PEAK10%",
+        "%FLEXENTIAL%",
+        "%TIERPOINT%",
+        "%311%EDDY%",
+        "%425%DUKE%",
+        "%4600%CAROTHERS%"
+      ]
+    }
+  },
+  "terms": [
+    "%DATA%CENT%",
+    "%DATA%CTR%",
+    "%SERVER%FARM%",
+    "%DATA%HALL%"
+  ],
+  "documents": {
+    "internet_archive": {
+      "url": "https://web.archive.org/web/20250703012450id_/https://www.shelbytnhealth.com/DocumentCenter/View/7174/01156-01PC-070225Permit",
+      "ext": "pdf"
+    },
+    "permit_copy": {
+      "url": "https://rachelandthecity.com/the-xai-files/records/county-and-epa/shelby-county-air-permit-01156-01pc-2025-07-02.pdf",
+      "ext": "pdf"
+    },
+    "grassmere": {
+      "url": "https://www.govinfo.gov/content/pkg/USCOURTS-tnmd-3_26-cv-01143/pdf/USCOURTS-tnmd-3_26-cv-01143-0.pdf",
+      "ext": "pdf"
+    },
+    "memphis_water": {
+      "url": "https://memphistn.gov/wp-content/uploads/2025/03/xAi-Additional-Documents.pdf",
+      "ext": "pdf"
+    }
+  },
+  "parcel_service": "https://maps.nashville.gov/parcelservice/permithistory/",
+  "parcel_layer": "https://maps.nashville.gov/arcgis/rest/services/Cadastral/Parcels/MapServer/0",
+  "parcel_streets": [
+    "2902%BRICK CHURCH%",
+    "3800%EZELL%",
+    "2992%SIDCO%",
+    "1841%AIR LANE%",
+    "338%WOODYCREST%",
+    "147%4TH%",
+    "648%GRASSMERE%",
+    "650%GRASSMERE%"
+  ],
+  "direct_apns": {
+    "13300013500": "US District Court 3:26-cv-01143, Doc. 28, p. 2; Grassmere"
+  },
+  "epa_slices": {
+    "epa-ICIS_FACILITIES.csv.gz": "af4de90f03655f63c63f7dfc6038701a43a3e0329d9e7144ee62ab902343187b",
+    "epa-ICIS_PERMITS.csv.gz": "3ba7c8552c7e24c82afba80b903c0709cc5eb3a862a6f42757ae5c402e46f2e2",
+    "epa-source.json": "3d3899123456373bbd08d7347e0f18c3ff3f9544907c7dd3b42eaf3225af9f38"
+  }
+}

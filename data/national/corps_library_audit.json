@@ -1,0 +1,744 @@
+{
+  "cutoff": "2026-11-15",
+  "queries": [
+    {
+      "collection": "p16021coll15",
+      "term": "data center",
+      "total": 43,
+      "examined_first_page": 43,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/data%20center/mode/exact/maxRecords/50",
+      "sha256": "376e3f524227889580ac332b90477b27e6986f25674cc84e019bc82a7a6ce9a5"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "datacenter",
+      "total": 3,
+      "examined_first_page": 3,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/datacenter/mode/exact/maxRecords/50",
+      "sha256": "9ab35f085978b732f5eda4af66523e9a54557fa09fc0fd347de9eca5b2fd4f15"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "Amazon Data Services",
+      "total": 9,
+      "examined_first_page": 9,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Amazon%20Data%20Services/mode/exact/maxRecords/50",
+      "sha256": "104396a4ca3688cdac6c90947aac270a2baf49e516272a058c6ee37df40ba860"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "Microsoft Corporation",
+      "total": 70,
+      "examined_first_page": 50,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Microsoft%20Corporation/mode/exact/maxRecords/50",
+      "sha256": "f97eae01a594e4217ab46178a8abd960b46e64ef6cd3a1649ceebfb6d68f4f33"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "QTS",
+      "total": 1,
+      "examined_first_page": 1,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/QTS/mode/exact/maxRecords/50",
+      "sha256": "d839c54aea1a85661e96e2b6294a11f644a6a19649317b0dca8f032d0f436d49"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "Google LLC",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Google%20LLC/mode/exact/maxRecords/50",
+      "sha256": "6eb15e87b2300b4ff7320997d7641a496352cc4fb7920fcae2c0fc12cd15d1ae"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "Meta Platforms",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Meta%20Platforms/mode/exact/maxRecords/50",
+      "sha256": "748ab0f62ab6415bab71e634b2ea5e8b258cfdee13c2d0c69be3cb93318dd200"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "hyperscale",
+      "total": 1,
+      "examined_first_page": 1,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/hyperscale/mode/exact/maxRecords/50",
+      "sha256": "374b11fc929cf28b32df3a30d6415bd46db7a8ed95c65f70a1d73ff7f712e836"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "server farm",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/server%20farm/mode/exact/maxRecords/50",
+      "sha256": "b79ee90f2d5e7a60a3273e4669f80a2228f829d6d1cf3fa3bfda264cbf980330"
+    },
+    {
+      "collection": "p16021coll15",
+      "term": "cloud computing",
+      "total": 3,
+      "examined_first_page": 3,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/cloud%20computing/mode/exact/maxRecords/50",
+      "sha256": "4f30182d014f1cab74fe08898521595cadfb87cfc3b7a0adf0799b55f7145b31"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "data center",
+      "total": 3,
+      "examined_first_page": 3,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/data%20center/mode/exact/maxRecords/50",
+      "sha256": "1c636206266ef6d4a1e7ab4fac2baf8669b75f7d47239b9f1ef52f8cb855c8bf"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "datacenter",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/datacenter/mode/exact/maxRecords/50",
+      "sha256": "63d062daf0d61ec6ac217444d30e434916d29959ddf4bac6c50dbee03f7dba0b"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "Amazon Data Services",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Amazon%20Data%20Services/mode/exact/maxRecords/50",
+      "sha256": "e45635a308abff4b483c6d0c18fd4c05952d107c27aab2c8efc4e16951181ab1"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "Microsoft Corporation",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Microsoft%20Corporation/mode/exact/maxRecords/50",
+      "sha256": "52889ead35625c2296e9dde0f07720da400d9856d44e626f9a264d94970c9074"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "QTS",
+      "total": 1,
+      "examined_first_page": 1,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/QTS/mode/exact/maxRecords/50",
+      "sha256": "806cd85fb48dce91753ccc8bf54d9405f3daa743d3748cb112595e53ed2463d4"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "Google LLC",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Google%20LLC/mode/exact/maxRecords/50",
+      "sha256": "22aceeed9ed700a9f9d33a811d47018723faabf5edc4988c5d8407e73a7f8902"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "Meta Platforms",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Meta%20Platforms/mode/exact/maxRecords/50",
+      "sha256": "7293c9b8024fe90468684ad6d2abccaee5d74b877f2b6de29b634e0ec66e77e3"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "hyperscale",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/hyperscale/mode/exact/maxRecords/50",
+      "sha256": "89bc364ba502ce4f706a1f701fdc4c36f3d6410e36530d79ed9fe499c9de4488"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "server farm",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/server%20farm/mode/exact/maxRecords/50",
+      "sha256": "8fb2d6fa31d5a8c6a49b4c160c73335d8ef44c9fbca93e26d3ca6d2870b80440"
+    },
+    {
+      "collection": "p16021coll9",
+      "term": "cloud computing",
+      "total": 0,
+      "examined_first_page": 0,
+      "url": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/cloud%20computing/mode/exact/maxRecords/50",
+      "sha256": "f6b1a80c4787378bcd999f93143ed4d1198b1402803e812a1fb06cf7f22f2b18"
+    }
+  ],
+  "distinct_first_page_items": 95,
+  "metadata_inspected": 14,
+  "original_downloads_attempted": 9,
+  "readable_original_pdfs": 8,
+  "existing_same_day_docket_holds": [],
+  "events": 5,
+  "items": [
+    {
+      "collection": "p16021coll15",
+      "item_id": 284,
+      "title": "Public notice: CENAO-WRR, NAO-2021-00689",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 345,
+      "title": "Public notice: Subject: Public notice of permit application: Action ID: NWO-2021-01983-BIS",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 435,
+      "title": "Public notice: CENAO-WRR, NAO-2014-00474 / VMRC# 22-V1758",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 1248,
+      "title": "Public notice: Applicant: City of Fort Wayne",
+      "review": "Compound library item; download response is not a verified PDF. Held."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 1281,
+      "title": "Public notice: CENAO-WRR, NAO-2022-01498/VMRC 22-1943",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 1525,
+      "title": "Public notice; Application no: NWO-2019-00110-WEH",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 1718,
+      "title": "Public notice: Permit application number SAJ-1997-04569 (SP-HMM)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 1831,
+      "title": "Approved jurisdictional determination form",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 1955,
+      "title": "Public notice: CENAO-WRR, NAO-2020-00426, VMRC# 21-V2154",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 2067,
+      "title": "Public notice: CENAO-WRR, NAO-2022-02394 / VMRC# 22-V2715",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 2386,
+      "title": "Public notice: Operations and maintenance dredging and dredged sediment placement, Erie Harbor, Erie County, Pennsylvania",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 2705,
+      "title": "Approved jurisdictional determination form",
+      "review": "Original verified; see result events"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 2908,
+      "title": "Public notice: CENAO-WRR, NAO-2008-00532",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3125,
+      "title": "Public notice: Application no: NWO-2011-00720-MT",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3180,
+      "title": "Public notice: Applicant: St. Joseph County drainage board",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3271,
+      "title": "Public notice: Applicant: Consumers Energy Company (Emily McQueen)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3292,
+      "title": "Public notice: CENAO-WRR, NAO-2020-01965",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3332,
+      "title": "Public notice: CENAO-WRR, NAO-2023-01759",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3550,
+      "title": "Public notice: CENAO-WRR-N, NAO-2017-01621/ 23-V2396",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3621,
+      "title": "Public notice: CENAO-WRR, NAO-2019-00517",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3657,
+      "title": "Public notice: Permit application no. SAJ-1994-00981(SP-TDS)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 3944,
+      "title": "Approved jurisdictional determination",
+      "review": "Johnstown OH AJD duplicates LRH-2023-00824-MUS, 2023-12-01."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 4529,
+      "title": "Public notice: Subject: Public notice of mitigation bank addendum: Action ID: NWO-2010-02756-BIS, project no. 8-999(048), PCN 23284",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 4958,
+      "title": "Public notice: Public notice no. 24-10, application no. LRN-2023-00936",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 4978,
+      "title": "Smoky Hill mitigation bank: Draft instrument",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 5594,
+      "title": "Public notice: CENAO-WRR, NAO-2023-02265/VMRC-24-0879",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 5801,
+      "title": "Public notice: Applicant: Micron New York Semiconductor Manufacturing LLC (Micron)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 5891,
+      "title": "Public notice: CENAO-WRR-N, NAO-2023-01759",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6083,
+      "title": "Section 408 public notice Virginia natural gas canal number 2",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6427,
+      "title": "Subject: US Army Corps of Engineers (Corps) approved jurisdictional determination in accordance with the “Revised Definition of ‘Waters of the United States’”; (88 FR 3004 (January 18, 2023) as amended by the “Revised Definition of ‘Waters of the United States’; Conforming” (8 September 2023), NWP-2023-301",
+      "review": "Forest Grove OR AJD duplicates NWP-2023-00301, 2024-04-09."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6490,
+      "title": "Public notice: Application #: MVN-2022-00190-CF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6492,
+      "title": "Public notice: Application #: MVN-2023-01112-WPP",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6603,
+      "title": "Public notice: Permit application no. SAJ-2016-02457 (SP-HMM)",
+      "review": "Florida metadata alone does not establish an eligible data-center project."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6880,
+      "title": "Public notice: Permit application no. SAJ-2007-03772 (SP-HMM)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6939,
+      "title": "Public notice: Application #: MVN-2023-00978-WLS",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6958,
+      "title": "Public notice: Permit application no. SAJ-2007-03772 (SP-HMM)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6976,
+      "title": "Subject: US Army Corps of Engineers (Corps) pre-2015 regulatory regime approved jurisdictional determination in light of Sackett v. EPA, 143 S. Ct. 1322 (2023), LRH-2024-79-KAN, MFR 1 of 1",
+      "review": "iHeart Church expansion, weather data attributed to National Climatic Data Center; false positive."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 6990,
+      "title": "Public notice: Application #: MVN-2011-03012-CO",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7282,
+      "title": "Public notice: Permit application no. SAJ-2024-01562 (SP-CMM)",
+      "review": "Osceola county project drawing labels a data center among other civic buildings. No independently identified hosting campus; held."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7356,
+      "title": "Approved jurisdictional determination form",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7384,
+      "title": "Public notice: CENAO-WRR, NAO-2024-01939, VMRC# 24-V2396",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7409,
+      "title": "Public notice: Permit application no. SAJ-2024-04797 (SP-SJF)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7439,
+      "title": "Public notice: Permit application no. SAJ-2024-04797 (SP-SJF)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7486,
+      "title": "Public notice: Application #: MVN-1999-02987-EMM",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7788,
+      "title": "Public notice: Public notice no. LRL-2023-00656, LRE-2014-00571-100-S24, LRC-2024-286",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7813,
+      "title": "Public notice: CENAO-WRR, NAO-2008-02071, VMRC# 24-V1679",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 7909,
+      "title": "Public notice: CENAO-WRR, NAO-2023-01952",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8105,
+      "title": "Public notice: Application #: MVN-2005-04280-WPP",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8124,
+      "title": "Public notice: Subject: Public notice of permit application, Reference number: NWO-2021-01797-BIS",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8154,
+      "title": "Public notice: Request for permission to modify a U.S. Army Corps of Engineers project under section 408",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8187,
+      "title": "Public notice 25-07",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8207,
+      "title": "Public notice: CENAO-WRR, NAO-2024-01108, VMRC# 24-2491",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8222,
+      "title": "Public notice: Permit no. NWK-2022-00565",
+      "review": "Missouri excluded."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8300,
+      "title": "Public notice: Applicant: Amazon Data Services, Inc.",
+      "review": "Existing St. Joseph County AWS district file; no second event claimed."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8321,
+      "title": "Public notice: Application #: MVN-2024-00552-ENP",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8406,
+      "title": "Public notice: Application for permit",
+      "review": "Original verified; see result events"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8469,
+      "title": "Public notice: Application no. 2019-837",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 8811,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. MVN-2021-00573-EDM",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9018,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. MVN-2024-00087-CF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9379,
+      "title": "Subject: U.S. Army Corps of Engineers (Corps) approved jurisdictional determination in accordance with the “Revised Definition of ‘Waters of the United States’”; 88 FR 3004 (18 January 2023) as amended by the “Revised Definition of ‘Waters of the United States’; Conforming” 88 FR 61964 (8 September 2023), NWP-2025-21",
+      "review": "Hillsboro OR AJD duplicates NWP-2025-00021, 2025-05-16."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9508,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. MVN-2025-00052-CF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9585,
+      "title": "Public notice: Request for permission to alter a U.S. Corps of Engineers project under Section 14 of the Rivers and Harbors Act of 1899, 33 U.S.C. 408, (Section 408)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9780,
+      "title": "Public notice: Huntington District, permit application no. LRH-2010-276-SCR-Missouri Ditch",
+      "review": "Original verified; see result events"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9820,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2024-02685",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9969,
+      "title": "Public notice: Buffalo District, permit application no. LRB-2000-02198 (Micron)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9974,
+      "title": "Public notice: Buffalo District, permit application no. LRB-2024-00400 (National Grid gas main)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 9979,
+      "title": "Public notice: Buffalo District, permit application no. LRB-2024-00629 (National Grid electric)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10267,
+      "title": "Public notice: Norfolk District, permit application no. NAO-",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10539,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2024-02685",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10577,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2022-02494",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10638,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. 2019-00848-CF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10724,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2021-01135",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10743,
+      "title": "Public notice: Request for permission to alter a U.S. Corps of Engineers project under Section 14 of the Rivers and Harbors Act of 1899, 33 U.S.C. 408, (Section 408)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10795,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2006-07410",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10819,
+      "title": "Public notice: Request for permission to alter a U.S. Army Corps of Engineers project under Section 14 of the Rivers and Harbors Act of 1899, 33 U.S.C. 408, (Section 408)",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10829,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. MVN-2025-00471-CW",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10847,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2021-03032-TREC",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10863,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2025-00741-CO",
+      "review": "Original verified; see result events"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10892,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2022-02671",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10914,
+      "title": "Public notice: New Orleans District, permit application no. MVN-1997-04517-WFF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10947,
+      "title": "Public notice: CENAO-RG, NAO-2025-01458",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10974,
+      "title": "Subject: US Army Corps of Engineers (Corps) pre-2015 regulatory regime approved jurisdictional determination in light of Sackett v. EPA, 143 S. Ct. 1322 (2023), LRL-2026-00041-jcm",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 10984,
+      "title": "Public notice: Norfolk District, permit application no. NAO-2025-01857",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11006,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2026-00047-WFF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11017,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. MVN-2025-00743-EPP",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11021,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2025-00537-MD",
+      "review": "Possible third-party mitigation bank; no reviewed site-specific federal approval for a named data center."
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11024,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2026-00095-WKK",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11052,
+      "title": "Public notice: New Orleans District (CEMVN), permit application no. MVN-2015-02424-EMM",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11064,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2025-00697-CHP",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11092,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2025-00052-CF",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll15",
+      "item_id": 11124,
+      "title": "Public notice: New Orleans District, permit application no. MVN-2007-00577-EDM",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll9",
+      "item_id": 2925,
+      "title": "[2023 General permit decisions]",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll9",
+      "item_id": 2931,
+      "title": "[2024 General permit decisions]",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll9",
+      "item_id": 2937,
+      "title": "Non-federal sponsor package",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    },
+    {
+      "collection": "p16021coll9",
+      "item_id": 2978,
+      "title": "Final environmental impact statement for the proposed Mid-Barataria Sediment Diversion Project, Plaquemines Parish, Louisiana",
+      "review": "Not substantively reviewed in bounded cohort; no conclusion"
+    }
+  ],
+  "scope": "Exact-phrase, first 50 per query in two permitting collections. Metadata alone never publishes an action. No Virginia or Missouri records exported."
+}

@@ -1,0 +1,144 @@
+{
+ "version": "1.1",
+ "counts": {
+  "files": 1,
+  "files_empty": 0,
+  "unreadable": 0,
+  "chunks": 593,
+  "display_strings": 0,
+  "paragraphs": 593,
+  "sentences": 923,
+  "words": 12609,
+  "quoted_exempt": 0,
+  "allowed": 0,
+  "proper_noun_skips": 0,
+  "info_suppressed": 156
+ },
+ "levels": {
+  "FAIL": 0,
+  "WARN": 1,
+  "INFO": 9
+ },
+ "findings": [
+  {
+   "rule": "llm-register-soft",
+   "level": "WARN",
+   "family": "register",
+   "source": "site-copy.md",
+   "line": 789,
+   "matched": "comprehensive",
+   "why": "register word that is usually padding but occasionally load-bearing",
+   "fix": "delete it and reread the sentence; if nothing was lost it was padding",
+   "note": "",
+   "context": "\u2026EP requires proof that the project fits the local comprehensive plan and has received the applicable local zoning and subdivision approvals."
+  },
+  {
+   "rule": "uniform-template",
+   "level": "INFO",
+   "family": "rhythm",
+   "source": "site-copy.md",
+   "line": 1,
+   "matched": "3 sentences on template ('OTHER', 0, False)",
+   "why": "consecutive sentences built on one syntactic template",
+   "fix": "change which clause leads, or let one sentence run longer",
+   "note": "",
+   "context": "opener=OTHER length-bucket=0 comma=False"
+  },
+  {
+   "rule": "uniform-template",
+   "level": "INFO",
+   "family": "rhythm",
+   "source": "site-copy.md",
+   "line": 1,
+   "matched": "3 sentences on template ('OTHER', 1, False)",
+   "why": "consecutive sentences built on one syntactic template",
+   "fix": "change which clause leads, or let one sentence run longer",
+   "note": "",
+   "context": "opener=OTHER length-bucket=1 comma=False"
+  },
+  {
+   "rule": "kicker-cadence",
+   "level": "INFO",
+   "family": "rhythm",
+   "source": "site-copy.md",
+   "line": 1,
+   "matched": "14 paragraphs end on a kicker",
+   "why": "a short aphoristic line closing paragraph after paragraph",
+   "fix": "save the kicker for the one paragraph that earns it",
+   "note": "",
+   "context": "the reader learns the beat and stops hearing it"
+  },
+  {
+   "rule": "paragraph-opening-repeat",
+   "level": "INFO",
+   "family": "rhythm",
+   "source": "site-copy.md",
+   "line": 1,
+   "matched": "3 paragraphs open on 'reno'",
+   "why": "consecutive paragraphs opening on the same word",
+   "fix": "vary the entry point, or merge the paragraphs",
+   "note": "",
+   "context": "vary the entry point"
+  },
+  {
+   "rule": "paragraph-opening-repeat",
+   "level": "INFO",
+   "family": "rhythm",
+   "source": "site-copy.md",
+   "line": 1,
+   "matched": "3 paragraphs open on 'atlanta'",
+   "why": "consecutive paragraphs opening on the same word",
+   "fix": "vary the entry point, or merge the paragraphs",
+   "note": "",
+   "context": "vary the entry point"
+  },
+  {
+   "rule": "paragraph-opening-repeat",
+   "level": "INFO",
+   "family": "rhythm",
+   "source": "site-copy.md",
+   "line": 1,
+   "matched": "3 paragraphs open on 'the'",
+   "why": "consecutive paragraphs opening on the same word",
+   "fix": "vary the entry point, or merge the paragraphs",
+   "note": "",
+   "context": "vary the entry point"
+  },
+  {
+   "rule": "noun-cluster",
+   "level": "INFO",
+   "family": "syntax",
+   "source": "site-copy.md",
+   "line": 63,
+   "matched": "permit number counts once",
+   "why": "four or more nouns stacked as unbroken modifiers",
+   "fix": "unpack with a preposition or a verb",
+   "note": "",
+   "context": "A permit number counts once."
+  },
+  {
+   "rule": "noun-cluster",
+   "level": "INFO",
+   "family": "syntax",
+   "source": "site-copy.md",
+   "line": 65,
+   "matched": "counts include city permits",
+   "why": "four or more nouns stacked as unbroken modifiers",
+   "fix": "unpack with a preposition or a verb",
+   "note": "",
+   "context": "County counts include city permits only when the issuing source identifies the county."
+  },
+  {
+   "rule": "noun-cluster",
+   "level": "INFO",
+   "family": "syntax",
+   "source": "site-copy.md",
+   "line": 103,
+   "matched": "county requires fire prevention",
+   "why": "four or more nouns stacked as unbroken modifiers",
+   "fix": "unpack with a preposition or a verb",
+   "note": "",
+   "context": "The county requires fire prevention permits and an annual inspection by the fire marshal."
+  }
+ ]
+}

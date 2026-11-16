@@ -1,0 +1,576 @@
+[
+  {
+    "state": "PR",
+    "geoid": "72001",
+    "name": "Adjuntas municipal government",
+    "url": "https://pr.gov/directorio-municipos/adjuntas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72003",
+    "name": "Aguada municipal government",
+    "url": "https://pr.gov/directorio-municipos/aguada",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72005",
+    "name": "Aguadilla municipal government",
+    "url": "https://pr.gov/directorio-municipos/aguadilla",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72007",
+    "name": "Aguas Buenas municipal government",
+    "url": "https://pr.gov/directorio-municipos/aguas-buenas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72009",
+    "name": "Aibonito municipal government",
+    "url": "https://pr.gov/directorio-municipos/aibonito",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72011",
+    "name": "Añasco municipal government",
+    "url": "https://pr.gov/directorio-municipos/anasco",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72013",
+    "name": "Arecibo municipal government",
+    "url": "https://pr.gov/directorio-municipos/arecibo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72015",
+    "name": "Arroyo municipal government",
+    "url": "https://pr.gov/directorio-municipos/arroyo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72017",
+    "name": "Barceloneta municipal government",
+    "url": "https://pr.gov/directorio-municipos/barceloneta",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72019",
+    "name": "Barranquitas municipal government",
+    "url": "https://pr.gov/directorio-municipos/barranquitas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72021",
+    "name": "Bayamón municipal government",
+    "url": "https://pr.gov/directorio-municipos/bayamon",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72023",
+    "name": "Cabo Rojo municipal government",
+    "url": "https://pr.gov/directorio-municipos/cabo-rojo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72025",
+    "name": "Caguas municipal government",
+    "url": "https://pr.gov/directorio-municipos/caguas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72027",
+    "name": "Camuy municipal government",
+    "url": "https://pr.gov/directorio-municipos/camuy",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72029",
+    "name": "Canóvanas municipal government",
+    "url": "https://pr.gov/directorio-municipos/canovanas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72031",
+    "name": "Carolina municipal government",
+    "url": "https://pr.gov/directorio-municipos/carolina",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72033",
+    "name": "Cataño municipal government",
+    "url": "https://pr.gov/directorio-municipos/catano",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72035",
+    "name": "Cayey municipal government",
+    "url": "https://pr.gov/directorio-municipos/cayey",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72037",
+    "name": "Ceiba municipal government",
+    "url": "https://pr.gov/directorio-municipos/ceiba",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72039",
+    "name": "Ciales municipal government",
+    "url": "https://pr.gov/directorio-municipos/ciales",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72041",
+    "name": "Cidra municipal government",
+    "url": "https://pr.gov/directorio-municipos/cidra",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72043",
+    "name": "Coamo municipal government",
+    "url": "https://pr.gov/directorio-municipos/coamo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72045",
+    "name": "Comerío municipal government",
+    "url": "https://pr.gov/directorio-municipos/comerio",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72047",
+    "name": "Corozal municipal government",
+    "url": "https://pr.gov/directorio-municipos/corozal",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72049",
+    "name": "Culebra municipal government",
+    "url": "https://pr.gov/directorio-municipos/culebra",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72051",
+    "name": "Dorado municipal government",
+    "url": "https://pr.gov/directorio-municipos/dorado",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72053",
+    "name": "Fajardo municipal government",
+    "url": "https://pr.gov/directorio-municipos/fajardo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72054",
+    "name": "Florida municipal government",
+    "url": "https://pr.gov/directorio-municipos/florida",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72055",
+    "name": "Guánica municipal government",
+    "url": "https://pr.gov/directorio-municipos/guanica",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72057",
+    "name": "Guayama municipal government",
+    "url": "https://pr.gov/directorio-municipos/guayama",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72059",
+    "name": "Guayanilla municipal government",
+    "url": "https://pr.gov/directorio-municipos/guayanilla",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72061",
+    "name": "Guaynabo municipal government",
+    "url": "https://pr.gov/directorio-municipos/guaynabo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72063",
+    "name": "Gurabo municipal government",
+    "url": "https://pr.gov/directorio-municipos/gurabo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72065",
+    "name": "Hatillo municipal government",
+    "url": "https://pr.gov/directorio-municipos/hatillo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72067",
+    "name": "Hormigueros municipal government",
+    "url": "https://pr.gov/directorio-municipos/hormigueros",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72069",
+    "name": "Humacao municipal government",
+    "url": "https://pr.gov/directorio-municipos/humacao",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72071",
+    "name": "Isabela municipal government",
+    "url": "https://pr.gov/directorio-municipos/isabela",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72073",
+    "name": "Jayuya municipal government",
+    "url": "https://pr.gov/directorio-municipos/jayuya",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72075",
+    "name": "Juana Díaz municipal government",
+    "url": "https://pr.gov/directorio-municipos/juana-diaz",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72077",
+    "name": "Juncos municipal government",
+    "url": "https://pr.gov/directorio-municipos/juncos",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72079",
+    "name": "Lajas municipal government",
+    "url": "https://pr.gov/directorio-municipos/lajas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72081",
+    "name": "Lares municipal government",
+    "url": "https://pr.gov/directorio-municipos/lares",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72083",
+    "name": "Las Marías municipal government",
+    "url": "https://pr.gov/directorio-municipos/las-marias",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72085",
+    "name": "Las Piedras municipal government",
+    "url": "https://pr.gov/directorio-municipos/las-piedras",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72087",
+    "name": "Loíza municipal government",
+    "url": "https://pr.gov/directorio-municipos/loiza",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72089",
+    "name": "Luquillo municipal government",
+    "url": "https://pr.gov/directorio-municipos/luquillo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72091",
+    "name": "Manatí municipal government",
+    "url": "https://pr.gov/directorio-municipos/manati",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72093",
+    "name": "Maricao municipal government",
+    "url": "https://pr.gov/directorio-municipos/maricao",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72095",
+    "name": "Maunabo municipal government",
+    "url": "https://pr.gov/directorio-municipos/maunabo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72097",
+    "name": "Mayagüez municipal government",
+    "url": "https://pr.gov/directorio-municipos/mayaguez",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72099",
+    "name": "Moca municipal government",
+    "url": "https://pr.gov/directorio-municipos/moca",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72101",
+    "name": "Morovis municipal government",
+    "url": "https://pr.gov/directorio-municipos/morovis",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72103",
+    "name": "Naguabo municipal government",
+    "url": "https://pr.gov/directorio-municipos/naguabo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72105",
+    "name": "Naranjito municipal government",
+    "url": "https://pr.gov/directorio-municipos/naranjito",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72107",
+    "name": "Orocovis municipal government",
+    "url": "https://pr.gov/directorio-municipos/orocovis",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72109",
+    "name": "Patillas municipal government",
+    "url": "https://pr.gov/directorio-municipos/patillas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72111",
+    "name": "Peñuelas municipal government",
+    "url": "https://pr.gov/directorio-municipos/penuelas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72113",
+    "name": "Ponce municipal government",
+    "url": "https://pr.gov/directorio-municipos/ponce",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72115",
+    "name": "Quebradillas municipal government",
+    "url": "https://pr.gov/directorio-municipos/quebradillas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72117",
+    "name": "Rincón municipal government",
+    "url": "https://pr.gov/directorio-municipos/rincon",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72119",
+    "name": "Río Grande municipal government",
+    "url": "https://pr.gov/directorio-municipos/rio-grande",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72121",
+    "name": "Sabana Grande municipal government",
+    "url": "https://pr.gov/directorio-municipos/sabana-grande",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72123",
+    "name": "Salinas municipal government",
+    "url": "https://pr.gov/directorio-municipos/salinas",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72125",
+    "name": "San Germán municipal government",
+    "url": "https://pr.gov/directorio-municipos/san-german",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72127",
+    "name": "San Juan municipal government",
+    "url": "https://pr.gov/directorio-municipos/san-juan",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72129",
+    "name": "San Lorenzo municipal government",
+    "url": "https://pr.gov/directorio-municipos/san-lorenzo",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72131",
+    "name": "San Sebastián municipal government",
+    "url": "https://pr.gov/directorio-municipos/san-sebastian",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72133",
+    "name": "Santa Isabel municipal government",
+    "url": "https://pr.gov/directorio-municipos/santa-isabel",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72135",
+    "name": "Toa Alta municipal government",
+    "url": "https://pr.gov/directorio-municipos/toa-alta",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72137",
+    "name": "Toa Baja municipal government",
+    "url": "https://pr.gov/directorio-municipos/toa-baja",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72139",
+    "name": "Trujillo Alto municipal government",
+    "url": "https://pr.gov/directorio-municipos/trujillo-alto",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72141",
+    "name": "Utuado municipal government",
+    "url": "https://pr.gov/directorio-municipos/utuado",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72143",
+    "name": "Vega Alta municipal government",
+    "url": "https://pr.gov/directorio-municipos/vega-alta",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72145",
+    "name": "Vega Baja municipal government",
+    "url": "https://pr.gov/directorio-municipos/vega-baja",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72147",
+    "name": "Vieques municipal government",
+    "url": "https://pr.gov/directorio-municipos/vieques",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72149",
+    "name": "Villalba municipal government",
+    "url": "https://pr.gov/directorio-municipos/villalba",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72151",
+    "name": "Yabucoa municipal government",
+    "url": "https://pr.gov/directorio-municipos/yabucoa",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "PR",
+    "geoid": "72153",
+    "name": "Yauco municipal government",
+    "url": "https://pr.gov/directorio-municipos/yauco",
+    "scope": "Municipal directory listing"
+  },
+  {
+    "state": "GU",
+    "geoid": "",
+    "name": "Village mayors and vice mayors",
+    "url": "https://mcog.guam.gov/directory",
+    "scope": "Government directory or agency source; no permit decision inferred"
+  },
+  {
+    "state": "MP",
+    "geoid": "",
+    "name": "Municipal mayors and government offices",
+    "url": "https://opd.gov.mp/directory.html",
+    "scope": "Government directory or agency source; no permit decision inferred"
+  },
+  {
+    "state": "AS",
+    "geoid": "",
+    "name": "Village councils and Office of Local Government",
+    "url": "https://www.americansamoa.gov/_files/ugd/4bfff9_bba88c7d53cc48a9af8f2473d4431bd8.pdf",
+    "scope": "Government directory or agency source; no permit decision inferred"
+  },
+  {
+    "state": "VI",
+    "geoid": "",
+    "name": "Department of Planning and Natural Resources",
+    "url": "https://dpnr.vi.gov/coastal-zone-management/what-we-do/coastal-zone-permitting/",
+    "scope": "Government directory or agency source; no permit decision inferred"
+  }
+]

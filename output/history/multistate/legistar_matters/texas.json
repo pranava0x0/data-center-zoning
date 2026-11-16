@@ -1,0 +1,58 @@
+[
+  {
+    "id": "council-roundrock-42850",
+    "state": "TX",
+    "jurisdiction": "Round Rock",
+    "county": "",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "2022-122",
+    "project": "Louis Henna Boulevard data center rezoning",
+    "kind": "Site-specific planning proceeding",
+    "status": "approve",
+    "date": "2022-04-14",
+    "date_role": "Recorded meeting action",
+    "url": "https://webapi.legistar.com/v1/roundrock/matters/11245/histories",
+    "source_url": "https://webapi.legistar.com/v1/roundrock/matters/11245/histories",
+    "source_sha256": "c024df8e550d6846b81db74e2d889bd998c2882dc982dfe32328b097c5521322",
+    "locator": "Matter 2022-122 · history 42850",
+    "details": {
+      "council_client": "roundrock",
+      "matter": "11245",
+      "source_action": "approve",
+      "decision_body": "City Council",
+      "vote_result": "Pass",
+      "action_text": "A motion was made by Council Member Ortega, seconded by Council Member Stevens, to approve the Ordinance.  The motion passed by the following vote:",
+      "description": "Consider public testimony regarding, and an ordinance rezoning 39.71 acres located north of Louis Henna Boulevard and east of S. A.W. Grimes Boulevard from the C-1 (General Commercial) zoning district to the PUD (Planned Unit Development) No. 137 zoning district. (First Reading)*",
+      "matter_title_source": "https://webapi.legistar.com/v1/roundrock/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+      "matter_title_sha256": "38c117a02f60de9cee172f48cf655d7f4dabbde3f06943222d644c3ea734fb75"
+    }
+  },
+  {
+    "id": "council-roundrock-42964",
+    "state": "TX",
+    "jurisdiction": "Round Rock",
+    "county": "",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "2022-122",
+    "project": "Louis Henna Boulevard data center rezoning",
+    "kind": "Site-specific planning proceeding",
+    "status": "dispense with the second reading and adopt",
+    "date": "2022-04-14",
+    "date_role": "Recorded meeting action",
+    "url": "https://webapi.legistar.com/v1/roundrock/matters/11245/histories",
+    "source_url": "https://webapi.legistar.com/v1/roundrock/matters/11245/histories",
+    "source_sha256": "c024df8e550d6846b81db74e2d889bd998c2882dc982dfe32328b097c5521322",
+    "locator": "Matter 2022-122 · history 42964",
+    "details": {
+      "council_client": "roundrock",
+      "matter": "11245",
+      "source_action": "dispense with the second reading and adopt",
+      "decision_body": "City Council",
+      "vote_result": "Pass",
+      "action_text": "A motion was made by Council Member Baker, seconded by Council Member Ortega, to dispense with the second reading and adopt the Ordinance.  The motion passed by the following vote:",
+      "description": "Consider public testimony regarding, and an ordinance rezoning 39.71 acres located north of Louis Henna Boulevard and east of S. A.W. Grimes Boulevard from the C-1 (General Commercial) zoning district to the PUD (Planned Unit Development) No. 137 zoning district. (First Reading)*",
+      "matter_title_source": "https://webapi.legistar.com/v1/roundrock/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+      "matter_title_sha256": "38c117a02f60de9cee172f48cf655d7f4dabbde3f06943222d644c3ea734fb75"
+    }
+  }
+]

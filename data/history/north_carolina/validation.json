@@ -1,0 +1,16 @@
+{
+  "events": 120,
+  "datasets": {
+    "Durham City-County building permits": 83,
+    "Raleigh building permits": 23,
+    "NC DEQ active air permit register": 7,
+    "NC DEQ air hearing notices": 2,
+    "Charlotte rezoning petitions": 3,
+    "NC DEQ air application reviews": 2
+  },
+  "held": 6,
+  "geography": {
+    "markers": 26,
+    "outside": {}
+  }
+}

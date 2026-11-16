@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sd-leola-cup",
+    "dataset": "McPherson County conditional use proceedings",
+    "jurisdiction": "McPherson County",
+    "record_no": "24-CUP-04",
+    "project": "Leola Data Center",
+    "kind": "County conditional use application",
+    "status": "Application supplied",
+    "date": "2024-11-07",
+    "date_role": "date of application supplement",
+    "locator": "County application filed as PUC exhibit, p. 3",
+    "state": "SD",
+    "url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/CondUsePermit.pdf#page=3",
+    "source_url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/CondUsePermit.pdf",
+    "details": {
+      "source_sha256": "b2a1cb513443e1da7a613d16ed051b62e991940006e652dbe4abe9f35b73a31f",
+      "evidence": "Conditional Use Permit Application Supplemental Information 1 November 7, 2024",
+      "county": "McPherson County"
+    }
+  },
+  {
+    "id": "sd-leola-defer",
+    "dataset": "McPherson County conditional use proceedings",
+    "jurisdiction": "McPherson County",
+    "record_no": "24-CUP-04",
+    "project": "Leola Data Center",
+    "kind": "County conditional use review",
+    "status": "Deferral discussed",
+    "date": "2024-12-10",
+    "date_role": "draft minutes meeting date",
+    "locator": "County board minutes (unapproved), PUC exhibit E, p. 2",
+    "state": "SD",
+    "url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/ExhE010925.pdf#page=2",
+    "source_url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/ExhE010925.pdf",
+    "details": {
+      "source_sha256": "36a4802bcf877fdbbdb2195b7e1f89d69234c8d8be12ede9d1092559031211e6",
+      "evidence": "talked about deferring the conditional use permit until an ordinance could be passed",
+      "county": "McPherson County"
+    }
+  },
+  {
+    "id": "sd-leola-elec-filing",
+    "dataset": "South Dakota Public Utilities Commission electric dockets",
+    "jurisdiction": "South Dakota",
+    "record_no": "EL24-027",
+    "project": "Leola Data Center",
+    "kind": "Electric provider assignment petition",
+    "status": "Filed",
+    "date": "2024-08-05",
+    "date_role": "docket filing date",
+    "locator": "Docket heading, date filed",
+    "state": "SD",
+    "url": "https://puc.sd.gov/Dockets/Electric/2024/EL24-027.aspx",
+    "source_url": "https://puc.sd.gov/Dockets/Electric/2024/EL24-027.aspx",
+    "details": {
+      "source_sha256": "6acc5a043678c537d234da91c3e1aea4bf09e95c7a8e1035b384e18b84600625",
+      "evidence": "Date Filed: 08/05/24",
+      "county": "McPherson County"
+    }
+  },
+  {
+    "id": "sd-leola-elec-order",
+    "dataset": "South Dakota Public Utilities Commission electric dockets",
+    "jurisdiction": "South Dakota",
+    "record_no": "EL24-027",
+    "project": "Leola Data Center",
+    "kind": "Conditional electric provider assignment order",
+    "status": "Granted subject to settlement",
+    "date": "2026-09-11",
+    "date_role": "order date per docket",
+    "locator": "EL24-027 signed order, p. 2; date in docket index",
+    "state": "SD",
+    "url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/EL24-027SettleStip.pdf#page=2",
+    "source_url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/EL24-027SettleStip.pdf",
+    "details": {
+      "source_sha256": "1d4eab280f3f8f36932c7161929a69dd860cb0b6d59e7cb706a8b394b2ae3918",
+      "evidence": "is hereby granted, subject to the terms and conditions",
+      "county": "McPherson County"
+    }
+  },
+  {
+    "id": "sd-leola-elec-vote",
+    "dataset": "South Dakota Public Utilities Commission electric dockets",
+    "jurisdiction": "South Dakota",
+    "record_no": "EL24-027",
+    "project": "Leola Data Center",
+    "kind": "Electric provider assignment vote",
+    "status": "Motion carried",
+    "date": "2026-09-08",
+    "date_role": "commission vote date",
+    "locator": "Electric, EL24-027, first September 8 agenda item",
+    "state": "SD",
+    "url": "https://puc.sd.gov/minutes/2026/0908.aspx",
+    "source_url": "https://puc.sd.gov/minutes/2026/0908.aspx",
+    "details": {
+      "source_sha256": "93299f5fce6e2e5c6de0f81b7bb3e7f35386b0efa5920ead4722e58986e84d7d",
+      "evidence": "grant Leola Data Center LLC’s petition to have MDU assigned as its electric provider",
+      "county": "McPherson County"
+    }
+  }
+]

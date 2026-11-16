@@ -1,0 +1,187 @@
+id	title	brief
+va-botetourt-ram	Data centers are allowed at Greenfield business park	Greenfield is the only area Botetourt County has zoned for data centers. Developers still need separate permits to grade land and build. Troutville sets its own zoning rules.
+va-lou-commercial-build	What permits does a new building need?	A developer needs building and zoning permits for construction, then an occupancy permit before the building can be used.
+va-lou-fire	Operating data centers need fire inspections	The county requires fire prevention permits and an annual inspection by the fire marshal.
+va-lou-grade	When does grading need a permit?	A permit is required if work disturbs 5,000 square feet or more. Smaller projects in sensitive areas may also need one.
+va-lou-towns	Towns set their own zoning rules	The county ordinance does not apply inside Loudoun’s seven incorporated towns. Check the town boundary, not just the mailing address.
+va-lou-gis-regime	Which zoning rules apply to this property?	Check the parcel map and its approval history. Properties along Route 28 can be subject to different versions of the county ordinance.
+va-lou-tax28	Some Route 28 properties still follow the 1972 rules	Check whether the owner gave up those protections through rezoning or conversion.
+va-lou-phase1	Three industrial districts require a special zoning approval	A developer generally needs a special exception for a data center in the three districts listed below. Earlier approvals may still apply.
+va-lou-grandfather-leg	Some earlier applications can use the old zoning rules	
+va-lou-grandfather-admin	Some site plans filed by February 12, 2025 can use earlier rules	
+va-lou-deemed-spex	When does an earlier zoning approval cover a data center?	
+va-lou-legacy-election	Some Route 28 owners chose different zoning rules	
+va-lou-minor-change	Minor changes to an approved site plan may qualify	
+va-lou-heuf-site	Which noise and resource studies must a developer submit?	
+va-lou-site-plan	Site plans must show how the buildings meet design standards	
+va-lou-legacy-use	Older Route 28 zoning can change which approval is needed	
+va-lou-spex	Some office and industrial sites need special zoning approval	
+va-brunswick-b1	A data center needs conditional approval in the B-1 district	
+va-ches-cup	The zoning route depends on whether the site is in the commerce park	
+va-ches-water	Data centers must connect to public water and sewer	
+va-chesterfield-cup	New data centers need a conditional-use permit	
+va-fx-noise	Developers must measure noise before and after construction	
+va-fx-setback	How far must buildings and equipment be from homes?	
+va-fx-commercial-gfa	Larger facilities in two commercial districts need special approval	
+va-fx-industrial-gfa	Larger facilities in three industrial districts need special approval	
+va-fred-campus	The mapped technology district allows data center campuses	
+va-fred-cooling	The technology district restricts drinking water for cooling	
+va-henrico-generators	When can a data center run generators?	
+va-henrico-accessory	When is a server facility part of another business?	
+va-henrico-principal	Standalone data centers need approval in industrial districts	
+va-henrico-water	Water cooling generally requires a closed loop or recycled water	
+va-jcc-definition	Which facilities count as data centers?	
+va-jcc-policy	The county recommends distances from homes and sensitive areas	
+va-jcc-industrial	Data centers need a special use permit in the M-2 district	
+va-lees-pec-spex	The town council must approve data centers in the employment district	
+va-lw-reclaimed	Can a project connect to a recycled-water line?	
+va-water-pretreatment	Some industrial sewer users need a wastewater permit	
+va-pwc-outside	New data centers outside the designated area need special approval	
+va-pwc-overlay	Some sites can keep their existing zoning permission	
+va-spotsylvania-pretreatment	Data centers need a permit to discharge into the sewer	
+va-troutville-prohibition	Troutville prohibits dedicated data centers	Town zoning prohibits these facilities in every district. The rule applies inside Troutville, not elsewhere in Botetourt County.
+va-vebc-accessibility	Additions must meet accessibility requirements	
+va-usbc-demolition	Demolishing a building generally requires a permit	
+va-va-air-bact	Virginia limits generator emissions in covered air permits	
+va-va-air-construction	Check air permitting before installing generators	
+va-va-construction-gp	When does construction runoff need a permit?	
+va-va-utility-form	The electric utility must describe how it plans to serve the site	
+va-va-sound	Certain projects need a noise study before local approval	
+va-va-surface-discharge	Discharging wastewater to surface water can require a permit	
+va-va-groundwater	When does a groundwater withdrawal need state approval?	
+va-va-surface-water	When does a surface-water withdrawal need state approval?	
+tx-college-station-use	How does the city classify data centers?	
+tx-lewisville-sup	Data centers need special approval in the listed industrial districts	
+tx-nrh-use-general	Where can the council approve a data center?	
+tx-nrh-use-small	Smaller facilities follow a separate approval route	
+tx-san-marcos-districts	City zoning prohibits new data centers	
+tx-talty-cup	The city requires a conditional-use permit	
+tx-construction-runoff	The amount of land disturbed determines the runoff permit	
+tx-tceq-pause	Texas reported a pause on certain data center permits	
+oh-new-albany-use	Check the zoning approval for the individual site	Two base districts list data centers, but a site’s own zoning can exclude them. The city says rezonings approved since April 2025 have excluded data centers as the main use.
+oh-stormwater	Runoff permits depend on how much land a project disturbs	
+oh-consumptive-use	Large increases in water consumption can require a state permit	
+oh-clermont-ohio-twp-pause	Ohio Township paused new data centers for 12 months	
+la-industrial-area	State law treats data centers as industrial in designated areas	
+la-st-charles-industrial	Two industrial districts allow data centers with conditions	
+nv-water-appropriation	Drawing public water or changing its use can require approval	
+nv-reno-cup	Reno requires a conditional-use permit for new data centers	
+nv-reno-pause	Reno paused new data center permit applications	
+az-stormwater	Construction runoff can need state authorization	Count the whole development when checking the one-acre threshold. The permit covers qualifying runoff that reaches state surface waters, including through a storm drain.
+az-nonexempt-well	Pumping groundwater from some wells requires a permit	The state rule applies to nonexempt wells in designated groundwater management areas. Buying water from a utility is a different case.
+az-chandler-noise	Data centers must measure noise before and after construction	The city requires a sound study before construction and annual studies at peak operation for five years after construction.
+az-chandler-primary-use	Standalone data centers need planned-area zoning	Chandler restricts sites whose main use is a data center to planned area developments. A server facility that supports another business follows different size and location rules.
+az-marana-principal	Marana must approve a plan that specifically allows a data center	For a standalone data center, the town must adopt a site-specific plan or amendment through rezoning. The approval may cover only part of the site.
+az-marana-water	Marana Water will not supply drinking water for data center cooling	Developers must identify a different supply for cooling and humidity control. The restriction does not rule out drinking water for other building uses.
+az-mesa-parking	How many parking spaces does a data center need?	Mesa requires one space per 5,000 square feet for the first 200,000 square feet and one per 10,000 square feet above that.
+az-mesa-pad	Mesa requires council approval for standalone industrial sites	A standalone data center in a general or heavy industrial district needs specific council approval through the planned area development process.
+az-navajo-minor-air	When must an operator apply to the Navajo Nation for an air permit?	
+nm-air-construction	New or modified equipment can need an air permit before construction	
+nm-santa-fe-moratorium	Santa Fe County paused some large data center approvals	
+nm-epa-construction-authority	Who issues construction runoff permits in New Mexico?	
+ms-air	Generators and other equipment may need an air permit	
+ms-water	Direct water withdrawals may need a state permit	
+ms-ridgeland-plan-review	The city reviews commercial designs before construction plans	
+ms-ridgeland-by-right	The Technical Industrial Park allows data centers	
+tn-nashville-pause	Nashville temporarily paused data center permits	
+tn-nashville-use	Large facilities and campuses face different zoning rules	
+tn-nashville-water	Applicants need written confirmation of water and sewer capacity	
+tn-water-register	Larger direct withdrawals must be registered	
+in-boone-pause	Boone County paused new data center applications	The pause covers land under county zoning outside incorporated towns and cities, from June 16, 2026 through June 15, 2027. It excludes facilities that provide internal computing for a business on the same campus.
+in-withdrawal-registration	High-capacity water withdrawals must be registered	Owners must register if their equipment can withdraw more than 100,000 gallons in one day. This is a reporting requirement, not permission to withdraw water.
+in-lake-electric	Applicants need the electric utility to confirm available power	The utility must confirm that it can serve the facility and the area without interfering with other customers’ service.
+in-lake-special-exception	An industrial site still needs county zoning approval	In unincorporated Lake County, data centers need a special exception in two industrial districts. Being on industrial land does not by itself allow construction.
+in-parke-cooling	Cooling water must be delivered to the site	The county requires a closed cooling loop that does not lose water to evaporation. A data center cannot use a local well, town water or surface water for cooling.
+in-parke-accessory	A small server room can be exempt from data center rules	The county excludes small server rooms that support another permitted use.
+in-warren-cooling	Data centers must recirculate cooling water	Developers can propose an alternative if they show that it uses less water and less energy than a closed loop.
+in-warren-water-study	Developers must submit a water supply study	Projects that rely on a nonpublic water source must also submit a study every two years after operations begin.
+az-phoenix-zoning	Phoenix reviews power, fire safety and noise before zoning approval	
+in-wabash-pause	Wabash County paused new data center permits	
+pa-fairview-conditional	Two districts allow a data center after township approval	A developer can seek conditional use approval in the Commercial Business or Industrial Business district. The township requires a site of at least 50 acres.
+pa-fairview-setback	A data center must sit 150 feet back from a residential boundary	The setback covers the data center and its accessory uses where the property line directly borders residential use or residential zoning.
+pa-fairview-noise	The township checks noise before and after construction	The developer must study outdoor equipment noise and submit a second study six months after the center reaches full operation.
+pa-fairview-service	The utility must approve service to the site	The developer must show the public utility approved its application for service. Public water and sewer must meet the proposed use.
+co-boulder-size	Boulder County limits data centers to under 50 kW	The county allows centers below 50 kilowatts in its Light Industrial and General Industrial districts. The change covers unincorporated land; cities set their own zoning.
+pa-grid-local	State environmental permits depend on local approvals	For qualifying data center permits, Pennsylvania DEP requires proof that the project fits the local comprehensive plan and has received the applicable local zoning and subdivision approvals.
+as-land-use	Land use approval for work that may harm coastal resources	A developer proposing work that could harm coastal resources must apply for a land use permit unless the law exempts the work.
+mp-coastal	Clearing or construction may need coastal approval	If the project falls under coastal management jurisdiction, the developer must obtain written approval before work starts. Major siting applications require a public hearing.
+vi-tier1	Coastal zoning review in the first tier	The territory reviews proposed development in its designated first-tier coastal zone. Check the parcel boundary before assuming coastal review applies.
+gu-building	Where to apply for a building permit in Guam	Guam accepts building permit applications at the Business License and Permit Center at Public Works in Upper Tumon. The center brings together land management, fire and other reviewing agencies.
+ga-atlanta-transit	Atlanta restricts data centers near transit stops	Atlanta prohibits new data centers within half a mile of a MARTA rail station or future bus rapid transit stop covered by the zoning amendment.
+ga-atlanta-beltline	New data centers are prohibited along the Beltline overlay	Atlanta prohibits new data centers in the Beltline Overlay District. Use the mapped district boundary to check a parcel.
+il-aurora-cooling	No drinking water for evaporative chillers	Aurora bars evaporative chillers that use potable water. The restriction applies to data centers seeking conditional use approval.
+il-aurora-water-ratio	Water use is capped per unit of computing energy	A data center may use at most 0.2 liters of potable building water per kilowatt-hour consumed by its IT equipment.
+il-aurora-chiller-setback	Ground-level chillers must be 1,000 feet from sensitive uses	Measure from the nearest part of the equipment yard to the property line of a home, hospital or educational use. A later neighboring use does not undo an existing conditional approval.
+il-aurora-water-model	Model water use before the city hears the application	A third-party engineer must model water consumption and water quality. The report covers supply sources, average and peak demand, and cooling and water reuse plans.
+il-aurora-baseline	Measure existing noise for a week	The first application must include a week of baseline noise measurements. A separate acoustical study must model compliance with the applicable limits.
+ca-santa-clara-noise	Outdoor cooling equipment needs noise controls	Santa Clara requires structural noise controls on exterior cooling fans and equipment. The city’s community development director decides whether measures such as baffles or acoustic louvers are sufficient.
+ca-santa-clara-light	Point outdoor lighting down and into the site	Santa Clara requires fully shielded exterior lights that direct light away from adjoining roads and properties.
+ny-state-eo62	New York pauses certain state environmental approvals	
+ny-oneonta-pause	Oneonta pauses applications for new data centers	
+ny-oneonta-existing	Existing facilities may continue operating	
+ny-orangetown-pause	Earlier applications can proceed during the pause	
+fl-volusia-rating	Volusia’s prohibition starts at a 50 MW peak load	
+fl-walton-ban	Walton County prohibits large-load data centers	
+wa-douglas-noise	Noise rules for the East Wenatchee growth area	
+wa-douglas-blank-wall	New buildings must break up blank exterior walls	
+wa-quincy-matrix	Quincy allows data centers in general industrial zoning	
+wa-seattle-moratorium	Seattle pauses permits for new data centers	
+wa-seattle-expansion	Which expansions qualify for Seattle’s exception	
+nj-franklin-ban	Franklin Township prohibits new data centers	
+nc-charlotte-pause	Charlotte extends its pause on new applications	
+nc-charlotte-internal	Some facilities serving their owner are exempt	
+mn-eagan-building	Which building permits can continue during the pause	
+mn-eagan-pause	Eagan’s pause depends on size or distance from homes	
+mi-rochester-pause	Rochester extends its development pause by 180 days	
+ut-em-qts-work	Which construction work the QTS agreement allows	
+ut-state-water-construction	Notify the water provider before construction	
+ut-state-water-notify	Report how much water a large facility will need	
+ia-dubuque-hyperscale	Where Dubuque permits large data centers	
+ia-dnr-storm	When construction runoff needs permit coverage	
+ia-dnr-waste	Check where process wastewater will go	
+ia-dnr-water	When taking water requires a state permit	
+md-fred-overlay	County zoning requires a designated data center site	
+ok-cherokee-nation-consult	Consultation for projects seeking Cherokee Nation support	
+ok-cherokee-nation-land	Cherokee Nation bars new data centers on specified lands	
+ma-lowell-nonconform	When the existing Lowell facility can keep operating	
+wi-madison-moratorium	Madison’s temporary pause on data center approvals	
+ne-sarpy-permitted	Which Sarpy County districts allow a data center	
+ne-sarpy-special	General Business zoning requires a special use permit	
+wy-laramie-switchgrass-lots	Which Switchgrass lots allow data centers	
+nd-bismarck-generators	Rules for backup generators	
+nd-bismarck-threshold	Capacity determines how Bismarck classifies a facility	
+nd-bismarck-noise	Noise limits at the project boundary	
+nd-bismarck-residential	Separation from residential property	
+nd-bismarck-site	What to include with the zoning application	
+nd-bismarck-micro	Where a small accessory facility is allowed	
+nd-bismarck-permission	Large centers need special approval in industrial zoning	
+nd-bismarck-utilities	Get written confirmation of utility capacity	
+ar-conway-cup	Which industrial districts allow a data center	
+ar-conway-noise	Submit a noise study and a plan to reduce noise	
+id-bannock-grading	When excavation needs a grading permit	
+id-bannock-existing	Which earlier applications are exempt from the pause	
+id-bannock-pause	Bannock County pauses new applications for 180 days	
+mt-missoula-county-pause	County pauses new and expanded data centers outside cities	
+sd-mcpherson-materials	How to report hazardous materials on site	
+sd-mcpherson-acoustics	An acoustical engineer must study predicted noise	
+sd-mcpherson-conditional	Agricultural zoning requires a conditional use permit	
+sd-mcpherson-grid	Show the project can connect to the electric grid
+alt-randolph-district	Randolph County uses a special industrial zoning district	A site must be in the Heavy Industrial Conditional District. A general industrial designation does not give the project permission by right.
+alt-randolph-setback	Keep outdoor equipment 1,000 feet from homes and schools	The same minimum distance applies to daycares, churches, hospitals, camps, parks and other listed community facilities.
+alt-randolph-water	An engineer must certify the cooling plan	The plan must minimize water use. For a liquid-cooled facility, it must also identify the water source and daily use.
+alt-randolph-power	Grid connection is required before occupancy	Backup generators may run during grid emergencies. Routine testing is limited to four hours per month.
+alt-brown-permits	Two county permits are required	In the area zoned by Brown County, a data center needs conditional use approval and a building permit. The rule also covers changes beyond routine maintenance.
+alt-brown-distance	The usual buffer is one mile	The county measures between property lines. A shorter distance requires noise evidence and can never be less than half a mile.
+alt-brown-utility	Grid-connected projects need the utility’s approval	The operator must show that the utility has the capacity and infrastructure to serve the project. Off-grid systems are exempt.
+alt-springdale-office	Springdale classifies electronic data storage as an office use	The definition includes computer equipment used to process, store or route electronic data. Check the parcel’s district separately.
+alt-pitt-separation	Large facilities must stay a quarter-mile from homes, schools and churches	Pitt County also requires a 50-foot buffer inside the site boundary and limits height to 35 feet, except for transmission lines and utility poles.
+alt-pitt-application	A sound study must accompany the site plan	The application must show nearby homes, churches and schools, describe the project, and carry the owner’s and operator’s signatures.
+alt-mancelona-district	Two village districts allow data processing facilities by right	The Commercial and Light Industrial & Warehousing districts allow the village’s defined mainframe facilities. An ordinary office does not qualify under that definition.
+alt-mancelona-parking	Parking is capped at four spaces per 1,000 square feet	This is a maximum in both districts where the village allows data processing facilities.
+alt-saluda-district	Only the C-3 Commercial district allows data centers	The operator must also get a special use permit. The rule covers facilities that store, process or distribute data remotely.
+alt-saluda-application	Include a sound study and equipment layout	The application must describe the project, access and screening and include an acoustical engineer’s findings and proposed noise controls.
+alt-saluda-power	Get the utility’s approval before installation	Grid-connected systems need evidence of that approval. Off-grid systems are exempt.
+ga-douglas-special-use	Data centers need special approval in four county districts	In unincorporated Douglas County, the code allows a data center to apply in OI, LI, LI-R or HI. It does not allow this use in the other districts in the table.
+ga-douglas-application-materials	Submit the utility schedule with the site plan	The county asks for a construction schedule, a utility schedule and a master site plan showing any required parcel splits or combinations.
+ga-douglas-residential-adjacency	A data center cannot share a property line with residential land	The county applies this restriction when the neighboring land is zoned for housing or is already used for housing.
+ga-douglas-residential-buffer	Leave a 100-foot buffer near residential land	If the project is within 200 feet of residential land, the county requires an undisturbed buffer. The director may reduce the buffer after reviewing the design and screening. The ban on sharing a property line still applies.

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fed-case-townsite-grant",
+    "state": "NV",
+    "jurisdiction": "Boulder City",
+    "county": "Clark County",
+    "dataset": "Interior Department land decisions",
+    "record_no": "NVNV106360814",
+    "project": "Townsite Data Center",
+    "kind": "Federal right-of-way amendment",
+    "status": "Approved; subsequently stayed",
+    "date": "2026-06-26",
+    "date_role": "BLM decision date",
+    "url": "https://eplanning.blm.gov/Project-Home/?id=f4dd06fc-446f-f111-ab0d-001dd802f839",
+    "source_url": "https://eplanning.blm.gov/Project-Home/?id=f4dd06fc-446f-f111-ab0d-001dd802f839",
+    "source_sha256": "16dc6f7bd0d770dc0d9fca410b02251b88155b39b3c8e6415da80c1fecc13d9d",
+    "locator": "Project Dates and Case File Number; IBLA order p. 1",
+    "details": {
+      "federal_issuer": "Bureau of Land Management",
+      "scope": "BLM amended a solar-project right-of-way to allow a data center. The September 1 order stayed that decision.",
+      "appeal_order": "https://www.bcnv.org/DocumentCenter/View/17364/2026-0213-Boulder-City-Stay-Granted",
+      "appeal_sha256": "3f9344e88006bdc83467202df09af2148df9ce0068696e8a5992772dd7b3d794",
+      "state_authority": false,
+      "same_land_case": "NVNV106360814",
+      "appeal_dockets": [
+        "IBLA 2026-0213",
+        "IBLA 2026-0216"
+      ],
+      "municipal_location_source": "https://www.bcnv.org/CivicAlerts.aspx?AID=534",
+      "municipal_source_sha256": "9a25a21b0e2c5ffce649b1a6ceb7f2cef4cda88eac039265e3d2c0398705f22e"
+    }
+  },
+  {
+    "id": "fed-case-townsite-stay",
+    "state": "NV",
+    "jurisdiction": "Boulder City",
+    "county": "Clark County",
+    "dataset": "Interior Department land decisions",
+    "record_no": "NVNV106360814",
+    "project": "Townsite Data Center",
+    "kind": "Stay of federal land grant",
+    "status": "Stay granted pending appeal",
+    "date": "2026-09-01",
+    "date_role": "Order date",
+    "url": "https://www.bcnv.org/DocumentCenter/View/17364/2026-0213-Boulder-City-Stay-Granted",
+    "source_url": "https://www.bcnv.org/DocumentCenter/View/17364/2026-0213-Boulder-City-Stay-Granted",
+    "source_sha256": "3f9344e88006bdc83467202df09af2148df9ce0068696e8a5992772dd7b3d794",
+    "locator": "IBLA 2026-0213 and 2026-0216, p. 1 and concluding order",
+    "details": {
+      "federal_issuer": "Interior Board of Land Appeals",
+      "scope": "The Board stayed the June grant while two appeals proceed. A stay does not cancel the underlying grant or decide the merits.",
+      "state_authority": false,
+      "same_land_case": "NVNV106360814",
+      "appeal_dockets": [
+        "IBLA 2026-0213",
+        "IBLA 2026-0216"
+      ],
+      "municipal_location_source": "https://www.bcnv.org/CivicAlerts.aspx?AID=534",
+      "municipal_source_sha256": "9a25a21b0e2c5ffce649b1a6ceb7f2cef4cda88eac039265e3d2c0398705f22e"
+    }
+  }
+]

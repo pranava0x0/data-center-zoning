@@ -1,0 +1,25 @@
+{
+  "archive": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+  "sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+  "candidate_versions": 14,
+  "linked_existing": 7,
+  "added": {
+    "GU": 2,
+    "OK": 1,
+    "MA": 1,
+    "ID": 1
+  },
+  "held": [
+    [
+      "NMR1004BJ",
+      "1",
+      "Combined solar or other supporting project; site authorization needs independent confirmation"
+    ],
+    [
+      "NMR1004BJ",
+      "0",
+      "Combined solar or other supporting project; site authorization needs independent confirmation"
+    ]
+  ],
+  "scope": "Permit number and version matched in the national archive. Federal attribution requires both EP6 and U.S. EPA. Named-site search plus exact IDs independently verified in state casebooks; aliases may be missing."
+}

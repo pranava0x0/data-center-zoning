@@ -1,0 +1,41 @@
+{
+  "jurisdiction": "VT",
+  "started_utc": "2026-11-16T18:33:18+00:00",
+  "steps": [
+    {
+      "step": "history_vt.py --refresh",
+      "rc": 0,
+      "seconds": 81.7,
+      "tail": ""
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "VT",
+    "ok": true,
+    "rows": 8,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "history_vt.py",
+        "seconds": 0.2,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "history_vt.json": "19611fceae0e5e85ff5cb7abc18c8976c6926eb4289db8d447c759099825f209"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "vt-velco-0",
+      "vt-velco-1",
+      "vt-velco-2",
+      "vt-velco-3"
+    ]
+  },
+  "finished_utc": "2026-11-16T18:34:40+00:00"
+}

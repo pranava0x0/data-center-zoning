@@ -1,0 +1,22 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Durham County,5,37063,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,1,Mecklenburg County,5,37119,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Rutherford County,4,37161,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Wake County,4,37183,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,5,Catawba County,3,37035,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,6,Caldwell County,2,37027,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Buncombe County,1,37021,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Cleveland County,1,37045,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Union County,1,37179,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Charlotte city,5,3712000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,Durham city,5,3719000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Forest City town,4,3724080,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Maiden town,3,3740660,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,5,Lenoir city,2,3737760,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Asheville city,1,3702140,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Cary town,1,3710740,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Fairview town,1,3722500,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Garner town,1,3725480,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Kings Mountain city,1,3735880,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Morrisville town,1,3744520,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,6,Zebulon town,1,3776220,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

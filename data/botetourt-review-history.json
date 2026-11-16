@@ -1,0 +1,23 @@
+{
+  "previous_row": {
+    "id": "va-botetourt-ram",
+    "state": "VA",
+    "jurisdiction": "Botetourt County",
+    "level": "county",
+    "geoid": "51023",
+    "topic": "use-permission",
+    "scope": "data-center-specific",
+    "status": "adopted",
+    "summary": "The Board added data centers as a permitted use in its Research and Advanced Manufacturing district. The county identifies Greenfield as the only RAM location. This zoning amendment does not issue a grading, building or air permit and does not govern incorporated Troutville.",
+    "locator": "November 26, 2024: Zoning Ordinance Amendment Approved (county timeline)",
+    "url": "https://www.botetourtva.gov/1021/Google-Data-Center",
+    "authority": "Botetourt County Board of Supervisors",
+    "evidence": "permit data centers in the Research and Advanced Manufacturing",
+    "district": "RAM"
+  },
+  "previous_pin": {
+    "sha256": "fcb991b4a8ce0ac7ca9274cb318e0c5bfda2f9e9410d4beda44275deda318e1b",
+    "record_sha256": "7c5567faf65fadd25393aff3cdc0b8bdce9c30abfcb45aed331c433c4c9a5e4a"
+  },
+  "reason": "Extend a truncated quotation through the end of the cited clause and identify Greenfield in the summary. Same source and ordinance."
+}

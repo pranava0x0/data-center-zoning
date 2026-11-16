@@ -1,0 +1,128 @@
+{
+  "https://data.cityofchicago.org/api/views/ydr8-5enu": {
+    "sha256": "eaced1e358ba584b3b6dd463d7b2c1416a34624b01a5c3a3ed6041580d84989d",
+    "bytes": 49906,
+    "retrieved": "2026-11-16T05:22:08+00:00",
+    "resolved": "https://data.cityofchicago.org/api/views/ydr8-5enu"
+  },
+  "https://data.cityofchicago.org/resource/ydr8-5enu.json?%24where=upper%28work_description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28work_description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATACENTER%25%27+OR+upper%28work_description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "6e4b6ceccf5882eae0691ced61c13fc1859f300c1e8ede1285216a718431ed56",
+    "bytes": 14,
+    "retrieved": "2026-11-16T05:22:20+00:00",
+    "resolved": "https://data.cityofchicago.org/resource/ydr8-5enu.json?%24where=upper%28work_description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28work_description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATACENTER%25%27+OR+upper%28work_description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.cityofchicago.org/resource/ydr8-5enu.json?%24select=permit_%2Cwork_description%2Cissue_date%2Cpermit_status%2Cpermit_type&%24where=upper%28work_description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28work_description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATACENTER%25%27+OR+upper%28work_description%29+like+%27%25SERVER+FARM%25%27&%24order=permit_+asc%2C%3Aid+asc&%24limit=500&%24offset=0": {
+    "sha256": "6c90ed82a3619716faf8819ded1d3454cda672d608e43bf88b563534701467f8",
+    "bytes": 69093,
+    "retrieved": "2026-11-16T05:22:32+00:00",
+    "resolved": "https://data.cityofchicago.org/resource/ydr8-5enu.json?%24select=permit_%2Cwork_description%2Cissue_date%2Cpermit_status%2Cpermit_type&%24where=upper%28work_description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28work_description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATACENTER%25%27+OR+upper%28work_description%29+like+%27%25SERVER+FARM%25%27&%24order=permit_+asc%2C%3Aid+asc&%24limit=500&%24offset=0"
+  },
+  "https://cos-data.seattle.gov/api/views/76t5-zqzr": {
+    "sha256": "ce1b384fb01908eca3d01be88927d33c72b875073eaebb745d85e71a09b58c2e",
+    "bytes": 74728,
+    "retrieved": "2026-11-16T05:22:39+00:00",
+    "resolved": "https://cos-data.seattle.gov/api/views/76t5-zqzr"
+  },
+  "https://cos-data.seattle.gov/resource/76t5-zqzr.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "c600ed49b4934251aacbd3e6f87e382a48e74c01f886568905f8fc40cc62c3d7",
+    "bytes": 13,
+    "retrieved": "2026-11-16T05:22:40+00:00",
+    "resolved": "https://cos-data.seattle.gov/resource/76t5-zqzr.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://cos-data.seattle.gov/resource/76t5-zqzr.json?%24select=permitnum%2Cdescription%2Cissueddate%2Cstatuscurrent%2Cpermittypedesc&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permitnum+asc%2C%3Aid+asc&%24limit=500&%24offset=0": {
+    "sha256": "5b49c62ea5171823c105822b00a1dd04327c87d603d82f820d924b6b8f701687",
+    "bytes": 8063,
+    "retrieved": "2026-11-16T05:22:41+00:00",
+    "resolved": "https://cos-data.seattle.gov/resource/76t5-zqzr.json?%24select=permitnum%2Cdescription%2Cissueddate%2Cstatuscurrent%2Cpermittypedesc&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permitnum+asc%2C%3Aid+asc&%24limit=500&%24offset=0"
+  },
+  "https://data.montgomerycountymd.gov/api/views/qxie-8qnp": {
+    "sha256": "2b802a0d830f93e24272ecbbabbd9f088495b66e150502d721be44375eeaf5b9",
+    "bytes": 33192,
+    "retrieved": "2026-11-16T05:22:42+00:00",
+    "resolved": "https://data.montgomerycountymd.gov/api/views/qxie-8qnp"
+  },
+  "https://data.montgomerycountymd.gov/resource/qxie-8qnp.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "6db1e17c66d5dd0cb11da59624d338b9a5fea249d3dc03075f2cdbb20318cdb5",
+    "bytes": 13,
+    "retrieved": "2026-11-16T05:22:44+00:00",
+    "resolved": "https://data.montgomerycountymd.gov/resource/qxie-8qnp.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.montgomerycountymd.gov/resource/qxie-8qnp.json?%24select=permitno%2Cdescription%2Cissueddate%2Cstatus%2Cworktype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permitno+asc%2C%3Aid+asc&%24limit=500&%24offset=0": {
+    "sha256": "df120d0d4e419bd1645b9d91ebad1a9a63c5b7d37cc6d5495f5d8ab750bc8906",
+    "bytes": 3301,
+    "retrieved": "2026-11-16T05:22:45+00:00",
+    "resolved": "https://data.montgomerycountymd.gov/resource/qxie-8qnp.json?%24select=permitno%2Cdescription%2Cissueddate%2Cstatus%2Cworktype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permitno+asc%2C%3Aid+asc&%24limit=500&%24offset=0"
+  },
+  "https://data.cambridgema.gov/api/views/qu2z-8suj": {
+    "sha256": "0be0c159f99abaaa3f920d2f39c9bf692535328401457fa4cf6e4d63d448f7eb",
+    "bytes": 173365,
+    "retrieved": "2026-11-16T05:22:45+00:00",
+    "resolved": "https://data.cambridgema.gov/api/views/qu2z-8suj"
+  },
+  "https://data.cambridgema.gov/resource/qu2z-8suj.json?%24where=upper%28detailed_description_of_work%29+like+%27%25DATA+CENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATA-CENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATACENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T05:22:46+00:00",
+    "resolved": "https://data.cambridgema.gov/resource/qu2z-8suj.json?%24where=upper%28detailed_description_of_work%29+like+%27%25DATA+CENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATA-CENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATACENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.cambridgema.gov/api/views/9qm7-wbdc": {
+    "sha256": "4294b97ba08a68ac7fd6a4da61fa150cea1e80b43c606f9aa5750160b4834de0",
+    "bytes": 139733,
+    "retrieved": "2026-11-16T05:22:47+00:00",
+    "resolved": "https://data.cambridgema.gov/api/views/9qm7-wbdc"
+  },
+  "https://data.cambridgema.gov/resource/9qm7-wbdc.json?%24where=upper%28description_of_work%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description_of_work%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description_of_work%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description_of_work%29+like+%27%25DATACENTER%25%27+OR+upper%28description_of_work%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T05:22:48+00:00",
+    "resolved": "https://data.cambridgema.gov/resource/9qm7-wbdc.json?%24where=upper%28description_of_work%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description_of_work%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description_of_work%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description_of_work%29+like+%27%25DATACENTER%25%27+OR+upper%28description_of_work%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.framinghamma.gov/api/views/2vzw-yean": {
+    "sha256": "4db5b349d819182b5eced73c6439ea7a44be93f464a0157a1d033b77b31f5c43",
+    "bytes": 19823,
+    "retrieved": "2026-11-16T05:22:49+00:00",
+    "resolved": "https://data.framinghamma.gov/api/views/2vzw-yean"
+  },
+  "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "4c208c68ccaac52922d3769be2750a452c3c6862646220687018ea11f1357a6b",
+    "bytes": 12,
+    "retrieved": "2026-11-16T05:22:50+00:00",
+    "resolved": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.framinghamma.gov/resource/2vzw-yean.json?%24select=permit%2Cdescription%2Capplied%2Ctype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permit+asc%2C%3Aid+asc&%24limit=500&%24offset=0": {
+    "sha256": "befc344206346f8b3644acbd891c099ffff6ae63b226d79b144fae975d21a387",
+    "bytes": 769,
+    "retrieved": "2026-11-16T05:22:56+00:00",
+    "resolved": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24select=permit%2Cdescription%2Capplied%2Ctype&%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24order=permit+asc%2C%3Aid+asc&%24limit=500&%24offset=0"
+  },
+  "https://data.nola.gov/api/views/nbcf-m6c2": {
+    "sha256": "b3ba4c9005560f9dbcfb82e91c9114c50dd62bcf90af4a2f5943173d3bb6d6ee",
+    "bytes": 32544,
+    "retrieved": "2026-11-16T05:23:00+00:00",
+    "resolved": "https://data.nola.gov/api/views/nbcf-m6c2"
+  },
+  "https://data.nola.gov/resource/nbcf-m6c2.json?%24where=upper%28descr%29+like+%27%25DATA+CENTER%25%27+OR+upper%28descr%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28descr%29+like+%27%25DATA-CENTER%25%27+OR+upper%28descr%29+like+%27%25DATACENTER%25%27+OR+upper%28descr%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "3ab8834fb12e1fe27faa7685163dc93eb4e7a4da93d163848b19c1e372004fa7",
+    "bytes": 12,
+    "retrieved": "2026-11-16T05:23:02+00:00",
+    "resolved": "https://data.nola.gov/resource/nbcf-m6c2.json?%24where=upper%28descr%29+like+%27%25DATA+CENTER%25%27+OR+upper%28descr%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28descr%29+like+%27%25DATA-CENTER%25%27+OR+upper%28descr%29+like+%27%25DATACENTER%25%27+OR+upper%28descr%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.brla.gov/api/views/7fq7-8j7r": {
+    "sha256": "4b9bc612e15cbf3e8399405c6ddf6f85751b846a706a56f1f8bbf6170ea8d35d",
+    "bytes": 54494,
+    "retrieved": "2026-11-16T05:23:06+00:00",
+    "resolved": "https://data.brla.gov/api/views/7fq7-8j7r"
+  },
+  "https://data.brla.gov/resource/7fq7-8j7r.json?%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n": {
+    "sha256": "5bf5a0a2ad9c35345e97c088b901aa7b81e0d7226302b79f6da2b79c4868ef80",
+    "bytes": 12,
+    "retrieved": "2026-11-16T05:23:07+00:00",
+    "resolved": "https://data.brla.gov/resource/7fq7-8j7r.json?%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n"
+  },
+  "https://data.brla.gov/resource/7fq7-8j7r.json?%24select=permitnumber%2Cprojectdescription%2Cissueddate%2Cdesignation&%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24order=permitnumber+asc%2C%3Aid+asc&%24limit=500&%24offset=0": {
+    "sha256": "463d48900ad79609dd65a49265d492988b8fccd73f65eb082982716dec4ea62c",
+    "bytes": 1422,
+    "retrieved": "2026-11-16T05:23:11+00:00",
+    "resolved": "https://data.brla.gov/resource/7fq7-8j7r.json?%24select=permitnumber%2Cprojectdescription%2Cissueddate%2Cdesignation&%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24order=permitnumber+asc%2C%3Aid+asc&%24limit=500&%24offset=0"
+  }
+}

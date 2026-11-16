@@ -1,0 +1,67 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2721%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 6,
+  "counties": {
+    "Jefferson County": 2,
+    "Boone County": 1,
+    "Floyd County": 1,
+    "Hopkins County": 1,
+    "McCracken County": 1
+  },
+  "places": {
+    "Florence city": 1,
+    "Louisville city": 1,
+    "Louisville/Jefferson County metro government (balance)": 1,
+    "Madisonville city": 1,
+    "Outside incorporated places": 1,
+    "Paducah city": 1
+  },
+  "points": [
+    {
+      "county": "Boone County",
+      "place": "Florence city",
+      "name": null,
+      "operator": "CyrusOne",
+      "type": "building"
+    },
+    {
+      "county": "Jefferson County",
+      "place": "Louisville/Jefferson County metro government (balance)",
+      "name": "Flexential Louisville - East",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Jefferson County",
+      "place": "Louisville city",
+      "name": "Flexential Louisville - Downtown",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Floyd County",
+      "place": "Outside incorporated places",
+      "name": "East Kentucky Network Datacenter",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Hopkins County",
+      "place": "Madisonville city",
+      "name": "Dynamics Mining",
+      "operator": null,
+      "type": "campus"
+    },
+    {
+      "county": "McCracken County",
+      "place": "Paducah city",
+      "name": "Riot Kentucky",
+      "operator": null,
+      "type": "campus"
+    }
+  ]
+}

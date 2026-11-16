@@ -1,0 +1,38 @@
+{
+  "ky_signed": {
+    "url": "https://louisville.legistar1.com/model/attachments/65594097-2f6f-425b-a94b-113f69b0ac37.pdf",
+    "error": "robots disallows this URL"
+  },
+  "ky_text": {
+    "url": "https://louisville.legistar1.com/model/attachments/ac513ccc-189c-4df4-97f3-bfefd1372e1d.pdf",
+    "error": "robots disallows this URL"
+  },
+  "ks_expiry": {
+    "url": "https://www.wichita.gov/datacenters",
+    "error": "robots preflight HTTP 403"
+  },
+  "ks_olathe": {
+    "url": "https://www.olatheks.gov/home/showpublisheddocument/19178/638338224808700000",
+    "error": "robots preflight HTTP 403"
+  },
+  "okc_action": {
+    "url": "https://www.okc.gov/News-articles/Oklahoma-City-Council-extends-moratorium-on-new-data-centers",
+    "error": "robots preflight HTTP 403"
+  },
+  "ky_council": {
+    "url": "https://louisvilleky.gov/news/metro-council-meeting-highlights-thursday-august-13",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "ky_forthcoming": {
+    "url": "https://louisvilleky.gov/news/planning-and-zoning-committee-announces-schedule-discuss-data-center-recommendations",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "ks_edgerton": {
+    "url": "https://edgertonks.org/data-centers/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  "cheyenne_final": {
+    "url": "https://cdn.prod.website-files.com/625854e97e951a806fc03c22/6aa00f569dd8978b17981eb9_COMPLETE%20Resolution%20Packet%20FOR%20PRINT%20ADOBE.pdf",
+    "error": "robots preflight HTTP 403"
+  }
+}

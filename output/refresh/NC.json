@@ -1,0 +1,169 @@
+{
+  "jurisdiction": "NC",
+  "started_utc": "2026-11-16T18:29:06+00:00",
+  "steps": [
+    {
+      "step": "history_nc.py --refresh",
+      "rc": 0,
+      "seconds": 18.3,
+      "tail": ""
+    },
+    {
+      "step": "national_water.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "federal_aviation.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "federal_corps.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    },
+    {
+      "step": "federal_consultations.py",
+      "skipped": "national collector; pass --include-national (refreshes every state it covers)"
+    }
+  ],
+  "other_jurisdictions_changed": [],
+  "check": {
+    "jurisdiction": "NC",
+    "ok": true,
+    "rows": 148,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "history_nc.py",
+        "seconds": 0.3,
+        "ok": true
+      },
+      {
+        "script": "national_water.py",
+        "seconds": 0.2,
+        "ok": true
+      },
+      {
+        "script": "federal_aviation.py",
+        "seconds": 24.7,
+        "ok": true
+      },
+      {
+        "script": "federal_corps.py",
+        "seconds": 0.4,
+        "ok": true
+      },
+      {
+        "script": "federal_consultations.py",
+        "seconds": 0.1,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "history_corps_nc.json": "51d0a9f54579418ed3730661934b05dabf39c6258d2eb0aadddbd0b037a3200c",
+      "history_faa_nc.json": "fd419040afbbf9d28ec87a4d9c010cbdcd48afc39485c80d3dc3f7d2ae9a0ff6",
+      "history_fcon_nc.json": "97e85e26ccfd2451e5de8bf5c6a81729cb97633ba9e671b406008ab341725c37",
+      "history_nc.json": "ff640df8bf88bcd3f5996bdff0bcea345a5c5d718671d3abd893b9c6fae7414f",
+      "history_wtr_nc.json": "65fbf4bdc0d7b692ce234dc2080b3330d183606161650e64ada74af29e8b6b27"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      "nc-air-08759T29",
+      "nc-air-09733T11",
+      "nc-air-10040R07",
+      "nc-air-10824R01",
+      "nc-air-10849R00",
+      "nc-air-10850R00",
+      "nc-air-10894R00",
+      "nc-durham-0710139",
+      "nc-durham-0810169",
+      "nc-durham-0810766",
+      "nc-durham-0812332",
+      "nc-durham-0812762",
+      "nc-durham-0812763",
+      "nc-durham-0812975",
+      "nc-durham-0910250",
+      "nc-durham-0910264",
+      "nc-durham-0910278",
+      "nc-durham-0912299",
+      "nc-durham-0912614",
+      "nc-durham-0912866",
+      "nc-durham-1010012",
+      "nc-durham-1010156",
+      "nc-durham-1010288",
+      "nc-durham-1010297",
+      "nc-durham-1010892",
+      "nc-durham-1011946",
+      "nc-durham-1012016",
+      "nc-durham-1012391",
+      "nc-durham-1012457",
+      "nc-durham-1012497",
+      "nc-durham-1013494",
+      "nc-durham-1110784",
+      "nc-durham-1111212",
+      "nc-durham-1111617",
+      "nc-durham-1210735",
+      "nc-durham-1210771",
+      "nc-durham-1211185",
+      "nc-durham-1212808",
+      "nc-durham-1213081",
+      "nc-durham-1213190",
+      "nc-durham-1213470",
+      "nc-durham-1213557",
+      "nc-durham-1310342",
+      "nc-durham-1310888",
+      "nc-durham-1310964",
+      "nc-durham-1311882",
+      "nc-durham-1312248",
+      "nc-durham-1312796",
+      "nc-durham-1312797",
+      "nc-durham-1312798",
+      "nc-durham-1312869",
+      "nc-durham-1313043",
+      "nc-durham-1313059",
+      "nc-durham-1313245",
+      "nc-durham-1313844",
+      "nc-durham-1410205",
+      "nc-durham-1410700",
+      "nc-durham-1410701",
+      "nc-durham-1411174",
+      "nc-durham-1411436",
+      "nc-durham-1413680",
+      "nc-durham-15104585",
+      "nc-durham-1512463",
+      "nc-durham-1512546",
+      "nc-durham-1512624",
+      "nc-durham-1513446",
+      "nc-durham-1513570",
+      "nc-durham-1513615",
+      "nc-durham-16100599",
+      "nc-durham-16100898",
+      "nc-durham-16101471",
+      "nc-durham-16102533",
+      "nc-durham-16102668",
+      "nc-durham-17103488",
+      "nc-durham-17104237",
+      "nc-durham-18100106",
+      "nc-durham-18101636",
+      "nc-durham-19103918",
+      "nc-durham-19104010",
+      "nc-durham-19104679",
+      "nc-durham-19104745",
+      "nc-durham-20103495",
+      "nc-durham-23100394",
+      "nc-durham-24100459",
+      "nc-durham-24101629",
+      "nc-durham-25103726",
+      "nc-durham-26100371",
+      "nc-durham-26100583",
+      "nc-durham-26102803",
+      "nc-durham-26103239",
+      "nc-hearing-08759T29",
+      "nc-hearing-10894R00"
+    ]
+  },
+  "finished_utc": "2026-11-16T18:30:15+00:00"
+}

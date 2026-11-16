@@ -1,0 +1,79 @@
+{
+  "definitions": "Frame = project Census township features. Without directory link includes omitted townships, bare listings and unresolved same-name GEOIDs, not a negative government-site or ordinance finding. Supplement excludes GEOIDs already present in Census URL roster. Endpoint or trustee site listing is a discovery lead; county-hosted township pages are specifically labelled. Non-government association, history-site, municipality and social links are held. Exact anchor links, not inferred domain roots.",
+  "source_evidence": {
+    "cache": "cache/screen_rosters",
+    "hashes": {
+      "in-beaver66.html": "37f9b44815924b0ae9a117a4de8a0d8182db68e212566c51fe2be0ab35c10075",
+      "in-black65.html": "f4f8347418fa0ee40566c76c44ee98658b37a9beac840caa1f46259a456dec72",
+      "in-center12.html": "b959cac25c5712f277488aa031de6518d41c046e05af445229a879dc06c6f02f",
+      "in-center49.html": "a61f4118931bca74725c647a9ed6b0984a27232f1524d30711a9dad373034eb8",
+      "in-decatur49.html": "284cdcf406dfda6d2e4c6e8fc32136c3639c45ee783ec484aff6fa40277fd553",
+      "in-delaware29.html": "e1ca1405b7549a93a090a11bb4b49e50e9378b52e6353b2b6a63edd84b9ebef8",
+      "in-directory.html": "d111622f47052a20d907e0aa862818ec4ed2c3220a6ad6ab37b7ffe605713e27",
+      "in-ervin34.html": "2406321683bb4da681eb0eabdf1926849274a385d98a59b0faef0c6d32e547ff",
+      "in-fallcreek33.html": "5525fc0977e101c49db64a1867d1a79a5cd3f18e0b89966af1b97ae205ce076f",
+      "in-franklin69.html": "f1cc5dc88a6d6b811cc8259d1ddd57ab78ed31f919fcd545a084424b1229d15c",
+      "in-fun-franklin.html": "40f09a56b213c72ce995ce35a72c76060f6772306f232a94e123df384f4a47a8",
+      "in-fun-needham.html": "0377a7b074c434b48369cc9b28076d430eff634a6fd434774423b488e8ff6327",
+      "in-fun-union.html": "c0a70e22d59a97e5c0c8a0ffad04837f09c93f8aca28a2182685c9f829aa07fb",
+      "in-fun.html": "ca171423323a165dc3b9cff1b36803d24acbd7bc86d0ad2ac80dfc071729f539",
+      "in-henry33.html": "a7f96d36690a8a117c3b804406b8383068216a65ec69c5f9424ade5789ed4cec",
+      "in-jackson88.html": "f835bae6eac1e14ef30196173eb5a12f52bcc4a2d8df0959d4d39b3672770883",
+      "in-jackson89.html": "676f2400af749333fb5083ed380272834a15f925cac780beecb8f7f1fc7e5445",
+      "in-jefferson2.html": "f753c71cb1459ee934a689f38a0505a186c8b965333dc4689cdd675f13e0d39a",
+      "in-jefferson89.html": "80371f70049409e8b297f8cd8d6be040ea33488a7d2db1cf176fb98f1aec88df",
+      "in-keyser17.html": "7e928cbfe523958d14d10bfc5431967e488611c3a93a8ed19472b71e854dc496",
+      "in-liberty71.html": "c7bf34abc0119cb80ca4c3ef8248feb1986f26a8270779c58fffc7690fda5549",
+      "in-liberty91.html": "8b821af19f532b23b68a6669cc0b22d29de5487aadc54f32b65a26e31c10c476",
+      "in-luce74.html": "4c41aa422e9a53f4b95aef855859ea2cd50e2b480bc0b87f19e946be2a6c0b5b",
+      "in-madison2.html": "6fa147e9e924366ab37e8874e3338f33f370430748208ebff9101d1ad8bc0934",
+      "in-marion16.html": "9d25eed6707da3a3967eac1672219e295cb4c280d1767173a094b816abdd9de8",
+      "in-mill27.html": "0149fc2881009ca93af4ec534fa26ca2093b85a336d1fb0a5fb29d25aaf99da2",
+      "in-olive71.html": "14232703c48a77abab8dc95d07ffa7d540e0bb2d2dd9702eccc484f60ee2615a",
+      "in-perry53.html": "c15aa455abe7837e8176971494c41e9f096f1ee228a26772ef14a86dfd98fdf7",
+      "in-perry89.html": "5020361777c4a4bd7dfb4f56de0bd8f93257390b64a20fb4b34b4d1dd67c66e5",
+      "in-richland48.html": "978ccc7c15f27e67f765c057be42033821d10060b08a62ab5119defe37e672a3",
+      "in-rockcreek08.html": "13a101d64392e9c40de2474e46d4354b0e78db35fe95394e87d81fc91673f1b9",
+      "in-tippecanoe50.html": "6eebb4db82cc383cd26c1187dfe9fe19a6a325a53234788226f1e4fdba725dad",
+      "in-union48.html": "9fdf878238362d58470ab86b995a2555fdfe1809d09ed4bd5391780aaa609388",
+      "in-union71.html": "707b91ee6387917f7e977857714aa88b3aa3c70367a011d4a6ed74cea595d52b",
+      "in-vanburen27.html": "91958c274e5cc48e7313c72b816bc06ec95ba293ef4f11bd6b37e5c135209bbc",
+      "in-veale14.html": "2531c2a49adbb79549867a0ca08e28b69ffb7c54e7e0e58754f973b1f43272e8",
+      "in-walnut50.html": "bac81f73ec509cf42376094f9325b2dd9f0d324a4c87bfe42bde2058d00cfcc3",
+      "in-waltz85.html": "89c683e6e80971735267c30c3d3db988231f67cf325af598c531d903a78ae817",
+      "in-washington88.html": "5ae22d9a4730d6b6ca6fe841446c5e03e84316004afd6bdf40805915815d3f73",
+      "in-west50.html": "34b25c76fa18dd067b11e29bcc1eba6beb97ffd11a9e965064f6bf10baf42502",
+      "oh-anchor-targets.json": "4cdcc551dd97b7ddef99a36f4f92c48133f72935bb385b2323673c4ebd615ff5",
+      "oh-directory.json": "80f9bfd7cf7b5bd0bff4ab321d2fdca7bd5f2f14f480af1efb2bd857da0d8cf6"
+    },
+    "scope": "Ohio saved county headings, bare labels and linked source hosts for the complete printed list; exact click targets saved for supplemental candidates, not already-covered Census entries. Indiana HTML includes the state directory, listed trustee pages and the three individual FUN pages. These seeds are not legal citations."
+  },
+  "source_pages": {
+    "IN": "https://www.in.gov/townships/",
+    "OH": "https://www.ohiotownships.org/ohio-townships-map"
+  },
+  "stats": {
+    "IN": {
+      "frame": 1004,
+      "frame_already_in_census_roster": 68,
+      "frame_in_directory": 38,
+      "frame_with_directory_link": 38,
+      "frame_without_directory_link": 966,
+      "new_qualified_links": 34,
+      "no_link_and_no_census_site": 902
+    },
+    "OH": {
+      "directory_rows_ambiguous_or_unmatched": 1,
+      "frame": 1313,
+      "frame_already_in_census_roster": 272,
+      "frame_in_directory": 1307,
+      "frame_with_directory_link": 658,
+      "frame_without_directory_link": 655,
+      "held_county_root_not_township_page": 1,
+      "held_non_government_or_social": 73,
+      "held_shared_target_ambiguous": 1,
+      "new_qualified_links": 329,
+      "no_link_and_no_census_site": 637
+    }
+  }
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "westmetro-hayward-spr23-0036",
+    "state": "CA",
+    "jurisdiction": "Hayward",
+    "dataset": "Municipal land-use case records",
+    "record_no": "SPR-23-0036",
+    "project": "STACK Data Center, 26062 Eden Landing Road",
+    "kind": "Major site plan review and administrative use permit",
+    "status": "Approved",
+    "date": "2025-05-22",
+    "date_role": "Planning Commission vote",
+    "url": "https://hayward.legistar.com/View.ashx?GUID=6A816E4B-3966-4A72-AB46-DD485402E725&ID=1306703&M=M",
+    "locator": "Action Minutes, public hearing PH 25-022, p. 1",
+    "details": {
+      "action_scope": "Six ayes; approves the joint application. This is not a building permit.",
+      "related_url": "https://hayward.legistar.com/LegislationDetail.aspx?From=RSS&FullText=1&GUID=4C37C260-C950-440F-B68C-826967AFB56C&ID=7400268",
+      "source_sha256": "d3d25bd7a2724177c9c2c4868973c1f6ed0eccc1857501f685f4b1d5580fbbf6",
+      "evidence": "approve the proposed Major Site Plan Review and Administrative Use Permit",
+      "source_page": 1
+    }
+  },
+  {
+    "id": "westmetro-holger-env-appeal",
+    "state": "CA",
+    "jurisdiction": "San Jose",
+    "dataset": "Municipal land-use case records",
+    "record_no": "ER25-243 / SP25-029",
+    "project": "300 Holger Way data center environmental appeal",
+    "kind": "Environmental appeal filing",
+    "status": "Received",
+    "date": "2026-07-10",
+    "date_role": "Appeal received",
+    "url": "https://sanjose.legistar.com/View.ashx?M=F&ID=16056352&GUID=FBC5B377-0586-4942-ADF2-E1751F5B1119",
+    "locator": "Planning Director memorandum, Environmental Appeals, p. 4",
+    "details": {
+      "action_scope": "Challenge to the environmental determination, not a new issuance or an appeal of the special use permit. Prior July 8 permit decision already represented in San José planning register 2159664.",
+      "source_sha256": "6820886c627578b333626e76cf66d85b0f3a6bef8c242899ae28e9f361b24eba",
+      "evidence": "The appeal was received on July 10, 2026",
+      "source_page": 4
+    }
+  },
+  {
+    "id": "westmetro-sacramento-prime",
+    "state": "CA",
+    "jurisdiction": "Sacramento County",
+    "dataset": "Municipal land-use case records",
+    "record_no": "SCH 1996122010 / NOD 10",
+    "project": "Prime Data Centers expansion, 2407 Ak Street, McClellan Park",
+    "kind": "Special development permit and design review",
+    "status": "Approved",
+    "date": "2026-02-05",
+    "date_role": "County project approval",
+    "url": "https://ceqanet.lci.ca.gov/1996122010/10",
+    "locator": "County-filed CEQAnet NOD, project description and Approving Agency",
+    "details": {
+      "county": "Sacramento County",
+      "action_scope": "Approval of project including setback relief and design review, identified by state clearinghouse number and filing version. Local permit number not given.",
+      "source_sha256": "179c89ddacf0b0bcb1095d4d52b8e79e72bb803a8ccbc260c09e1f9c7f82cc64",
+      "evidence": "County of Sacramento Approving Agency Role Lead Agency Approved On 2/5/2026"
+    }
+  }
+]

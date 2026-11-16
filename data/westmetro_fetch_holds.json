@@ -1,0 +1,54 @@
+{
+  "ca_sc_code": {
+    "url": "https://www.santaclaraca.gov/home/showpublisheddocument/85006/638623530602619763",
+    "error": "robots preflight HTTP 403"
+  },
+  "ca_sc_publish": {
+    "url": "https://www.santaclaraca.gov/our-city/departments-a-f/community-development/planning-division/zoning",
+    "error": "robots preflight HTTP 403"
+  },
+  "ca_sj_manual": {
+    "url": "https://www.sjeconomy.com/how-we-help/programs-and-services/powering-san-jos-energy-infrastructure-for-data-centers",
+    "error": "robots preflight HTTP 403"
+  },
+  "ca_sj_projects": {
+    "url": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "error": "robots preflight HTTP 403"
+  },
+  "ca_fremont_manual": {
+    "url": "https://www.fremont.gov/government/departments/community-development/planning-building-permit-services/data-centers",
+    "error": "robots preflight HTTP 403"
+  },
+  "or_hil_code": {
+    "url": "https://hillsboro-oregon.civicweb.net/document/264817/",
+    "error": "robots disallows this URL"
+  },
+  "or_hil_review_2024": {
+    "url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/31197/638647612663370000",
+    "error": "robots preflight HTTP 403"
+  },
+  "or_hil_review_2023": {
+    "url": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/31221/638647629167830000",
+    "error": "robots preflight HTTP 403"
+  },
+  "or_hil_moratorium": {
+    "url": "https://www.hillsboro-oregon.gov/Home/Components/News/News/17551/",
+    "error": "robots preflight HTTP 403"
+  },
+  "or_hil_projects": {
+    "url": "https://hillsboro-oregon.civicweb.net/document/260495/Handouts.pdf?handle=CD1D771D248940AC8DDA9686CF1E6A7D",
+    "error": "robots disallows this URL"
+  },
+  "or_umatilla_22": {
+    "url": "https://www.umatilla.gov/sites/default/files/fileattachments/planning/meeting/7536/january_24_2022_planning_commission_packet.pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "or_boardman_decision": {
+    "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/boardmanor-meet-51eb5a08bc0f4218a1eeb8b8c76eb90f/ITEM-Attachment-001-9ee6d76af3754084a0249b0cfc3f22ef.pdf",
+    "error": "robots preflight HTTP 400"
+  },
+  "or_umatilla_cu": {
+    "url": "https://yourwater.oregon.gov/docs/prletters/00914-pr-2024-16-ca.pdf",
+    "error": "robots disallows this URL"
+  }
+}

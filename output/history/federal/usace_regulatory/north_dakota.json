@@ -1,0 +1,38 @@
+[
+  {
+    "id": "federal-corps-77337e88c575f29b63775f9b",
+    "state": "ND",
+    "jurisdiction": "US Army Corps of Engineers — Omaha",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "NWO-2021-01983-BIS",
+    "project": "Applied Blockchain, Inc.  APLD-JTND Phase II, LLC. Next-Generation Datacenter - Jamestown Phase II, SE1/4 of 17, T141N, R63W, Stutsman County",
+    "kind": "Approved jurisdictional determination",
+    "status": "Approved jurisdictional determination",
+    "date": "2026-07-15",
+    "date_role": "jurisdictional determination date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWO-2021-01983-BIS%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWO-2021-01983-BIS%22&max=200&start=0&sa=true",
+    "locator": "Army file NWO-2021-01983-BIS; ORM jds action; 2026-07-15",
+    "details": {
+      "source_sha256": "fd72c4951883bbdec19c5e736a30944cc11865eb0c25e35d12c3854b5098c2ee",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "NWO-2021-01983-BIS",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "NWO-2021-01983-BIS",
+      "da_number": "NWO-2021-01983-BIS",
+      "district_code": "NWO",
+      "orm_view": "jds",
+      "census_county": "Stutsman County",
+      "census_county_geoid": "38093",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-98.68107%2C47.02573&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "4a0261aae90303cf073f1188cd06404a1378e7fa4f80655d4c60229714be1635",
+      "longitude": -98.68107,
+      "latitude": 47.02573,
+      "document_url": "https://publibrary.sec.usace.army.mil/api/download?id=dd461f7f-a950-4797-df2d-638fac97fd3e&filename=NWO-2021-1983-ND.pdf&token=&preview=true",
+      "document_sha256": "3d624529e10cc0e78f3da2e2998393fca83f111a191073e60bdcb5150fec8099"
+    }
+  }
+]

@@ -1,0 +1,2263 @@
+{
+  "storage": {
+    "csv_bytes": 17209644,
+    "viewer_bytes": 8899755,
+    "detail_bytes": 6358725,
+    "archive_bytes": 3085122076,
+    "at_100000_similar_rows_MB": {
+      "csv": 118.9,
+      "viewer": 61.5
+    }
+  },
+  "as_of": "2026-11-15",
+  "rows": 14480,
+  "loudoun_rows": 2592,
+  "states": {
+    "WV": 13,
+    "IN": 480,
+    "NC": 148,
+    "VA": 3544,
+    "AZ": 509,
+    "TX": 962,
+    "AK": 65,
+    "UT": 108,
+    "AR": 29,
+    "IA": 4701,
+    "MO": 21,
+    "CO": 76,
+    "NV": 108,
+    "NE": 151,
+    "OH": 273,
+    "MI": 24,
+    "MA": 160,
+    "GA": 364,
+    "KY": 15,
+    "WI": 67,
+    "AL": 50,
+    "NH": 5,
+    "MT": 15,
+    "KS": 12,
+    "MS": 32,
+    "CA": 548,
+    "WY": 30,
+    "LA": 33,
+    "NY": 506,
+    "NJ": 47,
+    "OR": 260,
+    "PA": 142,
+    "NM": 40,
+    "FL": 51,
+    "IL": 403,
+    "TN": 57,
+    "SC": 38,
+    "SD": 9,
+    "MN": 51,
+    "OK": 54,
+    "WA": 91,
+    "ND": 18,
+    "PR": 33,
+    "DE": 3,
+    "MD": 65,
+    "CT": 8,
+    "ME": 1,
+    "ID": 11,
+    "DC": 18,
+    "GU": 9,
+    "VI": 1,
+    "AS": 1,
+    "VT": 8,
+    "HI": 9,
+    "RI": 3
+  },
+  "permit_status_counts": {
+    "AK": {
+      "historical": 6,
+      "unconfirmed": 3
+    },
+    "AL": {
+      "active": 1,
+      "unconfirmed": 21,
+      "historical": 7
+    },
+    "AR": {
+      "active": 2,
+      "historical": 1,
+      "unconfirmed": 1
+    },
+    "AS": {},
+    "AZ": {
+      "historical": 199,
+      "active": 20,
+      "unconfirmed": 117
+    },
+    "CA": {
+      "unconfirmed": 34,
+      "active": 34,
+      "historical": 206
+    },
+    "CO": {
+      "unconfirmed": 9,
+      "historical": 28,
+      "active": 2
+    },
+    "CT": {
+      "unconfirmed": 1
+    },
+    "DC": {
+      "historical": 9,
+      "unconfirmed": 9
+    },
+    "DE": {},
+    "FL": {
+      "active": 3,
+      "historical": 13,
+      "unconfirmed": 10
+    },
+    "GA": {
+      "unconfirmed": 83,
+      "active": 6,
+      "historical": 7
+    },
+    "GU": {
+      "active": 1,
+      "unconfirmed": 1,
+      "historical": 1
+    },
+    "HI": {
+      "unconfirmed": 2,
+      "historical": 3
+    },
+    "IA": {
+      "unconfirmed": 900,
+      "historical": 114
+    },
+    "ID": {
+      "unconfirmed": 1,
+      "active": 1,
+      "historical": 2
+    },
+    "IL": {
+      "active": 23,
+      "unconfirmed": 41,
+      "historical": 181
+    },
+    "IN": {
+      "active": 5,
+      "unconfirmed": 4,
+      "historical": 3
+    },
+    "KS": {
+      "historical": 1
+    },
+    "KY": {
+      "historical": 2
+    },
+    "LA": {
+      "unconfirmed": 8,
+      "active": 10,
+      "historical": 2
+    },
+    "MA": {
+      "active": 6,
+      "unconfirmed": 85,
+      "historical": 48
+    },
+    "MD": {
+      "unconfirmed": 13,
+      "historical": 11
+    },
+    "ME": {},
+    "MI": {
+      "unconfirmed": 4
+    },
+    "MN": {
+      "unconfirmed": 2,
+      "historical": 10
+    },
+    "MO": {
+      "historical": 3,
+      "active": 3
+    },
+    "MS": {
+      "unconfirmed": 3,
+      "active": 11,
+      "historical": 1
+    },
+    "MT": {
+      "historical": 4,
+      "unconfirmed": 1
+    },
+    "NC": {
+      "unconfirmed": 7,
+      "active": 13,
+      "historical": 101
+    },
+    "ND": {
+      "unconfirmed": 3
+    },
+    "NE": {
+      "unconfirmed": 18,
+      "historical": 11
+    },
+    "NH": {},
+    "NJ": {
+      "active": 6,
+      "unconfirmed": 8,
+      "historical": 1
+    },
+    "NM": {
+      "historical": 4,
+      "active": 3,
+      "unconfirmed": 4
+    },
+    "NV": {
+      "unconfirmed": 10,
+      "historical": 21
+    },
+    "NY": {
+      "unconfirmed": 144,
+      "historical": 11,
+      "active": 2
+    },
+    "OH": {
+      "active": 23,
+      "unconfirmed": 17,
+      "historical": 59
+    },
+    "OK": {
+      "unconfirmed": 24,
+      "historical": 1
+    },
+    "OR": {
+      "historical": 114,
+      "unconfirmed": 53,
+      "active": 1
+    },
+    "PA": {
+      "unconfirmed": 66
+    },
+    "PR": {
+      "unconfirmed": 11,
+      "historical": 1
+    },
+    "RI": {
+      "unconfirmed": 3
+    },
+    "SC": {
+      "unconfirmed": 6,
+      "active": 2,
+      "historical": 3
+    },
+    "SD": {
+      "unconfirmed": 1
+    },
+    "TN": {
+      "active": 3,
+      "historical": 28,
+      "unconfirmed": 3
+    },
+    "TX": {
+      "unconfirmed": 129,
+      "active": 32,
+      "historical": 495
+    },
+    "UT": {
+      "unconfirmed": 24,
+      "active": 1,
+      "historical": 5
+    },
+    "VA": {
+      "unconfirmed": 1611,
+      "historical": 141,
+      "active": 22
+    },
+    "VI": {},
+    "VT": {
+      "unconfirmed": 1,
+      "historical": 1
+    },
+    "WA": {
+      "unconfirmed": 12,
+      "active": 3,
+      "historical": 32
+    },
+    "WI": {
+      "active": 7
+    },
+    "WV": {},
+    "WY": {
+      "unconfirmed": 6,
+      "historical": 4
+    }
+  },
+  "sources": {
+    "air": {
+      "rows": 229,
+      "datasets": {
+        "Virginia DEQ issued data-center air permits": 206,
+        "Virginia Permit Transparency — DEQ air applications": 23
+      },
+      "dated": 229,
+      "earliest": "2000-11-22",
+      "latest": "2026-10-26"
+    },
+    "water": {
+      "rows": 447,
+      "datasets": {
+        "Virginia Permit Transparency — environmental applications": 18,
+        "VA DEQ — Stormwater Permits Daily": 376,
+        "VA DEQ — VWP SSWD": 5,
+        "VA DEQ — Virginia Water Protection (VWP) Non-Permit (NP)": 14,
+        "VA DEQ — Virginia Water Protection (VWP) Individual Permits (IP)": 11,
+        "VA DEQ — Virginia Water Protection (VWP) General Permits": 23
+      },
+      "dated": 399,
+      "earliest": "2014-07-25",
+      "latest": "2026-10-09"
+    },
+    "loudoun": {
+      "rows": 1933,
+      "datasets": {
+        "Loudoun issued permits": 1373,
+        "Loudoun land-use applications": 536,
+        "Loudoun submitted permits": 24
+      },
+      "dated": 1930,
+      "earliest": "2005-05-25",
+      "latest": "2026-11-12"
+    },
+    "building": {
+      "rows": 84,
+      "datasets": {
+        "Loudoun monthly building reports": 84
+      },
+      "dated": 84,
+      "earliest": "2015-10-15",
+      "latest": "2025-09-22"
+    },
+    "pwc": {
+      "rows": 96,
+      "datasets": {
+        "Prince William data-center building permits": 96
+      },
+      "dated": 59,
+      "earliest": "1986-06-04",
+      "latest": "2026-09-17"
+    },
+    "cases": {
+      "rows": 13,
+      "datasets": {
+        "County case files": 13
+      },
+      "dated": 6,
+      "earliest": "2022-02-08",
+      "latest": "2024-04-10"
+    },
+    "oh": {
+      "rows": 141,
+      "datasets": {
+        "Ohio EPA NPDES register": 52,
+        "Columbus building and trade permits": 69,
+        "New Albany zoning entitlements": 4,
+        "Columbus engineering filings": 10,
+        "Ohio EPA selected air and water permits": 2,
+        "Municipal planning decisions": 4
+      },
+      "dated": 129,
+      "earliest": "2018-04-25",
+      "latest": "2026-11-04"
+    },
+    "tx": {
+      "rows": 650,
+      "datasets": {
+        "Fort Worth development permits": 187,
+        "TDLR architectural barriers registrations": 25,
+        "Dallas building permits": 70,
+        "San Antonio issued building and trade permits": 33,
+        "Austin issued construction permits": 333,
+        "Abilene city site-plan register": 2
+      },
+      "dated": 648,
+      "earliest": "1985-05-13",
+      "latest": "2026-11-12"
+    },
+    "az": {
+      "rows": 408,
+      "datasets": {
+        "Mesa building permit register": 110,
+        "Phoenix permits": 71,
+        "ADEQ myDEQ construction stormwater": 107,
+        "Tucson commercial building permits": 3,
+        "Pima County dust enforcement": 1,
+        "Phoenix plan reviews": 17,
+        "Chandler city council zoning decisions": 1,
+        "Maricopa County air public notices": 1,
+        "ADEQ myDEQ industrial stormwater": 3,
+        "Tempe building safety permits": 8,
+        "Scottsdale permits at a verified data-center site": 7,
+        "ADEQ legacy construction stormwater": 6,
+        "Maricopa County air permit register": 55,
+        "Goodyear Citizen Access": 11,
+        "Chandler Citizen Access": 7
+      },
+      "dated": 335,
+      "earliest": "2008-09-03",
+      "latest": "2026-11-13"
+    },
+    "in": {
+      "rows": 458,
+      "datasets": {
+        "Indiana IDEM air decisions and notices": 11,
+        "Indiana DHS Project Activity": 440,
+        "Indiana IDEM Waterways decisions and notices": 2,
+        "City of Hobart Plan Commission minutes": 5
+      },
+      "dated": 458,
+      "earliest": "2007-11-09",
+      "latest": "2026-11-13"
+    },
+    "tn": {
+      "rows": 50,
+      "datasets": {
+        "EPA ICIS-NPDES permit versions": 19,
+        "Metro Nashville Codes Permit History": 28,
+        "Shelby County Health Department air permits": 1,
+        "Franklin Municipal Planning Commission site plans": 2
+      },
+      "dated": 44,
+      "earliest": "2009-12-21",
+      "latest": "2026-10-01"
+    },
+    "nv": {
+      "rows": 42,
+      "datasets": {
+        "NDEP air applications": 3,
+        "Clark County air participation notices": 1,
+        "Clark County inspection sites": 3,
+        "NDEP preliminary air determinations": 1,
+        "Clark County Title V renewal applications": 1,
+        "Henderson open development permits": 15,
+        "Northern Nevada Public Health air notices": 1,
+        "Clark County active dust-control snapshot": 2,
+        "Clark County Part 70 operating permits": 2,
+        "Washoe County planning decisions": 1,
+        "Washoe County project case files": 3,
+        "Washoe County special use permits": 2,
+        "EPA ICIS-NPDES permit versions": 7
+      },
+      "dated": 42,
+      "earliest": "2011-07-20",
+      "latest": "2026-11-06"
+    },
+    "ms": {
+      "rows": 30,
+      "datasets": {
+        "Mississippi DEQ enSearch facility permits": 16,
+        "Southaven Board of Aldermen planning decisions": 2,
+        "EPA ICIS-NPDES permit versions": 12
+      },
+      "dated": 30,
+      "earliest": "2007-09-24",
+      "latest": "2026-10-26"
+    },
+    "la": {
+      "rows": 24,
+      "datasets": {
+        "Louisiana DEQ quarterly LPDES actions": 15,
+        "Louisiana DEQ air public notices": 1,
+        "Louisiana DEQ quarterly air actions": 3,
+        "Bossier Parish Police Jury land decisions": 2,
+        "Shreveport land use decisions": 2,
+        "USACE Vicksburg District regulatory notices": 1
+      },
+      "dated": 24,
+      "earliest": "2024-12-09",
+      "latest": "2026-08-20"
+    },
+    "nm": {
+      "rows": 33,
+      "datasets": {
+        "New Mexico Environment Department air proceedings": 12,
+        "Albuquerque air quality notifications": 10,
+        "EPA New Mexico construction stormwater coverage": 7,
+        "Albuquerque issued building permits": 4
+      },
+      "dated": 33,
+      "earliest": "2014-12-01",
+      "latest": "2026-07-29"
+    },
+    "ca": {
+      "rows": 404,
+      "datasets": {
+        "CEC small power plant exemption docket": 32,
+        "Los Angeles issued building and trade permits": 143,
+        "San José building permit registers": 55,
+        "San José C.3 stormwater project tracking": 12,
+        "San José planning register": 57,
+        "Hayward public land-use proceedings": 6,
+        "Santa Clara public land-use proceedings": 46,
+        "San Francisco building permits": 53
+      },
+      "dated": 404,
+      "earliest": "1999-04-29",
+      "latest": "2026-10-26"
+    },
+    "ga": {
+      "rows": 109,
+      "datasets": {
+        "City of Alpharetta commercial permits": 2,
+        "Georgia EPD issued air permits": 70,
+        "Douglas County Planning and Zoning agendas": 6,
+        "City of South Fulton zoning information meeting": 1,
+        "Atlanta Regional Commission DRI reviews": 30
+      },
+      "dated": 109,
+      "earliest": "1999-06-21",
+      "latest": "2026-10-23"
+    },
+    "ny": {
+      "rows": 504,
+      "datasets": {
+        "NYC DOB NOW approved building permits": 47,
+        "NYC DOB building job filings": 196,
+        "NYC DOB electrical job register": 36,
+        "Somerset Planning Board project decisions": 3,
+        "Niagara Falls project decisions": 3,
+        "New York DEC air permit modifications": 2,
+        "New York DEC issued state facility air permits": 2,
+        "NYC BIS permit issuance": 215
+      },
+      "dated": 504,
+      "earliest": "1990-08-17",
+      "latest": "2026-10-22"
+    },
+    "portal_il": {
+      "rows": 216,
+      "datasets": {
+        "Chicago building permits": 216
+      },
+      "dated": 216,
+      "earliest": "2006-06-01",
+      "latest": "2026-09-16"
+    },
+    "case_fl": {
+      "rows": 5,
+      "datasets": {
+        "Palm Beach County Project Tango decisions": 5
+      },
+      "dated": 5,
+      "earliest": "2025-12-04",
+      "latest": "2026-10-07"
+    },
+    "pa": {
+      "rows": 125,
+      "datasets": {
+        "Pennsylvania DEP data center permit tracker": 125
+      },
+      "dated": 119,
+      "earliest": "2024-06-11",
+      "latest": "2026-10-08"
+    },
+    "portal_wa": {
+      "rows": 23,
+      "datasets": {
+        "Seattle building permits": 23
+      },
+      "dated": 15,
+      "earliest": "2006-05-15",
+      "latest": "2021-07-07"
+    },
+    "portal_md": {
+      "rows": 11,
+      "datasets": {
+        "Montgomery County electrical permits": 11
+      },
+      "dated": 11,
+      "earliest": "2004-05-14",
+      "latest": "2025-06-13"
+    },
+    "portal_ma": {
+      "rows": 4,
+      "datasets": {
+        "Framingham building applications": 4
+      },
+      "dated": 4,
+      "earliest": "2014-10-16",
+      "latest": "2017-06-08"
+    },
+    "portal_la": {
+      "rows": 3,
+      "datasets": {
+        "East Baton Rouge building permits": 3
+      },
+      "dated": 3,
+      "earliest": "2015-09-29",
+      "latest": "2026-10-08"
+    },
+    "case_gu": {
+      "rows": 2,
+      "datasets": {
+        "Guam Hybrid Land Use Commission minutes": 2
+      },
+      "dated": 2,
+      "earliest": "2022-05-12",
+      "latest": "2022-05-12"
+    },
+    "mn": {
+      "rows": 38,
+      "datasets": {
+        "Minneapolis CCS construction permits": 11,
+        "Minnesota EQB environmental review notices": 20,
+        "Chaska Cloud HQ municipal decisions": 7
+      },
+      "dated": 38,
+      "earliest": "2017-02-01",
+      "latest": "2026-09-10"
+    },
+    "wtr_fl": {
+      "rows": 11,
+      "datasets": {
+        "State-issued water permits reported to EPA": 11
+      },
+      "dated": 11,
+      "earliest": "2011-12-08",
+      "latest": "2026-04-05"
+    },
+    "wtr_tx": {
+      "rows": 95,
+      "datasets": {
+        "State-issued water permits reported to EPA": 95
+      },
+      "dated": 95,
+      "earliest": "2009-11-19",
+      "latest": "2026-10-19"
+    },
+    "wtr_sc": {
+      "rows": 7,
+      "datasets": {
+        "State-issued water permits reported to EPA": 7
+      },
+      "dated": 7,
+      "earliest": "2019-10-08",
+      "latest": "2025-08-19"
+    },
+    "wtr_sd": {
+      "rows": 4,
+      "datasets": {
+        "State-issued water permits reported to EPA": 4
+      },
+      "dated": 4,
+      "earliest": "1999-04-01",
+      "latest": "2020-03-30"
+    },
+    "wtr_co": {
+      "rows": 19,
+      "datasets": {
+        "State-issued water permits reported to EPA": 19
+      },
+      "dated": 19,
+      "earliest": "2010-06-17",
+      "latest": "2026-01-29"
+    },
+    "wtr_al": {
+      "rows": 12,
+      "datasets": {
+        "State-issued water permits reported to EPA": 12
+      },
+      "dated": 12,
+      "earliest": "2002-04-01",
+      "latest": "2026-10-20"
+    },
+    "wtr_or": {
+      "rows": 17,
+      "datasets": {
+        "State-issued water permits reported to EPA": 17
+      },
+      "dated": 17,
+      "earliest": "2012-04-13",
+      "latest": "2026-01-06"
+    },
+    "wtr_nj": {
+      "rows": 9,
+      "datasets": {
+        "State-issued water permits reported to EPA": 9
+      },
+      "dated": 9,
+      "earliest": "2016-07-26",
+      "latest": "2026-09-24"
+    },
+    "wtr_ar": {
+      "rows": 4,
+      "datasets": {
+        "State-issued water permits reported to EPA": 4
+      },
+      "dated": 4,
+      "earliest": "2006-08-31",
+      "latest": "2022-05-17"
+    },
+    "wtr_wa": {
+      "rows": 6,
+      "datasets": {
+        "State-issued water permits reported to EPA": 6
+      },
+      "dated": 6,
+      "earliest": "2010-12-01",
+      "latest": "2025-11-19"
+    },
+    "wtr_mo": {
+      "rows": 6,
+      "datasets": {
+        "State-issued water permits reported to EPA": 6
+      },
+      "dated": 6,
+      "earliest": "2010-05-26",
+      "latest": "2026-04-23"
+    },
+    "wtr_wy": {
+      "rows": 9,
+      "datasets": {
+        "State-issued water permits reported to EPA": 9
+      },
+      "dated": 9,
+      "earliest": "2011-05-09",
+      "latest": "2024-07-25"
+    },
+    "wtr_mt": {
+      "rows": 6,
+      "datasets": {
+        "State-issued water permits reported to EPA": 6
+      },
+      "dated": 6,
+      "earliest": "2008-05-07",
+      "latest": "2020-10-08"
+    },
+    "wtr_ia": {
+      "rows": 4,
+      "datasets": {
+        "State-issued water permits reported to EPA": 4
+      },
+      "dated": 4,
+      "earliest": "2009-06-01",
+      "latest": "2024-12-01"
+    },
+    "wtr_ca": {
+      "rows": 15,
+      "datasets": {
+        "State-issued water permits reported to EPA": 15
+      },
+      "dated": 15,
+      "earliest": "2005-07-07",
+      "latest": "2025-09-04"
+    },
+    "wtr_ut": {
+      "rows": 17,
+      "datasets": {
+        "State-issued water permits reported to EPA": 17
+      },
+      "dated": 17,
+      "earliest": "2010-11-01",
+      "latest": "2026-07-21"
+    },
+    "wtr_il": {
+      "rows": 24,
+      "datasets": {
+        "State-issued water permits reported to EPA": 24
+      },
+      "dated": 24,
+      "earliest": "2007-10-16",
+      "latest": "2026-10-01"
+    },
+    "wtr_ky": {
+      "rows": 2,
+      "datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "dated": 2,
+      "earliest": "2011-09-09",
+      "latest": "2016-11-28"
+    },
+    "wtr_va": {
+      "rows": 3,
+      "datasets": {
+        "State-issued water permits reported to EPA": 3
+      },
+      "dated": 3,
+      "earliest": "2018-02-26",
+      "latest": "2024-07-01"
+    },
+    "wtr_id": {
+      "rows": 2,
+      "datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "dated": 2,
+      "earliest": "2022-01-10",
+      "latest": "2022-01-10"
+    },
+    "wtr_ne": {
+      "rows": 3,
+      "datasets": {
+        "State-issued water permits reported to EPA": 3
+      },
+      "dated": 3,
+      "earliest": "2014-03-10",
+      "latest": "2024-03-19"
+    },
+    "wtr_ks": {
+      "rows": 1,
+      "datasets": {
+        "State-issued water permits reported to EPA": 1
+      },
+      "dated": 1,
+      "earliest": "2023-06-02",
+      "latest": "2023-06-02"
+    },
+    "wtr_mi": {
+      "rows": 2,
+      "datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "dated": 2,
+      "earliest": "2013-04-29",
+      "latest": "2019-09-06"
+    },
+    "wtr_az": {
+      "rows": 5,
+      "datasets": {
+        "State-issued water permits reported to EPA": 5
+      },
+      "dated": 5,
+      "earliest": "2021-03-24",
+      "latest": "2026-01-22"
+    },
+    "wtr_ga": {
+      "rows": 27,
+      "datasets": {
+        "State-issued water permits reported to EPA": 27
+      },
+      "dated": 27,
+      "earliest": "2008-08-01",
+      "latest": "2025-04-25"
+    },
+    "wtr_nc": {
+      "rows": 9,
+      "datasets": {
+        "State-issued water permits reported to EPA": 9
+      },
+      "dated": 9,
+      "earliest": "2024-04-01",
+      "latest": "2026-10-30"
+    },
+    "wtr_in": {
+      "rows": 8,
+      "datasets": {
+        "State-issued water permits reported to EPA": 8
+      },
+      "dated": 8,
+      "earliest": "2019-06-03",
+      "latest": "2026-10-29"
+    },
+    "wtr_hi": {
+      "rows": 2,
+      "datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "dated": 2,
+      "earliest": "2012-10-12",
+      "latest": "2013-12-09"
+    },
+    "wtr_ny": {
+      "rows": 2,
+      "datasets": {
+        "State-issued water permits reported to EPA": 2
+      },
+      "dated": 2,
+      "earliest": "2025-01-29",
+      "latest": "2025-01-29"
+    },
+    "fl": {
+      "rows": 31,
+      "datasets": {
+        "Town of Eatonville council agendas": 5,
+        "Miami-Dade County building permits": 1,
+        "South Florida Water Management District permit register": 13,
+        "South Florida Water Management District application actions": 10,
+        "City of Miami iBuild permits": 2
+      },
+      "dated": 30,
+      "earliest": "1984-07-12",
+      "latest": "2026-09-01"
+    },
+    "nj": {
+      "rows": 28,
+      "datasets": {
+        "NJDEP NJPDES proposed actions": 1,
+        "NJDEP treatment works applications": 1,
+        "NJDEP land resource permitting": 17,
+        "Bridgewater Township planning agenda": 1,
+        "NJDEP NJPDES bulletin": 5,
+        "NJSEA zoning certificate case reviews": 3
+      },
+      "dated": 28,
+      "earliest": "2022-07-14",
+      "latest": "2026-10-21"
+    },
+    "co": {
+      "rows": 46,
+      "datasets": {
+        "Denver commercial permits at a verified data-center site": 18,
+        "Colorado APCD air permit application tracker": 22,
+        "Colorado Springs land-use appeals": 2,
+        "Colorado APCD public notices": 1,
+        "Aurora Building Division issued permit and certificates": 3
+      },
+      "dated": 46,
+      "earliest": "2009-07-30",
+      "latest": "2026-11-09"
+    },
+    "or": {
+      "rows": 65,
+      "datasets": {
+        "Oregon planning commission cases": 3,
+        "Oregon DEQ air permit documents": 34,
+        "Local land-use compatibility finding in DEQ permit": 28
+      },
+      "dated": 45,
+      "earliest": "2011-11-12",
+      "latest": "2024-08-27"
+    },
+    "mi": {
+      "rows": 17,
+      "datasets": {
+        "Van Buren Township Planning Commission": 2,
+        "Saline Township advisory committee": 1,
+        "Michigan EGLE water withdrawal determinations": 1,
+        "Michigan Public Service Commission special contracts": 3,
+        "City of Southfield site-plan review": 2,
+        "Saline Township land use proceedings": 4,
+        "Michigan air permits to install": 3,
+        "Michigan EGLE air compliance inspections": 1
+      },
+      "dated": 16,
+      "earliest": "2016-10-07",
+      "latest": "2026-10-14"
+    },
+    "case_de": {
+      "rows": 3,
+      "datasets": {
+        "Delaware Coastal Zone Act decisions": 3
+      },
+      "dated": 3,
+      "earliest": "2026-02-03",
+      "latest": "2026-04-17"
+    },
+    "case_me": {
+      "rows": 1,
+      "datasets": {
+        "Lewiston City Council development agreements": 1
+      },
+      "dated": 1,
+      "earliest": "2025-12-16",
+      "latest": "2025-12-16"
+    },
+    "ut": {
+      "rows": 45,
+      "datasets": {
+        "Utah DAQ NOI_Pub_H": 6,
+        "Utah DAQ AOsOutForCmt": 1,
+        "Utah DAQ AOsIssuedAll": 19,
+        "Utah DAQ notice receipts cited in approval orders": 17,
+        "Salt Lake City building permit workflow": 1,
+        "Bluffdale Planning Commission decisions": 1
+      },
+      "dated": 45,
+      "earliest": "2021-05-28",
+      "latest": "2026-11-09"
+    },
+    "nc": {
+      "rows": 120,
+      "datasets": {
+        "Durham City-County building permits": 83,
+        "NC DEQ active air permit register": 7,
+        "NC DEQ air hearing notices": 2,
+        "Raleigh building permits": 23,
+        "NC DEQ air application reviews": 2,
+        "Charlotte rezoning petitions": 3
+      },
+      "dated": 118,
+      "earliest": "2002-05-02",
+      "latest": "2026-10-21"
+    },
+    "council_nh": {
+      "rows": 5,
+      "datasets": {
+        "Municipal project planning dockets": 5
+      },
+      "dated": 5,
+      "earliest": "2026-09-08",
+      "latest": "2026-10-28"
+    },
+    "council_nv": {
+      "rows": 7,
+      "datasets": {
+        "Municipal project planning dockets": 7
+      },
+      "dated": 7,
+      "earliest": "2023-05-04",
+      "latest": "2025-03-04"
+    },
+    "council_tx": {
+      "rows": 2,
+      "datasets": {
+        "Municipal project planning dockets": 2
+      },
+      "dated": 2,
+      "earliest": "2022-04-14",
+      "latest": "2022-04-14"
+    },
+    "ok": {
+      "rows": 38,
+      "datasets": {
+        "Oklahoma DEQ final data-center instruments": 28,
+        "Oklahoma DEQ permit applications": 9,
+        "Tulsa Metropolitan Area Planning Commission staff reviews": 1
+      },
+      "dated": 38,
+      "earliest": "2010-09-22",
+      "latest": "2026-09-04"
+    },
+    "case_ri": {
+      "rows": 3,
+      "datasets": {
+        "Rhode Island DEM emergency generator permits": 3
+      },
+      "dated": 3,
+      "earliest": "2009-03-10",
+      "latest": "2009-03-10"
+    },
+    "sc": {
+      "rows": 15,
+      "datasets": {
+        "South Carolina DES air permitting files": 13,
+        "South Carolina DHEC groundwater review": 2
+      },
+      "dated": 14,
+      "earliest": "2019-12-12",
+      "latest": "2026-09-18"
+    },
+    "wa": {
+      "rows": 39,
+      "datasets": {
+        "Washington Ecology Quincy air construction dockets": 39
+      },
+      "dated": 39,
+      "earliest": "2011-08-05",
+      "latest": "2026-04-06"
+    },
+    "dc": {
+      "rows": 18,
+      "datasets": {
+        "District of Columbia building permit register": 18
+      },
+      "dated": 18,
+      "earliest": "2009-08-06",
+      "latest": "2024-05-21"
+    },
+    "ia": {
+      "rows": 4635,
+      "datasets": {
+        "Iowa DNR air construction equipment permit history": 4625,
+        "Iowa DNR signed Title V operating permits": 5,
+        "West Des Moines City Council site plans": 1,
+        "Council Bluffs Building Division issued permits": 4
+      },
+      "dated": 4635,
+      "earliest": "2008-10-16",
+      "latest": "2026-10-20"
+    },
+    "ky": {
+      "rows": 8,
+      "datasets": {
+        "Louisville Metro development plans": 5,
+        "Kentucky PSC project information requests": 1,
+        "Oldham County Project Lincoln withdrawals": 2
+      },
+      "dated": 6,
+      "earliest": "2025-03-24",
+      "latest": "2026-05-10"
+    },
+    "al": {
+      "rows": 28,
+      "datasets": {
+        "Alabama ADEM synthetic minor air files": 10,
+        "Huntsville building permits": 12,
+        "Huntsville occupancy certificates": 6
+      },
+      "dated": 22,
+      "earliest": "2018-08-06",
+      "latest": "2026-10-29"
+    },
+    "wi": {
+      "rows": 60,
+      "datasets": {
+        "Wisconsin DNR air permit tracking": 47,
+        "Wisconsin DNR Lighthouse campus review": 10,
+        "Mount Pleasant Plan Commission minutes": 3
+      },
+      "dated": 60,
+      "earliest": "2023-06-21",
+      "latest": "2026-10-23"
+    },
+    "nd": {
+      "rows": 11,
+      "datasets": {
+        "North Dakota DEQ air permits to construct": 5,
+        "City of Fargo commission proceedings": 1,
+        "Dickey County Water Resource District proceedings": 3,
+        "North Dakota DEQ discharge permit notices": 2
+      },
+      "dated": 11,
+      "earliest": "2023-11-01",
+      "latest": "2026-03-09"
+    },
+    "ks": {
+      "rows": 9,
+      "datasets": {
+        "City of De Soto project and planning records": 9
+      },
+      "dated": 7,
+      "earliest": "2025-09-23",
+      "latest": "2026-10-27"
+    },
+    "ct": {
+      "rows": 8,
+      "datasets": {
+        "Hartford building and trade permits": 1,
+        "Connecticut Siting Council data center docket": 5,
+        "Norwalk site plan surety decisions": 2
+      },
+      "dated": 8,
+      "earliest": "2014-09-26",
+      "latest": "2026-02-02"
+    },
+    "case_pa": {
+      "rows": 1,
+      "datasets": {
+        "Susquehanna River Basin Commission consumptive use approvals": 1
+      },
+      "dated": 1,
+      "earliest": "2024-09-12",
+      "latest": "2024-09-12"
+    },
+    "wv": {
+      "rows": 13,
+      "datasets": {
+        "West Virginia DEP project files": 13
+      },
+      "dated": 13,
+      "earliest": "2026-04-20",
+      "latest": "2026-11-13"
+    },
+    "ne": {
+      "rows": 132,
+      "datasets": {
+        "Lincoln nonresidential building permits": 4,
+        "Nebraska DWEE facility air files": 124,
+        "Papillion City Administrator permit reports": 3,
+        "Lincoln-Lancaster County air permits": 1
+      },
+      "dated": 132,
+      "earliest": "2015-08-04",
+      "latest": "2026-11-06"
+    },
+    "id": {
+      "rows": 6,
+      "datasets": {
+        "City of Kuna planning and zoning cases": 4,
+        "Idaho DEQ issued air permits and notices": 2
+      },
+      "dated": 5,
+      "earliest": "2023-08-08",
+      "latest": "2025-08-12"
+    },
+    "mt": {
+      "rows": 9,
+      "datasets": {
+        "Yellowstone County commission project agenda": 1,
+        "Montana DEQ public water supply review": 1,
+        "Montana Sage Grouse Habitat Conservation Program consultations": 2,
+        "Missoula County Bonner project review": 5
+      },
+      "dated": 8,
+      "earliest": "2026-03-25",
+      "latest": "2026-10-27"
+    },
+    "wy": {
+      "rows": 11,
+      "datasets": {
+        "Laramie County SmartGov planning permits": 4,
+        "Laramie County commissioners and planning commission": 5,
+        "City of Cheyenne public planning cases": 2
+      },
+      "dated": 11,
+      "earliest": "2025-10-07",
+      "latest": "2026-10-23"
+    },
+    "vt": {
+      "rows": 8,
+      "datasets": {
+        "Vermont Act 250 permit docket": 8
+      },
+      "dated": 8,
+      "earliest": "2017-03-13",
+      "latest": "2017-05-23"
+    },
+    "sd": {
+      "rows": 5,
+      "datasets": {
+        "South Dakota Public Utilities Commission electric dockets": 3,
+        "McPherson County conditional use proceedings": 2
+      },
+      "dated": 5,
+      "earliest": "2024-08-05",
+      "latest": "2026-09-11"
+    },
+    "hi": {
+      "rows": 7,
+      "datasets": {
+        "Honolulu historical building permits": 5,
+        "Hawaii environmental review notices": 2
+      },
+      "dated": 6,
+      "earliest": "2007-10-11",
+      "latest": "2016-01-20"
+    },
+    "ak": {
+      "rows": 65,
+      "datasets": {
+        "Alaska DNR project decisions": 8,
+        "FERC preliminary permit applications": 3,
+        "Anchorage inspection and review actions": 43,
+        "Anchorage permit records": 11
+      },
+      "dated": 53,
+      "earliest": "2010-02-02",
+      "latest": "2026-11-10"
+    },
+    "md": {
+      "rows": 40,
+      "datasets": {
+        "Maryland MDE Frederick campus air permits": 2,
+        "Maryland MDE Frederick water appropriation and use permits": 3,
+        "Baltimore DHCD issued building and use permits": 12,
+        "Maryland MDE Frederick land restoration decisions": 3,
+        "Maryland MDE Frederick construction stormwater letters": 20
+      },
+      "dated": 40,
+      "earliest": "2019-08-06",
+      "latest": "2026-03-25"
+    },
+    "fed_ma": {
+      "rows": 1,
+      "datasets": {
+        "U.S. EPA water discharge permits": 1
+      },
+      "dated": 1,
+      "earliest": "2020-08-14",
+      "latest": "2020-08-14"
+    },
+    "fed_id": {
+      "rows": 1,
+      "datasets": {
+        "U.S. EPA water discharge permits": 1
+      },
+      "dated": 1,
+      "earliest": "2017-05-31",
+      "latest": "2017-05-31"
+    },
+    "fed_gu": {
+      "rows": 2,
+      "datasets": {
+        "U.S. EPA water discharge permits": 2
+      },
+      "dated": 2,
+      "earliest": "2018-07-12",
+      "latest": "2023-08-04"
+    },
+    "fed_ok": {
+      "rows": 1,
+      "datasets": {
+        "U.S. EPA water discharge permits": 1
+      },
+      "dated": 1,
+      "earliest": "2023-08-11",
+      "latest": "2023-08-11"
+    },
+    "ma": {
+      "rows": 154,
+      "datasets": {
+        "Boston ISD approved building permits": 147,
+        "MassDEP Markley air approval and adjudication": 4,
+        "Massachusetts MEPA project certificates": 2,
+        "MassDEP prior certifications cited in MEPA": 1
+      },
+      "dated": 154,
+      "earliest": "2010-01-14",
+      "latest": "2026-11-03"
+    },
+    "corps_ca": {
+      "rows": 3,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 3
+      },
+      "dated": 3,
+      "earliest": "2016-09-20",
+      "latest": "2025-05-01"
+    },
+    "corps_ga": {
+      "rows": 17,
+      "datasets": {
+        "US Army Corps of Engineers district public notices": 1,
+        "US Army Corps of Engineers regulatory public actions": 16
+      },
+      "dated": 17,
+      "earliest": "2019-06-11",
+      "latest": "2026-11-02"
+    },
+    "corps_il": {
+      "rows": 2,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 2
+      },
+      "dated": 2,
+      "earliest": "2020-05-29",
+      "latest": "2025-12-12"
+    },
+    "corps_in": {
+      "rows": 5,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 5
+      },
+      "dated": 5,
+      "earliest": "2025-08-13",
+      "latest": "2026-05-13"
+    },
+    "corps_ks": {
+      "rows": 2,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 2
+      },
+      "dated": 2,
+      "earliest": "2025-11-13",
+      "latest": "2026-03-18"
+    },
+    "corps_la": {
+      "rows": 2,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 2
+      },
+      "dated": 2,
+      "earliest": "2026-09-08",
+      "latest": "2026-10-13"
+    },
+    "corps_mn": {
+      "rows": 1,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 1
+      },
+      "dated": 1,
+      "earliest": "2010-07-06",
+      "latest": "2010-07-06"
+    },
+    "corps_nc": {
+      "rows": 6,
+      "datasets": {
+        "US Army Corps of Engineers district public notices": 1,
+        "US Army Corps of Engineers regulatory public actions": 5
+      },
+      "dated": 6,
+      "earliest": "2024-04-03",
+      "latest": "2026-11-13"
+    },
+    "corps_nd": {
+      "rows": 1,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 1
+      },
+      "dated": 1,
+      "earliest": "2026-07-15",
+      "latest": "2026-07-15"
+    },
+    "corps_ne": {
+      "rows": 1,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 1
+      },
+      "dated": 1,
+      "earliest": "2023-06-13",
+      "latest": "2023-06-13"
+    },
+    "corps_nv": {
+      "rows": 2,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 2
+      },
+      "dated": 2,
+      "earliest": "2026-04-28",
+      "latest": "2026-06-22"
+    },
+    "corps_oh": {
+      "rows": 10,
+      "datasets": {
+        "US Army Corps of Engineers district public notices": 2,
+        "US Army Corps of Engineers regulatory public actions": 8
+      },
+      "dated": 10,
+      "earliest": "2023-12-01",
+      "latest": "2026-10-23"
+    },
+    "corps_ok": {
+      "rows": 4,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 4
+      },
+      "dated": 4,
+      "earliest": "2023-11-20",
+      "latest": "2026-02-06"
+    },
+    "corps_or": {
+      "rows": 4,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 4
+      },
+      "dated": 4,
+      "earliest": "2017-08-09",
+      "latest": "2025-05-16"
+    },
+    "corps_pa": {
+      "rows": 5,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 5
+      },
+      "dated": 5,
+      "earliest": "2021-08-12",
+      "latest": "2026-08-28"
+    },
+    "corps_sc": {
+      "rows": 3,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 3
+      },
+      "dated": 3,
+      "earliest": "2025-04-07",
+      "latest": "2025-06-25"
+    },
+    "corps_tn": {
+      "rows": 1,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 1
+      },
+      "dated": 1,
+      "earliest": "2026-04-02",
+      "latest": "2026-04-02"
+    },
+    "corps_tx": {
+      "rows": 2,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 2
+      },
+      "dated": 2,
+      "earliest": "2025-08-27",
+      "latest": "2026-04-10"
+    },
+    "corps_va": {
+      "rows": 46,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 46
+      },
+      "dated": 46,
+      "earliest": "2010-03-12",
+      "latest": "2026-10-26"
+    },
+    "corps_wi": {
+      "rows": 3,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 3
+      },
+      "dated": 3,
+      "earliest": "2022-05-18",
+      "latest": "2026-10-29"
+    },
+    "fast_oh": {
+      "rows": 10,
+      "datasets": {
+        "FAST-41 timetable decisions": 1,
+        "FAST-41 federal permitting milestones": 9
+      },
+      "dated": 10,
+      "earliest": "2026-05-27",
+      "latest": "2026-09-28"
+    },
+    "fast_va": {
+      "rows": 9,
+      "datasets": {
+        "FAST-41 federal permitting milestones": 9
+      },
+      "dated": 9,
+      "earliest": "2026-02-13",
+      "latest": "2026-08-13"
+    },
+    "land_nv": {
+      "rows": 2,
+      "datasets": {
+        "Interior Department land decisions": 2
+      },
+      "dated": 2,
+      "earliest": "2026-06-26",
+      "latest": "2026-09-01"
+    },
+    "land_sc": {
+      "rows": 2,
+      "datasets": {
+        "Department of Energy NEPA determinations": 2
+      },
+      "dated": 2,
+      "earliest": "2025-09-22",
+      "latest": "2026-04-22"
+    },
+    "land_va": {
+      "rows": 1,
+      "datasets": {
+        "Department of Energy NEPA determinations": 1
+      },
+      "dated": 1,
+      "earliest": "2026-04-22",
+      "latest": "2026-04-22"
+    },
+    "ar": {
+      "rows": 23,
+      "datasets": {
+        "Arkansas DEQ air permitting and PDS": 12,
+        "Arkansas DEQ other air requests": 4,
+        "Little Rock municipal permits": 1,
+        "Arkansas PDS regulated storage tank records": 6
+      },
+      "dated": 15,
+      "earliest": "2011-11-14",
+      "latest": "2026-10-02"
+    },
+    "pr": {
+      "rows": 33,
+      "datasets": {
+        "Puerto Rico OGPe SuperSIP case register": 32,
+        "Puerto Rico Planning Board location consultations": 1
+      },
+      "dated": 33,
+      "earliest": "2003-03-21",
+      "latest": "2026-05-06"
+    },
+    "edate_id": {
+      "rows": 1,
+      "datasets": {
+        "EPA water permit timeline": 1
+      },
+      "dated": 1,
+      "earliest": "2020-04-15",
+      "latest": "2020-04-15"
+    },
+    "edate_gu": {
+      "rows": 1,
+      "datasets": {
+        "EPA water permit timeline": 1
+      },
+      "dated": 1,
+      "earliest": "2022-02-15",
+      "latest": "2022-02-15"
+    },
+    "edate_ma": {
+      "rows": 1,
+      "datasets": {
+        "EPA water permit timeline": 1
+      },
+      "dated": 1,
+      "earliest": "2022-02-15",
+      "latest": "2022-02-15"
+    },
+    "edate_nm": {
+      "rows": 4,
+      "datasets": {
+        "EPA water permit timeline": 4
+      },
+      "dated": 4,
+      "earliest": "2021-07-02",
+      "latest": "2025-12-31"
+    },
+    "edate_ok": {
+      "rows": 1,
+      "datasets": {
+        "EPA water permit timeline": 1
+      },
+      "dated": 1,
+      "earliest": "2025-01-17",
+      "latest": "2025-01-17"
+    },
+    "guref_gu": {
+      "rows": 4,
+      "datasets": {
+        "Guam interagency land-use referrals": 4
+      },
+      "dated": 4,
+      "earliest": "2021-10-18",
+      "latest": "2022-04-25"
+    },
+    "fcon_la": {
+      "rows": 3,
+      "datasets": {
+        "Army Corps consultation history": 3
+      },
+      "dated": 3,
+      "earliest": "2026-07-17",
+      "latest": "2026-10-23"
+    },
+    "fcon_or": {
+      "rows": 15,
+      "datasets": {
+        "Army Corps consultation history": 15
+      },
+      "dated": 15,
+      "earliest": "2016-12-16",
+      "latest": "2020-06-12"
+    },
+    "fcon_va": {
+      "rows": 52,
+      "datasets": {
+        "Army Corps consultation history": 52
+      },
+      "dated": 52,
+      "earliest": "2010-01-19",
+      "latest": "2026-11-13"
+    },
+    "fcon_ca": {
+      "rows": 4,
+      "datasets": {
+        "Army Corps consultation history": 4
+      },
+      "dated": 4,
+      "earliest": "2014-11-17",
+      "latest": "2016-05-16"
+    },
+    "fcon_ne": {
+      "rows": 4,
+      "datasets": {
+        "Army Corps consultation history": 4
+      },
+      "dated": 4,
+      "earliest": "2023-02-17",
+      "latest": "2023-06-12"
+    },
+    "fcon_ga": {
+      "rows": 21,
+      "datasets": {
+        "Army Corps consultation history": 21
+      },
+      "dated": 21,
+      "earliest": "2018-08-31",
+      "latest": "2026-08-24"
+    },
+    "fcon_in": {
+      "rows": 3,
+      "datasets": {
+        "Army Corps consultation history": 3
+      },
+      "dated": 3,
+      "earliest": "2026-05-11",
+      "latest": "2026-10-15"
+    },
+    "fcon_sc": {
+      "rows": 5,
+      "datasets": {
+        "Army Corps consultation history": 5
+      },
+      "dated": 5,
+      "earliest": "2024-08-29",
+      "latest": "2025-05-23"
+    },
+    "fcon_nc": {
+      "rows": 10,
+      "datasets": {
+        "Army Corps consultation history": 10
+      },
+      "dated": 10,
+      "earliest": "2023-07-21",
+      "latest": "2024-05-03"
+    },
+    "federalair_nd": {
+      "rows": 4,
+      "datasets": {
+        "US EPA Region 8 tribal minor NSR final actions": 4
+      },
+      "dated": 4,
+      "earliest": "2021-09-20",
+      "latest": "2024-02-09"
+    },
+    "fpower_pa": {
+      "rows": 2,
+      "datasets": {
+        "FERC interconnection decisions": 2
+      },
+      "dated": 2,
+      "earliest": "2024-11-01",
+      "latest": "2025-04-10"
+    },
+    "henrico_va": {
+      "rows": 10,
+      "datasets": {
+        "Henrico County monthly issued permits": 10
+      },
+      "dated": 10,
+      "earliest": "2026-08-17",
+      "latest": "2026-10-28"
+    },
+    "faa_al": {
+      "rows": 10,
+      "datasets": {
+        "FAA airspace determinations": 10
+      },
+      "dated": 10,
+      "earliest": "2021-07-19",
+      "latest": "2025-09-19"
+    },
+    "faa_ar": {
+      "rows": 2,
+      "datasets": {
+        "FAA airspace determinations": 2
+      },
+      "dated": 2,
+      "earliest": "2026-08-31",
+      "latest": "2026-11-09"
+    },
+    "faa_az": {
+      "rows": 90,
+      "datasets": {
+        "FAA airspace determinations": 90
+      },
+      "dated": 90,
+      "earliest": "2018-01-24",
+      "latest": "2026-10-15"
+    },
+    "faa_ca": {
+      "rows": 67,
+      "datasets": {
+        "FAA airspace determinations": 67
+      },
+      "dated": 67,
+      "earliest": "2006-06-09",
+      "latest": "2026-08-31"
+    },
+    "faa_co": {
+      "rows": 11,
+      "datasets": {
+        "FAA airspace determinations": 11
+      },
+      "dated": 11,
+      "earliest": "2014-11-26",
+      "latest": "2026-09-22"
+    },
+    "faa_fl": {
+      "rows": 4,
+      "datasets": {
+        "FAA airspace determinations": 4
+      },
+      "dated": 4,
+      "earliest": "2023-03-15",
+      "latest": "2026-01-30"
+    },
+    "faa_ga": {
+      "rows": 190,
+      "datasets": {
+        "FAA airspace determinations": 190
+      },
+      "dated": 190,
+      "earliest": "2007-05-01",
+      "latest": "2026-10-27"
+    },
+    "faa_ia": {
+      "rows": 62,
+      "datasets": {
+        "FAA airspace determinations": 62
+      },
+      "dated": 62,
+      "earliest": "2016-02-01",
+      "latest": "2026-11-09"
+    },
+    "faa_il": {
+      "rows": 149,
+      "datasets": {
+        "FAA airspace determinations": 149
+      },
+      "dated": 149,
+      "earliest": "2007-12-06",
+      "latest": "2026-10-07"
+    },
+    "faa_in": {
+      "rows": 6,
+      "datasets": {
+        "FAA airspace determinations": 6
+      },
+      "dated": 6,
+      "earliest": "2025-09-30",
+      "latest": "2026-11-02"
+    },
+    "faa_md": {
+      "rows": 14,
+      "datasets": {
+        "FAA airspace determinations": 14
+      },
+      "dated": 14,
+      "earliest": "2009-05-27",
+      "latest": "2025-01-28"
+    },
+    "faa_mi": {
+      "rows": 5,
+      "datasets": {
+        "FAA airspace determinations": 5
+      },
+      "dated": 5,
+      "earliest": "2010-05-11",
+      "latest": "2026-11-04"
+    },
+    "faa_mn": {
+      "rows": 12,
+      "datasets": {
+        "FAA airspace determinations": 12
+      },
+      "dated": 12,
+      "earliest": "2008-05-19",
+      "latest": "2025-01-07"
+    },
+    "faa_mo": {
+      "rows": 15,
+      "datasets": {
+        "FAA airspace determinations": 15
+      },
+      "dated": 15,
+      "earliest": "2022-09-13",
+      "latest": "2026-11-09"
+    },
+    "faa_ms": {
+      "rows": 2,
+      "datasets": {
+        "FAA airspace determinations": 2
+      },
+      "dated": 2,
+      "earliest": "2014-05-12",
+      "latest": "2026-10-21"
+    },
+    "faa_nc": {
+      "rows": 3,
+      "datasets": {
+        "FAA airspace determinations": 3
+      },
+      "dated": 3,
+      "earliest": "2025-11-19",
+      "latest": "2026-04-06"
+    },
+    "faa_nd": {
+      "rows": 2,
+      "datasets": {
+        "FAA airspace determinations": 2
+      },
+      "dated": 2,
+      "earliest": "2025-09-17",
+      "latest": "2026-01-13"
+    },
+    "faa_ne": {
+      "rows": 11,
+      "datasets": {
+        "FAA airspace determinations": 11
+      },
+      "dated": 11,
+      "earliest": "2012-10-02",
+      "latest": "2026-06-04"
+    },
+    "faa_nj": {
+      "rows": 10,
+      "datasets": {
+        "FAA airspace determinations": 10
+      },
+      "dated": 10,
+      "earliest": "2020-11-18",
+      "latest": "2026-05-05"
+    },
+    "faa_nm": {
+      "rows": 3,
+      "datasets": {
+        "FAA airspace determinations": 3
+      },
+      "dated": 3,
+      "earliest": "2026-07-23",
+      "latest": "2026-10-08"
+    },
+    "faa_nv": {
+      "rows": 55,
+      "datasets": {
+        "FAA airspace determinations": 55
+      },
+      "dated": 55,
+      "earliest": "2012-07-17",
+      "latest": "2026-10-13"
+    },
+    "faa_oh": {
+      "rows": 97,
+      "datasets": {
+        "FAA airspace determinations": 97
+      },
+      "dated": 97,
+      "earliest": "2012-11-19",
+      "latest": "2026-10-20"
+    },
+    "faa_ok": {
+      "rows": 10,
+      "datasets": {
+        "FAA airspace determinations": 10
+      },
+      "dated": 10,
+      "earliest": "2009-05-22",
+      "latest": "2026-08-11"
+    },
+    "faa_or": {
+      "rows": 28,
+      "datasets": {
+        "FAA airspace determinations": 28
+      },
+      "dated": 28,
+      "earliest": "2015-06-04",
+      "latest": "2026-10-20"
+    },
+    "faa_pa": {
+      "rows": 7,
+      "datasets": {
+        "FAA airspace determinations": 7
+      },
+      "dated": 7,
+      "earliest": "2021-07-15",
+      "latest": "2026-08-13"
+    },
+    "faa_sc": {
+      "rows": 6,
+      "datasets": {
+        "FAA airspace determinations": 6
+      },
+      "dated": 6,
+      "earliest": "2014-02-28",
+      "latest": "2026-03-10"
+    },
+    "faa_tn": {
+      "rows": 6,
+      "datasets": {
+        "FAA airspace determinations": 6
+      },
+      "dated": 6,
+      "earliest": "2009-05-19",
+      "latest": "2025-10-15"
+    },
+    "faa_tx": {
+      "rows": 212,
+      "datasets": {
+        "FAA airspace determinations": 212
+      },
+      "dated": 212,
+      "earliest": "2017-03-23",
+      "latest": "2026-11-12"
+    },
+    "faa_ut": {
+      "rows": 46,
+      "datasets": {
+        "FAA airspace determinations": 46
+      },
+      "dated": 46,
+      "earliest": "2010-04-01",
+      "latest": "2026-09-11"
+    },
+    "faa_va": {
+      "rows": 515,
+      "datasets": {
+        "FAA airspace determinations": 515
+      },
+      "dated": 515,
+      "earliest": "2006-08-17",
+      "latest": "2026-10-28"
+    },
+    "faa_wa": {
+      "rows": 14,
+      "datasets": {
+        "FAA airspace determinations": 14
+      },
+      "dated": 14,
+      "earliest": "2014-10-17",
+      "latest": "2026-08-24"
+    },
+    "faa_wi": {
+      "rows": 4,
+      "datasets": {
+        "FAA airspace determinations": 4
+      },
+      "dated": 4,
+      "earliest": "2023-09-21",
+      "latest": "2026-08-31"
+    },
+    "faa_wy": {
+      "rows": 10,
+      "datasets": {
+        "FAA airspace determinations": 10
+      },
+      "dated": 10,
+      "earliest": "2021-05-18",
+      "latest": "2026-02-03"
+    },
+    "fairfax_va": {
+      "rows": 53,
+      "datasets": {
+        "Fairfax County site plan and land development decisions": 53
+      },
+      "dated": 53,
+      "earliest": "1980-01-07",
+      "latest": "2026-03-04"
+    },
+    "waterfire_az": {
+      "rows": 6,
+      "datasets": {
+        "Phoenix Fire Department — data-center project and address match": 6
+      },
+      "dated": 6,
+      "earliest": "2023-10-05",
+      "latest": "2026-02-20"
+    },
+    "waterfire_ca": {
+      "rows": 13,
+      "datasets": {
+        "San Francisco Fire Department storage and use permits": 12,
+        "Santa Clara Fire Marshal permit documents": 1
+      },
+      "dated": 13,
+      "earliest": "2005-03-04",
+      "latest": "2021-01-20"
+    },
+    "waterfire_pa": {
+      "rows": 2,
+      "datasets": {
+        "US site-specific water permit records": 2
+      },
+      "dated": 2,
+      "earliest": "2026-01-26",
+      "latest": "2026-03-12"
+    },
+    "waterfire_tx": {
+      "rows": 1,
+      "datasets": {
+        "US site-specific water permit records": 1
+      },
+      "dated": 1,
+      "earliest": "2026-03-16",
+      "latest": "2026-03-16"
+    },
+    "waterfire_va": {
+      "rows": 37,
+      "datasets": {
+        "Loudoun fire marshal — data-center property authorizations": 37
+      },
+      "dated": 37,
+      "earliest": "2024-10-03",
+      "latest": "2026-11-09"
+    },
+    "waterfire_wa": {
+      "rows": 9,
+      "datasets": {
+        "Washington Ecology — industrial-user state discharge permits": 5,
+        "US site-specific water permit records": 4
+      },
+      "dated": 6,
+      "earliest": "2007-11-19",
+      "latest": "2025-09-23"
+    },
+    "faa_ky": {
+      "rows": 1,
+      "datasets": {
+        "FAA airspace determinations": 1
+      },
+      "dated": 1,
+      "earliest": "2006-04-13",
+      "latest": "2006-04-13"
+    },
+    "westmetro_or": {
+      "rows": 130,
+      "datasets": {
+        "PortlandMaps all permits": 127,
+        "Oregon land-use ordinance and review records": 3
+      },
+      "dated": 130,
+      "earliest": "2000-04-07",
+      "latest": "2026-10-12"
+    },
+    "westmetro_ca": {
+      "rows": 3,
+      "datasets": {
+        "Municipal land-use case records": 3
+      },
+      "dated": 3,
+      "earliest": "2025-05-22",
+      "latest": "2026-07-10"
+    },
+    "doe_ca": {
+      "rows": 1,
+      "datasets": {
+        "Department of Energy NEPA determinations": 1
+      },
+      "dated": 1,
+      "earliest": "2012-05-02",
+      "latest": "2012-05-02"
+    },
+    "doe_il": {
+      "rows": 1,
+      "datasets": {
+        "Department of Energy NEPA determinations": 1
+      },
+      "dated": 1,
+      "earliest": "2015-07-15",
+      "latest": "2015-07-15"
+    },
+    "doe_id": {
+      "rows": 1,
+      "datasets": {
+        "Department of Energy NEPA determinations": 1
+      },
+      "dated": 1,
+      "earliest": "2014-06-16",
+      "latest": "2014-06-16"
+    },
+    "doe_ky": {
+      "rows": 4,
+      "datasets": {
+        "Department of Energy land and developer milestones": 2,
+        "Department of Energy NEPA determinations": 2
+      },
+      "dated": 4,
+      "earliest": "2026-05-04",
+      "latest": "2026-11-02"
+    },
+    "doe_oh": {
+      "rows": 3,
+      "datasets": {
+        "Department of Energy NEPA determinations": 2,
+        "Department of Energy land and developer milestones": 1
+      },
+      "dated": 3,
+      "earliest": "2025-11-17",
+      "latest": "2026-04-29"
+    },
+    "territorygrant_as": {
+      "rows": 1,
+      "datasets": {
+        "Interior insular data-center financial assistance": 1
+      },
+      "dated": 1,
+      "earliest": "2020-07-08",
+      "latest": "2020-07-08"
+    },
+    "territorygrant_vi": {
+      "rows": 1,
+      "datasets": {
+        "Interior insular data-center financial assistance": 1
+      },
+      "dated": 1,
+      "earliest": "2021-07-06",
+      "latest": "2021-07-06"
+    },
+    "metropriority_oh": {
+      "rows": 10,
+      "datasets": {
+        "New Albany verified campus zoning actions": 5,
+        "Hilliard campus board decisions": 5
+      },
+      "dated": 10,
+      "earliest": "2022-07-21",
+      "latest": "2026-05-18"
+    },
+    "faaletters_ca": {
+      "rows": 38,
+      "datasets": {
+        "FAA airspace determinations": 38
+      },
+      "dated": 38,
+      "earliest": "2020-01-30",
+      "latest": "2025-04-07"
+    },
+    "corpsprior_va": {
+      "rows": 9,
+      "datasets": {
+        "US Army Corps of Engineers regulatory public actions": 5,
+        "US Army Corps of Engineers district public notices": 3,
+        "Army Corps prior permit amendments": 1
+      },
+      "dated": 9,
+      "earliest": "2020-07-10",
+      "latest": "2026-03-12"
+    },
+    "corpslibrary_oh": {
+      "rows": 2,
+      "datasets": {
+        "Army Corps Digital Library project actions": 2
+      },
+      "dated": 2,
+      "earliest": "2025-02-06",
+      "latest": "2025-06-06"
+    },
+    "corpslibrary_il": {
+      "rows": 1,
+      "datasets": {
+        "Army Corps Digital Library project actions": 1
+      },
+      "dated": 1,
+      "earliest": "2022-01-21",
+      "latest": "2022-01-21"
+    },
+    "corpslibrary_or": {
+      "rows": 1,
+      "datasets": {
+        "Army Corps Digital Library project actions": 1
+      },
+      "dated": 1,
+      "earliest": "2025-02-27",
+      "latest": "2025-02-27"
+    },
+    "corpslibrary_la": {
+      "rows": 1,
+      "datasets": {
+        "Army Corps Digital Library project actions": 1
+      },
+      "dated": 1,
+      "earliest": "2026-02-09",
+      "latest": "2026-02-09"
+    },
+    "elkgrove_il": {
+      "rows": 10,
+      "datasets": {
+        "Cook County assessor municipal permit register": 9,
+        "Elk Grove Village redevelopment resolutions": 1
+      },
+      "dated": 10,
+      "earliest": "2021-09-14",
+      "latest": "2026-03-16"
+    },
+    "manassascity_va": {
+      "rows": 7,
+      "datasets": {
+        "City of Manassas development and construction updates": 7
+      },
+      "dated": 4,
+      "earliest": "2023-05-31",
+      "latest": "2024-10-03"
+    }
+  },
+  "unit": "Agency records and dated events, not unique projects or approvals. A case can appear in more than one source."
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "tx-mcallen-parking",
+    "before": {
+      "sha256": "0633377e40c169dcb0d90eb90c8171677ac44fc64b1f75cd41eff26be6db4b37",
+      "record_sha256": "0c8fa97931efca2a58f21a0150dd19d5300e75d1a6f65a082c2002f352e24cb3"
+    },
+    "after": {
+      "sha256": "0633377e40c169dcb0d90eb90c8171677ac44fc64b1f75cd41eff26be6db4b37",
+      "record_sha256": "89741b41efccd1a352472e265340d7a4539e382fe5b86ff34032f55477576272"
+    },
+    "reason": "Only typed quantitative conditions added; source bytes unchanged; each number checked against stated PDF page."
+  },
+  {
+    "id": "ga-habersham-lot",
+    "before": {
+      "sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "record_sha256": "d6c5d22edcda9290de2a4f3695d89c284d49ca8431a58935deaf91c9ad79c549"
+    },
+    "after": {
+      "sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "record_sha256": "c5735923206a1dd64af12e7fdc206003aad27f046c1169f4944f139ba23179b8"
+    },
+    "reason": "Only typed quantitative conditions added; source bytes unchanged; each number checked against stated PDF page."
+  },
+  {
+    "id": "ga-habersham-residences",
+    "before": {
+      "sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "record_sha256": "6b4469f5198e3fad4d779d49c581a03a0a99ddd417b93ff23e2f396834bb9b84"
+    },
+    "after": {
+      "sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "record_sha256": "2e4563d9f0237b2715f8c4b5c454ae6600f392d32a87c7077ee21b44718d1a52"
+    },
+    "reason": "Only typed quantitative conditions added; source bytes unchanged; each number checked against stated PDF page."
+  },
+  {
+    "id": "ga-habersham-sound",
+    "before": {
+      "sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "record_sha256": "451bf786999989a35c194688f98a2221d4b2e2e72f4294d934e76e2cf0de76bd"
+    },
+    "after": {
+      "sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "record_sha256": "b47fc9e44de0fe9454fec7a94e540df2e949d0767961dde3b52f684a3b631f6f"
+    },
+    "reason": "Only typed quantitative conditions added; source bytes unchanged; each number checked against stated PDF page."
+  },
+  {
+    "id": "ga-monroe-home-distance",
+    "before": {
+      "sha256": "d5bbe9d3b4e6b36c1adad0a87c7f3ed65639fa3f2302e75153ad9a1b41ef1a7d",
+      "record_sha256": "3a1482491cfbfd8d6946b066340dbec55d32ce9fec1abc9fc3d718005c8c0995"
+    },
+    "after": {
+      "sha256": "d5bbe9d3b4e6b36c1adad0a87c7f3ed65639fa3f2302e75153ad9a1b41ef1a7d",
+      "record_sha256": "aea23d5a35df2963048f8f99bc585f0075d5b674449fb7c91e777265809b5503"
+    },
+    "reason": "Only typed quantitative conditions added; source bytes unchanged; each number checked against stated PDF page."
+  },
+  {
+    "id": "ga-monroe-outreach",
+    "before": {
+      "sha256": "d5bbe9d3b4e6b36c1adad0a87c7f3ed65639fa3f2302e75153ad9a1b41ef1a7d",
+      "record_sha256": "f825f5e03e45d38cda7df4646da77fe8a5cc36d432ddc0b7bc7146fe038bf665"
+    },
+    "after": {
+      "sha256": "d5bbe9d3b4e6b36c1adad0a87c7f3ed65639fa3f2302e75153ad9a1b41ef1a7d",
+      "record_sha256": "70d1b9bd63bc99470e5d6728027664a9f7cfec070b4e904ec0b44e0974f1d065"
+    },
+    "reason": "Only typed quantitative conditions added; source bytes unchanged; each number checked against stated PDF page."
+  }
+]

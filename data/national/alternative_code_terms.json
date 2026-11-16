@@ -1,0 +1,1276 @@
+{
+  "pattern": "\\b(?:data[ -]processing (?:cent(?:er|re)s?|facilit(?:y|ies))|electronic data (?:processing|storage) (?:cent(?:er|re)s?|facilit(?:y|ies))|telecommunications? hotels?|carrier hotels?|internet (?:server|exchange) (?:cent(?:er|re)s?|facilit(?:y|ies))|mission[ -]critical data facilit(?:y|ies)|cloud computing (?:campus(?:es)?|facilit(?:y|ies))|high[ -]performance computing (?:campus(?:es)?|facilit(?:y|ies))|computer (?:cent(?:er|re)s?|data storage facilit(?:y|ies)))\\b",
+  "eligible_documents": 1970,
+  "examined": 1970,
+  "failed": 0,
+  "matching_documents": 49,
+  "scope": "Screen of readable cached PDF text only. A data-processing office or telecom facility is not necessarily a data center. Inclusion requires separate district, legal status and source review.",
+  "documents": [
+    {
+      "referrals": [
+        [
+          "TX",
+          "4858088",
+          "https://villageofpleak.com/wp-content/uploads/2016/05/Ord.-16-80-Pleak-Zoning-Ordinance.pdf"
+        ]
+      ],
+      "sha256": "1064e7085a9ae90619443861118cdc98002a3f7c6982fd11e6341359bbe571f0",
+      "pages": 85,
+      "match_count": 1,
+      "hits": [
+        [
+          20,
+          "computer centers",
+          "ities shall mean a place or places wherein office uses, technical laboratories, computer centers, engineering operations, research and/or related light manufacturing uses are located. Theater, for live performances shall mean a facility"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "LA",
+          "2267250",
+          "https://cityofstgabriel.us/sites/default/files/fileattachments/planning_and_zoning/page/2393/comprehensive_zoning_ordinance.pdf"
+        ]
+      ],
+      "sha256": "15e55d7e71cee469ba94ffbbfd755493c73dfd8c6925438bc941854fd22aedb9",
+      "pages": 370,
+      "match_count": 1,
+      "hits": [
+        [
+          114,
+          "Data processing centers",
+          "ssing. Computer and data processing services 6. Courier services, except air 7. Data processing centers 8. Dwelling unit of caretaker or guar 9. Employment agency 10. Financial institutions, including banks, savings and loan associations, cred"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2614713720",
+          "https://cascostclair.gov/wp-content/uploads/2024/07/04-17-24-Zoning-Ordinance.pdf"
+        ]
+      ],
+      "sha256": "19481e4cef170f0e566acda558c3891f339632bfb83f7abd4e12c5d68f13f7a7",
+      "pages": 239,
+      "match_count": 1,
+      "hits": [
+        [
+          105,
+          "Data processing centers",
+          "fessional, civic, social, fraternal, political, and religious organizations. D. Data processing centers. E. Banks, credit unions, savings and loans and similar financial institutions. F. Public buildings and uses, such as police and fire stati"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2630700",
+          "https://CITYOFFREMONT.NET/DocumentCenter/View/1322/Entire-Ordinance"
+        ]
+      ],
+      "sha256": "19903948748452a20cad696799680684a62b6f9393a78a908dc393b584775c2f",
+      "pages": 467,
+      "match_count": 3,
+      "hits": [
+        [
+          309,
+          "data processing center",
+          "on Financial, Medical and Professional Office and Related Services Computer and data processing center General and Professional Office Research institution Medical and dental office or clinic Utility None All"
+        ],
+        [
+          318,
+          "data-processing center",
+          "llowed utility or industrial use None General & professional offices Computer & data-processing center"
+        ],
+        [
+          463,
+          "data-processing center",
+          "/craft studio • Bank, credit union and financial services office • Computer and data-processing center • Contractor offices with a storage yard (Only allowed as a Special Land Use in the Urban Commercial District) • Employment agency • Genera"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "OH",
+          "3911337912",
+          "http://www.jtwpmc.com/wp-content/uploads/2015/07/jtwp_zoning.pdf"
+        ]
+      ],
+      "sha256": "1daceefbe02458899e2b93485cc9c67aa083cdbcc12e3349e80e0e9454240e02",
+      "pages": 172,
+      "match_count": 1,
+      "hits": [
+        [
+          66,
+          "Data processing centers",
+          "r garages excluding body shops 3. Automobile service stations and laundries. 4. Data processing centers 5. Eating places No. 2. 6. Heating, air conditioning, electrical and plumbing service and repair. 7. Hotels and motels. 8. Indoor recreatio"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2616160",
+          "https://cityofclawson.com/your_government/building_and_planning/docs/Clawson_ZO_Zoning_Ordinance.pdf"
+        ],
+        [
+          "MI",
+          "2616160",
+          "https://www.cityofclawson.com/your_government/building_and_planning/docs/Clawson_ZO_Zoning_Ordinance.pdf"
+        ]
+      ],
+      "sha256": "1de1621b3063345027939309aeca4582b2c5febb0dfc94b16b3efb3e1bf8c58b",
+      "pages": 352,
+      "match_count": 2,
+      "hits": [
+        [
+          21,
+          "computer center",
+          "tical equipment, orthopedic products S Blueprinting §4.35 S Data processing and computer center, including service and maintenance P Dry cleaning & plants or laundries, central (not dealing directly with customers at retail) P P Heatin"
+        ],
+        [
+          161,
+          "computer center",
+          "uses& §5.12 b. Business support services c. Call centers d. Data processing and computer center, including service and maintenance e. High technology service uses f. Media production facilities and printing facilities g. Medical clinic"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2606547080",
+          "https://leroytwp.com/wp-content/uploads/2026/04/Leroy-Zoning-Ordinance-Updated-4-14-26.pdf"
+        ]
+      ],
+      "sha256": "23143fd5465685f041e0acc6ef50f6765a49fcae9561a69bc784fbf07baef762",
+      "pages": 233,
+      "match_count": 1,
+      "hits": [
+        [
+          59,
+          "data processing centers",
+          "s (without on site processing); fitness centers; copy centers; mailing centers, data processing centers, dressmakers and tailors; shoe repair shops; tanning salons; beauty parlors; barber shops, and similar establishments. 3. Banks, savings an"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "KY",
+          "21101",
+          "http://www.hendersoncountyky.gov/DocumentCenter/View/1226/Henderson-County-Zoning_FINAL-11-12-2020"
+        ]
+      ],
+      "sha256": "35e036877d2b734fe86e6a25baec62f67bcef0c912febc910cfdd55c6a9a2cc5",
+      "pages": 184,
+      "match_count": 1,
+      "hits": [
+        [
+          95,
+          "data processing centers",
+          "d Churches. K. Hospitals: nursing, convalescent and rest homes. L. Computer and data processing centers. M. Ticket and travel agencies. N. Apothecary (limited to the sale of pharmaceutical and medical supplies). O. Single-family residences. P."
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NC",
+          "37151",
+          "https://www.randolphcountync.gov/DocumentCenter/View/1786/The-Unified-Development-Ordinance"
+        ]
+      ],
+      "sha256": "3bbd3a4aa3d7e1703f8794cea783922c99cf45288df750da9a39eaacebbc5e7c",
+      "pages": 478,
+      "match_count": 9,
+      "hits": [
+        [
+          22,
+          "Data Processing Facility",
+          "ed to manufacture various dairy products such as milk, butter, and cream. (123) Data Processing Facility: A facility used to centralize, store, process, and manage vast amounts of data with physical or virtual servers. This term shall include d"
+        ],
+        [
+          186,
+          "Data processing facility",
+          "arters ✓ ✓ ✓ ✓ Cryptocurrency ✓ Dairy products, wholesale, and processing ✓ ✓ ✓ Data processing facility C Daycare facility (corporate) ✓ ✓ Daycare facility (freestanding) ✓ ✓ ✓ S ✓ ✓ ✓ ✓ ✓ ✓ ✓ Distribution or logistics center ✓ Drive-in window"
+        ],
+        [
+          207,
+          "DATA PROCESSING FACILITY",
+          "LE 600: ZONING ORDINANCE RANDOLPH COUNTY UNIFIED DEVELOPMENT ORDINANCE PAGE 199 DATA PROCESSING FACILITY Zoning Districts: HI-CD Parking: Off-street parking and loading shall be provided per Article 600, Section 634. Signs: Signs shall be permi"
+        ],
+        [
+          208,
+          "data processing facility",
+          "asured in dBA, dBC, and dBZ or 60 dBA, whichever is greater. Decommissioning: A data processing facility that ceases operations for a period of twelve consecutive months shall be considered decommissioned and/or abandoned unless the property ow"
+        ],
+        [
+          469,
+          "data processing facility",
+          "n of operations, cryptocurrency, cryptocurrency facility, data center facility, data processing facility, expansion/expanded, municipality, off-premise sign, parking area/lot, persons with disabilities, photovoltaic module, rebuild/rebuilt, rec"
+        ],
+        [
+          471,
+          "data processing facility",
+          " information that may not be specifically listed under the specific uses. Added data processing facility to the specific uses. Modified the lot size requirements in manufactured home parks to meet the state-required minimum lot sizes in watersh"
+        ],
+        [
+          475,
+          "data processing facility",
+          "p, landowner/owner, rezoning, and zoning map amendment Added the definitions of data processing facility, decibel, decibel of Z, decibel relative to carrier, FDIC, hertz, and official governmental flag in Section 102. Deleted multiple duplicate"
+        ],
+        [
+          476,
+          "Data Processing Facility",
+          "ke the information optional instead of required. Amended Section 618 to include Data Processing Facility in the Table of Permitted Uses. Amended Section 621 to add additional regulations for Data Processing Facility and to add regulations for T"
+        ],
+        [
+          476,
+          "Data Processing Facility",
+          " Table of Permitted Uses. Amended Section 621 to add additional regulations for Data Processing Facility and to add regulations for Temporary Recreational Vehicle placement. This section was also amended to remove references to electromagnetic "
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "SD",
+          "46013",
+          "https://www.brown.sd.us/sites/default/files/2026-08/title_4_zoning.pdf"
+        ]
+      ],
+      "sha256": "3f59247374e90ef044c92dc50a299a0755f56cb0640055f72e51695de484be71",
+      "pages": 208,
+      "match_count": 3,
+      "hits": [
+        [
+          2,
+          "Data Processing Center",
+          "upied include the words intended, designed, or arranged to be used or occupied. Data Processing Center A building or group of structures primarily used to house and maintain electronic hardware, computer systems and associated components, suc"
+        ],
+        [
+          206,
+          "Data processing centers",
+          "servation District (AG-P) with Continual Use Petition. 4.3803 Design Standards. Data processing centers shall comply with the following requirements: 1. Separation from Sensitive Properties. Data centers shall be set back at least (1) mile fro"
+        ],
+        [
+          207,
+          "data processing center",
+          "s appropriate warning signs. 4.3804 Utility Notifications. 1. No grid-connected data processing center shall be issued a permit until evidence has been provided by the operator that is installation of the system has been approved by the elect"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "SC",
+          "4568425",
+          "https://springdalesc.com/files/18561298369.pdf"
+        ]
+      ],
+      "sha256": "3fc877da0fc59223a6225ef3494d2e496d791c166f9e58edabf26370c8d10cba",
+      "pages": 126,
+      "match_count": 2,
+      "hits": [
+        [
+          113,
+          "electronic data storage centers",
+          ", administrative offices, legal offices, and architectural firms. Also includes electronic data storage centers and high-technology offices. Electronic Data Storage Center A work site used as a facility for the storage of and the operation of computer"
+        ],
+        [
+          113,
+          "Electronic Data Storage Center",
+          "rms. Also includes electronic data storage centers and high-technology offices. Electronic Data Storage Center A work site used as a facility for the storage of and the operation of computer hardware, equipment for processing, storage and/or routing "
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2605500200",
+          "https://www.acmetownship.org/uploads/2/4/3/0/24300134/acme_twp_zo__final__07-31-2022_.pdf"
+        ]
+      ],
+      "sha256": "4784145ec1d25246778bfb039b81f0fa017069da4943a42765d25acc84886176",
+      "pages": 217,
+      "match_count": 3,
+      "hits": [
+        [
+          24,
+          "Data Processing Centers",
+          "Cleaning Facilities S Childcare Centers P P Community Kitchen P P P Computing & Data Processing Centers P P P Contractor Retail Establishments P Contractor Storage Yards P* Cultural Institutions P P P P Customary Agricultural Operations P P* P"
+        ],
+        [
+          78,
+          "Data Processing Centers",
+          "1,000 square feet Child Care Centers 1 / employee + 1 / 10 children Computing & Data Processing Centers 1 / employee Drinking Establishments 1 / 3 occupancy Drive In or Drive Through Services 2 / window Financial Services 2 / 1,000 square feet"
+        ],
+        [
+          78,
+          "Data Processing Facilities",
+          "leaning Facilities 1 / employee Contractor Establishments 3 / 1,000 square feet Data Processing Facilities 1 / employee Greenhouses & Nurseries 0.5 / 1,000 square feet Manufacturing, Assembling & Processing 1 / 4,000 square feet Research & Develo"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "SD",
+          "46059",
+          "https://handcountysd.gov/wp-content/uploads/2026/04/Hand-draft-Zoning-Ordinance-Final-Draft-030426.pdf"
+        ]
+      ],
+      "sha256": "481de974ad70371e8a54294601e386e0740a8634ba0bfa797524fef582a62b35",
+      "pages": 84,
+      "match_count": 7,
+      "hits": [
+        [
+          12,
+          "Data Processing Center",
+          " at which a customer typically purchases only a few items during a short visit. Data Processing Center. A building, dedicated space within a building, or group of structures used to house and maintain electronic hardware, computer systems and"
+        ],
+        [
+          31,
+          "Data Processing Center",
+          "Hazardous Liquid Pipeline (HLP) provided they meet the requirements of 5.19 38. Data Processing Center provide they meet the requirements of 5.22 Section 4.01.04. Area Regulations. All buildings shall be set back from public road centerlines "
+        ],
+        [
+          34,
+          "Data Processing Center",
+          "31. Cannabis Dispensary provided it meets the requirements of Chapter 5.21. 32. Data Processing Center provided they meet the requirements of 5.22. Section 4.02.04. Area Regulations a. Lot Area. Lot area shall be determined by need, setback, "
+        ],
+        [
+          67,
+          "DATA PROCESSING CENTER",
+          "ce with the International Building Code as provided in SDCL 11-10. CHAPTER 5.22 DATA PROCESSING CENTER. Section 5.22.01. Siting Requirements. 1. Data processing centers shall comply with the following requirements: a. Fencing: A six (6) foot "
+        ],
+        [
+          67,
+          "Data processing centers",
+          ". CHAPTER 5.22 DATA PROCESSING CENTER. Section 5.22.01. Siting Requirements. 1. Data processing centers shall comply with the following requirements: a. Fencing: A six (6) foot sight obscuring fence shall be required along the entire perimeter"
+        ],
+        [
+          67,
+          "data processing center",
+          "occupied residence. Section 5.22.02. Utility Notification. 1. No grid-connected data processing center shall be issued a permit until evidence has been provided by the operator that installation of the system has been approved by the electric"
+        ],
+        [
+          69,
+          "data processing facility",
+          "Section 5.22.07. Submittal Requirements. 1. A narrative describing the proposed data processing facility including an overview of the project, including a description of how the project meets market demand, the facility’s processing capacity, a"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "IN",
+          "1818190",
+          "https://dillsboro.in/images/2022/Dillsboro_Zoning_Ordinance_2022_UPDATED_FINAL_DOCUMENT.pdf"
+        ]
+      ],
+      "sha256": "4a8c369fc9792e46c30057a3b194609c1c1629027b194c1e8e7f182c06959b52",
+      "pages": 286,
+      "match_count": 1,
+      "hits": [
+        [
+          80,
+          "data processing facility",
+          "les and repair 22. Coffee shop 23. Coin sales 24. Community center 25. Computer data processing facility 26. Computer sales, service, or repair 27. Condominium development 28. Copy and/or printing service 29. Cosmetic sales 30. Costume rental 3"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MA",
+          "2500123105",
+          "https://www.falmouthma.gov/DocumentCenter/View/14415/Town-of-Falmouth-Massachusetts-Zoning-Bylaw-Town-Code-Chapter-240-Articles-1-14-November-2022"
+        ]
+      ],
+      "sha256": "56a4c3dcf47f6b68d2e42fecabbf5c6becb1539ce48f597023975bf3c593bb5f",
+      "pages": 150,
+      "match_count": 2,
+      "hits": [
+        [
+          42,
+          "Computer center",
+          " allowed by right. Y Y Y N Bank Y Y Y Y Business or professional office Y Y Y Y Computer center Y Y Y Y Medical clinic Y Y Y Y Passenger station Y Y Y N Personal and household services Allowed in the B-3 and BR Districts only if each e"
+        ],
+        [
+          47,
+          "Computer Center",
+          "trial Uses Arts & Crafts Y Y N Bank Y Y N Business or Professional Office Y Y N Computer Center Y Y N Contractor Yard See “Special Permit Uses” Section below for contractor yard in the LI-A and LI-B Districts N N Y Converting, Fabricat"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "IN",
+          "1832512",
+          "https://www.haubstadt.net/uploads/1/2/7/0/127015135/final_zoning_ordinance3_1.pdf"
+        ]
+      ],
+      "sha256": "5db4786cdd207721b361a5fcdf0cf013bb11a591dfb5234269f5ef935acc85de",
+      "pages": 206,
+      "match_count": 1,
+      "hits": [
+        [
+          90,
+          "data processing facility",
+          "iropractor oﬃ ce 11. Coﬀ ee shop, with no drive-through facilities 12. Computer data processing facility 13. Counseling service oﬃ ce 14. Consulting service oﬃ ce 15. CraĞ shop 16. Dating service 17. Dentist oﬃ ce 18. Doctor’s oﬃ ce 19. Embroid"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NH",
+          "3301509300",
+          "https://www.candianh.org/DocumentCenter/View/1972/Zoning-Regulations---Zoning-Ordinance-and-Map-PDF"
+        ]
+      ],
+      "sha256": "610d8dacb040ebe7307211ae66120ff0edfb9527a3a1707fbefc4492d1e4b84a",
+      "pages": 75,
+      "match_count": 1,
+      "hits": [
+        [
+          22,
+          "data processing centers",
+          "iletries, and pharmaceutical products - - - P P (c-1-d) Administrative offices, data processing centers and laboratories for scientific and industrial research including testing and product development. Where permitted by Special Exceptions in"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NC",
+          "37147",
+          "https://www.pittcountync.gov/DocumentCenter/View/806/Zoning-Ordinance-PDF"
+        ]
+      ],
+      "sha256": "6468ddc7d665cd55d2faf9e70aa5fe6ecc24c0093af90d425be688cb6af232b3",
+      "pages": 269,
+      "match_count": 11,
+      "hits": [
+        [
+          53,
+          "Data Processing Facility",
+          "ommunication or Broadcasting Facility 4800 Z Z Z Z Courier Service 4215 Z Z Z Z Data Processing Facility (Large Scale) 7370 8(UUUU) CD CD CD D D Farm Product Warehousing and Storage 4221 8(DD) D D Z Hazardous and Radioactive Waste (transportati"
+        ],
+        [
+          160,
+          "Data Processing Facility",
+          " reinstated on the property within 60 days of its removal, as applicable. UUUU. Data Processing Facility (Large Scale) 1. Where Required RA, GC, HC, LI, and GI districts. Must be approved as a Conditional Zoning District in accordance with Sect"
+        ],
+        [
+          160,
+          "data processing facility",
+          " or residence. 4. Submittal Requirements a. A narrative describing the proposed data processing facility including an overview of the project; b. A site plan showing the proposed location and dimensions of all equipment, existing and proposed s"
+        ],
+        [
+          218,
+          "Data Processing Facility",
+          "ng the impulse mode and \"A\" weighting network on a precision sound level meter. Data Processing Facility (Large Scale): A building, dedicated space within a building, or group of structures located on one or more acres of land used to house a l"
+        ],
+        [
+          218,
+          "data processing facilities",
+          "o be referred to as a “Data Center”. This definition shall not apply to smaller data processing facilities that are located on less than one acre of land and where such facilities are accessory or incidental to another primary use. Day: Any refer"
+        ],
+        [
+          262,
+          "Data Processing Facility",
+          ", 2021 1. Amended Table 5-1 Pitt County Table of Permitted Uses to incorporate “Data Processing Facility (Large Scale)”. 2. Added Section 8(UUUU) “Data Processing Facility (Large Scale)”. 3. Amended Section 15 Definitions to incorporate new def"
+        ],
+        [
+          262,
+          "Data Processing Facility",
+          "incorporate “Data Processing Facility (Large Scale)”. 2. Added Section 8(UUUU) “Data Processing Facility (Large Scale)”. 3. Amended Section 15 Definitions to incorporate new definition for “Data Processing Facility (Large Scale)”. January 11, 2"
+        ],
+        [
+          262,
+          "Data Processing Facility",
+          "e Scale)”. 3. Amended Section 15 Definitions to incorporate new definition for “Data Processing Facility (Large Scale)”. January 11, 2022 1. Amended Table 5-1 Pitt County Table of Permitted Uses to remove “Data Processing Facility (Large Scale)"
+        ],
+        [
+          262,
+          "Data Processing Facility",
+          "ry 11, 2022 1. Amended Table 5-1 Pitt County Table of Permitted Uses to remove “Data Processing Facility (Large Scale)” from the RR zoning district. 2. Amended Section 8(UUUU) “Data Processing Facility (Large Scale)”. 3. Amended Section 15 Defi"
+        ],
+        [
+          262,
+          "Data Processing Facility",
+          "acility (Large Scale)” from the RR zoning district. 2. Amended Section 8(UUUU) “Data Processing Facility (Large Scale)”. 3. Amended Section 15 Definitions to clarify the definition for “Data Processing Facility (Large Scale)”. August 1, 2022 1."
+        ],
+        [
+          262,
+          "Data Processing Facility",
+          "Large Scale)”. 3. Amended Section 15 Definitions to clarify the definition for “Data Processing Facility (Large Scale)”. August 1, 2022 1. Amended ordinance to change “Class 1 Special Uses” to require a “Conditional Zoning District” for approva"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2609351640",
+          "https://www.mariontownship.com/e/zoning-ordinance-combined-march2026.pdf?1772727773"
+        ]
+      ],
+      "sha256": "6c5d599c475056c27076f27394da5553cc118317542f6dc1b6871d1c9e26fab4",
+      "pages": 444,
+      "match_count": 7,
+      "hits": [
+        [
+          7,
+          "Data Processing Facility",
+          "Facilities .................................................. 360 Section 17.36 Data Processing Facility .................................................................. 378 Section 17.37 Utility-Scale Wind Energy Conversion Facilities ......"
+        ],
+        [
+          21,
+          "Data Processing Facility",
+          " portion of a building devoted to cremation services for deceased human bodies. Data Processing Facility: A building, dedicated space within a building, or group of structures located on one or more acres of land used to house a large group of "
+        ],
+        [
+          378,
+          "Data Processing Facility",
+          "olar Energy Facilities, even if PA 233 of 2023 is in full effect. Section 17.36 Data Processing Facility The intent and purpose of this data processing facility section is to establish guidelines and safeguards for the collection, storage, and "
+        ],
+        [
+          378,
+          "data processing facility",
+          "l effect. Section 17.36 Data Processing Facility The intent and purpose of this data processing facility section is to establish guidelines and safeguards for the collection, storage, and use of data within our rural community. By implementing "
+        ],
+        [
+          379,
+          "Data Processing Facilities",
+          "1-1 Data Processing Facilities are considered special uses and are therefore subject to the provisions of Article XVI, Special Use Permits, and other applicable provision"
+        ],
+        [
+          379,
+          "Data Processing Facilities",
+          "ip board if all the criteria listed hereof are met. A. Locational Requirements: Data Processing Facilities are permitted in the Light Industrial Districts with a minimum lot size of four (4) acres. B. Performance Standards: 1. Data Processing Fac"
+        ],
+        [
+          379,
+          "Data Processing Facilities",
+          "stricts with a minimum lot size of four (4) acres. B. Performance Standards: 1. Data Processing Facilities are considered a principal use and shall be the only principal use on a property at any one time. 2. At all times, sound levels at the prop"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "VA",
+          "51197",
+          "https://www.wytheco.org/DocumentCenter/View/698/Land-Use-Classification-Ordinance---Draft-31---October-2025"
+        ]
+      ],
+      "sha256": "6f78101eb9532848605a93321a939d0be5266ad1f770a10e0b1fbe620552be6d",
+      "pages": 70,
+      "match_count": 3,
+      "hits": [
+        [
+          16,
+          "data processing facility",
+          "es and service including farm and construction machinery. y) Call center and/or data processing facility. z) Public and semi-public uses including: a. Cemetery. b. Church. c. Community center. d. Fire department and rescue squad establishments."
+        ],
+        [
+          19,
+          "data processing facility",
+          ". s) Wholesale distribution and sales. t) Truck terminal. u) Call center and/or data processing facility. v) Brewery. w) Distillery. x) Laboratory, medical and analytical. y) Service business, general contractor, major. z) Service business, gen"
+        ],
+        [
+          30,
+          "Data Processing Facility",
+          "ed for customers. 4-10.6. Manufacturing, Wholesale Distribution, or Call Center/Data Processing Facility: One space for every employee, with modifications allowed for shift employment. 4-10.7. Other Commercial Buildings Not Listed Above and Her"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "KY",
+          "2138814",
+          "https://www.hurstbourne.org/wp-content/uploads/2026/04/hurstbourneldcmarch2006-2.pdf"
+        ]
+      ],
+      "sha256": "7ad3ee8ed3fdb8b5b0c5716edfeccbd1f8e0de3c291973298972a7a48290deba",
+      "pages": 965,
+      "match_count": 3,
+      "hits": [
+        [
+          128,
+          "Telecommunications hotels",
+          "y generate significant impacts, it shall not be an accessory use. Sports Arenas Telecommunications hotels B. CONDITIONAL USES: Certain uses may be permitted in this district upon the granting of a Conditional Use Permit by the Board of Zoning Ad"
+        ],
+        [
+          130,
+          "Telecommunications hotels",
+          "ype motor-testing Medical laboratories Office buildings, as accessory uses only Telecommunications hotels Temporary buildings, the uses of which are incidental to construction operations being conducted on the same or adjoining lot or tract, and"
+        ],
+        [
+          244,
+          "Telecommunications hotels",
+          "anning salons - - - - - - - - - - - - - - - - - - - - P P P P P - - - - P - - - Telecommunications hotels - - - - - - - - - - - - - - - - - - - - - - P P P P P P P P - - - Telephone exchanges - - - - - - - - - - - - - - - - - - - - - P P P P - -"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2602572980",
+          "https://www.sheridantwp.com/_files/ugd/e03226_3a4ab8e1df1a41eba54b69bd064fecfc.pdf"
+        ]
+      ],
+      "sha256": "7df2c707c095e2ef8df328a7575fdcd8d4dae6db8689b457eb940ae3aa489763",
+      "pages": 234,
+      "match_count": 1,
+      "hits": [
+        [
+          61,
+          "computer centers",
+          " and freight terminals. H. Wholesale and retail nursery. I. Data processing and computer centers including the servicing and maintenance of electronic data processing equipment."
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2606547080",
+          "https://leroytwp.com/wp-content/uploads/2022/06/Leroy-Zoning-Ordinance-Effective-May-8-2022.pdf"
+        ]
+      ],
+      "sha256": "820e69cdaf446b937c9b848ec587252c7562029149775cfb8451435c793ebb78",
+      "pages": 233,
+      "match_count": 1,
+      "hits": [
+        [
+          59,
+          "data processing centers",
+          "s (without on site processing); fitness centers; copy centers; mailing centers, data processing centers, dressmakers and tailors; shoe repair shops; tanning salons; beauty parlors; barber shops, and similar establishments. 3. Banks, savings an"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2663700",
+          "https://perry.mi.us/wp-content/uploads/2026/07/2026-07-22-Perry-Zoning-Ordinance-updated.pdf"
+        ]
+      ],
+      "sha256": "8f080f8f6c2227ec31eb8ca8d540719bbb336748a7a2aaa76316d7a1f05d5882",
+      "pages": 213,
+      "match_count": 1,
+      "hits": [
+        [
+          130,
+          "computer centers",
+          "epair garages and collision services SLU P Billboards NP NP Data processing and computer centers P P Heating and electric power generating plants NP P Laboratories including experimental, film, and testing P P"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2611764040",
+          "https://www.piersontwp.org/_files/ugd/7ad804_fa8eb2cb5e8e408c84c151d4c1c47019.pdf"
+        ]
+      ],
+      "sha256": "9077a55d9add7eddba64550fd2791bae178a57411088f26bef3fabfce2a3ec6c",
+      "pages": 228,
+      "match_count": 1,
+      "hits": [
+        [
+          106,
+          "data processing centers",
+          "w. (j) Private clubs, fraternal organizations and lodge halls. (k) Computer and data processing centers. (l) Mailing and packaging service. (m) Internet-related offices and services. (n) Other similar retail business or service establish1-nent"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NE",
+          "3126385",
+          "https://www.cityoflavista.org/DocumentCenter/View/24823/LA-VISTA-ZONING-ORDINANCE-OCTOBER-15-2024"
+        ]
+      ],
+      "sha256": "95786f9e2a47a27a49998800ee81e876853ca52030567f02f7978d47b7f8a4e5",
+      "pages": 156,
+      "match_count": 1,
+      "hits": [
+        [
+          14,
+          "data processing centers",
+          " chillers, electrical transformers, and engine generators. Typical uses include data processing centers and server farms. (Ordinance No. 1433, 12-7-21) DENSITY shall mean the number of dwelling units per gross acre of land. DEVELOPER shall mea"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NH",
+          "3301306500",
+          "https://bownh.gov/DocumentCenter/View/87/Zoning-Ordinance---Articles-1---14-with-2026-amendments-included-PDF"
+        ]
+      ],
+      "sha256": "97143aab6fd69c89ca7945acdae84c99ccb149f8d402e2ef8492a1bdc7447662",
+      "pages": 133,
+      "match_count": 1,
+      "hits": [
+        [
+          5,
+          "Data Processing Centers",
+          "3 to remove Laboratory and Research Centers, Corporate Office Headquarters, and Data Processing Centers as allowed uses in the Residential (R) and Rural (RU) Districts; renamed 7.02 Planned Open Space - Residential Development (POS-RD) Subdivi"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2630700",
+          "https://CITYOFFREMONT.NET/DocumentCenter/View/2192/FCJZO-Ordinance---As-Amended--"
+        ]
+      ],
+      "sha256": "9b1797f35b89f169b65342906a2abe74218f4f11087897f98f9de2a744f2d8ab",
+      "pages": 493,
+      "match_count": 3,
+      "hits": [
+        [
+          327,
+          "data processing center",
+          "on Financial, Medical and Professional Office and Related Services Computer and data processing center General and Professional Office Research institution Medical and dental office or clinic Utility None All"
+        ],
+        [
+          336,
+          "data-processing center",
+          "llowed utility or industrial use None General & professional offices Computer & data-processing center"
+        ],
+        [
+          487,
+          "data-processing center",
+          "/craft studio  Bank, credit union and financial services office  Computer and data-processing center  Contractor offices with a storage yard (Only allowed as a Special Land Use in the Urban Commercial District)  Employment agency  Genera"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "VA",
+          "51155",
+          "https://pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf"
+        ],
+        [
+          "VA",
+          "51155",
+          "https://www.pulaskicounty.org/documents/planning-zoning/ordinances/udo-nov-2024.pdf"
+        ]
+      ],
+      "sha256": "9b7d217ba2b7ebbfe51f1529f562cc7c004bbfac5571f6739faf74e9ff818919",
+      "pages": 188,
+      "match_count": 1,
+      "hits": [
+        [
+          178,
+          "data processing centers",
+          "xamples include accountants or lawyers, architects and engineers, travel agent, data processing centers, insurance, real estate, or similar office environments. Public: Unless otherwise specifically indicated, public shall mean anything owned,"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "IA",
+          "19075",
+          "https://www.grundycountyiowa.gov/images/documents/announcements/Grundy%20County%20Development%20Ordinance%202022%20FINAL%20DRAFT%2009-12-22%20002.pdf"
+        ]
+      ],
+      "sha256": "a34e1480c37851c8452d9a00118f2acdd88afad17a37c56df4caac3d43cf9edc",
+      "pages": 113,
+      "match_count": 1,
+      "hits": [
+        [
+          65,
+          "Data Processing Center",
+          "sum, or plaster of Paris manufacture. 32. Explosive manufacture or storage. 33. Data Processing Center 34. Any similar manufacturing or industrial use deemed appropriate after review and approval of the County, per Section XXIV(L) of this Ord"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "IA",
+          "1967800",
+          "https://www.cityofrobins.org/wp-content/uploads/2026/05/CHAPTER-165-ZONING-REGULATIONS.pdf"
+        ]
+      ],
+      "sha256": "a3cf564cf633fdd27d147d5ce7e4e639836fd8fbcaf7840e43d4638786bf4690",
+      "pages": 108,
+      "match_count": 1,
+      "hits": [
+        [
+          26,
+          "Data processing centers",
+          "d Office uses such as: • Banking and bank-related services • Brokerage houses • Data processing centers • Government offices • Insurance services • Lenders and credit services • Public utility offices • Real estate and related services • Sales"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "AL",
+          "0136448",
+          "https://www.hueytownal.gov/DocumentCenter/View/516"
+        ],
+        [
+          "AL",
+          "0136448",
+          "https://www.hueytownal.gov/DocumentCenter/View/516/Proposed-ZONING-ORDINANCE-11-05-2026"
+        ]
+      ],
+      "sha256": "ac2d7ecfd09a86baf6115cfa1863ac04c5080a4dc976ff9c3be107e94b8a72c9",
+      "pages": 167,
+      "match_count": 1,
+      "hits": [
+        [
+          151,
+          "data processing center",
+          "such as servers associated with an office building. This use shall also include data processing center, data hub, Bitcoin mining, cryptocurrency mining, blockchain transaction processing, and server farms. A data center may include data cente"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MD",
+          "24025",
+          "https://www.harfordcountymd.gov/DocumentCenter/View/18362/5-10-21-Zoning-Code-Update---Bill-21-01AA"
+        ]
+      ],
+      "sha256": "ac8027721f4018fb1b6d40252331207d3928c6d502435b829acf203d4f87eeb6",
+      "pages": 38,
+      "match_count": 1,
+      "hits": [
+        [
+          8,
+          "DATA PROCESSING CENTER",
+          "y excavation; the depth below the original ground surface or excavated surface. DATA PROCESSING CENTER - A facility equipped with, or connected to, one or more computers, used for processing or transmitting data. DAY-CARE CENTER - A facility "
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MD",
+          "24043",
+          "https://www.washco-md.net/wp-content/uploads/legal-ZoningOrd.pdf"
+        ]
+      ],
+      "sha256": "b15059d6c4ededfa93a6df13586371b58bfacf4b074c7f0726cd06196eedf3eb",
+      "pages": 363,
+      "match_count": 3,
+      "hits": [
+        [
+          167,
+          "data processing centers",
+          "include offices for doctors, medical clinics or laboratories, engineers, banks, data processing centers, post offices, and local retail services, provided that such office buildings shall not be the first use erected in the industrial park. It"
+        ],
+        [
+          191,
+          "Data Processing Facilities",
+          "sisted Living Facility. Child or Adult Day Care Facilities. Conference Centers. Data Processing Facilities. Emergency Service Structures and Facilities. Financial Institutions. Golf Course, Country Clubs, Private Clubs and similar Recreation Uses"
+        ],
+        [
+          210,
+          "data processing centers",
+          "such as offices for doctors, medical clinics or laboratories, engineers, banks, data processing centers, and post offices. Wholesale warehousing establishments where no retail sales are permitted. Truck terminals or warehouses. Heliports, subj"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "VA",
+          "5116992",
+          "https://clarksvilleva.org/wp-content/uploads/2024/11/Clarksville-Zoning-Ordinance_Adopted-11-19-2019-Revision-June-16-2020.pdf"
+        ]
+      ],
+      "sha256": "b15f2d57e52a10cd47c906fbfa3c8a70cc87c37448940a4c6702a74d05311e1d",
+      "pages": 161,
+      "match_count": 1,
+      "hits": [
+        [
+          138,
+          "Electronic Data Storage Center",
+          "recreation areas, special support services and limited medical or nursing care. Electronic Data Storage Center: A worksite used as a facility for the storage of and the operation of computer hardware equipment for processing, storage and/or routing o"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NJ",
+          "3402549890",
+          "http://www.neptunetownship.org/sites/default/files/documents/LDO.pdf"
+        ]
+      ],
+      "sha256": "b22b78a8f1d7f8f278ea3f97ecba4ed806607fc9b78fabc764a6ba506d7cb42c",
+      "pages": 383,
+      "match_count": 1,
+      "hits": [
+        [
+          113,
+          "computer centers",
+          "s described above, shall be limited to the following: general office buildings, computer centers, research laboratories, banking facilities, hotels, restaurants and designed shopping centers which include retail and service establishmen"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2650620",
+          "https://villageofmancelona.org/wp-content/uploads/2025/01/Mancelona-ZO-FINAL-12.27.24.pdf"
+        ]
+      ],
+      "sha256": "b2fef48a92eec7ff858e98e77c7690bfa23c93656a5b1d11d0235747b53193ff",
+      "pages": 202,
+      "match_count": 3,
+      "hits": [
+        [
+          65,
+          "Data Processing Facilities",
+          "et Industrial Uses Contractor Establishments By Right --- 4 / 1,000 square feet Data Processing Facilities By Right --- 4 / 1,000 square feet Extractive Industries Special Use §6.13 1 / employee Manufacturing – Food Special Use --- 1.5 / 1,000 sq"
+        ],
+        [
+          69,
+          "Data Processing Facilities",
+          "ontractor Storage Yards Special Use §6.11 1 / 2,000 square feet of storage area Data Processing Facilities By Right --- 4 / 1,000 square feet Extractive Industries Special Use §6.13 1 / employee Greenhouses & Nurseries By Right --- 1 / employee +"
+        ],
+        [
+          180,
+          "DATA PROCESSING FACILITY",
+          "r vehicular traffic to or from a public or private thoroughfare. 14.6 “D” Terms DATA PROCESSING FACILITY: An establishment primarily involved in the compiling, storage, and maintenance of documents, records, and other types of information in di"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "OH",
+          "3954562",
+          "https://www.newfranklin.org/DocumentCenter/View/1290"
+        ]
+      ],
+      "sha256": "ba77603a4b56b3327b34b129f23f7fb0fa490591f3d1e142e54ad076251bb45e",
+      "pages": 402,
+      "match_count": 5,
+      "hits": [
+        [
+          95,
+          "Data Processing Facilities",
+          "shall require separate permits and approvals. (b) Computing, Infrastructure and Data Processing Facilities. The following standards shall apply to data centers, computing infrastructure providers, web hosting facilities, and cryptocurrency mining"
+        ],
+        [
+          95,
+          "data processing facilities",
+          " are intended to ensure that data centers, computing infrastructure facilities, data processing facilities, and cryptocurrency mining facilities are designed, located, and operated in a manner that protects public health, safety, and welfare; min"
+        ],
+        [
+          97,
+          "Data Processing Facilities",
+          "missioning and site restoration activities. (viii)Computing, Infrastructure and Data Processing Facilities. 1) Mechanical Equipment. Mechanical equipment, including cooling systems and backup generators, shall be located, oriented and designed to"
+        ],
+        [
+          99,
+          "data processing facilities",
+          "ments. The following requirements shall apply to applications for data centers, data processing facilities, computing infrastructure facilities, and cryptocurrency mining facilities. Requirements shall apply to all data centers and data processin"
+        ],
+        [
+          99,
+          "data processing facilities",
+          "ptocurrency mining facilities. Requirements shall apply to all data centers and data processing facilities: 1) Comprehensive Impact Study. The applicant shall submit a comprehensive impact study prepared by qualified professionals evaluating exis"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NY",
+          "3607119961",
+          "https://townofdeerparkny.gov/wp-content/uploads/Town-of-Deerpark-Zoning-2013.pdf"
+        ]
+      ],
+      "sha256": "bc8c1e008c86d193cbc05f929b6257cb2b88cf7d6a8d0d4c46b33b1b40b36292",
+      "pages": 134,
+      "match_count": 1,
+      "hits": [
+        [
+          110,
+          "computer center",
+          " which may include dining rooms, a library, arts and crafts studios, a business/computer center, pool, bistro, hairdressing facilities, lounges, a theater, inside convenience store, indoor and outdoor recreational facilities, a fitness"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2606586520",
+          "https://wheatfieldtwpmi.gov/wp-content/uploads/2024/05/Wheatfield-Twp-Zoning-Ordinance-As-Amended-thru-Ord-2024-1-Subm-4-17-24.pdf"
+        ]
+      ],
+      "sha256": "bc92644e15bdff01af9a21dc5184bf6e3d4476dc763909aca968ae25b592bed1",
+      "pages": 192,
+      "match_count": 1,
+      "hits": [
+        [
+          30,
+          "computer centers",
+          "avers and similar materials. S S 6 Contractor’s yard. – S 7 Data processing and computer centers. BR BR 8 Day care center. S – 9 Funeral homes and mortuaries, including a dwelling occupied by the facility owner or manager. S – 10 Health"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "OH",
+          "3956182",
+          "https://www.northbendohio.org/_files/ugd/7241ab_59bcc9bd24a6450e8c72f10801d7491c.pdf"
+        ]
+      ],
+      "sha256": "be5bc6269b1c5286612a91a6484340faeb98b36690558cc6cd925aaec3e751a2",
+      "pages": 181,
+      "match_count": 3,
+      "hits": [
+        [
+          15,
+          "Data Processing Center",
+          "ectional Facility C C Cultural Institution (Art Galleries, Libraries, etc.) P P Data Processing Center C P Day Care - Center P P Day Care - Home, Family, Small P P P Day Care - Home, Family, Large C C C Flex- Office - Warehouse P P Food Cart "
+        ],
+        [
+          58,
+          "Data Processing Center",
+          "mates Cultural Institution (Art Gallery, Library, etc.) 1 space per 400 sq. ft. Data Processing Center 1 space per employee1 + 1 space per facility vehicle Day Care 1 space per employee1 + 1 space per 7 children Flex-Office - Warehouse 2 spac"
+        ],
+        [
+          149,
+          "DATA PROCESSING CENTER",
+          "or sciences including but not limited to libraries, museums, and art galleries. DATA PROCESSING CENTER - A facility that houses computer systems and associated data and is focused on the mass storage of data. DAY CARE CENTERS – Any place in w"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2607517400",
+          "https://twp.columbia.mi.us/wp-content/uploads/2022/01/COLUMBIA-TWP-Zoning-Ordinance-As-Adopted-2-18-19.pdf"
+        ]
+      ],
+      "sha256": "cb81fef117bea42b3a20b85ced8c2250d01c01af80a60e728a4ebc9d5414a15f",
+      "pages": 142,
+      "match_count": 1,
+      "hits": [
+        [
+          28,
+          "computer centers",
+          "ities. – – – – – – S 8 Contractor’s yard. – S S – BR BR – 9 Data processing and computer centers including computer programming and software development, training, and service and maintenance of electronic data processing equipment. – –"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2623380",
+          "https://www.dundeevillage.net/DocumentCenter/View/886"
+        ]
+      ],
+      "sha256": "cc5d6ea0be7db2af839a9b41c01201297e76fc4353b6d6b3f17276a207e122cb",
+      "pages": 229,
+      "match_count": 1,
+      "hits": [
+        [
+          50,
+          "computer centers",
+          "blishments, such as typing, copying, and printing P P P P - Data processing and computer centers, including service and maintenance facilities P - - P P - Hospitals, health care centers or 24-hour med stations S - - S S Sec. 13.11 Medic"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NC",
+          "3738860",
+          "https://locustnc.com/wp-content/uploads/2026/03/Locust-Land-Development-Ordinances-Version-3.16.2026.pdf"
+        ]
+      ],
+      "sha256": "d1c1396ece123f0e13de3624de44d7a6c9baeaad55a2cb6dc5d15097335ba2b9",
+      "pages": 251,
+      "match_count": 1,
+      "hits": [
+        [
+          38,
+          "Data Processing Facility",
+          " 10 acres (level 3) - - - - - - - C - - TECHNOLOGY & INFRASTRUCTURE Data Center/Data Processing Facility - - - - - P - - - - Telecommunications Hub - - - - - P - - - - EV Charging Station (non-residential) - - - P P P - P - -"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "NC",
+          "3758920",
+          "https://www.cityofsaludanc.com/images/2025-12-8_Zoning_Ordinance_1.pdf"
+        ]
+      ],
+      "sha256": "d3fee7979108e94b3956ffe0e376d304dc8d43cde8c60671b168f3543f39f0f0",
+      "pages": 102,
+      "match_count": 5,
+      "hits": [
+        [
+          43,
+          "Data Processing Facilities",
+          "ty or in the same building, structure, or portion thereof. (Amended 12/9/24) B. Data Processing Facilities - Data processing facilities would only be allowed in the C3 Commercial District with a Special Use Permit. i. Application Submittal Requir"
+        ],
+        [
+          43,
+          "Data processing facilities",
+          "tructure, or portion thereof. (Amended 12/9/24) B. Data Processing Facilities - Data processing facilities would only be allowed in the C3 Commercial District with a Special Use Permit. i. Application Submittal Requirements a. A narrative describ"
+        ],
+        [
+          43,
+          "data processing facility",
+          "t. i. Application Submittal Requirements a. A narrative describing the proposed data processing facility including an overview of the project; b. A site plan showing the proposed location and dimensions of all equipment, existing and proposed s"
+        ],
+        [
+          61,
+          "Data processing facilities",
+          "ofing, plumbing, heating and air conditioning, but excluding open storage P P P Data processing facilities C Food manufacturing P P P P High impact land-use P 12.3 Manufacturing establishment whose operations are wholly and permanently conducted "
+        ],
+        [
+          87,
+          "Data Processing Facilities",
+          "n of land surface or area from which earth has been removed or will be removed. Data Processing Facilities: A building or dedicated space within a building used to house a large group of computer systems and associated components, such as telecom"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "IL",
+          "17161",
+          "https://www.rockislandcountyil.gov/DocumentCenter/View/771/Zoning-Ordinance-PDF"
+        ]
+      ],
+      "sha256": "d752b7270a26012a4340c273dd7ad54ed6221f070fa524abd334d9002db53310",
+      "pages": 210,
+      "match_count": 1,
+      "hits": [
+        [
+          107,
+          "computer centers",
+          "bly C. Custom cabinet shop D. Custom drapery manufacture E. Data processing and computer centers including computer programming and software development, training, and service and maintenance of electronic data processing equipment F. R"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "IA",
+          "19133",
+          "https://mononacountyiowa.gov/files/environmental_health_zoning/current_mc_zoning_regulations_chapter_100_amended_03112025_12875.pdf"
+        ]
+      ],
+      "sha256": "d830f3ec75b3da1610c3828e0cbef9defcb70f21ba80895150e1566c603c3606",
+      "pages": 106,
+      "match_count": 1,
+      "hits": [
+        [
+          1,
+          "Data Processing Facility",
+          " Requirements 100.36 Solar Energy Systems 100.37 Digital Currency Mining and/or Data Processing Facility 100.01 TITLE AND PURPOSE. This chapter shall be known and may be cited and referred to as the “Monona County, Iowa, Zoning Ordinance,” and "
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2607517400",
+          "https://twp.columbia.mi.us/wp-content/uploads/2024/06/COLUMBIA-TWP-Zoning-Ordinance-As-Amended-thru-2-19-24-.pdf"
+        ]
+      ],
+      "sha256": "e464ae8cac6322fe5ce6594703696eafaf26956cf15a3da0ffe6c6fe6fe27ed8",
+      "pages": 142,
+      "match_count": 1,
+      "hits": [
+        [
+          28,
+          "computer centers",
+          "ities. – – – – – – S 8 Contractor’s yard. – S S – BR BR – 9 Data processing and computer centers including computer programming and software development, training, and service and maintenance of electronic data processing equipment. – –"
+        ]
+      ]
+    },
+    {
+      "referrals": [
+        [
+          "MI",
+          "2659440",
+          "https://www.cityofnovi.org/media/xbxnuja1/novi-clearzoning-11-04-2025.pdf"
+        ],
+        [
+          "MI",
+          "2659440",
+          "https://www.cityofnovi.org/media/zqhhe0zr/zoningordinance.pdf"
+        ]
+      ],
+      "sha256": "fcf113c41cc39c53f2251df07716f9ec31a443ba3b1879de353437ff49442d84",
+      "pages": 422,
+      "match_count": 5,
+      "hits": [
+        [
+          13,
+          "computer centers",
+          "ice care facilities S S S Cultural facilities S S Dairies S Data processing and computer centers P P P R-A R-1 R-2 R-3 R-4 RM-1 RM-2 MH B-1 B-2 B-3 C EXO GE FS I-1 I-2 NCC OS-1 OSC OST RC P-1 TC TC-1 RT PSLR PSV CW"
+        ],
+        [
+          99,
+          "computer centers",
+          " training and design of pilot or experimental products vii. Data processing and computer centers viii. Warehousing and wholesale establishments §4.43 ix. Manufacturing §4.43 x. Industrial office sales, service and industrial office rel"
+        ],
+        [
+          102,
+          "computer centers",
+          "training and design of pilot or experimental products xvii. Data processing and computer centers xviii. Warehousing and wholesale establishments §4.43 xix. Manufacturing §4.43 i. Reserved ? User Note: For uses listed in bold blue, refe"
+        ],
+        [
+          110,
+          "computer centers",
+          "ldings, offices and office sales and service activities ii. Data processing and computer centers iii. Laboratories iv. Research, testing, design and development, technical training, and design of pilot or experimental products §4.68 v. "
+        ],
+        [
+          134,
+          "computer centers",
+          " office buildings, research and development facilities, and data processing and computer centers and similar facilities which do not include a substantial manufacturing or warehousing component may be permitted the additional height. P."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+reviewed_local_register_rows,reviewed_local_permit_keys,all_permit_keys_at_location,active_keys_at_location,historical_keys_at_location,unconfirmed_keys_at_location,example_local_register,example_local_record,state,group,location,geoid,facility_markers,local_provisions,history_rows_named_here,federal_rows_named_here,example_rule,example_history
+2054,1491,1556,8,63,1485,Loudoun issued permits,https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=PermitNumber+%3D+%27ELECC-2026-047407%27&outFields=ID%2CPermitGUID%2CPermitNumber%2CDESCRIPTION%2CPermitType%2CPermitStatus%2CISSUEDATE%2CPermitWorkClass%2CAPPLYDATE%2CFINALIZEDATE%2CDataSnapshot%2CParcelPIN&returnGeometry=false&f=pjson,VA,Reported county,Loudoun County,51107,228,10,2602,298,https://www.loudoun.gov/4265/Residential-and-Commercial-Construction-,https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1/query?where=PermitNumber+%3D+%27ELECC-2026-047407%27&outFields=ID%2CPermitGUID%2CPermitNumber%2CDESCRIPTION%2CPermitType%2CPermitStatus%2CISSUEDATE%2CPermitWorkClass%2CAPPLYDATE%2CFINALIZEDATE%2CDataSnapshot%2CParcelPIN&returnGeometry=false&f=pjson
+7,0,4,0,0,4,City of Manassas development and construction updates,https://d3n9y02raazwpg.cloudfront.net/manassascity/22252c2a-e676-11f0-bb28-005056a89546-c100f652-1dcb-4b3e-a5d5-e9ca6c63a770-1768947272.pdf,VA,place,Manassas city,5148952,4,0,51,28,,https://permits.virginia.gov/Permit/Details/171631
+0,0,0,0,0,0,,,VA,statistical place,Ashburn CDP,5103320,123,0,0,0,,
+0,0,5,0,3,2,,,TX,Reported county,Bexar County,48029,58,0,20,11,,https://www.tdlr.texas.gov/TABS/Projects/TABS2024014061
+33,33,33,0,0,33,San Antonio issued building and trade permits,https://data.sanantonio.gov/api/3/action/datastore_search?resource_id=c21106f9-3ef5-4f3a-8604-f992b4db7512&filters=%7B%22PERMIT+%23%22%3A%22COM-RW-PMT26-41100031%22%7D,TX,place,San Antonio city,4865000,46,0,35,0,,https://data.sanantonio.gov/api/3/action/datastore_search?resource_id=c21106f9-3ef5-4f3a-8604-f992b4db7512&filters=%7B%22PERMIT+%23%22%3A%22COM-RW-PMT26-41100031%22%7D
+0,0,0,0,0,0,,,TX,statistical place,The Woodlands CDP,4872656,2,0,0,0,,
+0,0,0,0,0,0,,,CA,Reported county,Santa Clara County,06085,74,0,58,57,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip
+47,1,1,0,0,1,Santa Clara public land-use proceedings,https://webapi.legistar.com/v1/santaclara/matters/24483,CA,place,Santa Clara city,0669084,53,7,95,30,https://santaclara.legistar.com/LegislationDetail.aspx?FullText=1&GUID=25408312-6834-469E-B545-48CCFFBD1814&ID=7404898,https://webapi.legistar.com/v1/santaclara/matters/24483
+0,0,0,0,0,0,,,CA,statistical place,Stanford CDP,0673906,1,0,0,0,,
+5,0,1,1,0,0,Hilliard campus board decisions,https://hilliardohio.gov/wp-content/uploads/2022/11/PZ-MINUTES-9-8-22.pdf#page=4,OH,Reported county,Franklin County,39049,32,0,12,5,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip
+9,1,3,0,0,3,New Albany verified campus zoning actions,https://newalbanyohio.org/wp-content/uploads/2026/05/26-0518-PC-Meeting-Minutes-and-Appendix-DRAFT.pdf#page=13,OH,place,New Albany city,3953970,38,1,11,0,https://datacenters.newalbanyohio.org/resident-questions/,https://newalbanyohio.org/wp-content/uploads/2026/05/26-0518-PC-Meeting-Minutes-and-Appendix-DRAFT.pdf#page=13
+0,0,0,0,0,0,,,OH,cousubs,Jersey township,3908939102,30,2,0,0,https://www.jerseytownship.us/zoning-resolution-book.html,
+6,0,19,0,0,19,Douglas County Planning and Zoning agendas,https://douglascountyga.gov/DocumentCenter/View/13708/DRAFT-2-3-2026-Zoning-Agenda?bidId=,GA,Reported county,Douglas County,13097,22,4,47,11,https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026,https://air.gaepd.org/Permits/View/OP-29802
+2,2,2,0,0,2,City of Alpharetta commercial permits,https://alphagis.alpharetta.ga.us/arcgis/rest/services/OpenData/OpenData_PCE_Full/FeatureServer/1/query?where=CA_OBJECT_ID%3D401&outFields=%2A&returnGeometry=false&f=pjson,GA,place,Alpharetta city,1301696,9,0,2,0,,https://alphagis.alpharetta.ga.us/arcgis/rest/services/OpenData/OpenData_PCE_Full/FeatureServer/1/query?where=CA_OBJECT_ID%3D401&outFields=%2A&returnGeometry=false&f=pjson
+0,0,0,0,0,0,,,GA,statistical place,Lithia Springs CDP,1346832,6,0,0,0,,
+63,62,62,0,7,55,Maricopa County air public notices,https://www.vendors.maricopa.gov/DocumentCenter/View/110345/Public-Notice-Starting-10012025-PDF,AZ,Reported county,Maricopa County,04013,69,0,153,90,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip
+122,108,116,0,97,19,Mesa building permit register,https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-09976,AZ,place,Mesa city,0446000,17,2,133,0,https://mesa.legistar.com/View.ashx?M=F&ID=14327029&GUID=5FD9E3FA-BBFB-43F9-A492-5E57CF3B0C72,https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-09976
+6,0,0,0,0,0,Somerset Planning Board project decisions,https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10,NY,Reported county,Niagara County,36063,13,0,6,0,,https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10
+3,0,0,0,0,0,Niagara Falls project decisions,https://cms3.revize.com/revize/niagarafallsny/Documents/Government/City%20Council/2025/0723/0%20-%20VOTE%20SHEET%20for%20REGULAR%20MTG%207.23.25.pdf,NY,place,Niagara Falls city,3651055,12,0,3,0,,https://cms3.revize.com/revize/niagarafallsny/Documents/Government/City%20Council/2025/0723/0%20-%20VOTE%20SHEET%20for%20REGULAR%20MTG%207.23.25.pdf
+0,0,1,0,0,1,,,NY,cousubs,Orangetown town,3608755211,4,0,1,0,,https://data.ny.gov/resource/2wgt-bc53.json?%24where=permit_id%3D%273-3924-00119%2F00005%27
+0,0,0,0,0,0,,,NY,statistical place,Pearl River CDP,3656902,2,0,0,0,,
+226,223,225,7,179,39,Chicago building permits,https://data.cityofchicago.org/resource/ydr8-5enu.json?%24where=permit_%3D%27101084518%27,IL,Reported county,Cook County,17031,36,0,336,106,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip
+10,7,7,0,0,7,Cook County assessor municipal permit register,https://assessorpropertydetails.cookcountyil.gov/datalets/datalet.aspx?LMparent=896&UseSearch=no&jur=016&mode=permit_ck_cc&pin=08224030160000&taxyr=2025,IL,place,Elk Grove Village village,1723256,21,0,11,1,,https://assessorpropertydetails.cookcountyil.gov/datalets/datalet.aspx?LMparent=896&UseSearch=no&jur=016&mode=permit_ck_cc&pin=08224030160000&taxyr=2025
+0,0,0,0,0,0,,,IL,cousubs,Elk Grove township,1703123243,21,0,0,0,,
+0,0,3,0,3,0,,,FL,Reported county,Miami-Dade County,12086,4,0,4,1,,https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1/query?f=pjson&where=OBJECTID%3D63467&outFields=%2A&returnGeometry=false
+0,0,3,0,3,0,,,FL,Reported county,Orange County,12095,4,0,3,0,,https://echo.epa.gov/effluent-charts#/FLR10UL86
+5,0,0,0,0,0,Town of Eatonville council agendas,https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=5cc05f3d22c94e3a9921ec730be886ec,FL,place,Eatonville town,1219650,3,0,5,0,,https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=5cc05f3d22c94e3a9921ec730be886ec
+0,0,0,0,0,0,,,FL,statistical place,Brandon CDP,1208150,1,0,0,0,,
+0,0,0,0,0,0,,,FL,statistical place,Town 'n' Country CDP,1272145,1,0,0,0,,
+0,0,0,0,0,0,,,PA,Reported county,Venango County,42121,32,0,0,0,,
+0,0,0,0,0,0,,,PA,place,Green Tree borough,4231256,1,0,0,0,,
+0,0,0,0,0,0,,,PA,place,Philadelphia city,4260000,1,0,0,0,,
+0,0,0,0,0,0,,,PA,place,Pittsburgh city,4261000,1,0,0,0,,
+0,0,0,0,0,0,,,PA,cousubs,Scrubgrass township,4212169016,32,0,0,0,,
+0,0,0,0,0,0,,,PA,statistical place,Audubon CDP,4203544,2,0,0,0,,
+0,0,26,1,13,12,,,WA,Reported county,Grant County,53025,33,0,48,2,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip
+0,0,21,0,10,11,,,WA,place,Quincy city,5357115,33,1,40,0,https://quincy.civicweb.net/document/202847/2026-04-07%20I-1.pdf,https://ecology.wa.gov/20260406sabeyinternoctsd
+0,0,0,0,0,0,,,WA,statistical place,Picnic Point CDP,5354213,1,0,0,0,,
+0,0,2,0,0,2,,,IN,Reported county,St. Joseph County,18141,10,0,333,3,,https://oas.dhs.in.gov/reports/rwservlet?dfbsepnpdf&report=plan_design_release04292005.rdf&p_release_id=545876
+0,0,0,0,0,0,,,IN,place,Columbus city,1814734,2,0,0,0,,
+0,0,0,0,0,0,,,IN,place,West Lafayette city,1882862,2,0,0,0,,
+0,0,0,0,0,0,,,IN,cousubs,Olive township,1814156556,8,0,0,0,,
+0,0,0,0,0,0,,,IN,statistical place,Granger CDP,1828800,2,0,0,0,,
+0,0,2,1,0,1,,,NJ,Reported county,Hudson County,34017,14,0,20,7,,https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content#page=10
+0,0,1,0,0,1,,,NJ,place,Secaucus town,3466570,11,0,12,0,,https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content#page=10
+0,0,0,0,0,0,,,NJ,cousubs,Piscataway township,3402359010,10,0,0,0,,
+0,0,0,0,0,0,,,NJ,statistical place,Franklin Center CDP,3424965,8,0,0,0,,
+0,0,8,0,0,8,,,OR,Reported county,Morrow County,41049,38,0,20,1,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip
+0,0,0,0,0,0,,,OR,place,Hillsboro city,4134100,33,1,11,1,https://engage.hillsboro-oregon.gov/data-centers,https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/8406/download
+83,82,82,0,79,3,Durham City-County building permits,https://webgis.durhamnc.gov/server/rest/services/PublicServices/Inspections/MapServer/12/35858,NC,Reported county,Durham County,37063,5,0,83,0,,https://webgis.durhamnc.gov/server/rest/services/PublicServices/Inspections/MapServer/12/35858
+3,0,0,0,0,0,Charlotte rezoning petitions,https://www.charlottenc.gov/Growth-and-Development/Planning-and-Development/Rezoning/2024/2024-144,NC,Reported county,Mecklenburg County,37119,5,0,4,1,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip
+3,0,0,0,0,0,Charlotte rezoning petitions,https://www.charlottenc.gov/Growth-and-Development/Planning-and-Development/Rezoning/2024/2024-144,NC,place,Charlotte city,3712000,5,2,3,0,https://charlottenc.legistar1.com/charlottenc/attachments/2e870f5c-3d79-40ac-8e73-4cc9e7e25900.pdf,https://www.charlottenc.gov/Growth-and-Development/Planning-and-Development/Rezoning/2024/2024-144
+0,0,0,0,0,0,,,NC,place,Durham city,3719000,5,0,0,0,,
+0,0,11,0,10,1,,,MN,Reported county,Hennepin County,27053,6,0,20,9,,https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/CCS_Permits/FeatureServer/0/query?where=permitNumber%3D%27BLDG1181293%27&outFields=permitNumber%2CpermitType%2CworkType%2Cstatus%2Cmilestone%2Ccomments%2CissueDate%2CcompleteDate&returnGeometry=false&f=pjson
+0,0,0,0,0,0,,,MN,place,Chaska city,2710972,4,0,7,0,,https://www.chaskamn.gov/841/Cloud-HQ
+0,0,11,0,10,1,,,MN,place,Minneapolis city,2743000,4,0,11,0,,https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/CCS_Permits/FeatureServer/0/query?where=permitNumber%3D%27BLDG1181293%27&outFields=permitNumber%2CpermitType%2CworkType%2Cstatus%2Cmilestone%2Ccomments%2CissueDate%2CcompleteDate&returnGeometry=false&f=pjson
+0,0,0,0,0,0,,,MN,cousubs,Pine Island township,2704951154,1,0,0,0,,
+0,0,1,1,0,0,,,MO,Reported county,Clay County,29047,7,0,8,7,,https://echo.epa.gov/effluent-charts#/MORA26968
+0,0,0,0,0,0,,,MO,place,Kansas City city,2938000,15,0,0,0,,
+0,0,0,0,0,0,,,MO,cousubs,Hamilton township,2902530052,1,0,0,0,,
+3,1,9,1,7,1,Aurora Building Division issued permit and certificates,https://coaapps.auroragov.org/publicdocuments/ViewDocument.aspx?c=MyNfEFCr%2bcrAPM7o1rw%2f%2bw%3d%3d,CO,Reported county,Arapahoe County,08005,11,0,18,4,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip
+0,0,0,0,0,0,,,CO,place,Centennial city,0812815,7,0,1,0,,https://apcdweb.dphe.state.co.us/PermitStatus/?permit=26AR0258
+2,0,0,0,0,0,Van Buren Township Planning Commission,https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Packets/10-14-26%20PC%20Packet.pdf?t=202610121200160#page=1,MI,Reported county,Wayne County,26163,4,0,5,3,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2026List.gzip
+0,0,0,0,0,0,,,MI,place,Detroit city,2622000,2,0,0,0,,
+0,0,0,0,0,0,,,MI,cousubs,Delta charter township,2604521520,2,0,0,0,,
+0,0,0,0,0,0,,,TN,Reported county,Williamson County,47187,6,0,1,1,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2019List.gzip
+0,0,0,0,0,0,,,TN,place,Brentwood city,4708280,3,0,0,0,,
+2,0,0,0,0,0,Franklin Municipal Planning Commission site plans,https://franklintn.legistar.com/LegislationDetail.aspx?ID=3824&GUID=A67DD281-837E-447D-8813-9EB1F9075771,TN,place,Franklin city,4727740,3,0,2,0,,https://franklintn.legistar.com/LegislationDetail.aspx?ID=3824&GUID=A67DD281-837E-447D-8813-9EB1F9075771
+0,0,0,0,0,0,,,TN,place,Gallatin city,4728540,3,0,0,0,,
+0,0,0,0,0,0,,,TN,statistical place,Nashville-Davidson metropolitan government (balance),4752006,4,0,0,0,,
+2,2,10,0,3,7,Clark County active dust-control snapshot,https://www.clarkcountynv.gov/assets/documents/government/departments/environment_and_sustainability/division_of_air_quality/dcop/dcopsbyarea-june-02-2025.pdf,NV,Reported county,Clark County,32003,23,0,38,19,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip
+15,14,14,0,14,0,Henderson open development permits,https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/2/query?where=OBJECTID%3D1539698383&outFields=OBJECTID%2CCASEID%2CCASENUMBER%2CWORKCLASS%2CAPPLICATIONDATE%2CPROJECTNAME%2CCASEWORKCLASS%2CCASETYPE%2CSTATUS%2CDESCRIPTION%2CISSUEDATE%2CEXPIREDATE%2CMAIN_ADDRESS_LINE1&returnGeometry=false&f=pjson,NV,place,Henderson city,3231900,2,0,15,0,,https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/2/query?where=OBJECTID%3D1539698383&outFields=OBJECTID%2CCASEID%2CCASENUMBER%2CWORKCLASS%2CAPPLICATIONDATE%2CPROJECTNAME%2CCASEWORKCLASS%2CCASETYPE%2CSTATUS%2CDESCRIPTION%2CISSUEDATE%2CEXPIREDATE%2CMAIN_ADDRESS_LINE1&returnGeometry=false&f=pjson
+0,0,0,0,0,0,,,NV,place,Las Vegas city,3240000,2,0,0,0,,
+0,0,0,0,0,0,,,NV,place,North Las Vegas city,3251800,2,0,0,0,,
+0,0,0,0,0,0,,,NV,statistical place,Enterprise CDP,3223770,11,0,0,0,,
+2,0,6,0,0,6,Salt Lake City building permit workflow,https://maps.slc.gov/server/rest/services/Accela/Accela_Permits_v2/MapServer/1/query?where=PermitNumber%3D%27BLD2024-05216%27&outFields=OBJECTID%2CPermitNumber%2CRecordType%2CProjectName%2CWorkDescription%2CApplicationStatus%2CTypeOfWork%2CFULL_%2CAppliedDate%2CPermitIssuance%2CCertificateIssuance&returnGeometry=false&f=pjson,UT,Reported county,Salt Lake County,49035,13,0,18,3,,https://daqpermitting.utah.gov/NOI_Pub_H
+1,0,1,0,0,1,Bluffdale Planning Commission decisions,https://www.bluffdale.gov/AgendaCenter/ViewFile/Minutes/_12062023-1316,UT,place,Bluffdale city,4906810,5,0,3,0,,https://daqpermitting.utah.gov/DocViewer?IntDocID=155071&contentType=application%2Fpdf
+0,0,2,0,0,2,,,UT,place,Eagle Mountain city,4920810,5,1,8,0,https://eaglemountain.gov/wp-content/uploads/2026/10/QTS-Development-Agreement.pdf,https://daqpermitting.utah.gov/DocViewer?IntDocID=167227&contentType=application%2Fpdf
+1,0,2,0,0,2,West Des Moines City Council site plans,https://www.wdm.iowa.gov/home/showpublisheddocument/44648/639045806609170000,IA,Reported county,Polk County,19153,24,0,35,32,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ACE2026List.gzip
+1,0,292,0,0,292,West Des Moines City Council site plans,https://www.wdm.iowa.gov/home/showpublisheddocument/44648/639045806609170000,IA,place,West Des Moines city,1983910,25,0,866,0,,https://idnraqrr.iowadnr.gov/ConPermitSearch/ConstructionPermit?id=10747
+12,8,8,0,0,8,Baltimore DHCD issued building and use permits,https://baltegis.baltimorecity.gov/mapping/rest/services/Housing/DHCD_Open_Baltimore_Datasets/FeatureServer/3/query?where=CaseNumber%3D%27COM2024-00530%27&outFields=OBJECTID%2CCaseNumber%2CDescription%2CExpirationDate%2CIssuedDate%2CAddress%2CExistingUse%2CProposedUse%2Ccsm_projname%2CIsPermitModification%2CPermitName&returnGeometry=false&f=pjson,MD,Reported county,Baltimore city,24510,6,0,12,0,,https://baltegis.baltimorecity.gov/mapping/rest/services/Housing/DHCD_Open_Baltimore_Datasets/FeatureServer/3/query?where=CaseNumber%3D%27COM2024-00530%27&outFields=OBJECTID%2CCaseNumber%2CDescription%2CExpirationDate%2CIssuedDate%2CAddress%2CExistingUse%2CProposedUse%2Ccsm_projname%2CIsPermitModification%2CPermitName&returnGeometry=false&f=pjson
+0,0,0,0,0,0,,,MD,place,Baltimore city,2404000,6,0,0,0,,
+0,0,0,0,0,0,,,MD,statistical place,Ballenger Creek CDP,2403800,1,0,0,0,,
+0,0,0,0,0,0,,,MD,statistical place,Calverton CDP,2412350,1,0,0,0,,
+0,0,0,0,0,0,,,MD,statistical place,Glen Burnie CDP,2432650,1,0,0,0,,
+0,0,0,0,0,0,,,MD,statistical place,Konterra CDP,2444715,1,0,0,0,,
+0,0,0,0,0,0,,,MD,statistical place,North Laurel CDP,2456725,1,0,0,0,,
+0,0,3,0,0,3,,,OK,Reported county,Tulsa County,40143,8,0,9,6,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip
+0,0,0,0,0,0,,,OK,place,Tulsa city,4075000,7,4,1,0,https://tulsaplanning.org/plans/TulsaZoningCode.pdf,https://tulsaplanning.org/tmapc/agendas/exhibits/Z-7851.pdf
+4,0,2,0,1,1,Framingham building applications,https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=permit%3D%27BLDE170819%27,MA,Reported county,Middlesex County,25017,2,0,13,2,,https://www.mass.gov/doc/markley-group-llc-final-decision-2025-022/download
+0,0,2,0,1,1,,,MA,place,Lowell city,2537000,1,1,6,2,https://lowellma.gov/2237/Data-Centers,https://www.mass.gov/doc/markley-group-llc-final-decision-2025-022/download
+0,0,0,0,0,0,,,MA,place,Somerville city,2562535,1,0,0,0,,
+0,0,0,0,0,0,,,MA,cousubs,Andover town,2500901465,1,0,0,0,,
+0,0,5,5,0,0,,,WI,Reported county,Racine County,55101,4,0,44,2,,https://apps.dnr.wi.gov/warp_ext/AM_PermitTracking2.aspx?id=35961
+0,0,0,0,0,0,,,WI,place,Mount Pleasant village,5554875,4,0,0,0,,
+0,0,0,0,0,0,,,WI,cousubs,Newport town,5502157025,1,0,0,0,,
+0,0,0,0,0,0,,,WI,cousubs,Trenton town,5502780525,1,0,0,0,,
+3,0,23,0,11,12,Papillion City Administrator permit reports,https://www.papillion.org/AgendaCenter/ViewFile/ArchivedAgenda/_08052025-480?packet=true,NE,Reported county,Sarpy County,31153,12,2,133,3,https://www.sarpy.gov/DocumentCenter/View/7675/Zoning-Regulations-adopted-by-Resolution-2024-030-complete-document,https://ecmp.nebraska.gov/publicaccess/index.html?OBKey__114_1=122487&OBKey__115_1=AIR&MyQueryID=340
+3,0,17,0,7,10,Papillion City Administrator permit reports,https://www.papillion.org/AgendaCenter/ViewFile/ArchivedAgenda/_08052025-480?packet=true,NE,place,Papillion city,3138295,9,0,119,0,,https://ecmp.nebraska.gov/publicaccess/index.html?OBKey__114_1=122487&OBKey__115_1=AIR&MyQueryID=340
+5,0,0,0,0,0,Louisville Metro development plans,https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false,KY,Reported county,Jefferson County,21111,2,2,5,0,https://louisville.legistar.com/View.ashx?M=F&ID=15773729&GUID=2BEF2F0D-866D-4039-80E5-DE4766F23E98,https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false
+0,0,0,0,0,0,,,KY,place,Florence city,2127982,1,0,0,0,,
+0,0,0,0,0,0,,,KY,place,Madisonville city,2149368,1,0,0,0,,
+0,0,0,0,0,0,,,KY,place,Paducah city,2158836,1,0,0,0,,
+0,0,0,0,0,0,,,KY,statistical place,Louisville city,2148000,1,0,0,0,,
+0,0,0,0,0,0,,,KY,statistical place,Louisville/Jefferson County metro government (balance),2148006,1,0,0,0,,
+9,2,7,0,2,5,Laramie County SmartGov planning permits,https://co-laramie-wy.smartgovcommunity.com/PermittingPublic/PermitLandingPagePublic/Index/571c1a3f-0e79-4312-a9f1-b46a011fad81,WY,Reported county,Laramie County,56021,24,1,24,10,https://laramiecounty.legistar.com/View.ashx?GUID=CA622251-5580-4D2B-AA97-DA9D67131C2F&ID=14836887&M=F,https://co-laramie-wy.smartgovcommunity.com/PermittingPublic/PermitLandingPagePublic/Index/571c1a3f-0e79-4312-a9f1-b46a011fad81
+2,0,0,0,0,0,City of Cheyenne public planning cases,https://connect.cheyennecity.org/v68314,WY,place,Cheyenne city,5613900,7,0,2,0,,https://connect.cheyennecity.org/v68314
+0,0,1,0,0,1,,,ND,Reported county,Dickey County,38021,10,0,8,1,,https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf#page=2
+1,0,0,0,0,0,City of Fargo commission proceedings,https://fargond.gov/city-government/departments/city-commission/agendas-minutes/2025-minutes-video-archive/november-24-2025-minutes,ND,place,Fargo city,3825700,1,0,1,0,,https://fargond.gov/city-government/departments/city-commission/agendas-minutes/2025-minutes-video-archive/november-24-2025-minutes
+0,0,0,0,0,0,,,ND,place,Harwood city,3835940,1,0,0,0,,
+0,0,0,0,0,0,,,ND,cousubs,Ellendale township,3802123260,10,0,0,0,,
+9,0,1,0,1,0,City of De Soto project and planning records,https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689#page=7,KS,Reported county,Johnson County,20091,5,0,10,0,,https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689#page=7
+0,0,0,0,0,0,,,KS,place,Lenexa city,2039350,3,0,0,0,,
+0,0,0,0,0,0,,,KS,cousubs,Medicine Lodge township,2000745525,1,0,0,0,,
+0,0,6,6,0,0,,,MS,Reported county,Madison County,28089,9,0,13,0,,https://opcgis.deq.state.ms.us/ensearchonline/ai_info.aspx?ai=54959
+0,0,2,2,0,0,,,MS,place,Ridgeland city,2862520,4,2,4,0,https://www.ridgelandms.org/city-departments/public-works/community-development/permits-and-inspections/,https://opcgis.deq.state.ms.us/ensearchonline/ai_info.aspx?ai=54959
+0,0,1,0,0,1,,,SC,Reported county,Berkeley County,45015,9,0,2,0,,https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf#page=9
+0,0,0,0,0,0,,,SC,place,Columbia city,4516000,1,0,0,0,,
+0,0,0,0,0,0,,,SC,place,Greenville city,4530850,1,0,0,0,,
+0,0,0,0,0,0,,,SC,place,Myrtle Beach city,4549075,1,0,0,0,,
+0,0,0,0,0,0,,,SC,place,North Charleston city,4550875,1,0,0,0,,
+0,0,0,0,0,0,,,AL,Reported county,Madison County,01089,7,0,3,3,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip
+18,18,18,0,6,12,Huntsville building permits,https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/60558,AL,place,Huntsville city,0137000,7,0,18,0,,https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/60558
+0,0,0,0,0,0,,,CT,Reported county,Western Connecticut Planning Region,09190,2,0,0,0,,
+0,0,0,0,0,0,,,CT,place,Norwalk city,0955990,1,0,0,0,,
+0,0,0,0,0,0,,,CT,place,Stamford city,0973000,1,0,0,0,,
+0,0,0,0,0,0,,,CT,cousubs,Glastonbury town,0911031240,1,0,0,0,,
+0,0,0,0,0,0,,,CT,cousubs,Norwalk town,0919056060,1,0,0,0,,
+0,0,0,0,0,0,,,CT,cousubs,Stamford town,0919073070,1,0,0,0,,
+0,0,0,0,0,0,,,CT,cousubs,Trumbull town,0912077200,1,0,5,0,,https://portal.ct.gov/-/media/csc/3_petitions-medialibrary/petitions_medialibrary/mediapetitionnos1201-1300/20210510-bloom-listofcompletedsites.pdf?rev=87bd3557e5a948e7baf6e9e34c2a4746&hash=E9EDC78C314D45057C9BA9E56A188210
+0,0,0,0,0,0,,,CT,cousubs,Wallingford town,0917078740,1,0,0,0,,
+0,0,0,0,0,0,,,CT,statistical place,Glastonbury Center CDP,0931270,1,0,0,0,,
+3,3,3,0,0,3,East Baton Rouge building permits,https://data.brla.gov/resource/7fq7-8j7r.json?%24where=permitnumber%3D%27187000%27,LA,Reported county,East Baton Rouge Parish,22033,3,0,3,0,,https://data.brla.gov/resource/7fq7-8j7r.json?%24where=permitnumber%3D%27187000%27
+0,0,0,0,0,0,,,LA,place,Baton Rouge city,2205000,3,0,0,0,,
+4,4,6,1,1,4,Albuquerque issued building permits,https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/43780,NM,Reported county,Bernalillo County,35001,9,0,17,3,,https://www.cabq.gov/airquality/documents/aqn-report.pdf/%40%40download/file/2026-08%20AQN%20Report.pdf#page=1
+4,4,6,1,1,4,Albuquerque issued building permits,https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/43780,NM,place,Albuquerque city,3502000,7,0,17,3,,https://www.cabq.gov/airquality/documents/aqn-report.pdf/%40%40download/file/2026-08%20AQN%20Report.pdf#page=1
+0,0,0,0,0,0,,,NM,statistical place,Kirtland AFB CDP,3536300,2,0,0,0,,
+0,0,0,0,0,0,,,WV,Reported county,Kanawha County,54039,1,0,0,0,,
+0,0,0,0,0,0,,,WV,Reported county,Morgan County,54065,1,0,0,0,,
+0,0,0,0,0,0,,,WV,place,Bath (Berkeley Springs) town,5404876,1,0,0,0,,
+0,0,0,0,0,0,,,WV,place,South Charleston city,5475292,1,0,0,0,,
+0,0,0,0,0,0,,,NH,Reported county,Rockingham County,33015,2,0,0,0,,
+0,0,0,0,0,0,,,NH,place,Portsmouth city,3362900,1,2,0,0,https://files.portsmouthnh.gov/files/planning/SitePlanReviewRegs.pdf,
+0,0,0,0,0,0,,,NH,cousubs,Durham town,3301719700,1,0,0,0,,
+0,0,0,0,0,0,,,NH,cousubs,Exeter town,3301525380,1,0,0,0,,
+0,0,0,0,0,0,,,NH,statistical place,Exeter CDP,3325300,1,0,0,0,,
+1,1,1,0,1,0,Little Rock municipal permits,https://maps.littlerock.gov/server/rest/services/Permits/MapServer/1/query?where=PermitNumber%3D%27202219031%27&outFields=OBJECTID%2CPermitNumber%2CProjectDesc%2CAppDate%2CPermitIssueDate%2CPermitStatus%2CPropertyAddress%2CPropertyCity%2CJurisdiction%2CBldUseDesc%2CPermitMileStone%2CWorkClass%2CPermitType%2CPermitDesc%2CPermitExpireDate%2CCertificateofOccupancyDate%2CLandUseDesc&returnGeometry=false&f=pjson,AR,Reported county,Pulaski County,05119,1,0,6,0,,https://adeq.state.ar.us/home/pdssql/p_facil_info.aspx?AFIN=6006438&AFINDash=60-06438
+0,0,0,0,0,0,,,AR,Reported county,White County,05145,1,0,0,0,,
+1,1,1,0,1,0,Little Rock municipal permits,https://maps.littlerock.gov/server/rest/services/Permits/MapServer/1/query?where=PermitNumber%3D%27202219031%27&outFields=OBJECTID%2CPermitNumber%2CProjectDesc%2CAppDate%2CPermitIssueDate%2CPermitStatus%2CPropertyAddress%2CPropertyCity%2CJurisdiction%2CBldUseDesc%2CPermitMileStone%2CWorkClass%2CPermitType%2CPermitDesc%2CPermitExpireDate%2CCertificateofOccupancyDate%2CLandUseDesc&returnGeometry=false&f=pjson,AR,place,Little Rock city,0541000,1,0,6,0,,https://adeq.state.ar.us/home/pdssql/p_facil_info.aspx?AFIN=6006438&AFINDash=60-06438
+0,0,0,0,0,0,,,AR,place,Searcy city,0563020,1,0,0,0,,
+0,0,1,1,0,0,,,ID,Reported county,Ada County,16001,2,0,1,0,,https://echo.epa.gov/effluent-charts#/IDR10C29X
+4,0,0,0,0,0,City of Kuna planning and zoning cases,https://kunacity.id.gov/Archive/ViewFile/Item/3950#page=4,ID,place,Kuna city,1644290,2,0,4,0,,https://kunacity.id.gov/Archive/ViewFile/Item/3950#page=4
+0,0,1,0,0,1,,,MT,Reported county,Custer County,30017,1,0,2,0,,https://echo.epa.gov/effluent-charts#/MTR104810
+0,0,0,0,0,0,,,MT,Reported county,Granite County,30039,1,0,0,0,,
+1,0,1,0,1,0,Yellowstone County commission project agenda,https://www.yellowstonecountymt.gov/BOCCDocs/2026/BOCCREG/20261027_1625/AGENDApacket__10-27-26_0219_1625.pdf#page=9,MT,Reported county,Yellowstone County,30111,1,0,5,0,,https://www.yellowstonecountymt.gov/BOCCDocs/2026/BOCCREG/20261027_1625/AGENDApacket__10-27-26_0219_1625.pdf#page=9
+0,0,0,0,0,0,,,MT,place,Billings city,3006550,1,0,0,0,,
+0,0,0,0,0,0,,,MT,place,Philipsburg town,3057175,1,0,0,0,,
+0,0,1,0,0,1,,,SD,Reported county,Minnehaha County,46099,2,0,4,0,,https://echo.epa.gov/effluent-charts#/SD0000299
+0,0,0,0,0,0,,,SD,place,Sioux Falls city,4659020,1,0,0,0,,
+0,0,0,0,0,0,,,SD,cousubs,Benton township,4609904860,1,0,0,0,,
+0,0,0,0,0,0,,,ME,Reported county,Cumberland County,23005,2,0,0,0,,
+0,0,0,0,0,0,,,ME,place,Portland city,2360545,1,0,0,0,,
+0,0,0,0,0,0,,,ME,cousubs,Brunswick town,2300508430,1,0,0,0,,
+0,0,0,0,0,0,,,ME,cousubs,Limestone town,2300339300,1,0,0,0,,
+0,0,0,0,0,0,,,ME,statistical place,Brunswick CDP,2308395,1,0,0,0,,
+0,0,18,0,9,9,,,DC,Reported county,District of Columbia,11001,1,0,18,0,,https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/1187961730
+0,0,0,0,0,0,,,DC,statistical place,Washington city,1150000,1,0,0,0,,
+0,0,3,0,1,2,,,PR,Reported county,Guaynabo Municipio,72061,1,0,4,0,,https://sigejp.pr.gov/server/rest/services/MIPR/Permisos/MapServer/2/query?f=pjson&objectIds=1046640&outFields=Caso%2CSiglas%2CNomProy%2CEstado%2CMunicipio%2CAgencia%2CRadicado%2CF_Estado%2CTramite&returnGeometry=false
+0,0,4,0,0,4,,,PR,Reported county,San Juan Municipio,72127,1,0,10,0,,https://sigejp.pr.gov/server/rest/services/MIPR/Permisos/MapServer/2/query?f=pjson&objectIds=973108&outFields=Caso%2CSiglas%2CNomProy%2CEstado%2CMunicipio%2CAgencia%2CRadicado%2CF_Estado%2CTramite&returnGeometry=false
+0,0,0,0,0,0,,,PR,statistical place,Guaynabo zona urbana,7232522,1,0,0,0,,
+0,0,0,0,0,0,,,PR,statistical place,San Juan zona urbana,7276770,1,0,0,0,,
+0,0,0,0,0,0,,,VT,Reported county,Windham County,50025,1,0,0,0,,
+0,0,0,0,0,0,,,VT,cousubs,Putney town,5002557700,1,0,0,0,,

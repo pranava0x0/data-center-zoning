@@ -1,0 +1,79 @@
+[
+  {
+    "state": "GA",
+    "jurisdiction": "Douglas County",
+    "level": "county",
+    "geoid": "13097",
+    "authority": "Douglas County Board of Commissioners",
+    "scope": "data center specific",
+    "status": "adopted",
+    "url": "https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026",
+    "id": "ga-douglas-special-use",
+    "topic": "special_use_permit",
+    "summary": "In unincorporated Douglas County, the principal use covering computing infrastructure, data processing and web hosting (NAICS 518210) needs special use approval in OI, LI, LI-R and HI. The other district cells on this row are blank; the legend identifies a blank as not allowed. The row does not allow this use by right.",
+    "locator": "§105(a), PDF p. 34; Table 2.2, NAICS 518210, printed p. 44 of 76 (PDF p. 101), including legend",
+    "evidence": "Use Requires Special Use Approval",
+    "district": "OI, LI, LI-R, HI"
+  },
+  {
+    "state": "GA",
+    "jurisdiction": "Douglas County",
+    "level": "county",
+    "geoid": "13097",
+    "authority": "Douglas County Board of Commissioners",
+    "scope": "data center specific",
+    "status": "adopted",
+    "url": "https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026",
+    "id": "ga-douglas-application-materials",
+    "topic": "site_plan",
+    "summary": "In unincorporated Douglas County, covered facilities must submit schedules for project buildout and utilities, plus a master site plan identifying required parcel divisions and combinations. These materials accompany any application for zoning action, special use, variance, land disturbance or building permits. The director may request further information under §1206.",
+    "locator": "§352(a)–(b), PDF p. 277",
+    "evidence": "all required subdivision and recombination of parcels"
+  },
+  {
+    "state": "GA",
+    "jurisdiction": "Douglas County",
+    "level": "county",
+    "geoid": "13097",
+    "authority": "Douglas County Board of Commissioners",
+    "scope": "data center specific",
+    "status": "adopted",
+    "url": "https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026",
+    "id": "ga-douglas-residential-adjacency",
+    "topic": "residential_setback",
+    "summary": "A covered facility in unincorporated Douglas County cannot occupy a parcel that shares a boundary with land either zoned for residential use or actually used for housing.",
+    "locator": "§352(c)(1), PDF p. 277",
+    "evidence": "shares a common property line"
+  },
+  {
+    "state": "GA",
+    "jurisdiction": "Douglas County",
+    "level": "county",
+    "geoid": "13097",
+    "authority": "Douglas County Board of Commissioners",
+    "scope": "data center specific",
+    "status": "adopted",
+    "url": "https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026",
+    "id": "ga-douglas-residential-buffer",
+    "topic": "buffer",
+    "summary": "In unincorporated Douglas County, covered facilities within 200 feet of residentially zoned or residentially used land need a 100-foot undisturbed buffer. Measure as specified from the nearest property line. The director may reduce the buffer if design and screening adequately integrate the building into the site. This discretion applies to the buffer, not the separate shared-boundary prohibition.",
+    "locator": "§352(c)(2) and (2)(a), PDF p. 277",
+    "evidence": "a reduction in the undisturbed buffer",
+    "thresholds": [
+      {
+        "metric": "undisturbed buffer",
+        "operator": "required",
+        "value": 100,
+        "unit": "feet",
+        "context": "Within 200 feet of residential land; director may approve a reduction."
+      },
+      {
+        "metric": "residential proximity",
+        "operator": "within",
+        "value": 200,
+        "unit": "feet",
+        "context": "Triggers 100-foot buffer; see nearest property line measurement in §352(c)(2)."
+      }
+    ]
+  }
+]

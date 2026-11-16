@@ -1,0 +1,44 @@
+{
+  "matches_per_query": {
+    "2-use": 129,
+    "2-alias": 383,
+    "8-use": 5,
+    "8-alias": 5,
+    "16-use": 10,
+    "16-alias": 2,
+    "20-use": 2,
+    "20-alias": 0
+  },
+  "unique_features": 530,
+  "held": 497,
+  "published": 33,
+  "municipalities": {
+    "San Juan": 10,
+    "Carolina": 4,
+    "Manatí": 1,
+    "Guaynabo": 4,
+    "Mayagüez": 2,
+    "Juncos": 8,
+    "Toa Baja": 4
+  },
+  "by_status": {
+    "RESUELTO. ACLARA PARTICULARES": 1,
+    "PERMIT_APPROVED": 29,
+    "PERMIT_CLOSED": 2,
+    "EXPIRED": 1
+  },
+  "by_class": {
+    "U": 1,
+    "DEC": 9,
+    "PGE": 5,
+    "SRI": 3,
+    "PCO": 2,
+    "SRS": 4,
+    "PCOC": 2,
+    "PCE": 2,
+    "PCM": 1,
+    "PU": 2,
+    "PCD": 1,
+    "PCT": 1
+  }
+}

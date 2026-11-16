@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fed-library-cmh205-verification",
+    "state": "OH",
+    "jurisdiction": "Jeffersonville",
+    "county": "Fayette County",
+    "dataset": "Army Corps Digital Library project actions",
+    "record_no": "LRH-2010-276-SCR",
+    "project": "Amazon Web Services CMH 205 — Phase I",
+    "kind": "Nationwide permit verification",
+    "status": "Previously authorized under a Nationwide Permit 39 verification",
+    "date": "2025-02-06",
+    "date_role": "prior verification date documented by district",
+    "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9780/download",
+    "source_url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9780/download",
+    "source_sha256": "2cefc35431c4cf71146a3f3982b52bc8ee6def6889964c92c66976e4999371c4",
+    "locator": "p. 1, Project History; June 6 public notice",
+    "details": {
+      "federal_issuer": "US Army Corps of Engineers",
+      "scope": "The Corps states it previously verified Phase I under NWP 39 for 0.46 acre of two wetlands under the same file. No present status, expiration, or further-phase approval is inferred.",
+      "corps_file": "LRH-2010-276-SCR",
+      "document_id": 9780,
+      "library_record": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/9780",
+      "library_metadata_sha256": "68b6cad8a0a11700e414cde3d6853fe2d69dcee9fce6f6d0fc6647e788909461",
+      "association": "direct site action",
+      "district": "United States. Army. Corps of Engineers. Huntington District"
+    }
+  },
+  {
+    "id": "fed-library-cmh205-notice",
+    "state": "OH",
+    "jurisdiction": "Jeffersonville",
+    "county": "Fayette County",
+    "dataset": "Army Corps Digital Library project actions",
+    "record_no": "LRH-2010-276-SCR",
+    "project": "Amazon Web Services CMH 205 — subsequent work",
+    "kind": "District public notice of application",
+    "status": "Public notice published",
+    "date": "2025-06-06",
+    "date_role": "notice publication date",
+    "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9780/download",
+    "source_url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/9780/download",
+    "source_sha256": "2cefc35431c4cf71146a3f3982b52bc8ee6def6889964c92c66976e4999371c4",
+    "locator": "p. 1, publication date, file, project location and §404 permit application",
+    "details": {
+      "federal_issuer": "US Army Corps of Engineers",
+      "scope": "The district sought comments on additional work under Section 404. This notice is separate from the earlier Phase I verification.",
+      "corps_file": "LRH-2010-276-SCR",
+      "document_id": 9780,
+      "library_record": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/9780",
+      "library_metadata_sha256": "68b6cad8a0a11700e414cde3d6853fe2d69dcee9fce6f6d0fc6647e788909461",
+      "association": "direct site action",
+      "district": "United States. Army. Corps of Engineers. Huntington District"
+    }
+  }
+]

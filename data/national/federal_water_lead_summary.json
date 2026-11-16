@@ -1,0 +1,21 @@
+{
+  "archive": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+  "sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+  "epa_direct_versions": 48165,
+  "epa_direct_ids": 43218,
+  "joined_facilities": 43167,
+  "ids_without_facility_join": 51,
+  "matched_versions": 137,
+  "unique_matched_permits": 122,
+  "review": {
+    "Project use unresolved; operator or industry term insufficient": 90,
+    "Already in published register": 7,
+    "Named use is not a data center": 21,
+    "Utility or off-site project, no data center decision identified": 14,
+    "Combined solar and data center name; scope unresolved": 2,
+    "Solar facility supplying a data center": 1,
+    "No-exposure certification; data center site not established": 2
+  },
+  "newly_admitted": 0,
+  "limits": "Only EPA-issued ICIS records; company text, industrial codes and expanded facility terms supplement the earlier keyword and matched-ID search. No permit enters the atlas solely from this queue."
+}

@@ -1,0 +1,75 @@
+{
+  "facility_inventory_only": [
+    {
+      "source_id": 16258,
+      "facility": "SWITCH LTD",
+      "postal_location": "LAS VEGAS NV 89104",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D260&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 16304,
+      "facility": "SWITCH LTD",
+      "postal_location": "LAS VEGAS NV 89118",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D269&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 17272,
+      "facility": "FLEXENTIAL LONE MOUNTAIN DATA CENTER",
+      "postal_location": "NORTH LAS VEGAS NV 89081",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D382&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 17648,
+      "facility": "DB DATA CENTER NEVADA LLC",
+      "postal_location": "LAS VEGAS NV 89119",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D465&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 17982,
+      "facility": "JASMINE DEVELOPMENT LLC",
+      "postal_location": "HENDERSON NV 89011",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D3117&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 18024,
+      "facility": "SWITCH LTD",
+      "postal_location": "LAS VEGAS NV 89118",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D3918&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 18179,
+      "facility": "NOVVA DATA CENTERS",
+      "postal_location": "LAS VEGAS NV 89115",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D4346&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    },
+    {
+      "source_id": 18218,
+      "facility": "VERIZON LAS VEGAS BELMONT",
+      "postal_location": "NORTH LAS VEGAS NV 89030",
+      "source_type": "DATA CENTER",
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=OBJECTID%3D9542&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=pjson",
+      "reason": "Air stationary source inventory; no issued permit or action date in layer."
+    }
+  ],
+  "excluded_municipal_candidates": [
+    {
+      "source": "reno",
+      "object": 3,
+      "reason": "Broad query matched unrelated or separated words; no admitted sector phrase."
+    }
+  ]
+}

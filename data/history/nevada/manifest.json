@@ -1,0 +1,143 @@
+{
+  "cutoff": "2026-11-15",
+  "files": {
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_32_place_500k.zip",
+      "sha256": "e68626ae00ea84409aa1f12acef6e6b2564429db1cf15db2990a4bf36163ddfb",
+      "bytes": 136592
+    },
+    "pnnl.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a",
+      "bytes": 69151
+    },
+    "ndep-air.html": {
+      "url": "https://ndep.nv.gov/air/permitting",
+      "sha256": "6717331933c2c495a8a9ec150354c62ef071aac03fad46452741e96fd19580e9",
+      "bytes": 135590
+    },
+    "ctitle.html": {
+      "url": "https://www.clarkcountynv.gov/government/departments/environment_and_sustainability/division_of_air_quality/permitting/title-v-permits",
+      "sha256": "3a8d6a88fdcc6f24f58a97442218d6b28b1336ac42ab72cd3c3a634446818fb1",
+      "bytes": 23433
+    },
+    "clark.pdf": {
+      "url": "https://www.clarkcountynv.gov/assets/documents/government/departments/environment_and_sustainability/division_of_air_quality/permitting/16304-20250515-per.pdf",
+      "sha256": "e3f22c941fa8474877c4cb02667ac34702ae8e0843890699e7ab5b84e5d5f5c4",
+      "bytes": 520293
+    },
+    "dust.pdf": {
+      "url": "https://www.clarkcountynv.gov/assets/documents/government/departments/environment_and_sustainability/division_of_air_quality/dcop/dcopsbyarea-june-02-2025.pdf",
+      "sha256": "1f2262338e79cd27e3bd1da4554ff4292b0732ac6b2c506cbf8c78f4748dbda7",
+      "bytes": 914138
+    },
+    "switch.pdf": {
+      "url": "https://ndep.nv.gov/uploads/documents/ap7375-3672-directors-review-1.pdf",
+      "sha256": "102ba620191a3372078df45469c5b3bd70889f98787869ef8639c7b031fdc456",
+      "bytes": 185129
+    },
+    "novva.pdf": {
+      "url": "https://ndep.nv.gov/uploads/documents/ap7374-4667-class-ii-aqop.pdf",
+      "sha256": "9d911825fce330e39dbd53a84dbfa417e11c77de70b3e0c63a605e8f25059a38",
+      "bytes": 368705
+    },
+    "henderson_other-ids.json.gz": {
+      "url": "https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/2/query?where=UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25NOVVA%25%27&returnIdsOnly=true&f=json",
+      "sha256": "3236e0b743882c23fe2631fa253809c0d31c9ca75f2676cc0e77112dba89a23d",
+      "bytes": 141
+    },
+    "henderson_other-0.json.gz": {
+      "url": "https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/2/query?objectIds=1539314326%2C1539317866%2C1539318410%2C1539318417%2C1539318422%2C1539372298%2C1539395621%2C1539538217%2C1539697142%2C1539697143%2C1539698250%2C1539698319%2C1539698383%2C1539747357%2C1539875309&outFields=OBJECTID%2CCASEID%2CCASENUMBER%2CWORKCLASS%2CAPPLICATIONDATE%2CPROJECTNAME%2CCASEWORKCLASS%2CCASETYPE%2CSTATUS%2CDESCRIPTION%2CISSUEDATE%2CEXPIREDATE%2CMAIN_ADDRESS_LINE1&returnGeometry=false&f=json",
+      "sha256": "64bd7829f57f7b27af26f0c4e511fe3d5e56606eadf5c9f69dc7899a16554631",
+      "bytes": 1566
+    },
+    "henderson_grading-ids.json.gz": {
+      "url": "https://maps.cityofhenderson.com/arcgis/rest/services/public/OpenDevPermits/MapServer/0/query?where=UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25NOVVA%25%27&returnIdsOnly=true&f=json",
+      "sha256": "b0baac0883ce0e6ab3539524ce50c065c7e84c395497ae5da89959eece2bf130",
+      "bytes": 62
+    },
+    "clark_inspection-ids.json.gz": {
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/BuildingDepartment/InspectionSites/MapServer/3/query?where=UPPER%28Scope_of_Work%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Scope_of_Work%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Scope_of_Work%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Scope_of_Work%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Scope_of_Work%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Scope_of_Work%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Scope_of_Work%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Description_of_Grading%29+LIKE+%27%25NOVVA%25%27&returnIdsOnly=true&f=json",
+      "sha256": "6376095103b05ed2c4e694928e26e3dbc48ba67712f754c0f4d8d91f3f0f35c4",
+      "bytes": 70
+    },
+    "clark_inspection-0.json.gz": {
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/BuildingDepartment/InspectionSites/MapServer/3/query?objectIds=907%2C3413%2C3414&outFields=OBJECTID%2CPermit_Number%2CScope_of_Work%2CAddress%2CType%2CLast_Inspection%2CLast_Inspection_Date%2CPermit_Issued_Date%2CDescription_of_Grading%2CParcel&returnGeometry=false&f=json",
+      "sha256": "ddcf348aeb7bb35641e02d88d083d9e6a6a13a553d1b22cc99e47fce15ada996",
+      "bytes": 750
+    },
+    "clark_sources-ids.json.gz": {
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?where=UPPER%28Source_Name%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Source_Name%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Source_Name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Source_Name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Source_Name%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Source_Name%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Source_Name%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Company_Name%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Source_Type%29+LIKE+%27%25NOVVA%25%27&returnIdsOnly=true&f=json",
+      "sha256": "f9a64357709c5f325ed7a7f0c8ac7bb0a24c4bc101894dde529d7c68bb745c2b",
+      "bytes": 95
+    },
+    "clark_sources-0.json.gz": {
+      "url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AQM/StationarySource_NonEdit/MapServer/1/query?objectIds=260%2C269%2C382%2C465%2C3117%2C3918%2C4346%2C9542&outFields=OBJECTID%2CSource_ID%2CSource_Classification%2CSource_Name%2CCompany_Name%2CSource_Type%2CNAICS_Code%2CSource_Address%2CSource_Location&returnGeometry=false&f=json",
+      "sha256": "d2fe6637e3d39fdf86e47f3d82ac16a1a6e9814195bb9520f128cda163e60431",
+      "bytes": 911
+    },
+    "reno-ids.json.gz": {
+      "url": "https://services5.arcgis.com/RjM4BJrv5ZkqP4XC/arcgis/rest/services/Permits_Issued/FeatureServer/0/query?where=UPPER%28Name%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Name%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Name%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Name%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Name%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Name%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Description%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28Description%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28Description%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28Description%29+LIKE+%27%25NOVVA%25%27&returnIdsOnly=true&f=json",
+      "sha256": "41661a18970057738bf2e7e754b75774aa6c5029a09175f98b50b811d6397a9e",
+      "bytes": 58
+    },
+    "reno-0.json.gz": {
+      "url": "https://services5.arcgis.com/RjM4BJrv5ZkqP4XC/arcgis/rest/services/Permits_Issued/FeatureServer/0/query?objectIds=3&outFields=FID%2CPermit_Number%2CStatus%2CAddress%2COpened%2CName%2CDescription%2CCity&returnGeometry=false&f=json",
+      "sha256": "ec746f5ce038e0e4a96a6011b2b722334072d3acd88e3a71d07822ff1fddfe21",
+      "bytes": 928
+    },
+    "lasvegas-ids.json.gz": {
+      "url": "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/OpenData_Building_Permits_/FeatureServer/0/query?where=UPPER%28COMM%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28COMM%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28COMM%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28COMM%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28COMM%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28COMM%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28COMM%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28NAME%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28NAME%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28NAME%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28CODE_ANALYSIS%29+LIKE+%27%25NOVVA%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25SUPERNAP%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25SWITCH%25NAP%25%27+OR+UPPER%28LEGALOWNER%29+LIKE+%27%25NOVVA%25%27&returnIdsOnly=true&f=json",
+      "sha256": "185e308c04a7f3621c5f62187524234ec0f97e7f387b3fcf413ef42c9ab88fb0",
+      "bytes": 56
+    },
+    "washoe-2015.pdf": {
+      "url": "https://www.washoecounty.gov/bcc/board_committees/2015/files/agendas/2015-02-24/8.pdf",
+      "bytes": 1787274,
+      "sha256": "ec2d78c787b15f314162f3b874a5ec0cd2ed5663b1f2ce31e0297c52515a464e"
+    },
+    "washoe-2023.pdf": {
+      "url": "https://www.washoecounty.gov/csd/planning_and_development/board_commission/planning_commission/2023/Files/WAC23-0012_sr.pdf",
+      "bytes": 2994654,
+      "sha256": "de00f749e4073cac2fe2c7b35f4cb5385a93015b6af844738d9a00b93fc5dfda"
+    },
+    "washoe-notice.html": {
+      "url": "https://washoelife.washoecounty.gov/nnph/nnph-air-quality-issues-public-notice-of-proposed-action-for-apple-inc/",
+      "bytes": 529886,
+      "sha256": "77143c7799023a9188d138e11eac2157fac6ea7da8493f860a3edaf9fab3e7d4"
+    },
+    "flexential.html": {
+      "url": "https://publicinput.com/q07765?embedId=14234",
+      "bytes": 65824,
+      "sha256": "c2a65d34f6b8adc2cf4004894c11987b9f96615ee0a2dde7de5e8ac9835797a5"
+    },
+    "washoe-minutes.pdf": {
+      "url": "https://www.washoecounty.gov/csd/planning_and_development/board_commission/planning_commission/2023/Files/101623_final_min.pdf",
+      "bytes": 246694,
+      "sha256": "88a65333afada8e31a62f4d95bb944629578501d781845ff4cb96be162b2f095"
+    },
+    "epa-source.json": {
+      "url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+      "bytes": 466,
+      "sha256": "76b2cc08bf8e0ca304211367f0bc6b15ff181b7909d95f88034050882699eb1e"
+    },
+    "epa-ICIS_PERMITS.csv.gz": {
+      "url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+      "bytes": 240343,
+      "sha256": "99ca6ff7ad3bdeb5d0caef304977ee81b40fb08887be32fdc81ebfd0763c361c"
+    },
+    "epa-ICIS_FACILITIES.csv.gz": {
+      "url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+      "bytes": 253565,
+      "sha256": "c20acd0478196629dde1672d84834e30ca7c12f8c20e4e6c59c4ddd61334f38e"
+    }
+  },
+  "candidate_counts": {
+    "henderson_other": 15,
+    "henderson_grading": 0,
+    "clark_inspection": 3,
+    "clark_sources": 8,
+    "reno": 1,
+    "lasvegas": 0
+  }
+}

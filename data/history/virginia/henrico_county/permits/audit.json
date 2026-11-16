@@ -1,0 +1,359 @@
+{
+  "catalog": "https://henrico.gov/public-data/categories/plans-development/",
+  "reports": [
+    {
+      "title": "Trade Permits – October 2025",
+      "page": "https://henrico.gov/public-data/162486-2/",
+      "url": "https://henrico.gov/assets/OCT2025_TradePermits.xlsx",
+      "sha256": "47664fab0d1bc06aa3695476d2f06b77207791a674b34e681a861e08160b36a9",
+      "rows": 1075,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – January 2026",
+      "page": "https://henrico.gov/public-data/165447-2/",
+      "url": "https://henrico.gov/assets/JAN2026_BuildingPermits.xlsx",
+      "sha256": "3727e138ca504123dae32044d61668d8b5fd38c5dd15770f09f7a8823c92e6fc",
+      "rows": 194,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – March 2026",
+      "page": "https://henrico.gov/public-data/171351-2/",
+      "url": "https://henrico.gov/assets/MAR2026_BuildingPermits.xlsx",
+      "sha256": "e9d64a4f0606061bf0901e3b90885120938d7841c32f3f3465fbb4fa83df28fd",
+      "rows": 346,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – September 2025",
+      "page": "https://henrico.gov/public-data/building-permit-september-2025/",
+      "url": "https://henrico.gov/assets/SEP2025_BuildingPermit.xlsx",
+      "sha256": "50f6331d724c24283dd2cf700cbad6564b3edf7dd162ecdbb8923dbe15750222",
+      "rows": 290,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – April 2025",
+      "page": "https://henrico.gov/public-data/building-permits-april-2025/",
+      "url": "https://henrico.gov/assets/APR2025_BuildingPermits.xlsx",
+      "sha256": "034f64b2bbbc0d1d2002bbf7fb8c2b1b35d151de68e4cda23f20eb3b8a57ccc6",
+      "rows": 398,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – April 2026",
+      "page": "https://henrico.gov/public-data/building-permits-april-2026/",
+      "url": "https://henrico.gov/assets/APR2026_BuildingPermits.xlsx",
+      "sha256": "ef5158b49050e590ce7b9451aa020818cb2c880ba65798d5cc34d9f2a398fd07",
+      "rows": 405,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – August 2025",
+      "page": "https://henrico.gov/public-data/building-permits-august-2025/",
+      "url": "https://henrico.gov/assets/AUG2025_BuildingPermits.xlsx",
+      "sha256": "c479a9267260b0dbbf25c6673eac529525216066f8c3030b1b36e22736822e3a",
+      "rows": 314,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – August 2026",
+      "page": "https://henrico.gov/public-data/building-permits-august-2026/",
+      "url": "https://henrico.gov/assets/AUG2026_BuildingPermits.xlsx",
+      "sha256": "de9f053a5ca696ba3dc5c4902c165cd865a56948ef89f1583056d0ff9eef20a4",
+      "rows": 344,
+      "explicit_matches": 3
+    },
+    {
+      "title": "Building Permits – December 2025",
+      "page": "https://henrico.gov/public-data/building-permits-december-2025/",
+      "url": "https://henrico.gov/assets/DEC2025_BuildingPermits.xlsx",
+      "sha256": "02f12af38d53bd08244a88327cb17a2fc7c3aebeb3d7b857570aa30a43b7ab05",
+      "rows": 267,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – February 2026",
+      "page": "https://henrico.gov/public-data/building-permits-february-2026/",
+      "url": "https://henrico.gov/assets/FEB2026_BuildingPermits.xlsx",
+      "sha256": "7f2d2a0780ff9f654fbaa653d6f994a5a49847884f71545ebb518f536e4d3709",
+      "rows": 291,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – July 2025",
+      "page": "https://henrico.gov/public-data/building-permits-july-2025/",
+      "url": "https://henrico.gov/assets/JUL2025_BuildingPermits.xlsx",
+      "sha256": "5116950f579235ef59a32f936a42d61d6f5544e1f7bc66f1f90fa66e32532610",
+      "rows": 345,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – July 2026",
+      "page": "https://henrico.gov/public-data/building-permits-july-2026/",
+      "url": "https://henrico.gov/assets/JUL2026_BuildingPermits.xlsx",
+      "sha256": "59e0eda90c29722a3ef9428bba78765d6f753fcb619af960cfbcc7032329588c",
+      "rows": 354,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – June 2025",
+      "page": "https://henrico.gov/public-data/building-permits-june-2025/",
+      "url": "https://henrico.gov/assets/JUNE2025_BuildingPermits.xlsx",
+      "sha256": "11bcea809320fac917fbbe87f271be44475df76b9af90cae3d7a90f51248c265",
+      "rows": 300,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – June 2026",
+      "page": "https://henrico.gov/public-data/building-permits-june-2026/",
+      "url": "https://henrico.gov/assets/JUNE2026_BuildingPermits.xlsx",
+      "sha256": "36de7c7e779fead5317524fb98c453e288b856163f0cb5049e3d60d87a632dd1",
+      "rows": 354,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – March 2025",
+      "page": "https://henrico.gov/public-data/building-permits-march-2025/",
+      "url": "https://henrico.gov/assets/MAR2025_BuildingPermits.xlsx",
+      "sha256": "c7b2de21c88cd350e4cd47a9752ec5d1383542ca1082850dd5ad5608cee10270",
+      "rows": 354,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – May 2025",
+      "page": "https://henrico.gov/public-data/building-permits-may-2025/",
+      "url": "https://henrico.gov/assets/MAY2025_BuildingPermits.xlsx",
+      "sha256": "76815f139cf1f5e580faf320323433168a010e85a04015e871481945eb4b3efb",
+      "rows": 313,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – May 2026",
+      "page": "https://henrico.gov/public-data/building-permits-may-2026/",
+      "url": "https://henrico.gov/assets/MAY2026_BuildingPermits.xlsx",
+      "sha256": "cad1eb3f5696e68a39827dd5be981061d2fa6e7a73d28bb97556ed6d0159168e",
+      "rows": 340,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – November 2025",
+      "page": "https://henrico.gov/public-data/building-permits-november-2025/",
+      "url": "https://henrico.gov/assets/NOV2025_BuildingPermits.xlsx",
+      "sha256": "406aad7fc0f4fb3f448365a1786e5f5ffdd6f08d81833d52f2c0e45bf37277a3",
+      "rows": 260,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – October 2025",
+      "page": "https://henrico.gov/public-data/building-permits-october-2025/",
+      "url": "https://henrico.gov/assets/OCT2025_BuildingPermits.xlsx",
+      "sha256": "a78db161390591c3ec4198e2f521676444108a3dc7ba6097af2139fa283b2274",
+      "rows": 300,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Building Permits – October 2026",
+      "page": "https://henrico.gov/public-data/building-permits-october-2026/",
+      "url": "https://henrico.gov/assets/OCT2026_BuildingPermits.xlsx",
+      "sha256": "0fbb5cf443fdc1fbd00cd8d7fb0b4a820e9b5fabf74235b208b9df22129c4773",
+      "rows": 382,
+      "explicit_matches": 7
+    },
+    {
+      "title": "Building Permits – September 2026",
+      "page": "https://henrico.gov/public-data/building-permits-september-2026/",
+      "url": "https://henrico.gov/assets/SEP2026_BuildingPermits.xlsx",
+      "sha256": "53357667e2a0c3339a3e21cffdcf2bac6f55cc4afebd32f87847ce2697eafef8",
+      "rows": 370,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – April 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-april-2025/",
+      "url": "https://henrico.gov/assets/APR2025_TradePermits.xlsx",
+      "sha256": "1086d3aafb1333a2be891cdd653379746b61dc70b5d17e5016dda19ab3a83ea2",
+      "rows": 1174,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – April 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-april-2026/",
+      "url": "https://henrico.gov/assets/APR2026_TradePermits.xlsx",
+      "sha256": "e2aa2504d78815e560e57e5cdb90706088bf3f6e8a5d6d86b03712e7feae4f76",
+      "rows": 1169,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – August 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-august-2025/",
+      "url": "https://henrico.gov/assets/AUG2025_TradePermits.xlsx",
+      "sha256": "7c6a8167ee46e31aa984bed2bebd744ee4167b7eb3c55518b4da38e83013ec19",
+      "rows": 1230,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – August 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-august-2026/",
+      "url": "https://henrico.gov/assets/AUG2026_TradePermits.xlsx",
+      "sha256": "e6a678f953a601f893a6148da4298d22aed6d4cc7592360607dcade604bfa67a",
+      "rows": 1194,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – December 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-december-2025/",
+      "url": "https://henrico.gov/assets/DEC2025_TradePermits.xlsx",
+      "sha256": "cb3eac1142bde688abdb825253744a070dfb440bbdf8a0fd559e9f8522f92da3",
+      "rows": 826,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – February 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-february-2026/",
+      "url": "https://henrico.gov/assets/FEB2026_TradePermits.xlsx",
+      "sha256": "28623f65bdcf7e23835ea56aadf81c538520830b5d5d79de5287f07b7900d105",
+      "rows": 993,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – January 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-january-2026/",
+      "url": "https://henrico.gov/assets/Trade-Permits-Issued-Jan-2026.xlsx",
+      "sha256": "fe47f650833e4bce633b4cfe0c39eb396a391b8ba0aca7a763b2c118367a2407",
+      "rows": 766,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – July 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-july-2025/",
+      "url": "https://henrico.gov/assets/JUL2025_TradePermits.xlsx",
+      "sha256": "9b0b2942f4ebe057049a890ccaa5fb794f5b3d147547e3a2c5aadce7473a9eb5",
+      "rows": 1233,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – July 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-july-2026/",
+      "url": "https://henrico.gov/assets/JUL2026_TradePermits-1.xlsx",
+      "sha256": "1dd69cf96f4156794fd0ede969484fddc5d1af6083453821a0605fc6d55cf3de",
+      "rows": 1270,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – June 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-june-2025/",
+      "url": "https://henrico.gov/assets/JUNE2025_TradePermits.xlsx",
+      "sha256": "bed557a5ac5df74c3d0b186a8dc9c5eb59bda042923a2bc72365d6d11ea5d81b",
+      "rows": 1158,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – June 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-june-2026/",
+      "url": "https://henrico.gov/assets/JUNE2026_TradePermits.xlsx",
+      "sha256": "2fdd6da47511987f8f17c7a72f7ed2f7549466bd90312c121b1ae9eef3503c10",
+      "rows": 1210,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – March 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-march-2025/",
+      "url": "https://henrico.gov/assets/MAR2025_TradePermits.xlsx",
+      "sha256": "3d9451c428ad0047ae5759fef7eb3b3fc1fc57c965317ac730ec31c41d64cd8e",
+      "rows": 1242,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – March 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-march-2026/",
+      "url": "https://henrico.gov/assets/MAR2026_TradePermits.xlsx",
+      "sha256": "f646c1d578ea99dca1a1be22877a3913f8242d44798a51777a44df6588de2c13",
+      "rows": 1165,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – May 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-may-2025/",
+      "url": "https://henrico.gov/assets/MAY2025_TradePermits.xlsx",
+      "sha256": "789e7bb69f6de62d27d1c3d8b09aad87e2c57a6a679e461b9d54bc3a1d068ed8",
+      "rows": 1171,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – May 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-may-2026/",
+      "url": "https://henrico.gov/assets/MAY2026_TradePermits.xlsx",
+      "sha256": "678016b4dbf2ef790aa95bf40e479ccce3fc785935869780530d9f15cbea2c12",
+      "rows": 1154,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – November 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-november-2025/",
+      "url": "https://henrico.gov/assets/NOV2025_TradePermits.xlsx",
+      "sha256": "8b2e85b602820182a6c1bf6d623cf09d40a574d5c8225b252e3d04eb57b15ef2",
+      "rows": 838,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – October 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-october-2026/",
+      "url": "https://henrico.gov/assets/OCT2026_TradePermits.xlsx",
+      "sha256": "12643e47aaeaf5166c333540374ed2e2fb27b986c15152c71f4c76385693fdbf",
+      "rows": 1216,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – September 2025",
+      "page": "https://henrico.gov/public-data/trade-permits-september-2025/",
+      "url": "https://henrico.gov/assets/SEP2025_TradePermits.xlsx",
+      "sha256": "119e201c0f06261bae6296961dbb640da0cbc4f8072a696fdd2918bafcbbaa46",
+      "rows": 1042,
+      "explicit_matches": 0
+    },
+    {
+      "title": "Trade Permits – September 2026",
+      "page": "https://henrico.gov/public-data/trade-permits-september-2026/",
+      "url": "https://henrico.gov/assets/SEP2026_TradePermits.xlsx",
+      "sha256": "6e9d64a1684d1947d79351fdc8d7a9cb5575732fbdc7ada663e29ab99bcd792f",
+      "rows": 1280,
+      "explicit_matches": 0
+    }
+  ],
+  "held": [
+    {
+      "number": "BLD-2026-101242",
+      "page": "https://henrico.gov/public-data/171351-2/",
+      "reason": "No verified issue date before cutoff"
+    },
+    {
+      "number": "BLD-2025-111018",
+      "page": "https://henrico.gov/public-data/building-permits-april-2026/",
+      "reason": "No verified issue date before cutoff"
+    },
+    {
+      "number": "BLD-2025-116538",
+      "page": "https://henrico.gov/public-data/building-permits-august-2025/",
+      "reason": "No verified issue date before cutoff"
+    },
+    {
+      "number": "BLD-2025-118118",
+      "page": "https://henrico.gov/public-data/building-permits-february-2026/",
+      "reason": "No verified issue date before cutoff"
+    },
+    {
+      "number": "BLD-2025-126968",
+      "page": "https://henrico.gov/public-data/building-permits-may-2026/",
+      "reason": "No verified issue date before cutoff"
+    },
+    {
+      "number": "BLD-2025-126960",
+      "page": "https://henrico.gov/public-data/building-permits-may-2026/",
+      "reason": "No verified issue date before cutoff"
+    }
+  ],
+  "unique_permits": 10,
+  "limits": "Only individually linked monthly workbooks with project-identifying fields. Trade sheets often lack work descriptions. A mailing address or a technology company name alone cannot identify a permit."
+}

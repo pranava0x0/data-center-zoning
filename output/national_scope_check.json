@@ -1,0 +1,38 @@
+{
+  "states_and_territories": 56,
+  "geographies": 72418,
+  "geography_classes": {
+    "state": 56,
+    "counties": 3235,
+    "statistical place": 12943,
+    "place": 19686,
+    "other county subdivision": 20234,
+    "cousubs": 16193,
+    "territory subdivisions": 71
+  },
+  "government_units": 91811,
+  "government_classes": {
+    "General Purpose": 38640,
+    "Special District": 39313,
+    "School District": 12545,
+    "DEP School Dist": 1313
+  },
+  "site_outcomes": {
+    "No mention on pages read": 10162,
+    "Could not read": 9258,
+    "No listed website": 32225,
+    "Possible mention": 348
+  },
+  "territorial_offices": 5,
+  "federal_register_printed_entries": 577,
+  "tribal_website_outcomes": {
+    "No mention on pages read": 421,
+    "Website unavailable": 76,
+    "No exact website match": 77,
+    "Possible mention on pages read": 3
+  },
+  "supplemental_geography_sites_queued": 0,
+  "census_offices_queued": 0,
+  "local_first_pass_complete": true,
+  "scope": "Geographic and government coverage only. A missing website, unreadable page or keyword miss does not rule out permits. No claim that every local permit has been recovered."
+}

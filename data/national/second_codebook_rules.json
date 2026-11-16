@@ -1,0 +1,235 @@
+[
+  {
+    "id": "tx-mcallen-industrial-approval",
+    "state": "TX",
+    "jurisdiction": "McAllen",
+    "geoid": "4845384",
+    "level": "city",
+    "topic": "conditional use",
+    "reader_title": "McAllen requires conditional use approval in I-2",
+    "summary": "The city lists data centers as a conditional use in its I-2 industrial district. No other district is marked for data centers in this table.",
+    "status": "adopted",
+    "authority": "McAllen",
+    "scope": "data-center-specific",
+    "url": "https://www.mcallen.net/docs/default-source/planning-files/udc_adopted-02-09-2026.pdf",
+    "evidence": "Infrastructure Data Center C",
+    "source_page": 44,
+    "locator": "February 9, 2026 code, Article 3.1 use table, printed p. 40",
+    "district": "I-2"
+  },
+  {
+    "id": "tx-mcallen-parking",
+    "state": "TX",
+    "jurisdiction": "McAllen",
+    "geoid": "4845384",
+    "level": "city",
+    "topic": "parking",
+    "reader_title": "One parking space per 1,000 square feet",
+    "summary": "McAllen sets the parking minimum in the same table that lists its data center zoning requirements.",
+    "status": "adopted",
+    "authority": "McAllen",
+    "scope": "data-center-specific",
+    "url": "https://www.mcallen.net/docs/default-source/planning-files/udc_adopted-02-09-2026.pdf",
+    "evidence": "Data Center C 1/1,000 SF",
+    "source_page": 44,
+    "locator": "Article 3.1 use table, printed p. 40, minimum parking ratios",
+    "thresholds": [
+      {
+        "metric": "minimum_parking",
+        "operator": ">=",
+        "value": 1,
+        "unit": "space / 1,000 ft2",
+        "context": "Minimum requirement on the data center row of the I-2 use table."
+      }
+    ]
+  },
+  {
+    "id": "ga-habersham-special-use",
+    "state": "GA",
+    "jurisdiction": "Habersham County",
+    "geoid": "13137",
+    "level": "county",
+    "topic": "conditional use",
+    "reader_title": "County approval is required even for an in-house data center",
+    "summary": "A data center within the county’s zoning jurisdiction needs a special use permit from the Board of Commissioners. This includes a center inside another business that serves only the owner, occupies at most 10% of its footprint and has no separate building.",
+    "status": "adopted",
+    "authority": "Habersham County",
+    "scope": "data-center-specific",
+    "url": "https://www.habershamga.com/userfiles/File/Habersham-UDO_06-01-26.pdf",
+    "evidence": "via issuance of a special use permit",
+    "source_page": 96,
+    "locator": "§4.2.10.3(A), p. 96"
+  },
+  {
+    "id": "ga-habersham-lot",
+    "state": "GA",
+    "jurisdiction": "Habersham County",
+    "geoid": "13137",
+    "level": "county",
+    "topic": "site design",
+    "reader_title": "Five acres for a data center; 20 for its power plant",
+    "summary": "The county sets separate minimum lot sizes for the data center and for a data center power plant.",
+    "status": "adopted",
+    "authority": "Habersham County",
+    "scope": "data-center-specific",
+    "url": "https://www.habershamga.com/userfiles/File/Habersham-UDO_06-01-26.pdf",
+    "evidence": "No data center shall be erected on any lot less than five acres",
+    "source_page": 96,
+    "locator": "§4.2.10.3(B)(1), p. 96",
+    "thresholds": [
+      {
+        "metric": "minimum_data_center_lot",
+        "operator": ">=",
+        "value": 5,
+        "unit": "acres",
+        "context": "Applies to the data center."
+      },
+      {
+        "metric": "minimum_power_plant_lot",
+        "operator": ">=",
+        "value": 20,
+        "unit": "acres",
+        "context": "Applies to a data center power plant."
+      }
+    ]
+  },
+  {
+    "id": "ga-habersham-residences",
+    "state": "GA",
+    "jurisdiction": "Habersham County",
+    "geoid": "13137",
+    "level": "county",
+    "topic": "setback",
+    "reader_title": "Keep buildings 1,000 feet from residences and residential lots",
+    "summary": "The county applies this distance to data centers and their power plants. Other property lines and public road rights-of-way require at least 60 feet or 1.25 times the structure’s height, whichever is greater.",
+    "status": "adopted",
+    "authority": "Habersham County",
+    "scope": "data-center-specific",
+    "url": "https://www.habershamga.com/userfiles/File/Habersham-UDO_06-01-26.pdf",
+    "evidence": "from all residentially zoned lots and existing residences",
+    "source_page": 96,
+    "locator": "§4.2.10.3(B)(3), p. 96",
+    "thresholds": [
+      {
+        "metric": "residential_setback",
+        "operator": ">=",
+        "value": 1000,
+        "unit": "ft",
+        "context": "To residentially zoned lots and existing residences."
+      },
+      {
+        "metric": "other_setback_floor",
+        "operator": ">=",
+        "value": 60,
+        "unit": "ft",
+        "context": "Property lines and public road rights-of-way: the greater of 60 feet or 1.25 times structure height."
+      }
+    ]
+  },
+  {
+    "id": "ga-habersham-sound",
+    "state": "GA",
+    "jurisdiction": "Habersham County",
+    "geoid": "13137",
+    "level": "county",
+    "topic": "noise",
+    "reader_title": "An independent engineer must measure baseline sound",
+    "summary": "Before construction or operation, the owner must commission readings at eight locations around the site and give the planning department the report within 30 days of completion.",
+    "status": "adopted",
+    "authority": "Habersham County",
+    "scope": "data-center-specific",
+    "url": "https://www.habershamga.com/userfiles/File/Habersham-UDO_06-01-26.pdf",
+    "evidence": "performed by a third-party acoustic engineer",
+    "source_page": 97,
+    "locator": "§4.2.10.3(B)(5)(a), pp. 96–97",
+    "thresholds": [
+      {
+        "metric": "measurement_locations",
+        "operator": "=",
+        "value": 8,
+        "unit": "locations",
+        "context": "Around the site boundary; existing baseline sound study."
+      },
+      {
+        "metric": "report_deadline",
+        "operator": "<=",
+        "value": 30,
+        "unit": "days",
+        "context": "From completion of the study to delivery to the planning department."
+      }
+    ]
+  },
+  {
+    "id": "ga-monroe-home-distance",
+    "state": "GA",
+    "jurisdiction": "Monroe",
+    "geoid": "1352192",
+    "level": "city",
+    "topic": "setback",
+    "reader_title": "Keep data center buildings 500 feet from homes",
+    "summary": "The 500-foot distance is measured to a residential structure. The city also requires a 100-foot buffer around the site, with dense vegetation and measures that reduce noise.",
+    "status": "adopted",
+    "authority": "Monroe",
+    "scope": "data-center-specific",
+    "url": "https://www.monroega.com/sites/default/files/fileattachments/code_department/page/1361/zoning_ordinance_1-13-2026_web.pdf",
+    "evidence": "to any residential structure",
+    "source_page": 66,
+    "locator": "Zoning ordinance, use-table note (34), p. 66",
+    "thresholds": [
+      {
+        "metric": "residential_setback",
+        "operator": ">=",
+        "value": 500,
+        "unit": "ft",
+        "context": "Data center building to residential structure."
+      },
+      {
+        "metric": "perimeter_buffer",
+        "operator": ">=",
+        "value": 100,
+        "unit": "ft",
+        "context": "Dense vegetation and sound abatement required."
+      }
+    ]
+  },
+  {
+    "id": "ga-monroe-outreach",
+    "state": "GA",
+    "jurisdiction": "Monroe",
+    "geoid": "1352192",
+    "level": "city",
+    "topic": "conditional use",
+    "reader_title": "Hold two public meetings before applying",
+    "summary": "The applicant must hold at least two meetings at least six months before filing for conditional use approval and notify all property owners within 500 feet. The application must include proof of the meetings and a list of owners contacted.",
+    "status": "adopted",
+    "authority": "Monroe",
+    "scope": "data-center-specific",
+    "url": "https://www.monroega.com/sites/default/files/fileattachments/code_department/page/1361/zoning_ordinance_1-13-2026_web.pdf",
+    "evidence": "no less than 6 months prior",
+    "source_page": 66,
+    "locator": "Zoning ordinance, use-table note (34), p. 66",
+    "thresholds": [
+      {
+        "metric": "outreach_meetings",
+        "operator": ">=",
+        "value": 2,
+        "unit": "meetings",
+        "context": "Public meetings before the conditional use application."
+      },
+      {
+        "metric": "meeting_lead_time",
+        "operator": ">=",
+        "value": 6,
+        "unit": "months",
+        "context": "Before filing the conditional use application."
+      },
+      {
+        "metric": "owner_notice_radius",
+        "operator": "within",
+        "value": 500,
+        "unit": "ft",
+        "context": "Notify owners within this distance of the site."
+      }
+    ]
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "state": "NV",
+    "jurisdiction": "Nevada",
+    "url": "https://www.leg.state.nv.us/nrs/NRS-533.html",
+    "depth": 0,
+    "sha256": "e26e402a63bd09b4691b31708e02c5b6c16290cf4bdec3fdd4f962835c78b943",
+    "adapter": "html",
+    "error": null,
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NV",
+    "jurisdiction": "Reno",
+    "url": "https://reno.gov/business-development/development-services/initiatives-and-updates.php",
+    "depth": 0,
+    "sha256": "2461db87876520484a55b6922242e028a0d2abf9a7e9761ea8d2dff04dfe14af",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "development",
+        "start": 1705,
+        "end": 1721,
+        "match": "Building Permits",
+        "context": "o Licenses Common Questions & Business Resources Sidewalk Vendors Special Activity Permitting Construction Standard Details Development Services Building Permits Customer Service Development Data Initiatives and Updates Licensing & Permits Master Plan Planning & Engineering Applications Zoning Code Electrical / Plumbing Journeyman Cards Economic Development / Redevelop"
+      },
+      {
+        "topic": "development",
+        "start": 4490,
+        "end": 4506,
+        "match": "Building Permits",
+        "context": "Fee Assistance Sponsorship Opportunities Support Your Parks Volunteers Accessibility Translate Translate Reset Translation Search Related Pages Building Permits Customer Service Development Data Initiatives and Updates Licensing & Permits Master Plan Planning & Engineering Applications Land Development Projects MGOD Area Final Map Reviews Zoning Code Electrical / Plum"
+      },
+      {
+        "topic": "data_center",
+        "start": 4835,
+        "end": 4846,
+        "match": "Data Center",
+        "context": "ing Code Electrical / Plumbing Journeyman Cards Home Business & Development Development Services Initiatives and Updates Initiatives and Updates Data Center Text Amendment and Moratorium On June 1, 2026, City Council approved of a final moratorium resolution related to data center development. The moratorium is in effect through August 31, 2027, or until a time th"
+      },
+      {
+        "topic": "permission",
+        "start": 4866,
+        "end": 4876,
+        "match": "Moratorium",
+        "context": "Journeyman Cards Home Business & Development Development Services Initiatives and Updates Initiatives and Updates Data Center Text Amendment and Moratorium On June 1, 2026, City Council approved of a final moratorium resolution related to data center development. The moratorium is in effect through August 31, 2027, or until a time that adequate regulations are ad"
+      },
+      {
+        "topic": "permission",
+        "start": 4927,
+        "end": 4937,
+        "match": "moratorium",
+        "context": "ices Initiatives and Updates Initiatives and Updates Data Center Text Amendment and Moratorium On June 1, 2026, City Council approved of a final moratorium resolution related to data center development. The moratorium is in effect through August 31, 2027, or until a time that adequate regulations are adopted. The City will not be accepting applications for condit"
+      },
+      {
+        "topic": "data_center",
+        "start": 4960,
+        "end": 4971,
+        "match": "data center",
+        "context": "iatives and Updates Data Center Text Amendment and Moratorium On June 1, 2026, City Council approved of a final moratorium resolution related to data center development. The moratorium is in effect through August 31, 2027, or until a time that adequate regulations are adopted. The City will not be accepting applications for conditional use permit requests for data"
+      },
+      {
+        "topic": "permission",
+        "start": 4989,
+        "end": 4999,
+        "match": "moratorium",
+        "context": "er Text Amendment and Moratorium On June 1, 2026, City Council approved of a final moratorium resolution related to data center development. The moratorium is in effect through August 31, 2027, or until a time that adequate regulations are adopted. The City will not be accepting applications for conditional use permit requests for data centers during this timefra"
+      },
+      {
+        "topic": "permission",
+        "start": 5141,
+        "end": 5156,
+        "match": "conditional use",
+        "context": "ium is in effect through August 31, 2027, or until a time that adequate regulations are adopted. The City will not be accepting applications for conditional use permit requests for data centers during this timeframe. For reference, all new data centers attempting to develop in the City of Reno require approval of a conditional use permit. Prior to that, on April 22, 2"
+      },
+      {
+        "topic": "data_center",
+        "start": 5177,
+        "end": 5189,
+        "match": "data centers",
+        "context": "2027, or until a time that adequate regulations are adopted. The City will not be accepting applications for conditional use permit requests for data centers during this timeframe. For reference, all new data centers attempting to develop in the City of Reno require approval of a conditional use permit. Prior to that, on April 22, 2026, City Council initiated a tex"
+      },
+      {
+        "topic": "data_center",
+        "start": 5236,
+        "end": 5248,
+        "match": "data centers",
+        "context": ". The City will not be accepting applications for conditional use permit requests for data centers during this timeframe. For reference, all new data centers attempting to develop in the City of Reno require approval of a conditional use permit. Prior to that, on April 22, 2026, City Council initiated a text amendment to Title 18 (Annexation and Land Development Co"
+      },
+      {
+        "topic": "permission",
+        "start": 5313,
+        "end": 5328,
+        "match": "conditional use",
+        "context": "ests for data centers during this timeframe. For reference, all new data centers attempting to develop in the City of Reno require approval of a conditional use permit. Prior to that, on April 22, 2026, City Council initiated a text amendment to Title 18 (Annexation and Land Development Code) related to data center regulations. City staff will be working with the Truc"
+      },
+      {
+        "topic": "data_center",
+        "start": 5473,
+        "end": 5484,
+        "match": "data center",
+        "context": "permit. Prior to that, on April 22, 2026, City Council initiated a text amendment to Title 18 (Annexation and Land Development Code) related to data center regulations. City staff will be working with the Truckee Meadows Regional Planning Agency (TMRPA) to engage the public and stakeholders. City of Reno staff and TMRPA staff will continue to research best practi"
+      },
+      {
+        "topic": "data_center",
+        "start": 6083,
+        "end": 6094,
+        "match": "data center",
+        "context": "ations report based on their findings and feedback. It is anticipated that this report will be used by Reno to then draft proposed amendments to data center regulations. For more information on TMRPA's effort, please visit their Energy and Data Center webpage, where you can subscribe to mailing list and stay up to date, take a survey, or provide feedback. A Data C"
+      },
+      {
+        "topic": "data_center",
+        "start": 6178,
+        "end": 6189,
+        "match": "Data Center",
+        "context": "used by Reno to then draft proposed amendments to data center regulations. For more information on TMRPA's effort, please visit their Energy and Data Center webpage, where you can subscribe to mailing list and stay up to date, take a survey, or provide feedback. A Data Center Fact Sheet has been developed to help inform the community about data centers in general,"
+      },
+      {
+        "topic": "data_center",
+        "start": 6298,
+        "end": 6309,
+        "match": "Data Center",
+        "context": "e visit their Energy and Data Center webpage, where you can subscribe to mailing list and stay up to date, take a survey, or provide feedback. A Data Center Fact Sheet has been developed to help inform the community about data centers in general, provide background, and understand the current and future efforts. Additional questions may be directed to Lauren Knox"
+      },
+      {
+        "topic": "data_center",
+        "start": 6375,
+        "end": 6387,
+        "match": "data centers",
+        "context": "ing list and stay up to date, take a survey, or provide feedback. A Data Center Fact Sheet has been developed to help inform the community about data centers in general, provide background, and understand the current and future efforts. Additional questions may be directed to Lauren Knox at [email protected]. Live Entertainment Regulations At the June 3, 2026, City"
+      },
+      {
+        "topic": "permission",
+        "start": 6710,
+        "end": 6725,
+        "match": "Conditional Use",
+        "context": "ations At the June 3, 2026, City Council hearing, Council adopted a change to the Title 18 Zoning Code that establishes a temporary exception to Conditional Use Permit (CUP) requirements for indoor live entertainment. The text amendment defines the parameters of the temporary pause, including: The temporary deregulation of conditional use permit requirements will expi"
+      },
+      {
+        "topic": "permission",
+        "start": 6890,
+        "end": 6905,
+        "match": "conditional use",
+        "context": "ements for indoor live entertainment. The text amendment defines the parameters of the temporary pause, including: The temporary deregulation of conditional use permit requirements will expire on December 31, 2027. The temporary deregulation will only apply to indoor live entertainment. Outdoor live entertainment after 10 p.m. will continue to require a conditional us"
+      },
+      {
+        "topic": "permission",
+        "start": 7101,
+        "end": 7116,
+        "match": "conditional use",
+        "context": "27. The temporary deregulation will only apply to indoor live entertainment. Outdoor live entertainment after 10 p.m. will continue to require a conditional use permit. The temporary deregulation will only apply to the properties within the Downtown, Midtown and adjacent to the 4th Street corridors (Permitted Live Entertainment Zoning Areas). Approval of a cabaret lic"
+      },
+      {
+        "topic": "development",
+        "start": 8343,
+        "end": 8359,
+        "match": "Building Permits",
+        "context": "4636) Report an Issue Resources Calendar Council Memos Jobs Volunteers Search City of Reno, NV City Events Calendar Sewer Payment City Directory Building Permits Parks and Recreation Info Jobs News Updates Community Engagement Webcams Search City of Reno, NV How can we help? Loading... Search No pages found with that exact name Explore other search options below, clear"
+      }
+    ],
+    "links": [
+      [
+        10,
+        "https://reno.gov/business-development/development-services/Documents/Business%20and%20Development/Development%20Services/Data%20Center%20Fact%20Sheet%20Final.pdf?t=202606111839480",
+        "Data Center Fact Sheet"
+      ],
+      [
+        8,
+        "https://tmrpa.org/energy-and-data-centers/",
+        "Energy and Data Center"
+      ],
+      [
+        5,
+        "https://reno.gov/business-development/development-services/Documents/Business%20and%20Development/Development%20Services/Permitted%20Temporary%20Live%20Entertainment%20Zoning%20Areas.pdf?t=202606111840180",
+        "Permitted Live Entertainment Zoning Areas"
+      ],
+      [
+        3,
+        "https://aca-prod.accela.com/ONE/Default.aspx",
+        "Licensing & Permits"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/business-development/development-services/building-permits.php",
+        "Building Permits"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/business-development/development-services/planning-engineering-applications/index.php",
+        "Planning & Engineering Applications"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/business-development/development-services/zoning-code/index.php",
+        "Zoning Code"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/community/special-events/special-activity-permitting.php",
+        "Special Activity Permitting"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/community/special-events/special-event-permitting.php",
+        "Special Event Permitting"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/fire/prevention/information-permits.php",
+        "Information & Permits"
+      ],
+      [
+        3,
+        "https://reno.gov/business-development/development-services/parks-and-recreation/parks-facilities/park-planning.php",
+        "Park Planning"
+      ],
+      [
+        3,
+        "https://www.reno.gov/community/special-events/special-activity-permitting.php",
+        "Special Activity Permitting"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "NV",
+    "jurisdiction": "Reno",
+    "url": "https://reno.gov/business-development/development-services/Documents/Business%20and%20Development/Development%20Services/Data%20Center%20Fact%20Sheet%20Final.pdf?t=202606111839480",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NV",
+    "jurisdiction": "Reno",
+    "url": "https://reno.gov/business-development/development-services/Documents/Business%20and%20Development/Development%20Services/Permitted%20Temporary%20Live%20Entertainment%20Zoning%20Areas.pdf?t=202606111840180",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "NV",
+    "jurisdiction": "Reno",
+    "url": "https://reno.gov/business-development/development-services/business-development/development-services/building-permits.php",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "qualified_titles": 2820,
+  "matched": 215,
+  "batch_errors": [
+    [
+      225,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      270,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      315,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      360,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      405,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      450,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      495,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      540,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      585,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      630,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      675,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      720,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      765,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      810,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      855,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      900,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      945,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      990,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1035,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1080,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1125,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1170,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1215,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1260,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1305,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1350,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1395,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1440,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1485,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1530,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1575,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1620,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1665,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1710,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1755,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1800,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1845,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1890,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1935,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      1980,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2025,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2070,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2115,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2160,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2205,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2250,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2295,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2340,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2385,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2430,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2475,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2520,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2565,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2610,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2655,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2700,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2745,
+      "HTTP Error 429: Too Many Requests"
+    ],
+    [
+      2790,
+      "HTTP Error 429: Too Many Requests"
+    ]
+  ]
+}

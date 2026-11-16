@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/collect.py", line 38, in policy
+    with urlopen(Request(rurl,headers={'User-Agent':AGENT}),timeout=12) as r:
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/federal_power_cases.py", line 28, in <module>
+    p=argparse.ArgumentParser();p.add_argument('--fetch',action='store_true');run(p.parse_args().fetch)
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/federal_power_cases.py", line 18, in run
+    loc=read(GEO,['Salem Township, Luzerne County'])
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/federal_power_cases.py", line 12, in read
+    b,sha=a.get(u);t=c.norm(c.parse(b,'application/pdf' if b.startswith(b'%PDF') else 'text/html',u)[1])
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/permit_archive.py", line 18, in get
+    c.policy(url)
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/collect.py", line 42, in policy
+    else: raise ValueError(f'robots preflight HTTP {e.code}')
+ValueError: robots preflight HTTP 403

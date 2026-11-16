@@ -1,0 +1,14 @@
+{
+  "rows": 9,
+  "by_dataset": {
+    "City of De Soto project and planning records": 9
+  },
+  "undated": 2,
+  "source_failures": {
+    "edgerton": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>",
+    "ksair": "robots preflight HTTP 403",
+    "op": "HTTP Error 403: Forbidden",
+    "lenexa": "robots preflight HTTP 403",
+    "dr_site": "Oversized response"
+  }
+}

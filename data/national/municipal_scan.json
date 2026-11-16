@@ -1,0 +1,66 @@
+{
+  "ydr8-5enu": {
+    "state": "IL",
+    "government": "Chicago",
+    "source": "https://data.cityofchicago.org/d/ydr8-5enu",
+    "total": 216,
+    "count_source": "https://data.cityofchicago.org/resource/ydr8-5enu.json?%24where=upper%28work_description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28work_description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28work_description%29+like+%27%25DATACENTER%25%27+OR+upper%28work_description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issue_date"
+  },
+  "76t5-zqzr": {
+    "state": "WA",
+    "government": "Seattle",
+    "source": "https://cos-data.seattle.gov/d/76t5-zqzr",
+    "total": 26,
+    "count_source": "https://cos-data.seattle.gov/resource/76t5-zqzr.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issueddate"
+  },
+  "qxie-8qnp": {
+    "state": "MD",
+    "government": "Montgomery County",
+    "source": "https://data.montgomerycountymd.gov/d/qxie-8qnp",
+    "total": 11,
+    "count_source": "https://data.montgomerycountymd.gov/resource/qxie-8qnp.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issueddate"
+  },
+  "qu2z-8suj": {
+    "state": "MA",
+    "government": "Cambridge",
+    "source": "https://data.cambridgema.gov/d/qu2z-8suj",
+    "total": 0,
+    "count_source": "https://data.cambridgema.gov/resource/qu2z-8suj.json?%24where=upper%28detailed_description_of_work%29+like+%27%25DATA+CENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATA-CENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25DATACENTER%25%27+OR+upper%28detailed_description_of_work%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issue_date"
+  },
+  "9qm7-wbdc": {
+    "state": "MA",
+    "government": "Cambridge",
+    "source": "https://data.cambridgema.gov/d/9qm7-wbdc",
+    "total": 0,
+    "count_source": "https://data.cambridgema.gov/resource/9qm7-wbdc.json?%24where=upper%28description_of_work%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description_of_work%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description_of_work%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description_of_work%29+like+%27%25DATACENTER%25%27+OR+upper%28description_of_work%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issue_date"
+  },
+  "2vzw-yean": {
+    "state": "MA",
+    "government": "Framingham",
+    "source": "https://data.framinghamma.gov/d/2vzw-yean",
+    "total": 5,
+    "count_source": "https://data.framinghamma.gov/resource/2vzw-yean.json?%24where=upper%28description%29+like+%27%25DATA+CENTER%25%27+OR+upper%28description%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28description%29+like+%27%25DATA-CENTER%25%27+OR+upper%28description%29+like+%27%25DATACENTER%25%27+OR+upper%28description%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "applied"
+  },
+  "nbcf-m6c2": {
+    "state": "LA",
+    "government": "New Orleans",
+    "source": "https://data.nola.gov/d/nbcf-m6c2",
+    "total": 0,
+    "count_source": "https://data.nola.gov/resource/nbcf-m6c2.json?%24where=upper%28descr%29+like+%27%25DATA+CENTER%25%27+OR+upper%28descr%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28descr%29+like+%27%25DATA-CENTER%25%27+OR+upper%28descr%29+like+%27%25DATACENTER%25%27+OR+upper%28descr%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issuedate"
+  },
+  "7fq7-8j7r": {
+    "state": "LA",
+    "government": "East Baton Rouge Parish",
+    "source": "https://data.brla.gov/d/7fq7-8j7r",
+    "total": 4,
+    "count_source": "https://data.brla.gov/resource/7fq7-8j7r.json?%24where=upper%28projectdescription%29+like+%27%25DATA+CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATA+CENTRE%25%27+OR+upper%28projectdescription%29+like+%27%25DATA-CENTER%25%27+OR+upper%28projectdescription%29+like+%27%25DATACENTER%25%27+OR+upper%28projectdescription%29+like+%27%25SERVER+FARM%25%27&%24select=count%28%2A%29+as+n",
+    "issued_field": "issueddate"
+  }
+}

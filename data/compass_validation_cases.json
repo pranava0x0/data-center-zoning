@@ -1,0 +1,358 @@
+[
+  {
+    "id": "va-lou-grade",
+    "state": "VA",
+    "level": "county",
+    "url": "https://www.loudoun.gov/6244/Land-Disturbance",
+    "document_status": "agency_guidance",
+    "checked_against": "Do I Need a Grading Permit in Loudoun County?",
+    "measure": [
+      "land_disturbed",
+      ">=",
+      5000,
+      "ft2"
+    ],
+    "qualifiers": [
+      "sensitive",
+      "floodplain"
+    ]
+  },
+  {
+    "id": "va-va-groundwater",
+    "state": "VA",
+    "level": "state",
+    "url": "https://law.lis.virginia.gov/vacode/title62.1/chapter25/section62.1-259/",
+    "document_status": "adopted",
+    "checked_against": "§ 62.1-259 clauses (i), (ix); threshold is inverse of under-threshold exclusion, not an unconditional right",
+    "measure": [
+      "groundwater_withdrawal",
+      ">=",
+      300000,
+      "gal/month"
+    ],
+    "qualifiers": [
+      "management area",
+      "exclusions"
+    ]
+  },
+  {
+    "id": "oh-consumptive-use",
+    "state": "OH",
+    "level": "state",
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-1521.23",
+    "document_status": "adopted",
+    "checked_against": "§ 1521.23(A), (D), (E); candidate is graded as a candidate only",
+    "candidate_measure": [
+      "new_or_increased_consumptive_use",
+      ">",
+      2000000,
+      "gal/day"
+    ],
+    "qualifiers": [
+      "30-day",
+      "exceptions"
+    ]
+  },
+  {
+    "id": "oh-new-albany-use",
+    "state": "OH",
+    "level": "city",
+    "url": "https://datacenters.newalbanyohio.org/resident-questions/",
+    "document_status": "agency_guidance",
+    "checked_against": "City FAQ on district text versus site-specific rezonings",
+    "path": "permitted use",
+    "district_signals": [
+      "GE",
+      "TMD"
+    ],
+    "qualifiers": [
+      "rezoning",
+      "primary use"
+    ]
+  },
+  {
+    "id": "tx-construction-runoff",
+    "state": "TX",
+    "level": "state",
+    "url": "https://www.tceq.texas.gov/permitting/stormwater/construction/TXR15_AIR.html",
+    "document_status": "agency_guidance",
+    "checked_against": "Construction General Permit, TXR150000; common-plan aggregation, small and large tiers",
+    "qualifiers": [
+      "common plan",
+      "less than 5",
+      "5 acres or more"
+    ]
+  },
+  {
+    "id": "tx-san-marcos-districts",
+    "state": "TX",
+    "level": "city",
+    "url": "https://www.sanmarcostx.gov/4772/June-16-2026-City-Council-Recap",
+    "document_status": "official_adoption_summary",
+    "checked_against": "Regular meeting item 17; scope is City's zoning districts",
+    "path": "prohibited",
+    "district_signals": [
+      "city zoning districts"
+    ],
+    "qualifiers": [
+      "zoning districts"
+    ]
+  },
+  {
+    "id": "az-nonexempt-well",
+    "state": "AZ",
+    "level": "state",
+    "url": "https://www.azleg.gov/ars/45/00512.htm",
+    "document_status": "adopted",
+    "checked_against": "Arizona Revised Statutes 45-512, introductory exceptions and numbered category 3",
+    "qualifiers": [
+      "nonexempt well",
+      "active management area",
+      "general industrial use",
+      "exceptions"
+    ]
+  },
+  {
+    "id": "az-chandler-primary-use",
+    "state": "AZ",
+    "level": "city",
+    "url": "https://www.chandleraz.gov/news-center/chandlers-data-center-ordinance-now-effect",
+    "document_status": "agency_guidance",
+    "checked_against": "City adopted amendment bulletin, primary-use location and ancillary-use qualifications",
+    "path": "planned development",
+    "district_signals": [
+      "PAD"
+    ],
+    "qualifiers": [
+      "primary",
+      "ancillary",
+      "not project approval"
+    ]
+  },
+  {
+    "id": "in-withdrawal-registration",
+    "state": "IN",
+    "level": "state",
+    "url": "https://www.in.gov/dnr/water/water-availability-use-rights/significant-water-withdrawal-facility-registration/",
+    "document_status": "agency_guidance",
+    "checked_against": "Indiana DNR SWWF threshold: aggregate capability, registration within three months, annual reporting",
+    "candidate_measure": [
+      "withdrawal_capacity",
+      ">",
+      100000,
+      "gal/day"
+    ],
+    "qualifiers": [
+      "aggregate",
+      "three months",
+      "annually",
+      "registration"
+    ]
+  },
+  {
+    "id": "in-boone-pause",
+    "state": "IN",
+    "level": "county",
+    "url": "https://boonecounty.in.gov/wp-content/uploads/2026/07/Ordinance-2026-08.Moratorium-on-data-centers.pdf",
+    "document_status": "adopted",
+    "checked_against": "Signed scan pp. 1–2; area, internal IT exception, §§2–3 moratorium and end date",
+    "path": "temporary pause",
+    "district_signals": [
+      "unincorporated"
+    ],
+    "qualifiers": [
+      "internal it",
+      "unincorporated"
+    ],
+    "expires": "2027-06-15"
+  },
+  {
+    "id": "tn-nashville-use",
+    "state": "TN",
+    "level": "county",
+    "url": "https://nashville.legistar.com/LegislationDetail.aspx?FullText=1&GUID=007B8704-62ED-46D1-9E9A-8B3F778229A8&ID=8040869",
+    "document_status": "adopted",
+    "checked_against": "BL2026-1391 §2; Metropolitan Code §17.08.030",
+    "path": "special exception",
+    "district_signals": [
+      "IR",
+      "IG"
+    ],
+    "qualifiers": [
+      "campus",
+      "temporary permit pause"
+    ]
+  },
+  {
+    "id": "nv-reno-pause",
+    "state": "NV",
+    "level": "city",
+    "url": "https://reno.gov/business-development/development-services/initiatives-and-updates.php",
+    "document_status": "agency_guidance",
+    "checked_against": "June 1, 2026 resolution discussion",
+    "path": "temporary pause",
+    "district_signals": [
+      "Reno"
+    ],
+    "qualifiers": [
+      "acceptance",
+      "until adequate regulations"
+    ]
+  },
+  {
+    "id": "ms-ridgeland-by-right",
+    "state": "MS",
+    "level": "city",
+    "url": "https://storage.googleapis.com/ridgelandms-media/2024/08/2023-09.pdf",
+    "document_status": "adopted",
+    "checked_against": "Ordinance 2023-09 §§2–4; §520.02(I)",
+    "path": "permitted use",
+    "district_signals": [
+      "Technical Industrial Park"
+    ],
+    "qualifiers": [
+      "site",
+      "building review"
+    ]
+  },
+  {
+    "id": "la-st-charles-industrial",
+    "state": "LA",
+    "level": "county",
+    "url": "https://stcharlesgov.legistar.com/LegislationDetail.aspx?GUID=4194CDCA-7D35-4DB9-8959-5DE81A5526DC&ID=8028024",
+    "document_status": "adopted",
+    "checked_against": "Ordinance 26-6-3, Appendix A §VI.D and §VII; final action June 1, 2026",
+    "path": "permitted use",
+    "district_signals": [
+      "M-1",
+      "M-2"
+    ],
+    "qualifiers": [
+      "supplemental",
+      "performance"
+    ]
+  },
+  {
+    "id": "nm-santa-fe-moratorium",
+    "state": "NM",
+    "level": "county",
+    "url": "https://www.santafecountynm.gov/uploads/documents/Ordinance_2026-06.pdf",
+    "document_status": "adopted",
+    "checked_against": "Ordinance 2026-06 §§2(E), 4–6, 10; recorded July 9, 2026",
+    "path": "temporary pause",
+    "district_signals": [
+      "county"
+    ],
+    "qualifiers": [
+      "aggregate IT load",
+      "vested rights",
+      "18 months"
+    ]
+  },
+  {
+    "id": "il-aurora-chiller-setback",
+    "state": "IL",
+    "level": "city",
+    "url": "https://aurora-il.legistar.com/View.ashx?M=F&ID=15344729&GUID=335E58EE-F2CE-4A65-A599-09C32F42233D",
+    "document_status": "adopted",
+    "checked_against": "File 26-0112, exhibit A, §49-104.3(c)(25)(b)(iii), pp. 6–7",
+    "qualifiers": [
+      "equipment yard",
+      "hospital"
+    ],
+    "measure": [
+      "ground-mounted chiller setback",
+      ">=",
+      1000,
+      "ft"
+    ]
+  },
+  {
+    "id": "il-aurora-water-ratio",
+    "state": "IL",
+    "level": "city",
+    "url": "https://aurora-il.legistar.com/View.ashx?M=F&ID=15344729&GUID=335E58EE-F2CE-4A65-A599-09C32F42233D",
+    "document_status": "adopted",
+    "checked_against": "File 26-0112, exhibit A, §49-104.3(c)(25)(d)(iv), p. 10",
+    "qualifiers": [
+      "potable",
+      "IT"
+    ],
+    "measure": [
+      "potable water use effectiveness",
+      "<=",
+      0.2,
+      "L/kWh"
+    ]
+  },
+  {
+    "id": "pa-fairview-conditional",
+    "state": "PA",
+    "level": "township",
+    "url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+    "document_status": "adopted",
+    "checked_against": "Ord. 2025-03, § 300-72(E)(3) and Table 5-2.B.2; PDF pp. 2–3",
+    "qualifiers": [
+      "50",
+      "conditional"
+    ],
+    "measure": [
+      "minimum lot area",
+      ">=",
+      50,
+      "acres"
+    ]
+  },
+  {
+    "id": "pa-fairview-setback",
+    "state": "PA",
+    "level": "township",
+    "url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+    "document_status": "adopted",
+    "checked_against": "Ord. 2025-03, § 300-72(E)(9); PDF p. 3",
+    "qualifiers": [
+      "residential"
+    ],
+    "measure": [
+      "residential setback",
+      ">=",
+      150,
+      "ft"
+    ]
+  },
+  {
+    "id": "ca-santa-clara-light",
+    "state": "CA",
+    "level": "city",
+    "url": "https://santaclara.legistar.com/View.ashx?GUID=02DDCA1B-D84F-4CDE-BB46-76B21E28932C&ID=14220670&M=F",
+    "document_status": "adopted",
+    "checked_against": "Title 18, §18.60.090(C)(2), p. 1",
+    "qualifiers": [
+      "shielded"
+    ]
+  },
+  {
+    "id": "ar-conway-cup",
+    "state": "AR",
+    "level": "city",
+    "url": "https://media.conwayarkansas.gov/media/archive/ordinances/2023/O-23-72.pdf",
+    "document_status": "adopted",
+    "checked_against": "O-23-72 §1, permitted use table and §1302 definitions (pp. 1–2)",
+    "qualifiers": [
+      "I-1",
+      "I-3"
+    ]
+  },
+  {
+    "id": "md-fred-overlay",
+    "state": "MD",
+    "level": "county",
+    "url": "https://www.frederickcountymd.gov/ArchiveCenter/ViewFile/Item/16893",
+    "document_status": "official_adoption_summary",
+    "checked_against": "Annual Planning Report 2025, p. 8; Bill 25-09 and adopted CDI zoning map amendment",
+    "qualifiers": [
+      "industrial",
+      "county"
+    ]
+  }
+]

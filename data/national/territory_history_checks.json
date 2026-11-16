@@ -1,0 +1,110 @@
+[
+  {
+    "state": "MP",
+    "name": "CNMI permitted sites",
+    "url": "https://hub.arcgis.com/api/download/v1/items/866adabc4cf0488abe15aa031765de67/csv?layers=0",
+    "sha256": "2383058dc6737980474ed990fa0b88fea2c67fe9882e64b598d62ce5d95976c1",
+    "rows": 88,
+    "described_rows": 88,
+    "fields": [
+      "OwnerDBA",
+      "Project Description"
+    ],
+    "candidates": [],
+    "outcome": "Explicit project name/description checked; not a legal absence finding"
+  },
+  {
+    "state": "MP",
+    "name": "Saipan permit information",
+    "url": "https://hub.arcgis.com/api/download/v1/items/393b6df91f144ffdb7b137093b94ba03/csv?layers=2",
+    "sha256": "6413ad3fc49332e2de05484ab62247634a16a226ec5c0d80a7c0b832e5576310",
+    "rows": 172,
+    "described_rows": 168,
+    "fields": [
+      "permit_typ",
+      "name_of_pr",
+      "project_de"
+    ],
+    "candidates": [],
+    "outcome": "Explicit project name/description checked; not a legal absence finding"
+  },
+  {
+    "state": "VI",
+    "name": "Major CZM permits currently offered for public review",
+    "url": "https://dpnr.vi.gov/coastal-zone-management/what-we-do/coastal-zone-permitting/",
+    "sha256": "42df8ef15302e7d0db2083072c239ccccfea999915a0ebaedce157d19c93778b",
+    "scope": "Public posting titles only, not every attachment or historical decision",
+    "candidates": []
+  },
+  {
+    "state": "PR",
+    "name": "Planning Board/OGPe construction permit history",
+    "url": "https://gis.jp.pr.gov/mipr/",
+    "catalog": "https://www.estadisticas.pr.gov/productos/pemas---permisos-de-construccion",
+    "catalog_sha256": "a98d47abdc37206f2cc99111aec77654d869f081a2d754aae6a3deeec888b777",
+    "outcome": "ConnectionResetError: [Errno 54] Connection reset by peer",
+    "scope": "Statistics Institute documents exclusions for some autonomous municipalities. A failed service connection is not a no-permit result."
+  },
+  {
+    "state": "AS",
+    "name": "Department of Commerce application center",
+    "url": "https://doc.as.gov/application-center",
+    "sha256": "2b216c16b50c55eba8e9aff4acc2d1199a39e549792b5ef4f0d95021146353de",
+    "scope": "Publishes application forms; no list of signed data center decisions located on page."
+  },
+  {
+    "state": "GU",
+    "name": "Guam Hybrid Land Use Commission minutes",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf",
+    "scope": "Two Tamuning votes in the published local history."
+  },
+  {
+    "state": "PR",
+    "name": "Planning Board permit and consultation layers (working service)",
+    "url": "https://sigejp.pr.gov/server/rest/services/MIPR/Permisos/MapServer",
+    "rows": 530,
+    "published": 33,
+    "held": 497,
+    "municipalities": {
+      "San Juan": 10,
+      "Carolina": 4,
+      "Manatí": 1,
+      "Guaynabo": 4,
+      "Mayagüez": 2,
+      "Juncos": 8,
+      "Toa Baja": 4
+    },
+    "scope": "Named case reviews and dated decisions. Original GIS launch page failure does not describe this working register."
+  },
+  {
+    "state": "MP",
+    "name": "Agency notices and supporting documents",
+    "url": "https://dcrm.gov.mp/wp-content/uploads/crm/12302025-Notice-of-Application.pdf",
+    "documents_checked": 111,
+    "review_manifest": "data/history/territories/territorial_review.json",
+    "scope": "Public notices and published attachments only. No individual data center authorization verified from these documents."
+  },
+  {
+    "state": "VI",
+    "name": "Agency notices and supporting documents",
+    "url": "https://www2.ntia.doc.gov/files/grantees/nt10bix5570096_virgin_islands_public_finance_authority_ppr2012_q4.pdf",
+    "documents_checked": 141,
+    "review_manifest": "data/history/territories/territorial_review.json",
+    "scope": "Public notices and published attachments only. No individual data center authorization verified from these documents."
+  },
+  {
+    "state": "AS",
+    "name": "Agency notices and supporting documents",
+    "url": "https://doc.as.gov/post/pnrs-legal-notice",
+    "documents_checked": 34,
+    "review_manifest": "data/history/territories/territorial_review.json",
+    "scope": "Public notices and published attachments only. No individual data center authorization verified from these documents."
+  },
+  {
+    "state": "GU",
+    "name": "Interagency referrals",
+    "url": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf#page=56",
+    "published": 4,
+    "scope": "Agency referrals; do not count as issued permits."
+  }
+]

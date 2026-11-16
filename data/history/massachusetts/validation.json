@@ -1,0 +1,28 @@
+{
+  "state": "MA",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 154,
+  "county": {
+    "Suffolk County": 147,
+    "Middlesex County": 7
+  },
+  "agency_reported_locality": {
+    "Boston": 147,
+    "Lowell": 4,
+    "Middlesex County": 3
+  },
+  "datasets": {
+    "Boston ISD approved building permits": 147,
+    "MassDEP Markley air approval and adjudication": 4,
+    "Massachusetts MEPA project certificates": 2,
+    "MassDEP prior certifications cited in MEPA": 1
+  },
+  "cross_register_date_matches": 0,
+  "boston_candidates": 147,
+  "cambridge_candidates": {
+    "9qm7-wbdc": 0,
+    "qu2z-8suj": 0,
+    "ex75-8iwq": 0
+  },
+  "cutoff": "2026-11-15"
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ut-state-water-notify",
+    "state": "UT",
+    "level": "state",
+    "jurisdiction": "Utah",
+    "geoid": "49",
+    "topic": "water withdrawal",
+    "scope": "data center specific",
+    "summary": "Before approving a land-use application for a new large data center, a municipal or county land-use authority must notify the Division of Water Rights, Division of Water Quality and any relevant water provider. The definition combines at least 75 acre-feet in annual withdrawals with at least 10,000 square feet and qualifying IT use, infrastructure, ownership/lease and parcel tests. New means starting operations on or after July 1, 2026.",
+    "status": "adopted",
+    "locator": "\u00a773-5-8.3(1), (2)",
+    "url": "https://le.utah.gov/xcode/Title73/Chapter5/C73-5-S8.3_2026050620260506.pdf",
+    "authority": "Utah Legislature",
+    "evidence": "the relevant water provider, if any",
+    "effective_date": "2026-05-06"
+  },
+  {
+    "id": "ut-state-water-construction",
+    "state": "UT",
+    "level": "state",
+    "jurisdiction": "Utah",
+    "geoid": "49",
+    "topic": "water withdrawal",
+    "scope": "data center specific",
+    "summary": "Starting July 1, 2026, operators of qualifying new large data centers must give the provider written consumption estimates and report project water information to the division 90 to 360 days before construction.",
+    "status": "adopted",
+    "locator": "\u00a773-5-8.3(1), (3)",
+    "url": "https://le.utah.gov/xcode/Title73/Chapter5/C73-5-S8.3_2026050620260506.pdf",
+    "authority": "Utah Legislature",
+    "evidence": "at least 90 days, but no sooner than 360 days",
+    "effective_date": "2026-05-06"
+  },
+  {
+    "id": "ut-em-qts-work",
+    "state": "UT",
+    "level": "city",
+    "jurisdiction": "Eagle Mountain",
+    "geoid": "4920810",
+    "topic": "site plan",
+    "scope": "data center specific",
+    "summary": "For the QTS property, the development agreement provides for site-plan entitlement for the full campus and allows an excavation permit before site-plan approval. Building plans go to third-party reviewers; review fees are paid to the City. This is a parcel-specific agreement, not a citywide exemption.",
+    "status": "guidance",
+    "locator": "QTS development agreement, Project Approvals exhibit: Site Plan, Excavation and Building Permit Approval",
+    "url": "https://eaglemountain.gov/wp-content/uploads/2026/10/QTS-Development-Agreement.pdf",
+    "authority": "Eagle Mountain City",
+    "evidence": "Site work permit can be obtained prior to Site Plan Approval"
+  }
+]

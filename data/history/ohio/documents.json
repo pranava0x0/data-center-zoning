@@ -1,0 +1,133 @@
+[
+  {
+    "doc": "hilliard_jun",
+    "jurisdiction": "Hilliard",
+    "record_no": "PZ-22-26",
+    "project": "Amazon Data Center, Cosgray Road — lot split",
+    "kind": "Lot split",
+    "status": "Approved with two conditions (6-0).",
+    "date": "2022-06-16",
+    "date_role": "commission decision date",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "anchors": [
+      "Thursday, June 16, 2022",
+      "PZ-22-26",
+      "Approved with two conditions (6-0)"
+    ],
+    "authority": "City of Hilliard Planning & Zoning Commission",
+    "notes": "Printed page header says June 9; full meeting date on page 1 and filename indicate June 16. Not a new-building permit.",
+    "reviewed_hash": null
+  },
+  {
+    "doc": "hilliard_jul",
+    "jurisdiction": "Hilliard",
+    "record_no": "PZ-22-33",
+    "project": "Amazon data center, Scioto Darby Road — seven buildings proposed",
+    "kind": "Level B site plan",
+    "status": "Approved with seven conditions (4-3).",
+    "date": "2022-07-14",
+    "date_role": "commission decision date",
+    "pages": [
+      1,
+      8,
+      11
+    ],
+    "anchors": [
+      "July 14, 2022",
+      "PZ-22-33",
+      "Approved with seven conditions (4-3)"
+    ],
+    "authority": "City of Hilliard Planning & Zoning Commission",
+    "notes": null,
+    "reviewed_hash": null
+  },
+  {
+    "doc": "dublin4",
+    "jurisdiction": "Dublin",
+    "record_no": "20-006WID-DPR",
+    "project": "VA Data building 4, Crosby Court",
+    "kind": "Development Plan Review",
+    "status": "This application was approved.",
+    "date": "2020-03-05",
+    "date_role": "administrative determination date",
+    "pages": [
+      1
+    ],
+    "anchors": [
+      "This application was approved."
+    ],
+    "authority": "City of Dublin Administrative Review Team",
+    "notes": "Printed determination visually reviewed: approval without conditions, subject to stated two-year validity. Does not prove construction.",
+    "reviewed_hash": "4dc0697986228235831985f16409bf0edc8a2387b5aae1db8778da9cb577ea4b"
+  },
+  {
+    "doc": "dublin5",
+    "jurisdiction": "Dublin",
+    "record_no": "20-214WID-DP",
+    "project": "VA Data Building 5",
+    "kind": "Development Plan Review",
+    "status": "This application was approved (7 – 0).",
+    "date": "2021-01-14",
+    "date_role": "administrative determination date",
+    "pages": [
+      1,
+      2
+    ],
+    "anchors": [
+      "January 14, 2021",
+      "20-214WID-DP",
+      "This application was approved"
+    ],
+    "authority": "City of Dublin Administrative Review Team",
+    "notes": null,
+    "reviewed_hash": null
+  },
+  {
+    "doc": "ohio_air",
+    "jurisdiction": "New Albany",
+    "record_no": "P0131370",
+    "project": "Montauk Innovations LLC — 106 emergency generators",
+    "kind": "Initial Title V air permit",
+    "status": "Final Title V Permit",
+    "date": "2022-05-18",
+    "date_role": "issue date",
+    "pages": [
+      9
+    ],
+    "anchors": [
+      "P0131370",
+      "Initial Title V permit for 106 generators at a data center",
+      "Issue Date: 05/18/2022"
+    ],
+    "authority": "Ohio Environmental Protection Agency, Division of Air Pollution Control",
+    "notes": "Effective 2022-06-08. Not a municipal construction permit.",
+    "reviewed_hash": null
+  },
+  {
+    "doc": "ohio_water",
+    "jurisdiction": "New Albany",
+    "record_no": "DSWPTI1545394",
+    "project": "Amazon Data Systems Inc — CC-19612 data center development",
+    "kind": "Surface Water Permit to Install",
+    "status": "Approval",
+    "date": "2023-01-11",
+    "date_role": "issue date",
+    "pages": [
+      1,
+      3,
+      6
+    ],
+    "anchors": [
+      "DSWPTI1545394",
+      "Issuance Date: January 11, 2023",
+      "not an authorization to discharge pollutants"
+    ],
+    "authority": "Ohio Environmental Protection Agency, Division of Surface Water",
+    "notes": "Sewer construction approval, not authorization to discharge or withdraw water.",
+    "reviewed_hash": null
+  }
+]

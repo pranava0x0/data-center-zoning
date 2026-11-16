@@ -1,0 +1,18 @@
+[
+  {
+    "id": "wi-madison-moratorium",
+    "state": "WI",
+    "geoid": "5548000",
+    "level": "city",
+    "jurisdiction": "Madison",
+    "topic": "moratorium",
+    "scope": "data center specific",
+    "summary": "Madison reports its adopted one-year moratorium prevents zoning approvals and, consequently, building and occupancy permits for new principal-use data or telecommunications centers above 10,000 square feet. The stated end is January 24, 2027 unless replaced sooner by a new ordinance. The city\u2019s October 2026 zoning framework is a draft.",
+    "status": "adopted",
+    "authority": "City of Madison, Department of Planning and Community and Economic Development",
+    "locator": "Temporary Data Center Moratorium: What Does the Moratorium Do?; Frequently Asked Questions",
+    "url": "https://www.cityofmadison.com/dpced/about/temporary-data-center-moratorium",
+    "evidence": "over 10,000 square feet in floor area",
+    "effective_date": null
+  }
+]

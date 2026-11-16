@@ -1,0 +1,380 @@
+{
+  "as_doi": {
+    "url": "https://www.doi.gov/node/35000",
+    "sha256": "6ae09e45cc1e829537f393d438c12529589263ef5d99a587755c5b89f0bfcae5",
+    "ext": "html",
+    "path": "cache/territory-grants/6ae09e45cc1e829537f393d438c12529589263ef5d99a587755c5b89f0bfcae5.html",
+    "bytes": 65020,
+    "retrieved": "2026-11-16T07:52:58.649312+00:00"
+  },
+  "as_just": {
+    "url": "https://www.doi.gov/sites/default/files/fy2022-oia-budget-justification.pdf",
+    "sha256": "b68e8dc41769c0518c69dfd34229944a6ecafbe9b924596b0147c45c9e78316c",
+    "ext": "pdf",
+    "path": "cache/territory-grants/b68e8dc41769c0518c69dfd34229944a6ecafbe9b924596b0147c45c9e78316c.pdf",
+    "bytes": 1993867,
+    "retrieved": "2026-11-16T07:52:58.354959+00:00"
+  },
+  "as_btop": {
+    "url": "https://www2.ntia.doc.gov/grantee/american-samoa-government",
+    "sha256": "e0c7a327571418364fb8c342568bcf0fba8e39203f8e0d63a1fd98e2301f2c7c",
+    "ext": "html",
+    "path": "cache/territory-grants/e0c7a327571418364fb8c342568bcf0fba8e39203f8e0d63a1fd98e2301f2c7c.html",
+    "bytes": 36425,
+    "retrieved": "2026-11-16T07:53:08.031054+00:00"
+  },
+  "vi_fonsi": {
+    "url": "https://www2.ntia.doc.gov/sites/default/files/grantee/4816_virgin_islands_fonsi_040411.pdf",
+    "sha256": "1cbf18d5ffc5971ef36b5bbbc5daa12c996dae272acdc2766040a4ee6735f38b",
+    "ext": "pdf",
+    "path": "cache/territory-grants/1cbf18d5ffc5971ef36b5bbbc5daa12c996dae272acdc2766040a4ee6735f38b.pdf",
+    "bytes": 831611,
+    "retrieved": "2026-11-16T07:52:58.152870+00:00",
+    "ocr_path": "cache/territory-grants/1cbf18d5ffc5971ef36b5bbbc5daa12c996dae272acdc2766040a4ee6735f38b.ocr.json",
+    "ocr_sha256": "fd1e6ec6425cd7c3ec83aa6e571cff81a18aafc7e71be5beebeab613bd8aee57"
+  },
+  "vi_letter": {
+    "url": "https://www.doi.gov/sites/default/files/usvi-receives-3417256.33-in-tap-map-and-cares-act-funds-for-fy-2021.pdf",
+    "sha256": "6197bf6363b371b259ff7042bbf80939c550bbe543dcead6cc861fc8ca141460",
+    "ext": "pdf",
+    "path": "cache/territory-grants/6197bf6363b371b259ff7042bbf80939c550bbe543dcead6cc861fc8ca141460.pdf",
+    "bytes": 114389,
+    "retrieved": "2026-11-16T07:52:58.259847+00:00"
+  },
+  "vi_schedule": {
+    "url": "https://omb.vi.gov/wp-content/uploads/2023/01/FY23-FY24-Executive-Budget-Book.pdf",
+    "sha256": "6b7aa1108804f953a0028050ef5916037538802037b7e7423c9a236251311dd7",
+    "ext": "pdf",
+    "path": "cache/territory-grants/6b7aa1108804f953a0028050ef5916037538802037b7e7423c9a236251311dd7.pdf",
+    "bytes": 26636959,
+    "retrieved": "2026-11-16T07:53:00.292084+00:00"
+  },
+  "vi_operating": {
+    "url": "https://energy.vi.gov/wp-content/uploads/2025/01/USVI-Territory-Energy-Security-Plan-2024-Final.pdf",
+    "sha256": "78f483250e118fb8a4b7c7f9bbb641e1f1c3f6ceb74eeb99fdb8a3e5426ec8bc",
+    "ext": "pdf",
+    "path": "cache/territory-grants/78f483250e118fb8a4b7c7f9bbb641e1f1c3f6ceb74eeb99fdb8a3e5426ec8bc.pdf",
+    "bytes": 6702914,
+    "retrieved": "2026-11-16T07:52:58.920333+00:00"
+  },
+  "mp_stats": {
+    "url": "https://www.census.gov/about/partners/sdc/member-network/northern-mariana-islands.html",
+    "sha256": "971db66ea8e641ce9932cf990af545266cd0caf8697c05712e1df89ccabe6187",
+    "ext": "html",
+    "path": "cache/territory-grants/971db66ea8e641ce9932cf990af545266cd0caf8697c05712e1df89ccabe6187.html",
+    "bytes": 326095,
+    "retrieved": "2026-11-16T07:52:58.789626+00:00"
+  },
+  "mp_project": {
+    "url": "https://opd.gov.mp/cnmi-broadband-project.html",
+    "sha256": "3a257a57d022e19503fa34e6e63e0db993944bc95b16dfcc9cb64b56329d0cf7",
+    "ext": "html",
+    "path": "cache/territory-grants/3a257a57d022e19503fa34e6e63e0db993944bc95b16dfcc9cb64b56329d0cf7.html",
+    "bytes": 5629,
+    "retrieved": "2026-11-16T07:53:00.463524+00:00"
+  },
+  "vi_service": {
+    "url": "https://cdbgdr.vihfa.gov/wp-content/uploads/2024/05/3.-Business-Technology-Group-Contract-No.-2022-CDBG-DR-006-DC-SIGNED.pdf",
+    "sha256": "529d74fd8581e9f28a4ec93d75008c47b0785d6ac589aac4d5c1015f9fff559f",
+    "ext": "pdf",
+    "path": "cache/territory-grants/529d74fd8581e9f28a4ec93d75008c47b0785d6ac589aac4d5c1015f9fff559f.pdf",
+    "bytes": 1787927,
+    "retrieved": "2026-11-16T07:53:00.757315+00:00"
+  },
+  "as_usa_search": {
+    "url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "sha256": "5f45ebaa10356265732bc060ed54b788b50e8f6668b17adba3349aa070e5db47",
+    "ext": "json",
+    "path": "cache/territory-grants/5f45ebaa10356265732bc060ed54b788b50e8f6668b17adba3349aa070e5db47.json",
+    "bytes": 3622,
+    "retrieved": "2026-11-16T07:53:24.180318+00:00",
+    "method": "POST",
+    "body": {
+      "filters": {
+        "award_type_codes": [
+          "02",
+          "03",
+          "04",
+          "05"
+        ],
+        "time_period": [
+          {
+            "start_date": "2019-10-01",
+            "end_date": "2020-09-30"
+          }
+        ],
+        "place_of_performance_locations": [
+          {
+            "country": "USA",
+            "state": "AS"
+          }
+        ],
+        "keywords": [
+          "data"
+        ]
+      },
+      "fields": [
+        "Award ID",
+        "Description",
+        "Recipient Name",
+        "Award Amount",
+        "Start Date",
+        "Awarding Agency",
+        "Awarding Sub Agency"
+      ],
+      "page": 1,
+      "limit": 100
+    }
+  },
+  "vi_usa_search": {
+    "url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "sha256": "5ea83ad37ab427d462be7878a3f05e63d9ee78200044350f6b144729bf26a40a",
+    "ext": "json",
+    "path": "cache/territory-grants/5ea83ad37ab427d462be7878a3f05e63d9ee78200044350f6b144729bf26a40a.json",
+    "bytes": 12877,
+    "retrieved": "2026-11-16T07:53:24.691227+00:00",
+    "method": "POST",
+    "body": {
+      "filters": {
+        "award_type_codes": [
+          "02",
+          "03",
+          "04",
+          "05"
+        ],
+        "time_period": [
+          {
+            "start_date": "2020-10-01",
+            "end_date": "2021-09-30"
+          }
+        ],
+        "place_of_performance_locations": [
+          {
+            "country": "USA",
+            "state": "VI"
+          }
+        ],
+        "keywords": [
+          "data"
+        ]
+      },
+      "fields": [
+        "Award ID",
+        "Description",
+        "Recipient Name",
+        "Award Amount",
+        "Start Date",
+        "Awarding Agency",
+        "Awarding Sub Agency"
+      ],
+      "page": 1,
+      "limit": 100
+    }
+  },
+  "as_tx": {
+    "url": "https://api.usaspending.gov/api/v2/awards/ASST_NON_D20AP00079_014/",
+    "sha256": "76a5c6747c6ddfc54450720c2eb193b537db1c86bfcabe795c7222d7ee114905",
+    "ext": "json",
+    "path": "cache/territory-grants/76a5c6747c6ddfc54450720c2eb193b537db1c86bfcabe795c7222d7ee114905.json",
+    "bytes": 4760,
+    "retrieved": "2026-11-16T07:54:29.386422+00:00"
+  },
+  "vi_tx": {
+    "url": "https://api.usaspending.gov/api/v2/awards/ASST_NON_D21AP10148_014/",
+    "sha256": "5864a63b269fb04ac50369afd926e9001aea6cf947088724a8c1ee67bf4d7363",
+    "ext": "json",
+    "path": "cache/territory-grants/5864a63b269fb04ac50369afd926e9001aea6cf947088724a8c1ee67bf4d7363.json",
+    "bytes": 4848,
+    "retrieved": "2026-11-16T07:54:29.705472+00:00"
+  },
+  "mp_bead": {
+    "url": "https://bpd.cnmi.gov/about-us/b-e-a-d-documents/",
+    "sha256": "09833f8fb1900602bc02ec1a5d66794828521518e572bce02b34ebbfa8706c6e",
+    "ext": "html",
+    "path": "cache/territory-grants/09833f8fb1900602bc02ec1a5d66794828521518e572bce02b34ebbfa8706c6e.html",
+    "bytes": 131715,
+    "retrieved": "2026-11-16T07:55:04.935835+00:00"
+  },
+  "mp_cpf": {
+    "url": "https://bpd.cnmi.gov/about-us/capital-projects-fund/",
+    "sha256": "d5fc4e2baee736b95c5b6111d9606093bf634992b7fe3bf4584a0d161b4cf8e2",
+    "ext": "html",
+    "path": "cache/territory-grants/d5fc4e2baee736b95c5b6111d9606093bf634992b7fe3bf4584a0d161b4cf8e2.html",
+    "bytes": 98088,
+    "retrieved": "2026-11-16T07:55:05.223378+00:00"
+  },
+  "mp_master": {
+    "url": "https://bpd.cnmi.gov/wp-content/uploads/2026/06/CNMI-BPD-BEAD-Subgrant-Agreement-Master.pdf",
+    "sha256": "7e71991ea7cb012188c7a89b8c3a8cb832d3c2d639e172d100a922c86a6e9085",
+    "ext": "pdf",
+    "path": "cache/territory-grants/7e71991ea7cb012188c7a89b8c3a8cb832d3c2d639e172d100a922c86a6e9085.pdf",
+    "bytes": 803014,
+    "retrieved": "2026-11-16T07:55:05.057353+00:00"
+  },
+  "mp_exa": {
+    "url": "https://bpd.cnmi.gov/wp-content/uploads/2026/05/Exhibit-A_-Project-Description-and-Scope-of-Work-MASTER.pdf",
+    "sha256": "6d3f5e7d58a6d24599cd04d42bb837555fe67be652799d9da2b61a62144f977f",
+    "ext": "pdf",
+    "path": "cache/territory-grants/6d3f5e7d58a6d24599cd04d42bb837555fe67be652799d9da2b61a62144f977f.pdf",
+    "bytes": 251554,
+    "retrieved": "2026-11-16T07:55:05.355936+00:00"
+  },
+  "mp_exd": {
+    "url": "https://bpd.cnmi.gov/wp-content/uploads/2026/05/Exhibit-D_-Environmental-Review-Forms-MASTER.pdf",
+    "sha256": "83898757b381e55a6467bc8326fe78283415e29906d41f0fd4fee31cbe2830a5",
+    "ext": "pdf",
+    "path": "cache/territory-grants/83898757b381e55a6467bc8326fe78283415e29906d41f0fd4fee31cbe2830a5.pdf",
+    "bytes": 137967,
+    "retrieved": "2026-11-16T07:55:05.403253+00:00"
+  },
+  "mp_usa_data_center": {
+    "url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "sha256": "fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a",
+    "ext": "json",
+    "path": "cache/territory-grants/fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a.json",
+    "bytes": 482,
+    "retrieved": "2026-11-16T07:55:21.108850+00:00",
+    "method": "POST",
+    "body": {
+      "filters": {
+        "award_type_codes": [
+          "02",
+          "03",
+          "04",
+          "05"
+        ],
+        "time_period": [
+          {
+            "start_date": "2007-10-01",
+            "end_date": "2026-11-16"
+          }
+        ],
+        "place_of_performance_locations": [
+          {
+            "country": "USA",
+            "state": "MP"
+          }
+        ],
+        "keywords": [
+          "data center"
+        ]
+      },
+      "fields": [
+        "Award ID",
+        "Description",
+        "Recipient Name",
+        "Award Amount"
+      ],
+      "page": 1,
+      "limit": 100
+    }
+  },
+  "mp_usa_data_centre": {
+    "url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "sha256": "fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a",
+    "ext": "json",
+    "path": "cache/territory-grants/fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a.json",
+    "bytes": 482,
+    "retrieved": "2026-11-16T07:55:21.607110+00:00",
+    "method": "POST",
+    "body": {
+      "filters": {
+        "award_type_codes": [
+          "02",
+          "03",
+          "04",
+          "05"
+        ],
+        "time_period": [
+          {
+            "start_date": "2007-10-01",
+            "end_date": "2026-11-16"
+          }
+        ],
+        "place_of_performance_locations": [
+          {
+            "country": "USA",
+            "state": "MP"
+          }
+        ],
+        "keywords": [
+          "data centre"
+        ]
+      },
+      "fields": [
+        "Award ID",
+        "Description",
+        "Recipient Name",
+        "Award Amount"
+      ],
+      "page": 1,
+      "limit": 100
+    }
+  },
+  "mp_usa_colocation": {
+    "url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+    "sha256": "fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a",
+    "ext": "json",
+    "path": "cache/territory-grants/fc757405485bafe627208795a5010df673f1db91aef27d86e0699fc9879b142a.json",
+    "bytes": 482,
+    "retrieved": "2026-11-16T07:55:22.035901+00:00",
+    "method": "POST",
+    "body": {
+      "filters": {
+        "award_type_codes": [
+          "02",
+          "03",
+          "04",
+          "05"
+        ],
+        "time_period": [
+          {
+            "start_date": "2007-10-01",
+            "end_date": "2026-11-16"
+          }
+        ],
+        "place_of_performance_locations": [
+          {
+            "country": "USA",
+            "state": "MP"
+          }
+        ],
+        "keywords": [
+          "colocation"
+        ]
+      },
+      "fields": [
+        "Award ID",
+        "Description",
+        "Recipient Name",
+        "Award Amount"
+      ],
+      "page": 1,
+      "limit": 100
+    }
+  },
+  "samoa_other": {
+    "url": "https://regulator.gov.ws/images/Spectrum/Digital_Samoa_Project.pdf",
+    "sha256": "b13d62f8529a94cc75b749f91cdf6e35ec536e3887847f70789b3f5823b5f632",
+    "ext": "pdf",
+    "path": "cache/territory-grants/b13d62f8529a94cc75b749f91cdf6e35ec536e3887847f70789b3f5823b5f632.pdf",
+    "bytes": 143175,
+    "retrieved": "2026-11-16T07:57:04.740049+00:00"
+  },
+  "vi_ea": {
+    "url": "https://www2.ntia.gov/sites/default/files/grantee/4816_virgin_islands_executive_summary.pdf",
+    "sha256": "99c51bd221779f80ebab058328226a5d5985876a8b7dcdaea33c4ef691354b20",
+    "ext": "pdf",
+    "path": "cache/territory-grants/99c51bd221779f80ebab058328226a5d5985876a8b7dcdaea33c4ef691354b20.pdf",
+    "bytes": 3668500,
+    "retrieved": "2026-11-16T07:57:29.278844+00:00"
+  },
+  "vi_cd450": {
+    "url": "https://www2.ntia.gov/sites/default/files/grantees/virginislands_infrastructure_cd-450.pdf",
+    "sha256": "1401139707dd7c2287261175bfc0a88203a0355f20246b6d8ac8e879460f1655",
+    "ext": "pdf",
+    "path": "cache/territory-grants/1401139707dd7c2287261175bfc0a88203a0355f20246b6d8ac8e879460f1655.pdf",
+    "bytes": 562765,
+    "retrieved": "2026-11-16T07:57:39.227892+00:00"
+  }
+}

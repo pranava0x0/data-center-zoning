@@ -1,0 +1,5 @@
+case	source	project_key	record_no	kind	status	date	effective	superseded	source_anchor	docket
+crosby-2021	crosby-original	crosby	TMNSR-TAT-008149-2021.001	Part 49 true minor NSR permit	final permit was issued and immediately effective	2021-09-20	2021-09-20	2022-02-28	immediately effective on September 20, 2021	EPA-R08-OAR-2021-0039
+crosby-2022	crosby-original	crosby	TMNSR-TAT-008149-2021.001B	Part 49 true minor NSR administrative revision	administratively revised	2022-02-28	2022-02-28	2024-03-11	administratively revised on February 28, 2022	EPA-R08-OAR-2021-0039
+eagle-2022	eagle	eagle	TMNSR-TAT-008173-2022.001	Part 49 true minor NSR permit	final permit was issued and became effective	2022-08-29	2022-08-29		issued and became effective on August 29, 2022	EPA-R08-OAR-2022-0425
+crosby-2024	crosby-revision	crosby	SMNSR-TAT-008149-2023.002	Part 49 synthetic minor NSR revision	final permit was issued	2024-02-09	2024-03-11		with an effective date of March 11, 2024	EPA-R08-OAR-2023-0443

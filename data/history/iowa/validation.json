@@ -1,0 +1,41 @@
+{
+  "state": "IA",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 4635,
+  "county": {
+    "Pottawattamie County": 3764,
+    "Dallas County": 552,
+    "Warren County": 312,
+    "Marshall County": 4,
+    "Polk County": 3
+  },
+  "agency_reported_locality": {
+    "Council Bluffs": 3764,
+    "West Des Moines": 866,
+    "Marshalltown": 4,
+    "Altoona": 1
+  },
+  "datasets": {
+    "Iowa DNR air construction equipment permit history": 4625,
+    "Iowa DNR signed Title V operating permits": 5,
+    "Council Bluffs Building Division issued permits": 4,
+    "West Des Moines City Council site plans": 1
+  },
+  "cross_register_date_matches": 0,
+  "state_plant_roster": 3284,
+  "selected_plants": 8,
+  "construction_plant_source_rows": {
+    "25-17-008": 323,
+    "77-07-010": 0,
+    "77-02-040": 0,
+    "25-17-007": 228,
+    "78-01-121": 3722,
+    "91-09-005": 311,
+    "78-01-131": 38,
+    "64-01-079": 4
+  },
+  "construction_source_rows": 4626,
+  "identical_printed_rows_collapsed": 1,
+  "distinct_equipment_permit_families": 1005,
+  "cutoff": "2026-11-15"
+}

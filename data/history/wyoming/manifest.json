@@ -1,0 +1,100 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2756%27&returnIdsOnly=true",
+      "sha256": "5d69359d3b2f933169b27a708ec8697c958ad9540fc33fe2b6b7a6162fb863d7",
+      "bytes": 609,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2756%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "0c8490c9abe46d389f388864551ac7c6a536c4f4bd9dc530481484d9a7b2e68c",
+      "bytes": 304834,
+      "ext": "json"
+    }
+  },
+  "tembo": {
+    "url": "https://www.laramiecountywy.gov/Public-Notices/Project-Tembo-Data-Center",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "cheyenne": {
+    "url": "https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department/Data-Centers",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "cheyplan": {
+    "url": "https://cheyenne.granicus.com/MetaViewer.php?event_id=1419&meta_id=148406&view_id=5",
+    "error": "robots.txt disallows https://cheyenne.granicus.com/MetaViewer.php?event_id=1419&meta_id=148406&view_id=5"
+  },
+  "jan": {
+    "url": "https://laramiecounty.legistar.com/View.ashx?GUID=88602771-9F05-4B35-B626-613867A11735&ID=1337495&M=M",
+    "sha256": "db1211564785aab813289a1c60ac8a71e4b1496cc78519e536add315da1e32d0",
+    "bytes": 113016,
+    "ext": "pdf"
+  },
+  "oct": {
+    "url": "https://laramiecounty.legistar.com/View.ashx?GUID=92FA8E77-2904-49D5-AC8A-085AFA89FFB8&ID=1335721&M=M",
+    "sha256": "da12364b122d88c2b379b66eb87034d9bbedd7f4118f13df7e3b0f2dbb7cb9a6",
+    "bytes": 117006,
+    "ext": "pdf"
+  },
+  "sept": {
+    "url": "https://laramiecounty.legistar.com/MeetingDetail.aspx?GUID=E265666F-7989-4C81-AD20-D6DF7140139F&ID=1435936&Options=&Search=",
+    "sha256": "b4e071492cd1a4a24ff346eeeef251547c6a2b29ab81a202e53aabccf7bdca1d",
+    "bytes": 115099,
+    "ext": "html"
+  },
+  "aug": {
+    "url": "https://laramiecounty.legistar.com/LegislationDetail.aspx?GUID=32BDBB37-BAF4-4FC8-A8E7-34812FE2FCE7&ID=8165034&Options=&Search=",
+    "sha256": "6cea712668e00ca09cdf992aca13ae6ee46f0bd049c117fb9f95e5c2fd354cdf",
+    "bytes": 92765,
+    "ext": "html"
+  },
+  "cup": {
+    "url": "https://laramiecounty.legistar.com/LegislationDetail.aspx?ID=8197805&GUID=55C976BE-6E50-4854-8AEE-668A2A05865D&Options=&Search=",
+    "sha256": "4a91efda74ed978f11877fe91661335ea032b070526351bc5365e9c3cef31fc8",
+    "bytes": 91961,
+    "ext": "html"
+  },
+  "cupreport": {
+    "url": "https://laramiecounty.legistar.com/View.ashx?M=F&ID=15822042&GUID=5AAC22E2-410C-44B3-8BAF-F72EA4CAEAE1",
+    "sha256": "536b24ec4819b935a576ba74b175bc6eb38cf2ca1827b0a142dbbe2a9443e7a6",
+    "bytes": 4513996,
+    "ext": "pdf"
+  },
+  "smartcup": {
+    "url": "https://co-laramie-wy.smartgovcommunity.com/PermittingPublic/PermitLandingPagePublic/Index/ba7af803-e81d-4dc6-ae0c-b4790109f396",
+    "sha256": "e5e402f2228b66a8d1aa8c6018358ecb8c0c62367e35471159d84abf237cc31e",
+    "bytes": 124173,
+    "ext": "html"
+  },
+  "smartsite": {
+    "url": "https://co-laramie-wy.smartgovcommunity.com/PermittingPublic/PermitLandingPagePublic/Index/571c1a3f-0e79-4312-a9f1-b46a011fad81",
+    "sha256": "8ea84f481b01c68f44c418a06203ec1c5d17eff182c782cba0d07dc6c6f8c6fd",
+    "bytes": 136838,
+    "ext": "html"
+  },
+  "chey_cys21": {
+    "url": "https://connect.cheyennecity.org/v68314",
+    "sha256": "806968576a2299dabc096e88d6330190b23736e63fd4515dafd9a078f2e0b6b5",
+    "bytes": 66580,
+    "ext": "html"
+  },
+  "chey_opp": {
+    "url": "https://connect.cheyennecity.org/e60086",
+    "sha256": "219b8d0f5deff584ce1c70cf45f2a80ef99b1ebc794fc5e52e39e498def4a302",
+    "bytes": 66673,
+    "ext": "html"
+  },
+  "chey_read": {
+    "url": "https://connect.cheyennecity.org/a25275",
+    "sha256": "fe9ebe62c39272fdbfc270187929a1ec02d02e1c93ce5cd556b6a85507784131",
+    "bytes": 69558,
+    "ext": "html"
+  }
+}

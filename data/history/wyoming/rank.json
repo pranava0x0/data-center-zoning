@@ -1,0 +1,194 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2756%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 25,
+  "counties": {
+    "Laramie County": 24,
+    "Campbell County": 1
+  },
+  "places": {
+    "Cheyenne city": 22,
+    "Outside incorporated places": 2,
+    "Pine Bluffs town": 1
+  },
+  "points": [
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": "NCAR-Wyoming Supercomputing Center",
+      "operator": "University Corporation for Atmospheric Research",
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Pine Bluffs town",
+      "name": "Windbreak Cable",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": "CYS41 Datacenter",
+      "operator": "Microsoft",
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": "CYS42 Datacenter",
+      "operator": "Microsoft",
+      "type": "building"
+    },
+    {
+      "county": "Campbell County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Cheyenne city",
+      "name": "MineOne Wyoming Data Center",
+      "operator": "MineOne",
+      "type": "campus"
+    },
+    {
+      "county": "Laramie County",
+      "place": "Outside incorporated places",
+      "name": "Project Jade Data Center",
+      "operator": null,
+      "type": "campus"
+    }
+  ]
+}

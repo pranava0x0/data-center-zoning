@@ -1,0 +1,139 @@
+{
+  "cutoff": "2026-11-15",
+  "atlas": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "places": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11",
+  "terms": [
+    "%DATA%CENT%",
+    "%DATA%CTR%",
+    "%DATA%HALL%",
+    "%SERVER%FARM%",
+    "%DATA%BUILDING%"
+  ],
+  "layers": {
+    "new_albany": {
+      "url": "https://webgis.newalbanyohio.org/arcgis/rest/services/PublicZoning/ZoningEntitlementsBoardsCommissions/MapServer/0",
+      "lex": [
+        "Name",
+        "Description",
+        "AdditionalInfo",
+        "PCAdditonalInfo",
+        "BZAAdditionalInfo",
+        "ARBAdditionalInfo",
+        "CC2AdditionalInfo",
+        "CC1AdditionalInfo",
+        "RFABAdditionalInfo",
+        "PTABAdditionalInfo"
+      ],
+      "fields": "OBJECTID,CaseNumber,AdoptionDate,Year,Classification,Name,Status,AdditionalInfo,PCHearingDate,PCStatus,PCAdditonalInfo,BZAHearingDate,BZAStatus,BZAAdditionalInfo,ARBHearingDate,ARBStatus,ARBAdditionalInfo,CC2HearingDate,CC2Status,CC2AdditionalInfo,CC1HearingDate,CC1Status,CC1AdditionalInfo,RFABHearingDate,RFABStatus,RFABAdditionalInfo,PTABHearingDate,PTABStatus,PTABAdditionalInfo,Type,Description"
+    },
+    "engineering": {
+      "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/22",
+      "lex": [
+        "B1_WORK_DESC",
+        "B1_SHORT_NOTES"
+      ],
+      "fields": "OBJECTID,B1_ALT_ID,B1_PER_TYPE,B1_PER_SUB_TYPE,B1_PER_CATEGORY,B1_PARCEL_NBR,SITE_ADDRESS,B1_SHORT_NOTES,B1_FILE_DD,B1_APPL_STATUS,LAST_STATUS_DT,B1_WORK_DESC,ACA_URL"
+    },
+    "building": {
+      "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5",
+      "lex": [
+        "VALUE_DESC",
+        "APPLICANT_BUS_NAME"
+      ],
+      "fields": "OBJECTID,B1_ALT_ID,B1_PER_TYPE,B1_PER_SUB_TYPE,B1_PER_CATEGORY,GENERAL_TYPE,B1_PARCEL_NBR,SITE_ADDRESS,PERMIT_STATUS,APPLICANT_BUS_NAME,ISSUED_DT,LAST_STATUS_DT,CONST_TYPE_CODE,VALUE_DESC,ACA_URL,B1_APPL_STATUS"
+    },
+    "npdes0": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/0",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,us_epa_no,facility_name,facility_city,county,effective_date,expiration_date,perm_type_descrip,permit_status,permit_id,applicationid",
+      "lex": [
+        "facility_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    },
+    "npdes1": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/1",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,us_epa_no,facility_name,facility_city,county,effective_date,expiration_date,perm_type_descrip,permit_status,permit_id,applicationid",
+      "lex": [
+        "facility_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    },
+    "npdes2": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/2",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,us_epa_no,facility_name,facility_city,county,effective_date,expiration_date,perm_type_descrip,permit_status,permit_id,applicationid",
+      "lex": [
+        "facility_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    },
+    "npdes3": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/3",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,us_epa_no,facility_name,facility_city,facility_county,issue_date,effective_date,expiration_date,permitdetail,permit_status,permit_id,applicationid",
+      "lex": [
+        "facility_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    },
+    "npdes4": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/4",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,us_epa_no,facility_name,facility_city,facility_county,issue_date,effective_date,expiration_date,permitdetail,permit_status,permit_id,applicationid",
+      "lex": [
+        "facility_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    },
+    "npdes6": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/6",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,us_epa_no,facility_name,facility_city,county,effective_date,expiration_date,perm_type_descrip,permit_status,permit_id,applicationid",
+      "lex": [
+        "facility_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    },
+    "npdes7": {
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/7",
+      "oid": "objectid",
+      "fields": "objectid,ohio_epa_no,fp_place_name,fp_county_name,effective_date,expiration_date,perm_type_descrip,permit_status",
+      "lex": [
+        "fp_place_name"
+      ],
+      "aliases": [
+        "AMAZON DATA SERVICES",
+        "AMAZON DATA SYSTEMS"
+      ]
+    }
+  },
+  "documents": {
+    "hilliard_jun": "https://hilliardohio.gov/wp-content/uploads/2022/01/PZ-MINUTES-6-16-22.pdf",
+    "hilliard_jul": "https://hilliardohio.gov/wp-content/uploads/2022/01/PZ-MINUTES-7-14-22.pdf",
+    "ohio_air": "https://edocpub.epa.ohio.gov/publicportal/ViewDocument.aspx?docid=1818451",
+    "ohio_water": "https://edocpub.epa.ohio.gov/publicportal/ViewDocument.aspx?docid=2161104",
+    "dublin4": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2018/12/art-determination-3-5-20.pdf",
+    "dublin5": "https://dublinohiousa.gov/dev/dev/wp-content/uploads/2021/02/art-action-1-14-21.pdf"
+  },
+  "townships": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/8"
+}

@@ -1,0 +1,51 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Hudson County,14,34017,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Somerset County,13,34035,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,3,Middlesex County,12,34023,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,Monmouth County,5,34025,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,4,Passaic County,5,34031,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,6,Ocean County,4,34029,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,7,Essex County,2,34013,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Bergen County,1,34003,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Cumberland County,1,34011,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Gloucester County,1,34015,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,8,Union County,1,34039,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+municipality,1,Secaucus town,11,3401766570,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,2,Piscataway township,10,3402359010,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,3,Franklin township,8,3403524900,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,4,Bridgewater township,3,3403507720,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,4,Clifton city,3,3403113690,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,4,Wall township,3,3402576460,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,7,Manchester township,2,3402943140,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,7,Totowa borough,2,3403173140,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,7,Weehawken township,2,3401777930,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Branchburg township,1,3403507180,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Carteret borough,1,3402310750,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Cranford township,1,3403915640,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Edison township,1,3402320230,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Freehold township,1,3402525230,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Hillsborough township,1,3403531890,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Little Egg Harbor township,1,3402940560,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Mahwah township,1,3400342750,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Manasquan borough,1,3402543050,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Newark city,1,3401351000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,North Bergen township,1,3401752470,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Nutley township,1,3401353680,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Tuckerton borough,1,3402974210,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,Vineland city,1,3401176070,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+municipality,10,West Deptford township,1,3401578800,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,Secaucus town,11,3466570,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,2,Clifton city,3,3413690,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,3,Totowa borough,2,3473140,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Carteret borough,1,3410750,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Manasquan borough,1,3443050,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Newark city,1,3451000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Tuckerton borough,1,3474210,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,4,Vineland city,1,3476070,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,1,Franklin Center CDP,8,3424965,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,2,Cedar Glen West CDP,2,3411155,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,2,Martinsville CDP,2,3444430,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,4,Allenwood CDP,1,3400790,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,4,Bradley Gardens CDP,1,3407000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,4,Flagtown CDP,1,3423610,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,4,West Freehold CDP,1,3479100,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

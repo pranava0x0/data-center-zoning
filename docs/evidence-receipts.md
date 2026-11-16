@@ -1,0 +1,9 @@
+# Reproducing the evidence behind a history card
+
+1. Find the card's record in [the history export](../output/permit_history.csv). The agency case number identifies the file; the atlas ID identifies the particular action.
+2. Look up that atlas ID in [the row receipts](../output/receipts/evidence.csv). Each receipt names the government source, the exact locator and the SHA-256 of the evidence used. Some county cases combine features from multiple GIS batches, so they can have several receipts.
+3. Find that hash in [the local file index](../output/receipts/evidence_files.csv). Its path is relative to the project folder. The hash applies either to the stored bytes or to their decompressed contents, as indicated. The card's Source link can open a case detail page even when the archived bytes are the original batch that contained it.
+
+All 14,441 history records in this edition have receipts. Recomputing the 1,093 distinct checksums found a matching local file for every one. For records based on excerpts from a government site, the hash authenticates the saved excerpt; it does not turn it into a copy of a signed permit. [Manassas](manassas-city-history.md) documents an example. Other records have the full instrument, such as the [California FAA letters](federal-aviation-letters.md). A correct checksum does not establish that an instrument is current or that all permits were found.
+
+Both checks are offline and required by the Makefile. Run `python3 scripts/pipeline/history_evidence_receipts.py` to reconcile the rows to their source objects, then `python3 scripts/pipeline/history_materialization.py --strict` to recompute the hashes. [Row reconciliation](../output/receipts/evidence_quality.json) and [byte verification](../output/receipts/materialization.json) record the latest results.

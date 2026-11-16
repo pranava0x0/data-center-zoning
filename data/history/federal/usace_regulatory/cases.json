@@ -1,0 +1,674 @@
+{
+  "LRB-2024-00320": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRB-2024-00320%22&max=200&start=0&sa=true",
+      "sha256": "154dbd42e8baa7b74b54cb564b7a482bc2034d0306eb11d79aebadc2ceb7aee7",
+      "bytes": 510,
+      "ext": "json"
+    }
+  ],
+  "LRC-2020-00384": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRC-2020-00384%22&max=200&start=0&sa=true",
+      "sha256": "ae387fc22bdb6eced6b0c9bd81dc21e2cac68c53d41df156125112e5db5862e4",
+      "bytes": 676,
+      "ext": "json"
+    }
+  ],
+  "LRE-2024-00058-171": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRE-2024-00058-171%22&max=200&start=0&sa=true",
+      "sha256": "4d28b110488533574e6977097550f55a6e04c28e0b1055e96213376c470b14ef",
+      "bytes": 2134,
+      "ext": "json"
+    }
+  ],
+  "LRH-2023-00824-MUS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRH-2023-00824-MUS%22&max=200&start=0&sa=true",
+      "sha256": "7c654d9d0a222236039aede694458afc9aad361bdf233da4fec2574284667db4",
+      "bytes": 518,
+      "ext": "json"
+    }
+  ],
+  "LRH-2024-00794-SCR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRH-2024-00794-SCR%22&max=200&start=0&sa=true",
+      "sha256": "0ac6615a337a9b856e84518cc188c57a145a40adfb2810411eb04c7f35c0dade",
+      "bytes": 565,
+      "ext": "json"
+    }
+  ],
+  "LRH-2025-00559-SCR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRH-2025-00559-SCR%22&max=200&start=0&sa=true",
+      "sha256": "74c3183148c0f6a7aeb6bb9a678a2c0fc4220ecd8ef48b0204c4080bc6093494",
+      "bytes": 601,
+      "ext": "json"
+    }
+  ],
+  "LRH-2025-00663-TUS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRH-2025-00663-TUS%22&max=200&start=0&sa=true",
+      "sha256": "1551ee8e92118f487c4bf583365833044c118cf8fc9a0f99f3a7aa7ae06beae2",
+      "bytes": 607,
+      "ext": "json"
+    }
+  ],
+  "LRL-2025-00588-sjk": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRL-2025-00588-sjk%22&max=200&start=0&sa=true",
+      "sha256": "da6b29bd32c834a2372cd3075b33c93df00e74329314d753b599c21c47f1ebc3",
+      "bytes": 545,
+      "ext": "json"
+    }
+  ],
+  "LRL-2026-00041": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRL-2026-00041%22&max=200&start=0&sa=true",
+      "sha256": "ccf1b49ba90bc66ed9b43f7bc1bafeb80d29b61f6d7edbaa7040069a18cfceb5",
+      "bytes": 518,
+      "ext": "json"
+    }
+  ],
+  "LRN-2026-00162": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRN-2026-00162%22&max=200&start=0&sa=true",
+      "sha256": "64421b6b5afface6f14e5f8f1f057db9b7098c69ca341121388bef83a2c58384",
+      "bytes": 594,
+      "ext": "json"
+    }
+  ],
+  "MVK-2024-00740-KC": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVK-2024-00740-KC%22&max=200&start=0&sa=true",
+      "sha256": "80ac296b41d2f266a8772b98a445c7d4a4a2efd701488b793197543080a929a4",
+      "bytes": 1803,
+      "ext": "json"
+    }
+  ],
+  "MVP-2010-01310-PRH": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVP-2010-01310-PRH%22&max=200&start=0&sa=true",
+      "sha256": "179ead507720fc462a67ea72370ae22e0b266ca9bbaa21e0584c5e09e1450a65",
+      "bytes": 622,
+      "ext": "json"
+    }
+  ],
+  "MVP-2022-00578-ALH": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVP-2022-00578-ALH%22&max=200&start=0&sa=true",
+      "sha256": "0852771272dd6a1a17f0804aacf15193c3b7dcc5e279da455a758136a85c9586",
+      "bytes": 571,
+      "ext": "json"
+    }
+  ],
+  "MVP-2025-00472-LRK": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVP-2025-00472-LRK%22&max=200&start=0&sa=true",
+      "sha256": "ceacf525363efebbda3e35c1ea7474269ff19e057715da3d9c16910d042ca543",
+      "bytes": 1097,
+      "ext": "json"
+    }
+  ],
+  "MVS-2025-00690": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVS-2025-00690%22&max=200&start=0&sa=true",
+      "sha256": "65c4921dfbf276bc63ef3c4fea3e990fed6826e651b1f0df77e97467ac6774d6",
+      "bytes": 543,
+      "ext": "json"
+    }
+  ],
+  "NAB-2021-00147-P05": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAB-2021-00147-P05%22&max=200&start=0&sa=true",
+      "sha256": "de88239a433ff19cc9e5985f77cafb0897510b9bbb0b8b7324c0138a457b8658",
+      "bytes": 528,
+      "ext": "json"
+    }
+  ],
+  "NAB-2025-00423-P10": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAB-2025-00423-P10%22&max=200&start=0&sa=true",
+      "sha256": "e724471deb17521704a6d45ac40ae5888db8a69d08c474aec969c5d9ac5537af",
+      "bytes": 558,
+      "ext": "json"
+    }
+  ],
+  "NAB-2025-00545-P12": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAB-2025-00545-P12%22&max=200&start=0&sa=true",
+      "sha256": "22118558a9ba1ed1400b471b9f69c0c1d0aa96bde5e5ab5fde90b838131a8669",
+      "bytes": 515,
+      "ext": "json"
+    }
+  ],
+  "NAB-2025-00578-P33": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAB-2025-00578-P33%22&max=200&start=0&sa=true",
+      "sha256": "da94cbeb075f162e4c4761f7c7e5e12bafcc495656917822a796bd09d0290944",
+      "bytes": 550,
+      "ext": "json"
+    }
+  ],
+  "NAB-2026-00062-P33": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAB-2026-00062-P33%22&max=200&start=0&sa=true",
+      "sha256": "354b1daa23e8d297fc803f90f7bfb7c8f197abceb5857fb8c16794168ac864a7",
+      "bytes": 514,
+      "ext": "json"
+    }
+  ],
+  "NAO-2005-01547-TREC": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2005-01547-TREC%22&max=200&start=0&sa=true",
+      "sha256": "f9770d0ae57b9eebdb2866b4097d1b6388973d01269c060d481af243e7f97b5d",
+      "bytes": 1625,
+      "ext": "json"
+    }
+  ],
+  "NAO-2006-06296": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2006-06296%22&max=200&start=0&sa=true",
+      "sha256": "4b38fb7222aa2c4f8f3adaee0a69e256c720b843c0ed954859ae9e8333f0562f",
+      "bytes": 573,
+      "ext": "json"
+    }
+  ],
+  "NAO-2008-00254-jsh": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2008-00254-jsh%22&max=200&start=0&sa=true",
+      "sha256": "db0c722035f93ed5d753ad19843ed14a8c0e3e86883d23679612ae58b2b942ca",
+      "bytes": 2257,
+      "ext": "json"
+    }
+  ],
+  "NAO-2008-02071-arl": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2008-02071-arl%22&max=200&start=0&sa=true",
+      "sha256": "c8c900abd439e7c4b1b836dc0fc0fbbb13f010ad0170b4e078ac8ff29b23ef8a",
+      "bytes": 2119,
+      "ext": "json"
+    }
+  ],
+  "NAO-2008-02942-RDR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2008-02942-RDR%22&max=200&start=0&sa=true",
+      "sha256": "9ac818da9194c02790a34483192e58ed0e41fb37129996382e14f7414e8766a1",
+      "bytes": 842,
+      "ext": "json"
+    }
+  ],
+  "NAO-2010-02502-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2010-02502-RRS%22&max=200&start=0&sa=true",
+      "sha256": "0b71c7aa2b031b8f8f6861cfcc1bdb160d7720ed2b2f2aa13841e68947ef868a",
+      "bytes": 1091,
+      "ext": "json"
+    }
+  ],
+  "NAO-2013-01922-jsh": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2013-01922-jsh%22&max=200&start=0&sa=true",
+      "sha256": "acb925a461eb4b78984a9d4eef0783217eb60f8d7c02f7f8b8ff3c68637517d2",
+      "bytes": 836,
+      "ext": "json"
+    }
+  ],
+  "NAO-2014-01246-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2014-01246-RRS%22&max=200&start=0&sa=true",
+      "sha256": "2b02087bef217c9fa70783e223e042fd5cc4a6b676db358b7950fbb798fc993f",
+      "bytes": 908,
+      "ext": "json"
+    }
+  ],
+  "NAO-2016-01849": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2016-01849%22&max=200&start=0&sa=true",
+      "sha256": "32868f3817c13be1085a639cab55a2bd3f24e8d5461a5abc49ba9bd4088176e9",
+      "bytes": 557,
+      "ext": "json"
+    }
+  ],
+  "NAO-2017-00258-RDR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2017-00258-RDR%22&max=200&start=0&sa=true",
+      "sha256": "021e781c321f3955783f2cc1aa5ec4e1c6ed2ed1b01d4564e2ddba83e7005639",
+      "bytes": 598,
+      "ext": "json"
+    }
+  ],
+  "NAO-2017-01568-llh": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2017-01568-llh%22&max=200&start=0&sa=true",
+      "sha256": "086280fbed4a8209e8eafa1b0f895875888ae8c1f637474668d89010254f5a33",
+      "bytes": 614,
+      "ext": "json"
+    }
+  ],
+  "NAO-2018-02236-mmw": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2018-02236-mmw%22&max=200&start=0&sa=true",
+      "sha256": "7e6f742c279aa8d61071b1e7f788cb53fd75081193076566500b47036a8146a7",
+      "bytes": 552,
+      "ext": "json"
+    }
+  ],
+  "NAO-2019-00126-rhs": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2019-00126-rhs%22&max=200&start=0&sa=true",
+      "sha256": "42bc5aa7877b2ce6d81173306a5775cafdb476f935f4652da7f0921f21b79e32",
+      "bytes": 627,
+      "ext": "json"
+    }
+  ],
+  "NAO-2020-00426-arl": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2020-00426-arl%22&max=200&start=0&sa=true",
+      "sha256": "077a2f1d61c3c8156c142d7fa9c7830e2952ca1f9df46a421ba99c21589d03ee",
+      "bytes": 952,
+      "ext": "json"
+    }
+  ],
+  "NAO-2021-00729-rdb": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2021-00729-rdb%22&max=200&start=0&sa=true",
+      "sha256": "61f0629b237548d1abf2b9fef6839e98fb4d8113859f15fe39ee838bcc6df84f",
+      "bytes": 546,
+      "ext": "json"
+    }
+  ],
+  "NAO-2021-01481": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2021-01481%22&max=200&start=0&sa=true",
+      "sha256": "e8772d5a89a59287f863816aae0e248416e87791453d5316fdb267a5c3f881cd",
+      "bytes": 1512,
+      "ext": "json"
+    }
+  ],
+  "NAO-2021-02695-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2021-02695-RRS%22&max=200&start=0&sa=true",
+      "sha256": "d4af88c7bae4fe3381e9438f6bed4c5a692e870917d096ad93d0ca42fe0f3467",
+      "bytes": 1768,
+      "ext": "json"
+    }
+  ],
+  "NAO-2021-03032-TREC": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2021-03032-TREC%22&max=200&start=0&sa=true",
+      "sha256": "15418ffe35319c914244e4dbce22ceb8f3a8b11f6194a4c36faffa3a5ae1274e",
+      "bytes": 947,
+      "ext": "json"
+    }
+  ],
+  "NAO-2022-00998-rdb": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2022-00998-rdb%22&max=200&start=0&sa=true",
+      "sha256": "2ea701dedc0373e6e769f4f5c5de984a584f1385e230479047bd55505500e910",
+      "bytes": 568,
+      "ext": "json"
+    }
+  ],
+  "NAO-2022-01498-rdb": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2022-01498-rdb%22&max=200&start=0&sa=true",
+      "sha256": "ca3d1d38539657c39034f3687d479ad26717e2a38e5d83105743b5610934a56a",
+      "bytes": 1741,
+      "ext": "json"
+    }
+  ],
+  "NAO-2022-02111-PB": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2022-02111-PB%22&max=200&start=0&sa=true",
+      "sha256": "13d4e60c92402f486b4249a01ca51f80123e3ab660b40b5041080ead962f8910",
+      "bytes": 523,
+      "ext": "json"
+    }
+  ],
+  "NAO-2022-02494-RDR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2022-02494-RDR%22&max=200&start=0&sa=true",
+      "sha256": "46e4b0b67e6342fa37482940c5ff7a0d633df3ba0f21fd6b3a20a3c8df60b284",
+      "bytes": 1694,
+      "ext": "json"
+    }
+  ],
+  "NAO-2022-02671-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2022-02671-RRS%22&max=200&start=0&sa=true",
+      "sha256": "7cfc5c9c81774c57460a0910a6f25e4da1d173cafbd3898915003cc7649cd13f",
+      "bytes": 1312,
+      "ext": "json"
+    }
+  ],
+  "NAO-2024-01108-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2024-01108-RRS%22&max=200&start=0&sa=true",
+      "sha256": "9ed5517a5a442be02480b64d46ce274e445b06f5fdad37da5098be27d277b69a",
+      "bytes": 3094,
+      "ext": "json"
+    }
+  ],
+  "NAO-2024-01939-RDR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2024-01939-RDR%22&max=200&start=0&sa=true",
+      "sha256": "0ba01977a9b7ae85dd81e80024a647d16e3a10ee6d886421eae87ed48a7a8d50",
+      "bytes": 1846,
+      "ext": "json"
+    }
+  ],
+  "NAO-2024-02558-TREC": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2024-02558-TREC%22&max=200&start=0&sa=true",
+      "sha256": "bc75ac22e7f856716a420f1b69d555e9ad5ce86ad708d71aed987ffd43cd4543",
+      "bytes": 544,
+      "ext": "json"
+    }
+  ],
+  "NAO-2024-02970-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2024-02970-RRS%22&max=200&start=0&sa=true",
+      "sha256": "6b415df314579e8e46ebfb5e174e60b4f21a6a7a29f78ed743bba4c9d87f5cb4",
+      "bytes": 708,
+      "ext": "json"
+    }
+  ],
+  "NAO-2024-03035-DLD": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2024-03035-DLD%22&max=200&start=0&sa=true",
+      "sha256": "7872ac7aba3d8ec8b3f4ebd95ec3cc57c24d114de3410fb9d088f3a1909c359b",
+      "bytes": 550,
+      "ext": "json"
+    }
+  ],
+  "NAO-2025-00089-TREC": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2025-00089-TREC%22&max=200&start=0&sa=true",
+      "sha256": "fa7193386ee44ca16807e0fe98bdab65fcc5dcec5c112c6e82ceaf303da612ee",
+      "bytes": 1250,
+      "ext": "json"
+    }
+  ],
+  "NAO-2026-00182-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2026-00182-RRS%22&max=200&start=0&sa=true",
+      "sha256": "608bbcdb88dbb56d4fba32051329307a4e254760680edeed56fd18dfafa3a116",
+      "bytes": 678,
+      "ext": "json"
+    }
+  ],
+  "NAO-2026-00282-RRS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NAO-2026-00282-RRS%22&max=200&start=0&sa=true",
+      "sha256": "5b209e9cdbc2a6ceaa164a3511ac276ba737a3a7f6f398c4186040d384fce7cc",
+      "bytes": 523,
+      "ext": "json"
+    }
+  ],
+  "NWK-2025-00616": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWK-2025-00616%22&max=200&start=0&sa=true",
+      "sha256": "ad5483ff2269382c584c9c0c75e6e8efd23652f1bcce93d9c3804e06d18e7298",
+      "bytes": 592,
+      "ext": "json"
+    }
+  ],
+  "NWK-2026-00156": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWK-2026-00156%22&max=200&start=0&sa=true",
+      "sha256": "2b4d6f13b5ebb971bbeb1ba4826b3b887f74bb6e5f8e86c38cb2e7b92b536258",
+      "bytes": 597,
+      "ext": "json"
+    }
+  ],
+  "NWO-2019-00110-WEH": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWO-2019-00110-WEH%22&max=200&start=0&sa=true",
+      "sha256": "ba8453d88527e9a207fc8400029bf21ea347746c5433f3fa14a060257300c835",
+      "bytes": 1060,
+      "ext": "json"
+    }
+  ],
+  "NWO-2021-01983-BIS": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWO-2021-01983-BIS%22&max=200&start=0&sa=true",
+      "sha256": "fd72c4951883bbdec19c5e736a30944cc11865eb0c25e35d12c3854b5098c2ee",
+      "bytes": 687,
+      "ext": "json"
+    }
+  ],
+  "NWP-2016-00517": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2016-00517%22&max=200&start=0&sa=true",
+      "sha256": "b1f8eba1d441d9767eca9100cc7c13205ba246896a78cfbc4054b01c3e00da71",
+      "bytes": 1451,
+      "ext": "json"
+    }
+  ],
+  "NWP-2020-00061": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2020-00061%22&max=200&start=0&sa=true",
+      "sha256": "d59dd5e0d1225901b0c95daf7df3a0c7909fb005c9b03f868264a35fea1c102c",
+      "bytes": 1472,
+      "ext": "json"
+    }
+  ],
+  "NWP-2023-00301": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2023-00301%22&max=200&start=0&sa=true",
+      "sha256": "e0e74f618d00767ff84eaba27e1f342d3edf189ceccca919e3916596041431ba",
+      "bytes": 510,
+      "ext": "json"
+    }
+  ],
+  "NWP-2025-00021": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22NWP-2025-00021%22&max=200&start=0&sa=true",
+      "sha256": "d52ed95faf4dbfe30295c060a1365a5fe0f1dc8c3994a7d763106525e62ecec7",
+      "bytes": 547,
+      "ext": "json"
+    }
+  ],
+  "SAC-2023-00211": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2023-00211%22&max=200&start=0&sa=true",
+      "sha256": "4bc566b82897877d83e5a1e3d76ca80a53e3fc379d1f8f520454353d0b536c20",
+      "bytes": 2065,
+      "ext": "json"
+    }
+  ],
+  "SAC-2025-00064": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2025-00064%22&max=200&start=0&sa=true",
+      "sha256": "ddce702f8034846b6420cddc8301cc1cdb94c2e1e453f8472ef9158368b7e7dc",
+      "bytes": 572,
+      "ext": "json"
+    }
+  ],
+  "SAS-2017-00419": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2017-00419%22&max=200&start=0&sa=true",
+      "sha256": "2f276ed5d476d52d1ecf4e2cec0d72bc36cfae5e790f15da5c024f2667c1e9e0",
+      "bytes": 793,
+      "ext": "json"
+    }
+  ],
+  "SAS-2019-00750": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2019-00750%22&max=200&start=0&sa=true",
+      "sha256": "aa515ebe3f2480857b6ccd76daf0284d7f30df6d734754c87bab51741e6e6a1c",
+      "bytes": 1220,
+      "ext": "json"
+    }
+  ],
+  "SAS-2023-00094": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2023-00094%22&max=200&start=0&sa=true",
+      "sha256": "d9020fa99cd70f15bc5badb83a5828e69200413509cd4cdc311f3817c1b0003d",
+      "bytes": 2458,
+      "ext": "json"
+    }
+  ],
+  "SAS-2024-00075": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2024-00075%22&max=200&start=0&sa=true",
+      "sha256": "96b5d4269621c6970f1e854b32298618babcf8df11daa66b80a7bc1d32ba4c06",
+      "bytes": 1822,
+      "ext": "json"
+    }
+  ],
+  "SAS-2024-00238": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2024-00238%22&max=200&start=0&sa=true",
+      "sha256": "0523d5be56cc78ecc5c3667fa7e94bff2bce9c3c9fb37ca0ce6fc741f3ccea46",
+      "bytes": 1749,
+      "ext": "json"
+    }
+  ],
+  "SAS-2024-00760": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2024-00760%22&max=200&start=0&sa=true",
+      "sha256": "ea3c25d1a4b5c36a18f5d7767e2f2fadeb62ebd9af335084bf133692a76ae335",
+      "bytes": 1825,
+      "ext": "json"
+    }
+  ],
+  "SAS-2025-00047": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2025-00047%22&max=200&start=0&sa=true",
+      "sha256": "3bf4769de37ee7af951b3409e314843db1c8b8f5bc31f0afa00f3205edc649c5",
+      "bytes": 1481,
+      "ext": "json"
+    }
+  ],
+  "SAS-2025-00814": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2025-00814%22&max=200&start=0&sa=true",
+      "sha256": "de09993d96fc691d6f6e2473f59e5bc12a429792d5e1bc67d3e41899d6076c46",
+      "bytes": 587,
+      "ext": "json"
+    }
+  ],
+  "SAW-2022-02515": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2022-02515%22&max=200&start=0&sa=true",
+      "sha256": "0214e4b98c07759d1a7560789ce705689cb33a759ef8f4aa0e3fef764949cf56",
+      "bytes": 1332,
+      "ext": "json"
+    }
+  ],
+  "SAW-2023-00898": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2023-00898%22&max=200&start=0&sa=true",
+      "sha256": "9fd266772acad0b709da36a5faf45e158d7a6b8099facb5c503ec8185d4bdf7f",
+      "bytes": 1043,
+      "ext": "json"
+    }
+  ],
+  "SAW-2025-01960": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2025-01960%22&max=200&start=0&sa=true",
+      "sha256": "2c1de7cc2d67172336f5efe8df53e0d98d36858acdada0e823496bd7a27c1c87",
+      "bytes": 606,
+      "ext": "json"
+    }
+  ],
+  "SAW-2026-00878": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAW-2026-00878%22&max=200&start=0&sa=true",
+      "sha256": "27ebc386688db97f4381c2b43b4f3bc1228c8f62e6862f1641c395f75918796d",
+      "bytes": 1053,
+      "ext": "json"
+    }
+  ],
+  "SPK-2005-01115": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SPK-2005-01115%22&max=200&start=0&sa=true",
+      "sha256": "235d318edbc197e34551cc127e8de8009beb29bc5e2b68dc6600f719a3fabdb5",
+      "bytes": 1141,
+      "ext": "json"
+    }
+  ],
+  "SPK-2026-00210": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SPK-2026-00210%22&max=200&start=0&sa=true",
+      "sha256": "b46d88e3d2a6d2d601ecf232d3e804258276380ff9343ec054f20f7870eaa6b7",
+      "bytes": 542,
+      "ext": "json"
+    }
+  ],
+  "SPK-2026-00211": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SPK-2026-00211%22&max=200&start=0&sa=true",
+      "sha256": "0b3512ce7f85fceb1271668b88dafea423645916e66162ed7ec1010f74e373aa",
+      "bytes": 534,
+      "ext": "json"
+    }
+  ],
+  "SPN-2023-00221": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SPN-2023-00221%22&max=200&start=0&sa=true",
+      "sha256": "354f94479ed4d1b87e7ac70744ae8f067f2778ee04bf55e366fec57d6f7ba8fc",
+      "bytes": 1151,
+      "ext": "json"
+    }
+  ],
+  "SWG-2025-00704": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SWG-2025-00704%22&max=200&start=0&sa=true",
+      "sha256": "51b6335ca2d720340d359ed458aa98e9d1abf723e7714545832eab85455204fe",
+      "bytes": 585,
+      "ext": "json"
+    }
+  ],
+  "SWT-2022-00448": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SWT-2022-00448%22&max=200&start=0&sa=true",
+      "sha256": "215c9f694bae71d1e96604b695fafdae4b3b0f5c6ed0d5cd0cd239150485403c",
+      "bytes": 581,
+      "ext": "json"
+    }
+  ],
+  "SWT-2025-00133": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SWT-2025-00133%22&max=200&start=0&sa=true",
+      "sha256": "17d562dc6969323a069ab5991343d2ca7bebbd41d6e2b357317103a47856488f",
+      "bytes": 1651,
+      "ext": "json"
+    }
+  ],
+  "SWT-2025-00313": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SWT-2025-00313%22&max=200&start=0&sa=true",
+      "sha256": "1f506038f94165abdf0e97ab1ea97ad7e6667d2dd2b2fd04278b69d4af1bae73",
+      "bytes": 549,
+      "ext": "json"
+    }
+  ],
+  "LRH-2026-00959-SCR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRH-2026-00959-SCR%22&max=200&start=0&sa=true",
+      "sha256": "fd870c4fe181c5ff33c29341a8de8c62cc286efd51839038b70509c9ecf3d70f",
+      "bytes": 1270,
+      "ext": "json"
+    }
+  ],
+  "LRH-2026-00976-SCR": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22LRH-2026-00976-SCR%22&max=200&start=0&sa=true",
+      "sha256": "09846e299bfbc800a98dc666fc8773237743f98c6c7ca9d888df52a953e45f04",
+      "bytes": 620,
+      "ext": "json"
+    }
+  ],
+  "SAS-2025-00070": [
+    {
+      "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAS-2025-00070%22&max=200&start=0&sa=true",
+      "sha256": "9baba6ded305f558c5850562f08b36674acdfe6d405c60a62b278a3340a9a794",
+      "bytes": 593,
+      "ext": "json"
+    }
+  ]
+}

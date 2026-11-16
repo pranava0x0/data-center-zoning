@@ -1,0 +1,34 @@
+{
+  "index": {
+    "url": "https://oklahoma.gov/deq/deq-information-on-data-centers.html",
+    "ext": "html"
+  },
+  "air": {
+    "url": "https://oklahoma.gov/deq/permits/air-permits/pp-ip.html",
+    "ext": "html"
+  },
+  "active": {
+    "url": "https://oklahoma.gov/deq/permits/air-permits/pp-ip/active-air-permit-listing.html",
+    "ext": "html"
+  },
+  "issued": {
+    "url": "https://oklahoma.gov/deq/permits/air-permits/pp-ip/air-permits-issued-during-past-year.html",
+    "ext": "html"
+  },
+  "active_csv": {
+    "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/air-quality/Permits_In_Active_Review2.csv",
+    "ext": "csv"
+  },
+  "issued_csv": {
+    "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/air-quality/Permits_Issued_During_Past_Year.csv",
+    "ext": "csv"
+  },
+  "tulsa": {
+    "url": "https://tulsaplanning.org/tmapc/agendas/exhibits/Z-7851.pdf",
+    "ext": "pdf"
+  },
+  "still": {
+    "url": "https://stillwaterok.gov/852/Data-Center-Project",
+    "ext": "html"
+  }
+}

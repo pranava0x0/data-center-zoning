@@ -1,0 +1,38 @@
+[
+  {
+    "record_no": "Z-2956-22",
+    "project": "Amazon Data Services \u2014 master plan, security building and water treatment building",
+    "jurisdiction": "Morrow County",
+    "kind": "Zoning permit",
+    "status": "Approved",
+    "date": "2022-03-29",
+    "date_role": "Prior approval date reported by commission",
+    "url": "https://www.co.morrow.or.us/sites/default/files/fileattachments/planning_commission/meeting/16326/06282022_pc_approved_minutes.pdf",
+    "locator": "June 28 minutes, request to amend prior zoning permit",
+    "evidence": "modify conditions previously approved by Planning Commission on March 29, 2022."
+  },
+  {
+    "record_no": "LUD-N-68-24",
+    "project": "Amazon Data Services \u2014 campus adjacent to Boardman Airport",
+    "jurisdiction": "Morrow County",
+    "kind": "Land use decision",
+    "status": "Approved",
+    "date": "2024-08-27",
+    "date_role": "Commission vote date",
+    "url": "https://www.co.morrow.or.us/sites/default/files/fileattachments/planning_commission/meeting/packets/16790/09242024_pc_packet.pdf",
+    "locator": "September 24 packet, draft August 27 minutes, pp. 4\u20136, item 5b (4\u20133 vote); not a building permit",
+    "evidence": "Vote: All voted 3 No\u2019s 4 Yes"
+  },
+  {
+    "record_no": "CU-1-21 / SP-1-21",
+    "project": "Umatilla Electric Cooperative \u2014 Amazon Wanapa Road campus transmission line and substation",
+    "jurisdiction": "Umatilla",
+    "kind": "Conditional use and site plan hearing",
+    "status": "Report and recommendation",
+    "date": "2021-02-23",
+    "date_role": "Scheduled public hearing",
+    "url": "https://www.umatilla.gov/sites/default/files/fileattachments/planning_commission/meeting/6983/2-23-2021_planning_commission_packet-compressed.pdf",
+    "locator": "Planning Commission packet, city report p. 7; no final action established",
+    "evidence": "CONDITIONAL USE CU-1-21 & SITE PLAN SP-1-21"
+  }
+]

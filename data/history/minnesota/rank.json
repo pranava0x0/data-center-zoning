@@ -1,0 +1,150 @@
+{
+  "state": "MN",
+  "unit": "Mapped IM3 markers, not unique sites or MW; building and campus counts may overlap. Source county; incorporated place is Census point-in-polygon.",
+  "sources": {
+    "atlas": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "1db1bb37c7660bd0cf782088aed03fa3d95c111db4fba35f576bc6aa4dbe38f0"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2727%27&f=json&returnIdsOnly=true",
+      "sha256": "091961b7e215ec01fd55d2a6353b45766da2e754b930954ca22b3daee8c66d19"
+    },
+    "places": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?where=STATE%3D%2727%27&f=json&outFields=OBJECTID%2CGEOID%2CNAME&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6&returnGeometry=true",
+      "sha256": "81411a2bf1494db744b1e1f800ffa94c04dcf77d2e0a0b36e5fc9417ed7af511"
+    }
+  },
+  "atlas_national_sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+  "total": 17,
+  "county": {
+    "Hennepin County": 6,
+    "Carver County": 4,
+    "Dakota County": 2,
+    "Anoka County": 1,
+    "Goodhue County": 1,
+    "Olmsted County": 1,
+    "Ramsey County": 1,
+    "St. Louis County": 1
+  },
+  "place": {
+    "Chaska city": 4,
+    "Minneapolis city": 4,
+    "Rosemount city": 2,
+    "Bloomington city": 1,
+    "Brooklyn Park city": 1,
+    "Duluth city": 1,
+    "Lino Lakes city": 1,
+    "Outside incorporated places": 1,
+    "Rochester city": 1,
+    "St. Paul city": 1
+  },
+  "geometry": {
+    "building": 16,
+    "campus": 1
+  },
+  "markers": [
+    {
+      "place": "Minneapolis city",
+      "county": "Hennepin County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Chaska city",
+      "county": "Carver County",
+      "geometry": "building",
+      "label": "Flexential Minneapolis - Chaska"
+    },
+    {
+      "place": "Minneapolis city",
+      "county": "Hennepin County",
+      "geometry": "building",
+      "label": "Minnesota Gateway Data Center"
+    },
+    {
+      "place": "Bloomington city",
+      "county": "Hennepin County",
+      "geometry": "building",
+      "label": "Verizon - Bloomington Network"
+    },
+    {
+      "place": "St. Paul city",
+      "county": "Ramsey County",
+      "geometry": "building",
+      "label": "H5 Minneapolis"
+    },
+    {
+      "place": "Chaska city",
+      "county": "Carver County",
+      "geometry": "building",
+      "label": "UHG Data Center"
+    },
+    {
+      "place": "Minneapolis city",
+      "county": "Hennepin County",
+      "geometry": "building",
+      "label": "Lumen Minneapolis 3"
+    },
+    {
+      "place": "Rochester city",
+      "county": "Olmsted County",
+      "geometry": "building",
+      "label": "Epic / Mayo Data Center"
+    },
+    {
+      "place": "Chaska city",
+      "county": "Carver County",
+      "geometry": "building",
+      "label": "Lightedge Data Center"
+    },
+    {
+      "place": "Chaska city",
+      "county": "Carver County",
+      "geometry": "building",
+      "label": "StreamData Center"
+    },
+    {
+      "place": "Duluth city",
+      "county": "St. Louis County",
+      "geometry": "building",
+      "label": "Ark Duluth Data Center"
+    },
+    {
+      "place": "Brooklyn Park city",
+      "county": "Hennepin County",
+      "geometry": "building",
+      "label": "DataBank"
+    },
+    {
+      "place": "Lino Lakes city",
+      "county": "Anoka County",
+      "geometry": "building",
+      "label": "Encompass Minneapolis Facility"
+    },
+    {
+      "place": "Rosemount city",
+      "county": "Dakota County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Rosemount city",
+      "county": "Dakota County",
+      "geometry": "building",
+      "label": null
+    },
+    {
+      "place": "Minneapolis city",
+      "county": "Hennepin County",
+      "geometry": "building",
+      "label": "Advanced Operations Center"
+    },
+    {
+      "place": "Outside incorporated places",
+      "county": "Goodhue County",
+      "geometry": "campus",
+      "label": "Project Skyway"
+    }
+  ]
+}

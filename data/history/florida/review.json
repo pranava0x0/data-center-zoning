@@ -1,0 +1,122 @@
+[
+  {
+    "group": "water_permits",
+    "project": "Waterford Core Site - Phase 1",
+    "key": "111208-13",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_permits",
+    "project": "Waterford Core Site",
+    "key": "160106-13",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_permits",
+    "project": "Tiaa 5707 Waterford Core Site",
+    "key": "160921-3",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_permits",
+    "project": "Waterford Core Site - Phase 1",
+    "key": "111208-11",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_permits",
+    "project": "CoreSite - OR2",
+    "key": "260518-64289",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_permits",
+    "project": "Core and Main Site Improvements",
+    "key": "260803-66437",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Waterford Core Site - Phase 1",
+    "key": "111208-13",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Waterford Core Site",
+    "key": "160106-13",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Tiaa 5707 Waterford Core Site",
+    "key": "160921-3",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Waterford Core Site Conceptual Stormwater Master Plan",
+    "key": "110928-7",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Waterford Core Site - Phase 1",
+    "key": "111208-11",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "CoreSite - OR2",
+    "key": "260518-64289",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Core and Main Site Improvements",
+    "key": "260803-66437",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "water_files",
+    "project": "Equinix -  Boca Blue Lakes",
+    "key": "130909-7",
+    "reason": "Name-only candidate; no explicit facility use."
+  },
+  {
+    "group": "Miami-Dade County",
+    "key": 2022033307,
+    "title": "COLOCATION",
+    "reason": "Telecom colocation or unspecified colocation; no positive data-center scope."
+  },
+  {
+    "group": "Miami-Dade County",
+    "key": 2024034034,
+    "title": "COLOCATION ON TOWER",
+    "reason": "Telecom colocation or unspecified colocation; no positive data-center scope."
+  },
+  {
+    "group": "Miami-Dade County",
+    "key": 2022026664,
+    "title": "COLOCATION",
+    "reason": "Telecom colocation or unspecified colocation; no positive data-center scope."
+  },
+  {
+    "group": "Miami-Dade County",
+    "key": 2024028791,
+    "title": "COLOCATION ANTENNAS",
+    "reason": "Telecom colocation or unspecified colocation; no positive data-center scope."
+  },
+  {
+    "group": "Miami-Dade County",
+    "key": 2022045777,
+    "title": "COLOCATION",
+    "reason": "Telecom colocation or unspecified colocation; no positive data-center scope."
+  },
+  {
+    "group": "Miami-Dade County",
+    "key": 2024026467,
+    "title": "COLOCATION ANTENNAS",
+    "reason": "Telecom colocation or unspecified colocation; no positive data-center scope."
+  }
+]

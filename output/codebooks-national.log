@@ -1,0 +1,5 @@
+MuPDF error: format error: cmsOpenProfileFromMem failed
+
+MuPDF error: format error: No default Layer config
+
+Counter({'no matching text': 1287, 'could not read': 841, 'no text': 562, 'text hit': 85})

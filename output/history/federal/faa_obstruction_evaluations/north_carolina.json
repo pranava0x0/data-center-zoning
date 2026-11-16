@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fed-faa-2025-aso-15381-oe",
+    "state": "NC",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Guilford County",
+    "county": "Guilford County",
+    "record_no": "2025-ASO-15381-OE",
+    "project": "Greensboro Link",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2025-11-19",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip",
+    "source_sha256": "b8f616ca268f39e5486de7e0b07c31f165be70285494777f975d202d68deedae",
+    "locator": "ASO 2025 off-airport CSV · STUDY (ASN) 2025-ASO-15381-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Greensboro",
+      "original_structure_type": "BUILDING$COMMERCIAL",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "These are preliminary structure heights as we would like to understand if the antenna and or substation are considered hazards due to the proximity of the FAA communication towers on the property. Proposed 200MW data center development; building will have a small GPS antenna tower on top of the building as well as a medium-voltage substation. The property contains FAA Communication Towers within 300ft of Pt-2 and pt-",
+      "original_determination": "No Hazard"
+    }
+  },
+  {
+    "id": "fed-faa-2025-aso-22640-oe",
+    "state": "NC",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Mecklenburg County",
+    "county": "Mecklenburg County",
+    "record_no": "2025-ASO-22640-OE",
+    "project": "CLT16 - Data Center",
+    "kind": "Airspace review of construction equipment",
+    "status": "No Hazard",
+    "date": "2025-11-19",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2025List.gzip",
+    "source_sha256": "b8f616ca268f39e5486de7e0b07c31f165be70285494777f975d202d68deedae",
+    "locator": "ASO 2025 off-airport CSV · STUDY (ASN) 2025-ASO-22640-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Charlotte",
+      "original_structure_type": "CRANE$TOWER",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Proposed construction of temporary tower crane to facilitate construction of new data center for 28 months",
+      "original_determination": "No Hazard"
+    }
+  },
+  {
+    "id": "fed-faa-2026-aso-6638-oe",
+    "state": "NC",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Wake County",
+    "county": "Wake County",
+    "record_no": "2026-ASO-6638-OE",
+    "project": "LTM1750",
+    "kind": "Airspace review of construction equipment",
+    "status": "No Hazard",
+    "date": "2026-04-06",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2026List.gzip",
+    "source_sha256": "994cfbc30169a416f9c4111f020f5d3a1cf316df77e63dec4a71248f3be7eb71",
+    "locator": "ASO 2026 off-airport CSV · STUDY (ASN) 2026-ASO-6638-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "raleigh",
+      "original_structure_type": "CRANE$FIXED",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "900 ton crane on luffer setting data center modules",
+      "original_determination": "No Hazard"
+    }
+  }
+]

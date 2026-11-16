@@ -1,0 +1,34 @@
+[
+  {
+    "state": "AR",
+    "geoid": "0515190",
+    "level": "city",
+    "jurisdiction": "Conway",
+    "scope": "data center specific",
+    "status": "adopted",
+    "authority": "City of Conway",
+    "url": "https://media.conwayarkansas.gov/media/archive/ordinances/2023/O-23-72.pdf",
+    "effective_date": null,
+    "id": "ar-conway-cup",
+    "topic": "conditional use",
+    "summary": "Conway\u2019s enacted use table lists both Limited and General data centers as conditional in I-1 and as permitted (X) in I-3. The General designation is a secondary use and also conditional across the other listed districts; the Limited designation\u2019s remaining cells are blank. Both definitions expressly cover digital asset mining.",
+    "locator": "O-23-72 \u00a71, permitted use table and \u00a71302 definitions (pp. 1\u20132)",
+    "evidence": "Data Center (Limited)"
+  },
+  {
+    "state": "AR",
+    "geoid": "0515190",
+    "level": "city",
+    "jurisdiction": "Conway",
+    "scope": "data center specific",
+    "status": "adopted",
+    "authority": "City of Conway",
+    "url": "https://media.conwayarkansas.gov/media/archive/ordinances/2023/O-23-72.pdf",
+    "effective_date": null,
+    "id": "ar-conway-noise",
+    "topic": "noise",
+    "summary": "For a data-center conditional use application, submit building plans, a noise study and a noise attenuation plan. Planning and Development staff can also request utility-use information.",
+    "locator": "O-23-72 \u00a72, city zoning \u00a7802.2(Q), p. 2",
+    "evidence": "Noise Study and a Noise Attenuation Plan"
+  }
+]

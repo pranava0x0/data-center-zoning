@@ -1,0 +1,82 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2746%27&returnIdsOnly=true",
+      "sha256": "584f2682f9a706dadad04cf2fd03b2c6daf7f66da66df1d433ed715e11e5502d",
+      "bytes": 1702,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2746%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "15e796d7a030d3f89a31732d1ee9dc899fe2fc2252020e9c42b608a418117cc2",
+      "bytes": 407252,
+      "ext": "json"
+    }
+  },
+  "minutes": {
+    "url": "https://amv.siouxfalls.gov/OnBaseAgendaOnline/Meetings/ViewMeeting?doctype=2&id=4182",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  "staff": {
+    "url": "https://amv.siouxfalls.gov/OnBaseAgendaOnline/Documents/DownloadFileBytes/Planning_Commission_Meeting_4175_Agenda_Packet_12_3_2025_6_00_00_PM.pdf?documentType=5&isAttachment=True&meetingId=4175",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  "elect": {
+    "url": "https://puc.sd.gov/minutes/2026/0908.aspx",
+    "sha256": "93299f5fce6e2e5c6de0f81b7bb3e7f35386b0efa5920ead4722e58986e84d7d",
+    "bytes": 22224,
+    "ext": "html"
+  },
+  "leola": {
+    "url": "https://puc.sd.gov/Dockets/Electric/2024/EL24-027.aspx",
+    "sha256": "6acc5a043678c537d234da91c3e1aea4bf09e95c7a8e1035b384e18b84600625",
+    "bytes": 33274,
+    "ext": "html"
+  },
+  "cupper": {
+    "url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/CondUsePermit.pdf",
+    "sha256": "b2a1cb513443e1da7a613d16ed051b62e991940006e652dbe4abe9f35b73a31f",
+    "bytes": 3490751,
+    "ext": "pdf"
+  },
+  "mcmin": {
+    "url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/ExhE010925.pdf",
+    "sha256": "36a4802bcf877fdbbdb2195b7e1f89d69234c8d8be12ede9d1092559031211e6",
+    "bytes": 701365,
+    "ext": "pdf"
+  },
+  "order": {
+    "url": "https://puc.sd.gov/commission/dockets/electric/2024/EL24-027/EL24-027SettleStip.pdf",
+    "sha256": "1d4eab280f3f8f36932c7161929a69dd860cb0b6d59e7cb706a8b394b2ae3918",
+    "bytes": 447701,
+    "ext": "pdf"
+  },
+  "county": {
+    "url": "https://mcpherson.sdcounty.gov/",
+    "sha256": "81b2bc50bf280195ef205a035a38e70510823bf47de505d8f1b2dae22492863f",
+    "bytes": 290538,
+    "ext": "html"
+  },
+  "modern": {
+    "url": "https://mcpherson.sdcounty.gov/mcphersoncountysdmeetings/",
+    "sha256": "64c7a4c5d57c1f680ecdf919bd370cb5f4d2aeccd13e8bd64e38815fd98cf71b",
+    "bytes": 274326,
+    "ext": "html"
+  },
+  "zmin": {
+    "url": "https://mcpherson.sdcounty.gov/planning-zoning/zoning-minutes/",
+    "sha256": "4bbed23268f0b9e293c62f91065325f153346c2b2cea384fcb9c26146633dc71",
+    "bytes": 274827,
+    "ext": "html"
+  },
+  "refilefolder": {
+    "url": "https://www.dropbox.com/scl/fo/ektzzom74dv8vrj0b6518/AP-VMVbxnBKJseQ7EvbASVs?rlkey=lchnno6dvvfmj76gzvxckhjut&st=877wwyjy&dl=0",
+    "error": "robots disallows this URL"
+  }
+}

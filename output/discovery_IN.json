@@ -1,0 +1,164 @@
+[
+  {
+    "state": "IN",
+    "jurisdiction": "Indiana",
+    "url": "https://www.in.gov/dnr/water/water-availability-use-rights/significant-water-withdrawal-facility-registration/",
+    "depth": 0,
+    "sha256": "b697b9cb8890f7dc39d4e3fd5a3721067f9606c11f97a3dde1125e520dda3a41",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "water",
+        "start": 19,
+        "end": 35,
+        "match": "Water Withdrawal",
+        "context": "Water: Significant Water Withdrawal Facility Registration Skip to main content IN.gov An official website of the Indiana State Government Language Translation Governor Mike Braun MENU Indiana Department of Natural Resources Start voice input Fre"
+      },
+      {
+        "topic": "water",
+        "start": 544,
+        "end": 560,
+        "match": "Water Withdrawal",
+        "context": "lls Lake Michigan Permit Programs Publications Statutes & Rules Surface Water Water Availability Use & Rights Forms Links Close Menu Significant Water Withdrawal Facility Registration DNR Water Water Availability Use & Rights Significant Water Withdrawal Facility Registration With the enactment of Indiana Code 14-25-7 (Water Resource Management Act) by the 1983 Indiana"
+      },
+      {
+        "topic": "water",
+        "start": 637,
+        "end": 653,
+        "match": "Water Withdrawal",
+        "context": "ity Use & Rights Forms Links Close Menu Significant Water Withdrawal Facility Registration DNR Water Water Availability Use & Rights Significant Water Withdrawal Facility Registration With the enactment of Indiana Code 14-25-7 (Water Resource Management Act) by the 1983 Indiana General Assembly, the Natural Resources Commission is required to \"take and maintain an inve"
+      },
+      {
+        "topic": "water",
+        "start": 1009,
+        "end": 1025,
+        "match": "water withdrawal",
+        "context": "tory of significant uses of water withdrawn from the surface or ground\". Section 15 of the act requires that every person who owns a significant water withdrawal facility (SWWF) shall register it on forms provided by the commission within three (3) months after the facility is completed. A \"significant water withdrawal facility\" is defined in the act to mean \"the water"
+      },
+      {
+        "topic": "water",
+        "start": 1168,
+        "end": 1184,
+        "match": "water withdrawal",
+        "context": "al facility (SWWF) shall register it on forms provided by the commission within three (3) months after the facility is completed. A \"significant water withdrawal facility\" is defined in the act to mean \"the water withdrawal facilities of a person that, in the aggregate from all sources and by all methods, has the capability of withdrawing more than one hundred thousand"
+      },
+      {
+        "topic": "water",
+        "start": 1230,
+        "end": 1246,
+        "match": "water withdrawal",
+        "context": "commission within three (3) months after the facility is completed. A \"significant water withdrawal facility\" is defined in the act to mean \"the water withdrawal facilities of a person that, in the aggregate from all sources and by all methods, has the capability of withdrawing more than one hundred thousand (100,000) gallons of ground water, surface water, or ground a"
+      },
+      {
+        "topic": "water",
+        "start": 2047,
+        "end": 2063,
+        "match": "Water Withdrawal",
+        "context": "garding the administration of the SWWF program is available in the Nonrule Policy Document Information Bulletin #29 \"Registration of Significant Water Withdrawal Facilities.\" NOTE: Some PDFs may not download because of web browser security settings. To view them, you will need to configure your browser to display in a tab instead of downloading the files. Report Water"
+      },
+      {
+        "topic": "water",
+        "start": 3054,
+        "end": 3070,
+        "match": "water withdrawal",
+        "context": "Research Center Learn more about water rights Find out if my property is in a floodplain Learn more about dams and levees Register a significant water withdrawal facility Prospect/pan for gold Remove logjam from waterway Everyone Welcome Plan Your Visit to a DNR Property Accessibility in the Outdoors Social Media Facebook Twitter Instagram YouTube LinkedIn Email Calend"
+      }
+    ],
+    "links": [
+      [
+        3,
+        "https://www.in.gov/dnr/water/regulatory-permit-programs",
+        "Apply for construction permit"
+      ],
+      [
+        3,
+        "https://www.in.gov/dnr/water/regulatory-permit-programs",
+        "Permit Programs"
+      ],
+      [
+        2,
+        "https://www.in.gov/dA/6423383ec0/wa-waterusemanual.pdf?language_id=1",
+        "How to register and user manual"
+      ],
+      [
+        2,
+        "https://www.in.gov/dnr/water/files/wa-Logjam_Removal_Guide.pdf",
+        "Remove logjam from waterway"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "IN",
+    "jurisdiction": "Indiana",
+    "url": "https://www.in.gov/dnr/water/regulatory-permit-programs",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "IN",
+    "jurisdiction": "Indiana",
+    "url": "https://www.in.gov/dA/6423383ec0/wa-waterusemanual.pdf?language_id=1",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "IN",
+    "jurisdiction": "Lake County",
+    "url": "https://lakecountyin.gov/departments/planning-commission/ordinances-c/amendments/ord%202590%20data%20center.pdf",
+    "depth": 0,
+    "sha256": "66939d56ada4c5a6b1388b2f20f046bbff28e5a2f2c91f2335667140ed311d93",
+    "adapter": "scan_needs_review",
+    "error": null,
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "IN",
+    "jurisdiction": "Boone County",
+    "url": "https://boonecounty.in.gov/wp-content/uploads/2026/07/Ordinance-2026-08.Moratorium-on-data-centers.pdf",
+    "depth": 0,
+    "sha256": "598da0033e60be806d7ca6e1ebf0dfbf6e6b9e429478bc885c9a94d635ec062e",
+    "adapter": "scan_needs_review",
+    "error": null,
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "IN",
+    "jurisdiction": "Parke County",
+    "url": "https://www.in.gov/counties/parke/files/2026/Data-Center-Ordinance-2026-11.pdf",
+    "depth": 0,
+    "sha256": "151f66cdbaae368ba57d99be2fe7dc7aec262c0529c9464057ac7099f1be0d24",
+    "adapter": "scan_needs_review",
+    "error": null,
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "IN",
+    "jurisdiction": "Warren County",
+    "url": "https://www.warrencounty.in.gov/Documents/How%20Do%20I/Documents%20and%20Forms/Government%20Document%20Center/Ordinances/2026/Ordinance%202026-0803B%20Amending%20Regulation%20of%20Siting%20Data%20Centers%20Concerning%20Water%20Use.pdf?t=202608171342270",
+    "depth": 0,
+    "sha256": "1b77c26505931bc3e72bcc3e2dcba9fb7780b3ee9aa5078a7e333e06b8620a2e",
+    "adapter": "scan_needs_review",
+    "error": null,
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  }
+]

@@ -1,0 +1,709 @@
+[
+  {
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "url": "https://www.tceq.texas.gov/permitting/stormwater/construction/TXR15_AIR.html",
+    "depth": 0,
+    "sha256": "424a60b93fed81f750e72c4428f452c308766c570d2bdbe5a13dc7239c77d5b1",
+    "adapter": "html",
+    "error": null,
+    "hits": [],
+    "links": [
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting",
+        "Permits, Registrations, and Reporting"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/business_permitting.html",
+        "Permits"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/stormwater",
+        "Stormwater Permits"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/stormwater/construction/index",
+        "General Permit for Construction Activities"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/stormwater/index",
+        "Stormwater Permits Home"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/stormwater/industrial/index",
+        "Multi-Sector General Permit: Industrial"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/stormwater/ms4/index",
+        "Permits for MS4s"
+      ],
+      [
+        3,
+        "https://www.tceq.texas.gov/permitting/wastewater/general/wqpaquarries",
+        "General Permit: John Graves Scenic"
+      ]
+    ],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "url": "https://www.tceq.texas.gov/permitting",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "url": "https://www.tceq.texas.gov/permitting/business_permitting.html",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "url": "https://www.tceq.texas.gov/permitting/stormwater",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "url": "https://www.tceq.texas.gov/downloads/response/tceq-response-gov-abbott-dc-directive.pdf",
+    "depth": 0,
+    "sha256": "04de1d1da92e8d249a4779cc28a1a26ca10f8687807531438ad56a9a51979d77",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 565,
+        "end": 576,
+        "match": "data center",
+        "context": "ur letter dated September 21, 2026, directing the Texas Commission on Environmental Quality (TCEQ) to pause the issuanc e of permits related to data center project s . Per your request , this letter provides an update on agency activities to comply with yo ur directive. TCEQ has paused the issuance of all p e rmits related to the co nstruction or development o"
+      },
+      {
+        "topic": "data_center",
+        "start": 824,
+        "end": 836,
+        "match": "data centers",
+        "context": "ur directive. TCEQ has paused the issuance of all p e rmits related to the co nstruction or development of infrastructur e directly supporting data centers. TCEQ staff are scr ee ning pending permit applications to determine if they are subject to the directive. If a permit application is subject to the directive, TCEQ has paused that permit application in acc"
+      },
+      {
+        "topic": "data_center",
+        "start": 1254,
+        "end": 1265,
+        "match": "data center",
+        "context": "imed authorizations that do not require the agency to affirmatively issu e a permit and, where possible, is suspending such authorizations for data center activities. TCEQ has met with the Texas Water Dev e lopment Board (TWDB), the Public Utility Commission of Texas (PUCT), and the Electric Reliability Council of Texas (ERCOT) to e nsure that all agency dire"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "College Station",
+    "url": "https://blog.cstx.gov/2026/10/22/live-from-city-hall-thursdays-city-council-meeting-oct-22/amp/",
+    "depth": 0,
+    "sha256": "caf178f8152d52195a76b8505f87328d096e571ee5b63b07d7885d4e1f1c0e2e",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 5137,
+        "end": 5148,
+        "match": "data center",
+        "context": "out the development process, permitting, planning efforts and federal grants. Click the image to view the presentation. 7:42 p.m. UDO Amendment (data center definition) The Council unanimously approved an amendment to the City’s Unified Development Ordinance that defines a data center and updates the use tables. Data Center: A structure, or any portion of a struct"
+      },
+      {
+        "topic": "data_center",
+        "start": 5266,
+        "end": 5277,
+        "match": "data center",
+        "context": "UDO Amendment (data center definition) The Council unanimously approved an amendment to the City’s Unified Development Ordinance that defines a data center and updates the use tables. Data Center: A structure, or any portion of a structure or accessory structure larger than 5,000 square feet, primarily used for computer and/or network equipment, systems, servers,"
+      },
+      {
+        "topic": "data_center",
+        "start": 5306,
+        "end": 5317,
+        "match": "Data Center",
+        "context": "The Council unanimously approved an amendment to the City’s Unified Development Ordinance that defines a data center and updates the use tables. Data Center: A structure, or any portion of a structure or accessory structure larger than 5,000 square feet, primarily used for computer and/or network equipment, systems, servers, appliances, and/or other associated com"
+      },
+      {
+        "topic": "data_center",
+        "start": 5727,
+        "end": 5739,
+        "match": "data centers",
+        "context": "r the purpose of collection, storage, management, processing, and/or transmission of digital data. The amendment clarifies the classification of data centers and establishes the zoning districts in which the use may be permitted. As part of the Conditional Use Permit process, Council may impose additional conditions when appropriate to ensure compatibility with the"
+      },
+      {
+        "topic": "permission",
+        "start": 5827,
+        "end": 5842,
+        "match": "Conditional Use",
+        "context": "he amendment clarifies the classification of data centers and establishes the zoning districts in which the use may be permitted. As part of the Conditional Use Permit process, Council may impose additional conditions when appropriate to ensure compatibility with the surrounding area, including buffering, screening, lighting, noise and other considerations to mitigate"
+      },
+      {
+        "topic": "data_center",
+        "start": 12442,
+        "end": 12453,
+        "match": "Data Center",
+        "context": "s: abandonments, active transportation, city council, city council meetings, Colin Killian, College Station Business Center, comprehensive plan, Data Center, drive throughs, Jones Butler Extension and Roundabout, Live from city hall, Municipal Court Week, National Chiropractic Health Month, Northeast Sewer Trunk Line, Parks and recreation master plan, planning and"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://blog.cstx.gov/tag/data-center/",
+        "Data Center"
+      ],
+      [
+        5,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/Item-9.3-and-9.4-Savannah-Oaks-CPA-and-Rezoning.pdf",
+        ""
+      ],
+      [
+        3,
+        "https://blog.cstx.gov/tag/planning-and-development/",
+        "planning and development"
+      ],
+      [
+        3,
+        "https://blog.cstx.gov/tag/rezoning/",
+        "rezoning"
+      ],
+      [
+        3,
+        "https://blog.cstx.gov/tag/unified-development-ordinance/",
+        "Unified Development Ordinance"
+      ],
+      [
+        2,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/9.2_ParksMasterPlan.pdf",
+        ""
+      ],
+      [
+        2,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/9.3-and-9.4-Silverfin-Developement-SavannahOaks.pdf",
+        ""
+      ],
+      [
+        2,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/Item-8.1-PDS-Update-2026.pdf",
+        ""
+      ],
+      [
+        2,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/Item-9.1-UDO-Amendment.pdf",
+        ""
+      ],
+      [
+        2,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/Item-9.5-9.7-Abandonment_ABAN2026-000007.pdf",
+        ""
+      ],
+      [
+        2,
+        "https://blog.cstx.gov/wp-content/uploads/2026/10/Item-9.8-Drive-Thru-Queuing.pdf",
+        ""
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "College Station",
+    "url": "https://blog.cstx.gov/tag/data-center/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "College Station",
+    "url": "https://blog.cstx.gov/wp-content/uploads/2026/10/Item-9.3-and-9.4-Savannah-Oaks-CPA-and-Rezoning.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "College Station",
+    "url": "https://blog.cstx.gov/tag/planning-and-development/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "San Marcos",
+    "url": "https://www.sanmarcostx.gov/4772/June-16-2026-City-Council-Recap",
+    "depth": 0,
+    "sha256": "a4a2f366401e2105a7976d559fab890c2b9e994738e24a9127c354727a4cf7a1",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 2600,
+        "end": 2612,
+        "match": "data centers",
+        "context": "to businesses and stakeholders. As part of the update the City Council passed, with a vote of 4-3, a specific amendment in the code to prohibit data centers in any of the City's zoning districts. Mayor Hughson, Councilmember Mendoza, and Councilmember Paselk voted against that amendment. Item #19, Consider approval of Resolution 2026-97R, expressing support for th"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Talty",
+    "url": "https://www.taltytexas.com/page/article/76",
+    "depth": 0,
+    "sha256": "4c986b30d0b1f7d7c500aaf1cfc30a5906edc7c0915ea07defe50efae8753f74",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 607,
+        "end": 618,
+        "match": "DATA CENTER",
+        "context": "Oct 2026 Sep 2026 Aug 2026 Jul 2026 Jun 2026 May 2026 Apr 2026 Jan 2026 Aug 2025 May 2025 Apr 2025 Mar 2025 Sep 2024 Jan 2024 May 2023 Feb 2023 DATA CENTER REGULATION ORDINANCE APPROVED & Related info 11/13/2026 ADDED 9-16- The anticipated ordinance on data centers within the City was unanimously approved by the city council last night. The following is the ordin"
+      },
+      {
+        "topic": "data_center",
+        "start": 716,
+        "end": 728,
+        "match": "data centers",
+        "context": "Sep 2024 Jan 2024 May 2023 Feb 2023 DATA CENTER REGULATION ORDINANCE APPROVED & Related info 11/13/2026 ADDED 9-16- The anticipated ordinance on data centers within the City was unanimously approved by the city council last night. The following is the ordinance's caption. Please contact staff for more details. ORDINANCE NO. 2026-04 AN ORDINANCE OF THE CITY OF TALTY"
+      },
+      {
+        "topic": "data_center",
+        "start": 1122,
+        "end": 1134,
+        "match": "DATA CENTERS",
+        "context": "THE COMPREHENSIVE ZONING ORDINANCE OF THE CITY OF TALTY, TEXAS, TO AMEND SECTION 2.22 (“SUPPLEMENTAL REGULATIONS”) TO ADD PROVISIONS RELATING TO DATA CENTERS; AMENDING THE ZONING USE CHART ADOPTED BY SECTION 2.21 OF THE COMPREHENSIVE ZONING ORDINANCE TO ADD DATA CENTERS AS A PERMISSIBLE USE BY CONDITIONAL USE PERMIT; PROVIDING A REPEALING CLAUSE; PROVIDING A SEVERA"
+      },
+      {
+        "topic": "data_center",
+        "start": 1235,
+        "end": 1247,
+        "match": "DATA CENTERS",
+        "context": ") TO ADD PROVISIONS RELATING TO DATA CENTERS; AMENDING THE ZONING USE CHART ADOPTED BY SECTION 2.21 OF THE COMPREHENSIVE ZONING ORDINANCE TO ADD DATA CENTERS AS A PERMISSIBLE USE BY CONDITIONAL USE PERMIT; PROVIDING A REPEALING CLAUSE; PROVIDING A SEVERABILITY CLAUSE; PROVIDING A PENALTY OF FINE NOT TO EXCEED THE SUM OF TWO THOUSAND ($2,000.00) DOLLARS FOR EACH OFF"
+      },
+      {
+        "topic": "permission",
+        "start": 1272,
+        "end": 1287,
+        "match": "CONDITIONAL USE",
+        "context": "CENTERS; AMENDING THE ZONING USE CHART ADOPTED BY SECTION 2.21 OF THE COMPREHENSIVE ZONING ORDINANCE TO ADD DATA CENTERS AS A PERMISSIBLE USE BY CONDITIONAL USE PERMIT; PROVIDING A REPEALING CLAUSE; PROVIDING A SEVERABILITY CLAUSE; PROVIDING A PENALTY OF FINE NOT TO EXCEED THE SUM OF TWO THOUSAND ($2,000.00) DOLLARS FOR EACH OFFENSE; AND, PROVIDING AN EFFECTIVE DATE."
+      },
+      {
+        "topic": "data_center",
+        "start": 1576,
+        "end": 1587,
+        "match": "data center",
+        "context": "0.00) DOLLARS FOR EACH OFFENSE; AND, PROVIDING AN EFFECTIVE DATE. Added 11-12- The City has not received any updated information on the proposed data center located north of the Forney ISD Learning Academy. Since the area is no longer within an area subject to City of Talty oversight, we are not the appropriate source of information on planning or construction mat"
+      },
+      {
+        "topic": "data_center",
+        "start": 1962,
+        "end": 1973,
+        "match": "data center",
+        "context": "______________________________________________________________________________ Original info- Flexential announced plans to build a new 110 acre data center campus in the Talty area. It will be located just north of the Forney ISD learning academy and off the southern corner of Helms Trail and FM 1641. Plans indicate a three-building, 108 MW total capacity develop"
+      },
+      {
+        "topic": "equipment",
+        "start": 2510,
+        "end": 2518,
+        "match": "megawatt",
+        "context": "ill incorporate environmentally responsible, high-efficiency power systems and closed-loop cooling architecture to reduce energy consumption per megawatt of IT load. It will be designed with a target water usage effectiveness (WUE) of zero, preserving local resources and building on Flexential's proven approach to efficient, sustainable data center design. Util"
+      },
+      {
+        "topic": "data_center",
+        "start": 2704,
+        "end": 2715,
+        "match": "data center",
+        "context": "arget water usage effectiveness (WUE) of zero, preserving local resources and building on Flexential's proven approach to efficient, sustainable data center design. Utility power will reach the site through a phased ramp-up to avoid potential strain on the local grid. The data center campus will deliver colocation, cloud, interconnection, data protection, and prof"
+      },
+      {
+        "topic": "data_center",
+        "start": 2832,
+        "end": 2843,
+        "match": "data center",
+        "context": "ent, sustainable data center design. Utility power will reach the site through a phased ramp-up to avoid potential strain on the local grid. The data center campus will deliver colocation, cloud, interconnection, data protection, and professional services through the FlexAnywhere® Platform. Customers will be able to connect to Flexential's nationwide private netwo"
+      }
+    ],
+    "links": [
+      [
+        3,
+        "https://www.taltytexas.com/page/OrdinancesCommon",
+        "Most Referenced Ordinances"
+      ],
+      [
+        3,
+        "https://www.taltytexas.com/page/ordinances",
+        "Ordinances"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Talty",
+    "url": "https://www.taltytexas.com/page/OrdinancesCommon",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Talty",
+    "url": "https://www.taltytexas.com/page/ordinances",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "Lewisville",
+    "url": "https://cityoflewisville.legistar.com/View.ashx?M=F&ID=15521612&GUID=84DADB7F-9895-4C27-9065-FE4D9F3422DD",
+    "depth": 0,
+    "sha256": "e291ff0e539185bd0d93741188c7697bbdd69fe5cd6ce0108068267124528098",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 407,
+        "end": 418,
+        "match": "DATA CENTER",
+        "context": "KING AND LOADING STANDARDS , OF VOLUME II OF THE LEWISVILLE CITY CODE, KNOWN AS THE UNIFIED DEVELOPMENT CODE , BY ADDING A NEW DEFINITION OF “DATA CENTER” TO SECTION II.2.1 ; ADDING “DATA CENTER ” TO EXHIBIT VII.2 -3-4, NON- RESIDENTIAL ZONING DISTRICTS , AS A NEW USE IN THE ACCESSORY AND WAREHOUSE AND STORAGE USE CATEGORIES AND ALLOWING SUCH USE IN CERT"
+      },
+      {
+        "topic": "data_center",
+        "start": 451,
+        "end": 462,
+        "match": "DATA CENTER",
+        "context": "F THE LEWISVILLE CITY CODE, KNOWN AS THE UNIFIED DEVELOPMENT CODE , BY ADDING A NEW DEFINITION OF “DATA CENTER” TO SECTION II.2.1 ; ADDING “DATA CENTER ” TO EXHIBIT VII.2 -3-4, NON- RESIDENTIAL ZONING DISTRICTS , AS A NEW USE IN THE ACCESSORY AND WAREHOUSE AND STORAGE USE CATEGORIES AND ALLOWING SUCH USE IN CERTAIN DISTRICTS WITH A SPECIAL USE PERMIT ("
+      },
+      {
+        "topic": "permission",
+        "start": 650,
+        "end": 661,
+        "match": "SPECIAL USE",
+        "context": "ZONING DISTRICTS , AS A NEW USE IN THE ACCESSORY AND WAREHOUSE AND STORAGE USE CATEGORIES AND ALLOWING SUCH USE IN CERTAIN DISTRICTS WITH A SPECIAL USE PERMIT (“SUP”); AND ADD ING “DATA CENTER ” TO THE PARKING REQUIREMENTS OUTLINED IN EXHIBIT VIII.1.4-1, MINIMUM PARKING REQUIREMENT ; PROVIDING FOR A SAVINGS CLAUSE, A REPEALER, SEVERABILITY, A PENALTY, A"
+      },
+      {
+        "topic": "data_center",
+        "start": 693,
+        "end": 704,
+        "match": "DATA CENTER",
+        "context": "CESSORY AND WAREHOUSE AND STORAGE USE CATEGORIES AND ALLOWING SUCH USE IN CERTAIN DISTRICTS WITH A SPECIAL USE PERMIT (“SUP”); AND ADD ING “DATA CENTER ” TO THE PARKING REQUIREMENTS OUTLINED IN EXHIBIT VIII.1.4-1, MINIMUM PARKING REQUIREMENT ; PROVIDING FOR A SAVINGS CLAUSE, A REPEALER, SEVERABILITY, A PENALTY, AND AN EFFECTIVE DATE. WHEREAS, the Ci"
+      },
+      {
+        "topic": "data_center",
+        "start": 1451,
+        "end": 1462,
+        "match": "data center",
+        "context": "lopment Code, are necessary; and WHEREAS, the City of Lewisville’s (the “City’s”) zoning ordinance does not have a specific use defined as a “data center”; and WHEREAS, data centers operate in a manner separate and distinct from other warehouse and storage uses, and creating a new definition is necessary for clear implementation of the City’s Unified Develo"
+      },
+      {
+        "topic": "data_center",
+        "start": 1480,
+        "end": 1492,
+        "match": "data centers",
+        "context": "and WHEREAS, the City of Lewisville’s (the “City’s”) zoning ordinance does not have a specific use defined as a “data center”; and WHEREAS, data centers operate in a manner separate and distinct from other warehouse and storage uses, and creating a new definition is necessary for clear implementation of the City’s Unified Development Code; and [Page 2] ORDI"
+      },
+      {
+        "topic": "data_center",
+        "start": 1752,
+        "end": 1763,
+        "match": "data center",
+        "context": "necessary for clear implementation of the City’s Unified Development Code; and [Page 2] ORDINANCE NO. ______________ Page 2 WHEREAS, data center s consume a much greater amount of water and electricity than other warehouse and storage users; and WHEREAS, publicly available utility data indicates that at least one existing data center in this region"
+      },
+      {
+        "topic": "data_center",
+        "start": 1946,
+        "end": 1957,
+        "match": "data center",
+        "context": "ter and electricity than other warehouse and storage users; and WHEREAS, publicly available utility data indicates that at least one existing data center in this region consumes more than 40 million gallons of water annually, whereas comparable manufacturing and warehouse and storage uses consume approximately 13.5 million gallons of water annually, demonstr"
+      },
+      {
+        "topic": "data_center",
+        "start": 2275,
+        "end": 2286,
+        "match": "data center",
+        "context": "gallons of water annually, demonstrating the significant utility demands associated with such use; and WHEREAS, the concentration of multiple data center s within a limited geographic area may place substantial demands on localized water and electrical infrast ructure, including substations, transmission facilities, and utility distribution systems, thereby n"
+      },
+      {
+        "topic": "data_center",
+        "start": 3413,
+        "end": 3425,
+        "match": "data centers",
+        "context": "ion and increased frequency of extreme weather events; and [Page 3] ORDINANCE NO. ______________ Page 3 WHEREAS, during power outages, data centers utilize multiple power generators, which create noise and ai r quality impacts on surrounding properties when they are in use in excess of that caused by other warehouse and storage uses allowed by right in"
+      },
+      {
+        "topic": "permission",
+        "start": 3624,
+        "end": 3632,
+        "match": "by right",
+        "context": "e and ai r quality impacts on surrounding properties when they are in use in excess of that caused by other warehouse and storage uses allowed by right in the same zoning districts; and WHEREAS, to mitigate the impacts outlined above, any proposed data centers should be carefully reviewed on a case -by-case basis considering the specific location and the ty"
+      },
+      {
+        "topic": "data_center",
+        "start": 3730,
+        "end": 3742,
+        "match": "data centers",
+        "context": "her warehouse and storage uses allowed by right in the same zoning districts; and WHEREAS, to mitigate the impacts outlined above, any proposed data centers should be carefully reviewed on a case -by-case basis considering the specific location and the type of uses surrounding the location through the special use permit process; and WHEREAS, the City Council of"
+      },
+      {
+        "topic": "permission",
+        "start": 3891,
+        "end": 3902,
+        "match": "special use",
+        "context": "uld be carefully reviewed on a case -by-case basis considering the specific location and the type of uses surrounding the location through the special use permit process; and WHEREAS, the City Council of the City of Lewisville, Texas, has determined that there is a necessity and need for these amendments, and that said amendments are in the best interest of"
+      },
+      {
+        "topic": "data_center",
+        "start": 4474,
+        "end": 4485,
+        "match": "Data Center",
+        "context": "LEWISVILLE, TEXAS: SECTION 1. Article II, Definitions, is hereby amended by amending Section II.2.1, Terms Defined, to add a definition for “Data Center” to read as follows: Data Center – a facility used primarily for the storage, management, processing, and transmission of digital data, which houses computer or network equipment, systems, servers, applian"
+      },
+      {
+        "topic": "data_center",
+        "start": 4508,
+        "end": 4519,
+        "match": "Data Center",
+        "context": "ticle II, Definitions, is hereby amended by amending Section II.2.1, Terms Defined, to add a definition for “Data Center” to read as follows: Data Center – a facility used primarily for the storage, management, processing, and transmission of digital data, which houses computer or network equipment, systems, servers, appliances, and other associated componen"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TX",
+    "jurisdiction": "North Richland Hills",
+    "url": "https://nrhtx.legistar.com/View.ashx?M=F&ID=15705650&GUID=59EE1769-D60A-4F18-BB55-43249655A2B7",
+    "depth": 0,
+    "sha256": "8d1425799167a31c0a463e760f154bda7b0e2496f007b0731c10729106356867",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 229,
+        "end": 240,
+        "match": "data center",
+        "context": "SUBJECT: TR26-04, Ordinance No. 3965, Public hearing to consider amendments to Chapter 118 (Zoning), Sections 118 -631 and 118- 633 regarding data center facilities and additional regulations PRESENTER: Cori Reaume, Director of Planning SUMMARY: The City Council is asked to consider a city-initiated text revision to the zoning ordinance related to allowa"
+      },
+      {
+        "topic": "data_center",
+        "start": 458,
+        "end": 470,
+        "match": "data centers",
+        "context": "of Planning SUMMARY: The City Council is asked to consider a city-initiated text revision to the zoning ordinance related to allowance for data centers in certain zones. The general proposal at this time is to require a special use permit for a data center in any zone in which they are currently permitted by right, which will allow for the City to evaluate"
+      },
+      {
+        "topic": "permission",
+        "start": 540,
+        "end": 551,
+        "match": "special use",
+        "context": "ext revision to the zoning ordinance related to allowance for data centers in certain zones. The general proposal at this time is to require a special use permit for a data center in any zone in which they are currently permitted by right, which will allow for the City to evaluate each applic ation with site - specific considerations while we continue to resear"
+      },
+      {
+        "topic": "data_center",
+        "start": 565,
+        "end": 576,
+        "match": "data center",
+        "context": "g ordinance related to allowance for data centers in certain zones. The general proposal at this time is to require a special use permit for a data center in any zone in which they are currently permitted by right, which will allow for the City to evaluate each applic ation with site - specific considerations while we continue to research and refine regulations"
+      },
+      {
+        "topic": "permission",
+        "start": 628,
+        "end": 636,
+        "match": "by right",
+        "context": "ones. The general proposal at this time is to require a special use permit for a data center in any zone in which they are currently permitted by right, which will allow for the City to evaluate each applic ation with site - specific considerations while we continue to research and refine regulations. GENERAL DESCRIPTION: In early 2025, the City was approa"
+      },
+      {
+        "topic": "data_center",
+        "start": 890,
+        "end": 901,
+        "match": "data center",
+        "context": "ntinue to research and refine regulations. GENERAL DESCRIPTION: In early 2025, the City was approached by a possible developer of small-scale data center facilities. In researching other communities and how they were handling this newer use, we found that many communities had not yet updated their zoning ordinances/table of uses to specifically call out dat"
+      },
+      {
+        "topic": "data_center",
+        "start": 1108,
+        "end": 1120,
+        "match": "data centers",
+        "context": "ere handling this newer use, we found that many communities had not yet updated their zoning ordinances/table of uses to specifically call out data centers. In many of those instances, data centers were being permitted in a variety of zones as other general warehouse or commercial uses. Of those that had included the new use, communities varied on allowance in"
+      },
+      {
+        "topic": "data_center",
+        "start": 1150,
+        "end": 1162,
+        "match": "data centers",
+        "context": "t many communities had not yet updated their zoning ordinances/table of uses to specifically call out data centers. In many of those instances, data centers were being permitted in a variety of zones as other general warehouse or commercial uses. Of those that had included the new use, communities varied on allowance in various industrial, commercial, or even o"
+      },
+      {
+        "topic": "data_center",
+        "start": 1459,
+        "end": 1470,
+        "match": "data center",
+        "context": "on allowance in various industrial, commercial, or even office districts. In an effort to be proactive about the new use, City staff proposed data center -specific zoning regulations last year. Following workshop discussion with the Planning & Zoning Commission, public hearings occurred with P&Z on May 15th and June 5th, followed by a public hearing with Ci"
+      },
+      {
+        "topic": "data_center",
+        "start": 1855,
+        "end": 1866,
+        "match": "data center",
+        "context": "Following the public hearings, the City adopted regulations as outlined below: Current Definitions: The definitions for the two categories of data center are listed below, with the sole difference being the size of the building or buildings. Data Center, General. A building or group of buildings in excess of 10,000 total square feet primarily used to house"
+      },
+      {
+        "topic": "data_center",
+        "start": 1957,
+        "end": 1968,
+        "match": "Data Center",
+        "context": "The definitions for the two categories of data center are listed below, with the sole difference being the size of the building or buildings. Data Center, General. A building or group of buildings in excess of 10,000 total square feet primarily used to house computers and/or related equipment for the purpose of collection, storage, management, processing, o"
+      },
+      {
+        "topic": "data_center",
+        "start": 2402,
+        "end": 2413,
+        "match": "Data Center",
+        "context": "twork equipment, systems, servers, appliances, and other associated components related to computing and digital data operations. [Page 2] Data Center, Small-scale. A building or group of buildings not to exceed 10,000 total square feet primarily used to house computers and/or related equipment for the purpose of collection, storage, management, processin"
+      },
+      {
+        "topic": "permission",
+        "start": 2870,
+        "end": 2884,
+        "match": "Permitted Uses",
+        "context": "tems, servers, appliances, and oth er associated components related to computing and digital data operations. Current Inclusion in Table of Permitted Uses: The table below outlines the addition of the two uses, specifying that either general or small-scale data centers were allowed by right in the I-1 (Light Industrial) and I-2 (Medium Industrial) districts."
+      },
+      {
+        "topic": "data_center",
+        "start": 2990,
+        "end": 3002,
+        "match": "data centers",
+        "context": "nt Inclusion in Table of Permitted Uses: The table below outlines the addition of the two uses, specifying that either general or small-scale data centers were allowed by right in the I-1 (Light Industrial) and I-2 (Medium Industrial) districts. In the C -2 district, a small -scale data center was permitted by right, whereas a large -scale data center would ne"
+      },
+      {
+        "topic": "permission",
+        "start": 3016,
+        "end": 3024,
+        "match": "by right",
+        "context": "ermitted Uses: The table below outlines the addition of the two uses, specifying that either general or small-scale data centers were allowed by right in the I-1 (Light Industrial) and I-2 (Medium Industrial) districts. In the C -2 district, a small -scale data center was permitted by right, whereas a large -scale data center would need special use permit"
+      },
+      {
+        "topic": "data_center",
+        "start": 3132,
+        "end": 3143,
+        "match": "data center",
+        "context": "le data centers were allowed by right in the I-1 (Light Industrial) and I-2 (Medium Industrial) districts. In the C -2 district, a small -scale data center was permitted by right, whereas a large -scale data center would need special use permit approval. In the C -1 district, only a small-scale center can be approved by special use permit. [#] = Conditions"
+      },
+      {
+        "topic": "permission",
+        "start": 3158,
+        "end": 3166,
+        "match": "by right",
+        "context": "ed by right in the I-1 (Light Industrial) and I-2 (Medium Industrial) districts. In the C -2 district, a small -scale data center was permitted by right, whereas a large -scale data center would need special use permit approval. In the C -1 district, only a small-scale center can be approved by special use permit. [#] = Conditions. Reference Section 118"
+      },
+      {
+        "topic": "permission",
+        "start": 3215,
+        "end": 3226,
+        "match": "special use",
+        "context": "Industrial) districts. In the C -2 district, a small -scale data center was permitted by right, whereas a large -scale data center would need special use permit approval. In the C -1 district, only a small-scale center can be approved by special use permit. [#] = Conditions. Reference Section 118-633 for specific conditions to listed uses. P = Permitted"
+      },
+      {
+        "topic": "permission",
+        "start": 3312,
+        "end": 3323,
+        "match": "special use",
+        "context": "whereas a large -scale data center would need special use permit approval. In the C -1 district, only a small-scale center can be approved by special use permit. [#] = Conditions. Reference Section 118-633 for specific conditions to listed uses. P = Permitted by Right S = Special Use Permit Required [Blank] = Not Permitted NP = Not Permitted B = Defe"
+      },
+      {
+        "topic": "permission",
+        "start": 3437,
+        "end": 3445,
+        "match": "by Right",
+        "context": "can be approved by special use permit. [#] = Conditions. Reference Section 118-633 for specific conditions to listed uses. P = Permitted by Right S = Special Use Permit Required [Blank] = Not Permitted NP = Not Permitted B = Defers to Base Zoning District A = Ancillary SECTION 118-631: TABLE OF PERMITTED USES Conditions NON-RESIDENTIAL DISTRI"
+      },
+      {
+        "topic": "permission",
+        "start": 3451,
+        "end": 3462,
+        "match": "Special Use",
+        "context": "ed by special use permit. [#] = Conditions. Reference Section 118-633 for specific conditions to listed uses. P = Permitted by Right S = Special Use Permit Required [Blank] = Not Permitted NP = Not Permitted B = Defers to Base Zoning District A = Ancillary SECTION 118-631: TABLE OF PERMITTED USES Conditions NON-RESIDENTIAL DISTRICTS TOWN CENTER"
+      },
+      {
+        "topic": "permission",
+        "start": 3604,
+        "end": 3618,
+        "match": "PERMITTED USES",
+        "context": "Use Permit Required [Blank] = Not Permitted NP = Not Permitted B = Defers to Base Zoning District A = Ancillary SECTION 118-631: TABLE OF PERMITTED USES Conditions NON-RESIDENTIAL DISTRICTS TOWN CENTER R-1-S O-1 LR C-1 C-2 OC I-1 I-2 U AG Edge General Center Core Freeway Data Center, General 30 S P P Data Cent"
+      },
+      {
+        "topic": "permission",
+        "start": 5619,
+        "end": 5630,
+        "match": "Special Use",
+        "context": "her than rushing to establish a one -size-fits-all approach or to formalize any standard criteria prematurely, transitioning data centers to a Special Use Permit process allows the City to evaluate the specific context of a site when an application is received. The current proposal would begin requirin g a special use permit for any data center application,"
+      },
+      {
+        "topic": "permission",
+        "start": 5787,
+        "end": 5798,
+        "match": "special use",
+        "context": "ess allows the City to evaluate the specific context of a site when an application is received. The current proposal would begin requirin g a special use permit for any data center application, as shown below: [#] = Conditions. Reference Section 118-633 for specific conditions to listed uses. P = Permitted by Right S = Special Use Permit Required [Blan"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  }
+]

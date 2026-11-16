@@ -1,0 +1,86 @@
+{
+  "legacy": {
+    "ext": "pdf",
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/Active%20PTIs%20by%20Company.pdf"
+  },
+  "switch_report": {
+    "ext": "pdf",
+    "url": "https://www.egle.state.mi.us/aps/downloads/SRN/P0709/P0709_SAR_20200804.pdf"
+  },
+  "mpsc": {
+    "ext": "html",
+    "url": "https://www.michigan.gov/mpsc/commission/news-releases/2026/03/27/mpsc-goes-big-on-batteries"
+  },
+  "mpsc_order": {
+    "ext": "pdf",
+    "url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf"
+  },
+  "saline_notes": {
+    "url": "https://salinetownship.org/advisory-committee-meetings/",
+    "ext": "html"
+  },
+  "saline_judgment": {
+    "url": "https://salinetownship.org/uploads/notices/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "ext": "pdf"
+  },
+  "south_annual": {
+    "url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/PLN%20-%202025%20Planning%20Commission%20Annual%20Report%20-%20APPROVED%201.28.26.pdf",
+    "ext": "pdf"
+  },
+  "south_statement": {
+    "url": "https://www.cityofsouthfield.com/news/city-southfield-statement-regarding-proposed-data-center",
+    "ext": "html"
+  },
+  "south_agenda": {
+    "url": "https://www.cityofsouthfield.com/news/city-council-december-15-regular-meeting-agenda",
+    "ext": "html"
+  },
+  "wayne": {
+    "url": "https://www.waynecountymi.gov/News/Commission/Wayne-County-Commission-Van-Buren-%E2%80%9CProject-Cannoli%E2%80%9D-Data-Center-Statement",
+    "ext": "html"
+  },
+  "saline_counter": {
+    "url": "https://salinetownship.org/data-center-update/",
+    "ext": "html"
+  },
+  "south_minutes": {
+    "url": "https://www.cityofsouthfield.com/sites/default/files/inline-files/APPROVED%2011.19.25%20Planning%20Commission%20Regular%20Meeting%20Transcript%20Minutes.pdf",
+    "ext": "pdf"
+  },
+  "saline_court_index": {
+    "url": "https://salinetownship.org/saline-data-center-consent-judgment/",
+    "ext": "html"
+  },
+  "saline_water": {
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/05-01-2026_3-02-24_EGLE-Dewatering.pdf",
+    "ext": "pdf"
+  },
+  "saline_judgment_current": {
+    "url": "https://salinetownship.org/wp-content/uploads/2026/09/SalineDataCenterConsentJudgmentFinalExecutionCopy492124804975v1.pdf",
+    "ext": "pdf"
+  },
+  "vbt_feb": {
+    "url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Minutes/2-11-26%20PC%20Min.pdf",
+    "ext": "pdf"
+  },
+  "vbt_index": {
+    "url": "https://vbtmi.gov/government/agendas___minutes/planning_commission.php",
+    "ext": "html"
+  },
+  "ptiorig": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16.pdf",
+    "ext": "pdf"
+  },
+  "ptinew": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/112-16A.pdf",
+    "ext": "pdf"
+  },
+  "ptisecond": {
+    "url": "https://www.egle.state.mi.us/aps/downloads/permits/finpticon/2016/91-16.pdf",
+    "ext": "pdf"
+  },
+  "vbt_oct": {
+    "url": "https://vbtmi.gov/Document_Center/Agendas%20%26%20Minutes/Planning%20Commission/2024/Packets/10-14-26%20PC%20Packet.pdf?t=202610121200160",
+    "ext": "pdf"
+  }
+}

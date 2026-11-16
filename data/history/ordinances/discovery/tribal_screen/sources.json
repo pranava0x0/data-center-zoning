@@ -1,0 +1,8 @@
+{
+  "https://onemap-bia-geospatial.hub.arcgis.com/api/download/v1/items/3c6ae1b6fa9f414cbd36758905b196c3/csv?layers=0": {
+    "sha256": "7b2d02b6a67773724574022d9f729d4a0421d6a424e0522561621d6f0efb77d5",
+    "bytes": 348105,
+    "retrieved": "2026-11-16T06:09:24+00:00",
+    "resolved": "https://stg-arcgisazurecdataprod1.az.arcgis.com/exportfiles-2253-9586/TribalLeadership_Directory_-8565959650657695030.csv?sv=2026-06-06&st=2026-11-16T06%3A04%3A23Z&se=2026-11-16T07%3A09%3A23Z&sr=b&sp=r&sig=R6vDI9AUcKx3dsKDWWnUDna4DvH6WFv5BQ3%2Bak5I27E%3D"
+  }
+}

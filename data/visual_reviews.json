@@ -1,0 +1,26 @@
+{
+  "in-lake-special-exception": {
+    "url": "https://lakecountyin.gov/departments/planning-commission/ordinances-c/amendments/ord%202590%20data%20center.pdf",
+    "sha256": "66939d56ada4c5a6b1388b2f20f046bbff28e5a2f2c91f2335667140ed311d93",
+    "page": 3,
+    "method": "Read scanned page 3: subsection 3 and table columns M-1/M-2 (S/S), using the S legend.",
+    "reviewer": "Sol survey agent, visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  },
+  "in-lake-electric": {
+    "url": "https://lakecountyin.gov/departments/planning-commission/ordinances-c/amendments/ord%202590%20data%20center.pdf",
+    "sha256": "66939d56ada4c5a6b1388b2f20f046bbff28e5a2f2c91f2335667140ed311d93",
+    "page": 4,
+    "method": "Read scanned page 4, §154-8-090(A)(4)(a)–(c): written verification from the named utility; capacity, sizing and interference.",
+    "reviewer": "Sol survey agent, visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  },
+  "nm-santa-fe-moratorium": {
+    "url": "https://www.santafecountynm.gov/uploads/documents/Ordinance_2026-06.pdf",
+    "sha256": "067ce148d0f6144e9740b04e4172360cda1a525598e6c153a3a24fc41a31e9d3",
+    "page": 1,
+    "method": "Read signed/recorded scan: page 1 §2(E) threshold; page 4 §§4–6 exceptions and bar; page 6 §10 duration/recording; county clerk stamp July 9, 2026. The apparent §2(G) cross-reference in §4(A) does not match the §2(E) definition; retain the discrepancy for legal review.",
+    "reviewer": "Sol survey agent, visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  }
+}

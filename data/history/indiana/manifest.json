@@ -1,0 +1,1077 @@
+{
+  "captured_utc": "2026-11-16T04:36:19+00:00",
+  "queries": {
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2024&P_TO_DATE_FILED=01%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-01-01",
+      "end": "2024-01-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2024&P_TO_DATE_FILED=01%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "14f7063abfe3999b318afd306b99adcc8c55fe7b92bb71564108a72e20f30a33"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=02%2F01%2F2024&P_TO_DATE_FILED=02%2F29%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-02-01",
+      "end": "2024-02-29",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=02%2F01%2F2024&P_TO_DATE_FILED=02%2F29%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "bd9a7a010c121fe91fb436e33f8ae64971d473092e510504d2a1a0a2d5054730"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=03%2F01%2F2024&P_TO_DATE_FILED=03%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-03-01",
+      "end": "2024-03-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=03%2F01%2F2024&P_TO_DATE_FILED=03%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "ba88c82d298d2512c2c17365838fb5585e621e66803e007e0c4a86e4023739b7"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=04%2F01%2F2024&P_TO_DATE_FILED=04%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-04-01",
+      "end": "2024-04-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=04%2F01%2F2024&P_TO_DATE_FILED=04%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 73749,
+        "sha256": "6c2d811759d0f8877159ee2880058eceaf74fe0f57990a6f6bb95893553d0098"
+      },
+      "screened_projects": 3
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=05%2F01%2F2024&P_TO_DATE_FILED=05%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-05-01",
+      "end": "2024-05-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=05%2F01%2F2024&P_TO_DATE_FILED=05%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 77500,
+        "sha256": "a50a066fa99dda9153d6e02b9bbf71727342da9c7feb4e550afee5f7744eed87"
+      },
+      "screened_projects": 3
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=06%2F01%2F2024&P_TO_DATE_FILED=06%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-06-01",
+      "end": "2024-06-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=06%2F01%2F2024&P_TO_DATE_FILED=06%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 35349,
+        "sha256": "a1af09ab5b9b972b9197de9fc690ed6383a27896f4ed4b4aebc45fb6b6fea68b"
+      },
+      "screened_projects": 2
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=07%2F01%2F2024&P_TO_DATE_FILED=07%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-07-01",
+      "end": "2024-07-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=07%2F01%2F2024&P_TO_DATE_FILED=07%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 113064,
+        "sha256": "a9a1a73112451df179df3a54ec10b24b858cf9c125e770646795c5652e33b3a6"
+      },
+      "screened_projects": 3
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=08%2F01%2F2024&P_TO_DATE_FILED=08%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-08-01",
+      "end": "2024-08-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=08%2F01%2F2024&P_TO_DATE_FILED=08%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 462734,
+        "sha256": "ce50f4a61a2c644a074ae4542912b309772560efc901edbcb554b26f89cea97b"
+      },
+      "screened_projects": 6
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=09%2F01%2F2024&P_TO_DATE_FILED=09%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-09-01",
+      "end": "2024-09-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=09%2F01%2F2024&P_TO_DATE_FILED=09%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 399625,
+        "sha256": "15ac4b7b443b25801ff6a2128b0568b0945b6786c8f4ecaa4a91c74ec9b3e63d"
+      },
+      "screened_projects": 5
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=10%2F01%2F2024&P_TO_DATE_FILED=10%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-10-01",
+      "end": "2024-10-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=10%2F01%2F2024&P_TO_DATE_FILED=10%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 307692,
+        "sha256": "23fe9d012b581c121d54b87029ad8e5b7f0a504871ecb0c423e0456921d7ca31"
+      },
+      "screened_projects": 4
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=11%2F01%2F2024&P_TO_DATE_FILED=11%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-11-01",
+      "end": "2024-11-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=11%2F01%2F2024&P_TO_DATE_FILED=11%2F30%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 69042,
+        "sha256": "7b760c4b7ad6ef6ac42e46a8d80ba73ba04bcd2dc794741a46c78eeaf503764d"
+      },
+      "screened_projects": 4
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=12%2F01%2F2024&P_TO_DATE_FILED=12%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2024-12-01",
+      "end": "2024-12-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=12%2F01%2F2024&P_TO_DATE_FILED=12%2F31%2F2024&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 312805,
+        "sha256": "77145e034f0511d670d70955ad8576d05c9bbe32dd24f19d13d4b859a0caf454"
+      },
+      "screened_projects": 6
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2025&P_TO_DATE_FILED=01%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-01-01",
+      "end": "2025-01-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2025&P_TO_DATE_FILED=01%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 394847,
+        "sha256": "114d5aa544830248b7e61331329974488e10586a74e1b45d4852b98463c1c073"
+      },
+      "screened_projects": 7
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=02%2F01%2F2025&P_TO_DATE_FILED=02%2F28%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-02-01",
+      "end": "2025-02-28",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=02%2F01%2F2025&P_TO_DATE_FILED=02%2F28%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 412731,
+        "sha256": "f132a9722e9caa0e663331c2dc4761c0b390675f6c5880bf2f87b0cbb5160ab1"
+      },
+      "screened_projects": 6
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=03%2F01%2F2025&P_TO_DATE_FILED=03%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-03-01",
+      "end": "2025-03-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=03%2F01%2F2025&P_TO_DATE_FILED=03%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 560772,
+        "sha256": "14f7d6f5f6798f8d8f9aa261c98cf318f2a2523097dac7c8752a2e9c3b0ac175"
+      },
+      "screened_projects": 12
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=04%2F01%2F2025&P_TO_DATE_FILED=04%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-04-01",
+      "end": "2025-04-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=04%2F01%2F2025&P_TO_DATE_FILED=04%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 353976,
+        "sha256": "f3f0d3355bdb060ba32d1dc80556afaec8b944de93754b2b45c505a50f4b5cd9"
+      },
+      "screened_projects": 4
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=05%2F01%2F2025&P_TO_DATE_FILED=05%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-05-01",
+      "end": "2025-05-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=05%2F01%2F2025&P_TO_DATE_FILED=05%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 386442,
+        "sha256": "75375fb4fb27e45bbe20981abd70723bda934e614168f52a704631cd4b273734"
+      },
+      "screened_projects": 7
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=06%2F01%2F2025&P_TO_DATE_FILED=06%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-06-01",
+      "end": "2025-06-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=06%2F01%2F2025&P_TO_DATE_FILED=06%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 361037,
+        "sha256": "d8adbecbc4e8845cd4baaa300166522e65087cac3e0d0620dcc32b6bdff7e0b7"
+      },
+      "screened_projects": 6
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=07%2F01%2F2025&P_TO_DATE_FILED=07%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-07-01",
+      "end": "2025-07-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=07%2F01%2F2025&P_TO_DATE_FILED=07%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 340918,
+        "sha256": "89ceb95af91109c6ad13343c829e4b124c6d6a5743ad026b18478573ade75573"
+      },
+      "screened_projects": 4
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=08%2F01%2F2025&P_TO_DATE_FILED=08%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-08-01",
+      "end": "2025-08-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=08%2F01%2F2025&P_TO_DATE_FILED=08%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 77585,
+        "sha256": "22adf8fc4a5f9a42ba1be19c497b13e2fd79c9e0ec9dbc09523b9a19b65dc92f"
+      },
+      "screened_projects": 4
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=09%2F01%2F2025&P_TO_DATE_FILED=09%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-09-01",
+      "end": "2025-09-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=09%2F01%2F2025&P_TO_DATE_FILED=09%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 351628,
+        "sha256": "676273f70d2cc6d96d58e506da8965510090ef451ceed5a6cd9199195c5a0437"
+      },
+      "screened_projects": 5
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=10%2F01%2F2025&P_TO_DATE_FILED=10%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-10-01",
+      "end": "2025-10-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=10%2F01%2F2025&P_TO_DATE_FILED=10%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 357357,
+        "sha256": "e948e414d223f6dca311f45e29da7d27a250317f67e0d7fe7d2adea1ccf0d3cb"
+      },
+      "screened_projects": 7
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=11%2F01%2F2025&P_TO_DATE_FILED=11%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-11-01",
+      "end": "2025-11-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=11%2F01%2F2025&P_TO_DATE_FILED=11%2F30%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "2b986c6991d7a34da6c3d2a05dd51169c87fb31db41745f3dd73104f9e8d62dd"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=12%2F01%2F2025&P_TO_DATE_FILED=12%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2025-12-01",
+      "end": "2025-12-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=12%2F01%2F2025&P_TO_DATE_FILED=12%2F31%2F2025&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 10984,
+        "sha256": "2d7f937658b32ee60e0534d821a449ee0ef617ea0f8784854c638ebc9ba14ce3"
+      },
+      "screened_projects": 1
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2026&P_TO_DATE_FILED=01%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-01-01",
+      "end": "2026-01-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2026&P_TO_DATE_FILED=01%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "b12bef11eeee6e577485a62eb6b487f0ece164d1d974d615277de5db7633a420"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=02%2F01%2F2026&P_TO_DATE_FILED=02%2F28%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-02-01",
+      "end": "2026-02-28",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=02%2F01%2F2026&P_TO_DATE_FILED=02%2F28%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 92723,
+        "sha256": "e3df4dc98f9b09d24107b9ff0b068fd75ad87171adf9f44b29c87fcac8ae2654"
+      },
+      "screened_projects": 8
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=03%2F01%2F2026&P_TO_DATE_FILED=03%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=03%2F01%2F2026&P_TO_DATE_FILED=03%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 114312,
+        "sha256": "efd6a46f67ef2a0bd006f56b80d5a0d64caf21e733a48240ebe5e72fcd408e36"
+      },
+      "screened_projects": 9
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=04%2F01%2F2026&P_TO_DATE_FILED=04%2F30%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-04-01",
+      "end": "2026-04-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=04%2F01%2F2026&P_TO_DATE_FILED=04%2F30%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 280281,
+        "sha256": "fb43970b71b5ab08fe68b0c600dfd97251f00946c0e0bdbd3033497aaa44bfb4"
+      },
+      "screened_projects": 2
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=05%2F01%2F2026&P_TO_DATE_FILED=05%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-05-01",
+      "end": "2026-05-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=05%2F01%2F2026&P_TO_DATE_FILED=05%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 17439,
+        "sha256": "a92433292e016e906810c3c8b09081469f6ca9cf73c23f5bf4f22aaba769659e"
+      },
+      "screened_projects": 1
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=06%2F01%2F2026&P_TO_DATE_FILED=06%2F30%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-06-01",
+      "end": "2026-06-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=06%2F01%2F2026&P_TO_DATE_FILED=06%2F30%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 11827,
+        "sha256": "6385c4156b8ff1a0f0457631efef86dd20d3e545fe8f3017233f80a717a2af9c"
+      },
+      "screened_projects": 1
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=07%2F01%2F2026&P_TO_DATE_FILED=07%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-07-01",
+      "end": "2026-07-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=07%2F01%2F2026&P_TO_DATE_FILED=07%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 29027,
+        "sha256": "19ede106e520579d28f3b54a6a4c67c841f56ab0dd46462b6093dff11c66fb39"
+      },
+      "screened_projects": 2
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=08%2F01%2F2026&P_TO_DATE_FILED=08%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-08-01",
+      "end": "2026-08-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=08%2F01%2F2026&P_TO_DATE_FILED=08%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 17363,
+        "sha256": "77ff684199b21dbac511e89e3b5fe19f021bfed439cc4d64c0e4de38d5f39f2c"
+      },
+      "screened_projects": 1
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=09%2F01%2F2026&P_TO_DATE_FILED=09%2F30%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-09-01",
+      "end": "2026-09-30",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=09%2F01%2F2026&P_TO_DATE_FILED=09%2F30%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "6f8dbab80b554f5381d3e3553d46922806b632653c0ea29c0cf72f2a94f47e70"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=10%2F01%2F2026&P_TO_DATE_FILED=10%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=10%2F01%2F2026&P_TO_DATE_FILED=10%2F31%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "2b532b7d7f003e6284223dd4e128421d55fa68972c965129b47599423c98226a"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=11%2F01%2F2026&P_TO_DATE_FILED=11%2F15%2F2026&P_county=71&P_city=NEW+CARLISLE": {
+      "area": "New Carlisle monthly mailing city",
+      "county": 71,
+      "city": "NEW CARLISLE",
+      "start": "2026-11-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=11%2F01%2F2026&P_TO_DATE_FILED=11%2F15%2F2026&P_county=71&P_city=NEW+CARLISLE",
+        "ext": "html",
+        "bytes": 9601,
+        "sha256": "a9c03e7f344949f1ec066803e2f5fef8d36b662c86f2e1571c0a54f592813044"
+      },
+      "screened_projects": 1
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=53&P_city=BLOOMINGTON&P_st_number=2737": {
+      "area": "IU site number",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 53,
+      "city": "BLOOMINGTON",
+      "street_no": 2737,
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=53&P_city=BLOOMINGTON&P_st_number=2737",
+        "ext": "html",
+        "bytes": 53316,
+        "sha256": "8c207dd8ab656a4470add085326a5aa40fcc8d9f54747dcc9a14960ef37fddf9"
+      },
+      "screened_projects": 5
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=45&P_city=HAMMOND&P_st_number=100": {
+      "area": "DX Hammond site number",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 45,
+      "city": "HAMMOND",
+      "street_no": 100,
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=45&P_city=HAMMOND&P_st_number=100",
+        "ext": "html",
+        "bytes": 208910,
+        "sha256": "215bf7d504d86fd953fb1e607152d746c01b30b67df131e727e9a2058f4338c3"
+      },
+      "screened_projects": 19
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=53&P_city=BLOOMINGTON&P_st_number=2702": {
+      "area": "IU newer address",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 53,
+      "city": "BLOOMINGTON",
+      "street_no": 2702,
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=53&P_city=BLOOMINGTON&P_st_number=2702",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "e6028921f734ca17518339ed6a85852b59b835245592decaef8365bd5ebc3c96"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150": {
+      "area": "Purdue MATH site number",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "error": "not a submission summary: Oracle Reports Services - Servlet Help Error REP-56048: Engine rwEng-0 crashed., job Id: 107845 Copyright (c) 2000, 2016, Oracle and/or its affiliates. All rights reserved.",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150",
+        "ext": "html",
+        "bytes": 6799,
+        "sha256": "6b0eb6fa14f2ab0cba280e01cb6ebc09d64b71ad99f722a696e85b2513da66ea"
+      }
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=71&P_city=GRANGER&P_st_number=12501": {
+      "area": "Granger Microsoft site number",
+      "county": 71,
+      "city": "GRANGER",
+      "street_no": 12501,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=71&P_city=GRANGER&P_st_number=12501",
+        "ext": "html",
+        "bytes": 92770,
+        "sha256": "7718ce468e14990edf1350a452b8ee0736713182453cbb42fa98e0615efa3113"
+      },
+      "screened_projects": 8
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=46&P_city=LA+PORTE&P_st_number=360": {
+      "area": "La Porte Microsoft site number",
+      "county": 46,
+      "city": "LA PORTE",
+      "street_no": 360,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=46&P_city=LA+PORTE&P_st_number=360",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "56d57fcbf18c26d38768331dee293c5038ffe7212b9530a800c90cd4ffc91d09"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=45&P_city=HOBART&P_st_number=4751": {
+      "area": "Hobart AWS site number",
+      "county": 45,
+      "city": "HOBART",
+      "street_no": 4751,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=45&P_city=HOBART&P_st_number=4751",
+        "ext": "html",
+        "bytes": 133305,
+        "sha256": "25d65b97333ab655a4df49592e2bb6a1ed9b310a6dad6e2769adb07b8131c3b6"
+      },
+      "screened_projects": 13
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=37&P_city=WHEATFIELD&P_st_number=2938": {
+      "area": "Wheatfield AWS north site number",
+      "county": 37,
+      "city": "WHEATFIELD",
+      "street_no": 2938,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=37&P_city=WHEATFIELD&P_st_number=2938",
+        "ext": "html",
+        "bytes": 60279,
+        "sha256": "53c6d98937cbced6c67993cdff3ecdcfbe88c2c44fbc44398e0b618db487ae43"
+      },
+      "screened_projects": 5
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=37&P_city=WHEATFIELD&P_st_number=2778": {
+      "area": "Wheatfield AWS south site number",
+      "county": 37,
+      "city": "WHEATFIELD",
+      "street_no": 2778,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=37&P_city=WHEATFIELD&P_st_number=2778",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "b5be6ea64debf736832a9404cea0f4e84c5fd600ace66026dff8278856041bc0"
+      },
+      "screened_projects": 0
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=03&P_city=COLUMBUS&P_st_number=2425": {
+      "area": "DartPoints site number",
+      "start": "2000-01-01",
+      "end": "2026-11-15",
+      "county": 3,
+      "city": "COLUMBUS",
+      "street_no": 2425,
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2000&P_TO_DATE_FILED=11%2F15%2F2026&P_county=03&P_city=COLUMBUS&P_st_number=2425",
+        "ext": "html",
+        "bytes": 47793,
+        "sha256": "b91bafdad0d9cbfb73a4f218724fa0b18a30b180207e66e282200f725f88e4c7"
+      },
+      "screened_projects": 5
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2024&P_TO_DATE_FILED=12%2F31%2F2024&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150": {
+      "area": "Purdue MATH site number",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2024&P_TO_DATE_FILED=12%2F31%2F2024&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150",
+        "ext": "html",
+        "bytes": 49801,
+        "sha256": "6537b8fd2f3c2a9f663532eeeb3fb2d87892d112e83a2f502fd20a7e4ce39a6c"
+      },
+      "screened_projects": 4
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=02&P_city=FORT+WAYNE&P_st_number=7510": {
+      "area": "Fort Wayne Hatchworks site number",
+      "county": 2,
+      "city": "FORT WAYNE",
+      "street_no": 7510,
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2020&P_TO_DATE_FILED=11%2F15%2F2026&P_county=02&P_city=FORT+WAYNE&P_st_number=7510",
+        "ext": "html",
+        "bytes": 67853,
+        "sha256": "43152ca1dd605c107d825042fd6a9e7599dd433665ac09168a58fdefc94d7f73"
+      },
+      "screened_projects": 5
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2025&P_TO_DATE_FILED=12%2F31%2F2025&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150": {
+      "area": "Purdue MATH 2025",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2025&P_TO_DATE_FILED=12%2F31%2F2025&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150",
+        "ext": "html",
+        "bytes": 34302,
+        "sha256": "3a4c55041cc0758b6c8d8e0d8501cdd8980bff6df87ae23cd0e44dabe1250a1f"
+      },
+      "screened_projects": 3
+    },
+    "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2026&P_TO_DATE_FILED=11%2F15%2F2026&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150": {
+      "area": "Purdue MATH 2026",
+      "county": 79,
+      "city": "WEST LAFAYETTE",
+      "street_no": 150,
+      "start": "2026-01-01",
+      "end": "2026-11-15",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_FROM_DATE_FILED=01%2F01%2F2026&P_TO_DATE_FILED=11%2F15%2F2026&P_county=79&P_city=WEST+LAFAYETTE&P_st_number=150",
+        "ext": "html",
+        "bytes": 2866,
+        "sha256": "99905570a2c06ca84a50d0d4e8046ff048e995ff9c5d7cbcb400b2cb6447774b"
+      },
+      "screened_projects": 0
+    }
+  },
+  "docs": {},
+  "atlas": {
+    "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+    "ext": "json",
+    "bytes": 497573,
+    "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c"
+  },
+  "place_ids": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2718%27&returnIdsOnly=true",
+    "ext": "json",
+    "bytes": 3147,
+    "sha256": "9d8bd788f3dde1c4703209c3413c6d680a8809f12b020eb57630ef8fa0563638"
+  },
+  "places": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2718%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+    "ext": "json",
+    "bytes": 1522292,
+    "sha256": "07a7f88eafc33aa934a9c2b8907da0c523feeee86af577f8dbd0a3f696cdb741"
+  },
+  "cases": {
+    "330260": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=330260",
+        "ext": "html",
+        "bytes": 16404,
+        "sha256": "ee752595cd312fcfe39856ca897985591eddd3b6a7fe76fba35e53436313a8fa"
+      }
+    },
+    "340299": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=340299",
+        "ext": "html",
+        "bytes": 10787,
+        "sha256": "345c474e9ce070b156748d331ea2fad449f03d9e03c24a71925d12c800a71c34"
+      }
+    },
+    "354526": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=354526",
+        "ext": "html",
+        "bytes": 10971,
+        "sha256": "6b349fceb7f0967b2222392a9e2f27a6fa65b243c54d86944e86d7d5f32d55ec"
+      }
+    },
+    "405244": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=405244",
+        "ext": "html",
+        "bytes": 22188,
+        "sha256": "ef2a551e134725722a8fe24989e4e0fbe7cf28d369521a9ce4ae689c50967de3"
+      }
+    },
+    "411551": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=411551",
+        "ext": "html",
+        "bytes": 14584,
+        "sha256": "70df584032cd52d16750480622228a056e3c24d16654cd7d659ed1989386ffdb"
+      }
+    },
+    "415473": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=415473",
+        "ext": "html",
+        "bytes": 19144,
+        "sha256": "3b913e9e1e92404988bb70e243060a15d5894e048f4634ca4a1ddf3cf017c092"
+      }
+    },
+    "416554": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=416554",
+        "ext": "html",
+        "bytes": 13451,
+        "sha256": "36fb9a873957f05ebc9f8ab75692cd7f8ff6ed7c99f2ea3a6821d9094c5333a6"
+      }
+    },
+    "419313": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=419313",
+        "ext": "html",
+        "bytes": 10690,
+        "sha256": "218f2d7652d97f10f8a8e914b84f6f53b7691d77be998841e84c98256f798700"
+      }
+    },
+    "421736": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=421736",
+        "ext": "html",
+        "bytes": 12066,
+        "sha256": "b7eda122ef971a9bc572b8fa68a60df9eef65fea9826063dd12a803f7d6ba3bf"
+      }
+    },
+    "422519": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=422519",
+        "ext": "html",
+        "bytes": 12837,
+        "sha256": "295ac7c11913481c5fc56a2c7bf73b171900e155fc1b6efcfe34888d28d4790c"
+      }
+    },
+    "435614": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=435614",
+        "ext": "html",
+        "bytes": 17854,
+        "sha256": "0394f18cab417d13cc964e76907bfa43775ac7eb8cbdec8e88ddbeb1dd5651d0"
+      }
+    },
+    "443702": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=443702",
+        "ext": "html",
+        "bytes": 36996,
+        "sha256": "98ed0ea4118e25e6c9fdf3cebc6a6451e352c7542b4c07d695860d545803e31d"
+      }
+    },
+    "446030": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=446030",
+        "ext": "html",
+        "bytes": 33454,
+        "sha256": "4ce408c8a6e27198354ccddb4b6d4539048466be190bd189d1e0b316897e0274"
+      }
+    },
+    "447700": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=447700",
+        "ext": "html",
+        "bytes": 272972,
+        "sha256": "cef7fba9d9bbdc6bcb218b847aab6dc627717c669f6ebdeb0d22f3778c49c39a"
+      }
+    },
+    "450636": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=450636",
+        "ext": "html",
+        "bytes": 11773,
+        "sha256": "c1299de6a73bc22bbd32903e03969eee9503291173331bbfd02ad2727328f09e"
+      }
+    },
+    "450637": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=450637",
+        "ext": "html",
+        "bytes": 10026,
+        "sha256": "66237369e38365c07586b563406806fca543fe4378e192e1f2a1bb77a4c635c3"
+      }
+    },
+    "450638": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=450638",
+        "ext": "html",
+        "bytes": 11576,
+        "sha256": "234bfdaf074faf7e67549865d24f7936e0667bf4d12b17b28d15206d93e81250"
+      }
+    },
+    "450639": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=450639",
+        "ext": "html",
+        "bytes": 10906,
+        "sha256": "b783e8d4d3b06fe8f0c5ed61e4dc7780de66d590a41d1fd1873a74dd8c3a3a40"
+      }
+    },
+    "451903": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=451903",
+        "ext": "html",
+        "bytes": 23676,
+        "sha256": "1fe588e1bdff8c6262f9639ab010fa7e4c331321840727d857d55898aa5a5b55"
+      }
+    },
+    "455489": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=455489",
+        "ext": "html",
+        "bytes": 16195,
+        "sha256": "b741aec46fc54642c359d2f61afcc8bfeb7257f24a68c3afa32b8da1b92de9e0"
+      }
+    },
+    "459612": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=459612",
+        "ext": "html",
+        "bytes": 17431,
+        "sha256": "71b3a12a69f42d185a7f657acce36cb80ac79a3e081913368082baa1e623c41e"
+      }
+    },
+    "459628": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=459628",
+        "ext": "html",
+        "bytes": 14494,
+        "sha256": "8838926a5e10c0e4eb646f23995e350ec17b4858f22ff76a72cab70a95c8322a"
+      }
+    },
+    "459637": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=459637",
+        "ext": "html",
+        "bytes": 13246,
+        "sha256": "2acd5003b9473b314eabb21e4b456b07f0c4dd713f8cde5bb07f356ee52556eb"
+      }
+    },
+    "459643": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=459643",
+        "ext": "html",
+        "bytes": 17345,
+        "sha256": "8fffadc99fc11664de88b43b1c45b4503ca6d73034a829fd94cacf03688d252e"
+      }
+    },
+    "459645": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=459645",
+        "ext": "html",
+        "bytes": 13240,
+        "sha256": "9720390bc2e87e2528e7780d7f4088a2031151b515deeb2a97a8ce8f1b7a3b85"
+      }
+    },
+    "462118": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462118",
+        "ext": "html",
+        "bytes": 11230,
+        "sha256": "518673e761b66b0c4c0e6db6c17ebd4227901f923c9a971a7d21b6938cca0a5a"
+      }
+    },
+    "462120": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462120",
+        "ext": "html",
+        "bytes": 11233,
+        "sha256": "f98972822bc23dc1fee53abbf7c1ea83c559afe5eac1db934af127305509c8a1"
+      }
+    },
+    "462123": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462123",
+        "ext": "html",
+        "bytes": 11172,
+        "sha256": "c3c28c8cfe2d7dc0c73a766624ffcf8843eedf05d9d81dc5e2054c28190bbbed"
+      }
+    },
+    "462125": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462125",
+        "ext": "html",
+        "bytes": 13397,
+        "sha256": "08ce26963dda72eed8ad647bea9d07a3081d87c7c0a7fcbe965d6c15111b9dab"
+      }
+    },
+    "462134": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462134",
+        "ext": "html",
+        "bytes": 13310,
+        "sha256": "b7de587c5c790126b2464bf7ee2b11f0442ede84a9a9e17b8c329759f5d2e38d"
+      }
+    },
+    "462137": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462137",
+        "ext": "html",
+        "bytes": 13340,
+        "sha256": "88c4c97f16f033d75c242ac6b4ef72d0d1db811892ecb48d13e1532c3878c565"
+      }
+    },
+    "462139": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462139",
+        "ext": "html",
+        "bytes": 12035,
+        "sha256": "6dc6f426d99a7e6268c2dab3fa9a192ca2e6c7fb4709868c24a03b2ed25311ab"
+      }
+    },
+    "462141": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462141",
+        "ext": "html",
+        "bytes": 13291,
+        "sha256": "7d5da29d1a7bea75002025ea09d72a43f1b9562aeee924f27f7782dd747bcf33"
+      }
+    },
+    "462143": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462143",
+        "ext": "html",
+        "bytes": 13311,
+        "sha256": "a6290ef3460cd16a9cd8b8424a9a30fca7c8a914f98fd4ebff4513de3784bc50"
+      }
+    },
+    "462486": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462486",
+        "ext": "html",
+        "bytes": 17355,
+        "sha256": "69c1634e720251ebeca3caadd1bf8a9fc3b6ce2e239ac7f3ea518712cacc3266"
+      }
+    },
+    "462487": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462487",
+        "ext": "html",
+        "bytes": 14841,
+        "sha256": "dbb021fab8719f0dad7e9f872b00a51bbf4673c363b9f61fdeacaecbc3968311"
+      }
+    },
+    "462660": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=462660",
+        "ext": "html",
+        "bytes": 13184,
+        "sha256": "2f12bf1ff1d2fd7a02df6dd0607e4835e08b23883f983d3f5e6b9881b4df4add"
+      }
+    },
+    "464412": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=464412",
+        "ext": "html",
+        "bytes": 12726,
+        "sha256": "c669fab1c0a33ce736823e098d3c719fcfc26fe69ac79797e6774bae3384c965"
+      }
+    },
+    "464928": {
+      "area": "Individual SBC project",
+      "ref": {
+        "url": "https://oas.dhs.in.gov/reports/rwservlet?dfbsepnhtml&report=plan_design_release_for_web.rdf&P_sbc_number=464928",
+        "ext": "html",
+        "bytes": 13474,
+        "sha256": "594f12c13f1512b8f9cf7d940ec08c5476469ffda497ff96f0797e7b1c70d2d8"
+      }
+    }
+  }
+}

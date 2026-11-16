@@ -1,0 +1,139 @@
+[
+  {
+    "id": "federal-corps-0593d2f06c54a7f7a37d3f29",
+    "state": "SC",
+    "jurisdiction": "US Army Corps of Engineers — Charleston",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAC-2023-00211",
+    "project": "York County Data Center",
+    "kind": "Standard Permit",
+    "status": "Issued With Special Conditions",
+    "date": "2025-06-12",
+    "date_role": "final regulatory action date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2023-00211%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2023-00211%22&max=200&start=0&sa=true",
+    "locator": "Army file SAC-2023-00211; ORM issued action; 2025-06-12",
+    "details": {
+      "source_sha256": "4bc566b82897877d83e5a1e3d76ca80a53e3fc379d1f8f520454353d0b536c20",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAC-2023-00211",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAC-2023-00211",
+      "da_number": "SAC-2023-00211",
+      "district_code": "SAC",
+      "orm_view": "issued",
+      "census_county": "York County",
+      "census_county_geoid": "45091",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.11047%2C35.03433&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "527ab787f443e1634d75a96cf082fff18a1e1f692353fe54823f35a1f151327d",
+      "longitude": -81.11047,
+      "latitude": 35.03433,
+      "consultations": {
+        "esa": [
+          {
+            "actionId": 12984040,
+            "actionFolderId": 5361808,
+            "actionLinkId": 12984028,
+            "beginDate": "2025-05-21",
+            "endDate": "2025-05-21",
+            "agency": "US Fish and Wildlife Service",
+            "consultationType": "Informal",
+            "closureMethod": "Not Likely To Adversely Affect"
+          }
+        ],
+        "s106Nhpa": [
+          {
+            "actionId": 12984042,
+            "actionFolderId": 5361808,
+            "actionLinkId": 12984028,
+            "beginDate": "2024-08-29",
+            "endDate": "2025-05-23",
+            "effectsDetermination": "No Effect: No Historic Properties Affected/Present"
+          }
+        ],
+        "wqc401": [
+          {
+            "actionLinkId": 12984028,
+            "beginDate": "2024-09-03",
+            "endDate": "2025-05-20",
+            "certifyingAuthorityNotified": "State Agency",
+            "closureMethod": "Procedure Complete"
+          }
+        ]
+      },
+      "final_ea_publication": "20250625"
+    }
+  },
+  {
+    "id": "federal-corps-4c1c1c661c34f9dc2f6d0002",
+    "state": "SC",
+    "jurisdiction": "US Army Corps of Engineers — Charleston",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAC-2025-00064",
+    "project": "York Data Center-outparcel",
+    "kind": "Approved jurisdictional determination",
+    "status": "Approved jurisdictional determination",
+    "date": "2025-04-07",
+    "date_role": "jurisdictional determination date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2025-00064%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2025-00064%22&max=200&start=0&sa=true",
+    "locator": "Army file SAC-2025-00064; ORM jds action; 2025-04-07",
+    "details": {
+      "source_sha256": "ddce702f8034846b6420cddc8301cc1cdb94c2e1e453f8472ef9158368b7e7dc",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAC-2025-00064",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAC-2025-00064",
+      "da_number": "SAC-2025-00064",
+      "district_code": "SAC",
+      "orm_view": "jds",
+      "census_county": "York County",
+      "census_county_geoid": "45091",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.10574%2C35.04201&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "527ab787f443e1634d75a96cf082fff18a1e1f692353fe54823f35a1f151327d",
+      "longitude": -81.10574,
+      "latitude": 35.04201
+    }
+  },
+  {
+    "id": "federal-corps-7adf2bc2239f87dd2b665cf5",
+    "state": "SC",
+    "jurisdiction": "US Army Corps of Engineers — Charleston District",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "SAC-2023-00211",
+    "project": "York County Data Center",
+    "kind": "Environmental assessment",
+    "status": "Final",
+    "date": "2025-06-25",
+    "date_role": "final EA publication date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2023-00211%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22SAC-2023-00211%22&max=200&start=0&sa=true",
+    "locator": "Army file SAC-2023-00211; ORM nepa_ea action; 2025-06-25",
+    "details": {
+      "source_sha256": "4bc566b82897877d83e5a1e3d76ca80a53e3fc379d1f8f520454353d0b536c20",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "SAC-2023-00211",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "SAC-2023-00211",
+      "da_number": "SAC-2023-00211",
+      "district_code": "SAC",
+      "orm_view": "nepa_ea",
+      "census_county": "York County",
+      "census_county_geoid": "45091",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-81.11047%2C35.03433&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "527ab787f443e1634d75a96cf082fff18a1e1f692353fe54823f35a1f151327d",
+      "longitude": -81.11047,
+      "latitude": 35.03433,
+      "final_ea_publication": "20250625"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "https://www.env.nm.gov/public-notices/": {
+    "sha256": "8fc5d585f703ae84f4638f1d36069428703d070e1e69fa6a7931451c523e0ebc",
+    "bytes": 1289567,
+    "retrieved": "2026-11-16T05:05:12+00:00",
+    "resolved": "https://www.env.nm.gov/public-notices/"
+  },
+  "https://www.env.nm.gov/public-notices/wp-content/uploads/sites/32/2024/04/Legal-Notice-7026M6.pdf": {
+    "sha256": "a109fb41f03b0fa54420564b4dd43fab0eb28e6111b688268ec32408e59c0832",
+    "bytes": 102418,
+    "retrieved": "2026-11-16T05:05:13+00:00",
+    "resolved": "https://www.env.nm.gov/public-notices/wp-content/uploads/sites/32/2024/04/Legal-Notice-7026M6.pdf"
+  },
+  "https://cloud.env.nm.gov/resources/_translator.php/NjBkYWIyMGNkMGQyZGYyYzM3YmFhZjhhYl8xNzEwODc~.pdf": {
+    "sha256": "ed87e8cd7dd7dd1378a2040e706039c81ca6b335d0b44c9402dec049b801e6a5",
+    "bytes": 277775,
+    "retrieved": "2026-11-16T05:05:15+00:00",
+    "resolved": "https://cloud.env.nm.gov/resources/_translator.php/NjBkYWIyMGNkMGQyZGYyYzM3YmFhZjhhYl8xNzEwODc~.pdf"
+  },
+  "https://www.cabq.gov/airquality/documents/aqn-report.pdf/%40%40download/file/2026-08%20AQN%20Report.pdf": {
+    "sha256": "cf68bbe0410447bd38dfc1f86e99b6f60a0e864b67c9d1ebfd1ee3d0cff59565",
+    "bytes": 64204,
+    "retrieved": "2026-11-16T05:05:15+00:00",
+    "resolved": "https://www.cabq.gov/airquality/documents/aqn-report.pdf/%40%40download/file/2026-08%20AQN%20Report.pdf"
+  },
+  "https://cloud.env.nm.gov/resources/_translator.php/ZWM3Njk5ZGQ3MjNjNzZiMjRmZmU1ZjgyMF8yMjYwMDk~.pdf": {
+    "sha256": "cb8dbe913da529750e02b461cb6fa73e9e2c4ced4f8cd7a0e992f010d1924fb6",
+    "bytes": 38138406,
+    "retrieved": "2026-11-16T05:05:30+00:00",
+    "resolved": "https://cloud.env.nm.gov/resources/_translator.php/ZWM3Njk5ZGQ3MjNjNzZiMjRmZmU1ZjgyMF8yMjYwMDk~.pdf"
+  },
+  "https://www.env.nm.gov/public-notices/yucca-growth-infrastructure-llc-ygi-microgrid/": {
+    "sha256": "d6a657664336d4ff99a4c0bdef4bfa58729fd6e4a9de2bdca918802e722eecc5",
+    "bytes": 48699,
+    "retrieved": "2026-11-16T05:05:31+00:00",
+    "resolved": "https://www.env.nm.gov/public-notices/yucca-growth-infrastructure-llc-ygi-microgrid/"
+  },
+  "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2735%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6": {
+    "sha256": "2a88d93ee6d275de19f52ae03e15cdc20ebe39cdf8eeb58e28793df64673dadb",
+    "bytes": 406606,
+    "retrieved": "2026-11-16T05:06:57+00:00",
+    "resolved": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2735%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6"
+  },
+  "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2735%27&returnIdsOnly=true": {
+    "sha256": "8121d4f9142ec3b24d5e336c8b812b8c3e3f71eb5a690e1bf49b95be314b7d78",
+    "bytes": 666,
+    "retrieved": "2026-11-16T05:06:57+00:00",
+    "resolved": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2735%27&returnIdsOnly=true"
+  },
+  "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson": {
+    "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+    "bytes": 497573,
+    "retrieved": "2026-11-16T05:06:57+00:00",
+    "resolved": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0?f=json": {
+    "sha256": "661281c64443fbebca1e2130e514a62b74f2bef9e98688bb9c69b9748b0b15d4",
+    "bytes": 10171,
+    "retrieved": "2026-11-16T05:06:58+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0?f=json"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&returnIdsOnly=true": {
+    "sha256": "e691a4fc625e9733801ae76a667c82c337b2ca866d31fc8217d4898ade58a41d",
+    "bytes": 86,
+    "retrieved": "2026-11-16T05:06:59+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&returnIdsOnly=true"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false": {
+    "sha256": "ac41c9926d05cffdb52bc62b61f58a2d64bfeda36f365c90c249f7023badc9a2",
+    "bytes": 2912,
+    "retrieved": "2026-11-16T05:07:00+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%275201%25HAWKING%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued": {
+    "sha256": "7c1333a09b59d6e2f6b5b87bb7546969eb6e6a028ec14da249bbc51a89d2906d",
+    "bytes": 6950,
+    "retrieved": "2026-11-16T05:12:04+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%275201%25HAWKING%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%2783%25DAYTONA%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued": {
+    "sha256": "ede7b0529195b7120a7ecadbb76c130156949cb76d493324f8e963f8beff9019",
+    "bytes": 163,
+    "retrieved": "2026-11-16T05:12:04+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%2783%25DAYTONA%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%27400%25TIJERAS%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued": {
+    "sha256": "33025a98084ae0c59774bf36358165047ee424c490bd4cc68d0f9c21ae26059e",
+    "bytes": 5256,
+    "retrieved": "2026-11-16T05:12:04+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%27400%25TIJERAS%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued"
+  },
+  "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%272305%25RENARD%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued": {
+    "sha256": "9159b5cc025aadbb228a3cc7301a168b5eb2a511e33235d194abc41247235914",
+    "bytes": 1089,
+    "retrieved": "2026-11-16T05:12:04+00:00",
+    "resolved": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28CalculatedAddress%29+LIKE+%272305%25RENARD%25%27&returnGeometry=false&outFields=PermitNumber%2CCalculatedAddress%2CWorkDescription%2CDateIssued"
+  },
+  "https://rsmt-api-c4cwg2h3a2ewdjf4.westus2-01.azurewebsites.net/get-facility-report?ai=37303": {
+    "sha256": "bdb5c8ec304b1f5cd08b5f1e9ff60002e8ce6e950ed41e4619588f9822aae4e3",
+    "bytes": 6226,
+    "retrieved": "2026-11-16T05:13:24+00:00",
+    "resolved": "https://rsmt-api-c4cwg2h3a2ewdjf4.westus2-01.azurewebsites.net/get-facility-report?ai=37303"
+  }
+}

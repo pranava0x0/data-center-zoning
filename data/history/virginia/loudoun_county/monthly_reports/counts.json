@@ -1,0 +1,418 @@
+{
+  "structures": {
+    "rows": 223,
+    "distinct_gis_ids": 223,
+    "issue_years": {
+      "1997": 4,
+      "1999": 6,
+      "2000": 8,
+      "2001": 2,
+      "2003": 1,
+      "2006": 1,
+      "2007": 3,
+      "2008": 3,
+      "2009": 2,
+      "2010": 2,
+      "2011": 3,
+      "2012": 2,
+      "2013": 4,
+      "2014": 8,
+      "2015": 7,
+      "2016": 6,
+      "2017": 12,
+      "2018": 21,
+      "2019": 16,
+      "2020": 22,
+      "2021": 13,
+      "2022": 21,
+      "2023": 18,
+      "2024": 14,
+      "2025": 18,
+      "unknown": 6
+    }
+  },
+  "monthly_reports": {
+    "2015-01": {
+      "pages": 89,
+      "parsed_rows_all_types": 862,
+      "matched_commercial_building_files": 0,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 0,
+      "matched_numbers": [],
+      "new_numbers": []
+    },
+    "2015-10": {
+      "pages": 74,
+      "parsed_rows_all_types": 709,
+      "matched_commercial_building_files": 1,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 1,
+      "matched_numbers": [
+        "B50449830100"
+      ],
+      "new_numbers": [
+        "B50449830100"
+      ]
+    },
+    "2016-01": {
+      "pages": 63,
+      "parsed_rows_all_types": 604,
+      "matched_commercial_building_files": 0,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 0,
+      "matched_numbers": [],
+      "new_numbers": []
+    },
+    "2016-10": {
+      "pages": 62,
+      "parsed_rows_all_types": 598,
+      "matched_commercial_building_files": 0,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 0,
+      "matched_numbers": [],
+      "new_numbers": []
+    },
+    "2016-12": {
+      "pages": 71,
+      "parsed_rows_all_types": 680,
+      "matched_commercial_building_files": 1,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 1,
+      "matched_numbers": [
+        "B60426820100"
+      ],
+      "new_numbers": [
+        "B60426820100"
+      ]
+    },
+    "2018-11": {
+      "pages": 95,
+      "parsed_rows_all_types": 929,
+      "matched_commercial_building_files": 3,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 3,
+      "matched_numbers": [
+        "B80293260100",
+        "B80381160100",
+        "B80399590100"
+      ],
+      "new_numbers": [
+        "B80293260100",
+        "B80381160100",
+        "B80399590100"
+      ]
+    },
+    "2019-04": {
+      "pages": 122,
+      "parsed_rows_all_types": 1196,
+      "matched_commercial_building_files": 1,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 1,
+      "matched_numbers": [
+        "B80293260200"
+      ],
+      "new_numbers": [
+        "B80293260200"
+      ]
+    },
+    "2019-05": {
+      "pages": 94,
+      "parsed_rows_all_types": 912,
+      "matched_commercial_building_files": 0,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 0,
+      "matched_numbers": [],
+      "new_numbers": []
+    },
+    "2019-12": {
+      "pages": 60,
+      "parsed_rows_all_types": 578,
+      "matched_commercial_building_files": 0,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 0,
+      "matched_numbers": [],
+      "new_numbers": []
+    },
+    "2024-02": {
+      "pages": 115,
+      "parsed_rows_all_types": 688,
+      "matched_commercial_building_files": 11,
+      "already_in_issued_registry_screen": 0,
+      "new_files": 11,
+      "matched_numbers": [
+        "BLDC-2023-017006",
+        "BLDC-2023-017617",
+        "BLDC-2023-017709",
+        "BLDC-2023-019773",
+        "BLDC-2023-020047",
+        "BLDC-2023-021576",
+        "BLDC-2024-001178",
+        "BLDC-2024-002341",
+        "BLDC-2024-007436",
+        "BLDC-2024-007438",
+        "BLDC-2024-008959"
+      ],
+      "new_numbers": [
+        "BLDC-2023-017006",
+        "BLDC-2023-017617",
+        "BLDC-2023-017709",
+        "BLDC-2023-019773",
+        "BLDC-2023-020047",
+        "BLDC-2023-021576",
+        "BLDC-2024-001178",
+        "BLDC-2024-002341",
+        "BLDC-2024-007436",
+        "BLDC-2024-007438",
+        "BLDC-2024-008959"
+      ]
+    },
+    "2024-03": {
+      "pages": 114,
+      "parsed_rows_all_types": 679,
+      "matched_commercial_building_files": 12,
+      "already_in_issued_registry_screen": 1,
+      "new_files": 11,
+      "matched_numbers": [
+        "BLDC-2023-008524",
+        "BLDC-2023-010944",
+        "BLDC-2023-010945",
+        "BLDC-2023-010946",
+        "BLDC-2023-010947",
+        "BLDC-2023-010951",
+        "BLDC-2023-010953",
+        "BLDC-2023-014468",
+        "BLDC-2023-014472",
+        "BLDC-2023-016518",
+        "BLDC-2023-018105",
+        "BLDC-2024-004747"
+      ],
+      "new_numbers": [
+        "BLDC-2023-008524",
+        "BLDC-2023-010944",
+        "BLDC-2023-010945",
+        "BLDC-2023-010946",
+        "BLDC-2023-010947",
+        "BLDC-2023-010951",
+        "BLDC-2023-010953",
+        "BLDC-2023-014468",
+        "BLDC-2023-014472",
+        "BLDC-2023-018105",
+        "BLDC-2024-004747"
+      ]
+    },
+    "2024-04": {
+      "pages": 102,
+      "parsed_rows_all_types": 608,
+      "matched_commercial_building_files": 17,
+      "already_in_issued_registry_screen": 2,
+      "new_files": 15,
+      "matched_numbers": [
+        "BLDC-2023-008323",
+        "BLDC-2023-008325",
+        "BLDC-2023-009365",
+        "BLDC-2023-010948",
+        "BLDC-2023-014466",
+        "BLDC-2023-014467",
+        "BLDC-2023-017645",
+        "BLDC-2024-002684",
+        "BLDC-2024-003556",
+        "BLDC-2024-004670",
+        "BLDC-2024-004677",
+        "BLDC-2024-004679",
+        "BLDC-2024-004682",
+        "BLDC-2024-004692",
+        "BLDC-2024-004695",
+        "BLDC-2024-017294",
+        "BLDC-2024-017296"
+      ],
+      "new_numbers": [
+        "BLDC-2023-009365",
+        "BLDC-2023-010948",
+        "BLDC-2023-014466",
+        "BLDC-2023-014467",
+        "BLDC-2023-017645",
+        "BLDC-2024-002684",
+        "BLDC-2024-003556",
+        "BLDC-2024-004670",
+        "BLDC-2024-004677",
+        "BLDC-2024-004679",
+        "BLDC-2024-004682",
+        "BLDC-2024-004692",
+        "BLDC-2024-004695",
+        "BLDC-2024-017294",
+        "BLDC-2024-017296"
+      ]
+    },
+    "2024-06": {
+      "pages": 95,
+      "parsed_rows_all_types": 570,
+      "matched_commercial_building_files": 17,
+      "already_in_issued_registry_screen": 1,
+      "new_files": 16,
+      "matched_numbers": [
+        "BLDC-2023-018612",
+        "BLDC-2024-000500",
+        "BLDC-2024-002980",
+        "BLDC-2024-007687",
+        "BLDC-2024-007689",
+        "BLDC-2024-011250",
+        "BLDC-2024-012425",
+        "BLDC-2024-013605",
+        "BLDC-2024-014071",
+        "BLDC-2024-014079",
+        "BLDC-2024-014502",
+        "BLDC-2024-015417",
+        "BLDC-2024-016001",
+        "BLDC-2024-016008",
+        "BLDC-2024-016011",
+        "BLDC-2024-017202",
+        "BLDC-2024-018852"
+      ],
+      "new_numbers": [
+        "BLDC-2024-000500",
+        "BLDC-2024-002980",
+        "BLDC-2024-007687",
+        "BLDC-2024-007689",
+        "BLDC-2024-011250",
+        "BLDC-2024-012425",
+        "BLDC-2024-013605",
+        "BLDC-2024-014071",
+        "BLDC-2024-014079",
+        "BLDC-2024-014502",
+        "BLDC-2024-015417",
+        "BLDC-2024-016001",
+        "BLDC-2024-016008",
+        "BLDC-2024-016011",
+        "BLDC-2024-017202",
+        "BLDC-2024-018852"
+      ]
+    },
+    "2025-01": {
+      "pages": 137,
+      "parsed_rows_all_types": 683,
+      "matched_commercial_building_files": 23,
+      "already_in_issued_registry_screen": 6,
+      "new_files": 17,
+      "matched_numbers": [
+        "BLDC-2024-032297",
+        "BLDC-2024-033352",
+        "BLDC-2024-035649",
+        "BLDC-2024-039132",
+        "BLDC-2024-040910",
+        "BLDC-2024-041274",
+        "BLDC-2024-042496",
+        "BLDC-2024-053873",
+        "BLDC-2024-054969",
+        "BLDC-2024-056493",
+        "BLDC-2024-056497",
+        "BLDC-2024-056501",
+        "BLDC-2024-056511",
+        "BLDC-2024-058387",
+        "BLDC-2024-059454",
+        "BLDC-2024-060092",
+        "BLDC-2024-060672",
+        "BLDC-2024-060676",
+        "BLDC-2024-061406",
+        "BLDC-2024-061815",
+        "BLDC-2024-061817",
+        "BLDC-2024-063154",
+        "BLDC-2025-000492"
+      ],
+      "new_numbers": [
+        "BLDC-2024-033352",
+        "BLDC-2024-040910",
+        "BLDC-2024-053873",
+        "BLDC-2024-054969",
+        "BLDC-2024-056493",
+        "BLDC-2024-056497",
+        "BLDC-2024-056501",
+        "BLDC-2024-056511",
+        "BLDC-2024-059454",
+        "BLDC-2024-060092",
+        "BLDC-2024-060672",
+        "BLDC-2024-060676",
+        "BLDC-2024-061406",
+        "BLDC-2024-061815",
+        "BLDC-2024-061817",
+        "BLDC-2024-063154",
+        "BLDC-2025-000492"
+      ]
+    },
+    "2025-06": {
+      "pages": 118,
+      "parsed_rows_all_types": 589,
+      "matched_commercial_building_files": 27,
+      "already_in_issued_registry_screen": 23,
+      "new_files": 4,
+      "matched_numbers": [
+        "BLDC-2024-054708",
+        "BLDC-2024-054713",
+        "BLDC-2024-054818",
+        "BLDC-2024-054824",
+        "BLDC-2024-054843",
+        "BLDC-2024-054850",
+        "BLDC-2024-054853",
+        "BLDC-2024-054859",
+        "BLDC-2024-054864",
+        "BLDC-2024-054868",
+        "BLDC-2024-054882",
+        "BLDC-2024-054888",
+        "BLDC-2024-054893",
+        "BLDC-2024-054905",
+        "BLDC-2024-054937",
+        "BLDC-2024-054946",
+        "BLDC-2024-054957",
+        "BLDC-2024-054959",
+        "BLDC-2024-054963",
+        "BLDC-2024-055894",
+        "BLDC-2024-058762",
+        "BLDC-2024-060015",
+        "BLDC-2024-064895",
+        "BLDC-2024-064947",
+        "BLDC-2025-003107",
+        "BLDC-2025-015403",
+        "BLDC-2025-019976"
+      ],
+      "new_numbers": [
+        "BLDC-2024-055894",
+        "BLDC-2024-060015",
+        "BLDC-2025-003107",
+        "BLDC-2025-019976"
+      ]
+    },
+    "2025-09": {
+      "pages": 111,
+      "parsed_rows_all_types": 552,
+      "matched_commercial_building_files": 7,
+      "already_in_issued_registry_screen": 3,
+      "new_files": 4,
+      "matched_numbers": [
+        "BLDC-2024-048504",
+        "BLDC-2024-057379",
+        "BLDC-2024-057612",
+        "BLDC-2025-014462",
+        "BLDC-2025-019837",
+        "BLDC-2025-033413",
+        "BLDC-2025-033837"
+      ],
+      "new_numbers": [
+        "BLDC-2024-057379",
+        "BLDC-2024-057612",
+        "BLDC-2025-014462",
+        "BLDC-2025-033413"
+      ]
+    }
+  },
+  "crosswalk": {
+    "basis": "same PIN, same local issue day, Building (Commercial), New Construction; candidate only",
+    "number_of_candidates_per_structure": {
+      "0": 209,
+      "1": 11,
+      "2": 2,
+      "5": 1
+    },
+    "year_2020_number_of_candidates": {
+      "0": 22
+    }
+  }
+}

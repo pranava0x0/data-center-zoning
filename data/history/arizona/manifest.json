@@ -1,0 +1,333 @@
+{
+  "cutoff": "2026-11-15",
+  "retrieved_utc": "2026-11-16T04:48:34.217065+00:00",
+  "files": {
+    "pnnl.geojson.gz": {
+      "url": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+      "sha256": "892137a53f66a9528dd820121b49345867657c67ab6e0a0ff4ffcb80e7e7825a",
+      "bytes": 69151
+    },
+    "census-places.zip": {
+      "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_04_place_500k.zip",
+      "sha256": "283e0c14a7c2a4188568cd75ef17581306683985247026343730adef4f8729fc",
+      "bytes": 452348
+    },
+    "chandler-minutes.pdf": {
+      "url": "https://public.destinyhosted.com/chanddocs/2026/CC/20260105_2026/9189_20251211_regular-meeting_FINAL.pdf",
+      "sha256": "43bebf96dd0c8a19212cacdac53602b6fb87e050f6b5b40468a34e3de389d382",
+      "bytes": 7591799
+    },
+    "pima-nov.html": {
+      "url": "https://content.govdelivery.com/accounts/AZPIMA/bulletins/41731cb",
+      "sha256": "33a282d21c004d61086e6b2403dc095e59423383d94a2d6448ed23e87557a08f",
+      "bytes": 22134
+    },
+    "mesa-0.json.gz": {
+      "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?%24where=lower%28application_name%29+LIKE+%27%25data%25center%25%27+OR+lower%28application_name%29+LIKE+%27%25data%25centre%25%27+OR+lower%28application_name%29+LIKE+%27%25data%25hall%25%27+OR+lower%28application_name%29+LIKE+%27%25server%25farm%25%27+OR+lower%28description_of_work%29+LIKE+%27%25data%25center%25%27+OR+lower%28description_of_work%29+LIKE+%27%25data%25centre%25%27+OR+lower%28description_of_work%29+LIKE+%27%25data%25hall%25%27+OR+lower%28description_of_work%29+LIKE+%27%25server%25farm%25%27&%24select=%3Aid+as+src_id%2Cpermit_number%2Capplication_name%2Cdescription_of_work%2Cpermit_type%2Ctype_of_work%2Cstatus%2Cissued_date%2Copened_date%2Cfinaled_date%2Ccofo_date%2Cstatus_date%2Cproperty_address%2Cpermit_module%2Crecord_type%2Crecord_id&%24limit=500&%24offset=0&%24order=%3Aid",
+      "sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
+      "bytes": 23972
+    },
+    "phoenix_plan-ids.json.gz": {
+      "url": "https://maps.phoenix.gov/pub/rest/services/Public/Planning_Permit/MapServer/0/query?where=UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "c1914be5b1c63ec9e3c0986ee109da96a80e3321dd1534d641a1f69f8f435d5c",
+      "bytes": 149
+    },
+    "phoenix_plan-0.json.gz": {
+      "url": "https://maps.phoenix.gov/pub/rest/services/Public/Planning_Permit/MapServer/0/query?where=%28UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25SERVER%25FARM%25%27%29+AND+OBJECTID+IN+%28978075%2C1105668%2C1128525%2C1137543%2C1140687%2C1142644%2C1152882%2C1200043%2C1204040%2C1212589%2C1214253%2C1218421%2C1218803%2C1226614%2C1228622%2C1231271%2C1231975%29&outFields=OBJECTID%2CPER_TYPE%2CPER_NUM%2CPROJECT%2CPERMIT_NAME%2CPERMIT_STAT%2CPER_ENT_DATE%2CPER_ISSUE_DATE%2CPER_COMPL_DATE%2CSTREET_FULL_NAME%2CPID%2CPER_TYPE_DESC%2CSCOPE_DESC%2CPER_EXPIRE_DATE&returnGeometry=false&f=json",
+      "sha256": "87db640d75fd32990134cf34187a454aa68b178469d6eaf3cddfe8d696c93d94",
+      "bytes": 1804
+    },
+    "phoenix_permit-ids.json.gz": {
+      "url": "https://maps.phoenix.gov/pub/rest/services/Public/Planning_Permit/MapServer/1/query?where=UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "d044df2cb1f8068a299eea978ddafc2092a0ea6eded2db53e07f5f37a78475d1",
+      "bytes": 330
+    },
+    "phoenix_permit-0.json.gz": {
+      "url": "https://maps.phoenix.gov/pub/rest/services/Public/Planning_Permit/MapServer/1/query?where=%28UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PERMIT_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28SCOPE_DESC%29+LIKE+%27%25SERVER%25FARM%25%27%29+AND+OBJECTID+IN+%28447482%2C522239%2C557616%2C620619%2C626880%2C711896%2C820704%2C871094%2C887151%2C936179%2C939189%2C941906%2C949478%2C950955%2C967998%2C972464%2C972465%2C983098%2C990464%2C991995%2C1004379%2C1014651%2C1042862%2C1044562%2C1045941%2C1046691%2C1060181%2C1064746%2C1067494%2C1073178%2C1094988%2C1094989%2C1098142%2C1103688%2C1105403%2C1105404%2C1121532%2C1121533%2C1121771%2C1121772%2C1128702%2C1128703%2C1128704%2C1128705%2C1128706%2C1128707%2C1128708%2C1135313%2C1138497%2C1151061%2C1159159%2C1161583%2C1162347%2C1170611%2C1177104%2C1186046%2C1193165%2C1193199%2C1196404%2C1197544%2C1199396%2C1200775%2C1208881%2C1208882%2C1209150%2C1215860%2C1221711%2C1221721%2C1222188%2C1222189%2C1222539%2C1223139%2C1229394%2C1229461%2C1235091%2C1236848%2C1244836%29&outFields=OBJECTID%2CPER_TYPE%2CPER_NUM%2CPROJECT%2CPERMIT_NAME%2CPERMIT_STAT%2CPER_ENT_DATE%2CPER_ISSUE_DATE%2CPER_COMPL_DATE%2CSTREET_FULL_NAME%2CPID%2CPER_TYPE_DESC%2CSCOPE_DESC%2CPER_EXPIRE_DATE&returnGeometry=false&f=json",
+      "sha256": "b09065bbd6f1bfbfc04fa1b3a68335f9fc30b80a1a8f2cf6d34efe9107ee7c1b",
+      "bytes": 5171
+    },
+    "air-ids.json.gz": {
+      "url": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?where=UPPER%28facility_nm%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28name%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "64ddb94474245db21f1df1471a213be440983b3d52c97290ff20ed77afc40f42",
+      "bytes": 419
+    },
+    "air-stable.json.gz": {
+      "url": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?where=UPPER%28facility_nm%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28name%29+LIKE+%27%25SERVER%25FARM%25%27&outFields=OBJECTID%2Cfacility_id%2Cpermit_nbr&returnGeometry=false&f=json",
+      "sha256": "e247b1a87a0ac2bc0778b00ffad7e2b908633ee12a838056908bdadb143cc60d",
+      "bytes": 1429
+    },
+    "air-0.json.gz": {
+      "url": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?where=UPPER%28facility_nm%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_nm%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28facility_desc%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28name%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28name%29+LIKE+%27%25SERVER%25FARM%25%27&outFields=ESRI_OID%2COBJECTID%2Cfacility_id%2Cfacility_nm%2Cfacility_desc%2Ccity%2Ccounty_nm%2Cname%2Cpermit_nbr%2Cpermit_status_cd%2Cpermit_classification_dsc%2Coperating_status_dsc%2COnBaseWebLink&returnGeometry=false&f=json",
+      "sha256": "c2bbe46954c456473f75742cd051568d9eeafddcf4a7f84539636f0283def214",
+      "bytes": 9500
+    },
+    "tempe-ids.json.gz": {
+      "url": "https://services.arcgis.com/lQySeXwbBg53XWDi/arcgis/rest/services/building_permits/FeatureServer/0/query?where=UPPER%28Description%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Description%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "31ec85f41dbada8fb3a938f1e66cf8d94f96a23e29a2c19ced2e24df6a2d0407",
+      "bytes": 107
+    },
+    "tempe-0.json.gz": {
+      "url": "https://services.arcgis.com/lQySeXwbBg53XWDi/arcgis/rest/services/building_permits/FeatureServer/0/query?where=%28UPPER%28Description%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28Description%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28Description%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28ProjectName%29+LIKE+%27%25SERVER%25FARM%25%27%29+AND+OBJECTID+IN+%2810064203%2C10064925%2C10065390%2C10068223%2C10069983%2C10075185%2C10079793%2C10084130%29&outFields=OBJECTID%2CPermitNum%2CDescription%2CAppliedDate%2CIssuedDate%2CStatusDate%2CStatusCurrent%2COriginalAddress1%2CProjectName%2CPermitTypeDesc%2CPermitType%2CCompletedDate%2CCOIssuedDate&returnGeometry=false&f=json",
+      "sha256": "e1137fe8f383ad990fe9f2cdc21e1f0032be239c95d4302299cf353b6ce88d31",
+      "bytes": 1152
+    },
+    "tucson-ids.json.gz": {
+      "url": "https://gis.tucsonaz.gov/public/rest/services/PublicMaps/PermitsCode/MapServer/81/query?where=UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27&returnIdsOnly=true&f=json",
+      "sha256": "7b6244f1b7ed6809d26a70088aa0f19fcd325ffea8b25ae01cf3f6fcad92df4e",
+      "bytes": 74
+    },
+    "tucson-0.json.gz": {
+      "url": "https://gis.tucsonaz.gov/public/rest/services/PublicMaps/PermitsCode/MapServer/81/query?where=%28UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28PROJECTNAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27%29+AND+OBJECTID+IN+%284679%2C6207%2C7495%29&outFields=OBJECTID%2CNUMBER%2CSTATUS%2CTYPE%2CWORKCLASS%2CAPPLYDATE%2CISSUEDATE%2CCOMPLETEDATE%2CPROJECTNAME%2CDESCRIPTION%2CADDRESS%2CCSS_URL%2CENGOV_URL%2CPRO_URL&returnGeometry=false&f=json",
+      "sha256": "0a715a14f3aaf08c9a4fd4047e79d8b1d782168a8d20cd856365391598c66925",
+      "bytes": 1238
+    },
+    "storm_old-ids.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/0/query?where=%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29&returnIdsOnly=true&f=json",
+      "sha256": "552467103d9ed1d1482e9f1e0d1097c422138fd33acae62ac184c2e15c8800ab",
+      "bytes": 74
+    },
+    "storm_old-0.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/0/query?where=%28%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29%29+AND+OBJECTID+IN+%281015%2C2053%2C2174%29&outFields=OBJECTID%2CAPPROVAL_DATE%2CRECEIVED_DATE%2CLTF_NUMBER%2CAZNPDES_NUMBER%2CTERM_CANCEL_DATE%2CACTIVITY%2CFACILITY_NAME%2CCITY%2CSTATE_CODE%2CAPPLICATION_DESCRIPTION%2CAPPLICATION_NAME%2CAPPLICATION_STATUS%2CWAIVER&returnGeometry=false&f=json",
+      "sha256": "8f6dc92709e456e152c52d36c90330ce09f0ad82d99afbb2b8959b1947588388",
+      "bytes": 729
+    },
+    "demin_old-ids.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/1/query?where=%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29&returnIdsOnly=true&f=json",
+      "sha256": "5cead6359955cfeac8bef92da0ac7f60a4f5f653f60d592f9a570975d51baae6",
+      "bytes": 60
+    },
+    "industrial_old-ids.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/2/query?where=%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_DESCRIPTION%29+LIKE+%27%25SERVER%25FARM%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28APPLICATION_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29&returnIdsOnly=true&f=json",
+      "sha256": "5cead6359955cfeac8bef92da0ac7f60a4f5f653f60d592f9a570975d51baae6",
+      "bytes": 60
+    },
+    "storm-ids.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/3/query?where=%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29&returnIdsOnly=true&f=json",
+      "sha256": "0a0ef5d1e1c7e90fea5159d55ccbb0f35b291613e98fdb2bcfe5e398019ddaab",
+      "bytes": 316
+    },
+    "storm-0.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/3/query?where=%28%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29%29+AND+OBJECTID+IN+%285%2C6%2C7%2C37%2C374%2C375%2C1270%2C2144%2C2205%2C3873%2C4105%2C4153%2C4216%2C4270%2C4366%2C4367%2C4368%2C4457%2C4770%2C4771%2C4773%2C4968%2C5059%2C5060%2C5458%2C5539%2C5817%2C6094%2C6161%2C6266%2C6267%2C8017%2C8111%2C8123%2C8124%2C8191%2C8192%2C8265%2C8825%2C8827%2C8957%2C9967%2C9968%2C10056%2C10057%2C10058%2C10059%2C10240%2C10241%2C10264%2C10775%2C11115%2C14498%2C14499%2C14500%2C14764%2C15752%2C16857%2C18037%2C18038%2C18289%2C18292%2C18474%2C18492%2C18530%2C18673%2C19008%2C19132%2C19652%2C19749%2C19997%2C20158%2C20159%2C20677%2C20678%2C20679%2C21491%2C21492%2C21493%2C21532%2C21552%2C21787%2C23407%2C24753%2C25045%2C25081%2C25472%2C25682%2C27612%2C27762%2C27899%2C28108%2C28109%2C28213%2C28214%2C28540%2C28541%2C29072%29&outFields=OBJECTID%2CAPPROVAL_DATE%2CRECEIVED_DATE%2CLTF_NUMBER%2CAZNPDES_NUMBER%2CTERM_CANCEL_DATE%2CACTIVITY%2CFACILITY_NAME%2CCITY%2CSTATE_CODE%2CWQDB_NOI_NUMBER%2CWAIVER&returnGeometry=false&f=json",
+      "sha256": "5ba004012687df6d7462fc687a619bc76d44e3ab0f8432f7c70249c6a93b17fc",
+      "bytes": 3465
+    },
+    "demin-ids.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/4/query?where=%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29&returnIdsOnly=true&f=json",
+      "sha256": "5cead6359955cfeac8bef92da0ac7f60a4f5f653f60d592f9a570975d51baae6",
+      "bytes": 60
+    },
+    "industrial-ids.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/5/query?where=%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29&returnIdsOnly=true&f=json",
+      "sha256": "b9c311ada45edb0caf4d106109b5bba570baa9b99df15bf70f0b24a0550a77ca",
+      "bytes": 68
+    },
+    "industrial-0.json.gz": {
+      "url": "https://services.arcgis.com/SzoH1oFM2apCSkx3/arcgis/rest/services/AZPDES/FeatureServer/5/query?where=%28%28UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25CENTRE%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25DATA%25HALL%25%27+OR+UPPER%28FACILITY_NAME%29+LIKE+%27%25SERVER%25FARM%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PROJECT+BLUE%25%27+AND+UPPER%28CITY%29+LIKE+%27%25TUCSON%25%27%29+OR+%28UPPER%28FACILITY_NAME%29+LIKE+%27%25PHX73%25%27+AND+UPPER%28CITY%29+LIKE+%27%25GOODYEAR%25%27%29%29+AND+OBJECTID+IN+%28256%2C3505%29&outFields=OBJECTID%2CAPPROVAL_DATE%2CRECEIVED_DATE%2CLTF_NUMBER%2CAZNPDES_NUMBER%2CTERM_CANCEL_DATE%2CACTIVITY%2CFACILITY_NAME%2CCITY%2CSTATE_CODE%2CWQDB_NOI_NUMBER&returnGeometry=false&f=json",
+      "sha256": "195cee62f7dac7f2b55ec5f14dc5fc70e3acaed98d21a406114b852a426cf179",
+      "bytes": 612
+    },
+    "scottsdale-county-sites.json.gz": {
+      "url": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?where=facility_id+IN+%28%27F002278%27%2C%27F003007%27%29&outFields=facility_id%2Cfacility_nm%2Cfacility_desc%2Cname%2Caddress1%2Ccity%2Ccounty_nm%2Cparcel_no%2Cpermit_nbr&returnGeometry=false&f=json",
+      "sha256": "927dceecbedf5607fac247ded0e217adb7591ab191f21e0ead9b26b1b2eaaf93",
+      "bytes": 494
+    },
+    "scottsdale-parcel-screen.json.gz": {
+      "url": "https://hub.arcgis.com/api/download/v1/items/68ba7b38073f4cd4aee38d2b59afcaf4/csv?layers=12",
+      "sha256": "8c64ec4822058b39f902c3057e36181b1899964c4cbf0a41aa17482a672c3b25",
+      "bytes": 4457
+    },
+    "accela-b83240c0513e7a9e.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=AUP26-0009",
+      "sha256": "d9a53cf0918bded51c8165bc211b0aa3c2ca70f4719e723f225223d7e4dfc05c",
+      "bytes": 63506
+    },
+    "accela-0aea47bf5b70f4d5.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=BLD26-1844",
+      "sha256": "4c4a27fc0d77f0c5d0a4d02231ac0d7c4d5e5df74a6a1951a596bf11dae2542e",
+      "bytes": 60366
+    },
+    "accela-a13e1599285d043a.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=BLD26-1845",
+      "sha256": "5a454e17bdb7ca0cf1624e21359b8d9dc86581deb0bdd2e89e0a5ef16bcf5483",
+      "bytes": 60355
+    },
+    "accela-350fced3eb7c4e55.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=BLD26-1846",
+      "sha256": "f99aaaff5e86d42b18babfc5d12304c12a9f204372473df5a0c9077b9cbb960d",
+      "bytes": 60378
+    },
+    "accela-b61b3c3905b0f59d.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=BLD26-1847",
+      "sha256": "dc2a88cd69d75094fee14b02345cae98b998e2ade78ee09c911c8a4ddb949d02",
+      "bytes": 60326
+    },
+    "accela-19c319f8fae98a2d.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=BLDREV25-0483",
+      "sha256": "fded8753bb2ee41812e230571898382e79a7f2aa2075037c3aff79f1d8f48d2f",
+      "bytes": 60798
+    },
+    "accela-27f72dbd69774efd.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=BLDREV26-0289",
+      "sha256": "190ae75507338c850e355002932efcd8ff2b34079eda7e84c9ee14948601eb29",
+      "bytes": 58882
+    },
+    "accela-a0b938aab3bc5235.html.gz": {
+      "url": "https://aca-prod.accela.com/CHANDLER/Cap/GlobalSearchResults.aspx?QueryText=LFP26-0082",
+      "sha256": "c56091817a1ac5dae6b88a1ac1bc69e57d8acce9a750870969a589cc47449ef3",
+      "bytes": 62404
+    },
+    "accela-a749c2ec5c60ca55.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=19HST&capID2=00000&capID3=01W5O&agencyCode=GOODYEAR",
+      "sha256": "10ad76f088fa998a9c22997137643d853e9918fb2c438a99d3882e4cdeeec717",
+      "bytes": 65321
+    },
+    "accela-8129163d6b487ac2.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=19HST&capID2=00000&capID3=01X7U&agencyCode=GOODYEAR",
+      "sha256": "453f3afbe6c960eec38c6c481f2e956a848440c93fb99f21e57909ff29f2327c",
+      "bytes": 62278
+    },
+    "accela-43b4a80a3470f972.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=19HST&capID2=00000&capID3=01XZH&agencyCode=GOODYEAR",
+      "sha256": "c36fc50196b9a96033219156b407462730f876b61d4129155319fcbad3ce52d9",
+      "bytes": 61094
+    },
+    "accela-12c64f104888ce82.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=19HST&capID2=00000&capID3=01YFR&agencyCode=GOODYEAR",
+      "sha256": "404993dff1b83b5b147de0fc266f75ba8baf38bc24ae60f833a529568de7aab4",
+      "bytes": 62452
+    },
+    "accela-0eb517234e3e54d7.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=19HST&capID2=00000&capID3=01YFS&agencyCode=GOODYEAR",
+      "sha256": "0fbb06660c6b54f6f875da11db6caa7335f4d22b239eb4b99fe89221957193ca",
+      "bytes": 62458
+    },
+    "accela-3808c15de2f0c355.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=20HST&capID2=00000&capID3=021YO&agencyCode=GOODYEAR",
+      "sha256": "90578c83c972ffa2651dcf61d51d40ad850588b5c8a0bdf4499f35c9c062ddbb",
+      "bytes": 62433
+    },
+    "accela-0d75d7379bd207ca.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=20HST&capID2=00000&capID3=022DM&agencyCode=GOODYEAR",
+      "sha256": "3eff672cd9550f7303807bacd003341f096bd3aab4d3439fbd5e142b62840b3e",
+      "bytes": 60716
+    },
+    "accela-5ddf3d9494c30774.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=20HST&capID2=00000&capID3=022DN&agencyCode=GOODYEAR",
+      "sha256": "fd2bc5b66e73b51f40678a78063924c07d42fb8bf0cb663b13c957179388a108",
+      "bytes": 61098
+    },
+    "accela-d46ede6ee888d204.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=20HST&capID2=00000&capID3=022DO&agencyCode=GOODYEAR",
+      "sha256": "63be530ce46017749b8c9202139147b9f00aceef9836c109d88ec3ac27851254",
+      "bytes": 61002
+    },
+    "accela-a39a66e3b65ba595.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=20HST&capID2=00000&capID3=0235Y&agencyCode=GOODYEAR",
+      "sha256": "122773eea28cfb7e50e7b0c73791449ea76b11bc4dc01fc34823d8b99d4d4624",
+      "bytes": 62657
+    },
+    "accela-526399b87248d253.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=025U8&agencyCode=GOODYEAR",
+      "sha256": "2ffc40304c18d600b056fd5698f3fb440f86914ad44803712851509c847596c8",
+      "bytes": 67364
+    },
+    "accela-5550969784606aa3.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=02630&agencyCode=GOODYEAR",
+      "sha256": "2759bd94208b1192e989d369239f0dbc99906594632211866b0dfda3e05ebf22",
+      "bytes": 62660
+    },
+    "accela-0e56d5cb2a5cb86a.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=02631&agencyCode=GOODYEAR",
+      "sha256": "80f7d8e3e4fc14d4b478fd2556356b4dd2455c98f99bfe627ca81d6fababf5c7",
+      "bytes": 62644
+    },
+    "accela-a9bda98ccdad9d37.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=02634&agencyCode=GOODYEAR",
+      "sha256": "1922ecdadd8378e9e3779018693861f80d3fded867a5ff21552bc916f49eef41",
+      "bytes": 62641
+    },
+    "accela-2cb561908c94b55e.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=02638&agencyCode=GOODYEAR",
+      "sha256": "854dea341472bf1699ad6aac62184d9a80e5224bd7967eb4e9f862499c4effa4",
+      "bytes": 60813
+    },
+    "accela-26a0ad8d9a4510d4.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=0263B&agencyCode=GOODYEAR",
+      "sha256": "9cd76e239db5f5eea51a704afb034f7eb72e650ed890ee6648faf6c3feee27f9",
+      "bytes": 63489
+    },
+    "accela-6ee0746edf08618c.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=21HST&capID2=00000&capID3=029TF&agencyCode=GOODYEAR",
+      "sha256": "677071f126eb9730e778b979ce60cbd1be430405522e4c05019ea1e6704f343c",
+      "bytes": 62659
+    },
+    "accela-f1868bdc266c763a.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22HST&capID2=00000&capID3=02C4O&agencyCode=GOODYEAR",
+      "sha256": "7113eeedf7e3a7872858dc9f419974aa5fbcc4cbcb04cd286884afe86d503b2a",
+      "bytes": 64922
+    },
+    "accela-b47e2a81192391ed.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22HST&capID2=00000&capID3=02E88&agencyCode=GOODYEAR",
+      "sha256": "b71f0fa19dbd68ce351ff99d7c06798e67e22879112fc5bd1119ee53ae6609ae",
+      "bytes": 64240
+    },
+    "accela-6478397ed7ec11fa.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23HST&capID2=00000&capID3=02EOQ&agencyCode=GOODYEAR",
+      "sha256": "61b32518d4cb90398b9a56bc690ac1af5e06a351c78d569569ff6b4ce83b13c2",
+      "bytes": 77531
+    },
+    "accela-869a1bd2405ff9b5.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23HST&capID2=00000&capID3=02EOR&agencyCode=GOODYEAR",
+      "sha256": "8193c4d964d599486b21a3a2de9f58f5ded8a05055765857fc60854cf83cbe52",
+      "bytes": 63757
+    },
+    "accela-3875179e69f7af60.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23HST&capID2=00000&capID3=02EOS&agencyCode=GOODYEAR",
+      "sha256": "9aa315aae69fa23d5959c2c3cf73f4fe00dcc7bc510013908c94897e7bb2423d",
+      "bytes": 63737
+    },
+    "accela-1f128e3b724878e8.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23HST&capID2=00000&capID3=02EOU&agencyCode=GOODYEAR",
+      "sha256": "d20a8ee5a2b066b9fc83da63883c464452f2ac68ecfdea232952b2df693f922a",
+      "bytes": 63752
+    },
+    "accela-ad787687e7a5e29e.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23HST&capID2=00000&capID3=02EOV&agencyCode=GOODYEAR",
+      "sha256": "05e2d00bd33719212e52487217fcb0725fe531d62cd14838c0503105a5fae971",
+      "bytes": 62635
+    },
+    "accela-d457334074c26ba9.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23HST&capID2=00000&capID3=02EOW&agencyCode=GOODYEAR",
+      "sha256": "d44ec14f8dfeed2cc4a1547888b142156efab8a8796afcd3ab17c8d8a1f42e29",
+      "bytes": 78043
+    },
+    "accela-5c8d8bfd0d5d69d9.html.gz": {
+      "url": "https://aca-prod.accela.com/GOODYEAR/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=REC26&capID2=00000&capID3=002OF&agencyCode=GOODYEAR",
+      "sha256": "8677d6f8779233478104fcb3b1ccfb6aba4648a1ff403abfb765fc01833ba030",
+      "bytes": 66122
+    },
+    "reviewed-notices.json": {
+      "url": "https://content.govdelivery.com/accounts/AZPIMA/bulletins/41731cb",
+      "sha256": "9f2b686de01643d676d47878107c883fded57eb732dc14e2c97a9e64b4f6230e",
+      "bytes": 1472,
+      "method": "Pinned excerpts verified in county PDFs via web reader; each entry contains its own URL"
+    }
+  },
+  "candidate_counts": {
+    "mesa": 122,
+    "phoenix_plan": 17,
+    "phoenix_permit": 77,
+    "air": 129,
+    "tempe": 8,
+    "tucson": 3,
+    "storm_old": 3,
+    "demin_old": 0,
+    "industrial_old": 0,
+    "storm": 98,
+    "demin": 0,
+    "industrial": 2,
+    "scottsdale": 288158,
+    "accela": 34
+  }
+}

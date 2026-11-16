@@ -1,0 +1,441 @@
+{
+  "unit": "Mapped OSM-derived POI/building/campus centroid records, not unique operating sites, permits or MW",
+  "version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2713%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "georgia_total": 58,
+  "counties": {
+    "Douglas County": 22,
+    "Fulton County": 21,
+    "Fayette County": 4,
+    "Cobb County": 3,
+    "Gwinnett County": 3,
+    "Newton County": 3,
+    "Forsyth County": 1,
+    "Muscogee County": 1
+  },
+  "places": {
+    "Outside incorporated places": 23,
+    "Alpharetta city": 9,
+    "Atlanta city": 8,
+    "Douglasville city": 6,
+    "Fayetteville city": 2,
+    "South Fulton city": 2,
+    "Suwanee city": 2,
+    "Acworth city": 1,
+    "Columbus city": 1,
+    "East Point city": 1,
+    "Hapeville city": 1,
+    "Marietta city": 1,
+    "Peachtree Corners city": 1
+  },
+  "points": [
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": "Google Fiber",
+      "operator": "Google",
+      "type": "point"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": "Atlanta ATL13",
+      "operator": "Digital Realty",
+      "type": "point"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": "CoreSite AT1",
+      "operator": "CoreSite",
+      "type": "point"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Strategic Datasphere",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Flexential Atlanta - Alpharetta Data Center",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Secure Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Cox Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": "QTS Atlanta Data Center 1",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Hapeville city",
+      "name": "Digital Realty Data Center",
+      "operator": "Digital Realty",
+      "type": "building"
+    },
+    {
+      "county": "Cobb County",
+      "place": "Marietta city",
+      "name": "CoreSite AT2 - Marietta Data Center",
+      "operator": "CoreSite",
+      "type": "building"
+    },
+    {
+      "county": "Gwinnett County",
+      "place": "Suwanee city",
+      "name": "QTS Suwanee Data Center 1",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Gwinnett County",
+      "place": "Suwanee city",
+      "name": "QTS Suwanee Data Center 2",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Gwinnett County",
+      "place": "Peachtree Corners city",
+      "name": "Flexential Atlanta - Norcross",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": "CenturyLink",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Cobb County",
+      "place": "Acworth city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Mapletree Industrial",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Centersquare Atlanta ATL1",
+      "operator": "Centersquare",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Google",
+      "operator": "Google",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Google",
+      "operator": "Google",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "T5 Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Muscogee County",
+      "place": "Columbus city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Atlanta, GA",
+      "operator": "Data Canopy",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Digital Realty Atlanta ATL11",
+      "operator": "Digital Realty",
+      "type": "building"
+    },
+    {
+      "county": "Cobb County",
+      "place": "Outside incorporated places",
+      "name": "Digital Realty Atlanta ATL11",
+      "operator": "Digital Realty",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "The Keep",
+      "operator": "Switch",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": "QTS Atlanta Data Center 2",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Newton County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": "Meta",
+      "type": "building"
+    },
+    {
+      "county": "Newton County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": "Meta",
+      "type": "building"
+    },
+    {
+      "county": "Newton County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": "Meta",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Douglasville city",
+      "name": "Douglasville 1",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Douglasville city",
+      "name": "Aligned Data Centers",
+      "operator": "Aligned Data Centers",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "The Keep",
+      "operator": "Switch",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "The Keep",
+      "operator": "Switch",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Douglasville city",
+      "name": "Douglasville 2",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Forsyth County",
+      "place": "Outside incorporated places",
+      "name": "UPS Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fayette County",
+      "place": "Fayetteville city",
+      "name": "QTS",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Fayette County",
+      "place": "Fayetteville city",
+      "name": "QTS",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Fayette County",
+      "place": "Outside incorporated places",
+      "name": "QTS",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Fayette County",
+      "place": "Outside incorporated places",
+      "name": "QTS",
+      "operator": "Quality Technology Services",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Douglasville city",
+      "name": "Douglasville",
+      "operator": "Microsoft",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Douglasville city",
+      "name": "Douglasville",
+      "operator": "Microsoft",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Atlanta III",
+      "operator": "T5 Data Centers",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Stack Infrastructure",
+      "operator": "Stack Infrastructure",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Stack Infrastructure",
+      "operator": "Stack Infrastructure",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Atlanta III",
+      "operator": "T5 Data Centers",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Atlanta III",
+      "operator": "T5 Data Centers",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "Atlanta III",
+      "operator": "T5 Data Centers",
+      "type": "building"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": "The Keep",
+      "operator": "Switch",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "South Fulton city",
+      "name": "Microsoft",
+      "operator": "Microsoft",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "East Point city",
+      "name": "Microsoft",
+      "operator": "Microsoft",
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Atlanta city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Hewlett-Packard",
+      "operator": null,
+      "type": "campus"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": "Ascent - Atlanta Data Center",
+      "operator": "Ascent",
+      "type": "campus"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Douglasville city",
+      "name": null,
+      "operator": "DC BLOX",
+      "type": "campus"
+    },
+    {
+      "county": "Douglas County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": "Amazon Web Services",
+      "type": "campus"
+    },
+    {
+      "county": "Fulton County",
+      "place": "South Fulton city",
+      "name": "Westlake Data Center",
+      "operator": "Vantage Data Centers",
+      "type": "campus"
+    },
+    {
+      "county": "Fulton County",
+      "place": "Alpharetta city",
+      "name": null,
+      "operator": null,
+      "type": "campus"
+    }
+  ]
+}

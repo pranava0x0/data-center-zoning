@@ -1,0 +1,93 @@
+[
+  {
+    "rule_id": "va-lou-grade",
+    "metric": "land_disturbed",
+    "operator": ">=",
+    "value": 5000,
+    "unit": "ft2",
+    "condition": "Sensitive-area exception; county grading only.",
+    "state": "VA",
+    "status": "extracted_candidate",
+    "source_url": "https://www.loudoun.gov/6244/Land-Disturbance",
+    "sha256": "eca2ed6e6d8e5f210417b6db78d5939a2cb7e3cd9a1f8bb77860b4b72995c524",
+    "pattern": "land disturbance that equals ([\\d,]+) square feet or more will require a grading permit"
+  },
+  {
+    "rule_id": "va-lou-grandfather-admin",
+    "metric": "grandfather_residential_distance",
+    "operator": ">",
+    "value": 500,
+    "unit": "ft",
+    "condition": "Grandfathering test only; also check prior application, date and retention.",
+    "state": "VA",
+    "status": "extracted_candidate",
+    "source_url": "https://www.loudoun.gov/DocumentCenter/View/215836",
+    "sha256": "9b4b176839deaf218c5a9bda9fd7334e6b0d6b94defd2ed634d36d072cc90555",
+    "pattern": "more than ([\\d,]+) feet from all existing residential structures on february 12, 2025"
+  },
+  {
+    "rule_id": "va-fx-setback",
+    "metric": "equipment_residential_setback",
+    "operator": ">=",
+    "value": 300,
+    "unit": "ft",
+    "condition": "Equipment alternative: intervening building; special exception may reduce.",
+    "state": "VA",
+    "status": "extracted_candidate",
+    "source_url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
+    "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+    "pattern": "power supply equipment, must be either: 1\\. located at least ([\\d,]+) feet from the lot line of an r district"
+  },
+  {
+    "rule_id": "in-withdrawal-registration",
+    "metric": "withdrawal_capacity",
+    "operator": ">",
+    "value": 100000,
+    "unit": "gal/day",
+    "condition": "Aggregate withdrawal capacity, not actual consumption or a withdrawal permit.",
+    "state": "IN",
+    "status": "extracted_candidate",
+    "source_url": "https://www.in.gov/dnr/water/water-availability-use-rights/significant-water-withdrawal-facility-registration/",
+    "sha256": "b697b9cb8890f7dc39d4e3fd5a3721067f9606c11f97a3dde1125e520dda3a41",
+    "pattern": "capability of withdrawing more than one hundred thousand \\(([\\d,]+)\\) gallons of ground water"
+  },
+  {
+    "rule_id": "oh-consumptive-use",
+    "metric": "new_or_increased_consumptive_use",
+    "operator": ">",
+    "value": 2000000,
+    "unit": "gal/day",
+    "condition": "Average over any 30-day period; statute exceptions apply.",
+    "state": "OH",
+    "status": "extracted_candidate",
+    "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1521.23",
+    "sha256": "7f532eb421ffd4c1e7820fe660d7af0ce95d73c6f01e9ed588324cea83bba36c",
+    "pattern": "new or increased consumptive use of more than an average of (two million) gallons of water per day in any thirty-day period"
+  },
+  {
+    "rule_id": "az-chandler-noise",
+    "metric": "annual_postconstruction_studies",
+    "operator": "duration",
+    "value": 5,
+    "unit": "year",
+    "condition": "After construction; baseline and notification are separate requirements.",
+    "state": "AZ",
+    "status": "extracted_candidate",
+    "source_url": "https://www.chandleraz.gov/news-center/chandlers-data-center-ordinance-now-effect",
+    "sha256": "bac74f822007116cb42475645ce558b3574a28d1968e171cd1a4d02f976dccfd",
+    "pattern": "annual noise study during peak operation times for (five) years"
+  },
+  {
+    "rule_id": "az-navajo-minor-air",
+    "metric": "application_lead_time",
+    "operator": ">=",
+    "value": 90,
+    "unit": "days",
+    "condition": "Applicable minor-source application, with general-permit exception.",
+    "state": "AZ",
+    "status": "extracted_candidate",
+    "source_url": "https://navajoepa.org/air-quality-control-program",
+    "sha256": "b7fd7c9f3dea93e8b583b7e5c98482e93160672083db15cc92c34e38c3faf556",
+    "pattern": "at least ([\\d,]+) days prior to the requested beginning of construction"
+  }
+]

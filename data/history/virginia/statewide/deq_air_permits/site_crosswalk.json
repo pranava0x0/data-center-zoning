@@ -1,0 +1,1721 @@
+[
+  {
+    "registration": "11541",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Northrop Grumman Systems Corporation",
+    "site_status": "Temporarily Shutdown",
+    "objectid": "1193",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "11790",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "DP Facilities Inc South LLC",
+    "site_status": "Operating",
+    "objectid": "2621",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "21527",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corporation - East Coast Data Center",
+    "site_status": "Operating",
+    "objectid": "642",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "30142",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "TECfusions Clarksville LLC",
+    "site_status": "Operating",
+    "objectid": "2073",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "40200",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "University of Virginia",
+    "site_status": "Operating",
+    "objectid": "3244",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "41064",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix, LLC - CU 1-4",
+    "site_status": "Operating",
+    "objectid": "3708",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "51232",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "QTS Richmond Data Center",
+    "site_status": "Operating",
+    "objectid": "2067",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52173",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "11751 Meadowville Owner LLC c/o GFH Capital Ltd",
+    "site_status": "Operating",
+    "objectid": "3509",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52221",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Bank of America - Villa Park Data Center",
+    "site_status": "Operating",
+    "objectid": "1017",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52281",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Capital One Services Incorporated",
+    "site_status": "Operating",
+    "objectid": "2550",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52299",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Peak 10 Incorporated",
+    "site_status": "Operating",
+    "objectid": "1884",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52403",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Bank of America - Sandston",
+    "site_status": "Operating",
+    "objectid": "1703",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52432",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Chirisa Richmond LLC",
+    "site_status": "Operating",
+    "objectid": "2734",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52629",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Scout Development LLC",
+    "site_status": "Operating",
+    "objectid": "3134",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52820",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corp - LVL Data Center",
+    "site_status": "Operating",
+    "objectid": "3102",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52903",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corporation - Timber Data Center",
+    "site_status": "Operating",
+    "objectid": "3613",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52949",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corporation - AVC Data Center",
+    "site_status": "Operating",
+    "objectid": "2826",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "52973",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corp DCS - AVC09-AVC13 Datacenter",
+    "site_status": "Operating",
+    "objectid": "2837",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53071",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corporation - AVC43 Datacenter",
+    "site_status": "Operating",
+    "objectid": "3426",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53072",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corp - LYH10 Datacenter",
+    "site_status": "Operating",
+    "objectid": "2998",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53086",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corp - AVC17 Datacenter",
+    "site_status": "Operating",
+    "objectid": "3406",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53197",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CLOP Ashland VA LLC",
+    "site_status": "Operating",
+    "objectid": "3324",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53198",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53259",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "53266",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "60353",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Sentara Healthcare",
+    "site_status": "Operating",
+    "objectid": "2363",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "71804",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Vienna Cloud",
+    "site_status": "Operating",
+    "objectid": "31",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "72296",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Coresite Real Estate 12100 Sunrise Valley Drive",
+    "site_status": "Operating",
+    "objectid": "2312",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "72367",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Verizon Business Network Services, Inc.",
+    "site_status": "Operating",
+    "objectid": "1817",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "72368",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Oath, Inc.",
+    "site_status": "Operating",
+    "objectid": "812",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "72374",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Comcast Cablevision of Virginia Incorporated",
+    "site_status": "Operating",
+    "objectid": "3463",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "72375",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Chantilly Technology Partners, LLC/H5 VA",
+    "site_status": "Operating",
+    "objectid": "119",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73105",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Freddie Mac Corporation",
+    "site_status": "Operating",
+    "objectid": "12",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73158",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "22810-22860 International Drive LLC",
+    "site_status": "Operating",
+    "objectid": "775",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73160",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "21110 Ridgetop Circle LLC",
+    "site_status": "Operating",
+    "objectid": "1950",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73162",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Realty - Lemur Properties, LLC (VA3)",
+    "site_status": "Operating",
+    "objectid": "686",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73170",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "H5 Data Centers",
+    "site_status": "Operating",
+    "objectid": "1982",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73180",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Realty - Porpoise Ventures LLC (VA4)",
+    "site_status": "Operating",
+    "objectid": "296",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73199",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix LLC",
+    "site_status": "Operating",
+    "objectid": "635",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73200",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix, LLC - DC 14",
+    "site_status": "Operating",
+    "objectid": "2247",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73230",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Valo Park",
+    "site_status": "Operating",
+    "objectid": "2830",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73233",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix LLC",
+    "site_status": "Operating",
+    "objectid": "649",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73240",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "21571 Beaumeade Circle LLC",
+    "site_status": "Operating",
+    "objectid": "792",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73293",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "22995 Wilder Court LLC",
+    "site_status": "Operating",
+    "objectid": "1068",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73294",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-1 IAD-9",
+    "site_status": "Operating",
+    "objectid": "1075",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73326",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Plaza Office Realty II, LLC",
+    "site_status": "Operating",
+    "objectid": "2293",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73341",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "VeriSign Incorporated Broad Run Facility2",
+    "site_status": "Operating",
+    "objectid": "1827",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73355",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-6 IAD-13 IAD-54",
+    "site_status": "Operating",
+    "objectid": "1272",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73363",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Inova Health Care Systems - IT Operations",
+    "site_status": "Operating",
+    "objectid": "1623",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73369",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "New Dominion Technology Park, LLC",
+    "site_status": "Operating",
+    "objectid": "2059",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73370",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Realty - Ashburn Campus",
+    "site_status": "Operating",
+    "objectid": "3062",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73567",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "StratCap",
+    "site_status": "Operating",
+    "objectid": "1925",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73643",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Visa USA Incorporated",
+    "site_status": "Operating",
+    "objectid": "1923",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73670",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Loudoun Pkwy Center N LLC",
+    "site_status": "Operating",
+    "objectid": "1421",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73683",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Corporate Office Properties Trust (COPT - DC6)",
+    "site_status": "Operating",
+    "objectid": "1754",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73717",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Zayo Group, LLC",
+    "site_status": "Operating",
+    "objectid": "1774",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73741",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-7 IAD-11 IAD-24",
+    "site_status": "Operating",
+    "objectid": "1679",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73743",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Zayo Group, LLC",
+    "site_status": "Operating",
+    "objectid": "1655",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73757",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "QTS Dulles, LLC",
+    "site_status": "Operating",
+    "objectid": "3108",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73798",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Northrop Grumman Systems Corporation",
+    "site_status": "Operating",
+    "objectid": "1801",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73809",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix, LLC - DC 97",
+    "site_status": "Operating",
+    "objectid": "1804",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73813",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Northrop Grumman Services Corporation",
+    "site_status": "Operating",
+    "objectid": "1745",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73823",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Level 3 Commuications Herndon Gateway",
+    "site_status": "Operating",
+    "objectid": "1748",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73853",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-10 IAD-32 IAD-98 IAD-99 IAD-118 IAD-119 IAD-129",
+    "site_status": "Operating",
+    "objectid": "1746",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73860",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-12 IAD-15 IAD-16 IAD-76 IAD-230",
+    "site_status": "Operating",
+    "objectid": "1805",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73868",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "VADATA Inc MEG Four",
+    "site_status": "Operating",
+    "objectid": "1694",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73872",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Northrop Grumman Systems Corporation",
+    "site_status": "Operating",
+    "objectid": "1922",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73935",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Intergate - Ashburn, LLC",
+    "site_status": "Operating",
+    "objectid": "2856",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73946",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix, LLC - Ashburn",
+    "site_status": "Operating",
+    "objectid": "1747",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73950",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "George Washington University - VA Campus Bldg II",
+    "site_status": "Operating",
+    "objectid": "2234",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73954",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "VA1 Data Center",
+    "site_status": "Operating",
+    "objectid": "1678",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73977",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "The Aerospace Corporation",
+    "site_status": "Operating",
+    "objectid": "1904",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "73995",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc.  IAD-14 IAD-52 IAD-59",
+    "site_status": "Operating",
+    "objectid": "2131",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74020",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Freddie Mac Building - 8250 Jones Branch Drive",
+    "site_status": "Operating",
+    "objectid": "1908",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74049",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD 50 IAD 60 IAD-71  IAD-78 IAD-79 IAD-80",
+    "site_status": "Operating",
+    "objectid": "2135",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74051",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Captone Mission Ridge, LLC",
+    "site_status": "Operating",
+    "objectid": "2498",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74052",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-55 IAD-64 IAD-84",
+    "site_status": "Operating",
+    "objectid": "2262",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74060",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74063",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-51 IAD-56 IAD-88  IAD-89",
+    "site_status": "Operating",
+    "objectid": "3100",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74064",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-57 IAD-58",
+    "site_status": "Operating",
+    "objectid": "3455",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74074",
+    "in_republished_permit_register": false,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Corporate Office Properties, L.P. - Park Center",
+    "site_status": "Operating",
+    "objectid": "3690",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74079",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "SI NVA01 ABS, LLC",
+    "site_status": "Operating",
+    "objectid": "2105",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74080",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-61, IAD-63, IAD-65,  IAD-86, IAD-155, IAD-600, IAD-018",
+    "site_status": "Operating",
+    "objectid": "2169",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74081",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-73 IAD-74 IAD-602 IAD-193 IAD-194",
+    "site_status": "Operating",
+    "objectid": "2427",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74085",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-62/68/81/83/93/609/614",
+    "site_status": "Operating",
+    "objectid": "2352",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74086",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CyrusOne Loudoun Tech Center",
+    "site_status": "Operating",
+    "objectid": "2351",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74094",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "NTT Global Data Centers VA2, LLC",
+    "site_status": "Operating",
+    "objectid": "2355",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74107",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Cloud HQ",
+    "site_status": "Operating",
+    "objectid": "2523",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74109",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CyrusOne Northern Virginia Data Center - Shaw Road",
+    "site_status": "Operating",
+    "objectid": "2219",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74112",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Iron Mountain Information Management LLC",
+    "site_status": "Operating",
+    "objectid": "2163",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74114",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CyrusOne Kincora",
+    "site_status": "Operating",
+    "objectid": "2173",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74115",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-75 IAD-85 IAD-95 IAD-96",
+    "site_status": "Operating",
+    "objectid": "2115",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74118",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74120",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "NTT Global Data Centers Americas, Inc.",
+    "site_status": "Operating",
+    "objectid": "2759",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74121",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc.  IAD-90 IAD-91 IAD-92",
+    "site_status": "Operating",
+    "objectid": "3049",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74126",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Realty (Digital Loudoun 3 & 4, LLC)",
+    "site_status": "Operating",
+    "objectid": "3054",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74127",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Data Center Vint Hill LLC",
+    "site_status": "Operating",
+    "objectid": "3450",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74129",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-100 IAD-101 IAD-102 IAD-103",
+    "site_status": "Operating",
+    "objectid": "3692",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74130",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CoreSite Real Estate Sunrise Technology Park, LLC",
+    "site_status": "Operating",
+    "objectid": "3552",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74141",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "QTS Investment Properties Ashburn LLC",
+    "site_status": "Operating",
+    "objectid": "2977",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74147",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix LLC - DC 13",
+    "site_status": "Operating",
+    "objectid": "3179",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74150",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-114 IAD-115",
+    "site_status": "Operating",
+    "objectid": "3657",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74152",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Wheeler Data Center",
+    "site_status": "Operating",
+    "objectid": "3577",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74153",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-144  IAD-145",
+    "site_status": "Operating",
+    "objectid": "3675",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74154",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Aerospace Data Facility - East",
+    "site_status": "Operating",
+    "objectid": "3676",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74155",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Iskander (LC-1A) Jamshid (LC-1B) Kaveh (LC2) Lohrasp Ventures (LC3)",
+    "site_status": "Operating",
+    "objectid": "2848",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74156",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Sentinel Ashburn Nexus",
+    "site_status": "Operating",
+    "objectid": "3522",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74160",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Compass IAD Datacenter",
+    "site_status": "Operating",
+    "objectid": "3593",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74161",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "QTS Investment Properties Manassas LLC",
+    "site_status": "Operating",
+    "objectid": "3570",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74162",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Vantage Data Centers VA11, VA12, VA13, VA14, & VA15",
+    "site_status": "Operating",
+    "objectid": "2763",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74163",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Hayden Technologies, LLC.",
+    "site_status": "Operating",
+    "objectid": "3266",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74164",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CyrusOne Northern Virginia Data Center - Maries Road",
+    "site_status": "Operating",
+    "objectid": "3423",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74167",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-132 IAD-133",
+    "site_status": "Operating",
+    "objectid": "3719",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74169",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Aligned Energy Data Centers (Ashburn), LLC",
+    "site_status": "Operating",
+    "objectid": "3025",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74170",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-116 IAD-117",
+    "site_status": "Operating",
+    "objectid": "3718",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74171",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services (IAD-130, IAD-131, IAD-313, and DCA-072)",
+    "site_status": "Operating",
+    "objectid": "3661",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74172",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74173",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "CyrusOne Sterling IX/X/XI",
+    "site_status": "Operating",
+    "objectid": "3027",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74174",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-150 IAD-151 IAD-152",
+    "site_status": "Operating",
+    "objectid": "3330",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74181",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc.",
+    "site_status": "Operating",
+    "objectid": "3141",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74184",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services, Inc. IAD-140/141/143",
+    "site_status": "Operating",
+    "objectid": "2867",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74189",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Equinix LLC (DC-21/DC-22)",
+    "site_status": "Operating",
+    "objectid": "3701",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74190",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon DCA-50",
+    "site_status": "Operating",
+    "objectid": "3451",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74197",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "QTS LLC - Ashburn-Shellhorn Data Center",
+    "site_status": "Operating",
+    "objectid": "3107",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74198",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services - DCA-51",
+    "site_status": "Operating",
+    "objectid": "3246",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74201",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft",
+    "site_status": "Operating",
+    "objectid": "3286",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74205",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc IAD-120/121/122",
+    "site_status": "Operating",
+    "objectid": "2776",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74207",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon DCA-54",
+    "site_status": "Operating",
+    "objectid": "3189",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74212",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Western Lands LLC",
+    "site_status": "Operating",
+    "objectid": "2784",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74214",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc IAD-161, IAD-162, IAD-606, IAD-285, IAD-286, IAD-299, IAD-611",
+    "site_status": "Operating",
+    "objectid": "3614",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74216",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Nova Mango Farms LLC",
+    "site_status": "Operating",
+    "objectid": "3275",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74220",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Corporation – Leesburg Data Center (IAD01-02-03-04-05)",
+    "site_status": "Operating",
+    "objectid": "3596",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74221",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft Blue Ridge (IAD11-12-13) Data Center",
+    "site_status": "Operating",
+    "objectid": "3667",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74224",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "SI NVA02D, LLC",
+    "site_status": "Operating",
+    "objectid": "2825",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74227",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - IAD-163/164/174",
+    "site_status": "Operating",
+    "objectid": "3252",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74232",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "ASH2 Lockridge Data Center - QTS Investment Properties Ashburn II LLC",
+    "site_status": "Operating",
+    "objectid": "3557",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74234",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Darab Ventures One, Two, Six LLC",
+    "site_status": "Operating",
+    "objectid": "2879",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74235",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Cologix ASH1",
+    "site_status": "Operating",
+    "objectid": "2821",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74236",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Microsoft - Gainesville Data Center - MNZ03",
+    "site_status": "Operating",
+    "objectid": "2886",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74237",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74239",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - IAD-134/135/136",
+    "site_status": "Operating",
+    "objectid": "3585",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74240",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - IAD-104/105/106",
+    "site_status": "Operating",
+    "objectid": "3586",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74241",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Gainesville Crossing Data Campus - GCDC",
+    "site_status": "Operating",
+    "objectid": "2909",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74242",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Vantage Data Centers VA2 LLC",
+    "site_status": "Operating",
+    "objectid": "2993",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74244",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc IAD-169/179",
+    "site_status": "Operating",
+    "objectid": "3687",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74246",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "SI NVA05A, LLC and SI NVA05D, LLC",
+    "site_status": "Operating",
+    "objectid": "2994",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74247",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Aligned Data Centers IAD03",
+    "site_status": "Operating",
+    "objectid": "3037",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74250",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services IAD-156, IAD-157, IAD-158, IAD-159, and IAD-327",
+    "site_status": "Operating",
+    "objectid": "2959",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74252",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services IAD-215",
+    "site_status": "Operating",
+    "objectid": "3073",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74260",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "NTT Global Data Centers VA10 LLC",
+    "site_status": "Operating",
+    "objectid": "3116",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74262",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Third Second Manassas, LLC & Digital Carver Brickyard, LLC.",
+    "site_status": "Operating",
+    "objectid": "3257",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74264",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Digital Realty - Sterling Premiere LLC",
+    "site_status": "Operating",
+    "objectid": "3076",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74265",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Yondr Data Center",
+    "site_status": "Operating",
+    "objectid": "3159",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74269",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "STACK Infrastructure - SI NVA06A LLC",
+    "site_status": "Operating",
+    "objectid": "3077",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74270",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - DCA-060",
+    "site_status": "Operating",
+    "objectid": "3310",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74272",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - DCA-64",
+    "site_status": "Operating",
+    "objectid": "3430",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74273",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - IAD-165/166/167/168/613",
+    "site_status": "Operating",
+    "objectid": "3464",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74274",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74276",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74277",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc IAD-195/196/197/198",
+    "site_status": "Operating",
+    "objectid": "3079",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74278",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc IAD-210/211",
+    "site_status": "Operating",
+    "objectid": "3322",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74284",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Vantage Data Center VA3 LLC",
+    "site_status": "Operating",
+    "objectid": "3164",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74287",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74288",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc. IAD450-456 Cosner Tech Campus",
+    "site_status": "Operating",
+    "objectid": "3412",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74290",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74296",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74299",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc., IAD 550 Louisa REB",
+    "site_status": "Operating",
+    "objectid": "3444",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74300",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc - IAD-500/501",
+    "site_status": "Operating",
+    "objectid": "3132",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74301",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Amazon Data Services Inc IAD-667, IAD-668, IAD-669, IAD-670, and IAD-671",
+    "site_status": "Operating",
+    "objectid": "3362",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74302",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74306",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74308",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74309",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74315",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74317",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74321",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74323",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74329",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74331",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74332",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74333",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74335",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74336",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74337",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74338",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74341",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74342",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74348",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "74349",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": false,
+    "site_name": null,
+    "site_status": null,
+    "objectid": null,
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "80941",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Cardinal Energy Corporation",
+    "site_status": "Operating",
+    "objectid": "517",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  },
+  {
+    "registration": "81609",
+    "in_republished_permit_register": true,
+    "in_official_dc_flagged_air_sites": true,
+    "site_name": "Anthem CDC 3",
+    "site_status": "Operating",
+    "objectid": "1732",
+    "source_url": "https://www.arcgis.com/home/item.html?id=90b6a133362b4f94a60ec5ced47bc27d"
+  }
+]

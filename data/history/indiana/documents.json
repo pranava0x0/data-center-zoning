@@ -1,0 +1,539 @@
+[
+  {
+    "doc": "dxfirst",
+    "num": "089-42502-00639",
+    "name": "DX Digital Crossroads, LLC",
+    "county": "Lake County",
+    "kind": "FESOP New Source Construction",
+    "status": "Approval - Effective Immediately",
+    "date": "2020-05-08",
+    "role": "decision date",
+    "checks": [
+      [
+        1,
+        "089-42502-00639"
+      ],
+      [
+        1,
+        "May 8, 2020"
+      ],
+      [
+        1,
+        "Approval - Effective Immediately"
+      ],
+      [
+        6,
+        "County Location: Lake"
+      ],
+      [
+        6,
+        "stationary data center"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality"
+  },
+  {
+    "doc": "dx",
+    "num": "089-45165-00639",
+    "name": "DX Hammond JV, LLC",
+    "county": "Lake County",
+    "kind": "FESOP Significant Permit Revision",
+    "status": "Approval - Effective Immediately",
+    "date": "2022-07-06",
+    "role": "decision date",
+    "checks": [
+      [
+        1,
+        "089-45165-00639"
+      ],
+      [
+        1,
+        "July 6, 2022"
+      ],
+      [
+        1,
+        "Approval - Effective Immediately"
+      ],
+      [
+        3,
+        "stationary data center"
+      ],
+      [
+        41,
+        "County: Lake"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality"
+  },
+  {
+    "doc": "ftw",
+    "num": "003-47378-00530",
+    "name": "Hatchworks LLC",
+    "county": "Allen County",
+    "kind": "Title V New Source Construction",
+    "status": "Approval - Effective Immediately",
+    "date": "2024-09-06",
+    "role": "decision date",
+    "checks": [
+      [
+        1,
+        "003-47378-00530"
+      ],
+      [
+        1,
+        "September 6, 2024"
+      ],
+      [
+        1,
+        "Approval - Effective Immediately"
+      ],
+      [
+        136,
+        "County: Allen"
+      ],
+      [
+        136,
+        "stationary data center"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality"
+  },
+  {
+    "doc": "awsfirst",
+    "num": "141-47750-00642",
+    "name": "Amazon Data Services Incorporated",
+    "county": "St. Joseph County",
+    "kind": "TV New Source Construction",
+    "status": "Approval - Effective Immediately",
+    "date": "2025-01-28",
+    "role": "decision date",
+    "checks": [
+      [
+        1,
+        "141-47750-00642"
+      ],
+      [
+        1,
+        "January 28, 2025"
+      ],
+      [
+        1,
+        "Approval - Effective Immediately"
+      ],
+      [
+        8,
+        "County Location: St Joseph"
+      ],
+      [
+        8,
+        "stationary data center"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality"
+  },
+  {
+    "doc": "awsfinal",
+    "num": "141-48298-00650",
+    "name": "Amazon Data Services Incorporated",
+    "county": "St. Joseph County",
+    "kind": "TV New Source Construction",
+    "status": "Approval - Effective Immediately",
+    "date": "2025-05-01",
+    "role": "decision date",
+    "checks": [
+      [
+        1,
+        "141-48298-00650"
+      ],
+      [
+        1,
+        "May 1, 2025"
+      ],
+      [
+        1,
+        "Approval - Effective Immediately"
+      ],
+      [
+        8,
+        "County Location: St Joseph"
+      ],
+      [
+        8,
+        "stationary data center"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality"
+  },
+  {
+    "doc": "aws",
+    "num": "141-50362-00650",
+    "name": "Amazon Data Services, Inc.",
+    "county": "St. Joseph County",
+    "kind": "Significant Source Modification",
+    "status": "Draft Air Permit",
+    "date": "2026-10-19",
+    "role": "public comment period opened",
+    "checks": [
+      [
+        1,
+        "141-50362-00650"
+      ],
+      [
+        1,
+        "St. Joseph County"
+      ],
+      [
+        1,
+        "Preliminary Findings"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality",
+    "posting": "10/19/2026"
+  },
+  {
+    "doc": "aws",
+    "num": "141-50375-00650",
+    "name": "Amazon Data Services, Inc.",
+    "county": "St. Joseph County",
+    "kind": "Significant Permit Modification",
+    "status": "Draft Air Permit",
+    "date": "2026-10-19",
+    "role": "public comment period opened",
+    "checks": [
+      [
+        1,
+        "141-50375-00650"
+      ],
+      [
+        1,
+        "St. Joseph County"
+      ],
+      [
+        1,
+        "Preliminary Findings"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality",
+    "posting": "10/19/2026"
+  },
+  {
+    "doc": "eki",
+    "num": "141-50527-00655",
+    "name": "Microsoft EKI Campus",
+    "county": "St. Joseph County",
+    "kind": "FESOP New Source Construction",
+    "status": "Draft Air Permit",
+    "date": "2026-10-26",
+    "role": "public comment period opened",
+    "checks": [
+      [
+        1,
+        "141-50527-00655"
+      ],
+      [
+        1,
+        "St. Joseph County"
+      ],
+      [
+        1,
+        "Preliminary Findings"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality",
+    "posting": "10/26/2026"
+  },
+  {
+    "doc": "jasper",
+    "num": "073-50413-00077",
+    "name": "Amazon Data Services, Inc.",
+    "county": "Jasper County",
+    "kind": "New Source Construction and Part 70 Operating Permit",
+    "status": "Draft Air Permit",
+    "date": "2026-09-24",
+    "role": "public comment period opened",
+    "checks": [
+      [
+        1,
+        "073-50413-00077"
+      ],
+      [
+        1,
+        "Jasper County"
+      ],
+      [
+        1,
+        "Preliminary Findings"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality",
+    "posting": "09/24/2026"
+  },
+  {
+    "doc": "lake",
+    "num": "089-50590-00739",
+    "name": "Amazon Data Services, Inc.",
+    "county": "Lake County",
+    "kind": "FESOP New Source Construction",
+    "status": "Draft Air Permit",
+    "date": "2026-11-13",
+    "role": "public comment period opened",
+    "checks": [
+      [
+        1,
+        "089-50590-00739"
+      ],
+      [
+        1,
+        "Lake County"
+      ],
+      [
+        1,
+        "Preliminary Findings"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality",
+    "posting": "11/13/2026"
+  },
+  {
+    "doc": "lpo",
+    "num": "091-50526-00197",
+    "name": "Microsoft LPO Campus",
+    "county": "La Porte County",
+    "kind": "FESOP New Source Construction",
+    "status": "Draft Air Permit",
+    "date": "2026-10-29",
+    "role": "public comment period opened",
+    "checks": [
+      [
+        1,
+        "091-50526-00197"
+      ],
+      [
+        1,
+        "La Porte County"
+      ],
+      [
+        1,
+        "Preliminary Findings"
+      ]
+    ],
+    "dataset": "Indiana IDEM air decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Air Quality",
+    "posting": "10/29/2026"
+  },
+  {
+    "doc": "waterdef",
+    "num": "2025-78-71-ENH-WQC",
+    "name": "Amazon SBN 210",
+    "county": "St. Joseph County",
+    "kind": "Section 401 water quality certification",
+    "status": "Deficient Application & Non-Compliance",
+    "date": "2025-07-11",
+    "role": "deficiency letter date",
+    "checks": [
+      [
+        1,
+        "2025-78-71-ENH-WQC"
+      ],
+      [
+        1,
+        "July 11, 2025"
+      ],
+      [
+        1,
+        "Deficient Application & Non-Compliance"
+      ],
+      [
+        1,
+        "data center campus"
+      ]
+    ],
+    "dataset": "Indiana IDEM Waterways decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Water Quality"
+  },
+  {
+    "doc": "water",
+    "num": "2025-78-71-ENH-WQC-2",
+    "name": "Amazon Data Services Inc. / SBN 201 resubmittal",
+    "county": "St. Joseph County",
+    "kind": "Section 401 water quality certification",
+    "status": "PUBLIC HEARING NOTICE",
+    "date": "2026-06-03",
+    "role": "hearing notice publication date",
+    "checks": [
+      [
+        1,
+        "2025-78-71-ENH-WQC-2"
+      ],
+      [
+        1,
+        "June 3, 2026"
+      ],
+      [
+        1,
+        "PUBLIC HEARING NOTICE"
+      ],
+      [
+        1,
+        "resubmittal of an application"
+      ]
+    ],
+    "dataset": "Indiana IDEM Waterways decisions and notices",
+    "issuer": "Indiana Department of Environmental Management, Office of Water Quality"
+  },
+  {
+    "doc": "_05072026-2563",
+    "num": "26-12",
+    "name": "Hobart Owner LLC",
+    "county": null,
+    "city": "Hobart",
+    "kind": "Site plan review",
+    "status": "Site Plan Approval",
+    "date": "2026-05-07",
+    "role": "commission vote date",
+    "checks": [
+      [
+        1,
+        "Minutes of May 7, 2026"
+      ],
+      [
+        11,
+        "Site Plan Approval to Petition 26-12"
+      ],
+      [
+        11,
+        "All aye, motion carried. (8-0)"
+      ]
+    ],
+    "dataset": "City of Hobart Plan Commission minutes",
+    "issuer": "City of Hobart Plan Commission",
+    "verified_scan": true,
+    "scope_note": "Plan commission granted the site plan by an 8–0 vote."
+  },
+  {
+    "doc": "_05072026-2563",
+    "num": "26-16",
+    "name": "Hobart Owner LLC",
+    "county": null,
+    "city": "Hobart",
+    "kind": "Rezoning recommendation",
+    "status": "favorable recommendation",
+    "date": "2026-05-07",
+    "role": "commission vote date",
+    "checks": [
+      [
+        1,
+        "Minutes of May 7, 2026"
+      ],
+      [
+        11,
+        "favorable recommendation regarding the rezone under Petition 26-16"
+      ],
+      [
+        11,
+        "All aye, motion carried. (8-0)"
+      ]
+    ],
+    "dataset": "City of Hobart Plan Commission minutes",
+    "issuer": "City of Hobart Plan Commission",
+    "verified_scan": true,
+    "scope_note": "Recommendation to the legislative body, not final rezoning."
+  },
+  {
+    "doc": "_05072026-2563",
+    "num": "26-17",
+    "name": "Ewen Farm Resubdivision",
+    "county": null,
+    "city": "Hobart",
+    "kind": "Preliminary subdivision plat",
+    "status": "grant preliminary plat",
+    "date": "2026-05-07",
+    "role": "commission vote date",
+    "checks": [
+      [
+        1,
+        "Minutes of May 7, 2026"
+      ],
+      [
+        11,
+        "preliminary plat for a 2-lot subdivision under Petition 26-17"
+      ],
+      [
+        11,
+        "All aye, motion carried. (8-0)"
+      ]
+    ],
+    "dataset": "City of Hobart Plan Commission minutes",
+    "issuer": "City of Hobart Plan Commission",
+    "verified_scan": true,
+    "scope_note": "Two-lot preliminary plat; not final plat recording."
+  },
+  {
+    "doc": "_05072026-2563",
+    "num": "26-14",
+    "name": "Langan Engineering & Environmental Services",
+    "county": null,
+    "city": "Hobart",
+    "kind": "Site plan review",
+    "status": "Site Plan Approval",
+    "date": "2026-05-07",
+    "role": "commission vote date",
+    "checks": [
+      [
+        1,
+        "Minutes of May 7, 2026"
+      ],
+      [
+        14,
+        "Site Plan Approval to Petition 26-14"
+      ],
+      [
+        14,
+        "All aye, motion carried. (8-0)"
+      ]
+    ],
+    "dataset": "City of Hobart Plan Commission minutes",
+    "issuer": "City of Hobart Plan Commission",
+    "verified_scan": true,
+    "scope_note": "Approved with contingencies for third-party inspections and redesign of drainage and swales to city standards; 8–0."
+  },
+  {
+    "doc": "_05072026-2563",
+    "num": "26-18",
+    "name": "Hobart Tech Park",
+    "county": null,
+    "city": "Hobart",
+    "kind": "Preliminary subdivision plat",
+    "status": "grant preliminary plat",
+    "date": "2026-05-07",
+    "role": "commission vote date",
+    "checks": [
+      [
+        1,
+        "Minutes of May 7, 2026"
+      ],
+      [
+        14,
+        "preliminary plat for a 1-lot subdivision"
+      ],
+      [
+        14,
+        "All aye, motion carried. (8-0)"
+      ]
+    ],
+    "dataset": "City of Hobart Plan Commission minutes",
+    "issuer": "City of Hobart Plan Commission",
+    "verified_scan": true,
+    "scope_note": "One-lot preliminary plat, conditional on showing a 40-foot Colorado Street right of way; 8–0."
+  }
+]

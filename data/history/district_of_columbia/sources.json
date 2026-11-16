@@ -1,0 +1,356 @@
+{
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer?f=json": {
+    "sha256": "6c585129fe0c4fb50288bd23e828a547fc86de7e334666b35ce3d35bae333589",
+    "bytes": 7580,
+    "retrieved": "2026-11-16T15:31:14+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/17?f=json": {
+    "sha256": "53ad11f90a174f4a746032fc0363f8ef92a5e3a1a27113ab7770fed3ee70faf6",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:40+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/17?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2?f=json": {
+    "sha256": "5a2c29a73c782aa11e0c816a45a554fb0bc655190267a398033b2e9adca5c37b",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:14+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "04e3ea084cc3c5cd51989345de4e0f1eb31e60d3f822c66c3f75fdb333633ab6",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:16+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2/query?f=json&objectIds=1186819803&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "7edaef51d9b13ff29e5fcfe9f3bbe4c71efcb3134d192ed580a889b79de04f3e",
+    "bytes": 1456,
+    "retrieved": "2026-11-16T06:06:01+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2/query?f=json&objectIds=1186819803&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/3?f=json": {
+    "sha256": "58e94df37db45f208c8b3ee924166914d1eedddc675898182625ab7a13c1df4e",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:17+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/3?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/3/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:19+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/3/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5?f=json": {
+    "sha256": "e9ecb0c975439cbf171c2da828d6c63dba29c7f963f6cb38c3bbca25607561b7",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:19+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "3f308ffacb7d81e8a6a08f4879464fd4d3cfa473a7c0768a341870a66e3e64d3",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:20+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5/query?f=json&objectIds=1186732936&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "8d5b9a167804633f7a5921e1cb14a4142063e0f4bf0f3bdda47184783f59028d",
+    "bytes": 1245,
+    "retrieved": "2026-11-16T06:06:07+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5/query?f=json&objectIds=1186732936&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/6?f=json": {
+    "sha256": "e6ff373cc1009b622ad4bd16c49394440bdfe0a6cc01b93d9eca0fb4cda89a89",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:20+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/6?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/6/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:22+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/6/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7?f=json": {
+    "sha256": "7090ea8772662c95bd8c5e9ecf1edbd490535312f3f319f0fb603c1ca8aa2325",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:22+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "ab99e5a9b7e6c3bd1d2fc329de045a17c8d18b7b76bf6b235066eb34e2943277",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:24+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7/query?f=json&objectIds=1186768293&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "5fc56df9eac112fd550ca6cdac6d7bc8c32b6e28bdbfa58d587fa66ee4093c41",
+    "bytes": 1231,
+    "retrieved": "2026-11-16T06:06:11+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7/query?f=json&objectIds=1186768293&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/8?f=json": {
+    "sha256": "0536cd1c4b2982c00f4186514866beb609c77af6803a8892785ceb0c8903117d",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:24+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/8?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/8/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:26+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/8/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/9?f=json": {
+    "sha256": "42e4f4017618aeed36aeacacf03ada7dc0cc87cae357bdbe54b9a7c3ba42c0c0",
+    "bytes": 14192,
+    "retrieved": "2026-11-16T15:31:26+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/9?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/9/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:27+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/9/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10?f=json": {
+    "sha256": "e237a503652292a0b5f7cdaa9ad0b8166d3e2bd31886a9f7608ae3695bc18596",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:27+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "6569445d31e4d7d7050f3087966457970f14d80f12fe7fe66fba6f49140dd310",
+    "bytes": 112,
+    "retrieved": "2026-11-16T15:31:30+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10/query?f=json&objectIds=1186672822%2C1186725099%2C1186769831%2C1186770205%2C1187293216%2C1187294087&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "db1ef367fa8e0bf8e2b6db363cfeb8f37e6a1385952bbcb6b0cb58565676c9fc",
+    "bytes": 3246,
+    "retrieved": "2026-11-16T06:06:19+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10/query?f=json&objectIds=1186672822%2C1186725099%2C1186769831%2C1186770205%2C1187293216%2C1187294087&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11?f=json": {
+    "sha256": "e383cc5ef9d24803ab8e063f35451693b1fd7020336ad1e209bad39870b41b3a",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:30+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "9c7b51bf910e2e7b4356e78c7570f4a3f1f44cf061a59e722f123c254db129ef",
+    "bytes": 68,
+    "retrieved": "2026-11-16T15:31:32+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11/query?f=json&objectIds=1186698850%2C1186769651&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "c915e645c0c1f93d505a7b913cd2fa7ff999936c8172cebab649bc8d6a26cd9c",
+    "bytes": 1639,
+    "retrieved": "2026-11-16T06:06:21+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11/query?f=json&objectIds=1186698850%2C1186769651&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12?f=json": {
+    "sha256": "0f783e911f631388b3ce824ca6e0b25be6db8a257f8e9422087f60140233585b",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:33+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "3b33fbdce7076dddcbe7b0ea72d34db6e8983835719ea6a481650900352e1f1b",
+    "bytes": 68,
+    "retrieved": "2026-11-16T15:31:34+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12/query?f=json&objectIds=1186754339%2C1186763213&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "d304f1c0abb7cc0db2e6e545199d57ad15ee57a089595db07d7e1f7df0f87e71",
+    "bytes": 1849,
+    "retrieved": "2026-11-16T06:06:25+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12/query?f=json&objectIds=1186754339%2C1186763213&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/14?f=json": {
+    "sha256": "2fe7c0d92bd504afa585afb0dd705e2fbf94aad9552b1f9d69bc28257e34142e",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:35+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/14?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/14/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:36+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/14/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15?f=json": {
+    "sha256": "eb468e45009b8a798ab8b32782bc0f8b0e43d3919bb72cec5047a9b253711a8a",
+    "bytes": 14195,
+    "retrieved": "2026-11-16T15:31:36+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "d8c4ff268e54fefc2dce6c5272f7ed13a66b92431acaff0c6af3f839397ca9b4",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:38+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15/query?f=json&objectIds=1187132512&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "569c1d24fbb18cba16619e5ae5449a980110459ecbc5dccd4bf446e95c3cbc65",
+    "bytes": 1650,
+    "retrieved": "2026-11-16T06:06:29+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15/query?f=json&objectIds=1187132512&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16?f=json": {
+    "sha256": "2b6b49a13f93017e2b7fb24fe3af875375ae18a0a2e1937e0b5d23e31b7f3b34",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:38+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "9377a21c7bb80c9b50c632b07c9c109ae7791ee33477cb2381e48a39a0815276",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:40+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/query?f=json&objectIds=1187152339&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "8372b38f30e70fec39fe47b727bf6870146a848a5dcb994b0b21dd318a8fa0b6",
+    "bytes": 1399,
+    "retrieved": "2026-11-16T06:06:32+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/query?f=json&objectIds=1187152339&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/17/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:41+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/17/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/18?f=json": {
+    "sha256": "c1000b889c43d97e79877287f7eedd7406338f0c7cc3cd93386ea3772a5878c7",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:42+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/18?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/18/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+    "bytes": 49,
+    "retrieved": "2026-11-16T15:31:42+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/18/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24?f=json": {
+    "sha256": "56fc8ab79b9e1a679e20bc378ce425935b555d62da3ce25356b9d92449d2f607",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:42+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "000b78400162c6780a0d8ec47ce2826d176d58b95a754cb72d2ed3905cc9b62e",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:44+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24/query?f=json&objectIds=1186741116&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "5795d9f3d863a116c8010a044148197e0043625029b31fea6a2f2c45e03300e6",
+    "bytes": 1282,
+    "retrieved": "2026-11-16T06:06:36+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24/query?f=json&objectIds=1186741116&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25?f=json": {
+    "sha256": "061398d6a4bc39ca3713db894e9e36bd5a7381debcb578dd5f07881709f81fb1",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:44+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "f58368afd3eeb8e0b69ef4b0dd3f060cfa25e202f20d1fa2e704109623e94310",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:45+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25/query?f=json&objectIds=1186791232&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "ff77952c49443af0f2a9d964fd448dde28143ad9f9bbfc6f236f9f6645284a4e",
+    "bytes": 1215,
+    "retrieved": "2026-11-16T06:06:38+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25/query?f=json&objectIds=1186791232&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37?f=json": {
+    "sha256": "624f2715794c62932529d44405e7d2b0aaa9295bb9af4b5f4d00abfd91cfa435",
+    "bytes": 14193,
+    "retrieved": "2026-11-16T15:31:46+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37?f=json"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true": {
+    "sha256": "c4fde22da8aa6e4244806b179a163c957d58a0d04cd06041e57e4471e2568b77",
+    "bytes": 57,
+    "retrieved": "2026-11-16T15:31:47+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37/query?f=json&where=UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA-CENTER%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28DESC_OF_WORK%29+LIKE+%27%25SERVER+FARM%25%27&returnIdsOnly=true"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37/query?f=json&objectIds=1186799453&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "d998daa42f13e5804370416daa16ad97170de864a55e02d7e0dbb7e13cabb88e",
+    "bytes": 1277,
+    "retrieved": "2026-11-16T06:06:40+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37/query?f=json&objectIds=1186799453&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2/query?f=json&objectIds=1187628492&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "60ea2a606985ecfff59dfbea3b162742632b474950714c90014e58ce356a6762",
+    "bytes": 1456,
+    "retrieved": "2026-11-16T15:31:17+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/2/query?f=json&objectIds=1187628492&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5/query?f=json&objectIds=1187541821&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "71f8638227becbb14394d7a1939a1d62e74d13e978895d2ee0b2732ff908c808",
+    "bytes": 1245,
+    "retrieved": "2026-11-16T15:31:20+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/5/query?f=json&objectIds=1187541821&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7/query?f=json&objectIds=1187576913&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "0d0389abda05f3c235b2026428fd04f66f0a39c2835f9c9b0e3af2ca6701b217",
+    "bytes": 1231,
+    "retrieved": "2026-11-16T15:31:24+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/7/query?f=json&objectIds=1187576913&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10/query?f=json&objectIds=1187481903%2C1187491306%2C1187533717%2C1187558883%2C1187578688%2C1187579094&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "b090a6c171b4b2ea3467205466cca1c2440825ce2b0cda897ba3a91bf071e339",
+    "bytes": 3246,
+    "retrieved": "2026-11-16T15:31:30+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/10/query?f=json&objectIds=1187481903%2C1187491306%2C1187533717%2C1187558883%2C1187578688%2C1187579094&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11/query?f=json&objectIds=1187507540%2C1187578303&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "f5dfccf0ab5d027ffc2349d956437d15b569166bba81578a2eb1faaf977d2ee9",
+    "bytes": 1639,
+    "retrieved": "2026-11-16T15:31:32+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/11/query?f=json&objectIds=1187507540%2C1187578303&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12/query?f=json&objectIds=1187563007%2C1187572057&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "2a0d58f677495702f485ac10954c6646c15c60a63317e653d44f1362712b8687",
+    "bytes": 1849,
+    "retrieved": "2026-11-16T15:31:35+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/12/query?f=json&objectIds=1187563007%2C1187572057&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15/query?f=json&objectIds=1187941666&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "8dcba987ae53af20c755982942376b1f9dfd4d100998bcd368f4bbc777168a7d",
+    "bytes": 1650,
+    "retrieved": "2026-11-16T15:31:38+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/15/query?f=json&objectIds=1187941666&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/query?f=json&objectIds=1187961730&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "aca9c97ad16aaaa0b14c8433d27b8924fb388665c5391b0d902b6f7f0d5480f6",
+    "bytes": 1399,
+    "retrieved": "2026-11-16T15:31:40+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/query?f=json&objectIds=1187961730&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24/query?f=json&objectIds=1187549969&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "7807cb502e17a2f77363bbb02cb2d47138b269b5fb0a88a5318da4c68e6cb619",
+    "bytes": 1282,
+    "retrieved": "2026-11-16T15:31:44+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/24/query?f=json&objectIds=1187549969&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25/query?f=json&objectIds=1187599858&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "829809b96f6ded8b9c78001c0946fb2c3fb1bb9b7d6ee9394df7f351a0bd6d3a",
+    "bytes": 1215,
+    "retrieved": "2026-11-16T15:31:46+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/25/query?f=json&objectIds=1187599858&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  },
+  "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37/query?f=json&objectIds=1187608003&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false": {
+    "sha256": "d56fb0e4e8b0976cb16fe7486ea2eac64148d465b12b53f8e2ceefe61a5c8ef8",
+    "bytes": 1277,
+    "retrieved": "2026-11-16T15:31:47+00:00",
+    "resolved": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/37/query?f=json&objectIds=1187608003&outFields=OBJECTID%2CPERMIT_ID%2CISSUE_DATE%2CDESC_OF_WORK%2CAPPLICATION_STATUS_NAME%2CPERMIT_TYPE_NAME%2CPERMIT_SUBTYPE_NAME%2CWARD&returnGeometry=false"
+  }
+}

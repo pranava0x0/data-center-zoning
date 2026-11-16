@@ -1,0 +1,32 @@
+{
+  "20260901": {
+    "url": "https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=5cc05f3d22c94e3a9921ec730be886ec",
+    "sha256": "20642e1f1672fe02f7a9ace93fad0224a42d93c3a310d8255d99b38b41becf09",
+    "bytes": 15877,
+    "ext": "html"
+  },
+  "20250204": {
+    "url": "https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=0d52d3feca134c6ca4017df43f0e45c6",
+    "sha256": "0e6e8c3051b47d43d22f608c947081761eb585d516ff6502486a3a43289982c5",
+    "bytes": 22295,
+    "ext": "html"
+  },
+  "20241217": {
+    "url": "https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=2367c6dfeafa4031b4e7b824bbf613ad",
+    "sha256": "829043df8667bc1e637ededfefd096a5d9d256864c0ca7a577d01e2db8419e58",
+    "bytes": 13511,
+    "ext": "html"
+  },
+  "20231219": {
+    "url": "https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=eee85cd3aa0f4023bb662a6405cdd735",
+    "sha256": "d67eb7868172c91025f1f06a4bc2a6cf2bc7aaab5dd9be129f45b7bd50f92d66",
+    "bytes": 20515,
+    "ext": "html"
+  },
+  "20260707": {
+    "url": "https://meetings.municode.com/adaHtmlDocument/index?cc=EATNVLLEFL&ip=True&me=18ea706721f246eeb06a4e6f326d1ce9",
+    "sha256": "114c1944245be35598e4043c03068d5beff986bff7979396305ed641100f4ba4",
+    "bytes": 23769,
+    "ext": "html"
+  }
+}

@@ -1,0 +1,511 @@
+[
+  {
+    "state": "TN",
+    "jurisdiction": "Tennessee",
+    "url": "https://www.tn.gov/environment/policy/data-centers.html",
+    "depth": 0,
+    "sha256": "51a08bd59681b8d00b015f13cd53a95ef69801b55f1bc26752f9d9d18f32623a",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 0,
+        "end": 12,
+        "match": "Data Centers",
+        "context": "Data Centers Skip to Main Content Go to TN.gov Go to TN.gov Section Go to Environment & Conservation (TDEC) Program Areas Recycling Markets Air Archaeology Bureau of Conservation Energy Environmental Stewardship Tennessee"
+      },
+      {
+        "topic": "data_center",
+        "start": 1851,
+        "end": 1863,
+        "match": "Data Centers",
+        "context": "sion Reduction Strategy About Advisory Committee TVERS Engagement Resources Customer-Focused Government (CFG) & Strategic Planning Meet the Team Data Centers Data Centers Overview Data centers have attracted significant public attention nationwide. Although Tennessee has experienced less rapid buildout of data centers than data center hubs like Virginia, data cente"
+      },
+      {
+        "topic": "data_center",
+        "start": 1864,
+        "end": 1876,
+        "match": "Data Centers",
+        "context": "n Strategy About Advisory Committee TVERS Engagement Resources Customer-Focused Government (CFG) & Strategic Planning Meet the Team Data Centers Data Centers Overview Data centers have attracted significant public attention nationwide. Although Tennessee has experienced less rapid buildout of data centers than data center hubs like Virginia, data center operators a"
+      },
+      {
+        "topic": "data_center",
+        "start": 1886,
+        "end": 1898,
+        "match": "Data centers",
+        "context": "ory Committee TVERS Engagement Resources Customer-Focused Government (CFG) & Strategic Planning Meet the Team Data Centers Data Centers Overview Data centers have attracted significant public attention nationwide. Although Tennessee has experienced less rapid buildout of data centers than data center hubs like Virginia, data center operators are increasingly propos"
+      },
+      {
+        "topic": "data_center",
+        "start": 2013,
+        "end": 2025,
+        "match": "data centers",
+        "context": "Centers Overview Data centers have attracted significant public attention nationwide. Although Tennessee has experienced less rapid buildout of data centers than data center hubs like Virginia, data center operators are increasingly proposing to site facilities in Tennessee. No single government authority in Tennessee regulates all aspects of data center siting, c"
+      },
+      {
+        "topic": "data_center",
+        "start": 2031,
+        "end": 2042,
+        "match": "data center",
+        "context": "Data centers have attracted significant public attention nationwide. Although Tennessee has experienced less rapid buildout of data centers than data center hubs like Virginia, data center operators are increasingly proposing to site facilities in Tennessee. No single government authority in Tennessee regulates all aspects of data center siting, construction, and"
+      },
+      {
+        "topic": "data_center",
+        "start": 2063,
+        "end": 2074,
+        "match": "data center",
+        "context": "ificant public attention nationwide. Although Tennessee has experienced less rapid buildout of data centers than data center hubs like Virginia, data center operators are increasingly proposing to site facilities in Tennessee. No single government authority in Tennessee regulates all aspects of data center siting, construction, and operation. Instead, oversight is"
+      },
+      {
+        "topic": "data_center",
+        "start": 2214,
+        "end": 2225,
+        "match": "data center",
+        "context": "enter operators are increasingly proposing to site facilities in Tennessee. No single government authority in Tennessee regulates all aspects of data center siting, construction, and operation. Instead, oversight is distributed across local and state agencies. TDEC’s authority is limited to environmental requirements administered by the department. Issues such as"
+      },
+      {
+        "topic": "data_center",
+        "start": 2814,
+        "end": 2826,
+        "match": "data centers",
+        "context": "ically addressed through local government, utility, or other applicable review processes. This webpage provides a brief overview explaining what data centers are, how TDEC regulates activities related to data center construction and operation, and the aspects of data centers that TDEC does not regulate. TDEC is proactively working to better understand environmental"
+      },
+      {
+        "topic": "data_center",
+        "start": 2873,
+        "end": 2884,
+        "match": "data center",
+        "context": "r applicable review processes. This webpage provides a brief overview explaining what data centers are, how TDEC regulates activities related to data center construction and operation, and the aspects of data centers that TDEC does not regulate. TDEC is proactively working to better understand environmental considerations associated with data centers while applyin"
+      },
+      {
+        "topic": "data_center",
+        "start": 2932,
+        "end": 2944,
+        "match": "data centers",
+        "context": "f overview explaining what data centers are, how TDEC regulates activities related to data center construction and operation, and the aspects of data centers that TDEC does not regulate. TDEC is proactively working to better understand environmental considerations associated with data centers while applying existing regulatory requirements to this emerging sector."
+      },
+      {
+        "topic": "data_center",
+        "start": 3068,
+        "end": 3080,
+        "match": "data centers",
+        "context": "pects of data centers that TDEC does not regulate. TDEC is proactively working to better understand environmental considerations associated with data centers while applying existing regulatory requirements to this emerging sector. What is a data center? A data center is a building that contains and runs large computing systems. Data centers include computer servers"
+      },
+      {
+        "topic": "development",
+        "start": 4974,
+        "end": 4997,
+        "match": "construction stormwater",
+        "context": "pprove a data center project as a whole. Instead, TDEC reviews the parts of a project that may be subject to environmental requirements, such as construction stormwater, wastewater, water use, or equipment that produces air emissions. The TDEC-administered environmental permits or regulatory requirements that may apply to a data center depend on project-specific facts, includ"
+      },
+      {
+        "topic": "development",
+        "start": 10387,
+        "end": 10403,
+        "match": "land disturbance",
+        "context": "regulates activities on a data center campus that may impact water resources. These activities can include stormwater discharges associated with land disturbance as part of data center construction, discharges of wastewater from a data center, construction of a groundwater well, or a data center’s withdrawal of water from a surface stream. Local governments also play a"
+      },
+      {
+        "topic": "development",
+        "start": 10690,
+        "end": 10713,
+        "match": "construction stormwater",
+        "context": "drawal of water from a surface stream. Local governments also play a role in water quality regulation. Local governments generally regulate post-construction stormwater runoff concerns from developed sites. Local governments also maintain pretreatment programs that ensure municipal wastewater treatment plants can effectively treat wastewater discharges from industrial sources"
+      },
+      {
+        "topic": "water",
+        "start": 10784,
+        "end": 10796,
+        "match": "pretreatment",
+        "context": "ulation. Local governments generally regulate post-construction stormwater runoff concerns from developed sites. Local governments also maintain pretreatment programs that ensure municipal wastewater treatment plants can effectively treat wastewater discharges from industrial sources such as data centers. Water Permits Potentially Applicable to Data Centers Water D"
+      },
+      {
+        "topic": "water",
+        "start": 11005,
+        "end": 11022,
+        "match": "Discharge Permits",
+        "context": "effectively treat wastewater discharges from industrial sources such as data centers. Water Permits Potentially Applicable to Data Centers Water Discharge Permits Water discharge permits apply when certain wastewater, stormwater, or other water from regulated activities is discharged to waters of the state or to permitted wastewater systems. These permits are intended t"
+      },
+      {
+        "topic": "water",
+        "start": 11029,
+        "end": 11046,
+        "match": "discharge permits",
+        "context": "ater discharges from industrial sources such as data centers. Water Permits Potentially Applicable to Data Centers Water Discharge Permits Water discharge permits apply when certain wastewater, stormwater, or other water from regulated activities is discharged to waters of the state or to permitted wastewater systems. These permits are intended to protect water quality"
+      },
+      {
+        "topic": "water",
+        "start": 11364,
+        "end": 11381,
+        "match": "discharge permits",
+        "context": "re intended to protect water quality by establishing requirements for how those discharges are managed, monitored, and controlled. The following discharge permits may be applicable to data centers, depending on the facility’s construction activities, wastewater management approach, and site-specific conditions. NPDES Construction General Permit (CGP) Authorizes the disc"
+      },
+      {
+        "topic": "development",
+        "start": 11672,
+        "end": 11688,
+        "match": "land disturbance",
+        "context": "ons. NPDES Construction General Permit (CGP) Authorizes the discharge of stormwater from sites of construction activity with one or more acre of land disturbance, regardless of the type of project. The CGP is intended to minimize sediment leaving the construction site and to protect Tennessee surface waters. Permittees must follow CGP requirements, including erosion pr"
+      },
+      {
+        "topic": "water",
+        "start": 12141,
+        "end": 12157,
+        "match": "Discharge Permit",
+        "context": "t depend on the end use of the construction project and apply equally to construction of a data center, restaurant, or factory. NPDES Wastewater Discharge Permit Authorizes facilities to discharge pollutants from point sources into surface waters. The permit is intended to protect water quality by establishing discharge limits, monitoring requirements, and other condit"
+      },
+      {
+        "topic": "water",
+        "start": 12653,
+        "end": 12665,
+        "match": "Pretreatment",
+        "context": "data centers include cooling tower blowdown water, stormwater, and process wastewater discharged directly from data centers into surface waters. Pretreatment — Significant Industrial User (SIU) Applies to facilities discharging 25,000 gallons/day or more of process wastewater to a Publicly Owned Treatment Works (POTW), facilities that comprise 5% or more of POTW’s"
+      },
+      {
+        "topic": "water",
+        "start": 12952,
+        "end": 12964,
+        "match": "pretreatment",
+        "context": "eatment Works (POTW), facilities that comprise 5% or more of POTW’s hydraulic or organic capacity, and facilities subject to federal categorical pretreatment standards. Pretreatment requirements are intended to protect municipal wastewater treatment systems by ensuring that industrial wastewater is appropriately managed before entering the sewer system and does not"
+      },
+      {
+        "topic": "water",
+        "start": 12976,
+        "end": 12988,
+        "match": "Pretreatment",
+        "context": "cilities that comprise 5% or more of POTW’s hydraulic or organic capacity, and facilities subject to federal categorical pretreatment standards. Pretreatment requirements are intended to protect municipal wastewater treatment systems by ensuring that industrial wastewater is appropriately managed before entering the sewer system and does not interfere with treatmen"
+      },
+      {
+        "topic": "water",
+        "start": 13745,
+        "end": 13761,
+        "match": "Water Withdrawal",
+        "context": "ing that injected fluids are properly characterized and that injection wells are appropriately constructed, operated, monitored, and maintained. Water Withdrawal and Transfer Permits Water withdrawal and transfer permits apply when a facility proposes to withdraw water directly from surface waters or transfer water between river basins. These requirements are intended"
+      },
+      {
+        "topic": "water",
+        "start": 13783,
+        "end": 13799,
+        "match": "Water withdrawal",
+        "context": "characterized and that injection wells are appropriately constructed, operated, monitored, and maintained. Water Withdrawal and Transfer Permits Water withdrawal and transfer permits apply when a facility proposes to withdraw water directly from surface waters or transfer water between river basins. These requirements are intended to help evaluate potential effects on"
+      },
+      {
+        "topic": "water",
+        "start": 14080,
+        "end": 14096,
+        "match": "water withdrawal",
+        "context": "ns. These requirements are intended to help evaluate potential effects on water resources, aquatic habitat, and stream conditions. The following water withdrawal and transfer permits or requirements may be applicable to data centers, depending on the facility’s water source, location, and site-specific conditions.. Aquatic Resource Alteration Permit (ARAP) Required for"
+      },
+      {
+        "topic": "water",
+        "start": 14644,
+        "end": 14660,
+        "match": "Water Withdrawal",
+        "context": "tended to protect water quality and aquatic habitat by evaluating the potential effects of the proposed activity on the affected water resource. Water Withdrawal Registration Any user proposing to withdraw 10,000 or more gallons per day from surface or groundwater sources must register the withdrawal with DWR. Water withdrawal registration is intended to help TDEC trac"
+      },
+      {
+        "topic": "permission",
+        "start": 17989,
+        "end": 17999,
+        "match": "moratorium",
+        "context": "government Worker safety TOSHA/OSHA Cybersecurity and data privacy Other state/federal authorities, not TDEC What is the impact of a data center moratorium on TDEC’s permitting decisions? TDEC is aware of calls for moratoriums on data centers in various communities in Tennessee. TDEC’s environmental permitting responsibilities are separate from local zoning, land"
+      },
+      {
+        "topic": "permission",
+        "start": 18218,
+        "end": 18228,
+        "match": "moratorium",
+        "context": "data centers in various communities in Tennessee. TDEC’s environmental permitting responsibilities are separate from local zoning, land-use, or moratorium processes. If TDEC receives a permit application that meets applicable environmental requirements, TDEC is required to issue the permit or coverage. However, it’s important to note that a TDEC permit does not"
+      },
+      {
+        "topic": "permission",
+        "start": 18468,
+        "end": 18477,
+        "match": "moratoria",
+        "context": "nts, TDEC is required to issue the permit or coverage. However, it’s important to note that a TDEC permit does not supersede local zoning, local moratoria, or other applicable local, state, or federal requirements. Social Media facebook youtube linkedin Programs Air Environmental Stewardship Solid Waste Underground Storage Tanks Water Resources Accessibility - T"
+      }
+    ],
+    "links": [
+      [
+        3,
+        "https://www.tn.gov/environment/permits.html",
+        "Permitting"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/air.html",
+        "Air Permits"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/archaeology.html",
+        "Archaeology Permit"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/mineral-geologic.html",
+        "Mineral & Geologic Resources Permits"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/natural-areas.html",
+        "Natural Areas License and Permits"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/other.html",
+        "Other Permits"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/waste.html",
+        "Waste Permits"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/permits/water.html",
+        "Water Permits"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/policy.html",
+        "Policy & Planning"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/policy/cfg.html",
+        "Customer-Focused Government (CFG) & Strategic Planning"
+      ],
+      [
+        3,
+        "https://www.tn.gov/environment/program-areas/policy-planning.html",
+        "Policy & Planning"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TN",
+    "jurisdiction": "Tennessee",
+    "url": "https://www.tn.gov/environment/permits.html",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TN",
+    "jurisdiction": "Tennessee",
+    "url": "https://www.tn.gov/environment/permits/air.html",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TN",
+    "jurisdiction": "Tennessee",
+    "url": "https://www.tn.gov/environment/permits/archaeology.html",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "TN",
+    "jurisdiction": "Metropolitan Nashville and Davidson County",
+    "url": "https://nashville.legistar.com/LegislationDetail.aspx?FullText=1&GUID=007B8704-62ED-46D1-9E9A-8B3F778229A8&ID=8040869",
+    "depth": 0,
+    "sha256": "e0c6f3f5cd56dd1b07e3335c3ca72d05cf44cb2b14e48599c0f6d41614af3d61",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 570,
+        "end": 581,
+        "match": "data center",
+        "context": "Council On agenda: 7/21/2026 Final action: 7/21/2026 Title: An ordinance amending Title 17 of the Metropolitan Code of Laws, to add various new data center uses and related definitions and conditions to the Zoning Code (Proposal No. 2026Z-012TX-001). Sponsors: Rollin Horton, Delishia Porterfield, Brenda Gadd, Jordan Huffman, Ginny Welsch, Kyonzte Toombs, Jeff Pre"
+      },
+      {
+        "topic": "data_center",
+        "start": 2862,
+        "end": 2873,
+        "match": "data center",
+        "context": "cil filed Action details Meeting details Not available title An ordinance amending Title 17 of the Metropolitan Code of Laws, to add various new data center uses and related definitions and conditions to the Zoning Code (Proposal No. 2026Z-012TX-001). body BE IT ENACTED BY THE COUNCIL OF THE METROPOLITAN GOVERNMENT OF NASHVILLE AND DAVIDSON COUNTY: Section 1. That"
+      },
+      {
+        "topic": "data_center",
+        "start": 3660,
+        "end": 3671,
+        "match": "Data center",
+        "context": "ed to, air-cooled (dry) cooling, rear-door heat exchanger cooling, hybrid dry economizer cooling, direct-to-chip cooling, or immersion cooling. \"Data center\" means a physical room, building, or facility primarily used for housing and operating computer systems and associated equipment, including servers, data storage and processing systems, and accessory infrastru"
+      },
+      {
+        "topic": "data_center",
+        "start": 3976,
+        "end": 3987,
+        "match": "Data center",
+        "context": "ge and processing systems, and accessory infrastructure such as cooling systems, power generators, electrical substations, and network hardware. Data center includes “data center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage"
+      },
+      {
+        "topic": "data_center",
+        "start": 3998,
+        "end": 4009,
+        "match": "data center",
+        "context": "ems, and accessory infrastructure such as cooling systems, power generators, electrical substations, and network hardware. Data center includes “data center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the d"
+      },
+      {
+        "topic": "data_center",
+        "start": 4025,
+        "end": 4036,
+        "match": "data center",
+        "context": "ucture such as cooling systems, power generators, electrical substations, and network hardware. Data center includes “data center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the data center development, the"
+      },
+      {
+        "topic": "data_center",
+        "start": 4048,
+        "end": 4059,
+        "match": "data center",
+        "context": "systems, power generators, electrical substations, and network hardware. Data center includes “data center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the data center development, the square footage of any"
+      },
+      {
+        "topic": "data_center",
+        "start": 4072,
+        "end": 4083,
+        "match": "data center",
+        "context": "s, electrical substations, and network hardware. Data center includes “data center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the data center development, the square footage of any supporting uses, and the"
+      },
+      {
+        "topic": "data_center",
+        "start": 4099,
+        "end": 4110,
+        "match": "data center",
+        "context": "and network hardware. Data center includes “data center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the data center development, the square footage of any supporting uses, and the square footage of any addi"
+      },
+      {
+        "topic": "data_center",
+        "start": 4146,
+        "end": 4157,
+        "match": "data center",
+        "context": "a center - accessory”, “data center - small”, “data center - medium”, “data center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the data center development, the square footage of any supporting uses, and the square footage of any additional exterior equipment, such as substations,"
+      },
+      {
+        "topic": "data_center",
+        "start": 4218,
+        "end": 4229,
+        "match": "data center",
+        "context": "ata center - large”, and “data center - campus”. The square footage of a data center shall include the total square footage of each floor in the data center development, the square footage of any supporting uses, and the square footage of any additional exterior equipment, such as substations, electrical yards, mechanical yards, and all other exposed equipment, lo"
+      },
+      {
+        "topic": "data_center",
+        "start": 4519,
+        "end": 4530,
+        "match": "data center",
+        "context": "ical yards, mechanical yards, and all other exposed equipment, located within the property boundaries. A “server room” shall not be considered a data center. A collection of computer workstations configured solely for use by a principal use shall not be considered a data center. “Data center - accessory” means a data center of 5,000 square feet in size or less tha"
+      },
+      {
+        "topic": "equipment",
+        "start": 7284,
+        "end": 7292,
+        "match": "Megawatt",
+        "context": "ented in any application, utility request, marketing material, lease, development plan, financing document, public filing, or permit submittal. “Megawatt (MW)” means the unit of measurement for electricity that is equivalent to one million watts. “Server room” means a dedicated closet or room containing servers and/or other computer equipment that is less than"
+      },
+      {
+        "topic": "permission",
+        "start": 8337,
+        "end": 8354,
+        "match": "special exception",
+        "context": "n industrial use permitted with conditions (PC) in the IWD, IR, and IG zoning districts; “Data center - large” as an industrial use permitted by special exception (SE) in the IR and IG zoning districts; and “Data center - campus” as an industrial use not permitted in any zoning district. Section 3. That Section 17.16.090 of the Metropolitan Code is hereby amended by add"
+      },
+      {
+        "topic": "equipment",
+        "start": 21066,
+        "end": 21073,
+        "match": "setback",
+        "context": "ds. There shall be screening in the form of landscape buffer yard Standard D-1 plus an eight foot tall masonry wall applied outside of the front setback along all side and rear property lines of the parcel(s) containing the data center use. 3. Design standards. a. When within 300 feet of a publicly accessible road or right-of-way, a minimum of thirty percent ("
+      },
+      {
+        "topic": "permission",
+        "start": 37519,
+        "end": 37532,
+        "match": "permitted use",
+        "context": "ng associated definitions to the Zoning Code; assigning each new data center use to various zoning as either an accessory use (A), conditionally permitted use (PC), or a special exception (SE); creating new conditions for each data center use; and creating new application and continuing compliance requirements for data centers. Currently, data center is not a separa"
+      },
+      {
+        "topic": "permission",
+        "start": 37544,
+        "end": 37561,
+        "match": "special exception",
+        "context": "to the Zoning Code; assigning each new data center use to various zoning as either an accessory use (A), conditionally permitted use (PC), or a special exception (SE); creating new conditions for each data center use; and creating new application and continuing compliance requirements for data centers. Currently, data center is not a separately classified use within th"
+      },
+      {
+        "topic": "permission",
+        "start": 37896,
+        "end": 37904,
+        "match": "by right",
+        "context": "sified use within the Zoning Code. The Zoning Administrator classifies data centers as a general office use. The general office use is permitted by right (P) in the MUL, MUG, MUI, OL, OG, OR20 through OR40, ORI, CL, CS, CA, CF, DTC North, DTC South, DTC East, DTC West, DTC Central, SCC, SCR, IWD, and IR zoning districts. The general office use is permitted with"
+      },
+      {
+        "topic": "permission",
+        "start": 43939,
+        "end": 43956,
+        "match": "special exception",
+        "context": "t exceeding 100MW of electricity and which utilizes a dedicated power substation. The “data center - large” use is proposed to be permitted as a special exception (SE) in the IR, and IG zoning districts. Uses permitted by special exception require approval from the Board of Zoning Appeals (BZA), which includes a public hearing. Large data centers would be restricted fro"
+      },
+      {
+        "topic": "permission",
+        "start": 44016,
+        "end": 44033,
+        "match": "special exception",
+        "context": "ion. The “data center - large” use is proposed to be permitted as a special exception (SE) in the IR, and IG zoning districts. Uses permitted by special exception require approval from the Board of Zoning Appeals (BZA), which includes a public hearing. Large data centers would be restricted from locating on parcels that are located less than 2,640 feet from a residentia"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "TN",
+    "jurisdiction": "Metropolitan Nashville and Davidson County",
+    "url": "https://nashville.legistar.com/View.ashx?M=F&ID=15702335&GUID=178F127E-72C9-42EA-9836-D935A7FBAAD4",
+    "depth": 0,
+    "sha256": "f41960ad5f01afe613dfe504dd06698244d5ee83744d5b3d155d010d0552c364",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "permission",
+        "start": 174,
+        "end": 184,
+        "match": "moratorium",
+        "context": "ORDINANCE NO. BL2026-1448 Madam President – I move to amend Ordinance No. BL2026-1448 by amending Section 1 as follows: Section 1. That a moratorium is hereby declared upon the acceptance, processing, approval, and issuance of zoning, building, or grading permits or administrative appeals by the Metropolitan Department of Codes Administration and the M"
+      },
+      {
+        "topic": "development",
+        "start": 285,
+        "end": 300,
+        "match": "grading permits",
+        "context": "1 as follows: Section 1. That a moratorium is hereby declared upon the acceptance, processing, approval, and issuance of zoning, building, or grading permits or administrative appeals by the Metropolitan Department of Codes Administration and the Metropolitan Water Services Department for any data center development for property within Nashville & Davidson Coun"
+      },
+      {
+        "topic": "data_center",
+        "start": 441,
+        "end": 452,
+        "match": "data center",
+        "context": "mits or administrative appeals by the Metropolitan Department of Codes Administration and the Metropolitan Water Services Department for any data center development for property within Nashville & Davidson County until December 1, 2026 November 1, 2026 or the effective date of BL2026-1391 and BL2026-1392, whichever occurs first. SPONSORED BY:"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  }
+]

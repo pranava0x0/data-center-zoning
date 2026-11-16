@@ -1,0 +1,112 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2721%27&returnIdsOnly=true",
+      "sha256": "76f714c22ae092a3ee1c5aea33537126b21e2343029387b3e0d6d350fa99432e",
+      "bytes": 2315,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2721%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "765dc6c5a51ce9a0fdfcda1078ae5981a21dfb1a53a312f1d528dad47e77bc25",
+      "bytes": 2068981,
+      "ext": "json"
+    }
+  },
+  "planning": {
+    "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26",
+    "where": "RECORD_NUMBER='25-CAT3-0015'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26?f=json",
+      "sha256": "c3b6f14f7528a5554cef58abb17589e04d9bd38d982fd84693a66b918620fc9e",
+      "bytes": 5557,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&where=RECORD_NUMBER%3D%2725-CAT3-0015%27&returnIdsOnly=true",
+      "sha256": "63c44d7ea904e11a34bc33ff05623d93b50223498aafe64e073940d9fd93cfa0",
+      "bytes": 52,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=56528&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+        "sha256": "2a2cec5349034d97ee335d6cae5f3c6ca5a648c33723c0fc33bc7860ea2c04ee",
+        "bytes": 1349,
+        "ext": "json"
+      }
+    ]
+  },
+  "airboard": {
+    "url": "https://louisvilleky.gov/government/air-pollution-control-district/september-16-board-meeting",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "case": {
+    "url": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+    "sha256": "24f46c9e55437f22125c145be8938f4f14a9e460200219f8cc034ff3dcd67f7b",
+    "bytes": 217663,
+    "ext": "pdf"
+  },
+  "psc": {
+    "url": "https://psc.ky.gov/order_vault/Orders_2025/202500045_03272025.pdf",
+    "sha256": "2bf19a91574637d614f7a0673c8b66619c5fefc73a42a6b62c6f2008a4d56c2e",
+    "bytes": 272524,
+    "ext": "pdf"
+  },
+  "plans": {
+    "url": "https://eec.ky.gov/Energy/Programs/Pages/Data-Center-Energy-Plans.aspx",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  "hearing": {
+    "url": "https://louisvilleky.new.swagit.com/events/45332",
+    "sha256": "5d303df76600d04c5fa6e86296f0eed21850bee68796ef9c6d1ca99035f1a6e0",
+    "bytes": 126165,
+    "ext": "html"
+  },
+  "oldham": {
+    "url": "https://www.oldhamcountyky.gov/projectlincoln",
+    "sha256": "8312e80fe56a77ff31d6b049fc327381107d130c3c4d3bf21bc2a07465b3c318",
+    "bytes": 152347,
+    "ext": "html"
+  },
+  "hwy": {
+    "url": "https://irp.cdn-website.com/fd0fc3bd/files/uploaded/Hwy_53_Withdrawl_Letter.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "dw": {
+    "url": "https://irp.cdn-website.com/fd0fc3bd/files/uploaded/Withdrawal+Email-WEB.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "prior": {
+    "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26",
+    "where": "RECORD_NUMBER='25-CAT3-0006'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26?f=json",
+      "sha256": "c3b6f14f7528a5554cef58abb17589e04d9bd38d982fd84693a66b918620fc9e",
+      "bytes": 5557,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&where=RECORD_NUMBER%3D%2725-CAT3-0006%27&returnIdsOnly=true",
+      "sha256": "2e775e54f1520ba6434b6d61f7d7a178d8c393e5e978c8b54da9ac46b8d45ccb",
+      "bytes": 52,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26/query?f=json&objectIds=54525&outFields=OBJECTID%2CRECORD_NUMBER%2CRECORD_OPEN_DATE%2CRECORD_STATUS%2CRECORD_STATUS_DATE%2CRECORD_TYPE%2CRECORD_TYPE_SUBTYPE%2CRECORD_TYPE_CATEGORY&returnGeometry=false",
+        "sha256": "e5102a8386b8005f404fd7b618fddf4cf5539b2463dca85aaf632e1cb7c1ddc1",
+        "bytes": 1349,
+        "ext": "json"
+      }
+    ]
+  }
+}

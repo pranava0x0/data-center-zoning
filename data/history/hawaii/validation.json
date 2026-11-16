@@ -1,0 +1,11 @@
+{
+  "events": 7,
+  "datasets": {
+    "Honolulu historical building permits": 5,
+    "Hawaii environmental review notices": 2
+  },
+  "geography": {
+    "markers": 0,
+    "outside": {}
+  }
+}

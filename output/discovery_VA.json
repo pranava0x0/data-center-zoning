@@ -1,0 +1,1158 @@
+[
+  {
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "url": "https://www.loudoun.gov/5990/Data-Center-Standards-Locations",
+    "depth": 0,
+    "sha256": "35a4c119ba542d0041d50c52037c629a8c42f1b0c53018e2d3a53a2d46364e08",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 0,
+        "end": 11,
+        "match": "Data Center",
+        "context": "Data Center Standards & Locations | Loudoun County, VA - Official Website Skip to Main Content Government Residents Services Departments & Offices Business Search Home Departments & Offices Planning & Zoning Planning Data"
+      },
+      {
+        "topic": "data_center",
+        "start": 217,
+        "end": 228,
+        "match": "Data Center",
+        "context": "e Skip to Main Content Government Residents Services Departments & Offices Business Search Home Departments & Offices Planning & Zoning Planning Data Center Standards & Locations Data Center Standards & Locations News and Announcements Informational materials prepared for the Data Center Standards & Locations project open houses in September are online here. Proje"
+      },
+      {
+        "topic": "data_center",
+        "start": 251,
+        "end": 262,
+        "match": "Data Center",
+        "context": "Residents Services Departments & Offices Business Search Home Departments & Offices Planning & Zoning Planning Data Center Standards & Locations Data Center Standards & Locations News and Announcements Informational materials prepared for the Data Center Standards & Locations project open houses in September are online here. Project Information On February 6, 2024"
+      },
+      {
+        "topic": "data_center",
+        "start": 349,
+        "end": 360,
+        "match": "Data Center",
+        "context": "ing Planning Data Center Standards & Locations Data Center Standards & Locations News and Announcements Informational materials prepared for the Data Center Standards & Locations project open houses in September are online here. Project Information On February 6, 2024, the Loudoun County Board of Supervisors initiated a project to review and update policies and st"
+      },
+      {
+        "topic": "data_center",
+        "start": 582,
+        "end": 593,
+        "match": "data center",
+        "context": "ect Information On February 6, 2024, the Loudoun County Board of Supervisors initiated a project to review and update policies and standards for data center and electrical substation uses. On July 2, 2024, the Board approved an Intent to Amend the Zoning Ordinance and the Revised Project Plan for Data Center Standards and Locations (CPAM-2024-0001 and ZOAM-2024-00"
+      },
+      {
+        "topic": "data_center",
+        "start": 735,
+        "end": 746,
+        "match": "Data Center",
+        "context": "ter and electrical substation uses. On July 2, 2024, the Board approved an Intent to Amend the Zoning Ordinance and the Revised Project Plan for Data Center Standards and Locations (CPAM-2024-0001 and ZOAM-2024-0001), which separated the project into two phases. Phase 1, approved on March 18, 2025, focused on proposed map and text amendments to the Loudoun County"
+      },
+      {
+        "topic": "data_center",
+        "start": 1049,
+        "end": 1061,
+        "match": "data centers",
+        "context": "posed map and text amendments to the Loudoun County 2019 Comprehensive Plan, and amendments to the Loudoun County Zoning Ordinance, to designate data centers as a conditional or Special Exception (SPEX) use in areas where the uses were previously allowed by-right. Phase 2, now underway, will focus on establishing new potential policy guidance and new use-specific z"
+      },
+      {
+        "topic": "permission",
+        "start": 1082,
+        "end": 1099,
+        "match": "Special Exception",
+        "context": "the Loudoun County 2019 Comprehensive Plan, and amendments to the Loudoun County Zoning Ordinance, to designate data centers as a conditional or Special Exception (SPEX) use in areas where the uses were previously allowed by-right. Phase 2, now underway, will focus on establishing new potential policy guidance and new use-specific zoning standards for data centers and u"
+      },
+      {
+        "topic": "permission",
+        "start": 1159,
+        "end": 1167,
+        "match": "by-right",
+        "context": "nty Zoning Ordinance, to designate data centers as a conditional or Special Exception (SPEX) use in areas where the uses were previously allowed by-right. Phase 2, now underway, will focus on establishing new potential policy guidance and new use-specific zoning standards for data centers and utility substations. Phase 1 Phase 2 Interactive Map: Existing & Prop"
+      },
+      {
+        "topic": "data_center",
+        "start": 1291,
+        "end": 1303,
+        "match": "data centers",
+        "context": "usly allowed by-right. Phase 2, now underway, will focus on establishing new potential policy guidance and new use-specific zoning standards for data centers and utility substations. Phase 1 Phase 2 Interactive Map: Existing & Proposed Data Centers Grandfathering Resolution The Board also adopted a Grandfathering Resolution. This resolution outlines rules under whi"
+      },
+      {
+        "topic": "data_center",
+        "start": 1382,
+        "end": 1394,
+        "match": "Data Centers",
+        "context": "cy guidance and new use-specific zoning standards for data centers and utility substations. Phase 1 Phase 2 Interactive Map: Existing & Proposed Data Centers Grandfathering Resolution The Board also adopted a Grandfathering Resolution. This resolution outlines rules under which certain data center applications accepted prior to February 12, 2025, may continue to be"
+      },
+      {
+        "topic": "data_center",
+        "start": 1524,
+        "end": 1535,
+        "match": "data center",
+        "context": "ed Data Centers Grandfathering Resolution The Board also adopted a Grandfathering Resolution. This resolution outlines rules under which certain data center applications accepted prior to February 12, 2025, may continue to be reviewed and processed without obtaining SPEX approval for a data center use. Read the adopted Grandfathering Resolution (PDF). Application"
+      },
+      {
+        "topic": "data_center",
+        "start": 1666,
+        "end": 1677,
+        "match": "data center",
+        "context": "in data center applications accepted prior to February 12, 2025, may continue to be reviewed and processed without obtaining SPEX approval for a data center use. Read the adopted Grandfathering Resolution (PDF). Application Pathway Guide: Understanding the Data Center ZOAM and Grandfathering Resolution To help applicants navigate the new Zoning Ordinance provision"
+      },
+      {
+        "topic": "data_center",
+        "start": 1778,
+        "end": 1789,
+        "match": "Data Center",
+        "context": "ut obtaining SPEX approval for a data center use. Read the adopted Grandfathering Resolution (PDF). Application Pathway Guide: Understanding the Data Center ZOAM and Grandfathering Resolution To help applicants navigate the new Zoning Ordinance provisions and Grandfathering Resolution, the county has developed a resource intended to clarify how the ZOAM and the Gr"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://experience.arcgis.com/experience/0c2021535c3f47589d1a10d6d0e2948c/",
+        "Interactive Map: Existing & Proposed Data Centers"
+      ],
+      [
+        8,
+        "https://www.loudoun.gov/FormCenter/Planning-and-Zoning-19/Data-Center-Standards-and-Locations-Phas-496",
+        "Submit an online comment to staff about Phase 2 of the Data Center Standards and Locations project."
+      ],
+      [
+        8,
+        "https://www.loudoun.gov/datacenters",
+        "General Information about Data Centers in Loudoun County"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/1058/Planning",
+        "Planning"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/123/Planning-Zoning",
+        "Planning & Zoning"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/1755/Zoning-Ordinance",
+        "Loudoun County Zoning Ordinance"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/2203/Meeting-Videos",
+        "Board of Supervisors and Planning Commission meetings"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/4241/Permits",
+        "PERMITS & LICENSES"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/5501/Comprehensive-PlanZoning-Ordinance-Amend",
+        "Ongoing Comprehensive Plan and Zoning Ordinance Amendments"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/Blog.aspx?CID=22",
+        "View all Zoning Ordinance and Comprehensive Plan Amendment updates"
+      ],
+      [
+        2,
+        "https://www.loudoun.gov/DocumentCenter/View/215835",
+        "Read the adopted Grandfathering Resolution (PDF)"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "url": "https://www.loudoun.gov/FormCenter/Planning-and-Zoning-19/Data-Center-Standards-and-Locations-Phas-496",
+    "depth": 1,
+    "sha256": "4df593a3dcc3ca63f13ba759c9b875daee073dec062797a71417746822348008",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 14,
+        "end": 25,
+        "match": "Data Center",
+        "context": "Form Center • Data Center Standards and Locations Phase 2 Co Skip to Main Content Government Residents Services Departments & Offices Business Search Home Form Center Search Forms by: Select a Category Select category/categories to fil"
+      },
+      {
+        "topic": "data_center",
+        "start": 975,
+        "end": 986,
+        "match": "Data Center",
+        "context": "sion Workforce Resource Center Youth Services Search By signing in or creating an account, some fields will auto-populate with your information. Data Center Standards and Locations Phase 2 Comment Form Sign in to Save Progress This form has been modified since it was saved. Please review all fields before submitting. * indicates a required field On September 16, 2"
+      },
+      {
+        "topic": "data_center",
+        "start": 1254,
+        "end": 1265,
+        "match": "Data Center",
+        "context": "se review all fields before submitting. * indicates a required field On September 16, 2025, the Loudoun County Board of Supervisors approved the Data Center Standards and Locations Phase 2 Project Plan, initiating the process to amend and refine the County’s land use policies and regulations for data centers and related land uses. Phase 2 is primarily intended to"
+      },
+      {
+        "topic": "data_center",
+        "start": 1406,
+        "end": 1418,
+        "match": "data centers",
+        "context": "nter Standards and Locations Phase 2 Project Plan, initiating the process to amend and refine the County’s land use policies and regulations for data centers and related land uses. Phase 2 is primarily intended to identify and mitigate anticipated data center compatibility issues through the Special Exception (SPEX) process. Phase 2 will consider evolving industry"
+      },
+      {
+        "topic": "data_center",
+        "start": 1509,
+        "end": 1520,
+        "match": "data center",
+        "context": "y’s land use policies and regulations for data centers and related land uses. Phase 2 is primarily intended to identify and mitigate anticipated data center compatibility issues through the Special Exception (SPEX) process. Phase 2 will consider evolving industry operational needs and seek to appropriately mitigate adverse impacts without unduly burdening existing"
+      },
+      {
+        "topic": "permission",
+        "start": 1554,
+        "end": 1571,
+        "match": "Special Exception",
+        "context": "a centers and related land uses. Phase 2 is primarily intended to identify and mitigate anticipated data center compatibility issues through the Special Exception (SPEX) process. Phase 2 will consider evolving industry operational needs and seek to appropriately mitigate adverse impacts without unduly burdening existing data centers or hindering appropriate redevelopmen"
+      },
+      {
+        "topic": "data_center",
+        "start": 1731,
+        "end": 1743,
+        "match": "data centers",
+        "context": ". Phase 2 will consider evolving industry operational needs and seek to appropriately mitigate adverse impacts without unduly burdening existing data centers or hindering appropriate redevelopment and reinvestment. For more information on Phase 2, please see the project page. Use this form to submit a comment to county staff regarding the Data Center Standards and"
+      },
+      {
+        "topic": "data_center",
+        "start": 1927,
+        "end": 1938,
+        "match": "Data Center",
+        "context": "and reinvestment. For more information on Phase 2, please see the project page. Use this form to submit a comment to county staff regarding the Data Center Standards and Locations Project Phase 2. There is no deadline for public comments for Phase 2. This comment form will remain open and available for throughout the entirety of the Phase 2 project. Comments rece"
+      },
+      {
+        "topic": "data_center",
+        "start": 2526,
+        "end": 2537,
+        "match": "Data Center",
+        "context": "Planning Commission and Board of Supervisors at future meetings. First Name* Last Name* Zip Code* Please provide your comments on Phase 2 of the Data Center Standards and Locations project below. File Upload If you would like to share a letter or other attachments, please upload your Word or PDF file here. Thank you for your time and input! Leave This Blank: Recei"
+      }
+    ],
+    "links": [
+      [
+        3,
+        "https://www.loudoun.gov/4241/Permits",
+        "PERMITS & LICENSES"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "url": "https://www.loudoun.gov/datacenters",
+    "depth": 1,
+    "sha256": "e4ff6edd3b6e33215f5c31d452471fa19a2ebbf4398aa0ed78ead2335300b1bb",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 0,
+        "end": 12,
+        "match": "Data Centers",
+        "context": "Data Centers in Loudoun County | Loudoun County, VA - Official Website Skip to Main Content Government Residents Services Departments & Offices Business Search Home Departments & Offices County Administrator Data Centers i"
+      },
+      {
+        "topic": "data_center",
+        "start": 208,
+        "end": 220,
+        "match": "Data Centers",
+        "context": "Website Skip to Main Content Government Residents Services Departments & Offices Business Search Home Departments & Offices County Administrator Data Centers in Loudoun County Data Centers in Loudoun County As the home of the world‘s largest concentration of data centers, Loudoun County has a unique perspective on the development of the data center industry. Throug"
+      },
+      {
+        "topic": "data_center",
+        "start": 239,
+        "end": 251,
+        "match": "Data Centers",
+        "context": "vernment Residents Services Departments & Offices Business Search Home Departments & Offices County Administrator Data Centers in Loudoun County Data Centers in Loudoun County As the home of the world‘s largest concentration of data centers, Loudoun County has a unique perspective on the development of the data center industry. Through the topics below, Loudoun is"
+      },
+      {
+        "topic": "data_center",
+        "start": 322,
+        "end": 334,
+        "match": "data centers",
+        "context": "& Offices County Administrator Data Centers in Loudoun County Data Centers in Loudoun County As the home of the world‘s largest concentration of data centers, Loudoun County has a unique perspective on the development of the data center industry. Through the topics below, Loudoun is sharing its data center story and the valuable lessons learned about how data cente"
+      },
+      {
+        "topic": "data_center",
+        "start": 402,
+        "end": 413,
+        "match": "data center",
+        "context": "udoun County As the home of the world‘s largest concentration of data centers, Loudoun County has a unique perspective on the development of the data center industry. Through the topics below, Loudoun is sharing its data center story and the valuable lessons learned about how data centers can impact a community. Fact Sheets Data Center Fact Sheet (PDF) Stay Inform"
+      },
+      {
+        "topic": "data_center",
+        "start": 473,
+        "end": 484,
+        "match": "data center",
+        "context": "enters, Loudoun County has a unique perspective on the development of the data center industry. Through the topics below, Loudoun is sharing its data center story and the valuable lessons learned about how data centers can impact a community. Fact Sheets Data Center Fact Sheet (PDF) Stay Informed and Get Involved: Information for Loudoun County Residents (PDF) Lou"
+      },
+      {
+        "topic": "data_center",
+        "start": 534,
+        "end": 546,
+        "match": "data centers",
+        "context": "pment of the data center industry. Through the topics below, Loudoun is sharing its data center story and the valuable lessons learned about how data centers can impact a community. Fact Sheets Data Center Fact Sheet (PDF) Stay Informed and Get Involved: Information for Loudoun County Residents (PDF) Loudoun's Data Center Story Public Safety & Security Water Consid"
+      },
+      {
+        "topic": "data_center",
+        "start": 583,
+        "end": 594,
+        "match": "Data Center",
+        "context": "pics below, Loudoun is sharing its data center story and the valuable lessons learned about how data centers can impact a community. Fact Sheets Data Center Fact Sheet (PDF) Stay Informed and Get Involved: Information for Loudoun County Residents (PDF) Loudoun's Data Center Story Public Safety & Security Water Considerations Energy Issues & Considerations Noise &"
+      },
+      {
+        "topic": "data_center",
+        "start": 701,
+        "end": 712,
+        "match": "Data Center",
+        "context": "t a community. Fact Sheets Data Center Fact Sheet (PDF) Stay Informed and Get Involved: Information for Loudoun County Residents (PDF) Loudoun's Data Center Story Public Safety & Security Water Considerations Energy Issues & Considerations Noise & Air Quality Concerns Appearance, Land Values & Workforce Tax Revenues & County Budget Land Use Considerations General"
+      },
+      {
+        "topic": "data_center",
+        "start": 932,
+        "end": 943,
+        "match": "Data Center",
+        "context": "erations Noise & Air Quality Concerns Appearance, Land Values & Workforce Tax Revenues & County Budget Land Use Considerations General Resources Data Center Standards and Locations CPAM and ZOAM Map: Existing and Proposed Data Centers Loudoun County Comprehensive Plan Loudoun County Zoning Ordinance Ongoing Comprehensive Plan and Zoning Ordinance Amendments Transm"
+      },
+      {
+        "topic": "data_center",
+        "start": 1009,
+        "end": 1021,
+        "match": "Data Centers",
+        "context": "Revenues & County Budget Land Use Considerations General Resources Data Center Standards and Locations CPAM and ZOAM Map: Existing and Proposed Data Centers Loudoun County Comprehensive Plan Loudoun County Zoning Ordinance Ongoing Comprehensive Plan and Zoning Ordinance Amendments Transmission Lines in Loudoun County Loudoun County Department of Economic Developme"
+      },
+      {
+        "topic": "data_center",
+        "start": 1235,
+        "end": 1247,
+        "match": "Data Centers",
+        "context": "going Comprehensive Plan and Zoning Ordinance Amendments Transmission Lines in Loudoun County Loudoun County Department of Economic Development: Data Centers Resources for Residents Report an Issue/Noise Complaint in LEx LandMARC, Loudoun County's online land management system Watch and Participate in Board of Supervisors and Planning Commission meetings Sign up fo"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://experience.arcgis.com/experience/0c2021535c3f47589d1a10d6d0e2948c/",
+        "Map: Existing and Proposed Data Centers"
+      ],
+      [
+        8,
+        "https://loudounpossible.com/data-centers",
+        "Loudoun County Department of Economic Development: Data Centers"
+      ],
+      [
+        8,
+        "https://www.loudoun.gov/6408/Data-Centers-The-Loudoun-Story",
+        "Loudoun's Data Center Story"
+      ],
+      [
+        8,
+        "https://www.loudoun.gov/DocumentCenter/View/222193",
+        "Data Center Fact Sheet (PDF)"
+      ],
+      [
+        8,
+        "https://www.loudoun.gov/datacenterstandards",
+        "Data Center Standards and Locations CPAM and ZOAM"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/1755/Zoning-Ordinance",
+        "Loudoun County Zoning Ordinance"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/2203/Meeting-Videos",
+        "Watch and Participate in Board of Supervisors and Planning Commission meetings"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/4241/Permits",
+        "PERMITS & LICENSES"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/5501/Comprehensive-PlanZoning-Ordinance-Amend",
+        "Ongoing Comprehensive Plan and Zoning Ordinance Amendments"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/6410/Data-Centers-Land-Use",
+        "Land Use Considerations"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "url": "https://www.loudoun.gov/1058/Planning",
+    "depth": 1,
+    "sha256": "943d9608e96bdf4831a6e100919b0b04c51ab1833d0ebfa241f2ff8253bef601",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 487,
+        "end": 498,
+        "match": "Data Center",
+        "context": "y. Area / Strategic Plans Browse through plans for bicycle and pedestrian mobility, health care facilities, housing, and solid waste management. Data Center Standards & Locations Information and updates about the data center standards and locations comprehensive plan and zoning ordinance amendments. Electrical Infrastructure Comprehensive Plan Amendment The propos"
+      },
+      {
+        "topic": "data_center",
+        "start": 555,
+        "end": 566,
+        "match": "data center",
+        "context": "trian mobility, health care facilities, housing, and solid waste management. Data Center Standards & Locations Information and updates about the data center standards and locations comprehensive plan and zoning ordinance amendments. Electrical Infrastructure Comprehensive Plan Amendment The proposed Electrical Infrastructure Comprehensive Plan Amendment will adopt"
+      },
+      {
+        "topic": "data_center",
+        "start": 2735,
+        "end": 2746,
+        "match": "Data Center",
+        "context": "will need to transition to the current Loudoun County Zoning Ordinance. Agricultural & Forestal Districts Aviation Noise Area / Strategic Plans Data Center Standards & Locations Electrical Infrastructure Comprehensive Plan Amendment Gloucester Parkway Comprehensive Plan Amendment Historic & Heritage Resources Historical Planning Documents Archive Loudoun County C"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://www.loudoun.gov/5990/Data-Center-Standards-Locations",
+        "Data Center Standards & Locations"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/123/Planning-Zoning",
+        "Planning & Zoning"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/1839/Planning-Commission",
+        "Planning Commission"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/3816/Historical-Planning-Documents-Archive",
+        "Historical Planning Documents Archive"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/4241/Permits",
+        "PERMITS & LICENSES"
+      ],
+      [
+        3,
+        "https://www.loudoun.gov/6351/Route-28-Tax-District-Zoning-and-Compreh",
+        "Route 28 Tax District Zoning and Comprehensive Plan Amendments"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "url": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "depth": 0,
+    "sha256": "cfb63fa402508058e72be027611ad0ff20c0a60ccb4e5b9052c046a3925a2ca7",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 0,
+        "end": 12,
+        "match": "Data Centers",
+        "context": "Data Centers – Adopted Zoning Ordinance Amendment | Planning Development Skip to main content FFX Global Navigation Planning & Development Home About Us Boards & Commissions Board of Supervisors Board of Zoning Appeals Pla"
+      },
+      {
+        "topic": "data_center",
+        "start": 1789,
+        "end": 1801,
+        "match": "Data Centers",
+        "context": "erans New Residents Older Adults Parents People with Disabilities Volunteers More Land Use & Planning Comprehensive Plan County Capital Projects Data Centers Land Records Parks Planning Planning Projects Research Tools Transportation Projects Urban Centers More Library & Education Adult Education Early Childhood Programs Library Branches Library Catalog Search Publ"
+      },
+      {
+        "topic": "development",
+        "start": 3071,
+        "end": 3087,
+        "match": "Building Permits",
+        "context": "te Air Quality Climate Action Dashboard Extreme Heat Floods Ready Fairfax Resilient Fairfax Snow Tornadoes More Business Business & Construction Building Permits Code & Zoning Land Use More Business Services Business Emergency Preparedness Business Taxes Consumer Services Employer Transportation Service Green Business Partners Program Home-Based Business Regulation & L"
+      },
+      {
+        "topic": "data_center",
+        "start": 5466,
+        "end": 5478,
+        "match": "Data Centers",
+        "context": "nslation\" powered by Google Translate. Disclaimer Start voice input Live Chat Available Zoning Administration Division Home Planning Development Data Centers – Adopted Zoning Ordinance Amendment Department of Planning and Development Alert: CONTACT INFORMATION: Our offices are open 8:00 a.m. to 4:00 p.m., Monday through Friday. 703-324-1314 TTY 711 ordadmin@fairfax"
+      },
+      {
+        "topic": "data_center",
+        "start": 6997,
+        "end": 7009,
+        "match": "Data Centers",
+        "context": "uilding Height Home Day Care Facilities Recently Adopted Amendments Work Program zMOD (Historical) Zoning Amendment Outreach Zoning Map facebook Data Centers – Adopted Zoning Ordinance Amendment On March 19, 2024, the Board of Supervisors (Board) directed staff to prepare a Zoning Ordinance amendment to strengthen the current provisions for data centers. This amend"
+      },
+      {
+        "topic": "data_center",
+        "start": 7195,
+        "end": 7207,
+        "match": "data centers",
+        "context": "March 19, 2024, the Board of Supervisors (Board) directed staff to prepare a Zoning Ordinance amendment to strengthen the current provisions for data centers. This amendment revised the permissions and standards for data centers. Adopted Text The Board of Supervisors adopted the Data Centers Zoning Ordinance Amendment on September 10, 2024, which became effective S"
+      },
+      {
+        "topic": "data_center",
+        "start": 7266,
+        "end": 7278,
+        "match": "data centers",
+        "context": "are a Zoning Ordinance amendment to strengthen the current provisions for data centers. This amendment revised the permissions and standards for data centers. Adopted Text The Board of Supervisors adopted the Data Centers Zoning Ordinance Amendment on September 10, 2024, which became effective September 11, 2024. The adopted text is included in the link below. View"
+      },
+      {
+        "topic": "data_center",
+        "start": 7330,
+        "end": 7342,
+        "match": "Data Centers",
+        "context": "sions for data centers. This amendment revised the permissions and standards for data centers. Adopted Text The Board of Supervisors adopted the Data Centers Zoning Ordinance Amendment on September 10, 2024, which became effective September 11, 2024. The adopted text is included in the link below. View Adopted Text Related Resources Staff Report Follow on Motions N"
+      },
+      {
+        "topic": "equipment",
+        "start": 7551,
+        "end": 7562,
+        "match": "Noise Study",
+        "context": "effective September 11, 2024. The adopted text is included in the link below. View Adopted Text Related Resources Staff Report Follow on Motions Noise Study Requirements Data Centers Research Report and Recommendations (January 9, 2024) Recent Interactions Clear Interactions History Close Sidebar Ask Fairfax Terms & Conditions Close Live chat available Search our"
+      },
+      {
+        "topic": "data_center",
+        "start": 7576,
+        "end": 7588,
+        "match": "Data Centers",
+        "context": "024. The adopted text is included in the link below. View Adopted Text Related Resources Staff Report Follow on Motions Noise Study Requirements Data Centers Research Report and Recommendations (January 9, 2024) Recent Interactions Clear Interactions History Close Sidebar Ask Fairfax Terms & Conditions Close Live chat available Search our site Related Resources Zon"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://plus.fairfaxcounty.gov/CitizenAccess/urlrouting.ashx?type=1001&ID1=REC24&ID2=00000&ID3=010WB&agency=FFX&SeqNo=6338206",
+        "Data Centers Research Report and Recommendations (January 9, 2024)"
+      ],
+      [
+        8,
+        "https://www.fairfaxcounty.gov/topics/data-centers",
+        "Data Centers"
+      ],
+      [
+        3,
+        "https://experience.arcgis.com/experience/9ca5e2ce68f94324ad8b10234689a458",
+        "Zoning Map"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/code",
+        "Code & Zoning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/health/permits",
+        "Health"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/neighborhood-community-services/coordinated-services-planning",
+        "Basic Needs & Assistance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/permits",
+        "Park Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/planning-development/planning",
+        "Parks Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/",
+        "Planning & Development Home"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/",
+        "Planning Development"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/board-zoning-appeals",
+        "Board of Zoning Appeals"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/land-use-research",
+        "Land Use Research"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/planning",
+        "Planning in Fairfax County"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning",
+        "Zoning in Fairfax County"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning-ordinance",
+        "Zoning Ordinance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning-ordinance",
+        "Zoning Ordinance Home"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning-ordinance/amendment-outreach",
+        "Zoning Amendment Outreach"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning-ordinance/amendments",
+        "Proposed Zoning Ordinance Amendments Home"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "url": "https://www.fairfaxcounty.gov/topics/data-centers",
+    "depth": 1,
+    "sha256": "707c33fb6715cf421d5fe158f06ecde5524ae715c1527118be651b2b56c2cf92",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 0,
+        "end": 12,
+        "match": "Data Centers",
+        "context": "Data Centers | Topics Skip to main content FFX Global Navigation Residents Animals & Pets Adoptions Animal Control & Regulations Guide to Dogs Lost & Found Pets Shelter Support & Supplies Wildlife More Courts & Legal Case"
+      },
+      {
+        "topic": "data_center",
+        "start": 857,
+        "end": 869,
+        "match": "Data Centers",
+        "context": "erans New Residents Older Adults Parents People with Disabilities Volunteers More Land Use & Planning Comprehensive Plan County Capital Projects Data Centers Land Records Parks Planning Planning Projects Research Tools Transportation Projects Urban Centers More Library & Education Adult Education Early Childhood Programs Library Branches Library Catalog Search Publ"
+      },
+      {
+        "topic": "development",
+        "start": 2139,
+        "end": 2155,
+        "match": "Building Permits",
+        "context": "te Air Quality Climate Action Dashboard Extreme Heat Floods Ready Fairfax Resilient Fairfax Snow Tornadoes More Business Business & Construction Building Permits Code & Zoning Land Use More Business Services Business Emergency Preparedness Business Taxes Consumer Services Employer Transportation Service Green Business Partners Program Home-Based Business Regulation & L"
+      },
+      {
+        "topic": "data_center",
+        "start": 4489,
+        "end": 4501,
+        "match": "Data Centers",
+        "context": "site is being translated through \"machine translation\" powered by Google Translate. Disclaimer Start voice input Live Chat Available Home Topics Data Centers Topics Alert: Data Centers A data center is a dedicated building housing information technology equipment such as computer servers, network systems and storage. Data centers power digital applications and serv"
+      },
+      {
+        "topic": "data_center",
+        "start": 4516,
+        "end": 4528,
+        "match": "Data Centers",
+        "context": "rough \"machine translation\" powered by Google Translate. Disclaimer Start voice input Live Chat Available Home Topics Data Centers Topics Alert: Data Centers A data center is a dedicated building housing information technology equipment such as computer servers, network systems and storage. Data centers power digital applications and services. They range from singl"
+      },
+      {
+        "topic": "data_center",
+        "start": 4531,
+        "end": 4542,
+        "match": "data center",
+        "context": "translation\" powered by Google Translate. Disclaimer Start voice input Live Chat Available Home Topics Data Centers Topics Alert: Data Centers A data center is a dedicated building housing information technology equipment such as computer servers, network systems and storage. Data centers power digital applications and services. They range from single rooms in off"
+      },
+      {
+        "topic": "data_center",
+        "start": 4663,
+        "end": 4675,
+        "match": "Data centers",
+        "context": "ta Centers A data center is a dedicated building housing information technology equipment such as computer servers, network systems and storage. Data centers power digital applications and services. They range from single rooms in office buildings to large commercial complexes. Data centers provide the physical infrastructure supporting the digital services used da"
+      },
+      {
+        "topic": "data_center",
+        "start": 4797,
+        "end": 4809,
+        "match": "Data centers",
+        "context": "d storage. Data centers power digital applications and services. They range from single rooms in office buildings to large commercial complexes. Data centers provide the physical infrastructure supporting the digital services used daily by individuals, businesses and public agencies. This network underpins personal activities — such as online banking, telehealth an"
+      },
+      {
+        "topic": "data_center",
+        "start": 5198,
+        "end": 5210,
+        "match": "data centers",
+        "context": "e-scale corporate and government operations. This includes artificial intelligence (AI), which requires enormous computing power and large-scale data centers. In Northern Virginia, home to more than 376,000 technology workers, this infrastructure serves as a foundation for local startups, tech firms and government contractors, among others. As of August 2026, 20 st"
+      },
+      {
+        "topic": "data_center",
+        "start": 5429,
+        "end": 5441,
+        "match": "data centers",
+        "context": "infrastructure serves as a foundation for local startups, tech firms and government contractors, among others. As of August 2026, 20 standalone data centers are operating in Fairfax County, with 11 more under construction. These are full, independent facilities, not smaller data centers located inside other types of buildings. Latest Updates Board of Supervisors s"
+      },
+      {
+        "topic": "data_center",
+        "start": 5560,
+        "end": 5572,
+        "match": "data centers",
+        "context": "20 standalone data centers are operating in Fairfax County, with 11 more under construction. These are full, independent facilities, not smaller data centers located inside other types of buildings. Latest Updates Board of Supervisors supports new state effort to increase data center transparency and accountability Fairfax County's Role Implement the Zoning Ordinan"
+      },
+      {
+        "topic": "data_center",
+        "start": 5688,
+        "end": 5699,
+        "match": "data center",
+        "context": "ies, not smaller data centers located inside other types of buildings. Latest Updates Board of Supervisors supports new state effort to increase data center transparency and accountability Fairfax County's Role Implement the Zoning Ordinance permissions and standards, adopted in September 2024, to say where data centers are allowed and how big they can be. Require"
+      },
+      {
+        "topic": "data_center",
+        "start": 5852,
+        "end": 5864,
+        "match": "data centers",
+        "context": "rency and accountability Fairfax County's Role Implement the Zoning Ordinance permissions and standards, adopted in September 2024, to say where data centers are allowed and how big they can be. Require noise studies, visual screening and certain building design standards to make sure data centers fit in with nearby neighborhoods. Set minimum distances between data"
+      },
+      {
+        "topic": "permission",
+        "start": 6514,
+        "end": 6531,
+        "match": "special exception",
+        "context": "ided by the Planning Commission and require public hearings. In addition, except in certain industrial districts, electrical substations require special exception approval by the Board of Supervisors, which requires public hearings by the Planning Commission and the Board of Supervisors. Provide land use and environmental guidance within the Comprehensive Plan for data"
+      },
+      {
+        "topic": "permission",
+        "start": 6774,
+        "end": 6791,
+        "match": "special exception",
+        "context": "nd the Board of Supervisors. Provide land use and environmental guidance within the Comprehensive Plan for data centers that require rezoning or special exception applications. Virginia's Role State Corporation Commission controls things related to energy, including approving electricity rates proposed by utility companies, electricity demand, and transmission lines for"
+      },
+      {
+        "topic": "permission",
+        "start": 7499,
+        "end": 7516,
+        "match": "special exception",
+        "context": "ew laws require additional information for large data centers (high‑energy use facilities – those using 100 MW or more) undergoing a rezoning or special exception process. The requirements include additional information about noise impacts, electrical substations and transmission voltage. How the County Regulates Data Centers In September 2024, the Board of Supervisors"
+      },
+      {
+        "topic": "permission",
+        "start": 13203,
+        "end": 13211,
+        "match": "by right",
+        "context": "on in Data Center Decisions What opportunities exist for public input on data center developments in Fairfax County? A data center can be built “by right” without a public hearing only in the I-5 and I-6 zoned districts, which are the heaviest industrial districts, if it meets all required standards. Changes to certain standards, such as allowing a data center"
+      },
+      {
+        "topic": "permission",
+        "start": 13468,
+        "end": 13485,
+        "match": "special exception",
+        "context": "if it meets all required standards. Changes to certain standards, such as allowing a data center to be closer to residential or Metro, requires special exception approval, which must go through public hearings before both the Planning Commission and the Board of Supervisors. In the other commercial and industrial districts where data centers are allowed, size limits en"
+      },
+      {
+        "topic": "permission",
+        "start": 13760,
+        "end": 13777,
+        "match": "special exception",
+        "context": "mmercial and industrial districts where data centers are allowed, size limits ensure that any large data center will require public hearings and special exception approval. During these hearings, community members can testify in person, by telephone or pre-recorded video. Written testimony may also be submitted in advance. Recent Interactions Clear Interactions History"
+      }
+    ],
+    "links": [
+      [
+        11,
+        "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment",
+        "Learn More About the Data Center Zoning Ordinance"
+      ],
+      [
+        8,
+        "https://www.fairfaxcounty.gov/news/board-data-centers-state-executive-order-22",
+        "Board of Supervisors supports new state effort to increase data center transparency and accountability"
+      ],
+      [
+        8,
+        "https://www.potomacriver.org/focus-areas/water-resources-and-drinking-water/water-resources/planning/data-centers-and-water-use-in-the-potomac-river-basin/",
+        "Learn more: Data Centers and Water Use in the Potomac River Basin"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/code",
+        "Code & Zoning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/health/permits",
+        "Health"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/neighborhood-community-services/coordinated-services-planning",
+        "Basic Needs & Assistance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/permits",
+        "Park Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/planning-development/planning",
+        "Parks Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/data-centers",
+        "Zoning Ordinance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-zoning/projects-and-initiatives",
+        "Planning Projects"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "Land Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "Land Use & Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "More"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "More"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "Permits & Licenses"
+      ],
+      [
+        2,
+        "https://cra.gmu.edu/wp-content/uploads/2025/08/NoVa_DataCenters.pdf",
+        "Center for Regional Analysis conducted a study"
+      ],
+      [
+        2,
+        "https://www.fairfaxcounty.gov/police/specializedunits/animalprotectionpolice",
+        "Animal Control & Regulations"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "url": "https://www.fairfaxcounty.gov/code",
+    "depth": 1,
+    "sha256": "5700e80e9e74387e7bfbd929b3e1f5768f5e346870071eb3eb09b5f4c8426e9e",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 1035,
+        "end": 1047,
+        "match": "Data Centers",
+        "context": "erans New Residents Older Adults Parents People with Disabilities Volunteers More Land Use & Planning Comprehensive Plan County Capital Projects Data Centers Land Records Parks Planning Planning Projects Research Tools Transportation Projects Urban Centers More Library & Education Adult Education Early Childhood Programs Library Branches Library Catalog Search Publ"
+      },
+      {
+        "topic": "development",
+        "start": 2317,
+        "end": 2333,
+        "match": "Building Permits",
+        "context": "te Air Quality Climate Action Dashboard Extreme Heat Floods Ready Fairfax Resilient Fairfax Snow Tornadoes More Business Business & Construction Building Permits Code & Zoning Land Use More Business Services Business Emergency Preparedness Business Taxes Consumer Services Employer Transportation Service Green Business Partners Program Home-Based Business Regulation & L"
+      },
+      {
+        "topic": "development",
+        "start": 6345,
+        "end": 6361,
+        "match": "Land Disturbance",
+        "context": "es Food Trucks Front Yard Gardens Glare Grass Hoarding Home Businesses Illegal Dumping Inoperable Vehicles Insect Infestation & Rodent Harborage Land Disturbance Learning about your Lot Multiple Occupancy/Dwellings Non-RUPs Noise Outdoor Storage Property Maintenance Running Bamboo Short Term Residential Rentals Sight Distance Signs Signs in the Right of Way Yard Covera"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://www.fairfaxcounty.gov/topics/data-centers",
+        "Data Centers"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/code/unpermitted-construction",
+        "Unpermitted Construction"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/health/permits",
+        "Health"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/when-permit-required",
+        "When is a Permit Required"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/neighborhood-community-services/coordinated-services-planning",
+        "Basic Needs & Assistance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/neighborhood-community-services/coordinated-services-planning",
+        "Food, Financial, Rent, or other assistance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/permits",
+        "Park Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/planning-development/planning",
+        "Parks Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/pod",
+        "Zoning Questions? Planner of the Day"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning/noise-ordinance",
+        "Noise"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-zoning/projects-and-initiatives",
+        "Planning Projects"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "Land Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "Land Use & Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "More"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "More"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "Permits & Licenses"
+      ],
+      [
+        2,
+        "https://www.fairfaxcounty.gov/code/sites/code/files/Assets/Documents/PDF/Freestanding_Accessory_Structures.pdf",
+        "Accessory Structures"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "url": "https://www.fairfaxcounty.gov/health/permits",
+    "depth": 1,
+    "sha256": "74e543f472e321b66bce24ca7e0d35f719f3d287bef5f12b77b9d8dfab1be5a3",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 1444,
+        "end": 1456,
+        "match": "Data Centers",
+        "context": "erans New Residents Older Adults Parents People with Disabilities Volunteers More Land Use & Planning Comprehensive Plan County Capital Projects Data Centers Land Records Parks Planning Planning Projects Research Tools Transportation Projects Urban Centers More Library & Education Adult Education Early Childhood Programs Library Branches Library Catalog Search Publ"
+      },
+      {
+        "topic": "development",
+        "start": 2726,
+        "end": 2742,
+        "match": "Building Permits",
+        "context": "te Air Quality Climate Action Dashboard Extreme Heat Floods Ready Fairfax Resilient Fairfax Snow Tornadoes More Business Business & Construction Building Permits Code & Zoning Land Use More Business Services Business Emergency Preparedness Business Taxes Consumer Services Employer Transportation Service Green Business Partners Program Home-Based Business Regulation & L"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://www.fairfaxcounty.gov/topics/data-centers",
+        "Data Centers"
+      ],
+      [
+        3,
+        "https://plus.fairfaxcounty.gov/CitizenAccess/Default.aspx",
+        "Apply for a permit, permit renewal or inspection using PLUS"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/code",
+        "Code & Zoning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/health/codes",
+        "Find health codes for establishments and systems permitted by the Health Department"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/landdevelopment/building-permits",
+        "Building Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/neighborhood-community-services/coordinated-services-planning",
+        "Basic Needs & Assistance"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/permits",
+        "Park Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/parks/planning-development/planning",
+        "Parks Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/board-zoning-appeals",
+        "Board of Zoning Appeals"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-development/zoning/home-based-business",
+        "Department of Planning and Development"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/planning-zoning/projects-and-initiatives",
+        "Planning Projects"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "Land Use"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "Land Use & Planning"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/land-use-and-planning",
+        "More"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "More"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "Permits"
+      ],
+      [
+        3,
+        "https://www.fairfaxcounty.gov/topics/permits-and-licenses",
+        "Permits & Licenses"
+      ],
+      [
+        2,
+        "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/assets/documents/zoning/home-based-food-production-supplemental-form.pdf",
+        "Fairfax County Home-Based Business Production Supplemental Form"
+      ],
+      [
+        2,
+        "https://www.fairfaxcounty.gov/police/specializedunits/animalprotectionpolice",
+        "Animal Control & Regulations"
+      ]
+    ],
+    "status": "candidate_only"
+  }
+]

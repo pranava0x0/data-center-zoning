@@ -1,0 +1,111 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2726%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 12,
+  "counties": {
+    "Wayne County": 4,
+    "Eaton County": 2,
+    "Oakland County": 2,
+    "Cass County": 1,
+    "Genesee County": 1,
+    "Monroe County": 1,
+    "Washtenaw County": 1
+  },
+  "places": {
+    "Outside incorporated places": 6,
+    "Detroit city": 2,
+    "Dowagiac city": 1,
+    "Royal Oak city": 1,
+    "Southfield city": 1,
+    "Southgate city": 1
+  },
+  "points": [
+    {
+      "county": "Monroe County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Oakland County",
+      "place": "Royal Oak city",
+      "name": "Liberty Center One",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Wayne County",
+      "place": "Detroit city",
+      "name": null,
+      "operator": "Verizon Wireless",
+      "type": "building"
+    },
+    {
+      "county": "Oakland County",
+      "place": "Southfield city",
+      "name": "EdgeConneX Detroit DET01",
+      "operator": "EdgeConneX",
+      "type": "building"
+    },
+    {
+      "county": "Eaton County",
+      "place": "Outside incorporated places",
+      "name": "Liquid Web",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Eaton County",
+      "place": "Outside incorporated places",
+      "name": "Liquid Web, Inc",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Genesee County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Wayne County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": "US Signal",
+      "type": "building"
+    },
+    {
+      "county": "Wayne County",
+      "place": "Southgate city",
+      "name": "Comcast",
+      "operator": "Comcast",
+      "type": "building"
+    },
+    {
+      "county": "Wayne County",
+      "place": "Detroit city",
+      "name": null,
+      "operator": "Quicken Loans",
+      "type": "building"
+    },
+    {
+      "county": "Cass County",
+      "place": "Dowagiac city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Washtenaw County",
+      "place": "Outside incorporated places",
+      "name": "The Barn Data Center",
+      "operator": null,
+      "type": "campus"
+    }
+  ]
+}

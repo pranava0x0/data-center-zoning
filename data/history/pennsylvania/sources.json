@@ -1,0 +1,38 @@
+{
+  "https://gis.dep.pa.gov/DataCenterPermitTracker/globalConfigs/config.json": {
+    "sha256": "d5b920aacbf0f0db3fbf1dffbd003a86856e6f0a0e85a38311131e65a361043a",
+    "bytes": 17532,
+    "retrieved": "2026-11-16T05:30:25+00:00",
+    "resolved": "https://gis.dep.pa.gov/DataCenterPermitTracker/globalConfigs/config.json"
+  },
+  "https://gis.dep.pa.gov/DataCenterPermitTracker/static/DataCenterProjectTrackingAllProjects.csv": {
+    "sha256": "f50882bc4805257c0b4834c1e4b8dd1784009778f36070bb6253380767788569",
+    "bytes": 14223,
+    "retrieved": "2026-11-16T05:30:26+00:00",
+    "resolved": "https://gis.dep.pa.gov/DataCenterPermitTracker/static/DataCenterProjectTrackingAllProjects.csv"
+  },
+  "https://gis.dep.pa.gov/DataCenterPermitTracker/static/DataCenterPermitTracking.csv": {
+    "sha256": "ce9fc9e7de3edf922c1ebfce2a1da7d1f2b374b06a91848fde8eb60f31c3ed07",
+    "bytes": 40426,
+    "retrieved": "2026-11-16T05:30:26+00:00",
+    "resolved": "https://gis.dep.pa.gov/DataCenterPermitTracker/static/DataCenterPermitTracking.csv"
+  },
+  "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2742%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6": {
+    "sha256": "2b54dd015cdb3fc8f43af28388eb5aa76143ff9f036f788ae40cf06bf207072a",
+    "bytes": 1515716,
+    "retrieved": "2026-11-16T05:30:27+00:00",
+    "resolved": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2742%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6"
+  },
+  "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2742%27&returnIdsOnly=true": {
+    "sha256": "b0a19cd02480e6e6491180f882d2d7c0bf1563d397e257286c47718a5e5605d1",
+    "bytes": 5578,
+    "retrieved": "2026-11-16T05:30:27+00:00",
+    "resolved": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2742%27&returnIdsOnly=true"
+  },
+  "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson": {
+    "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+    "bytes": 497573,
+    "retrieved": "2026-11-16T05:30:27+00:00",
+    "resolved": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson"
+  }
+}

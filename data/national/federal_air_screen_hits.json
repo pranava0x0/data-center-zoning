@@ -1,0 +1,40 @@
+[
+  {
+    "register": "r8",
+    "locator": "table 3 row 32",
+    "terms": [
+      "Crusoe",
+      "crusoe"
+    ],
+    "context": "Crusoe Energy Systems, Inc. - Charging Eagle 21-25 | Fort Berthold Indian Reservation, Dunn County, North Dakota | True Minor | TMNSR-TAT-008173-2022.001 | 2022/08/29 | Permit & Administrative Record for Crusoe Energy Systems, Inc. - Charging Eagle 21-25",
+    "url": "https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-8"
+  },
+  {
+    "register": "r8",
+    "locator": "table 3 row 33",
+    "terms": [
+      "Crusoe",
+      "crusoe"
+    ],
+    "context": "Crusoe Energy Systems, Inc. - Crosby Chase CTB | Fort Berthold Indian Reservation, McKenzie County, North Dakota | Synthetic Minor (Revision) | SMNSR-TAT-008149-2023.002 | 2024/02/09 | Permit & Administrative Record for Crusoe Energy Systems, Inc. - Crosby Chase CTB Previous Permit - February 28, 2022, Permit & Administrative Record for Crusoe Energy Systems, Inc. - Crosby Chase CTB",
+    "url": "https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-8"
+  },
+  {
+    "register": "r8",
+    "locator": "register text outside tables",
+    "terms": [
+      "Microsoft"
+    ],
+    "context": "ewing final documents in the dockets on regulations.gov that are electronically signed in Microsoft Word, to view the valid signature, you may need to select \"Enable Editing.\" Warning that if you actually edit the signed document",
+    "url": "https://www.epa.gov/caa-permitting/caa-permits-issued-epa-region-8"
+  },
+  {
+    "register": "r8pending",
+    "locator": "table 3 row 58",
+    "terms": [
+      "Great American Mining"
+    ],
+    "context": "Great American Mining, Inc. - Osprey Pad 71 | Fort Berthold Indian Reservation, Mountrail County, North Dakota | True Minor | TMNSR-TAT-008161-2021.001 | On Hold (Applicant Requested) | Docket #EPA-R08-OAR-2021-0655 | Claudia Smith (smith.claudia@epa.gov) (303) 312-6520",
+    "url": "https://www.epa.gov/caa-permitting/caa-permit-actions-pending-epa-region-8"
+  }
+]

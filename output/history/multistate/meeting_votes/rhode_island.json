@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ri-case-757e5018f8c85",
+    "state": "RI",
+    "dataset": "Rhode Island DEM emergency generator permits",
+    "jurisdiction": "Johnston",
+    "county": "Providence County",
+    "record_no": "GPEG-19",
+    "project": "FM Global Data Center · generator 1",
+    "kind": "Emergency generator air permit",
+    "status": "Issued",
+    "date": "2009-03-10",
+    "date_role": "Issuance letter date",
+    "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf#page=2",
+    "source_url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf",
+    "source_sha256": "3df4d7112591fd831c8bba297fa3f9f2cad9c81b33540d7f088066a56c863e9c",
+    "locator": "Permit cover, PDF p. 2; transmittal p. 1.",
+    "details": {
+      "decision": "DEM issued a separate permit for each of three emergency generators at the Johnston campus. Continued validity is not established.",
+      "evidence": "GENERAL PERMIT NO. GPEG-19"
+    }
+  },
+  {
+    "id": "ri-case-3c031f4c15ff9",
+    "state": "RI",
+    "dataset": "Rhode Island DEM emergency generator permits",
+    "jurisdiction": "Johnston",
+    "county": "Providence County",
+    "record_no": "GPEG-20",
+    "project": "FM Global Data Center · generator 2",
+    "kind": "Emergency generator air permit",
+    "status": "Issued",
+    "date": "2009-03-10",
+    "date_role": "Issuance letter date",
+    "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf#page=7",
+    "source_url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf",
+    "source_sha256": "3df4d7112591fd831c8bba297fa3f9f2cad9c81b33540d7f088066a56c863e9c",
+    "locator": "Permit cover, PDF p. 7; transmittal p. 1.",
+    "details": {
+      "decision": "DEM issued a separate permit for each of three emergency generators at the Johnston campus. Continued validity is not established.",
+      "evidence": "GENERAL PERMIT NO. GPEG-20"
+    }
+  },
+  {
+    "id": "ri-case-62901d8673768",
+    "state": "RI",
+    "dataset": "Rhode Island DEM emergency generator permits",
+    "jurisdiction": "Johnston",
+    "county": "Providence County",
+    "record_no": "GPEG-21",
+    "project": "FM Global Data Center · generator 3",
+    "kind": "Emergency generator air permit",
+    "status": "Issued",
+    "date": "2009-03-10",
+    "date_role": "Issuance letter date",
+    "url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf#page=12",
+    "source_url": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf",
+    "source_sha256": "3df4d7112591fd831c8bba297fa3f9f2cad9c81b33540d7f088066a56c863e9c",
+    "locator": "Permit cover, PDF p. 12; transmittal p. 1.",
+    "details": {
+      "decision": "DEM issued a separate permit for each of three emergency generators at the Johnston campus. Continued validity is not established.",
+      "evidence": "GENERAL PERMIT NO. GPEG-21"
+    }
+  }
+]

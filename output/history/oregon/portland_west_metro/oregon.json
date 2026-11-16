@@ -1,0 +1,3739 @@
+[
+  {
+    "id": "westmetro-luba-2023-074",
+    "state": "OR",
+    "jurisdiction": "Oregon",
+    "dataset": "Oregon land-use ordinance and review records",
+    "record_no": "LUBA 2023-074",
+    "project": "Rowan Percheron / Morrow County zone-change appeal",
+    "kind": "Land use appeal disposition",
+    "status": "DISMISSED",
+    "date": "2024-01-03",
+    "date_role": "LUBA order",
+    "url": "https://www.oregon.gov/luba/Docs/Opinions/2024/01-24/23074.pdf",
+    "locator": "LUBA case 2023-074, pp. 1, 3",
+    "details": {
+      "county": "Morrow County",
+      "action_scope": "State board dismissed at petitioner’s request, not a county permit or decision on the merits.",
+      "source_sha256": "9bf5bc7894b8bce16b8307e2e3962be20b834ec2d3dda92581849ca9ea088eb5",
+      "evidence": "Petitioner requests that this appeal be dismissed.",
+      "source_page": 3
+    }
+  },
+  {
+    "id": "westmetro-morrow-2023",
+    "state": "OR",
+    "jurisdiction": "Morrow County",
+    "dataset": "Oregon land-use ordinance and review records",
+    "record_no": "ORD-2023-6",
+    "project": "Rowan Percheron: data center zone change on 274 acres",
+    "kind": "Parcel-specific plan and zoning amendment",
+    "status": "Adopted",
+    "date": "2023-09-20",
+    "date_role": "Board adoption",
+    "url": "https://www.morrowcountyor.gov/planning/page/2020-current",
+    "locator": "County ordinance register, 2023, ORD-2023-6",
+    "details": {
+      "county": "Morrow County",
+      "related_url": "https://www.morrowcountyor.gov/sites/default/files/fileattachments/planning/page/16600/ordinance_ord-2023-6_and_final_findings_with_attachment_-_signed.pdf",
+      "action_scope": "Linked plan files AC-145-23, ACM-146-23, AZM-147-23; one county adoption, not three permits. Subject to individual construction approvals, see signed ordinance §1.",
+      "source_sha256": "4571b1e087f51de0019451493f28f96eb81fe1040f7f864898fe845cefe0706c",
+      "evidence": "adopted by the Morrow County Board of Commissioners on September 20, 2023"
+    }
+  },
+  {
+    "id": "westmetro-morrow-2025",
+    "state": "OR",
+    "jurisdiction": "Morrow County",
+    "dataset": "Oregon land-use ordinance and review records",
+    "record_no": "ORD-2025-02",
+    "project": "Data center and farm use overlay, 1,298-acre parcel",
+    "kind": "Parcel-specific plan and zoning amendment",
+    "status": "Adopted",
+    "date": "2025-07-16",
+    "date_role": "Board adoption",
+    "url": "https://www.morrowcountyor.gov/planning/page/2020-current",
+    "locator": "County ordinance register, 2025, ORD-2025-02",
+    "details": {
+      "county": "Morrow County",
+      "related_url": "https://www.morrowcountyor.gov/sites/default/files/fileattachments/planning/page/16600/signed_ord-2025-02_w_attachments.pdf",
+      "action_scope": "Also redesignates a separate 1,623-acre parcel for agriculture. Underlying four plan files constitute one county adoption; not permission to build four campuses.",
+      "source_sha256": "4571b1e087f51de0019451493f28f96eb81fe1040f7f864898fe845cefe0706c",
+      "evidence": "adopted by the Morrow County Board of Commissioners on July 16, 2025"
+    }
+  },
+  {
+    "id": "westmetro-portland-2013220",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2000-128308-000-00-ET",
+    "project": "Data center work — New Construction (2000-128308-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2000-04-07",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2013220_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1333046",
+    "locator": "All Permits layer 22; folder 2013220",
+    "details": {
+      "folderkey": "2013220",
+      "object_id": 1333046,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "New Construction",
+      "source_dates": {
+        "ISSUED": "2000-04-07",
+        "FINALED": "2001-01-24",
+        "INTAKECOMPLETEDATE": "2000-02-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2035185",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "1999-003306-000-01-CO",
+    "project": "Data center work — Alteration (1999-003306-000-01-CO)",
+    "kind": "Commercial Building Permit",
+    "status": "Final",
+    "date": "2000-05-23",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2035185_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1344160",
+    "locator": "All Permits layer 22; folder 2035185",
+    "details": {
+      "folderkey": "2035185",
+      "object_id": 1344160,
+      "case_type": "Business",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2000-05-23",
+        "FINALED": "2000-07-14",
+        "INTAKECOMPLETEDATE": "2000-05-23"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2038872",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2000-153769-000-00-MT",
+    "project": "Data center work — Addition/Alteration/Replace (MT) (2000-153769-000-00-MT)",
+    "kind": "Mechanical Permit",
+    "status": "Final",
+    "date": "2000-07-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2038872_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1346707",
+    "locator": "All Permits layer 22; folder 2038872",
+    "details": {
+      "folderkey": "2038872",
+      "object_id": 1346707,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replace (MT)",
+      "source_dates": {
+        "ISSUED": "2000-07-12",
+        "FINALED": "2001-02-01",
+        "INTAKECOMPLETEDATE": "2000-06-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2347114",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2004-009246-000-00-FA",
+    "project": "Data center work — Alteration (2004-009246-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2004-05-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2347114_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1502955",
+    "locator": "All Permits layer 22; folder 2347114",
+    "details": {
+      "folderkey": "2347114",
+      "object_id": 1502955,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2004-05-26",
+        "FINALED": "2004-12-07",
+        "INTAKECOMPLETEDATE": "2004-03-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2370083",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2004-031650-000-00-FA",
+    "project": "Data center work — Alteration (2004-031650-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2004-08-09",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2370083_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1519063",
+    "locator": "All Permits layer 22; folder 2370083",
+    "details": {
+      "folderkey": "2370083",
+      "object_id": 1519063,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2004-08-09",
+        "FINALED": "2005-06-21",
+        "INTAKECOMPLETEDATE": "2004-06-29"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2393377",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2004-054561-000-00-FA",
+    "project": "Data center work — Alteration (2004-054561-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2004-10-14",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2393377_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1534276",
+    "locator": "All Permits layer 22; folder 2393377",
+    "details": {
+      "folderkey": "2393377",
+      "object_id": 1534276,
+      "case_type": "Plumbing",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2004-10-14",
+        "FINALED": "2004-10-22",
+        "INTAKECOMPLETEDATE": "2004-10-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2398780",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2004-059946-000-00-FA",
+    "project": "Data center work — Alteration (2004-059946-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2004-06-29",
+    "date_role": "Intake completed",
+    "url": "https://www.portlandmaps.com/detail/permit/2398780_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1537369",
+    "locator": "All Permits layer 22; folder 2398780",
+    "details": {
+      "folderkey": "2398780",
+      "object_id": 1537369,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": null,
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2004-06-29"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-2408001",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2004-069046-000-00-FA",
+    "project": "Data center work — Alteration (2004-069046-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2004-12-01",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2408001_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1543200",
+    "locator": "All Permits layer 22; folder 2408001",
+    "details": {
+      "folderkey": "2408001",
+      "object_id": 1543200,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2004-12-01",
+        "FINALED": "2004-12-22",
+        "INTAKECOMPLETEDATE": "2004-11-22"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2440648",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-104086-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2005-104086-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2005-01-24",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2440648_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1550700",
+    "locator": "All Permits layer 22; folder 2440648",
+    "details": {
+      "folderkey": "2440648",
+      "object_id": 1550700,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2005-01-24",
+        "FINALED": "2005-04-11",
+        "INTAKECOMPLETEDATE": "2005-01-24"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2452587",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-115670-000-00-FA",
+    "project": "Data center work — Alteration (2005-115670-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2005-03-16",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2452587_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1558020",
+    "locator": "All Permits layer 22; folder 2452587",
+    "details": {
+      "folderkey": "2452587",
+      "object_id": 1558020,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2005-03-16",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2005-03-16"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2452589",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-115672-000-00-FA",
+    "project": "Data center work — Alteration (2005-115672-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2005-05-05",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2452589_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1558021",
+    "locator": "All Permits layer 22; folder 2452589",
+    "details": {
+      "folderkey": "2452589",
+      "object_id": 1558021,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2005-05-05",
+        "FINALED": "2005-10-18",
+        "INTAKECOMPLETEDATE": "2005-03-16"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2459113",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-122013-000-00-FA",
+    "project": "Data center work — Alteration (2005-122013-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2005-05-05",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2459113_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1562460",
+    "locator": "All Permits layer 22; folder 2459113",
+    "details": {
+      "folderkey": "2459113",
+      "object_id": 1562460,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2005-05-05",
+        "FINALED": "2005-06-28",
+        "INTAKECOMPLETEDATE": "2005-04-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2461788",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-124669-000-00-FA",
+    "project": "Data center work — Alteration (2005-124669-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2005-04-27",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2461788_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1564049",
+    "locator": "All Permits layer 22; folder 2461788",
+    "details": {
+      "folderkey": "2461788",
+      "object_id": 1564049,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2005-04-27",
+        "FINALED": "2005-09-02",
+        "INTAKECOMPLETEDATE": "2005-04-27"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2474091",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-136748-000-00-FA",
+    "project": "Data center work — Alteration (2005-136748-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2005-06-27",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2474091_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1572056",
+    "locator": "All Permits layer 22; folder 2474091",
+    "details": {
+      "folderkey": "2474091",
+      "object_id": 1572056,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2005-06-27",
+        "FINALED": "2005-09-29",
+        "INTAKECOMPLETEDATE": "2005-06-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2507090",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2005-001282-000-00-FS",
+    "project": "Data center work — New (2005-001282-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2005-07-22",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2507090_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1594029",
+    "locator": "All Permits layer 22; folder 2507090",
+    "details": {
+      "folderkey": "2507090",
+      "object_id": 1594029,
+      "case_type": "Fire Alarms",
+      "work_type": "New",
+      "source_dates": {
+        "ISSUED": "2005-07-22",
+        "FINALED": "2006-09-11",
+        "INTAKECOMPLETEDATE": "2005-07-01"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-2543406",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-104365-000-00-FA",
+    "project": "Data center work — Alteration (2006-104365-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2006-01-27",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2543406_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1613149",
+    "locator": "All Permits layer 22; folder 2543406",
+    "details": {
+      "folderkey": "2543406",
+      "object_id": 1613149,
+      "case_type": "Fixed Extinguishing Systems",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-01-27",
+        "FINALED": "2006-03-09",
+        "INTAKECOMPLETEDATE": "2006-01-23"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2543761",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-104706-000-00-FA",
+    "project": "Data center work — Alteration (2006-104706-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2006-01-27",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2543761_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1613398",
+    "locator": "All Permits layer 22; folder 2543761",
+    "details": {
+      "folderkey": "2543761",
+      "object_id": 1613398,
+      "case_type": "Fire Alarms",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-01-27",
+        "FINALED": "2006-03-09",
+        "INTAKECOMPLETEDATE": "2006-01-24"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2544797",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-105700-000-00-CO",
+    "project": "Data center work — Alteration (2006-105700-000-00-CO)",
+    "kind": "Commercial Building Permit",
+    "status": "Final",
+    "date": "2006-01-31",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2544797_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1614104",
+    "locator": "All Permits layer 22; folder 2544797",
+    "details": {
+      "folderkey": "2544797",
+      "object_id": 1614104,
+      "case_type": "Factory/Industrial",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-01-31",
+        "FINALED": "2006-04-18",
+        "INTAKECOMPLETEDATE": "2006-01-30"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2551087",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-111774-000-00-FA",
+    "project": "Data center work — Alteration (2006-111774-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2006-02-27",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2551087_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1618072",
+    "locator": "All Permits layer 22; folder 2551087",
+    "details": {
+      "folderkey": "2551087",
+      "object_id": 1618072,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-02-27",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2006-02-27"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2551091",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-111778-000-00-FA",
+    "project": "Data center work — Alteration (2006-111778-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2006-05-03",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2551091_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1618074",
+    "locator": "All Permits layer 22; folder 2551091",
+    "details": {
+      "folderkey": "2551091",
+      "object_id": 1618074,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-05-03",
+        "FINALED": "2006-07-27",
+        "INTAKECOMPLETEDATE": "2006-02-27"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2551301",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-111982-000-00-FA",
+    "project": "Data center work — Alteration (2006-111982-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2006-03-27",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2551301_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1618215",
+    "locator": "All Permits layer 22; folder 2551301",
+    "details": {
+      "folderkey": "2551301",
+      "object_id": 1618215,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-03-27",
+        "FINALED": "2006-07-04",
+        "INTAKECOMPLETEDATE": "2006-02-27"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2561817",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-122174-000-00-FA",
+    "project": "Data center work — Alteration (2006-122174-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2006-04-17",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2561817_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1625026",
+    "locator": "All Permits layer 22; folder 2561817",
+    "details": {
+      "folderkey": "2561817",
+      "object_id": 1625026,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2006-04-17",
+        "FINALED": "2006-06-28",
+        "INTAKECOMPLETEDATE": "2006-04-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2585980",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-145335-000-00-MT",
+    "project": "Data center work — Addition/Alteration/Replace (MT) (2006-145335-000-00-MT)",
+    "kind": "Mechanical Permit",
+    "status": "Final",
+    "date": "2006-08-15",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2585980_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1640218",
+    "locator": "All Permits layer 22; folder 2585980",
+    "details": {
+      "folderkey": "2585980",
+      "object_id": 1640218,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replace (MT)",
+      "source_dates": {
+        "ISSUED": "2006-08-15",
+        "FINALED": "2006-11-07",
+        "INTAKECOMPLETEDATE": "2006-07-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2626638",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2006-185358-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2006-185358-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2006-12-28",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2626638_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1667150",
+    "locator": "All Permits layer 22; folder 2626638",
+    "details": {
+      "folderkey": "2626638",
+      "object_id": 1667150,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2006-12-28",
+        "FINALED": "2007-02-26",
+        "INTAKECOMPLETEDATE": "2006-12-21"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2636363",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2007-108208-000-00-FA",
+    "project": "Data center work — Alteration (2007-108208-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2007-02-14",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2636363_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1673537",
+    "locator": "All Permits layer 22; folder 2636363",
+    "details": {
+      "folderkey": "2636363",
+      "object_id": 1673537,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2007-02-14",
+        "FINALED": "2007-06-29",
+        "INTAKECOMPLETEDATE": "2007-02-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2658572",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2007-129747-000-00-FA",
+    "project": "Data center work — Alteration (2007-129747-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2007-05-11",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2658572_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1688390",
+    "locator": "All Permits layer 22; folder 2658572",
+    "details": {
+      "folderkey": "2658572",
+      "object_id": 1688390,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2007-05-11",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2007-05-11"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2717980",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2007-176799-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2007-176799-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2007-11-15",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2717980_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1721111",
+    "locator": "All Permits layer 22; folder 2717980",
+    "details": {
+      "folderkey": "2717980",
+      "object_id": 1721111,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2007-11-15",
+        "FINALED": "2007-12-18",
+        "INTAKECOMPLETEDATE": "2007-11-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2765836",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2008-136049-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2008-136049-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2008-06-10",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2765836_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1752956",
+    "locator": "All Permits layer 22; folder 2765836",
+    "details": {
+      "folderkey": "2765836",
+      "object_id": 1752956,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2008-06-10",
+        "FINALED": "2008-09-26",
+        "INTAKECOMPLETEDATE": "2008-06-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2771837",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2008-141935-000-00-FS",
+    "project": "Data center work — Addition (2008-141935-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2008-07-08",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2771837_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1756637",
+    "locator": "All Permits layer 22; folder 2771837",
+    "details": {
+      "folderkey": "2771837",
+      "object_id": 1756637,
+      "case_type": "Fixed Extinguishing Systems",
+      "work_type": "Addition",
+      "source_dates": {
+        "ISSUED": "2008-07-08",
+        "FINALED": "2009-01-12",
+        "INTAKECOMPLETEDATE": "2008-07-01"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2827294",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2009-102822-000-00-CO",
+    "project": "Data center work — Alteration (2009-102822-000-00-CO)",
+    "kind": "Commercial Building Permit",
+    "status": "Final",
+    "date": "2009-01-16",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2827294_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1786061",
+    "locator": "All Permits layer 22; folder 2827294",
+    "details": {
+      "folderkey": "2827294",
+      "object_id": 1786061,
+      "case_type": "Storage",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2009-01-16",
+        "FINALED": "2018-01-10",
+        "INTAKECOMPLETEDATE": "2009-01-16"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2829696",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2009-102822-REV-01-CO",
+    "project": "Data center work — Alteration (2009-102822-REV-01-CO)",
+    "kind": "Commercial Building Permit",
+    "status": "Final",
+    "date": "2009-01-28",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2829696_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1787563",
+    "locator": "All Permits layer 22; folder 2829696",
+    "details": {
+      "folderkey": "2829696",
+      "object_id": 1787563,
+      "case_type": "Storage",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2009-01-28",
+        "FINALED": "2018-01-23",
+        "INTAKECOMPLETEDATE": "2009-01-28"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2832622",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2009-107900-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2009-107900-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2009-02-11",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2832622_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1789221",
+    "locator": "All Permits layer 22; folder 2832622",
+    "details": {
+      "folderkey": "2832622",
+      "object_id": 1789221,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2009-02-11",
+        "FINALED": "2018-06-07",
+        "INTAKECOMPLETEDATE": "2009-02-11"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2938216",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-123343-000-00-FA",
+    "project": "Data center work — Alteration (2010-123343-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2010-03-31",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2938216_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1845520",
+    "locator": "All Permits layer 22; folder 2938216",
+    "details": {
+      "folderkey": "2938216",
+      "object_id": 1845520,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-03-31",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2010-03-31"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2955297",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-140253-000-00-FA",
+    "project": "Data center work — Alteration (2010-140253-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-05-21",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2955297_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1853003",
+    "locator": "All Permits layer 22; folder 2955297",
+    "details": {
+      "folderkey": "2955297",
+      "object_id": 1853003,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-05-21",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2010-05-21"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2955306",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-140262-000-00-FA",
+    "project": "Data center work — Alteration (2010-140262-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-06-15",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2955306_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1853008",
+    "locator": "All Permits layer 22; folder 2955306",
+    "details": {
+      "folderkey": "2955306",
+      "object_id": 1853008,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-06-15",
+        "FINALED": "2010-09-15",
+        "INTAKECOMPLETEDATE": "2010-05-21"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2956136",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-141089-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2010-141089-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2010-05-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2956136_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1853471",
+    "locator": "All Permits layer 22; folder 2956136",
+    "details": {
+      "folderkey": "2956136",
+      "object_id": 1853471,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2010-05-26",
+        "FINALED": "2010-07-20",
+        "INTAKECOMPLETEDATE": "2010-05-26"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2957628",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-142564-000-00-CO",
+    "project": "Data center work — Alteration (2010-142564-000-00-CO)",
+    "kind": "Commercial Building Permit",
+    "status": "Final",
+    "date": "2010-07-09",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2957628_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1854287",
+    "locator": "All Permits layer 22; folder 2957628",
+    "details": {
+      "folderkey": "2957628",
+      "object_id": 1854287,
+      "case_type": "Business",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-07-09",
+        "FINALED": "2011-07-13",
+        "INTAKECOMPLETEDATE": "2010-06-09"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2962848",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-140262-DFS-01-FA",
+    "project": "Data center work — Alteration (2010-140262-DFS-01-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-08-31",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2962848_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1857124",
+    "locator": "All Permits layer 22; folder 2962848",
+    "details": {
+      "folderkey": "2962848",
+      "object_id": 1857124,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-08-31",
+        "FINALED": "2010-09-15",
+        "INTAKECOMPLETEDATE": "2010-06-18"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2972950",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-157750-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2010-157750-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2010-07-19",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2972950_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1861377",
+    "locator": "All Permits layer 22; folder 2972950",
+    "details": {
+      "folderkey": "2972950",
+      "object_id": 1861377,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2010-07-19",
+        "FINALED": "2010-08-02",
+        "INTAKECOMPLETEDATE": "2010-07-19"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2990853",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-175548-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2010-175548-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2010-09-14",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2990853_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1869956",
+    "locator": "All Permits layer 22; folder 2990853",
+    "details": {
+      "folderkey": "2990853",
+      "object_id": 1869956,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2010-09-14",
+        "FINALED": "2010-11-30",
+        "INTAKECOMPLETEDATE": "2010-09-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2991047",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-175737-000-00-FA",
+    "project": "Data center work — Alteration (2010-175737-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2010-09-14",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2991047_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1870040",
+    "locator": "All Permits layer 22; folder 2991047",
+    "details": {
+      "folderkey": "2991047",
+      "object_id": 1870040,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-09-14",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2010-09-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2991052",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-175742-000-00-FA",
+    "project": "Data center work — Alteration (2010-175742-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-10-11",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2991052_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1870045",
+    "locator": "All Permits layer 22; folder 2991052",
+    "details": {
+      "folderkey": "2991052",
+      "object_id": 1870045,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-10-11",
+        "FINALED": "2011-07-06",
+        "INTAKECOMPLETEDATE": "2010-09-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2991054",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-175744-000-00-FA",
+    "project": "Data center work — Alteration (2010-175744-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-10-11",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2991054_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1870047",
+    "locator": "All Permits layer 22; folder 2991054",
+    "details": {
+      "folderkey": "2991054",
+      "object_id": 1870047,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-10-11",
+        "FINALED": "2011-01-11",
+        "INTAKECOMPLETEDATE": "2010-09-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-2993667",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-178339-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2010-178339-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2010-09-22",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/2993667_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1871233",
+    "locator": "All Permits layer 22; folder 2993667",
+    "details": {
+      "folderkey": "2993667",
+      "object_id": 1871233,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2010-09-22",
+        "FINALED": "2011-06-06",
+        "INTAKECOMPLETEDATE": "2010-09-22"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3012518",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-187765-000-00-MT",
+    "project": "Data center work — Addition/Alteration/Replace (MT) (2010-187765-000-00-MT)",
+    "kind": "Mechanical Permit",
+    "status": "Final",
+    "date": "2010-10-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3012518_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1875937",
+    "locator": "All Permits layer 22; folder 3012518",
+    "details": {
+      "folderkey": "3012518",
+      "object_id": 1875937,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replace (MT)",
+      "source_dates": {
+        "ISSUED": "2010-10-26",
+        "FINALED": "2010-11-17",
+        "INTAKECOMPLETEDATE": "2010-10-26"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3015096",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-188824-000-00-FA",
+    "project": "Data center work — Alteration (2010-188824-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-10-29",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3015096_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1876517",
+    "locator": "All Permits layer 22; folder 3015096",
+    "details": {
+      "folderkey": "3015096",
+      "object_id": 1876517,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-10-29",
+        "FINALED": "2011-01-07",
+        "INTAKECOMPLETEDATE": "2010-10-29"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3015210",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-188938-000-00-FS",
+    "project": "Data center work — New (2010-188938-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2010-12-07",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3015210_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1876582",
+    "locator": "All Permits layer 22; folder 3015210",
+    "details": {
+      "folderkey": "3015210",
+      "object_id": 1876582,
+      "case_type": "Fixed Extinguishing Systems",
+      "work_type": "New",
+      "source_dates": {
+        "ISSUED": "2010-12-07",
+        "FINALED": "2011-03-17",
+        "INTAKECOMPLETEDATE": "2010-10-29"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3022044",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2010-175742-REV-01-FA",
+    "project": "Data center work — Alteration (2010-175742-REV-01-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2010-12-10",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3022044_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1879782",
+    "locator": "All Permits layer 22; folder 3022044",
+    "details": {
+      "folderkey": "3022044",
+      "object_id": 1879782,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2010-12-10",
+        "FINALED": "2011-07-06",
+        "INTAKECOMPLETEDATE": "2010-11-23"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3032907",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-101264-000-00-FA",
+    "project": "Data center work — Alteration (2011-101264-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2011-01-07",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3032907_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1885106",
+    "locator": "All Permits layer 22; folder 3032907",
+    "details": {
+      "folderkey": "3032907",
+      "object_id": 1885106,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2011-01-07",
+        "FINALED": "2011-01-07",
+        "INTAKECOMPLETEDATE": "2011-01-06"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3033611",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-101958-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2011-101958-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2011-01-07",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3033611_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1885403",
+    "locator": "All Permits layer 22; folder 3033611",
+    "details": {
+      "folderkey": "3033611",
+      "object_id": 1885403,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2011-01-07",
+        "FINALED": "2011-01-24",
+        "INTAKECOMPLETEDATE": "2011-01-07"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3033788",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-102135-000-00-FA",
+    "project": "Data center work — Alteration (2011-102135-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2011-01-10",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3033788_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1885489",
+    "locator": "All Permits layer 22; folder 3033788",
+    "details": {
+      "folderkey": "3033788",
+      "object_id": 1885489,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2011-01-10",
+        "FINALED": "2011-01-07",
+        "INTAKECOMPLETEDATE": "2011-01-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3055845",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-123820-000-00-FA",
+    "project": "Data center work — Alteration (2011-123820-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2011-03-25",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3055845_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1895019",
+    "locator": "All Permits layer 22; folder 3055845",
+    "details": {
+      "folderkey": "3055845",
+      "object_id": 1895019,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2011-03-25",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2011-03-25"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3055847",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-123822-000-00-FA",
+    "project": "Data center work — Alteration (2011-123822-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2011-04-06",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3055847_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1895021",
+    "locator": "All Permits layer 22; folder 3055847",
+    "details": {
+      "folderkey": "3055847",
+      "object_id": 1895021,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2011-04-06",
+        "FINALED": "2012-03-05",
+        "INTAKECOMPLETEDATE": "2011-03-25"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3055848",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-123823-000-00-FA",
+    "project": "Data center work — Alteration (2011-123823-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2011-04-06",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3055848_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1895022",
+    "locator": "All Permits layer 22; folder 3055848",
+    "details": {
+      "folderkey": "3055848",
+      "object_id": 1895022,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2011-04-06",
+        "FINALED": "2011-07-28",
+        "INTAKECOMPLETEDATE": "2011-03-25"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3065700",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-133558-000-00-FA",
+    "project": "Data center work — Alteration (2011-133558-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2011-06-29",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3065700_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1898659",
+    "locator": "All Permits layer 22; folder 3065700",
+    "details": {
+      "folderkey": "3065700",
+      "object_id": 1898659,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2011-06-29",
+        "FINALED": "2011-08-03",
+        "INTAKECOMPLETEDATE": "2011-04-22"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3101852",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2011-169320-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2011-169320-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2011-08-22",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3101852_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1915542",
+    "locator": "All Permits layer 22; folder 3101852",
+    "details": {
+      "folderkey": "3101852",
+      "object_id": 1915542,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2011-08-22",
+        "FINALED": "2012-03-05",
+        "INTAKECOMPLETEDATE": "2011-08-19"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3138578",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-100897-000-00-FA",
+    "project": "Data center work — Alteration (2012-100897-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2012-01-04",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3138578_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1933615",
+    "locator": "All Permits layer 22; folder 3138578",
+    "details": {
+      "folderkey": "3138578",
+      "object_id": 1933615,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-01-04",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2012-01-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3138614",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-100933-000-00-FA",
+    "project": "Data center work — Alteration (2012-100933-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-04-17",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3138614_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1933629",
+    "locator": "All Permits layer 22; folder 3138614",
+    "details": {
+      "folderkey": "3138614",
+      "object_id": 1933629,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-04-17",
+        "FINALED": "2013-01-03",
+        "INTAKECOMPLETEDATE": "2012-01-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3138620",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-100939-000-00-FA",
+    "project": "Data center work — Alteration (2012-100939-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-04-17",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3138620_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1933633",
+    "locator": "All Permits layer 22; folder 3138620",
+    "details": {
+      "folderkey": "3138620",
+      "object_id": 1933633,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-04-17",
+        "FINALED": "2012-10-03",
+        "INTAKECOMPLETEDATE": "2012-01-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3164652",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-126485-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2012-126485-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2012-04-05",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3164652_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1945530",
+    "locator": "All Permits layer 22; folder 3164652",
+    "details": {
+      "folderkey": "3164652",
+      "object_id": 1945530,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2012-04-05",
+        "FINALED": "2012-04-12",
+        "INTAKECOMPLETEDATE": "2012-04-05"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3183624",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-145245-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2012-145245-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2012-05-30",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3183624_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1953356",
+    "locator": "All Permits layer 22; folder 3183624",
+    "details": {
+      "folderkey": "3183624",
+      "object_id": 1953356,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2012-05-30",
+        "FINALED": "2012-07-06",
+        "INTAKECOMPLETEDATE": "2012-05-30"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3188072",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-149658-000-00-FA",
+    "project": "Data center work — Alteration (2012-149658-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-06-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3188072_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1955569",
+    "locator": "All Permits layer 22; folder 3188072",
+    "details": {
+      "folderkey": "3188072",
+      "object_id": 1955569,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-06-12",
+        "FINALED": "2012-12-28",
+        "INTAKECOMPLETEDATE": "2012-06-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3190108",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-151672-000-00-FA",
+    "project": "Data center work — Alteration (2012-151672-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2012-06-18",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3190108_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1956533",
+    "locator": "All Permits layer 22; folder 3190108",
+    "details": {
+      "folderkey": "3190108",
+      "object_id": 1956533,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-06-18",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2012-06-18"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3190121",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-151685-000-00-FA",
+    "project": "Data center work — Alteration (2012-151685-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-12-17",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3190121_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1956544",
+    "locator": "All Permits layer 22; folder 3190121",
+    "details": {
+      "folderkey": "3190121",
+      "object_id": 1956544,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-12-17",
+        "FINALED": "2014-03-13",
+        "INTAKECOMPLETEDATE": "2012-06-18"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3229281",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-190515-000-00-FA",
+    "project": "Data center work — Alteration (2012-190515-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2012-10-04",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3229281_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1973867",
+    "locator": "All Permits layer 22; folder 3229281",
+    "details": {
+      "folderkey": "3229281",
+      "object_id": 1973867,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-10-04",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2012-10-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3229282",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-190516-000-00-FA",
+    "project": "Data center work — Alteration (2012-190516-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-10-18",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3229282_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1973868",
+    "locator": "All Permits layer 22; folder 3229282",
+    "details": {
+      "folderkey": "3229282",
+      "object_id": 1973868,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-10-18",
+        "FINALED": "2014-02-19",
+        "INTAKECOMPLETEDATE": "2012-10-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3229283",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-190517-000-00-FA",
+    "project": "Data center work — Alteration (2012-190517-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-10-18",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3229283_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1973869",
+    "locator": "All Permits layer 22; folder 3229283",
+    "details": {
+      "folderkey": "3229283",
+      "object_id": 1973869,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-10-18",
+        "FINALED": "2014-02-05",
+        "INTAKECOMPLETEDATE": "2012-10-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3232732",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-193945-000-00-FA",
+    "project": "Data center work — Alteration (2012-193945-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-10-15",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3232732_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1975149",
+    "locator": "All Permits layer 22; folder 3232732",
+    "details": {
+      "folderkey": "3232732",
+      "object_id": 1975149,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-10-15",
+        "FINALED": "2013-01-24",
+        "INTAKECOMPLETEDATE": "2012-10-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3232922",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-194135-000-00-FA",
+    "project": "Data center work — Alteration (2012-194135-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-12-06",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3232922_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1975203",
+    "locator": "All Permits layer 22; folder 3232922",
+    "details": {
+      "folderkey": "3232922",
+      "object_id": 1975203,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-12-06",
+        "FINALED": "2014-02-05",
+        "INTAKECOMPLETEDATE": "2012-10-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3232931",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-194144-000-00-FA",
+    "project": "Data center work — Alteration (2012-194144-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-12-06",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3232931_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1975209",
+    "locator": "All Permits layer 22; folder 3232931",
+    "details": {
+      "folderkey": "3232931",
+      "object_id": 1975209,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-12-06",
+        "FINALED": "2014-02-05",
+        "INTAKECOMPLETEDATE": "2012-10-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3233937",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-195146-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2012-195146-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2012-10-17",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3233937_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1975642",
+    "locator": "All Permits layer 22; folder 3233937",
+    "details": {
+      "folderkey": "3233937",
+      "object_id": 1975642,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2012-10-17",
+        "FINALED": "2012-10-23",
+        "INTAKECOMPLETEDATE": "2012-10-17"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3242773",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-203942-000-00-FA",
+    "project": "Data center work — Alteration (2012-203942-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2012-11-09",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3242773_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1979340",
+    "locator": "All Permits layer 22; folder 3242773",
+    "details": {
+      "folderkey": "3242773",
+      "object_id": 1979340,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2012-11-09",
+        "FINALED": "2013-01-24",
+        "INTAKECOMPLETEDATE": "2012-11-09"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER"
+    }
+  },
+  {
+    "id": "westmetro-portland-3244866",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2012-206012-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2012-206012-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2012-11-28",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3244866_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1980289",
+    "locator": "All Permits layer 22; folder 3244866",
+    "details": {
+      "folderkey": "3244866",
+      "object_id": 1980289,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2012-11-28",
+        "FINALED": "2012-12-05",
+        "INTAKECOMPLETEDATE": "2012-11-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3260063",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-101184-000-00-FA",
+    "project": "Data center work — Alteration (2013-101184-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-01-04",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3260063_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1986430",
+    "locator": "All Permits layer 22; folder 3260063",
+    "details": {
+      "folderkey": "3260063",
+      "object_id": 1986430,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-01-04",
+        "FINALED": "2013-10-08",
+        "INTAKECOMPLETEDATE": "2013-01-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3265836",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-106844-000-00-FA",
+    "project": "Data center work — Alteration (2013-106844-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-01-18",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3265836_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1988486",
+    "locator": "All Permits layer 22; folder 3265836",
+    "details": {
+      "folderkey": "3265836",
+      "object_id": 1988486,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-01-18",
+        "FINALED": "2013-10-08",
+        "INTAKECOMPLETEDATE": "2013-01-18"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3285731",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-126355-000-00-FA",
+    "project": "Data center work — Alteration (2013-126355-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-03-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3285731_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/1995791",
+    "locator": "All Permits layer 22; folder 3285731",
+    "details": {
+      "folderkey": "3285731",
+      "object_id": 1995791,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-03-12",
+        "FINALED": "2013-07-16",
+        "INTAKECOMPLETEDATE": "2013-03-11"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3298011",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-138421-000-00-FA",
+    "project": "Data center work — Alteration (2013-138421-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-04-11",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3298011_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2000695",
+    "locator": "All Permits layer 22; folder 3298011",
+    "details": {
+      "folderkey": "3298011",
+      "object_id": 2000695,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-04-11",
+        "FINALED": "2014-03-10",
+        "INTAKECOMPLETEDATE": "2013-04-11"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3298756",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-139151-000-00-FA",
+    "project": "Data center work — Alteration (2013-139151-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2013-04-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3298756_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2001053",
+    "locator": "All Permits layer 22; folder 3298756",
+    "details": {
+      "folderkey": "3298756",
+      "object_id": 2001053,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-04-12",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2013-04-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3298759",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-139154-000-00-FA",
+    "project": "Data center work — Alteration (2013-139154-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-05-03",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3298759_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2001056",
+    "locator": "All Permits layer 22; folder 3298759",
+    "details": {
+      "folderkey": "3298759",
+      "object_id": 2001056,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-05-03",
+        "FINALED": "2015-02-26",
+        "INTAKECOMPLETEDATE": "2013-04-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3304169",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-144482-000-00-FA",
+    "project": "Data center work — Alteration (2013-144482-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-04-30",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3304169_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2003573",
+    "locator": "All Permits layer 22; folder 3304169",
+    "details": {
+      "folderkey": "3304169",
+      "object_id": 2003573,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-04-30",
+        "FINALED": "2014-01-22",
+        "INTAKECOMPLETEDATE": "2013-04-28"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3311758",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-152000-000-00-FA",
+    "project": "Data center work — Alteration (2013-152000-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-06-28",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3311758_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2005744",
+    "locator": "All Permits layer 22; folder 3311758",
+    "details": {
+      "folderkey": "3311758",
+      "object_id": 2005744,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-06-28",
+        "FINALED": "2015-03-23",
+        "INTAKECOMPLETEDATE": "2013-05-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3314486",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-154707-000-00-FA",
+    "project": "Data center work — Alteration (2013-154707-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-05-15",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3314486_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2006618",
+    "locator": "All Permits layer 22; folder 3314486",
+    "details": {
+      "folderkey": "3314486",
+      "object_id": 2006618,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-05-15",
+        "FINALED": "2014-01-22",
+        "INTAKECOMPLETEDATE": "2013-05-15"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3322051",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-162188-000-00-FA",
+    "project": "Data center work — Alteration (2013-162188-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-05-31",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3322051_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2009183",
+    "locator": "All Permits layer 22; folder 3322051",
+    "details": {
+      "folderkey": "3322051",
+      "object_id": 2009183,
+      "case_type": "Fire Alarms",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-05-31",
+        "FINALED": "2014-02-01",
+        "INTAKECOMPLETEDATE": "2013-05-31"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3327415",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-167501-000-00-FS",
+    "project": "Data center work — Addition (2013-167501-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2013-06-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3327415_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2011473",
+    "locator": "All Permits layer 22; folder 3327415",
+    "details": {
+      "folderkey": "3327415",
+      "object_id": 2011473,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Addition",
+      "source_dates": {
+        "ISSUED": "2013-06-26",
+        "FINALED": "2015-03-30",
+        "INTAKECOMPLETEDATE": "2013-06-13"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3328225",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-168301-000-00-FA",
+    "project": "Data center work — Alteration (2013-168301-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-06-14",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3328225_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2011839",
+    "locator": "All Permits layer 22; folder 3328225",
+    "details": {
+      "folderkey": "3328225",
+      "object_id": 2011839,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-06-14",
+        "FINALED": "2013-10-08",
+        "INTAKECOMPLETEDATE": "2013-06-14"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3331829",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-171865-000-00-FA",
+    "project": "Data center work — Alteration (2013-171865-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2013-06-25",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3331829_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2013264",
+    "locator": "All Permits layer 22; folder 3331829",
+    "details": {
+      "folderkey": "3331829",
+      "object_id": 2013264,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-06-25",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2013-06-25"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3331832",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-171867-000-00-FA",
+    "project": "Data center work — Alteration (2013-171867-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2014-11-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3331832_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2013267",
+    "locator": "All Permits layer 22; folder 3331832",
+    "details": {
+      "folderkey": "3331832",
+      "object_id": 2013267,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2014-11-12",
+        "FINALED": "2021-07-27",
+        "INTAKECOMPLETEDATE": "2013-06-25"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3346461",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-186376-000-00-FA",
+    "project": "Data center work — Alteration (2013-186376-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2013-07-30",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3346461_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2019140",
+    "locator": "All Permits layer 22; folder 3346461",
+    "details": {
+      "folderkey": "3346461",
+      "object_id": 2019140,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-07-30",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2013-07-30"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3347450",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-187351-000-00-FA",
+    "project": "Data center work — Alteration (2013-187351-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-08-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3347450_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2019615",
+    "locator": "All Permits layer 22; folder 3347450",
+    "details": {
+      "folderkey": "3347450",
+      "object_id": 2019615,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-08-26",
+        "FINALED": "2014-09-26",
+        "INTAKECOMPLETEDATE": "2013-07-31"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3347462",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2013-187363-000-00-FA",
+    "project": "Data center work — Alteration (2013-187363-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2013-08-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3347462_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2019618",
+    "locator": "All Permits layer 22; folder 3347462",
+    "details": {
+      "folderkey": "3347462",
+      "object_id": 2019618,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2013-08-26",
+        "FINALED": "2014-01-13",
+        "INTAKECOMPLETEDATE": "2013-07-31"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3410338",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2014-106221-000-00-FA",
+    "project": "Data center work — Alteration (2014-106221-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2014-01-16",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3410338_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2045858",
+    "locator": "All Permits layer 22; folder 3410338",
+    "details": {
+      "folderkey": "3410338",
+      "object_id": 2045858,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2014-01-16",
+        "FINALED": "2014-02-26",
+        "INTAKECOMPLETEDATE": "2014-01-16"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3537932",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2014-231984-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2014-231984-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2014-10-29",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3537932_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2098525",
+    "locator": "All Permits layer 22; folder 3537932",
+    "details": {
+      "folderkey": "3537932",
+      "object_id": 2098525,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2014-10-29",
+        "FINALED": "2014-11-03",
+        "INTAKECOMPLETEDATE": "2014-10-29"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3539923",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2014-233959-000-00-MT",
+    "project": "Data center work — Addition/Alteration/Replace (MT) (2014-233959-000-00-MT)",
+    "kind": "Mechanical Permit",
+    "status": "Final",
+    "date": "2014-11-19",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3539923_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2099435",
+    "locator": "All Permits layer 22; folder 3539923",
+    "details": {
+      "folderkey": "3539923",
+      "object_id": 2099435,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replace (MT)",
+      "source_dates": {
+        "ISSUED": "2014-11-19",
+        "FINALED": "2015-04-22",
+        "INTAKECOMPLETEDATE": "2014-11-04"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3609171",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2015-146526-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2015-146526-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2015-04-08",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3609171_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2129307",
+    "locator": "All Permits layer 22; folder 3609171",
+    "details": {
+      "folderkey": "3609171",
+      "object_id": 2129307,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2015-04-08",
+        "FINALED": "2015-05-14",
+        "INTAKECOMPLETEDATE": "2015-04-08"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATACENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3747133",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2015-283042-000-00-FA",
+    "project": "Data center work — Alteration (2015-283042-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2015-12-30",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3747133_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2184161",
+    "locator": "All Permits layer 22; folder 3747133",
+    "details": {
+      "folderkey": "3747133",
+      "object_id": 2184161,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2015-12-30",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2015-12-30"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3747136",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2015-283045-000-00-FA",
+    "project": "Data center work — Alteration (2015-283045-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2016-01-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3747136_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2184163",
+    "locator": "All Permits layer 22; folder 3747136",
+    "details": {
+      "folderkey": "3747136",
+      "object_id": 2184163,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2016-01-12",
+        "FINALED": "2016-05-13",
+        "INTAKECOMPLETEDATE": "2015-12-30"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3754764",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2016-106721-000-00-FA",
+    "project": "Data center work — Alteration (2016-106721-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2016-04-04",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3754764_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2187165",
+    "locator": "All Permits layer 22; folder 3754764",
+    "details": {
+      "folderkey": "3754764",
+      "object_id": 2187165,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2016-04-04",
+        "FINALED": "2016-05-12",
+        "INTAKECOMPLETEDATE": "2016-01-17"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3861605",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2016-211583-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2016-211583-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2016-07-26",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3861605_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2232433",
+    "locator": "All Permits layer 22; folder 3861605",
+    "details": {
+      "folderkey": "3861605",
+      "object_id": 2232433,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2016-07-26",
+        "FINALED": "2016-11-07",
+        "INTAKECOMPLETEDATE": "2016-07-26"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3917820",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2016-267112-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2016-267112-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2016-12-01",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3917820_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2254452",
+    "locator": "All Permits layer 22; folder 3917820",
+    "details": {
+      "folderkey": "3917820",
+      "object_id": 2254452,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2016-12-01",
+        "FINALED": "2017-04-18",
+        "INTAKECOMPLETEDATE": "2016-10-31"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-3970654",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2017-125060-000-00-MT",
+    "project": "Data center work — New Construction (2017-125060-000-00-MT)",
+    "kind": "Mechanical Permit",
+    "status": "Final",
+    "date": "2017-02-28",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/3970654_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2278173",
+    "locator": "All Permits layer 22; folder 3970654",
+    "details": {
+      "folderkey": "3970654",
+      "object_id": 2278173,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "New Construction",
+      "source_dates": {
+        "ISSUED": "2017-02-28",
+        "FINALED": "2017-09-11",
+        "INTAKECOMPLETEDATE": "2017-02-22"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4125351",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2017-276649-000-00-FA",
+    "project": "Data center work — Alteration (2017-276649-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2017-11-29",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4125351_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2345570",
+    "locator": "All Permits layer 22; folder 4125351",
+    "details": {
+      "folderkey": "4125351",
+      "object_id": 2345570,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2017-11-29",
+        "FINALED": "2017-12-12",
+        "INTAKECOMPLETEDATE": "2017-11-29"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4169853",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2018-129542-000-00-FA",
+    "project": "Data center work — Alteration (2018-129542-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2018-03-02",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4169853_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2365337",
+    "locator": "All Permits layer 22; folder 4169853",
+    "details": {
+      "folderkey": "4169853",
+      "object_id": 2365337,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2018-03-02",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2018-03-02"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4169860",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2018-129548-000-00-FA",
+    "project": "Data center work — Alteration (2018-129548-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2018-03-16",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4169860_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2365343",
+    "locator": "All Permits layer 22; folder 4169860",
+    "details": {
+      "folderkey": "4169860",
+      "object_id": 2365343,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2018-03-16",
+        "FINALED": "2019-01-17",
+        "INTAKECOMPLETEDATE": "2018-03-02"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4179126",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2018-138544-000-00-FA",
+    "project": "Data center work — Alteration (2018-138544-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2018-03-21",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4179126_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2369682",
+    "locator": "All Permits layer 22; folder 4179126",
+    "details": {
+      "folderkey": "4179126",
+      "object_id": 2369682,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2018-03-21",
+        "FINALED": "2018-04-17",
+        "INTAKECOMPLETEDATE": "2018-03-21"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4428995",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2019-197985-000-00-FA",
+    "project": "Data center work — Alteration (2019-197985-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2019-07-24",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4428995_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2476642",
+    "locator": "All Permits layer 22; folder 4428995",
+    "details": {
+      "folderkey": "4428995",
+      "object_id": 2476642,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2019-07-24",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2019-07-24"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4429009",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2019-197999-000-00-FA",
+    "project": "Data center work — Alteration (2019-197999-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2019-07-24",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4429009_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2476644",
+    "locator": "All Permits layer 22; folder 4429009",
+    "details": {
+      "folderkey": "4429009",
+      "object_id": 2476644,
+      "case_type": "Fire Alarms",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2019-07-24",
+        "FINALED": "2019-09-11",
+        "INTAKECOMPLETEDATE": "2019-07-24"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4755251",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2021-085101-REV-01-FA",
+    "project": "Data center work — Alteration (2021-085101-REV-01-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2021-12-28",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4755251_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/2631135",
+    "locator": "All Permits layer 22; folder 4755251",
+    "details": {
+      "folderkey": "4755251",
+      "object_id": 2631135,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2021-12-28",
+        "FINALED": "2022-07-26",
+        "INTAKECOMPLETEDATE": "2021-12-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4822024",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-158918-000-00-EA",
+    "project": "Data center work — EA-Zoning & Inf. Bur.- w/mtg (2022-158918-000-00-EA)",
+    "kind": "Early Assistance",
+    "status": "Completed",
+    "date": "2022-06-30",
+    "date_role": "Intake completed",
+    "url": "https://www.portlandmaps.com/detail/permit/4822024_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4822024",
+    "locator": "All Permits layer 22; folder 4822024",
+    "details": {
+      "folderkey": "4822024",
+      "object_id": 4822024,
+      "case_type": "EA-Zoning & Inf. Bur.- w/mtg",
+      "work_type": "",
+      "source_dates": {
+        "ISSUED": null,
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2022-06-30"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4853869",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-189075-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2022-189075-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2023-01-19",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4853869_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4853869",
+    "locator": "All Permits layer 22; folder 4853869",
+    "details": {
+      "folderkey": "4853869",
+      "object_id": 4853869,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2023-01-19",
+        "FINALED": "2023-06-23",
+        "INTAKECOMPLETEDATE": "2022-10-06"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4864898",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-199548-000-00-FA",
+    "project": "Data center work — Alteration (2022-199548-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2022-11-02",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4864898_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4864898",
+    "locator": "All Permits layer 22; folder 4864898",
+    "details": {
+      "folderkey": "4864898",
+      "object_id": 4864898,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2022-11-02",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2022-11-02"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4864900",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-199550-000-00-FA",
+    "project": "Data center work — Alteration (2022-199550-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2024-01-24",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4864900_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4864900",
+    "locator": "All Permits layer 22; folder 4864900",
+    "details": {
+      "folderkey": "4864900",
+      "object_id": 4864900,
+      "case_type": "Building",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2024-01-24",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2022-11-02"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4864902",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-199552-000-00-FA",
+    "project": "Data center work — Alteration (2022-199552-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2024-01-24",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4864902_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4864902",
+    "locator": "All Permits layer 22; folder 4864902",
+    "details": {
+      "folderkey": "4864902",
+      "object_id": 4864902,
+      "case_type": "Mechanical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2024-01-24",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2022-11-02"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4867288",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-201809-000-00-FA",
+    "project": "Data center work — Alteration (2022-201809-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2022-11-10",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4867288_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4867288",
+    "locator": "All Permits layer 22; folder 4867288",
+    "details": {
+      "folderkey": "4867288",
+      "object_id": 4867288,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2022-11-10",
+        "FINALED": "2024-02-08",
+        "INTAKECOMPLETEDATE": "2022-11-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4869021",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-203461-000-00-FS",
+    "project": "Data center work — Addition (2022-203461-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2022-12-13",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4869021_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4869021",
+    "locator": "All Permits layer 22; folder 4869021",
+    "details": {
+      "folderkey": "4869021",
+      "object_id": 4869021,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Addition",
+      "source_dates": {
+        "ISSUED": "2022-12-13",
+        "FINALED": "2023-06-06",
+        "INTAKECOMPLETEDATE": "2022-11-18"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4869036",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-203475-000-00-FA",
+    "project": "Data center work — Alteration (2022-203475-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2022-11-30",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4869036_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4869036",
+    "locator": "All Permits layer 22; folder 4869036",
+    "details": {
+      "folderkey": "4869036",
+      "object_id": 4869036,
+      "case_type": "Fire Sprinklers",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2022-11-30",
+        "FINALED": "2023-01-19",
+        "INTAKECOMPLETEDATE": "2022-11-16"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4878157",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2022-212116-000-00-FS",
+    "project": "Data center work — Alteration (2022-212116-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2023-01-06",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4878157_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4878157",
+    "locator": "All Permits layer 22; folder 4878157",
+    "details": {
+      "folderkey": "4878157",
+      "object_id": 4878157,
+      "case_type": "Fire Alarms",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2023-01-06",
+        "FINALED": "2023-05-18",
+        "INTAKECOMPLETEDATE": "2022-12-19"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4920417",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2023-037379-000-00-FS",
+    "project": "Data center work — New (2023-037379-000-00-FS)",
+    "kind": "Fire Systems Permit",
+    "status": "Final",
+    "date": "2023-05-11",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4920417_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4920417",
+    "locator": "All Permits layer 22; folder 4920417",
+    "details": {
+      "folderkey": "4920417",
+      "object_id": 4920417,
+      "case_type": "Fire Sprinklers",
+      "work_type": "New",
+      "source_dates": {
+        "ISSUED": "2023-05-11",
+        "FINALED": "2025-07-11",
+        "INTAKECOMPLETEDATE": "2023-05-09"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4932136",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2023-048520-000-00-NV",
+    "project": "Data center work — Construction Crane Erection (2023-048520-000-00-NV)",
+    "kind": "Noise Variance",
+    "status": "Closed",
+    "date": "2023-06-05",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4932136_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4932136",
+    "locator": "All Permits layer 22; folder 4932136",
+    "details": {
+      "folderkey": "4932136",
+      "object_id": 4932136,
+      "case_type": "Construction",
+      "work_type": "Construction Crane Erection",
+      "source_dates": {
+        "ISSUED": "2023-06-05",
+        "FINALED": "2023-06-12",
+        "INTAKECOMPLETEDATE": "2023-06-05"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "datacenter",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-4975589",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2023-090321-000-00-ET",
+    "project": "Data center work — New Construction (2023-090321-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Final",
+    "date": "2025-01-30",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/4975589_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/4975589",
+    "locator": "All Permits layer 22; folder 4975589",
+    "details": {
+      "folderkey": "4975589",
+      "object_id": 4975589,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "New Construction",
+      "source_dates": {
+        "ISSUED": "2025-01-30",
+        "FINALED": "2026-03-31",
+        "INTAKECOMPLETEDATE": "2023-10-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5135540",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2025-021591-000-00-MT",
+    "project": "Data center work — Addition/Alteration/Replace (MT) (2025-021591-000-00-MT)",
+    "kind": "Mechanical Permit",
+    "status": "Expired",
+    "date": "2026-01-16",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/5135540_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5135540",
+    "locator": "All Permits layer 22; folder 5135540",
+    "details": {
+      "folderkey": "5135540",
+      "object_id": 5135540,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replace (MT)",
+      "source_dates": {
+        "ISSUED": "2026-01-16",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2025-03-19"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5180188",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2025-064473-000-00-PR",
+    "project": "Data center work — Notice of Use Determination (2025-064473-000-00-PR)",
+    "kind": "Public Registry",
+    "status": "Completed",
+    "date": "2025-08-13",
+    "date_role": "Intake completed",
+    "url": "https://www.portlandmaps.com/detail/permit/5180188_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5180188",
+    "locator": "All Permits layer 22; folder 5180188",
+    "details": {
+      "folderkey": "5180188",
+      "object_id": 5180188,
+      "case_type": "Tier 3",
+      "work_type": "Notice of Use Determination",
+      "source_dates": {
+        "ISSUED": null,
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2025-08-13"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5273725",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2026-050696-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2026-050696-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Under Inspection",
+    "date": "2026-07-09",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/5273725_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5273725",
+    "locator": "All Permits layer 22; folder 5273725",
+    "details": {
+      "folderkey": "5273725",
+      "object_id": 5273725,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2026-07-09",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2026-07-09"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "Data Center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5288266",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2026-064730-000-00-ET",
+    "project": "Data center work — Addition/Alteration/Replacement (2026-064730-000-00-ET)",
+    "kind": "Electrical Permit",
+    "status": "Issued",
+    "date": "2026-08-31",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/5288266_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5288266",
+    "locator": "All Permits layer 22; folder 5288266",
+    "details": {
+      "folderkey": "5288266",
+      "object_id": 5288266,
+      "case_type": "Commercial/Multifamily",
+      "work_type": "Addition/Alteration/Replacement",
+      "source_dates": {
+        "ISSUED": "2026-08-31",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2026-08-31"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5290082",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2026-066468-000-00-FA",
+    "project": "Data center work — Alteration (2026-066468-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2026-09-08",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/5290082_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5290082",
+    "locator": "All Permits layer 22; folder 5290082",
+    "details": {
+      "folderkey": "5290082",
+      "object_id": 5290082,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2026-09-08",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2026-09-08"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5290705",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2026-067067-000-00-EA",
+    "project": "Data center work — EA-Zoning & Inf. Bur.- w/mtg (2026-067067-000-00-EA)",
+    "kind": "Early Assistance",
+    "status": "Completed",
+    "date": "2026-09-10",
+    "date_role": "Intake completed",
+    "url": "https://www.portlandmaps.com/detail/permit/5290705_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5290705",
+    "locator": "All Permits layer 22; folder 5290705",
+    "details": {
+      "folderkey": "5290705",
+      "object_id": 5290705,
+      "case_type": "EA-Zoning & Inf. Bur.- w/mtg",
+      "work_type": "",
+      "source_dates": {
+        "ISSUED": null,
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2026-09-10"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "data center",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5299585",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2026-075574-000-00-FA",
+    "project": "Data center work — Alteration (2026-075574-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Issued",
+    "date": "2026-10-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/5299585_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5299585",
+    "locator": "All Permits layer 22; folder 5299585",
+    "details": {
+      "folderkey": "5299585",
+      "object_id": 5299585,
+      "case_type": "Project",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2026-10-12",
+        "FINALED": null,
+        "INTAKECOMPLETEDATE": "2026-10-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  },
+  {
+    "id": "westmetro-portland-5299592",
+    "state": "OR",
+    "jurisdiction": "Portland",
+    "dataset": "PortlandMaps all permits",
+    "record_no": "2026-075580-000-00-FA",
+    "project": "Data center work — Alteration (2026-075580-000-00-FA)",
+    "kind": "Facility Permit",
+    "status": "Final",
+    "date": "2026-10-12",
+    "date_role": "Issued",
+    "url": "https://www.portlandmaps.com/detail/permit/5299592_did/",
+    "source_url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit/MapServer/22/5299592",
+    "locator": "All Permits layer 22; folder 5299592",
+    "details": {
+      "folderkey": "5299592",
+      "object_id": 5299592,
+      "case_type": "Electrical",
+      "work_type": "Alteration",
+      "source_dates": {
+        "ISSUED": "2026-10-12",
+        "FINALED": "2026-10-13",
+        "INTAKECOMPLETEDATE": "2026-10-12"
+      },
+      "scope": "A record explicitly mentioning a data center or server farm; includes accessory rooms, equipment and tenant work, not proof of a standalone campus.",
+      "matched_term": "DATA CENTER",
+      "county": "Multnomah County"
+    }
+  }
+]

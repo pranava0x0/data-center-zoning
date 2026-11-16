@@ -1,0 +1,492 @@
+{
+  "max": {
+    "coldReadyMs": 1800,
+    "coldAssetBytes": 1550000,
+    "filterMs": 240,
+    "stateHistoryMs": 1600,
+    "overflowPixels": 1,
+    "unexpectedExternalRequests": 0
+  },
+  "journeys": {
+    "firstRule": {
+      "actions": 0,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "botetourtFinding": {
+      "actions": 2,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "primarySource": {
+      "actions": 1,
+      "swipes": 0,
+      "navigations": 1
+    },
+    "evidence": {
+      "actions": 1,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "localPermitHistory": {
+      "actions": 1,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "findCase": {
+      "actions": 2,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "desktopHover": {
+      "actions": 0,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "mobileMapSelection": {
+      "actions": 2,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "switchStateHistory": {
+      "actions": 2,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedOhioPermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedTexasPlan": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedArizonaPermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedIndianaPermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedTennesseePermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedNevadaPermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedMississippiPermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedLouisianaPermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "namedAlbuquerquePermit": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ca": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ga": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ny": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_portal_il": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_case_fl": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_pa": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_portal_wa": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_portal_md": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_portal_ma": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_case_gu": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_mn": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fl": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_nj": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_co": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_or": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_mi": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_case_de": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_case_me": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ut": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_nc": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_council_nh": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ok": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_case_ri": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_sc": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_wa": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_dc": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ia": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ky": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_al": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_wi": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_nd": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ks": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ct": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_case_pa": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_wv": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ne": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_id": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_mt": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_wy": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_vt": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_sd": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_hi": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ak": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_md": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fed_ma": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fed_id": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fed_gu": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fed_ok": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ma": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_ca": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_ga": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_il": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_in": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_ks": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_la": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_mn": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_nc": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_nd": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_ne": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_nv": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_oh": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_ok": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_or": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_pa": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_sc": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_tn": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_tx": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_va": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_corps_wi": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fast_oh": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_fast_va": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_land_nv": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_land_sc": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_land_va": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_ar": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_pr": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    },
+    "case_federalair_nd": {
+      "actions": 5,
+      "swipes": 0,
+      "navigations": 0
+    }
+  },
+  "portableScale": {
+    "baselineRows": 6731,
+    "bytesPerAdditionalRow": 150,
+    "hardCapBytes": 3500000
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cutoff": "2026-11-16",
+  "counts": {
+    "Georgia EPD issued air permits": 70,
+    "Atlanta Regional Commission DRI reviews": 30,
+    "City of Alpharetta commercial permits": 2,
+    "Douglas County Planning and Zoning agendas": 6,
+    "City of South Fulton zoning information meeting": 1
+  },
+  "state_air_candidates": 81,
+  "arc_candidates": 34,
+  "holds": 15,
+  "alpharetta_layers": {
+    "Commercial Permits": {
+      "total": 392,
+      "query_hits": 2
+    },
+    "Land Disturbance Permits": {
+      "total": 11,
+      "query_hits": 0
+    },
+    "Tree Permits": {
+      "total": 23,
+      "query_hits": 0
+    }
+  }
+}

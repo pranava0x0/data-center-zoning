@@ -1,0 +1,70 @@
+state,government,government_id,homepage,source,source_sha256,client
+AK,BOROUGH OF KENAI PENINSULA,02100900400000,https://www.borough.kenai.ak.us/,https://www.kpb.us/,86588614d93da9c73c729f6884ca8dd0d5d22051a2ae6d57c15f71182ad04aba,kpb
+AK,BOROUGH OF KENAI PENINSULA,02100900400000,https://www.borough.kenai.ak.us/,https://www.kpb.us/local-governance-and-permitting/land-use,31b1ff36fa6a98ea78ee2637bae90f3825c5373d4cc993489a3eb7d1c7206a5b,kpb
+AK,BOROUGH OF KENAI PENINSULA,02100900400000,https://www.borough.kenai.ak.us/,https://www.kpb.us/local-governance-and-permitting/land-use/local-option-zoning/local-option-zoning-overview,4e48e0c4205c719b9d22832883ed3d4be26601be7691971600928ed00f644bf5,kpb
+AK,BOROUGH OF MATANUSKA-SUSITNA,02101300700000,https://www.matsugov.us,https://matsu.gov/,378a9c7f02e58acf74e060892cbf8fe7fe30ab9ead5ff91632866fcbe601b8c3,matanuska
+AL,COUNTY OF BALDWIN,01100200200000,https://www.baldwincountyal.gov,https://www.baldwincountyal.gov,b36d53c98709663a9578be42a1c608ccc2f962c6e55ba1f20ecf2d1c21e16933,baldwincountyal
+AZ,CITY OF LAKE HAVASU CITY,03200860100000,https://www.lhcaz.gov/,https://www.lhcaz.gov/Calendar.aspx?EID=1066,123f16af2bca42fbef519dad0cdc3126880d659a2e9259d0f6600e088d13d24f,lakehavasucity
+AZ,COUNTY OF PIMA,03101001000000,https://www.pima.gov/,https://www.pima.gov/,0ffecbfa2296c7074de46ef336b2a69745127da8766b99a738085041f3b437f1,pima
+CA,CITY OF CHINO,05203600200000,https://cityofchino.org,https://cityofchino.org,e8301f888c86e7048c7b544c01d07b2aa27f5e6a555238c468892a0a693ed7d1,chino
+CA,CITY OF CHINO,05203600200000,https://cityofchino.org,https://cityofchino.org/Calendar.aspx?EID=1570,4b66ad17d1ec6918caf02138fbd7a137efeec782a9953bad84cd1a600a780877,chino
+CA,CITY OF FONTANA,05203600400000,https://www.fontana.org,https://www.fontanaca.gov/,157a8f5de49dbbb72e404d02a5a57f683aee122ca8d896f202b4649cdc340a20,fontana
+CA,CITY OF FONTANA,05203600400000,https://www.fontana.org,https://www.fontanaca.gov/Calendar.aspx?EID=7175,693b3cc5eea5cc635a895fc4788cf25c71c3be66b1c4e1e92b3bd541b9c3136c,fontana
+CA,CITY OF FORT BRAGG,05202300100000,https://www.city.fortbragg.com,https://www.fortbraggca.gov/,70e5a017ca69917179cf905b9482e4da5a7edb206541cd3995c0dd4848e96e8d,cityfortbragg
+CA,CITY OF FORT BRAGG,05202300100000,https://www.city.fortbragg.com,https://www.fortbraggca.gov/departments/community_development/general_plan_zoning_information/index.php,be752cbefef81b61bf276a9729bca81b18b4fb3c8c02a09ec3576c39ba69980b,cityfortbragg
+CA,CITY OF FRESNO,05201000500000,https://www.fresno.gov,https://www.fresno.gov,27b330fded22bf96c428f6e7908c6739298a7ad240f2fdafc21f0c7224b325fc,fresno
+CA,CITY OF NAPA,05202800200000,https://www.cityofnapa.org,https://www.cityofnapa.org,21dba102ff1815e1105b1ced808c9a7687c5bfaf8cd6611a30b552c4aff3880d,napacity
+CA,CITY OF NAPA,05202800200000,https://www.cityofnapa.org,https://www.cityofnapa.org/1392/Harvest-Park-Project,94f10603ec6f5375f2df34ab02df9573e42d955d0581f79197cc530f3cc15e97,napacity
+CA,CITY OF NEWPORT BEACH,05203001200000,https://www.newportbeachca.gov/,https://www.newportbeachca.gov/,0a7e754c71e4deb27c507db4d5321e9d64cdf7b12662db37c4cdcf4fb70413d0,newportbeach
+CA,CITY OF RIVERSIDE,05203301200000,https://www.riversideca.gov/,https://www.riversideca.gov/,5cbae912ad5f05bd6e2b6ae70b60bbad174db4a6c5e7b06fd7582872594624bd,riversideca
+CA,CITY OF SIGNAL HILL,05201904300000,https://www.cityofsignalhill.org,https://www.cityofsignalhill.org,4d9780231d148fe254b3de97f086f09f3cb8905d7d11f518f45af07f8c66853c,cityofsignalhill
+CA,CITY OF SIGNAL HILL,05201904300000,https://www.cityofsignalhill.org,https://www.cityofsignalhill.org/745/Overlay-Zoning-District,5fe8d57d7bf7a9203fd69478e04d235658f10f06fa839607eab4ee65d729fc2d,cityofsignalhill
+CA,CITY OF SIGNAL HILL,05201904300000,https://www.cityofsignalhill.org,https://www.cityofsignalhill.org/98/Planning,95e32324a272ed85ba5cc28baf985201e342f80169052654f2dee7642cfb1c8b,cityofsignalhill
+CA,COUNTY OF SAN BERNARDINO,05103603600000,https://www.sbcounty.gov,https://main.sbcounty.gov/,a9faf1d3df8d46f57071bac31a59689db099bfc27a83d966fd14cdb58d323f23,sanbernardino
+CA,COUNTY OF SAN MATEO,05104104000000,https://www.smcgov.org,https://www.smcgov.org,0b4f40ca7ec7a02ada290d3b9ec3c07588316e3ff6f9c5223a2d2640ad66ec85,sanmateocounty
+CT,TOWN OF LEDYARD,07300600800000,https://www.ledyardct.org,https://www.ledyardct.gov/,e37952875a69dd90767119090eb7223eb438a71bb6983e8b8fc8908c021b4e23,ledyardct
+FL,CITY OF COCOA,10200500100000,https://www.cocoafl.org/,https://www.cocoafl.gov/,0b6d414c23b67de9fe2268e94337ba8ec50888b10b29dc9bced90909ee24b865,cocoa
+FL,CITY OF COCOA,10200500100000,https://www.cocoafl.org/,https://www.cocoafl.gov/1868/Planning,014134c10924fd8990f6538951e4b8431db697a5330c66d262a05dbf92acb03a,cocoa
+FL,CITY OF DELTONA,10206420200000,https://www.deltonafl.gov,https://www.deltonafl.gov,5f646ebff5cc2a98e5e6eb8468d363f20492fd3597546036e3bd527b3d22ef9d,deltona
+FL,COUNTY OF DE SOTO,10101401400000,https://www.desotobocc.com,https://www.desotobocc.com,1d713383454ccbe5f54362ce5ea95808c7f000deb13e7d920cda3730bfa4e1a9,desotobocc
+FL,COUNTY OF HERNANDO,10102702700000,https://www.hernandocounty.us,https://www.hernandocounty.us,e756d88bdcb72c74c207d1a1aafddbaa272f87c6f37d0e76e4646aef40e25538,hernandocountyfl
+FL,COUNTY OF PINELLAS,10105205200000,https://www.pinellascounty.org,https://pinellas.gov/,f2de58dd6cbbfb615759f14106438c4c975d010e92d2d5edb0ea60ffb980c703,pinellas
+FL,COUNTY OF PINELLAS,10105205200000,https://www.pinellascounty.org,https://pinellas.gov/data-center/,97058a5cdb2d066ce738bceb142aa96e04673d880c335755203a1c7535e934be,pinellas
+FL,COUNTY OF PINELLAS,10105205200000,https://www.pinellascounty.org,https://pinellas.gov/ordinances/,4f82c610d0c632af4af7bc07116d3fadba9cdfe446d16b56e914e920b73b2d55,pinellas
+GA,COUNTY OF DEKALB,11104404400000,https://www.dekalbcountyga.gov,https://dekalbcountyga.gov/,05897a7320cc1bcdf9faecfa5a7488fd1b82c83bac8a4e3ebbb10112f6076ae2,dekalbcountyga
+IL,COUNTY OF DUPAGE,14102202200000,https://www.dupageco.org,https://www.dupagecounty.gov/,0f9e16ddf51a300daee50798539e20adee9dc7232e59f4fecad4c51a5b55ef43,dupage
+IL,COUNTY OF DUPAGE,14102202200000,https://www.dupageco.org,https://www.dupagecounty.gov/government/departments/building_and_zoning/,29d2516e91a338b2074b08cd09e33ffab2804424cb6e69bb427e1092e1704b83,dupage
+IL,COUNTY OF DUPAGE,14102202200000,https://www.dupageco.org,https://www.dupagecounty.gov/government/departments/building_and_zoning/zoning_and_planning/zoning/,d997841c3dac2642167713d45f771cb29e7c770581c0af0401b15d75fbfb3718,dupage
+IL,COUNTY OF KANE,14104504500000,https://www.countyofkane.org,https://www.kanecountyil.gov/,24ecd9e2d13fbcbf0fc9296adb9cc23967264430250c751d5edb9a7ac0f5fbbb,countyofkane
+MD,CITY OF ANNAPOLIS,21200200100000,https://www.annapolis.gov,https://www.annapolis.gov,b1b6d674525a42eec453925d6ed8d54beebe42dde05f7cce3b597653f7f59a56,annapolismd
+ME,COUNTY OF CUMBERLAND,20100300300000,https://www.cumberlandcounty.org/,https://www.cumberlandcountyme.gov/,0fe525fa16335bde6391d346bf00fba179785f5d2d99a249e2526c18baf0695a,cumberlandcounty
+ME,COUNTY OF CUMBERLAND,20100300300000,https://www.cumberlandcounty.org/,https://www.cumberlandcountyme.gov/departments/community_development/index.php,c8fee8d76a67db79039f3660efd2ddf5a48d0907600c6b1fbd1797304b1102ab,cumberlandcounty
+ME,COUNTY OF CUMBERLAND,20100300300000,https://www.cumberlandcounty.org/,https://www.cumberlandcountyme.gov/departments/emergency_management_agency/cumberland_lepc.php,226008b2ff197a452a7f4fe7161ebae1740e3d891bda9e980a9ba10fc2e96411,cumberlandcounty
+MI,CITY OF ANN ARBOR,23208100100000,https://www.a2gov.org,https://www.a2gov.org,964c6c3b772f8796acbc990fe655283932f9fecc7fca7d4e257c0b40b23936bb,a2gov
+MS,CITY OF VICKSBURG,25207500100000,https://www.vicksburg.org/,https://www.vicksburg.org/,90a318bd88c44e42ab52fbfd7890f3cc0dc5a2cb711c0042f944345880aec98b,vicksburg-ms
+NC,COUNTY OF ASHE,34100500500000,https://www.ashecountygov.com,https://www.ashecountygov.com,dc74c3b585c47543b76ec4ec5f061c5e66d52f86be2f968073ed0db583a2c8cd,ashecounty
+NC,COUNTY OF ASHE,34100500500000,https://www.ashecountygov.com,https://www.ashecountygov.com/departments/planning,e787b7b8063269c4a870ee39034f31550068980efe261b5ae2a0a63af46f8fff,ashecounty
+NV,COUNTY OF CLARK,29100200200000,https://www.clarkcountynv.gov,https://www.clarkcountynv.gov,3916dbb3405eb93bdd67187e4b5ce0a99a844af93ec17f9d7de1ea872a4715af,clark
+NV,COUNTY OF WASHOE,29101601600000,https://www.washoecounty.us/,https://www.washoecounty.gov/,5f142da37f1cd3bdd969ce086c3f2261b682464cfe03ccf16bfa812c56e38ca0,washoe-nv
+PA,COUNTY OF LACKAWANNA,39103503500000,https://www.lackawannacounty.org/,https://www.lackawannacounty.org/,965b101c72d79d9da397aa92272855f5576a3f1ff6e73363f37c051bdce000ed,lackawanna
+PA,COUNTY OF LACKAWANNA,39103503500000,https://www.lackawannacounty.org/,https://www.lackawannacounty.org/government/departments/planning2.php,aaa4f72de5085fe9d8548d98765ae242ea1de90e4f84b61765da0e3e00e0ecc9,lackawanna
+PA,COUNTY OF LACKAWANNA,39103503500000,https://www.lackawannacounty.org/,https://www.lackawannacounty.org/government/elected_officials/board_of_commissioners/ordinance_archive.php,a7618cc2c9c3d8c51b86caa5d4dd9ad7307cf0260310441d2588062c97ef40d8,lackawanna
+SD,CITY OF BROOKINGS,42200600200000,https://www.cityofbrookings.org,https://www.cityofbrookings-sd.gov/,ff91c4012cf91051733feda5c91630c5f407c6e4d8b2b775ca86962658741812,cityofbrookings
+TN,CITY OF CROSSVILLE,43201800100000,https://www.crossvilletn.gov,https://crossvilletn.gov/,70329d1d2777f497370dd612ccf8cce87bfb0d2da02fc6e819bc9aa9da70d897,crossvilletn
+TX,CITY OF BOERNE,44213000100000,https://www.ci.boerne.tx.us,https://www.ci.boerne.tx.us,7aec7db4047939b45330320d110259120e25a9c3214f5d7a9de73ad906a96630,boerne
+TX,CITY OF BOERNE,44213000100000,https://www.ci.boerne.tx.us,https://www.ci.boerne.tx.us/Calendar.aspx?EID=22450,deb2a0eb61f030c16c5acfe4c2e9357a4fc26e5209881882a8b4a52a3cabfd53,boerne
+TX,CITY OF COPPELL,44205701800000,https://www.coppelltx.gov,https://www.coppelltx.gov,d3f17e1ee14ab431c9520c5c78e26afa49b2b807085091ba80b5a149bf91004a,coppell
+TX,CITY OF DALLAS,44205700700000,https://www.dallascityhall.com,https://dallascityhall.com/Pages/default.aspx,6357263724ed5cf90e162b77cda597e7d8af3c28f1a767ae9b1c8f304bb98183,cityofdallas
+TX,CITY OF DEER PARK,44210100400000,https://www.deerparktx.gov,https://www.deerparktx.gov,94e332096ca7f8dbb0305e44bfbbda51ed1ac4d25c73658e421dcb07af6a0836,cityofdeerpark
+TX,CITY OF PFLUGERVILLE,44222770100000,https://www.pflugervilletx.gov,https://www.pflugervilletx.gov,204b99b1df3ebc94ed5df861e9317166f053f840bb619dde3621a191ab812bb0,pflugerville
+TX,CITY OF ROUND ROCK,44224600600000,https://www.roundrocktexas.gov,https://www.roundrocktexas.gov,6bcf951dc3767221198b7d3327cfb3ee1a52953fc5d592d27194edfcc9320cc1,roundrock
+TX,CITY OF ROUND ROCK,44224600600000,https://www.roundrocktexas.gov,https://www.roundrocktexas.gov/city-departments/planning-and-development-services/,f9cb27af6c7e931f6eec70e4f9d8316ba66ad843777c7f2a7b80a380952e3004,roundrock
+TX,CITY OF SEGUIN,44209400200000,https://www.seguintexas.gov,https://www.seguintexas.gov,1ea58590362fce3e04381870375865b35aee458a8518dcb7e898803fbadc36a4,cityofseguintx
+VA,CITY OF HARRISONBURG,47211600100000,https://www.harrisonburgva.gov,https://www.harrisonburgva.gov,dec1fbcf0c91a496305825ccac91071506889802d543cdcc584de6e92ab5c8c7,harrisonburg-va
+VA,CITY OF HARRISONBURG,47211600100000,https://www.harrisonburgva.gov,https://www.harrisonburgva.gov/planning-zoning,ebe72ec49d7f78089d1318747b00d3b41f62f594e7c8c75ec7f9701544dfe026,harrisonburg-va
+VA,CITY OF HARRISONBURG,47211600100000,https://www.harrisonburgva.gov,https://www.harrisonburgva.gov/zoup-open-house,901b2e44c019006c79da2d61bec42d8e985751c0a0997416db8b0a0b3cd82b48,harrisonburg-va
+WI,CITY OF APPLETON,50204500100000,https://www.appleton.org/,https://www.appletonwi.gov/,21f68edf8ab0f541ea698b6f78bb124cc16b7dc4a1029ea2335e5b950627fb79,cityofappleton
+WI,CITY OF APPLETON,50204500100000,https://www.appleton.org/,https://www.appletonwi.gov/government/departments/community_development/index.php,500300c59df60cd8b76f13400b9802951753faa2a946c1f52214aac67d8232a7,cityofappleton
+WI,CITY OF APPLETON,50204500100000,https://www.appleton.org/,https://www.appletonwi.gov/government/municipal_code.php,001072514abad99b5841ba39e11f8da9136a5a9fcfa30288b81616af74fde9db,cityofappleton
+WI,COUNTY OF DANE,50101301300000,https://www.countyofdane.com,https://www.danecounty.gov/,db8d2794ff48ff6e6135c6afc331ed62874de2551549de2247b208780752a49f,dane
+WI,COUNTY OF DANE,50101301300000,https://www.countyofdane.com,https://www.danecounty.gov/ordinances,f4b98b54abbb07a7345fb3524b282d39d1d84929a6c89f400c2e7679b39eca82,dane

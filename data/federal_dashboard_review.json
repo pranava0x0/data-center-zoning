@@ -1,0 +1,17 @@
+{
+  "extension": {
+    "source": "https://www.permits.performance.gov/sites/permits.dot.gov/files/2026-09/PORTS%20Technology%20Campus%20Executive%20Director%20Determination%209-28-2026.pdf",
+    "mode": "Original PDF reviewed through the public web index. Public bulk data accessible directly; the original decision website rejects direct automated file download.",
+    "pages": [
+      1,
+      2
+    ],
+    "anchor": "For the following reasons, the extension request is GRANTED",
+    "table": "Final permit decision: original and current 12/23/2026, extended 1/29/2027. This is not an issued permit."
+  },
+  "agency_comparison": {
+    "Virginia": "Norfolk District public notice NAO-2021-02695, published June 9, 2026. Government ORM has no approved permit in this extraction.",
+    "Ohio": "USACE case LRH-2026-00354-SCR, environmental action only in the government ORM snapshot. The Council explicitly extended the decision deadline.",
+    "signed_fws_document_coverage": "The ESA outcomes are specifically stated by the Federal Permitting Dashboard. The actual signed letter and biological opinion were not obtained; the rows do not imply a site construction permit."
+  }
+}

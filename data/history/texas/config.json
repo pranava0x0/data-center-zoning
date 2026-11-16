@@ -1,0 +1,89 @@
+{
+  "as_of": "2026-11-15",
+  "pnnl": "https://raw.githubusercontent.com/IMMM-SFA/datacenter-atlas/fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d/static/im3_datacenter_centroids.geojson",
+  "places": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_48_place_500k.zip",
+  "dallas": {
+    "url": "https://www.dallasopendata.com/resource/e7gq-4sah.json",
+    "source": "https://www.dallasopendata.com/Services/Building-Permits/e7gq-4sah",
+    "search": [
+      "work_description",
+      "land_use"
+    ],
+    "fields": ":id as rowid,permit_number,permit_type,issued_date,work_description,land_use,street_address"
+  },
+  "austin": {
+    "url": "https://data.austintexas.gov/resource/3syk-w9eu.json",
+    "source": "https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu",
+    "search": [
+      "description"
+    ],
+    "fields": ":id as rowid,permit_number,permit_type_desc,issue_date,status_current,description,jurisdiction,link,original_address1,project_id,permit_class,work_class"
+  },
+  "fort_worth": {
+    "url": "https://services5.arcgis.com/3ddLCBXe1bRt7mzj/arcgis/rest/services/CFW_Open_Data_Development_Permits_View/FeatureServer/0",
+    "source": "https://www.fortworthtexas.gov/departments/development-services/permits/issued",
+    "search": [
+      "B1_SPECIAL_TEXT",
+      "B1_WORK_DESC",
+      "Specific_Use",
+      "Use_Type"
+    ],
+    "fields": "ObjectId,Unique_ID,Permit_No,Permit_Type,Permit_SubType,Permit_Category,B1_SPECIAL_TEXT,B1_WORK_DESC,Full_Street_Address,File_Date,Current_Status,Status_Date,Use_Type,Specific_Use"
+  },
+  "tabs": {
+    "source": "https://www.tdlr.texas.gov/TABS/Search",
+    "url": "https://www.tdlr.texas.gov/TABS/Projects/",
+    "ids": [
+      "EABPRJB7817251",
+      "EABPRJB9805926",
+      "TABS2020019742",
+      "TABS2024002257",
+      "TABS2024005161",
+      "TABS2024005712",
+      "TABS2024014061",
+      "TABS2024015786",
+      "TABS2024019837",
+      "TABS2024020378",
+      "TABS2024021896",
+      "TABS2024023596",
+      "TABS2025000049",
+      "TABS2025000114",
+      "TABS2025000574",
+      "TABS2025010215",
+      "TABS2025012139",
+      "TABS2026003740",
+      "TABS2026008231",
+      "TABS2026009183",
+      "TABS2026023537",
+      "TABS2027000435",
+      "TABS2027000488",
+      "TABS2027003693",
+      "TABS2027004996"
+    ]
+  },
+  "san_antonio": {
+    "source": "https://data.sanantonio.gov/dataset/building-permits",
+    "url": "https://data.sanantonio.gov/api/3/action/datastore_search_sql",
+    "ids": [
+      "c22b1ef2-dcf8-4d77-be1a-ee3638092aab",
+      "c21106f9-3ef5-4f3a-8604-f992b4db7512"
+    ]
+  },
+  "abilene": {
+    "source": "https://www.abilenetx.gov/729/Current-Plats-Site-Plans",
+    "plans": {
+      "SP-2026-18": {
+        "project": "Lancium Building 9 & 10",
+        "status": "Approved Site Plans",
+        "url": "https://www.abilenetx.gov/DocumentCenter/View/43785/SP-2026-18-617-FM-2404---Lancium-Building-9--10-PDF",
+        "locator": "2026 Approved Site Plans, item 16"
+      },
+      "SP-2026-77": {
+        "project": "Lancium Campus Site Plan",
+        "status": "Current Site Plans",
+        "url": "https://www.abilenetx.gov/DocumentCenter/View/43833/SP-2026-77-PDF",
+        "locator": "Current Site Plans, Major"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fed-faa-2026-asw-10078-oe",
+    "state": "NM",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Doña Ana County",
+    "county": "Doña Ana County",
+    "record_no": "2026-ASW-10078-OE",
+    "project": "Project Miner - Dona Ana County NM",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2026-07-23",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+    "locator": "ASW 2026 off-airport CSV · STUDY (ASN) 2026-ASW-10078-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Santa Teresa",
+      "original_structure_type": "BUILDING$COMMERCIAL",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Project Miner is located on 400 acres and delivering a state of the art data center campus. Construction completion is approximately July of 2028. At this filing date a crane notice under the general contractor for construction has been filed 2026-ASW-9499-OE. FAA Form 7460-1 is being submitted to notify the FAA of a proposed communications system installation associated with DAS service at the site including operati",
+      "original_determination": "No Hazard"
+    }
+  },
+  {
+    "id": "fed-faa-2026-asw-14687-oe",
+    "state": "NM",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Doña Ana County",
+    "county": "Doña Ana County",
+    "record_no": "2026-ASW-14687-OE",
+    "project": "Project Miner - Dona Ana County NM",
+    "kind": "Airspace review of proposed structure",
+    "status": "No Hazard",
+    "date": "2026-09-16",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+    "locator": "ASW 2026 off-airport CSV · STUDY (ASN) 2026-ASW-14687-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Santa Teresa",
+      "original_structure_type": "BUILDING$COMMERCIAL",
+      "prior_study": "2026-ASW-10078-OE",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Project Miner is located on 400 acres and delivering a state of the art data center campus. Construction completion is approximately July of 2028. At this filing date a crane notice under the general contractor for construction has been filed 2026-ASW-9499-OE. FAA Form 7460-1 is being submitted to notify the FAA of a proposed communications system installation associated with DAS service at the site including operati",
+      "original_determination": "No Hazard"
+    }
+  },
+  {
+    "id": "fed-faa-2026-asw-15989-oe",
+    "state": "NM",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Doña Ana County",
+    "county": "Doña Ana County",
+    "record_no": "2026-ASW-15989-OE",
+    "project": "Project Miner - Dona Ana County NM",
+    "kind": "Airspace review of construction equipment",
+    "status": "No Hazard",
+    "date": "2026-10-08",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip",
+    "source_sha256": "6e20276934580772029b4fc16cdeccbcfd4153f9daa69843c10a95f070ed1ad9",
+    "locator": "ASW 2026 off-airport CSV · STUDY (ASN) 2026-ASW-15989-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Santa Teresa New Mexico",
+      "original_structure_type": "CRANE$MOBILE",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Project Miner is located on 400 acres and delivering a state of the art data center complex. Construction completion is approximately July 2028. During construction mobile cranes will be used. Obstruction and frequency evaluations have already been completed for permanent structures. No filing was required as the buildings do not exceed 60ft. Frequency was filed under 2026-ASW-14687-OE with no determination of hazard",
+      "original_determination": "No Hazard"
+    }
+  }
+]

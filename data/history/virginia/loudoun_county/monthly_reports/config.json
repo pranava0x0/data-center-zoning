@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-11-15",
+  "structures": "https://logis.loudoun.gov/gis/rest/services/Projects/BuildOut_LandUse/MapServer/0",
+  "uses": [
+    "LU_USE",
+    "LU_MULTI_USE_SUBCD1",
+    "LU_MULTI_USE_SUBCD2"
+  ],
+  "use_value": "COM_DATA_CENTER",
+  "issued": "https://logis.loudoun.gov/gis/rest/services/LMARC/LandMARC_Permits/MapServer/1",
+  "reports": {
+    "2024-02": "https://www.loudoun.gov/DocumentCenter/View/194009/Building-Permits-Issued-February-1-29-2024",
+    "2024-03": "https://www.loudoun.gov/DocumentCenter/View/194010/Building-Permits-Issued-March-1-31-2024",
+    "2024-04": "https://www.loudoun.gov/DocumentCenter/View/194011/Building-Permits-Issued-April-1-30-2024",
+    "2024-06": "https://www.loudoun.gov/DocumentCenter/View/196928/Building-Permits-Issued-June-1-30-2024",
+    "2025-01": "https://www.loudoun.gov/DocumentCenter/View/212630/Building-Permits-Issued-January-1-31-2025",
+    "2025-06": "https://www.loudoun.gov/DocumentCenter/View/216067/Building-Permits-Issued-June-1-30-2025",
+    "2025-09": "https://www.loudoun.gov/DocumentCenter/View/217296/Building-Permits-Issued-Sept-1-30-2025"
+  },
+  "legacy_reports": {
+    "2015-01": "https://www.loudoun.gov/DocumentCenter/View/111368/Building-Permits-Issued-2015-01January-1-31st",
+    "2015-10": "https://www.loudoun.gov/DocumentCenter/View/116770/Building-Permits-Issued-2015-10October-1-31st",
+    "2016-01": "https://www.loudoun.gov/DocumentCenter/View/118139/Building-Permits-Issued-2016-01January-1-31st",
+    "2016-10": "https://www.loudoun.gov/DocumentCenter/View/124377/Building-Permits-Issued-2016-10October-1-31st",
+    "2016-12": "https://www.loudoun.gov/DocumentCenter/View/125213/Building-Permits-Issued-2016-12December-1-31st",
+    "2018-11": "https://www.loudoun.gov/DocumentCenter/View/143354/Building-Permits-Issued-2018-11November-1-30th",
+    "2019-04": "https://www.loudoun.gov/DocumentCenter/View/151069/Issued-Building-Permit-Report-April-1-30-2019",
+    "2019-05": "https://www.loudoun.gov/DocumentCenter/View/152272/Issued-Building-Permit-Report-June-1-30-2019",
+    "2019-12": "https://www.loudoun.gov/DocumentCenter/View/158480/Issued-Building-Permit-Report-December-1-31-2019"
+  }
+}

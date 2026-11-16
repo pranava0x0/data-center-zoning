@@ -1,0 +1,17 @@
+{
+  "events": 8,
+  "search_results": {
+    "query-data-center.html.gz": [
+      "1R0372-10"
+    ],
+    "query-data-centre.html.gz": [],
+    "query-data-processing.html.gz": [],
+    "query-server-room.html.gz": []
+  },
+  "geography": {
+    "markers": 1,
+    "outside": {
+      "place": 1
+    }
+  }
+}

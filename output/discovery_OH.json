@@ -1,0 +1,657 @@
+[
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio",
+    "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/35/permits/Construction_Stormwater/OHC000006.pdf",
+    "depth": 0,
+    "sha256": "132d14e8cb60937c8acf2146fddb14981724fe064986e71ef4ecda4bf95b826e",
+    "adapter": "pdf",
+    "error": null,
+    "hits": [
+      {
+        "topic": "development",
+        "start": 4272,
+        "end": 4295,
+        "match": "Construction Stormwater",
+        "context": ".................................................................................................................................... 10 G. Post-Construction Stormwater Management Controls. ................................................................................... 10 PART III. STORMWATER POLLUTION PREVENTION PLAN (SWP3) ............................................."
+      },
+      {
+        "topic": "development",
+        "start": 13759,
+        "end": 13782,
+        "match": "construction stormwater",
+        "context": "ry support activity, and the site has achieved final [Page 4] Page 4 of 61 Ohio EPA Permit No.: OHC000006 stabilization. Industrial post-construction stormwater discharges may need to be covered by an NPDES permit; b. Stormwater discharges associated with construction activity that the director has shown to be or may reasonably expect to be contributing to a viol"
+      },
+      {
+        "topic": "development",
+        "start": 14330,
+        "end": 14346,
+        "match": "land disturbance",
+        "context": "mit. 3. Waivers. After March 10, 2003, sites whose larger common plan of development or sale have at least one, but less than five acres of land disturbance, which would otherwise require permit coverage for stormwater discharges associated with construction activities, may request that the director waive their permit requirement. Entities wishing to request s"
+      },
+      {
+        "topic": "development",
+        "start": 36183,
+        "end": 36206,
+        "match": "Construction Stormwater",
+        "context": "ermined that it is infeasible to meet this requirement, you shall provide documentation in your SWP3 to support your determination.) G. Post-Construction Stormwater Management Controls. So that receiving stream’s physical, chemical and biological characteristics are protected, and stream functions are maintained, post-construction stormwater practices shall provide lon"
+      },
+      {
+        "topic": "development",
+        "start": 36365,
+        "end": 36388,
+        "match": "construction stormwater",
+        "context": "ntrols. So that receiving stream’s physical, chemical and biological characteristics are protected, and stream functions are maintained, post-construction stormwater practices shall provide long-term management of runoff quality and quantity. PART III. STORMWATER POLLUTION PREVENTION PLAN (SWP3) A. Stormwater Pollution Prevention Plans. A SWP3 shall be developed"
+      },
+      {
+        "topic": "development",
+        "start": 39669,
+        "end": 39692,
+        "match": "construction stormwater",
+        "context": "ible for permittees renewing coverage to comply with include: • OHC000006 post-construction requirements, for projects that obtained NPDES construction stormwater coverage and started construction activities prior to the effective date of this permit; • OHC000006 post-construction requirements, for multi-phase development projects with an existing regional post-con"
+      },
+      {
+        "topic": "development",
+        "start": 40047,
+        "end": 40070,
+        "match": "Construction Stormwater",
+        "context": "struction BMP issued under previous NPDES post-construction requirements. This only applies to construction sites authorized under Ohio EPA’s Construction Stormwater Permits issued after April 20, 2003; or • Case-by-case situations approved by the Director. C. SWP3 Signature and Review. 1. Plan Signature and Retention On-Site. The SWP3 shall include the certifica"
+      },
+      {
+        "topic": "development",
+        "start": 45880,
+        "end": 45903,
+        "match": "construction stormwater",
+        "context": "coefficients for both the pre-construction and post- construction site conditions, and resulting water quality volume; design details for post-construction stormwater facilities and pretreatment practices such as contributing drainage areas, capacities, elevations, outlet details and drain times shall be included in the SWP3; and if applicable, explanation of the use of"
+      },
+      {
+        "topic": "water",
+        "start": 45920,
+        "end": 45932,
+        "match": "pretreatment",
+        "context": "ion and post- construction site conditions, and resulting water quality volume; design details for post-construction stormwater facilities and pretreatment practices such as contributing drainage areas, capacities, elevations, outlet details and drain times shall be included in the SWP3; and if applicable, explanation of the use of existing post-construction fa"
+      },
+      {
+        "topic": "equipment",
+        "start": 49421,
+        "end": 49429,
+        "match": "setbacks",
+        "context": "ading activities as well as the size of each drainage watershed, in acres; iv. The location of any delineated boundary for required riparian setbacks; v. Conservation easements or areas designated as open space, preserved vegetation or otherwise protected from earth disturbing activities. A description of any associated temporary or permanent fencing o"
+      },
+      {
+        "topic": "water",
+        "start": 50919,
+        "end": 50931,
+        "match": "pretreatment",
+        "context": "rea, dewatering time, outlet type and dimensions; x. The location of permanent stormwater management practices (new and existing) including pretreatment practices to be used to control pollutants in stormwater after construction operations have been completed along with the location of existing and planned drainage features including catch basins, culverts,"
+      },
+      {
+        "topic": "development",
+        "start": 63154,
+        "end": 63177,
+        "match": "Construction Stormwater",
+        "context": "cates a control has been used inappropriately or incorrectly, the permittee shall replace or modify the control for site conditions. e. Post-Construction Stormwater Management Requirements. So that receiving stream’s physical, chemical and biological characteristics are protected, and stream functions are maintained, post-construction stormwater practices shall provid"
+      },
+      {
+        "topic": "development",
+        "start": 63340,
+        "end": 63363,
+        "match": "construction stormwater",
+        "context": "ements. So that receiving stream’s physical, chemical and biological characteristics are protected, and stream functions are maintained, post-construction stormwater practices shall provide long-term management of runoff quality and quantity. To meet the post- construction requirements of this permit, the SWP3 shall contain a description of the post-construction BMPs tha"
+      },
+      {
+        "topic": "development",
+        "start": 66098,
+        "end": 66121,
+        "match": "construction stormwater",
+        "context": "r operation and maintenance of post-construction practices once coverage under this permit is terminated. ii. Point Source Dischargers. Post-construction stormwater BMPs that discharge pollutants from point sources once construction is completed may in themselves need authorization under a separate NPDES permit (one example is stormwater discharges from regulated indus"
+      },
+      {
+        "topic": "development",
+        "start": 67757,
+        "end": 67780,
+        "match": "construction stormwater",
+        "context": "e BMP(s) chosen must be compatible with [Page 21] Page 21 of 61 Ohio EPA Permit No.: OHC000006 site and soil conditions. Structural post-construction stormwater treatment practices shall be incorporated into the permanent drainage system for the site. The BMP(s) chosen must be sized to treat the water quality volume (WQv) and ensure compliance with Ohio’s Water Qu"
+      },
+      {
+        "topic": "water",
+        "start": 71446,
+        "end": 71458,
+        "match": "pretreatment",
+        "context": "nded detention basins must include a forebay and a micropool each sized at a minimum of 0.1 x WQv and a protected outlet, or include acceptable pretreatment and a protected outlet. 5. Underground storage must have pretreatment for removal of suspended sediments included in the design and documented in the SWP3. This pretreatment shall concentrate sediment in"
+      },
+      {
+        "topic": "water",
+        "start": 71519,
+        "end": 71531,
+        "match": "pretreatment",
+        "context": "t a minimum of 0.1 x WQv and a protected outlet, or include acceptable pretreatment and a protected outlet. 5. Underground storage must have pretreatment for removal of suspended sediments included in the design and documented in the SWP3. This pretreatment shall concentrate sediment in a location where it can be readily removed. For non-infiltrating, undergr"
+      },
+      {
+        "topic": "water",
+        "start": 71624,
+        "end": 71636,
+        "match": "pretreatment",
+        "context": "let. 5. Underground storage must have pretreatment for removal of suspended sediments included in the design and documented in the SWP3. This pretreatment shall concentrate sediment in a location where it can be readily removed. For non-infiltrating, underground extended detention systems, pretreatment shall be at least 50% effective at capturing total suspen"
+      },
+      {
+        "topic": "water",
+        "start": 71775,
+        "end": 71787,
+        "match": "pretreatment",
+        "context": "atment shall concentrate sediment in a location where it can be readily removed. For non-infiltrating, underground extended detention systems, pretreatment shall be at least 50% effective at capturing total suspended solids according to the testing protocol established in the Alternative Post-Construction BMP Testing Protocol. 6. The WQv ponding area shall c"
+      },
+      {
+        "topic": "water",
+        "start": 73547,
+        "end": 73559,
+        "match": "pretreatment",
+        "context": "hall empty within 48 hours to recover storage for subsequent storm events. 5. Underground storage systems with infiltration must have adequate pretreatment of suspended sediments included in the design and documented in the SWP3 in order to minimize clogging of the infiltrating surface. Pretreatment shall concentrate sediment in a location where it can be read"
+      },
+      {
+        "topic": "water",
+        "start": 73694,
+        "end": 73706,
+        "match": "Pretreatment",
+        "context": "etreatment of suspended sediments included in the design and documented in the SWP3 in order to minimize clogging of the infiltrating surface. Pretreatment shall concentrate sediment in a location where it can be readily removed. Examples include media filters situated [Page 23] Page 23 of 61 Ohio EPA Permit No.: OHC000006 upstream of the storage or other"
+      },
+      {
+        "topic": "water",
+        "start": 74000,
+        "end": 74012,
+        "match": "pretreatment",
+        "context": "A Permit No.: OHC000006 upstream of the storage or other suitable alternative approved by Ohio EPA. For infiltrating underground systems, pretreatment shall be at least 80% effective at capturing total suspended solids according to the testing protocol established in the Alternative Post-Construction BMP Testing Protocol. v. Small Construction Activitie"
+      },
+      {
+        "topic": "water",
+        "start": 124514,
+        "end": 124526,
+        "match": "pretreatment",
+        "context": "DES)” means the national program for issuing, modifying, revoking and reissuing, terminating, monitoring and enforcing permits and enforcing pretreatment requirements, under sections 307, 402, 318 and 405 of the CWA. The term includes an \"approved program.” S. “Natural channel design” means an engineering technique that uses knowledge of the natural proc"
+      },
+      {
+        "topic": "equipment",
+        "start": 131332,
+        "end": 131339,
+        "match": "Setback",
+        "context": "Permit Area A.2 TMDL Conditions A.3 Sediment Settling Ponds and Sampling A.4 Post-Construction Stormwater Management Selection A.5 Riparian Setback Requirements A.6 Riparian Setback Mitigation A.7 Groundwater Recharge Requirements A.8 Groundwater Recharge mitigation Attachment A-A: Big Darby Creek Watershed Map Attachment A-B: Stream Assessment and R"
+      },
+      {
+        "topic": "equipment",
+        "start": 131367,
+        "end": 131374,
+        "match": "Setback",
+        "context": "A.3 Sediment Settling Ponds and Sampling A.4 Post-Construction Stormwater Management Selection A.5 Riparian Setback Requirements A.6 Riparian Setback Mitigation A.7 Groundwater Recharge Requirements A.8 Groundwater Recharge mitigation Attachment A-A: Big Darby Creek Watershed Map Attachment A-B: Stream Assessment and Restoration A.1 Permit Area."
+      },
+      {
+        "topic": "equipment",
+        "start": 135771,
+        "end": 135778,
+        "match": "Setback",
+        "context": "rward should Table 4b practices be required. Please note that practices selected will require approval from the regulated MS4. A.5 Riparian Setback Requirements. The SWP3 shall clearly delineate the boundary of required stream setback distances. No construction activity shall occur, without appropriate mitigation, within the delineated setback bou"
+      },
+      {
+        "topic": "equipment",
+        "start": 135863,
+        "end": 135870,
+        "match": "setback",
+        "context": "re approval from the regulated MS4. A.5 Riparian Setback Requirements. The SWP3 shall clearly delineate the boundary of required stream setback distances. No construction activity shall occur, without appropriate mitigation, within the delineated setback boundary except activities associated with restoration or recovery of natural floodplain and c"
+      },
+      {
+        "topic": "equipment",
+        "start": 135977,
+        "end": 135984,
+        "match": "setback",
+        "context": "he boundary of required stream setback distances. No construction activity shall occur, without appropriate mitigation, within the delineated setback boundary except activities associated with restoration or recovery of natural floodplain and channel form characteristics as described in Attachment B, stormwater conveyances from permanent treatment practic"
+      },
+      {
+        "topic": "equipment",
+        "start": 136342,
+        "end": 136349,
+        "match": "setback",
+        "context": "and approvable utility crossings. Such conveyances must be designed to minimize the width of disturbance. If intrusion within the delineated setback boundary is necessary to accomplish the purposes of a project, then mitigation shall be required in accordance with Appendix A.6 of this permit. Streams requiring protection under this section are defined as"
+      },
+      {
+        "topic": "equipment",
+        "start": 136922,
+        "end": 136929,
+        "match": "setback",
+        "context": "EPA Permit No.: OHC000006 reference and the presence of a stream requiring protection should also be confirmed in the field. Any required setback distances shall be clearly displayed in the field prior to any construction related activity. Riparian setbacks distance shall be delineated based upon one of the following two methods: i. The setbac"
+      },
+      {
+        "topic": "equipment",
+        "start": 137039,
+        "end": 137047,
+        "match": "setbacks",
+        "context": "n the field. Any required setback distances shall be clearly displayed in the field prior to any construction related activity. Riparian setbacks distance shall be delineated based upon one of the following two methods: i. The setback distance shall be sized as the greater of the following: 1. The regulatory 100-year floodplain based on FEMA map"
+      },
+      {
+        "topic": "equipment",
+        "start": 137133,
+        "end": 137140,
+        "match": "setback",
+        "context": "any construction related activity. Riparian setbacks distance shall be delineated based upon one of the following two methods: i. The setback distance shall be sized as the greater of the following: 1. The regulatory 100-year floodplain based on FEMA mapping; 2. A minimum of 100 feet from the top of the streambank on each side; or 3. A di"
+      },
+      {
+        "topic": "equipment",
+        "start": 137530,
+        "end": 137537,
+        "match": "setback",
+        "context": "ng equation: W = 133DA0.43 (Equation 1, Appendix A) where: DA = drainage area (mi2) W = total width of riparian setback (ft) W shall be centered over the meander pattern of the stream such that a line representing the setback width would evenly intersect equal elevation lines on either side of the stream. If the DA rema"
+      },
+      {
+        "topic": "equipment",
+        "start": 137640,
+        "end": 137647,
+        "match": "setback",
+        "context": "W = total width of riparian setback (ft) W shall be centered over the meander pattern of the stream such that a line representing the setback width would evenly intersect equal elevation lines on either side of the stream. If the DA remains relatively constant throughout the stretch of interest, then the DA of the downstream edge of the stretch"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio",
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-1521.23",
+    "depth": 0,
+    "sha256": "7f532eb421ffd4c1e7820fe660d7af0ce95d73c6f01e9ed588324cea83bba36c",
+    "adapter": "html",
+    "error": null,
+    "hits": [],
+    "links": [
+      [
+        2,
+        "https://codes.ohio.gov/assets/laws/revised-code/authenticated/15/1521/1521.23/10-17-2019/1521.23-10-17-2019.pdf",
+        "Download Authenticated PDF"
+      ]
+    ],
+    "status": "not_assessed"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio",
+    "url": "https://codes.ohio.gov/assets/laws/revised-code/authenticated/15/1521/1521.23/10-17-2019/1521.23-10-17-2019.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "New Albany",
+    "url": "https://datacenters.newalbanyohio.org/resident-questions/",
+    "depth": 0,
+    "sha256": "7994fd7e2b668960bbe12adeff65735dbd99da19667c5ce5a2fc2acbaacd1431",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 53,
+        "end": 64,
+        "match": "Data Center",
+        "context": "Frequently asked questions - City of New Albany Ohio Data Center Skip to content Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances City of New Alban"
+      },
+      {
+        "topic": "data_center",
+        "start": 136,
+        "end": 147,
+        "match": "Data Center",
+        "context": "Frequently asked questions - City of New Albany Ohio Data Center Skip to content Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances City of New Albany Ohio Data Center Frequently asked questions Frequently Asked Resident Questions T"
+      },
+      {
+        "topic": "data_center",
+        "start": 224,
+        "end": 235,
+        "match": "Data Center",
+        "context": "t Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances City of New Albany Ohio Data Center Frequently asked questions Frequently Asked Resident Questions This FAQ addresses common resident questions about data centers in New Albany, including"
+      },
+      {
+        "topic": "data_center",
+        "start": 281,
+        "end": 292,
+        "match": "Data Center",
+        "context": "Data Center Basics City Finances Resident and Natural Gas Generation FAQs Our Community Data Center Basics City Finances City of New Albany Ohio Data Center Frequently asked questions Frequently Asked Resident Questions This FAQ addresses common resident questions about data centers in New Albany, including noise and sound mitigation, zoning standards, and potenti"
+      },
+      {
+        "topic": "data_center",
+        "start": 407,
+        "end": 419,
+        "match": "data centers",
+        "context": "of New Albany Ohio Data Center Frequently asked questions Frequently Asked Resident Questions This FAQ addresses common resident questions about data centers in New Albany, including noise and sound mitigation, zoning standards, and potential impacts on utility services. The City of New Albany is committed to transparency and will continue updating this resource as"
+      },
+      {
+        "topic": "data_center",
+        "start": 685,
+        "end": 696,
+        "match": "data center",
+        "context": "ty of New Albany is committed to transparency and will continue updating this resource as new information becomes available. Could living near a data center mean more noise, bright lights, or vibrations in my neighborhood? Such nuisances, whether related to construction or a finished, operational facility, are regulated in the New Albany Code of Ordinances. This c"
+      },
+      {
+        "topic": "data_center",
+        "start": 1128,
+        "end": 1140,
+        "match": "data centers",
+        "context": "e nearest residential neighborhood. In more than 25 years of development, the City is not aware of any ground vibration complaints, whether from data centers or otherwise. The City does receive occasional construction noise and light-related complaints which are not specific to the data center industry. Residents have also submitted data center-specific noise compl"
+      },
+      {
+        "topic": "data_center",
+        "start": 1266,
+        "end": 1277,
+        "match": "data center",
+        "context": "r from data centers or otherwise. The City does receive occasional construction noise and light-related complaints which are not specific to the data center industry. Residents have also submitted data center-specific noise complaints during initial building tests. Data centers often install backup power generators and overly redundant cooling systems that require"
+      },
+      {
+        "topic": "data_center",
+        "start": 1318,
+        "end": 1329,
+        "match": "data center",
+        "context": "ive occasional construction noise and light-related complaints which are not specific to the data center industry. Residents have also submitted data center-specific noise complaints during initial building tests. Data centers often install backup power generators and overly redundant cooling systems that require startup testing to verify performance. These system"
+      },
+      {
+        "topic": "data_center",
+        "start": 1387,
+        "end": 1399,
+        "match": "Data centers",
+        "context": "are not specific to the data center industry. Residents have also submitted data center-specific noise complaints during initial building tests. Data centers often install backup power generators and overly redundant cooling systems that require startup testing to verify performance. These systems are only deployed in emergency situations, such as a prolonged power"
+      },
+      {
+        "topic": "data_center",
+        "start": 1917,
+        "end": 1928,
+        "match": "data center",
+        "context": "quired, but these can be scheduled for peak daylight hours to ensure as little disturbance as possible. Over the course of more than 15 years of data center development, specifically, New Albany is only aware of four noise complaints from an operational data center – all of which were resolved within days. In September of 2025, the City received consistent feedbac"
+      },
+      {
+        "topic": "data_center",
+        "start": 2026,
+        "end": 2037,
+        "match": "data center",
+        "context": "the course of more than 15 years of data center development, specifically, New Albany is only aware of four noise complaints from an operational data center – all of which were resolved within days. In September of 2025, the City received consistent feedback from residents near Google’s New Albany campus about noisy exhaust fans. Google acknowledged the issue and"
+      },
+      {
+        "topic": "permission",
+        "start": 7996,
+        "end": 8009,
+        "match": "permitted use",
+        "context": "g economic growth with community character and reinforces the principles outlined in the city’s comprehensive strategic plan. Data centers are a permitted use in the General Employment (Codified Ordinances § 1153) and Technology Manufacturing District (TMD) (Codified Ordinances § 1154). Over time developers, landowners, City staff, the Planning Commission, and City"
+      },
+      {
+        "topic": "equipment",
+        "start": 11809,
+        "end": 11817,
+        "match": "setbacks",
+        "context": "lding’s architecture, reinforcing a cohesive and high-quality visual environment. Special attention has been given to design requirements within setbacks along major public streets to balance site and facility needs with the rural aesthetic throughout the business park. Noise mitigation standards to minimize off-site impacts Rather than establishing a specific"
+      },
+      {
+        "topic": "water",
+        "start": 13174,
+        "end": 13186,
+        "match": "pretreatment",
+        "context": "y website. Wastewater discharge and sewer compliance — regulated by the City of Columbus Division of Water Reclamation, which manages industrial pretreatment programs and wastewater treatment for New Albany and other contracting communities. Industrial users must comply with local discharge permits and pretreatment standards. Residents can contact Columbus Water &"
+      },
+      {
+        "topic": "water",
+        "start": 13311,
+        "end": 13328,
+        "match": "discharge permits",
+        "context": "ustrial pretreatment programs and wastewater treatment for New Albany and other contracting communities. Industrial users must comply with local discharge permits and pretreatment standards. Residents can contact Columbus Water & Power Customer Service at 614-645-8276 or visit their website. Air emissions and environmental permitting — overseen by the Ohio Environmental"
+      },
+      {
+        "topic": "water",
+        "start": 13333,
+        "end": 13345,
+        "match": "pretreatment",
+        "context": "rograms and wastewater treatment for New Albany and other contracting communities. Industrial users must comply with local discharge permits and pretreatment standards. Residents can contact Columbus Water & Power Customer Service at 614-645-8276 or visit their website. Air emissions and environmental permitting — overseen by the Ohio Environmental Protection Agenc"
+      },
+      {
+        "topic": "water",
+        "start": 20905,
+        "end": 20925,
+        "match": "industrial discharge",
+        "context": "ts or further concentrating already-polluted ground water, the City of New Albany has repeatedly verified that such effluents are not present in industrial discharge from New Albany in partnership with the City of Columbus. Such regulation and monitoring is possible in New Albany because all industrial development is connected to the City of Columbus water and sewer networ"
+      },
+      {
+        "topic": "development",
+        "start": 22306,
+        "end": 22329,
+        "match": "Construction Stormwater",
+        "context": "pollutants from washing into nearby waterways. Under the program, any construction project that disturbs one acre or more of land must obtain a Construction Stormwater General Permit, develop a Stormwater Pollution Prevention Plan (SWP3) outlining how sediment and erosion will be controlled during construction, and submit a Notice of Intent (NOI) to OEPA. Construction may be"
+      },
+      {
+        "topic": "development",
+        "start": 22598,
+        "end": 22621,
+        "match": "Construction Stormwater",
+        "context": "during construction, and submit a Notice of Intent (NOI) to OEPA. Construction may begin only after the required approval is received. Although Construction Stormwater General Permits are temporary and generally expire when construction is complete, data centers must continue to manage stormwater after construction as required by applicable permits and regulations. This may"
+      },
+      {
+        "topic": "equipment",
+        "start": 26674,
+        "end": 26684,
+        "match": "air permit",
+        "context": "irements designed to limit pollution and discharges in accordance with state and federal standards. OEPA will hold a public hearing on the draft air permit for Will-Power OH, LLC-STY on Dec. 1 at 6 p.m. at New Albany High School’s Mini Theatre (7600 Fodor Road). What is 'behind-the-meter natural gas power generation'? Any power generation that occurs on site, lik"
+      },
+      {
+        "topic": "equipment",
+        "start": 27511,
+        "end": 27520,
+        "match": "megawatts",
+        "context": "ehind-the-meter power source. The Ohio Power Siting Board (OPSB) governs major energy projects, generally those with generation capacities of 50 megawatts (MW) or more. The City of New Albany does not have the authority to approve, deny, or otherwise determine whether these facilities are constructed. Decisions regarding the need for the facility, fuel type, cap"
+      },
+      {
+        "topic": "equipment",
+        "start": 29852,
+        "end": 29861,
+        "match": "megawatts",
+        "context": "oard (OPSB) is the state agency responsible for reviewing, modifying, approving, or denying natural gas facilities that generate a minimum of 50 megawatts (MW) of power. The OSPB is comprised of experts from the Ohio Department of Agriculture, Ohio Department of Development, Ohio Department of Health, Ohio Department of Natural Resources, Ohio Environmental Prot"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://datacenters.newalbanyohio.org",
+        ""
+      ],
+      [
+        8,
+        "https://datacenters.newalbanyohio.org",
+        "City of New Albany Ohio Data Center"
+      ],
+      [
+        8,
+        "https://datacenters.newalbanyohio.org/data-center-basics/",
+        "Data Center Basics"
+      ],
+      [
+        8,
+        "https://datacenters.newalbanyohio.org/data-center-toolkit/",
+        "Data Center Toolkit"
+      ],
+      [
+        5,
+        "https://newalbanyohio.org/community-resources/city-code-charter/",
+        "New Albany Code of Ordinances"
+      ],
+      [
+        2,
+        "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/47/facts/Ohio-EPA-Data-Centers-Roles-Responsibilities.pdf",
+        "which can be read in full here"
+      ],
+      [
+        2,
+        "https://datacenters.newalbanyohio.org/wp-content/uploads/2026/10/Energy-Centers-FAQ.pdf",
+        "Read the full fact sheet here"
+      ],
+      [
+        2,
+        "https://epa.ohio.gov/divisions-and-offices/air-pollution-control/regulations/dapc-regulations",
+        "visit its website"
+      ],
+      [
+        2,
+        "https://www.columbus.gov/files/sharedassets/city/v/1/utilities/documents/directors-rules/local-limits-control-discharge-to-sewer-2024-02.pdf",
+        "Columbus City Code 1145.20 – 1145.26"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "New Albany",
+    "url": "https://datacenters.newalbanyohio.org",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "New Albany",
+    "url": "https://datacenters.newalbanyohio.org/data-center-basics/",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio Township (Clermont County)",
+    "url": "https://www.ohiotownshipclermontcounty.org/zoning.html",
+    "depth": 0,
+    "sha256": "5f2cf8e9989bb3b33a1e38f30bc715234c0b46e7d8841772c8f09630ee63adcb",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "permission",
+        "start": 491,
+        "end": 501,
+        "match": "MORATORIUM",
+        "context": "ning Zoning Resolution Safety Services Calendars Meeting Calendar Civic Center Hall Reservations Park Shelter Reservations Contact Zoning ZONING MORATORIUM ON DATA CENTERS: The Board of Trustees of Ohio Township met in regular session on July 13 and passed a Zoning Moratorium on Data Centers in Ohio Township - lasting for 12 months: RESOLUTION 2026-58 Ohio Townsh"
+      },
+      {
+        "topic": "data_center",
+        "start": 505,
+        "end": 517,
+        "match": "DATA CENTERS",
+        "context": "solution Safety Services Calendars Meeting Calendar Civic Center Hall Reservations Park Shelter Reservations Contact Zoning ZONING MORATORIUM ON DATA CENTERS: The Board of Trustees of Ohio Township met in regular session on July 13 and passed a Zoning Moratorium on Data Centers in Ohio Township - lasting for 12 months: RESOLUTION 2026-58 Ohio Township Zoning is ove"
+      },
+      {
+        "topic": "permission",
+        "start": 612,
+        "end": 622,
+        "match": "Moratorium",
+        "context": "s Contact Zoning ZONING MORATORIUM ON DATA CENTERS: The Board of Trustees of Ohio Township met in regular session on July 13 and passed a Zoning Moratorium on Data Centers in Ohio Township - lasting for 12 months: RESOLUTION 2026-58 Ohio Township Zoning is overseen by Inspector Les Smith. If you have a zoning question, please call (513) 607-3382. Our goal is to m"
+      },
+      {
+        "topic": "data_center",
+        "start": 626,
+        "end": 638,
+        "match": "Data Centers",
+        "context": "ng ZONING MORATORIUM ON DATA CENTERS: The Board of Trustees of Ohio Township met in regular session on July 13 and passed a Zoning Moratorium on Data Centers in Ohio Township - lasting for 12 months: RESOLUTION 2026-58 Ohio Township Zoning is overseen by Inspector Les Smith. If you have a zoning question, please call (513) 607-3382. Our goal is to maintain property"
+      },
+      {
+        "topic": "permission",
+        "start": 1853,
+        "end": 1868,
+        "match": "conditional use",
+        "context": "rd of Trustees for five year terms. These volunteers hear and decide upon appeals to administrative zoning decisions, requests for variances and conditional use applications. This Board meets on an as needed basis. BZA Meeting Minutes Members: Edward Grove Chris Henderson William Honaker Frank J. Renn Marty Waldeck Alternate: Brad M. Haskins (513) 553-2300 2877 Mt Pis"
+      }
+    ],
+    "links": [
+      [
+        5,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/030526-AdminForm4.pdf",
+        "Zoning Appeal"
+      ],
+      [
+        5,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/082324-ZoningMap.pdf",
+        "Zoning Map"
+      ],
+      [
+        5,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/112025-ZoningCertApp.pdf",
+        "Permit Application"
+      ],
+      [
+        5,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/ZoningResolution.pdf",
+        "Zoning Resolution"
+      ],
+      [
+        3,
+        "https://www.ohiotownshipclermontcounty.org/minutes-zc.html",
+        "Zoning Commission Meeting Minutes"
+      ],
+      [
+        2,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/012523-BZA-ZC-App.pdf",
+        "BZA-ZC Application"
+      ],
+      [
+        2,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/2026/2026-58DataCenterMoratorium.pdf",
+        "RESOLUTION 2026-58"
+      ],
+      [
+        2,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/BZA-InstructionsForm4.pdf",
+        "Appeal Instructions"
+      ],
+      [
+        2,
+        "https://www.ohiotownshipclermontcounty.org/pdf/zoning/ZC-AdminForm7.pdf",
+        "Amendment Application"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio Township (Clermont County)",
+    "url": "https://www.ohiotownshipclermontcounty.org/pdf/zoning/030526-AdminForm4.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio Township (Clermont County)",
+    "url": "https://www.ohiotownshipclermontcounty.org/pdf/zoning/082324-ZoningMap.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "OH",
+    "jurisdiction": "Ohio Township (Clermont County)",
+    "url": "https://www.ohiotownshipclermontcounty.org/pdf/zoning/112025-ZoningCertApp.pdf",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  }
+]

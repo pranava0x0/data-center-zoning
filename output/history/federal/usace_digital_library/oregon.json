@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fed-library-evergreen",
+    "state": "OR",
+    "jurisdiction": "Hillsboro",
+    "county": "Washington County",
+    "dataset": "Army Corps Digital Library project actions",
+    "record_no": "NWP-2024-484",
+    "project": "Evergreen North Data Center",
+    "kind": "District public notice of application",
+    "status": "Public notice published",
+    "date": "2025-02-27",
+    "date_role": "notice publication date",
+    "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/8406/download",
+    "source_url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/8406/download",
+    "source_sha256": "89c4d2b993279f08c4528f4752d90c3fcc12869bfbafd36d8c86b43d8dacb5de",
+    "locator": "p. 1, issue date, file, location, project purpose and description",
+    "details": {
+      "federal_issuer": "US Army Corps of Engineers",
+      "scope": "Dated notice of an application for work in wetlands and a ditch. The applicant is Trammell Crow Portland Development Inc. No issuance is established.",
+      "corps_file": "NWP-2024-484",
+      "document_id": 8406,
+      "library_record": "https://usace.contentdm.oclc.org/digital/api/singleitem/collection/p16021coll15/id/8406",
+      "library_metadata_sha256": "fbe0da4110670843874e8f2170cca8b5fc2a8a9b7d299bd56b502a4b53ca999d",
+      "association": "direct site action",
+      "district": "United States. Army. Corps of Engineers. Portland District;"
+    }
+  }
+]

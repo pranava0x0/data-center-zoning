@@ -1,0 +1,110 @@
+{
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Amazon%20Data%20Services/mode/exact/maxRecords/50": {
+    "sha256": "104396a4ca3688cdac6c90947aac270a2baf49e516272a058c6ee37df40ba860",
+    "bytes": 8276,
+    "retrieved": "2026-11-16T08:18:23+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Amazon%20Data%20Services/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Amazon%20Data%20Services/mode/exact/maxRecords/50": {
+    "sha256": "e45635a308abff4b483c6d0c18fd4c05952d107c27aab2c8efc4e16951181ab1",
+    "bytes": 1715,
+    "retrieved": "2026-11-16T08:18:23+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Amazon%20Data%20Services/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Microsoft%20Corporation/mode/exact/maxRecords/50": {
+    "sha256": "f97eae01a594e4217ab46178a8abd960b46e64ef6cd3a1649ceebfb6d68f4f33",
+    "bytes": 36484,
+    "retrieved": "2026-11-16T08:18:26+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Microsoft%20Corporation/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Microsoft%20Corporation/mode/exact/maxRecords/50": {
+    "sha256": "52889ead35625c2296e9dde0f07720da400d9856d44e626f9a264d94970c9074",
+    "bytes": 1716,
+    "retrieved": "2026-11-16T08:18:28+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Microsoft%20Corporation/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/QTS/mode/exact/maxRecords/50": {
+    "sha256": "d839c54aea1a85661e96e2b6294a11f644a6a19649317b0dca8f032d0f436d49",
+    "bytes": 2287,
+    "retrieved": "2026-11-16T08:18:28+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/QTS/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/QTS/mode/exact/maxRecords/50": {
+    "sha256": "806cd85fb48dce91753ccc8bf54d9405f3daa743d3748cb112595e53ed2463d4",
+    "bytes": 2187,
+    "retrieved": "2026-11-16T08:18:29+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/QTS/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Google%20LLC/mode/exact/maxRecords/50": {
+    "sha256": "6eb15e87b2300b4ff7320997d7641a496352cc4fb7920fcae2c0fc12cd15d1ae",
+    "bytes": 1679,
+    "retrieved": "2026-11-16T08:18:30+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Google%20LLC/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Google%20LLC/mode/exact/maxRecords/50": {
+    "sha256": "22aceeed9ed700a9f9d33a811d47018723faabf5edc4988c5d8407e73a7f8902",
+    "bytes": 1705,
+    "retrieved": "2026-11-16T08:18:31+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Google%20LLC/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Meta%20Platforms/mode/exact/maxRecords/50": {
+    "sha256": "748ab0f62ab6415bab71e634b2ea5e8b258cfdee13c2d0c69be3cb93318dd200",
+    "bytes": 1683,
+    "retrieved": "2026-11-16T08:18:32+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/Meta%20Platforms/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Meta%20Platforms/mode/exact/maxRecords/50": {
+    "sha256": "7293c9b8024fe90468684ad6d2abccaee5d74b877f2b6de29b634e0ec66e77e3",
+    "bytes": 1709,
+    "retrieved": "2026-11-16T08:18:34+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/Meta%20Platforms/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/hyperscale/mode/exact/maxRecords/50": {
+    "sha256": "374b11fc929cf28b32df3a30d6415bd46db7a8ed95c65f70a1d73ff7f712e836",
+    "bytes": 2264,
+    "retrieved": "2026-11-16T08:18:36+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/hyperscale/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/hyperscale/mode/exact/maxRecords/50": {
+    "sha256": "89bc364ba502ce4f706a1f701fdc4c36f3d6410e36530d79ed9fe499c9de4488",
+    "bytes": 1705,
+    "retrieved": "2026-11-16T08:18:37+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/hyperscale/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/server%20farm/mode/exact/maxRecords/50": {
+    "sha256": "b79ee90f2d5e7a60a3273e4669f80a2228f829d6d1cf3fa3bfda264cbf980330",
+    "bytes": 1680,
+    "retrieved": "2026-11-16T08:18:38+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/server%20farm/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/server%20farm/mode/exact/maxRecords/50": {
+    "sha256": "8fb2d6fa31d5a8c6a49b4c160c73335d8ef44c9fbca93e26d3ca6d2870b80440",
+    "bytes": 1706,
+    "retrieved": "2026-11-16T08:18:39+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/server%20farm/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/cloud%20computing/mode/exact/maxRecords/50": {
+    "sha256": "4f30182d014f1cab74fe08898521595cadfb87cfc3b7a0adf0799b55f7145b31",
+    "bytes": 4171,
+    "retrieved": "2026-11-16T08:18:43+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll15/searchterm/cloud%20computing/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/cloud%20computing/mode/exact/maxRecords/50": {
+    "sha256": "f6b1a80c4787378bcd999f93143ed4d1198b1402803e812a1fb06cf7f22f2b18",
+    "bytes": 1710,
+    "retrieved": "2026-11-16T08:18:44+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/cloud%20computing/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/data%20center/mode/exact/maxRecords/50": {
+    "sha256": "1c636206266ef6d4a1e7ab4fac2baf8669b75f7d47239b9f1ef52f8cb855c8bf",
+    "bytes": 3797,
+    "retrieved": "2026-11-16T08:21:50+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/data%20center/mode/exact/maxRecords/50"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/datacenter/mode/exact/maxRecords/50": {
+    "sha256": "63d062daf0d61ec6ac217444d30e434916d29959ddf4bac6c50dbee03f7dba0b",
+    "bytes": 1705,
+    "retrieved": "2026-11-16T08:21:50+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/p16021coll9/searchterm/datacenter/mode/exact/maxRecords/50"
+  }
+}

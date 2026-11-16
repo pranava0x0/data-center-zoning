@@ -1,0 +1,15 @@
+{
+  "rows": 8,
+  "by_dataset": {
+    "Louisville Metro development plans": 5,
+    "Kentucky PSC project information requests": 1,
+    "Oldham County Project Lincoln withdrawals": 2
+  },
+  "undated": 2,
+  "source_failures": {
+    "airboard": "HTTP Error 403: Forbidden",
+    "plans": "HTTP Error 401: Unauthorized",
+    "hwy": "robots preflight HTTP 403",
+    "dw": "robots preflight HTTP 403"
+  }
+}

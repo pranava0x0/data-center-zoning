@@ -1,0 +1,9 @@
+{
+  "agency_events": 2034,
+  "distinct_events_after_multistate_crosswalk": 2033,
+  "distinct_instrument_keys": 45,
+  "non_authorizing_actions_checked": 1969,
+  "host_is_not_issuer": true,
+  "corps_current_status": "No active status assigned without affirmative evidence.",
+  "national_first_pass": true
+}

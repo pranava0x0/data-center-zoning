@@ -1,0 +1,92 @@
+[
+  {
+    "group": "EPD",
+    "key": "2295-121-0539-S-02-0",
+    "title": "Vantage Industries In",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "2295-121-0539-S-02-1",
+    "title": "Vantage Industries In",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "2295-121-0838-S-01-0",
+    "title": "Kittrich, LLC dba Vantage",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "2295-121-0838-S-02-0",
+    "title": "Kittrich, LLC dba Vantage",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "2295-121-0838-S-03-0",
+    "title": "Kittrich, LLC dba Vantage",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "3086-247-0025-V-01-0",
+    "title": "Vantage Products Inc",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "4813-121-0931-S-01-0",
+    "title": "Sprint Atlanta Switch",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "7374-121-0846-S-01-0",
+    "title": "Westside Parkway Owner LLC",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "7374-135-0263-S-01-0",
+    "title": "Enterprise Services, LLC",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "7374-135-0263-S-01-1",
+    "title": "Enterprise Services, LLC",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "EPD",
+    "key": "7389-097-0061-S-02-0",
+    "title": "Google, Inc.",
+    "reason": "No explicit data-center use in the register name or the first seven pages of either linked instrument."
+  },
+  {
+    "group": "ARC",
+    "key": "4482",
+    "title": "ATL 15 and 16 DRI 4482",
+    "reason": "No report with explicit data-center scope or explicit case title."
+  },
+  {
+    "group": "ARC",
+    "key": "4603",
+    "title": "ATL2 East DRI 4603",
+    "reason": "No report with explicit data-center scope or explicit case title."
+  },
+  {
+    "group": "ARC",
+    "key": "4624",
+    "title": "Hampton Technology Park DRI 4624",
+    "reason": "No report with explicit data-center scope or explicit case title."
+  },
+  {
+    "group": "ARC",
+    "key": "4680",
+    "title": "Henderson Farms DRI 4680",
+    "reason": "No report with explicit data-center scope or explicit case title."
+  }
+]

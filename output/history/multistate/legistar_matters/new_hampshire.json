@@ -1,0 +1,122 @@
+[
+  {
+    "id": "council-concordnh-9505-introduced",
+    "state": "NH",
+    "jurisdiction": "Concord",
+    "county": "Merrimack County",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "26-419",
+    "project": "52 Locke Road micro data center",
+    "kind": "Site-specific planning proceeding",
+    "status": "File introduced",
+    "date": "2026-09-08",
+    "date_role": "Date introduced",
+    "url": "https://webapi.legistar.com/v1/concordnh/matters/9505",
+    "source_url": "https://webapi.legistar.com/v1/concordnh/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+    "source_sha256": "f06e990f5856f23217fd81b46e59373c44269caa62251d2b855ee786761c8b4d",
+    "locator": "Matter 26-419 · MatterId 9505",
+    "details": {
+      "council_client": "concordnh",
+      "matter": "9505",
+      "description": "Northpoint Engineering, LLC, on behalf of Granite Municipal Manufacturing & Sales, LLC, requests major site plan and architectural design review approvals for the construction of a new 8,160-square-foot building for the use as a micro-data center, office, garage, and single residential caretaker unit, and associated site improvements at Tax Map 40Z Lot 6, addressed as 52 Locke Road in the Industrial (IN) and Open Space Residential (RO) Districts. As part of the major site plan application, the applicant also requests conditional use permit approval pursuant to Section 28-4-3(d) Conditional Use Permits Required for Certain Disturbance of Wetland Buffers to allow for the restoration of approximately 54,780-square-feet of previous temporary wetland buffer impact for tree clearing and certain temporary and permanent buffer impacts associated with the proposed stormwater management system. (PL-SPR-2026-0066) (PL-CUP-2026-0126) (2026-087)",
+      "stage_note": "File-level milestone only. The motion or project disposition is not specified by this field.",
+      "source_status": "Passed"
+    }
+  },
+  {
+    "id": "council-concordnh-9505-passed",
+    "state": "NH",
+    "jurisdiction": "Concord",
+    "county": "Merrimack County",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "26-419",
+    "project": "52 Locke Road micro data center",
+    "kind": "Site-specific planning proceeding",
+    "status": "File marked passed",
+    "date": "2026-09-16",
+    "date_role": "Date marked passed",
+    "url": "https://webapi.legistar.com/v1/concordnh/matters/9505",
+    "source_url": "https://webapi.legistar.com/v1/concordnh/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+    "source_sha256": "f06e990f5856f23217fd81b46e59373c44269caa62251d2b855ee786761c8b4d",
+    "locator": "Matter 26-419 · MatterId 9505",
+    "details": {
+      "council_client": "concordnh",
+      "matter": "9505",
+      "description": "Northpoint Engineering, LLC, on behalf of Granite Municipal Manufacturing & Sales, LLC, requests major site plan and architectural design review approvals for the construction of a new 8,160-square-foot building for the use as a micro-data center, office, garage, and single residential caretaker unit, and associated site improvements at Tax Map 40Z Lot 6, addressed as 52 Locke Road in the Industrial (IN) and Open Space Residential (RO) Districts. As part of the major site plan application, the applicant also requests conditional use permit approval pursuant to Section 28-4-3(d) Conditional Use Permits Required for Certain Disturbance of Wetland Buffers to allow for the restoration of approximately 54,780-square-feet of previous temporary wetland buffer impact for tree clearing and certain temporary and permanent buffer impacts associated with the proposed stormwater management system. (PL-SPR-2026-0066) (PL-CUP-2026-0126) (2026-087)",
+      "stage_note": "File-level milestone only. The motion or project disposition is not specified by this field.",
+      "source_status": "Passed"
+    }
+  },
+  {
+    "id": "council-concordnh-9543-introduced",
+    "state": "NH",
+    "jurisdiction": "Concord",
+    "county": "Merrimack County",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "26-457",
+    "project": "52 Locke Road micro data center",
+    "kind": "Site-specific planning proceeding",
+    "status": "File introduced",
+    "date": "2026-09-24",
+    "date_role": "Date introduced",
+    "url": "https://webapi.legistar.com/v1/concordnh/matters/9543",
+    "source_url": "https://webapi.legistar.com/v1/concordnh/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+    "source_sha256": "f06e990f5856f23217fd81b46e59373c44269caa62251d2b855ee786761c8b4d",
+    "locator": "Matter 26-457 · MatterId 9543",
+    "details": {
+      "council_client": "concordnh",
+      "matter": "9543",
+      "description": "Northpoint Engineering, LLC, on behalf of Granite Municipal Manufacturing & Sales, LLC, requests major site plan and architectural design review approvals for the construction of a new 8,160-square-foot building for the use as a micro-data center, office, garage, and single residential caretaker unit, and associated site improvements at Tax Map 40Z Lot 6, addressed as 52 Locke Road in the Industrial (IN) and Open Space Residential (RO) Districts. As part of the major site plan application, the applicant also requests conditional use permit approval pursuant to Section 28-4-3(d) Conditional Use Permits Required for Certain Disturbance of Wetland Buffers to allow for the restoration of approximately 54,780-square-feet of previous temporary wetland buffer impact for tree clearing and certain temporary and permanent buffer impacts associated with the proposed stormwater management system. (PL-SPR-2026-0066) (PL-CUP-2026-0126) (2026-087)",
+      "stage_note": "File-level milestone only. The motion or project disposition is not specified by this field.",
+      "source_status": "Passed"
+    }
+  },
+  {
+    "id": "council-concordnh-9543-passed",
+    "state": "NH",
+    "jurisdiction": "Concord",
+    "county": "Merrimack County",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "26-457",
+    "project": "52 Locke Road micro data center",
+    "kind": "Site-specific planning proceeding",
+    "status": "File marked passed",
+    "date": "2026-10-21",
+    "date_role": "Date marked passed",
+    "url": "https://webapi.legistar.com/v1/concordnh/matters/9543",
+    "source_url": "https://webapi.legistar.com/v1/concordnh/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+    "source_sha256": "f06e990f5856f23217fd81b46e59373c44269caa62251d2b855ee786761c8b4d",
+    "locator": "Matter 26-457 · MatterId 9543",
+    "details": {
+      "council_client": "concordnh",
+      "matter": "9543",
+      "description": "Northpoint Engineering, LLC, on behalf of Granite Municipal Manufacturing & Sales, LLC, requests major site plan and architectural design review approvals for the construction of a new 8,160-square-foot building for the use as a micro-data center, office, garage, and single residential caretaker unit, and associated site improvements at Tax Map 40Z Lot 6, addressed as 52 Locke Road in the Industrial (IN) and Open Space Residential (RO) Districts. As part of the major site plan application, the applicant also requests conditional use permit approval pursuant to Section 28-4-3(d) Conditional Use Permits Required for Certain Disturbance of Wetland Buffers to allow for the restoration of approximately 54,780-square-feet of previous temporary wetland buffer impact for tree clearing and certain temporary and permanent buffer impacts associated with the proposed stormwater management system. (PL-SPR-2026-0066) (PL-CUP-2026-0126) (2026-087)",
+      "stage_note": "File-level milestone only. The motion or project disposition is not specified by this field.",
+      "source_status": "Passed"
+    }
+  },
+  {
+    "id": "council-concordnh-9641-introduced",
+    "state": "NH",
+    "jurisdiction": "Concord",
+    "county": "Merrimack County",
+    "dataset": "Municipal project planning dockets",
+    "record_no": "26-555",
+    "project": "52 Locke Road micro data center",
+    "kind": "Site-specific planning proceeding",
+    "status": "File introduced",
+    "date": "2026-10-28",
+    "date_role": "Date introduced",
+    "url": "https://webapi.legistar.com/v1/concordnh/matters/9641",
+    "source_url": "https://webapi.legistar.com/v1/concordnh/matters?%24filter=substringof%28%27data+center%27%2CMatterTitle%29+or+substringof%28%27datacenter%27%2CMatterTitle%29+or+substringof%28%27data+centre%27%2CMatterTitle%29+or+substringof%28%27server+farm%27%2CMatterTitle%29+or+substringof%28%27data-center%27%2CMatterTitle%29+or+substringof%28%27data+center%27%2CMatterName%29+or+substringof%28%27datacenter%27%2CMatterName%29+or+substringof%28%27data+centre%27%2CMatterName%29+or+substringof%28%27server+farm%27%2CMatterName%29+or+substringof%28%27data-center%27%2CMatterName%29&%24orderby=MatterId&%24top=250&%24skip=0",
+    "source_sha256": "f06e990f5856f23217fd81b46e59373c44269caa62251d2b855ee786761c8b4d",
+    "locator": "Matter 26-555 · MatterId 9641",
+    "details": {
+      "council_client": "concordnh",
+      "matter": "9641",
+      "description": "Northpoint Engineering, LLC, on behalf of Granite Municipal Manufacturing & Sales, LLC, requests major site plan and architectural design review approvals for the construction of a new 8,160-square-foot building for the use as a micro-data center, office, garage, and single residential caretaker unit, and associated site improvements at Tax Map 40Z Lot 6, addressed as 52 Locke Road in the Industrial (IN) and Open Space Residential (RO) Districts. As part of the major site plan application, the applicant also requests conditional use permit approval pursuant to Section 28-4-3(d) Conditional Use Permits Required for Certain Disturbance of Wetland Buffers to allow for the restoration of approximately 54,780-square-feet of previous temporary wetland buffer impact for tree clearing and certain temporary and permanent buffer impacts associated with the proposed stormwater management system. (PL-SPR-2026-0066) (PL-CUP-2026-0126) (2026-087) (Continued to the date certain of December 16, 2026, at the request of the applicant)",
+      "stage_note": "File-level milestone only. The motion or project disposition is not specified by this field.",
+      "source_status": "Agenda Ready"
+    }
+  }
+]

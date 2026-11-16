@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "ak-state-construction-water-screen",
+    "state": "AK",
+    "jurisdiction": "Alaska",
+    "geoid": "02",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Alaska's 2026 general permit covers qualifying construction disturbing at least one acre when discharges enter U.S. waters directly or through a conveyance or enter a municipal separate storm sewer. Check EPA-retained areas separately.",
+    "locator": "Final AKR100000 fact sheet; covered construction and discharge receptors; PDF p. 12",
+    "url": "https://dot.alaska.gov/stwddes/desenviron/assets/pdf/resources/2026_cgpfact.pdf",
+    "authority": "Alaska Department of Environmental Conservation",
+    "evidence": "where those discharges enter waters of the U.S.",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "al-state-construction-water-screen",
+    "state": "AL",
+    "jurisdiction": "Alabama",
+    "geoid": "01",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "One disturbed acre or a qualifying common plan totaling one acre triggers construction coverage. At Lake Martin, nonexempt disturbance below one acre also requires coverage under the special designation.",
+    "locator": "Do I need permit coverage? Site criteria and Lake Martin special designation",
+    "url": "https://adem.alabama.gov/water/npdes-programs/construction-general-permit/do-i-need-permit-coverage",
+    "authority": "Alabama Department of Environmental Management",
+    "evidence": "A site that will disturb one or more acres of land",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ar-state-construction-water-screen",
+    "state": "AR",
+    "jurisdiction": "Arkansas",
+    "geoid": "05",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "Arkansas's permit effective November 1, 2026 includes qualifying construction disturbing at least one acre in total, including smaller component areas. Eligible small sites receive automatic coverage subject to the conditions in Part I.B.6.",
+    "locator": "ARR150000, cover and Parts I.B.6 and definitions; PDF p. 1",
+    "url": "https://adeq.state.ar.us/water/permits/npdes/stormwater/pdfs/construction/arr150000-final-permit_2026-11-01.pdf",
+    "authority": "Arkansas Division of Environmental Quality",
+    "evidence": "Small construction sites eligible for coverage under this CGP will be considered to have automatic coverage",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ca-state-construction-water-screen",
+    "state": "CA",
+    "jurisdiction": "California",
+    "geoid": "06",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Clearing, excavation or other covered construction disturbing at least one acre needs CGP coverage; aggregate smaller phases within the same development. The Lake Tahoe Hydrologic Unit uses a separate Lahontan permit.",
+    "locator": "2022 CGP FAQs: when coverage is required",
+    "url": "https://www.waterboards.ca.gov/water_issues/programs/stormwater/construction/cgp-faq.html",
+    "authority": "California State Water Resources Control Board",
+    "evidence": "a larger common plan of development or sale that in total disturbs one or more acres",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "co-state-construction-water-screen",
+    "state": "CO",
+    "jurisdiction": "Colorado",
+    "geoid": "08",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "Colorado requires a division permit before discharging a pollutant from a point source to state water and prohibits routing it through a ditch or man-made conveyance to avoid the requirement. This is the general statutory discharge trigger; it does not establish the construction CGP acreage, exemptions or eligibility.",
+    "locator": "2026 Colorado Revised Statutes, §25-8-501(1): permits required for discharge of pollutants",
+    "url": "https://olls.info/crs/crs2026-title-25.htm",
+    "authority": "Colorado General Assembly, Office of Legislative Legal Services",
+    "evidence": "from a point source without first having obtained a permit from the division",
+    "trigger": "Point-source pollutant discharge into Colorado state waters. Construction CGP acreage remains unresolved.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [],
+    "screen_kind": "statutory_point_source_discharge"
+  },
+  {
+    "id": "ct-state-construction-water-screen",
+    "state": "CT",
+    "jurisdiction": "Connecticut",
+    "geoid": "09",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "For locally approvable private projects from one to under five acres, the state table specifies local approval and an erosion and sediment control plan without separate state registration. The locally approvable private category at five or more acres also requires registration.",
+    "locator": "Construction Stormwater GP: applicability table, locally approvable construction",
+    "url": "https://portal.ct.gov/deep/water-regulating-and-discharges/stormwater/construction-stormwater-gp",
+    "authority": "Connecticut Department of Energy and Environmental Protection",
+    "evidence": "Local approval satisfies state permit requirements",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 5,
+        "unit": "acre",
+        "context": "locally approvable private large construction; state registration"
+      }
+    ]
+  },
+  {
+    "id": "de-state-construction-water-screen",
+    "state": "DE",
+    "jurisdiction": "Delaware",
+    "geoid": "10",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Delaware directs construction with at least one acre of land disturbance to submit a notice of intent before plan approval and comply with the Delaware CGP.",
+    "locator": "Sediment and Stormwater: construction general permit",
+    "url": "https://dnrec.delaware.gov/watershed-stewardship/sediment-stormwater/",
+    "authority": "Delaware Department of Natural Resources and Environmental Control",
+    "evidence": "1 acre or more must submit a Notice of Intent (NOI) prior to plan approval",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "fl-state-construction-water-screen",
+    "state": "FL",
+    "jurisdiction": "Florida",
+    "geoid": "12",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Apply Florida's construction CGP test to both disturbance and drainage: at least one acre or a smaller portion of a common development, and runoff discharging to state surface waters or a municipal storm sewer.",
+    "locator": "Construction Activity: CGP applicability, Section 8.3",
+    "url": "https://floridadep.gov/water/stormwater/content/construction-activity",
+    "authority": "Florida Department of Environmental Protection",
+    "evidence": "Discharge stormwater to surface waters of the state or to a municipal separate storm sewer system",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ga-state-construction-water-screen",
+    "state": "GA",
+    "jurisdiction": "Georgia",
+    "geoid": "13",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "GAR100001 covers qualifying construction stormwater discharges from stand-alone projects disturbing at least one acre. Do not use this stand-alone instrument to decide coverage for a multi-project common development.",
+    "locator": "GAR100001, Part I.A; stand-alone projects; PDF p. 10",
+    "url": "https://epd.georgia.gov/document/document/final-2023-gar100001-permit/download",
+    "authority": "Georgia Environmental Protection Division",
+    "evidence": "stand alone construction projects that will result in land disturbance equal to or greater than one (1) acre",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "separate instrument",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "hi-state-construction-water-screen",
+    "state": "HI",
+    "jurisdiction": "Hawaii",
+    "geoid": "15",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Hawaii's Clean Water Branch directs applicants to construction stormwater coverage when one acre is disturbed or a smaller site belongs to a development that cumulatively disturbs at least one acre.",
+    "locator": "Construction General Permit FAQ, questions 1–3; PDF p. 1",
+    "url": "https://health.hawaii.gov/cwb/files/2023/05/January-29-2024-NPDES-Construction-Storm-Water-General-Permit-FAQs.pdf",
+    "authority": "Hawaii Department of Health, Clean Water Branch",
+    "evidence": "Any activity that disturbs one (1) acre or more of land",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "id-state-construction-water-screen",
+    "state": "ID",
+    "jurisdiction": "Idaho",
+    "geoid": "16",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Idaho DEQ requires construction CGP coverage where at least one acre is disturbed and stormwater discharges, including qualifying smaller common-plan sites. DEQ describes a low-erosivity waiver for eligible projects under five acres.",
+    "locator": "IPDES Permits: Stormwater — Construction General Permit (CGP)",
+    "url": "https://www.deq.idaho.gov/permits/water-quality-permits-certifications/ipdes-permits/",
+    "authority": "Idaho Department of Environmental Quality",
+    "evidence": "Construction projects that disturb one or more acres and discharge stormwater must be permitted",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "il-state-construction-water-screen",
+    "state": "IL",
+    "jurisdiction": "Illinois",
+    "geoid": "17",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Illinois EPA describes the construction stormwater permit threshold as one acre, including qualifying disturbance aggregated across a larger development. The five-acre threshold discussed in the preceding sentence is the older Phase I threshold.",
+    "locator": "NPDES Permit for Construction Activities; Phase I and Phase II",
+    "url": "https://epa.illinois.gov/topics/forms/water-permits/storm-water/construction.html",
+    "authority": "Illinois Environmental Protection Agency",
+    "evidence": "Phase II reduces that project size to 1 acre or more",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "in-state-construction-water-screen",
+    "state": "IN",
+    "jurisdiction": "Indiana",
+    "geoid": "18",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Indiana's CSGP applies at one acre of land disturbance; a smaller project is regulated when it is within a qualifying larger common plan of development or sale.",
+    "locator": "Applicability of the CSGP: Construction Activity",
+    "url": "https://www.in.gov/idem/stormwater/construction-land-disturbance-permitting/applicability-of-the-csgp/",
+    "authority": "Indiana Department of Environmental Management",
+    "evidence": "Areas smaller than one (1) acre are also regulated under the CSGP",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ks-state-construction-water-screen",
+    "state": "KS",
+    "jurisdiction": "Kansas",
+    "geoid": "20",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "After submission of a complete construction stormwater notice of intent or rainfall erosivity waiver application with supporting documents, Kansas gives the secretary 45 days to authorize, waive or deny, subject to conflicting federal law. This state decision deadline is not automatic authorization or an acreage threshold.",
+    "locator": "2025 Kansas Session Laws, ch. 67 §4; K.S.A. 75-5676",
+    "url": "https://www.sos.ks.gov/publications/sessionlaws/2025/Chapter-67-HB-2088.html",
+    "authority": "Kansas Legislature / Kansas Secretary of State",
+    "evidence": "the secretary of health and environment shall issue an authorization, waiver or denial",
+    "trigger": "Submission of the complete filing and required supporting documents. Construction CGP acreage remains unresolved.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "agency_decision_deadline",
+        "operator": "<=",
+        "value": 45,
+        "unit": "day",
+        "context": "After the complete filing; not a permit by lapse of time."
+      }
+    ],
+    "screen_kind": "filing_decision_deadline"
+  },
+  {
+    "id": "ky-state-construction-water-screen",
+    "state": "KY",
+    "jurisdiction": "Kentucky",
+    "geoid": "21",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Kentucky's construction stormwater program applies to clearing, grading or excavation disturbing one acre or more, and to smaller components of a qualifying common development. Operators must plan for and implement stormwater controls.",
+    "locator": "Stormwater General Construction Permit fact sheet; applicability; PDF p. 1",
+    "url": "https://eec.ky.gov/Environmental-Protection/Water/Reports/FactSheets/DOW-StormwaterGeneralConstructionPermit-ADA.pdf",
+    "authority": "Kentucky Energy and Environment Cabinet, Division of Water",
+    "evidence": "The permit is also required for smaller sites that are part of a larger, common plan of development",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "la-state-construction-water-screen",
+    "state": "LA",
+    "jurisdiction": "Louisiana",
+    "geoid": "22",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Louisiana differentiates small construction (one to under five acres) from large construction (five or more acres). A notice of intent is required for the large category, including phases of a common plan whose cumulative disturbance reaches five acres.",
+    "locator": "Construction General Permits FAQ: LAR100000 and LAR200000",
+    "url": "https://www.deq.louisiana.gov/faq/category/22",
+    "authority": "Louisiana Department of Environmental Quality",
+    "evidence": "LDEQ requires the submission of a Notice of Intent",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed, large permit",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 5,
+        "unit": "acre",
+        "context": "large construction including phases of a qualifying plan; notice of intent"
+      }
+    ]
+  },
+  {
+    "id": "md-state-construction-water-screen",
+    "state": "MD",
+    "jurisdiction": "Maryland",
+    "geoid": "24",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Maryland's 20-CP covers qualifying construction disturbing at least one acre and smaller disturbances in a common development that will ultimately disturb that much land.",
+    "locator": "20-CP General Permit FAQ: General Background; PDF p. 1",
+    "url": "https://mde.maryland.gov/programs/water/wwp/Documents/20CP-Final/20CP-FAQ.pdf",
+    "authority": "Maryland Department of the Environment",
+    "evidence": "Operators must have coverage under the State’s General Permit",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "me-state-construction-water-screen",
+    "state": "ME",
+    "jurisdiction": "Maine",
+    "geoid": "23",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "Maine's state stormwater law requires prior department approval for covered projects disturbing at least one acre in organized areas. This is the state statutory project-approval trigger; it does not establish eligibility for a separate discharge permit.",
+    "locator": "Maine Revised Statutes, Title 38 §420-D: opening prohibition and scope",
+    "url": "https://legislature.maine.gov/statutes/38/title38sec420-D.html",
+    "authority": "Maine Legislature",
+    "evidence": "one acre or more of disturbed area without prior approval from the department",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "mi-state-construction-water-screen",
+    "state": "MI",
+    "jurisdiction": "Michigan",
+    "geoid": "26",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "One or more disturbed acres with a point-source stormwater discharge to state waters falls under the state construction program. For eligible smaller sites, Part 91 authorization can provide automatic coverage; at five acres or more EGLE requires a notice of coverage application to the Water Resources Division.",
+    "locator": "Construction Stormwater overview: permit by rule",
+    "url": "https://www.michigan.gov/egle/about/organization/water-resources/soil-erosion/construction-stormwater-overview",
+    "authority": "Michigan Department of Environment, Great Lakes, and Energy",
+    "evidence": "the applicant/permittee receives automatic stormwater coverage upon the applicant obtaining a Part 91 permit",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 5,
+        "unit": "acre",
+        "context": "notice of coverage for sites at or above five acres"
+      }
+    ]
+  },
+  {
+    "id": "mn-state-construction-water-screen",
+    "state": "MN",
+    "jurisdiction": "Minnesota",
+    "geoid": "27",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "Minnesota's construction activity definition includes clearing, grading and excavation that disturbs at least one acre, and smaller disturbance within a development or sale plan that in total reaches one acre.",
+    "locator": "Minnesota Rules, chapter 7090: construction activity definition",
+    "url": "https://www.revisor.mn.gov/rules/7090/full",
+    "authority": "Minnesota Office of the Revisor of Statutes / Pollution Control Agency",
+    "evidence": "land disturbance of equal to or greater than one acre",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "mo-state-construction-water-screen",
+    "state": "MO",
+    "jurisdiction": "Missouri",
+    "geoid": "29",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Missouri requires land disturbance permits for construction disturbing at least one acre. Smaller phases count when their common development or sale plan cumulatively reaches one acre over its life.",
+    "locator": "Construction or Land Disturbance: land disturbance permits",
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/stormwater/construction-land-disturbance",
+    "authority": "Missouri Department of Natural Resources",
+    "evidence": "one or more acres over the life of the project",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ms-state-construction-water-screen",
+    "state": "MS",
+    "jurisdiction": "Mississippi",
+    "geoid": "28",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Mississippi lists distinct general permits for small construction (one to under five acres) and large construction (five or more). MDEQ states the small permit was administratively continued pending reissuance.",
+    "locator": "Construction Stormwater: large and small general permits",
+    "url": "https://www.mdeq.ms.gov/permits/environmental-permits-division/applications-forms/generalpermits/construction-stormwater/",
+    "authority": "Mississippi Department of Environmental Quality",
+    "evidence": "Small Construction (1 to less than 5 acres)",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 5,
+        "unit": "acre",
+        "context": "large construction category"
+      }
+    ]
+  },
+  {
+    "id": "mt-state-construction-water-screen",
+    "state": "MT",
+    "jurisdiction": "Montana",
+    "geoid": "30",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Montana requires SWC authorization for qualifying construction disturbing at least one acre. Its program includes excavation, grading, grubbing and placing or removing earth in the disturbance screen.",
+    "locator": "MPDES, Stormwater Construction (SWC) — MTR100000",
+    "url": "https://deq.mt.gov/water/Programs/mpdes",
+    "authority": "Montana Department of Environmental Quality",
+    "evidence": "Authorization under the SWC is required for construction activities that disturb one or more acres of land",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "nc-state-construction-water-screen",
+    "state": "NC",
+    "jurisdiction": "North Carolina",
+    "geoid": "37",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "The program applies at one acre of disturbance, including smaller components of a qualifying plan. NCG01 applies to sites subject to the DEMLR Sediment Program; NCG25 addresses other construction subject to the Clean Water Act.",
+    "locator": "NPDES Construction Program: NCG01 and NCG25 permits",
+    "url": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/stormwater/stormwater-program/npdes-construction-program",
+    "authority": "North Carolina Department of Environmental Quality",
+    "evidence": "part of a larger common plan of development of that size",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "nd-state-construction-water-screen",
+    "state": "ND",
+    "jurisdiction": "North Dakota",
+    "geoid": "38",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "North Dakota's program FAQ sets a one-acre disturbance threshold including sub-acre portions of a development whose combined disturbance reaches one acre.",
+    "locator": "General Construction Stormwater Permit FAQ, question 1; PDF p. 1",
+    "url": "https://deq.nd.gov/publications/wq/2_NDPDES/Stormwater/Construction/Stormwater_FAQ.pdf",
+    "authority": "North Dakota Department of Environmental Quality",
+    "evidence": "equal to or greater than one (1) acre",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ne-state-construction-water-screen",
+    "state": "NE",
+    "jurisdiction": "Nebraska",
+    "geoid": "31",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "Nebraska's NER210000 applies at one disturbed acre and to smaller construction within a qualifying common plan. The archived permit states an expiration of November 30, 2026; check its successor for later work.",
+    "locator": "NER210000: regulated small and large construction activity; PDF p. 4",
+    "url": "https://dee.nebraska.gov/sites/default/files/publications/NER210000%20CSW%20General%20Permit%20-%20Revised.pdf",
+    "authority": "Nebraska state environmental permitting agency",
+    "evidence": "land disturbance of equal to or greater than one acre",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "nj-state-construction-water-screen",
+    "state": "NJ",
+    "jurisdiction": "New Jersey",
+    "geoid": "34",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "New Jersey directs construction disturbing at least one acre to obtain 5G3 authorization in addition to soil erosion and sediment control plan certification from the local Soil Conservation District.",
+    "locator": "NJDEP's Stormwater Discharger Permit: permit 5G3",
+    "url": "https://nj.gov/agriculture/divisions/anr/nrc/njdep.shtml",
+    "authority": "New Jersey Department of Agriculture / Soil Conservation Program",
+    "evidence": "in addition to a Soil Erosion and Sediment Control Plan certification",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "nv-state-construction-water-screen",
+    "state": "NV",
+    "jurisdiction": "Nevada",
+    "geoid": "32",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Nevada screens at one disturbed acre, including qualifying common plans. The Stormwater Branch may also require coverage below one acre when it determines a nearby receiving water or tributary could be affected; an approval letter is required before construction.",
+    "locator": "Construction Sites – One Acre or More: who needs a permit and approval process",
+    "url": "https://www.ndep.nv.gov/water/water-pollution-control/permitting/stormwater-discharge-permits/construction-sites-greater-than-1-acre",
+    "authority": "Nevada Division of Environmental Protection",
+    "evidence": "could impact a receiving water or its tributaries within a quarter mile of the site",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ny-state-construction-water-screen",
+    "state": "NY",
+    "jurisdiction": "New York",
+    "geoid": "36",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "The general construction threshold is one acre; an individual SPDES permit is an alternative. DEC also specifies 5,000 square feet in the NYC East of Hudson watershed and 20,000 square feet in NYC municipal boundaries, with smaller NYC components of a qualifying common development included. Within NYC creating at least 5,000 square feet of impervious area is also covered.",
+    "locator": "Construction Activity Permit: introductory applicability and NYC watershed exceptions",
+    "url": "https://dec.ny.gov/environmental-protection/water/water-quality/stormwater/construction-activity-permit",
+    "authority": "New York State Department of Environmental Conservation",
+    "evidence": "activities that will disturb 5,000 square feet or more, but less than one acre",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed in specific NYC context",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 5000,
+        "unit": "square feet",
+        "context": "disturbance within NYC East of Hudson watershed"
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 20000,
+        "unit": "square feet",
+        "context": "disturbance inside NYC boundaries"
+      },
+      {
+        "metric": "impervious_area_created",
+        "operator": ">=",
+        "value": 5000,
+        "unit": "square feet",
+        "context": "impervious area created inside NYC"
+      }
+    ]
+  },
+  {
+    "id": "ok-state-construction-water-screen",
+    "state": "OK",
+    "jurisdiction": "Oklahoma",
+    "geoid": "40",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Oklahoma directs owners or operators disturbing one acre or more to OKR10. It describes smaller activities within a common plan that exceeds one acre as covered as well.",
+    "locator": "OKR10 Construction Stormwater: who needs a permit?",
+    "url": "https://oklahoma.gov/deq/permits/water-permits/stormwater-permitting/construction-stormwater.html",
+    "authority": "Oklahoma Department of Environmental Quality",
+    "evidence": "Less than one acre if that activity is part of a “larger common plan of development or sale”",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "or-state-construction-water-screen",
+    "state": "OR",
+    "jurisdiction": "Oregon",
+    "geoid": "41",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Oregon identifies 1200-C coverage for qualifying construction activity disturbing an acre or more, including cumulative disturbance over time or under a common plan. Submit an erosion and sediment control plan for approval before starting.",
+    "locator": "Water Quality Permits FAQ: Is a DEQ permit required for construction activities?",
+    "url": "https://www.oregon.gov/deq/wq/wqpermits/pages/faq.aspx",
+    "authority": "Oregon Department of Environmental Quality",
+    "evidence": "Projects that disturb one acre or more over a period of time or are part of a common plan",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "pa-state-construction-water-screen",
+    "state": "PA",
+    "jurisdiction": "Pennsylvania",
+    "geoid": "42",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Pennsylvania requires NPDES coverage for qualifying construction disturbing at least one acre. The listed category excludes agricultural plowing or tilling, animal heavy use areas, timber harvesting and road maintenance; these exclusions do not describe a data-center pad.",
+    "locator": "Construction Stormwater: activities requiring permits",
+    "url": "https://www.pa.gov/agencies/dep/programs-and-services/water/clean-water/stormwater-management/construction-stormwater",
+    "authority": "Pennsylvania Department of Environmental Protection",
+    "evidence": "Construction activities with earth disturbances greater than or equal to one acre",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ri-state-construction-water-screen",
+    "state": "RI",
+    "jurisdiction": "Rhode Island",
+    "geoid": "44",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "adopted",
+    "summary": "Rhode Island defines small construction stormwater discharges to include clearing, grading or excavation disturbing one to under five acres, including smaller disturbances within a qualifying larger plan. The definition concerns discharges, not zoning approval.",
+    "locator": "250-RICR-150-10-1 §1.4(A)(112): small construction activity",
+    "url": "https://rules.sos.ri.gov/regulations/part/250-150-10-1",
+    "authority": "Rhode Island Secretary of State / Department of Environmental Management",
+    "evidence": "land disturbance of equal to or greater than one acre and less than five acres",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "sc-state-construction-water-screen",
+    "state": "SC",
+    "jurisdiction": "South Carolina",
+    "geoid": "45",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "South Carolina lists one acre, smaller phases in a common development, and a distinct Coastal Zone screen for construction within half a mile of a receiving water. Check the coastal program before using acreage alone.",
+    "locator": "Stormwater Construction Activities: which construction sites are regulated?",
+    "url": "https://des.sc.gov/programs/bureau-water/stormwater/stormwater-construction-activities",
+    "authority": "South Carolina Department of Environmental Services",
+    "evidence": "within ½ mile of a receiving water body in South Carolina’s Coastal Zone",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "sd-state-construction-water-screen",
+    "state": "SD",
+    "jurisdiction": "South Dakota",
+    "geoid": "46",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "South Dakota includes one-acre construction, qualifying larger common plans, phased construction and related support activities in its construction stormwater permitting screen.",
+    "locator": "Stormwater Permit for Construction Activities: covered activity",
+    "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/stormwater/StormWaterConstruction.aspx",
+    "authority": "South Dakota Department of Agriculture and Natural Resources",
+    "evidence": "Construction activities disturbing one or more acres must have coverage",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "tn-state-construction-water-screen",
+    "state": "TN",
+    "jurisdiction": "Tennessee",
+    "geoid": "47",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Tennessee covers construction sites where clearing, grading or excavation disturbs at least one acre, or less when part of a qualifying common plan.",
+    "locator": "NPDES Stormwater Construction Permit: who needs coverage",
+    "url": "https://www.tn.gov/environment/permits/water/npdes-permits1/npdes-stormwater-permitting-program/npdes-stormwater-construction-permit.html",
+    "authority": "Tennessee Department of Environment and Conservation",
+    "evidence": "less than one acre if it is part of a larger common plan of development or sale",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "ut-state-construction-water-screen",
+    "state": "UT",
+    "jurisdiction": "Utah",
+    "geoid": "49",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Nonresidential construction uses Utah's general construction permit at one acre or more, including qualifying sub-acre disturbances within a common plan. The separately named Common Plan Permit on this page is for certain single residential lots.",
+    "locator": "UPDES Permits: Storm Water; What type of permit do I need?",
+    "url": "https://deq.utah.gov/dwq/updes-general",
+    "authority": "Utah Department of Environmental Quality, Division of Water Quality",
+    "evidence": "This permit also covers non-residential disturbances less than an acre that are part of a common plan",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "vi-state-construction-water-screen",
+    "state": "VI",
+    "jurisdiction": "United States Virgin Islands",
+    "geoid": "78",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "For a project covered by the territorial construction general permit, DPNR's posted application directions require a notice of intent, fees and a stormwater pollution prevention plan developed or reviewed and stamped by a VI-licensed professional engineer. The precise acreage boundary is not resolved by these directions.",
+    "locator": "Directions for applying for the territorial construction general permit, page 1; PDF p. 1",
+    "url": "https://dpnr.vi.gov/wp-content/uploads/2022/12/Directions-for-Applying-for-a-Construction-General-Permit-Stormwater.pdf",
+    "authority": "US Virgin Islands Department of Planning and Natural Resources",
+    "evidence": "Professional Engineer licensed in the VI, and then stamped by a Professional Engineer",
+    "trigger": "Application for a qualifying VIGSA0000 project. The controlling acreage boundary and common-plan terms remain unresolved.",
+    "common_plan_review": "not established in passage",
+    "thresholds": [],
+    "screen_kind": "territorial_application_requirements"
+  },
+  {
+    "id": "vt-state-construction-water-screen",
+    "state": "VT",
+    "jurisdiction": "Vermont",
+    "geoid": "50",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Vermont requires coverage for construction disturbing at least one acre and for smaller portions of a larger common plan that reaches the threshold. Review the permit's stabilization and concurrent-disturbance requirements as well.",
+    "locator": "Construction Stormwater Discharge Permits: when coverage is required",
+    "url": "https://dec.vermont.gov/watershed/stormwater/permit-information-applications-fees/stormwater-construction-discharge-permits",
+    "authority": "Vermont Department of Environmental Conservation",
+    "evidence": "total earth disturbance of equal or greater than one (1) acre of land area",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "wa-state-construction-water-screen",
+    "state": "WA",
+    "jurisdiction": "Washington",
+    "geoid": "53",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "For projects with stormwater discharge to surface waters, screen one acre of disturbed land and the combined disturbance of a larger development. Ecology can designate smaller sites that significantly contribute pollutants.",
+    "locator": "Construction Stormwater General Permit: sites required to apply",
+    "url": "https://ecology.wa.gov/regulations-permits/permits-certifications/stormwater-general-permits/construction-stormwater-permit",
+    "authority": "Washington Department of Ecology",
+    "evidence": "Sites that disturb one acre or more",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "wi-state-construction-water-screen",
+    "state": "WI",
+    "jurisdiction": "Wisconsin",
+    "geoid": "55",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Landowners of most projects disturbing one acre or more must send a notice of intent to request coverage. Phased disturbance in common developments can count even if work occurs on different schedules.",
+    "locator": "Construction site storm water permit overview; Wis. Admin. Code NR 216 subch. III",
+    "url": "https://dnr.wisconsin.gov/topic/Stormwater/construction/overview.html",
+    "authority": "Wisconsin Department of Natural Resources",
+    "evidence": "where one or more acres of land will be disturbed must submit an application",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "wv-state-construction-water-screen",
+    "state": "WV",
+    "jurisdiction": "West Virginia",
+    "geoid": "54",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "West Virginia requires operators disturbing at least one acre, or smaller sites in a qualifying common plan, to obtain authorization for construction stormwater discharge under its WV/NPDES program.",
+    "locator": "Construction Stormwater General Permit: program overview",
+    "url": "https://dep.wv.gov/wwe/programs/stormwater/csw/Pages/home.aspx",
+    "authority": "West Virginia Department of Environmental Protection",
+    "evidence": "including smaller sites that are part of a larger common plan of development",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      }
+    ]
+  },
+  {
+    "id": "wy-state-construction-water-screen",
+    "state": "WY",
+    "jurisdiction": "Wyoming",
+    "geoid": "56",
+    "level": "state",
+    "topic": "construction_stormwater",
+    "scope": "general",
+    "status": "agency_guidance",
+    "summary": "Wyoming lists separate small (one to under five acres) and large (at least five acres) construction stormwater permits. A smaller disturbance can fall into either category based on the ultimate common-plan size.",
+    "locator": "Large and Small Construction General Permit: LCGP and SCGP",
+    "url": "https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/storm-water-permitting/large-and-small-construction-general-permit/",
+    "authority": "Wyoming Department of Environmental Quality",
+    "evidence": "at least one acre, but less than five acres",
+    "trigger": "See the disturbance, discharge, location and common-plan qualifications in the summary and cited source.",
+    "common_plan_review": "confirmed",
+    "thresholds": [
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 1,
+        "unit": "acre",
+        "context": "Base screening threshold for the instrument or category described in the summary; below-threshold sites can still qualify."
+      },
+      {
+        "metric": "disturbed_area",
+        "operator": ">=",
+        "value": 5,
+        "unit": "acre",
+        "context": "large construction category"
+      }
+    ]
+  }
+]

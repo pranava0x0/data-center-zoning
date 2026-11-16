@@ -1,0 +1,47 @@
+{
+  "state": "NY",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 504,
+  "county": {
+    "New York County": 321,
+    "Queens County": 75,
+    "Bronx County": 51,
+    "Kings County": 40,
+    "Richmond County": 7,
+    "Niagara County": 6,
+    "Rockland County": 4
+  },
+  "agency_reported_locality": {
+    "New York": 494,
+    "Niagara Falls": 3,
+    "Orangeburg": 3,
+    "Somerset": 3,
+    "Orangetown": 1
+  },
+  "datasets": {
+    "NYC BIS permit issuance": 215,
+    "NYC DOB building job filings": 196,
+    "NYC DOB NOW approved building permits": 47,
+    "NYC DOB electrical job register": 36,
+    "Niagara Falls project decisions": 3,
+    "Somerset Planning Board project decisions": 3,
+    "New York DEC air permit modifications": 2,
+    "New York DEC issued state facility air permits": 2
+  },
+  "cross_register_date_matches": 0,
+  "cutoff_inclusive": "2026-11-15",
+  "source_counts_before_joins": {
+    "ic3t-wcy2": 206,
+    "ipu4-2q9a": 273,
+    "w9ak-ipjd": 40,
+    "rbx6-tga4": 51,
+    "dm9a-ab7w": 36,
+    "2wgt-bc53": 644,
+    "4n3a-en4b": 297
+  },
+  "source_identifiers": "City: jobs by job and document; BIS permit by printed job/document/type; DOB NOW permit by work_permit, sequence is an issue/renewal; state air by permit_id. Electrical job numbers never treated as verified independently numbered permits.",
+  "source_event_date_range": [
+    "1990-08-17",
+    "2026-10-22"
+  ]
+}

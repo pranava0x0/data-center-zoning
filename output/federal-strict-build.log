@@ -1,0 +1,12 @@
+python3 scripts/screen_local.py
+{'prior research': 253, 'unavailable': 1548, 'no keyword match': 3084, 'possible mention': 67, 'no entry point': 2350}
+python3 scripts/validate_screen.py
+5259 local source snapshots verified; 7302 geographies reconciled
+python3 scripts/build.py
+Traceback (most recent call last):
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/build.py", line 115, in <module>
+    if __name__=='__main__':main()
+  File "/Users/pranava/Projects/local ordinance zoning/scripts/build.py", line 81, in main
+    out.append(dict(r,**check,category=cat(r),document_status=allowed[r['status']],scope_class={'data center specific':'data_center_specific','high energy facility':'high_energy_facility','general':'general','general infrastructure':'general'}[r['scope'].replace('-',' ')],pathways=paths.get(r['id'],[]),map_geoid=g['geoid'] if g else None))
+KeyError: 'generally applicable'
+make: *** [build] Error 1

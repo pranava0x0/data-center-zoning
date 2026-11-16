@@ -1,0 +1,719 @@
+{
+  "queries": 49,
+  "query_errors": [
+    {
+      "area": "Purdue MATH site number",
+      "start": "2020-01-01",
+      "end": "2026-11-15",
+      "error": "not a submission summary: Oracle Reports Services - Servlet Help Error REP-56048: Engine rwEng-0 crashed., job Id: 107845 Copyright (c) 2000, 2016, Oracle and/or its affiliates. All rights reserved."
+    }
+  ],
+  "unique_screened_projects": 114,
+  "strict_matching_projects": 39,
+  "event_kinds": {
+    "Construction design release application": 369,
+    "Construction design release": 71,
+    "FESOP New Source Construction": 4,
+    "FESOP Significant Permit Revision": 1,
+    "Title V New Source Construction": 1,
+    "TV New Source Construction": 2,
+    "Significant Source Modification": 1,
+    "Significant Permit Modification": 1,
+    "New Source Construction and Part 70 Operating Permit": 1,
+    "Section 401 water quality certification": 2,
+    "Site plan review": 2,
+    "Rezoning recommendation": 1,
+    "Preliminary subdivision plat": 2
+  },
+  "jurisdictions": {
+    "Bloomington": 14,
+    "Monroe County": 2,
+    "Hammond": 44,
+    "Fort Wayne": 26,
+    "St. Joseph County": 330,
+    "Tippecanoe County": 7,
+    "Lake County": 27,
+    "Allen County": 1,
+    "Jasper County": 1,
+    "La Porte County": 1,
+    "Hobart": 5
+  },
+  "held_projects": [
+    {
+      "project_number": "280494",
+      "name": "NORTHPARK BUILDING TWO",
+      "facility_use": "OFFICE BUILDING",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DartPoints site number"
+      ]
+    },
+    {
+      "project_number": "288824",
+      "name": "MAYWOOD ELEMENTARY SCHOOL",
+      "facility_use": "k-5",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "300355",
+      "name": "LOST MARSH GOLF COURSE",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "319703",
+      "name": "Creeks Edge",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "IU site number"
+      ]
+    },
+    {
+      "project_number": "320310",
+      "name": "North Park Building Two",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DartPoints site number"
+      ]
+    },
+    {
+      "project_number": "329159",
+      "name": "Lost Marsh Golf Course Clubhouse",
+      "facility_use": "Golf Course Clubhouse",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "341381",
+      "name": "Census Bureau",
+      "facility_use": "office",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DartPoints site number"
+      ]
+    },
+    {
+      "project_number": "350376",
+      "name": "IRS Buildout",
+      "facility_use": "office",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DartPoints site number"
+      ]
+    },
+    {
+      "project_number": "356443",
+      "name": "Columbus Specialty Surgery Center",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DartPoints site number"
+      ]
+    },
+    {
+      "project_number": "380560",
+      "name": "Marina District Plaza Lot 3 Inline Building",
+      "facility_use": "Retail",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "389589",
+      "name": "The Spot LiqGo 603",
+      "facility_use": "RETAIL",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "392724",
+      "name": "AT&T Store Tenant Build-Out",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "405834",
+      "name": "Dialysis Center of Hammond Whiting",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "409490",
+      "name": "Splashpad Dr Martin Luther King Jr Park",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "417615",
+      "name": "Digital Crossroads of America Greenhouse",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "417690",
+      "name": "Digital Crossroads",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "422190",
+      "name": "Midwest Express Clinic - N Hammond IN",
+      "facility_use": "walk in medical clinic",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "434991",
+      "name": "Safe Environmental Inc",
+      "facility_use": "Office & Warehouse",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "DX Hammond site number"
+      ]
+    },
+    {
+      "project_number": "442993",
+      "name": "Papa Johns",
+      "facility_use": "Restaurant",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Purdue MATH site number"
+      ]
+    },
+    {
+      "project_number": "445048",
+      "name": "IEC-2",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "445083",
+      "name": "Project Zodiac ADC1A SSS E-House",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Fort Wayne Hatchworks site number"
+      ]
+    },
+    {
+      "project_number": "445420",
+      "name": "Navistar Proving Grounds Salt Barn",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "445629",
+      "name": "Studebaker Brewing Co",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "445782",
+      "name": "PRF Activation Project - Phase 1A",
+      "facility_use": "Activation Center",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Purdue MATH site number"
+      ]
+    },
+    {
+      "project_number": "446029",
+      "name": "IEC-2, Building D",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "446515",
+      "name": "Mother Wilmas LLC",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "446649",
+      "name": "IEC-2 - Building C",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "446748",
+      "name": "Restaurant & Grocery",
+      "facility_use": "Restaurant & Grocery",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Purdue MATH site number"
+      ]
+    },
+    {
+      "project_number": "447754",
+      "name": "Project Zodiac - Storm Shelter",
+      "facility_use": "Storm Shelters",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Fort Wayne Hatchworks site number"
+      ]
+    },
+    {
+      "project_number": "447977",
+      "name": "Craft Station Convenience & Liquor Store",
+      "facility_use": "Convenience/Liquor Store",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "448200",
+      "name": "IEC-2, BUILDING A",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "448207",
+      "name": "IEC-2, BUILDING B",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "448636",
+      "name": "SJEC Water Treatment Plant Expansion",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "449022",
+      "name": "For the Love of Bread",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "449315",
+      "name": "Carris Reels 16k Addition",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "449735",
+      "name": "Project Zodiac (ADC1A)",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Fort Wayne Hatchworks site number"
+      ]
+    },
+    {
+      "project_number": "449850",
+      "name": "IEC-3 Building B",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "449852",
+      "name": "IEC-3 Building C",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "450271",
+      "name": "Biggby Coffee 1182",
+      "facility_use": "Coffee Shop",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "450558",
+      "name": "Purdue Barn PRF Activation Project - Phase TI",
+      "facility_use": "Restaurant & Event Center",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Purdue MATH 2025",
+        "Purdue MATH site number"
+      ]
+    },
+    {
+      "project_number": "450898",
+      "name": "Synergy Cells - Area 100-300",
+      "facility_use": "Industrial",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "450912",
+      "name": "Hamilton Grove AL to IL Renovations",
+      "facility_use": "Senior Care",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "451626",
+      "name": "PRF Activation Project - Phase II",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Purdue MATH 2025"
+      ]
+    },
+    {
+      "project_number": "451691",
+      "name": "Synergy Cells - 810 Switch House",
+      "facility_use": "Industrial",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "451832",
+      "name": "SJEC Cold Storage Building",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "452079",
+      "name": "Craft Station Inc",
+      "facility_use": "STORAGE TANK",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "452522",
+      "name": "Synergy Cells - Area 400",
+      "facility_use": "Industrial",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "453085",
+      "name": "SBN203",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "453909",
+      "name": "AWS SBN 203/204",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "454490",
+      "name": "Hamilton Grove IL",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "456001",
+      "name": "304618 - Plainfield IN 7 Tank Installation",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "456577",
+      "name": "Synergy Cells - Area 701",
+      "facility_use": "Industrial",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "456873",
+      "name": "Just Packaging - 1C5-51826",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "457190",
+      "name": "Synergy Cells - Area 740",
+      "facility_use": "Industrial",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "458153",
+      "name": "107831-AWS SNB 100-New Carlisle IN-25-1029-6",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "459648",
+      "name": "IEC-3 South, Building A",
+      "facility_use": "Access Control",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "459650",
+      "name": "IEC-3 South, Building B",
+      "facility_use": "Water Treatment",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "459651",
+      "name": "IEC-3 South, Building C",
+      "facility_use": "Well Pump House",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "460512",
+      "name": "Boss Lady Confections",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Fort Wayne Hatchworks site number"
+      ]
+    },
+    {
+      "project_number": "460559",
+      "name": "Amazon Data Services - AWS SBN 105",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    },
+    {
+      "project_number": "460592",
+      "name": "Building 01",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Hobart AWS site number"
+      ]
+    },
+    {
+      "project_number": "460595",
+      "name": "AWB",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Hobart AWS site number"
+      ]
+    },
+    {
+      "project_number": "460596",
+      "name": "ACB",
+      "facility_use": "Security Building",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Hobart AWS site number"
+      ]
+    },
+    {
+      "project_number": "461151",
+      "name": "Building 02",
+      "facility_use": "Business",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Hobart AWS site number"
+      ]
+    },
+    {
+      "project_number": "462387",
+      "name": "Project Orion - Building C",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Wheatfield AWS north site number"
+      ]
+    },
+    {
+      "project_number": "462389",
+      "name": "Project Orion - Building 1-4",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Wheatfield AWS north site number"
+      ]
+    },
+    {
+      "project_number": "462390",
+      "name": "Project Orion - Building 5-13",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Wheatfield AWS north site number"
+      ]
+    },
+    {
+      "project_number": "462391",
+      "name": "Project Orion - Building A",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Wheatfield AWS north site number"
+      ]
+    },
+    {
+      "project_number": "462392",
+      "name": "Project Orion - Building B",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Wheatfield AWS north site number"
+      ]
+    },
+    {
+      "project_number": "463123",
+      "name": "EKI01 Buiilding Fit Out",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Granger Microsoft site number"
+      ]
+    },
+    {
+      "project_number": "463447",
+      "name": "EKI02 Core and Shell",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Granger Microsoft site number"
+      ]
+    },
+    {
+      "project_number": "464463",
+      "name": "EKI05 Foundation",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Granger Microsoft site number"
+      ]
+    },
+    {
+      "project_number": "464597",
+      "name": "EKI03 Fit Out",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Granger Microsoft site number"
+      ]
+    },
+    {
+      "project_number": "464636",
+      "name": "EKI06 Foundation",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "Granger Microsoft site number"
+      ]
+    },
+    {
+      "project_number": "465221",
+      "name": "AWS Workforce Training Center",
+      "facility_use": "",
+      "reason": "No explicit data center/ctr or server farm in register project name or facility use",
+      "areas": [
+        "New Carlisle monthly mailing city"
+      ]
+    }
+  ]
+}

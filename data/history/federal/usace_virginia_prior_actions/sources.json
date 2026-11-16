@@ -1,0 +1,70 @@
+{
+  "d2020": {
+    "url": "https://webapps.mrc.virginia.gov/public/habitat/search_permits.php?id=20201114",
+    "error": "robots disallows this URL"
+  },
+  "d2025": {
+    "url": "https://webapps.mrc.virginia.gov/public/habitat/search_permits.php?id=20252364",
+    "error": "robots disallows this URL"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/Timber%20LVL/maxRecords/14": {
+    "sha256": "8d5109eb9a5472034aa8f6d270821057c5bec74c51d306b9d72fa6851a719c03",
+    "bytes": 13302,
+    "retrieved": "2026-11-16T08:13:49+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/Timber%20LVL/maxRecords/14"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/NAO-2021-01135/maxRecords/14": {
+    "sha256": "99d2c7fc8c50d75ae3db500d34594385a534880c53b48b8daab342f379d0cfcc",
+    "bytes": 2276,
+    "retrieved": "2026-11-16T08:13:50+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/NAO-2021-01135/maxRecords/14"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/Dulles%20Digital/maxRecords/14": {
+    "sha256": "e87f03ed57be33c09195960f457ed36413b1c1d6f1db2e973efd99e3855731f2",
+    "bytes": 9935,
+    "retrieved": "2026-11-16T08:13:51+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/search/collection/all/searchterm/Dulles%20Digital/maxRecords/14"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10724/download": {
+    "sha256": "6c3c52e461c3144717ba14aed8043097d3b720c2a0e39c83ca95c88ada8c48e4",
+    "bytes": 335,
+    "retrieved": "2026-11-16T08:14:26+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10724/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10795/download": {
+    "sha256": "5a5835049f715a5393be368e0aa3cfaea6a688fbdafe53e853e69241588a2ad4",
+    "bytes": 732,
+    "retrieved": "2026-11-16T08:14:29+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10795/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll7/id/14777/download": {
+    "sha256": "e1635ac93e9c52cfc094fe97069efd008851b0909b67cb83c005a610ef691c6b",
+    "bytes": 1021,
+    "retrieved": "2026-11-16T08:14:30+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll7/id/14777/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10722/download": {
+    "sha256": "a8822a05d150290e099c0a85ca5a111d54109a3180371111dd4933d501335d9d",
+    "bytes": 116841,
+    "retrieved": "2026-11-16T08:16:06+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10722/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10790/download": {
+    "sha256": "fe4ad79bc65cf598c5ac78e6c93196da4f35016036d21a18b8e1c645e60020f9",
+    "bytes": 173880,
+    "retrieved": "2026-11-16T08:16:08+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/10790/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll7/id/14770/download": {
+    "sha256": "c66b8d564375eec65ed11292cfd32f6079b431072eed120c91db2cf121e5d8c2",
+    "bytes": 71178,
+    "retrieved": "2026-11-16T08:16:10+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll7/id/14770/download"
+  },
+  "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll7/id/14771/download": {
+    "sha256": "a13c646878cc826b1926a626a3af22937c72cc6f0761472516b5874bdbe78894",
+    "bytes": 61440,
+    "retrieved": "2026-11-16T08:16:11+00:00",
+    "resolved": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll7/id/14771/download"
+  }
+}

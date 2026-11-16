@@ -1,0 +1,149 @@
+{
+  "unit": "OSM-derived mapped centroid records, not operational sites or capacity",
+  "atlas_version": "2026.11.02",
+  "source": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+  "boundary_vintage": "2026 Census BAS incorporated places",
+  "boundary_source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2712%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+  "total": 17,
+  "counties": {
+    "Miami-Dade County": 4,
+    "Orange County": 4,
+    "Hillsborough County": 3,
+    "Broward County": 2,
+    "Duval County": 2,
+    "Alachua County": 1,
+    "Polk County": 1
+  },
+  "places": {
+    "Outside incorporated places": 5,
+    "Eatonville town": 3,
+    "Jacksonville city": 2,
+    "Miami city": 2,
+    "Fort Lauderdale city": 1,
+    "Gainesville city": 1,
+    "Sunrise city": 1,
+    "Tampa city": 1,
+    "Winter Garden city": 1
+  },
+  "points": [
+    {
+      "county": "Miami-Dade County",
+      "place": "Outside incorporated places",
+      "name": "NocRoom Miami IT Services",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Miami-Dade County",
+      "place": "Outside incorporated places",
+      "name": "NocRoom Miami IT Services",
+      "operator": null,
+      "type": "point"
+    },
+    {
+      "county": "Duval County",
+      "place": "Jacksonville city",
+      "name": "Flexential Jacksonville",
+      "operator": "Flexential",
+      "type": "point"
+    },
+    {
+      "county": "Hillsborough County",
+      "place": "Outside incorporated places",
+      "name": "Flexential Tampa - West",
+      "operator": "Flexential",
+      "type": "point"
+    },
+    {
+      "county": "Orange County",
+      "place": "Eatonville town",
+      "name": "HostDime",
+      "operator": "HostDime",
+      "type": "point"
+    },
+    {
+      "county": "Orange County",
+      "place": "Eatonville town",
+      "name": "Atlantic.net",
+      "operator": "Atlantic.net",
+      "type": "point"
+    },
+    {
+      "county": "Alachua County",
+      "place": "Gainesville city",
+      "name": "UF Research Computing Center",
+      "operator": "University of Florida",
+      "type": "building"
+    },
+    {
+      "county": "Miami-Dade County",
+      "place": "Miami city",
+      "name": "NAP of the Americas",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Miami-Dade County",
+      "place": "Miami city",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Duval County",
+      "place": "Jacksonville city",
+      "name": "Cologix Jacksonville JAX1",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Hillsborough County",
+      "place": "Outside incorporated places",
+      "name": "Cyxtera Tampa TP1",
+      "operator": "Cyxtera",
+      "type": "building"
+    },
+    {
+      "county": "Orange County",
+      "place": "Eatonville town",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Broward County",
+      "place": "Fort Lauderdale city",
+      "name": "Flexential Fort Lauderdale",
+      "operator": "Flexential",
+      "type": "building"
+    },
+    {
+      "county": "Orange County",
+      "place": "Winter Garden city",
+      "name": "E-Foam",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Broward County",
+      "place": "Sunrise city",
+      "name": "T-Mobile Everglades MSO Data Center",
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Polk County",
+      "place": "Outside incorporated places",
+      "name": null,
+      "operator": null,
+      "type": "building"
+    },
+    {
+      "county": "Hillsborough County",
+      "place": "Tampa city",
+      "name": "Flexential Tampa - North",
+      "operator": "Flexential",
+      "type": "building"
+    }
+  ]
+}

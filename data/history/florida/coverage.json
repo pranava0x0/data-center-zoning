@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-16",
+  "raw_hits": {
+    "miami": 2,
+    "dade": 7,
+    "tampa": 0,
+    "water_files": 31,
+    "water_permits": 19,
+    "hills": 0,
+    "miami_parcel": 86,
+    "dade_parcel": 1
+  },
+  "by_dataset": {
+    "South Florida Water Management District permit register": 13,
+    "South Florida Water Management District application actions": 10,
+    "City of Miami iBuild permits": 2,
+    "Miami-Dade County building permits": 1,
+    "Town of Eatonville council agendas": 5
+  },
+  "held_candidate_occurrences": 20,
+  "parcel_only_rows": 84
+}

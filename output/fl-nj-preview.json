@@ -1,0 +1,137 @@
+{
+  "check": "fail",
+  "upstream_releases": 5,
+  "upstream_feature_rows": 34466,
+  "states": {
+    "FL": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1342,
+      "government_roster": 1936,
+      "local_search": {
+        "No mention on pages read": 19,
+        "Could not read": 30,
+        "No listed website": 171,
+        "Possible mention": 1,
+        "Not visited": 464
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 31,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Building trades & occupancy": 3,
+        "Unclassified — review": 28
+      },
+      "history_stages": {
+        "Adverse, withdrawn or expired": 1,
+        "Approval reported, not necessarily permit issuance": 13,
+        "Completion or archive status, not evidence of issuance": 1,
+        "Other source status; inspect record": 16
+      },
+      "history_datasets": {
+        "City of Miami iBuild permits": 2,
+        "Miami-Dade County building permits": 1,
+        "South Florida Water Management District application actions": 10,
+        "South Florida Water Management District permit register": 13,
+        "Town of Eatonville council agendas": 5
+      },
+      "unmapped_history_kinds": {
+        "Council agenda / development agreement": 5,
+        "ERP — Individual": 17,
+        "WU — Noticed General Permit": 6
+      },
+      "distinct_identified_permits": 15,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 5,
+        "unconfirmed": 10
+      },
+      "excluded_event_types": {
+        "application": 1,
+        "observation": 15
+      },
+      "unrecognized_permit_semantics": {}
+    },
+    "NJ": {
+      "published_rules": 0,
+      "held_rules": 0,
+      "jurisdiction_frame": 1291,
+      "government_roster": 1400,
+      "local_search": {
+        "Could not read": 28,
+        "No listed website": 224,
+        "No mention on pages read": 20,
+        "Not visited": 507
+      },
+      "pilot_frame": 0,
+      "coverage_labels": {},
+      "document_types": {},
+      "published_families": {},
+      "explicit_district_pathways": 0,
+      "embedded_thresholds": 0,
+      "history_rows": 28,
+      "unnumbered_cited_events": 0,
+      "history_families": {
+        "Construction stormwater": 1,
+        "Land use & zoning": 3,
+        "Unclassified — review": 14,
+        "Wetlands & state waters": 10
+      },
+      "history_stages": {
+        "Approval reported, not necessarily permit issuance": 2,
+        "Issuance reported": 6,
+        "Other source status; inspect record": 20
+      },
+      "history_datasets": {
+        "Bridgewater Township planning agenda": 1,
+        "NJDEP NJPDES bulletin": 5,
+        "NJDEP NJPDES proposed actions": 1,
+        "NJDEP land resource permitting": 17,
+        "NJDEP treatment works applications": 1,
+        "NJSEA zoning certificate case reviews": 3
+      },
+      "unmapped_history_kinds": {
+        "Flood hazard individual permit": 5,
+        "Flood hazard individual permit and verification": 2,
+        "NJPDES administrative revocation": 1,
+        "NJPDES general permit authorization (5G2)": 1,
+        "NJPDES general permit authorization (5G3)": 3,
+        "Preliminary major subdivision": 1,
+        "Treatment works approval application": 1
+      },
+      "distinct_identified_permits": 8,
+      "permit_snapshot_buckets": {
+        "active": 0,
+        "historical": 1,
+        "unconfirmed": 7
+      },
+      "excluded_event_types": {
+        "agenda": 1,
+        "application": 17,
+        "determination": 1,
+        "notice": 1
+      },
+      "unrecognized_permit_semantics": {}
+    }
+  },
+  "curated_source_checks": [],
+  "errors": [
+    {
+      "source": "history taxonomy",
+      "id": "FL",
+      "reason": "Unmapped kinds: Council agenda / development agreement, ERP — Individual, WU — Noticed General Permit"
+    },
+    {
+      "source": "history taxonomy",
+      "id": "NJ",
+      "reason": "Unmapped kinds: Flood hazard individual permit, Flood hazard individual permit and verification, NJPDES administrative revocation, NJPDES general permit authorization (5G2), NJPDES general permit authorization (5G3), Preliminary major subdivision, Treatment works approval application"
+    }
+  ],
+  "warnings": [],
+  "units": "Rule rows, jurisdiction-frame rows and permit events are separate units. Passing checks do not measure legal accuracy or discovery recall."
+}

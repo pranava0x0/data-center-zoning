@@ -1,0 +1,8 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Western Connecticut Planning Region,2,09190,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Capitol Planning Region,1,09110,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,Greater Bridgeport Planning Region,1,09120,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,2,South Central Connecticut Planning Region,1,09170,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Norwalk city,1,0955990,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,Stamford city,1,0973000,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+census_designated_place,1,Glastonbury Center CDP,1,0931270,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

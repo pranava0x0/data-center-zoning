@@ -1,0 +1,250 @@
+{
+  "sources": {
+    "tembo": {
+      "url": "https://www.laramiecountywy.gov/Public-Notices/Project-Tembo-Data-Center",
+      "ext": "html"
+    },
+    "cheyenne": {
+      "url": "https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department/Data-Centers",
+      "ext": "html"
+    },
+    "cheyplan": {
+      "url": "https://cheyenne.granicus.com/MetaViewer.php?event_id=1419&meta_id=148406&view_id=5",
+      "ext": "pdf"
+    },
+    "jan": {
+      "url": "https://laramiecounty.legistar.com/View.ashx?GUID=88602771-9F05-4B35-B626-613867A11735&ID=1337495&M=M",
+      "ext": "pdf"
+    },
+    "oct": {
+      "url": "https://laramiecounty.legistar.com/View.ashx?GUID=92FA8E77-2904-49D5-AC8A-085AFA89FFB8&ID=1335721&M=M",
+      "ext": "pdf"
+    },
+    "sept": {
+      "url": "https://laramiecounty.legistar.com/MeetingDetail.aspx?GUID=E265666F-7989-4C81-AD20-D6DF7140139F&ID=1435936&Options=&Search=",
+      "ext": "html"
+    },
+    "aug": {
+      "url": "https://laramiecounty.legistar.com/LegislationDetail.aspx?GUID=32BDBB37-BAF4-4FC8-A8E7-34812FE2FCE7&ID=8165034&Options=&Search=",
+      "ext": "html"
+    },
+    "cup": {
+      "url": "https://laramiecounty.legistar.com/LegislationDetail.aspx?ID=8197805&GUID=55C976BE-6E50-4854-8AEE-668A2A05865D&Options=&Search=",
+      "ext": "html"
+    },
+    "cupreport": {
+      "url": "https://laramiecounty.legistar.com/View.ashx?M=F&ID=15822042&GUID=5AAC22E2-410C-44B3-8BAF-F72EA4CAEAE1",
+      "ext": "pdf"
+    },
+    "smartcup": {
+      "url": "https://co-laramie-wy.smartgovcommunity.com/PermittingPublic/PermitLandingPagePublic/Index/ba7af803-e81d-4dc6-ae0c-b4790109f396",
+      "ext": "html"
+    },
+    "smartsite": {
+      "url": "https://co-laramie-wy.smartgovcommunity.com/PermittingPublic/PermitLandingPagePublic/Index/571c1a3f-0e79-4312-a9f1-b46a011fad81",
+      "ext": "html"
+    },
+    "chey_cys21": {
+      "url": "https://connect.cheyennecity.org/v68314",
+      "ext": "html"
+    },
+    "chey_opp": {
+      "url": "https://connect.cheyennecity.org/e60086",
+      "ext": "html"
+    },
+    "chey_read": {
+      "url": "https://connect.cheyennecity.org/a25275",
+      "ext": "html"
+    }
+  },
+  "records": [
+    {
+      "source": "oct",
+      "id": "switchgrass-pud",
+      "dataset": "Laramie County commissioners and planning commission",
+      "jurisdiction": "Laramie County",
+      "record_no": "Switchgrass Industrial Park PUD",
+      "project": "Switchgrass Industrial Park — data center and energy infrastructure",
+      "kind": "Zone change LU to PUD",
+      "status": "Approved",
+      "date": "2025-10-07",
+      "date_role": "commission vote date",
+      "locator": "PDF page 7",
+      "evidence": "to approve the zone change from LU – Land Use to PUD",
+      "page": 7,
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "jan",
+      "id": "jade-site",
+      "dataset": "Laramie County commissioners and planning commission",
+      "jurisdiction": "Laramie County",
+      "record_no": "26 - 023 (Project Jade)",
+      "project": "Project Jade — data center",
+      "kind": "Original campus site plan",
+      "status": "Approved with conditions",
+      "date": "2026-01-06",
+      "date_role": "commission vote date",
+      "locator": "PDF page 7",
+      "evidence": "grant approval of the Project Jade site plan permit",
+      "page": 7,
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "jan",
+      "id": "bfc-site",
+      "dataset": "Laramie County commissioners and planning commission",
+      "jurisdiction": "Laramie County",
+      "record_no": "26 - 023 (BFC Power)",
+      "project": "BFC Power and Cheyenne Power Hub — associated generation site",
+      "kind": "Related power plant site plan",
+      "status": "Approved with conditions",
+      "date": "2026-01-06",
+      "date_role": "commission vote date",
+      "locator": "PDF page 8",
+      "evidence": "grant approval of the BFC Power and Cheyenne Power Hub Project site plan permit",
+      "page": 8,
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "aug",
+      "id": "hub-deferred",
+      "dataset": "Laramie County commissioners and planning commission",
+      "jurisdiction": "Laramie County",
+      "record_no": "PZ-26-00057 / 26 - 422",
+      "project": "Project Tembo — HUB-1 office support",
+      "kind": "Class B conditional use hearing",
+      "status": "Postponement approved",
+      "date": "2026-08-13",
+      "date_role": "commission vote date",
+      "locator": "Record status, dates, project name and purpose",
+      "evidence": "Postponement of the Review and Action on a Class B Conditional Use Permit",
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "cup",
+      "id": "hub-commission",
+      "dataset": "Laramie County commissioners and planning commission",
+      "jurisdiction": "Laramie County",
+      "record_no": "PZ-26-00057 / 26 - 466",
+      "project": "Project Tembo — HUB-1 office support",
+      "kind": "Class B conditional use planning commission decision",
+      "status": "Passed",
+      "date": "2026-09-10",
+      "date_role": "commission final action date",
+      "locator": "Record status, dates, project name and purpose",
+      "evidence": "Status: Passed File created: 9/1/2026",
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "smartcup",
+      "id": "hub-submitted",
+      "dataset": "Laramie County SmartGov planning permits",
+      "jurisdiction": "Laramie County",
+      "record_no": "PZ-26-00057",
+      "project": "Tembo Data Center — HUB-1 support area",
+      "kind": "Class B conditional use permit",
+      "status": "Submitted",
+      "date": "2026-06-30",
+      "date_role": "portal submission date",
+      "locator": "Record status, dates, project name and purpose",
+      "evidence": "Submitted 6/30/2026",
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "smartcup",
+      "id": "hub-issued",
+      "dataset": "Laramie County SmartGov planning permits",
+      "jurisdiction": "Laramie County",
+      "record_no": "PZ-26-00057",
+      "project": "Tembo Data Center — HUB-1 support area",
+      "kind": "Class B conditional use permit",
+      "status": "ADMINISTRATIVE APPROVAL",
+      "date": "2026-09-30",
+      "date_role": "portal issue date",
+      "locator": "Record status, dates, project name and purpose",
+      "evidence": "Approved 7/15/2026 Issued 9/30/2026 Closed 9/30/2026",
+      "details": {
+        "county": "Laramie County",
+        "file_closed": "2026-09-30"
+      }
+    },
+    {
+      "source": "smartsite",
+      "id": "site-submitted",
+      "dataset": "Laramie County SmartGov planning permits",
+      "jurisdiction": "Laramie County",
+      "record_no": "PZ-26-00058",
+      "project": "Tembo Data Center Site Plan Amendment",
+      "kind": "Site plan certificate of review",
+      "status": "Submitted",
+      "date": "2026-06-30",
+      "date_role": "portal submission date",
+      "locator": "Record status, dates, project name and purpose",
+      "evidence": "Submitted 6/30/2026",
+      "details": {
+        "county": "Laramie County"
+      }
+    },
+    {
+      "source": "smartsite",
+      "id": "site-issued",
+      "dataset": "Laramie County SmartGov planning permits",
+      "jurisdiction": "Laramie County",
+      "record_no": "PZ-26-00058",
+      "project": "Tembo Data Center Site Plan Amendment",
+      "kind": "Site plan certificate of review",
+      "status": "CERTIFICATE OF REVIEW ISSUED",
+      "date": "2026-10-23",
+      "date_role": "portal issue date",
+      "locator": "Record status, dates, project name and purpose",
+      "evidence": "Approved - - Issued 10/23/2026 Closed - - Application Expires 4/23/2028",
+      "details": {
+        "county": "Laramie County",
+        "application_expires": "2028-04-23"
+      }
+    },
+    {
+      "source": "chey_cys21",
+      "id": "cys21",
+      "dataset": "City of Cheyenne public planning cases",
+      "jurisdiction": "Cheyenne",
+      "record_no": "PUDC-26-180",
+      "project": "CYS21 data center",
+      "kind": "Administrative site plan",
+      "status": "Submitted / under review",
+      "date": "2026-07-14",
+      "date_role": "municipal submission date",
+      "locator": "Project timeline; live review, planned approval milestone",
+      "evidence": "Submitted on : July 14, 2026",
+      "details": {}
+    },
+    {
+      "source": "chey_opp",
+      "id": "oppidan",
+      "dataset": "City of Cheyenne public planning cases",
+      "jurisdiction": "Cheyenne",
+      "record_no": "PUDC-26-169",
+      "project": "Oppidan Site Two data center",
+      "kind": "Administrative site plan",
+      "status": "Submitted / under review",
+      "date": "2026-07-08",
+      "date_role": "municipal submission date",
+      "locator": "Project timeline; live review, planned approval milestone",
+      "evidence": "Submitted on : July 8, 2026",
+      "details": {}
+    }
+  ]
+}

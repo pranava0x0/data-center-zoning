@@ -1,0 +1,42 @@
+{
+  "in-boone-pause": {
+    "url": "https://boonecounty.in.gov/wp-content/uploads/2026/07/Ordinance-2026-08.Moratorium-on-data-centers.pdf",
+    "sha256": "598da0033e60be806d7ca6e1ebf0dfbf6e6b9e429478bc885c9a94d635ec062e",
+    "page": 2,
+    "method": "Rendered and read pages 1–2 of the cached county scan. Page 1 describes unincorporated coverage and internal-IT exception; p. 2 §§2–3 states the application freeze and June 16, 2026–June 15, 2027 dates.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  },
+  "in-parke-cooling": {
+    "url": "https://www.in.gov/counties/parke/files/2026/Data-Center-Ordinance-2026-11.pdf",
+    "sha256": "151f66cdbaae368ba57d99be2fe7dc7aec262c0529c9464057ac7099f1be0d24",
+    "page": 2,
+    "method": "Read rendered page 2, ¶2(c), including both tanked bulk water and non-evaporating loop, prohibited local sources, and dated approvals at foot.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  },
+  "in-parke-accessory": {
+    "url": "https://www.in.gov/counties/parke/files/2026/Data-Center-Ordinance-2026-11.pdf",
+    "sha256": "151f66cdbaae368ba57d99be2fe7dc7aec262c0529c9464057ac7099f1be0d24",
+    "page": 2,
+    "method": "Read rendered page 2, permitted-use exceptions list (c), and commissioner approval on same page.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  },
+  "in-warren-cooling": {
+    "url": "https://www.warrencounty.in.gov/Documents/How%20Do%20I/Documents%20and%20Forms/Government%20Document%20Center/Ordinances/2026/Ordinance%202026-0803B%20Amending%20Regulation%20of%20Siting%20Data%20Centers%20Concerning%20Water%20Use.pdf?t=202608171342270",
+    "sha256": "1b77c26505931bc3e72bcc3e2dcba9fb7780b3ee9aa5078a7e333e06b8620a2e",
+    "page": 1,
+    "method": "Read rendered page 1, §§1–2 defining closed loop and V(D)(2)(a) requiring water AND energy savings for an alternative; commissioner satisfaction controls.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  },
+  "in-warren-water-study": {
+    "url": "https://www.warrencounty.in.gov/Documents/How%20Do%20I/Documents%20and%20Forms/Government%20Document%20Center/Ordinances/2026/Ordinance%202026-0803B%20Amending%20Regulation%20of%20Siting%20Data%20Centers%20Concerning%20Water%20Use.pdf?t=202608171342270",
+    "sha256": "1b77c26505931bc3e72bcc3e2dcba9fb7780b3ee9aa5078a7e333e06b8620a2e",
+    "page": 2,
+    "method": "Read rendered page 2, V(D)(2)(b) study at application and (e) two-year recurrence only for nonpublic sources.",
+    "reviewer": "Terra research agent, direct visual review of rendered government PDF (not independent human legal review)",
+    "reviewed_on": "2026-11-15"
+  }
+}

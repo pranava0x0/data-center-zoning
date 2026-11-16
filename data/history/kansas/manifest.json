@@ -1,0 +1,121 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2720%27&returnIdsOnly=true",
+      "sha256": "fb948882f96c3e7cb4805faa31b19408cace9d9707cf9343c676b4d02d871725",
+      "bytes": 3372,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2720%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "0e49990ed67ea6df5ec565906566d905f0761d7f71c23ed2598838fbce8cb822",
+      "bytes": 1140276,
+      "ext": "json"
+    }
+  },
+  "edgerton": {
+    "url": "https://edgertonks.org/damac-data-center/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  "ksair": {
+    "url": "https://www.kdhe.ks.gov/413/Public-Notices",
+    "error": "robots preflight HTTP 403"
+  },
+  "beale": {
+    "url": "https://www.desotoks.us/496/Beale-Data-Center",
+    "sha256": "b2decbd043905a863a27f5bc32618509dae51ad101467e92aaeb0aa402951c12",
+    "bytes": 185656,
+    "ext": "html"
+  },
+  "desoto": {
+    "url": "https://www.desotoks.us/465/Data-Centers",
+    "sha256": "d516989a1addd7882fd739538e3e334d61699f72a8793d37bbbd092040ed8cd0",
+    "bytes": 174647,
+    "ext": "html"
+  },
+  "realty": {
+    "url": "https://www.desotoks.us/498/Digital-Realty-Data-Center",
+    "sha256": "bd26093a72ef860d80c419db007a24e09ae26561bc2444ef22801ab88288da25",
+    "bytes": 147778,
+    "ext": "html"
+  },
+  "beale_contract": {
+    "url": "https://www.desotoks.us/DocumentCenter/View/3805/Final-Development-Agreement-De-Soto---Mount-Sunflower",
+    "sha256": "0e8089f95e5c8375270921e023debe47d72cbc7224d8f86a21db47dd71404250",
+    "bytes": 2476286,
+    "ext": "pdf"
+  },
+  "op": {
+    "url": "https://maps.opkansas.org/mapping/rest/services/MixedInfo/Building_Permit_Report/MapServer/0",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "lenexa": {
+    "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/planning-commission/2023/pc-2023-01-30-packet.pdf",
+    "error": "robots preflight HTTP 403"
+  },
+  "dr_site": {
+    "url": "https://www.desotoks.us/DocumentCenter/View/3925",
+    "error": "Oversized response"
+  },
+  "olathe": {
+    "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0",
+    "where": "UPPER(DESCRIPTION) LIKE '%DATA%CENTER%' OR UPPER(DESCRIPTION) LIKE '%DATACENTRE%' OR UPPER(DESCRIPTION) LIKE '%COLOCATION%' OR UPPER(DESCRIPTION) LIKE '%TIERPOINT%' OR UPPER(DESCRIPTION) LIKE '%FLEXENTIAL%' OR UPPER(DESCRIPTION) LIKE '%EQUINIX%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0?f=json",
+      "sha256": "05c3e5ccd30137d6d03776eeceeecf6c1b5e740427dba1279c3b077b8acd3ad3",
+      "bytes": 10615,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0/query?f=json&where=UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25CENTER%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25DATACENTRE%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25TIERPOINT%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25FLEXENTIAL%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25EQUINIX%25%27&returnIdsOnly=true",
+      "sha256": "667410564a013e24d2b824ed7ea5c2613b8f5a6ea02633399a491988c5e3a512",
+      "bytes": 49,
+      "ext": "json"
+    },
+    "batches": []
+  },
+  "olathe_ops": {
+    "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0",
+    "where": "UPPER(DESCRIPTION) LIKE '%DATA%PROCESS%' OR UPPER(DESCRIPTION) LIKE '%US BANK%' OR UPPER(DESCRIPTION) LIKE '%U.S. BANK%' OR UPPER(DESCRIPTION) LIKE '%GARMIN%'",
+    "oid": "OBJECTID",
+    "meta": {
+      "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0?f=json",
+      "sha256": "05c3e5ccd30137d6d03776eeceeecf6c1b5e740427dba1279c3b077b8acd3ad3",
+      "bytes": 10615,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0/query?f=json&where=UPPER%28DESCRIPTION%29+LIKE+%27%25DATA%25PROCESS%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25US+BANK%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25U.S.+BANK%25%27+OR+UPPER%28DESCRIPTION%29+LIKE+%27%25GARMIN%25%27&returnIdsOnly=true",
+      "sha256": "13521a1ebd41b18368e62ae9e2be2ae979af5a09b0046b778af2c58c692113ed",
+      "bytes": 58,
+      "ext": "json"
+    },
+    "batches": [
+      {
+        "url": "https://arcgis.olatheks.org/arcgis/rest/services/Planning/Development/MapServer/0/query?f=json&objectIds=83029%2C90358&outFields=OBJECTID%2CPERMITNUMBER%2CPermitStatus%2CPermitType%2CPermitWorkclass%2CDESCRIPTION%2CISSUEDATE%2CADDRESS&returnGeometry=false",
+        "sha256": "c64800082b168433a439c8d03102c84f85000869cdec24fff986153354705a2b",
+        "bytes": 1513,
+        "ext": "json"
+      }
+    ]
+  },
+  "oct_minutes": {
+    "url": "https://www.desotoks.us/AgendaCenter/ViewFile/Minutes/_10272026-689",
+    "sha256": "11855e2535a75bec223ae68f4670b8cee45312ddb8d21f678bc8c454ffc78577",
+    "bytes": 1860599,
+    "ext": "pdf"
+  },
+  "supplement": {
+    "url": "https://www.desotoks.us/m/newsflash/Home/Detail/357",
+    "sha256": "3c0b6fff124390619d3e1b7d7a70972ece13bedebc88092b485416b53e822389",
+    "bytes": 106028,
+    "ext": "html"
+  }
+}

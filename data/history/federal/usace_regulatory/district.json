@@ -1,0 +1,38 @@
+{
+  "SAW-2026-00878": {
+    "notice_id": 13569733,
+    "notice": {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotice?id=13569733",
+      "sha256": "48dd4776c8d53772139897f1e38c8cedf5c81db2564c036e3ef223829969868a",
+      "bytes": 1887,
+      "ext": "json"
+    }
+  },
+  "LRH-2026-00959-SCR": {
+    "notice_id": 13554380,
+    "notice": {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotice?id=13554380",
+      "sha256": "3ee2873d5f49ceee573fe389783f00f03d6309066a4bfe0f72df404e21326c0e",
+      "bytes": 907,
+      "ext": "json"
+    }
+  },
+  "LRH-2026-00976-SCR": {
+    "notice_id": 13556921,
+    "notice": {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotice?id=13556921",
+      "sha256": "6f7dd91fbfe6779a3aaeda311875851e13f0e68a8a6d614e361740baa0e1e0ec",
+      "bytes": 882,
+      "ext": "json"
+    }
+  },
+  "SAS-2025-00070": {
+    "notice_id": 13567384,
+    "notice": {
+      "url": "https://rrs.usace.army.mil/api/publicnotice/getPublicNotice?id=13567384",
+      "sha256": "969ac046699ad196b52fd03f4dd13ad9342e6e532366aba5d2253943e5360bef",
+      "bytes": 1096,
+      "ext": "json"
+    }
+  }
+}

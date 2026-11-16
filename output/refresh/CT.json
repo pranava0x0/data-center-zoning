@@ -1,0 +1,35 @@
+{
+  "jurisdiction": "CT",
+  "started_utc": "2026-11-16T15:28:58+00:00",
+  "steps": [
+    {
+      "step": "history_ct.py --refresh",
+      "rc": 0,
+      "seconds": 19.0,
+      "tail": ""
+    }
+  ],
+  "check": {
+    "jurisdiction": "CT",
+    "ok": true,
+    "rows": 8,
+    "errors": [],
+    "drift_from_published": [],
+    "collectors": [
+      {
+        "script": "history_ct.py",
+        "seconds": 0.2,
+        "ok": true
+      }
+    ],
+    "series_sha256": {
+      "history_ct.json": "1e7957640bbb7482d7196ea588b220c2225435e0b035ea3a8641f2549f5937c1"
+    }
+  },
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "finished_utc": "2026-11-16T15:29:17+00:00"
+}

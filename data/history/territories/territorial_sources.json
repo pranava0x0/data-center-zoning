@@ -1,0 +1,81 @@
+{
+  "https://pr.gov/gobierno-2/directorio-municipios": {
+    "sha256": "2cc7626ad31bb63b8c0d2495cdd03cec742ac51355277653ab86532467e21cfc",
+    "bytes": 70226,
+    "retrieved": "2026-11-16T05:58:07+00:00",
+    "resolved": "https://pr.gov/gobierno-2/directorio-municipios"
+  },
+  "https://mcog.guam.gov/directory": {
+    "sha256": "81355bebe5aec6f114f79be88b6d91b8bc989671a293ab443074d3e9b37f7f12",
+    "bytes": 104554,
+    "retrieved": "2026-11-16T05:58:09+00:00",
+    "resolved": "https://mcog.guam.gov/directory"
+  },
+  "https://opd.gov.mp/directory.html": {
+    "sha256": "2675206a12491ab4035cf7fe3227d3a1dbc255e3e03f36feb912b8bd71fbd132",
+    "bytes": 168615,
+    "retrieved": "2026-11-16T05:58:11+00:00",
+    "resolved": "https://opd.gov.mp/directory.html"
+  },
+  "https://www.americansamoa.gov/_files/ugd/4bfff9_bba88c7d53cc48a9af8f2473d4431bd8.pdf": {
+    "sha256": "3371c919ed2628da9010ec9d441d3d75be5a37114d67bf2ca5f0523b6d848bbf",
+    "bytes": 2200707,
+    "retrieved": "2026-11-16T05:58:11+00:00",
+    "resolved": "https://www.americansamoa.gov/_files/ugd/4bfff9_bba88c7d53cc48a9af8f2473d4431bd8.pdf"
+  },
+  "https://dpnr.vi.gov/coastal-zone-management/what-we-do/coastal-zone-permitting/": {
+    "sha256": "42df8ef15302e7d0db2083072c239ccccfea999915a0ebaedce157d19c93778b",
+    "bytes": 203708,
+    "retrieved": "2026-11-16T05:58:15+00:00",
+    "resolved": "https://dpnr.vi.gov/coastal-zone-management/what-we-do/coastal-zone-permitting/"
+  },
+  "https://www.arcgis.com/sharing/rest/content/items/866adabc4cf0488abe15aa031765de67?f=json": {
+    "sha256": "106de83ffc5026d60307f9dc7dd022b70329d46a93ee543b0908e0f69b97b21c",
+    "bytes": 1442,
+    "retrieved": "2026-11-16T06:14:47+00:00",
+    "resolved": "https://www.arcgis.com/sharing/rest/content/items/866adabc4cf0488abe15aa031765de67?f=json"
+  },
+  "https://www.arcgis.com/sharing/rest/content/items/8981814f5914421380b9158427853b44?f=json": {
+    "sha256": "1c1613d2ed42f34c0d06e67286e225932ecddca47e4853c8af5874f6d3c35145",
+    "bytes": 1375,
+    "retrieved": "2026-11-16T06:14:47+00:00",
+    "resolved": "https://www.arcgis.com/sharing/rest/content/items/8981814f5914421380b9158427853b44?f=json"
+  },
+  "https://dcrm.gov.mp/our-programs/enforcement/": {
+    "sha256": "d2faa1c92aecb56e09f2c4240eb5fce72a5e6641dc23e08d4f42df174de69cbc",
+    "bytes": 98808,
+    "retrieved": "2026-11-16T06:14:48+00:00",
+    "resolved": "https://dcrm.gov.mp/our-programs/enforcement/"
+  },
+  "https://dcrm.gov.mp/our-programs/permitting/": {
+    "sha256": "521f366b27c6c2c6d4c7a71f57708ece9edfda97299672537e68de31b3ff25bd",
+    "bytes": 88990,
+    "retrieved": "2026-11-16T06:14:48+00:00",
+    "resolved": "https://dcrm.gov.mp/our-programs/permitting/"
+  },
+  "https://www.arcgis.com/sharing/rest/content/items/8981814f5914421380b9158427853b44/data?f=json": {
+    "sha256": "1458e52836f9137160ac65bb1988b72750255a0587c0ceac7adb0665ee45b007",
+    "bytes": 62008,
+    "retrieved": "2026-11-16T06:15:31+00:00",
+    "resolved": "https://www.arcgis.com/sharing/rest/content/items/8981814f5914421380b9158427853b44/data?f=json"
+  },
+  "https://www.arcgis.com/sharing/rest/content/items/8e9515c7297542d091cfd6c0a94176d2/data?f=json": {
+    "sha256": "0618cfed6e4447b8059c6432071db245af8e4487e78f89640b570ed61f6d4f63",
+    "bytes": 127638,
+    "retrieved": "2026-11-16T06:16:37+00:00",
+    "resolved": "https://www.arcgis.com/sharing/rest/content/items/8e9515c7297542d091cfd6c0a94176d2/data?f=json"
+  },
+  "https://hub.arcgis.com/api/download/v1/items/866adabc4cf0488abe15aa031765de67/csv?layers=0": {
+    "sha256": "2383058dc6737980474ed990fa0b88fea2c67fe9882e64b598d62ce5d95976c1",
+    "bytes": 30955,
+    "retrieved": "2026-11-16T06:16:41+00:00",
+    "resolved": "https://stg-arcgisazurecdataprod.az.arcgis.com/exportfiles-13860-1194/PermittedSites_-3381844960273975405.csv?sv=2026-06-06&st=2026-11-16T06%3A11%3A41Z&se=2026-11-16T07%3A16%3A41Z&sr=b&sp=r&sig=E821MJFcVN%2FzirXRy27TgrBkSwl6aInKzWjF3mXajQc%3D"
+  },
+  "https://hub.arcgis.com/api/download/v1/items/393b6df91f144ffdb7b137093b94ba03/csv?layers=2": {
+    "sha256": "6413ad3fc49332e2de05484ab62247634a16a226ec5c0d80a7c0b832e5576310",
+    "bytes": 59057,
+    "retrieved": "2026-11-16T06:23:39+00:00",
+    "resolved": "https://hub.arcgis.com/api/v3/datasets/393b6df91f144ffdb7b137093b94ba03_2/downloads/data?format=csv&spatialRefId=3857&where=1%3D1",
+    "previous_status_sha256": "858a31629aea9d012b8fdd4d46e42e1d9d8f0ed648bed9b10b2852dddb7cef56"
+  }
+}

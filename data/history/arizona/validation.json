@@ -1,0 +1,252 @@
+{
+  "cutoff": "2026-11-15",
+  "records": 408,
+  "archives": 62,
+  "registers": {
+    "ADEQ legacy construction stormwater": {
+      "rows": 6,
+      "unique_numbers": 3,
+      "statuses": {
+        "Termination/cancellation recorded": 3,
+        "Approval recorded": 3
+      },
+      "date_roles": {
+        "Termination/cancellation date": 3,
+        "Approval date": 3
+      },
+      "first": "2010-09-22",
+      "last": "2020-08-31"
+    },
+    "ADEQ myDEQ construction stormwater": {
+      "rows": 107,
+      "unique_numbers": 74,
+      "statuses": {
+        "Termination/cancellation recorded": 33,
+        "Approval recorded": 74
+      },
+      "date_roles": {
+        "Termination/cancellation date": 33,
+        "Approval date": 74
+      },
+      "first": "2017-01-31",
+      "last": "2026-10-14"
+    },
+    "ADEQ myDEQ industrial stormwater": {
+      "rows": 3,
+      "unique_numbers": 2,
+      "statuses": {
+        "Approval recorded": 2,
+        "Termination/cancellation recorded": 1
+      },
+      "date_roles": {
+        "Approval date": 2,
+        "Termination/cancellation date": 1
+      },
+      "first": "2020-07-07",
+      "last": "2025-09-03"
+    },
+    "Chandler Citizen Access": {
+      "rows": 7,
+      "unique_numbers": 7,
+      "statuses": {
+        "Awaiting Client Reply": 6,
+        "Issued": 1
+      },
+      "date_roles": {
+        "Date not stated": 7
+      },
+      "first": null,
+      "last": null
+    },
+    "Chandler city council zoning decisions": {
+      "rows": 1,
+      "unique_numbers": 1,
+      "statuses": {
+        "Denied": 1
+      },
+      "date_roles": {
+        "Council decision date": 1
+      },
+      "first": "2025-12-11",
+      "last": "2025-12-11"
+    },
+    "Goodyear Citizen Access": {
+      "rows": 11,
+      "unique_numbers": 11,
+      "statuses": {
+        "Permit Issued": 1,
+        "TCO": 4,
+        "CO or Final Inspection": 5,
+        "Completed": 1
+      },
+      "date_roles": {
+        "Date not stated": 11
+      },
+      "first": null,
+      "last": null
+    },
+    "Maricopa County air permit register": {
+      "rows": 55,
+      "unique_numbers": 55,
+      "statuses": {
+        "N": 27,
+        "A": 28
+      },
+      "date_roles": {
+        "Date not stated": 55
+      },
+      "first": null,
+      "last": null
+    },
+    "Maricopa County air public notices": {
+      "rows": 1,
+      "unique_numbers": 1,
+      "statuses": {
+        "Proposed": 1
+      },
+      "date_roles": {
+        "Public comment opens": 1
+      },
+      "first": "2025-10-01",
+      "last": "2025-10-01"
+    },
+    "Mesa building permit register": {
+      "rows": 110,
+      "unique_numbers": 110,
+      "statuses": {
+        "Issued": 31,
+        "In Review": 1,
+        "Revisions Required": 3,
+        "Revisions Received": 1,
+        "Fees Paid": 4,
+        "C of O Issued": 26,
+        "C of C Issued": 24,
+        "Fees Due": 2,
+        "Temporary C of O": 3,
+        "Finaled": 13,
+        "Approved": 2
+      },
+      "date_roles": {
+        "Issue date": 97,
+        "Opened date": 13
+      },
+      "first": "2008-09-03",
+      "last": "2026-11-13"
+    },
+    "Phoenix permits": {
+      "rows": 71,
+      "unique_numbers": 71,
+      "statuses": {
+        "OPEN": 24,
+        "DONE": 46,
+        "EXPR": 1
+      },
+      "date_roles": {
+        "Issue date": 70,
+        "Entry date": 1
+      },
+      "first": "2020-01-17",
+      "last": "2026-11-10"
+    },
+    "Phoenix plan reviews": {
+      "rows": 17,
+      "unique_numbers": 17,
+      "statuses": {
+        "OPEN": 17
+      },
+      "date_roles": {
+        "Plan record issue date": 14,
+        "Entry date": 3
+      },
+      "first": "2023-02-07",
+      "last": "2026-04-29"
+    },
+    "Pima County dust enforcement": {
+      "rows": 1,
+      "unique_numbers": 1,
+      "statuses": {
+        "Notice of Violation": 1
+      },
+      "date_roles": {
+        "Notice date": 1
+      },
+      "first": "2026-05-12",
+      "last": "2026-05-12"
+    },
+    "Scottsdale permits at a verified data-center site": {
+      "rows": 7,
+      "unique_numbers": 7,
+      "statuses": {
+        "FINALLED": 3,
+        "EXPIRED": 4
+      },
+      "date_roles": {
+        "Issue date": 7
+      },
+      "first": "2019-03-29",
+      "last": "2022-10-19"
+    },
+    "Tempe building safety permits": {
+      "rows": 8,
+      "unique_numbers": 8,
+      "statuses": {
+        "Final": 2,
+        "Issued": 1,
+        "Closed": 1,
+        "Finaled": 4
+      },
+      "date_roles": {
+        "Issue date": 8
+      },
+      "first": "2019-01-03",
+      "last": "2023-03-15"
+    },
+    "Tucson commercial building permits": {
+      "rows": 3,
+      "unique_numbers": 3,
+      "statuses": {
+        "Fees Due": 1,
+        "Issued": 1,
+        "Inspections": 1
+      },
+      "date_roles": {
+        "Application date": 1,
+        "Issue date": 2
+      },
+      "first": "2024-06-04",
+      "last": "2026-08-25"
+    }
+  },
+  "candidate_counts": {
+    "mesa": 122,
+    "phoenix_plan": 17,
+    "phoenix_permit": 77,
+    "air": 129,
+    "tempe": 8,
+    "tucson": 3,
+    "storm_old": 3,
+    "demin_old": 0,
+    "industrial_old": 0,
+    "storm": 98,
+    "demin": 0,
+    "industrial": 2,
+    "scottsdale": 288158,
+    "accela": 34
+  },
+  "rejected": 221,
+  "exclusions": {
+    "Mesa identical duplicate": 1,
+    "Phoenix linked address": 1,
+    "ADEQ same number/action/date": 33
+  },
+  "geography": {
+    "markers": 71,
+    "source_geometry": {
+      "point": 14,
+      "building": 47,
+      "campus": 10
+    },
+    "outside_mapped_place": 0,
+    "place_points": 71
+  }
+}

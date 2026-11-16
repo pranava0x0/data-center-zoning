@@ -1,0 +1,5 @@
+level,rank,name,point_count,geoid,inventory_commit,boundary_vintage
+county,1,Kanawha County,1,54039,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+county,1,Morgan County,1,54065,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,Atlas county
+incorporated_place,1,Bath (Berkeley Springs) town,1,5404876,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized
+incorporated_place,1,South Charleston city,1,5475292,fe4d8420f9fdc7b16b82b8461c5e4c39b93d8f1d,2024 generalized

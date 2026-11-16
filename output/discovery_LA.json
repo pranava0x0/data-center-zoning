@@ -1,0 +1,192 @@
+[
+  {
+    "state": "LA",
+    "jurisdiction": "Louisiana",
+    "url": "https://www.legis.la.gov/legis/Law.aspx?d=88800",
+    "depth": 0,
+    "sha256": "72556d8c00b8ac89d485eb2f0bf915bc8ff913843e3a2238bb2bfc613ddf5518",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 716,
+        "end": 728,
+        "match": "data centers",
+        "context": "arily suited for industrial development. For the purposes of this Subpart, \"industrial purposes\" shall include the construction and operation of data centers and commercial operations directly related thereto. Added by Acts 1964, No. 406, §1; Acts 2025, No. 36, §1. If you experience any technical difficulties navigating this website, contact the webmaster. P.O. Box"
+      }
+    ],
+    "links": [],
+    "status": "candidate_only"
+  },
+  {
+    "state": "LA",
+    "jurisdiction": "St. Charles Parish",
+    "url": "https://stcharlesgov.legistar.com/LegislationDetail.aspx?GUID=4194CDCA-7D35-4DB9-8959-5DE81A5526DC&ID=8028024",
+    "depth": 0,
+    "sha256": "cfc10dd945222d3e15e71616b7bbe6a15858a5ee2942cde972348f227437739a",
+    "adapter": "html",
+    "error": null,
+    "hits": [
+      {
+        "topic": "data_center",
+        "start": 827,
+        "end": 838,
+        "match": "Data Center",
+        "context": "harles Parish Code of Ordinances, Appendix A. - St. Charles Parish Zoning Ordinance of 1981, Section III. - Definitions, adding a definition for Data Center, Section VI. - Zoning district criteria and regulations., D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data ce"
+      },
+      {
+        "topic": "data_center",
+        "start": 945,
+        "end": 957,
+        "match": "Data Centers",
+        "context": "s, adding a definition for Data Center, Section VI. - Zoning district criteria and regulations., D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Sponsors: Matthew Jewell, Department of Planning"
+      },
+      {
+        "topic": "permission",
+        "start": 961,
+        "end": 975,
+        "match": "permitted uses",
+        "context": "nition for Data Center, Section VI. - Zoning district criteria and regulations., D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Sponsors: Matthew Jewell, Department of Planning & Zoning Indexes:"
+      },
+      {
+        "topic": "data_center",
+        "start": 1041,
+        "end": 1053,
+        "match": "data centers",
+        "context": "D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Sponsors: Matthew Jewell, Department of Planning & Zoning Indexes: P and Z (Dept. of) Attachments: 1. 2026-0170 RECOMMENDATIONS AT A GLANCE, 2. 2"
+      },
+      {
+        "topic": "data_center",
+        "start": 1345,
+        "end": 1357,
+        "match": "Data Centers",
+        "context": "of) Attachments: 1. 2026-0170 RECOMMENDATIONS AT A GLANCE, 2. 2026-0170 Minutes, 3. 2026-0170 Staff Report, 4. 2026-0170 Legislative ORD_2026-XX Data Centers (PP FINAL Version) (003), 5. 2026-0170 PC Approved ORD_2026-XX Data Centers, 6. 2026-0170 Final Ord 26-6-3, 7. 2026-0170 Correspondence 6.3.2026 History (11) Text 11 records Group Clear sorting Clear grouping"
+      },
+      {
+        "topic": "data_center",
+        "start": 1421,
+        "end": 1433,
+        "match": "Data Centers",
+        "context": "tes, 3. 2026-0170 Staff Report, 4. 2026-0170 Legislative ORD_2026-XX Data Centers (PP FINAL Version) (003), 5. 2026-0170 PC Approved ORD_2026-XX Data Centers, 6. 2026-0170 Final Ord 26-6-3, 7. 2026-0170 Correspondence 6.3.2026 History (11) Text 11 records Group Clear sorting Clear grouping Group by Date Group by Action By Export Export to Excel Export to PDF Export"
+      },
+      {
+        "topic": "data_center",
+        "start": 3085,
+        "end": 3096,
+        "match": "Data Center",
+        "context": "harles Parish Code of Ordinances, Appendix A. - St. Charles Parish Zoning Ordinance of 1981, Section III. - Definitions, adding a definition for Data Center, Section VI. - Zoning district criteria and regulations., D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data ce"
+      },
+      {
+        "topic": "data_center",
+        "start": 3203,
+        "end": 3215,
+        "match": "Data Centers",
+        "context": "s, adding a definition for Data Center, Section VI. - Zoning district criteria and regulations., D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Body WHEREAS, Data centers and digital infrastruc"
+      },
+      {
+        "topic": "permission",
+        "start": 3219,
+        "end": 3233,
+        "match": "permitted uses",
+        "context": "nition for Data Center, Section VI. - Zoning district criteria and regulations., D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Body WHEREAS, Data centers and digital infrastructure are a growing"
+      },
+      {
+        "topic": "data_center",
+        "start": 3299,
+        "end": 3311,
+        "match": "data centers",
+        "context": "D. Manufacturing and industry districts, adding Data Centers as permitted uses in the M-1 and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Body WHEREAS, Data centers and digital infrastructure are a growing component of the modern economy, supporting cloud computing, artificial intel"
+      },
+      {
+        "topic": "data_center",
+        "start": 3390,
+        "end": 3402,
+        "match": "Data centers",
+        "context": "and M-2 zoning districts, and adding requirements for data centers to Section VII. - Supplemental use and performance regulations. Body WHEREAS, Data centers and digital infrastructure are a growing component of the modern economy, supporting cloud computing, artificial intelligence, telecommunications, and business operations; and, WHEREAS, St. Charles Parish has"
+      },
+      {
+        "topic": "data_center",
+        "start": 3785,
+        "end": 3797,
+        "match": "Data centers",
+        "context": "large-scale industrial development and possesses the infrastructure and industrial corridors, necessary to accommodate such uses; and, WHEREAS, Data centers represent a form of industrial development that, when properly sited and designed, can operate with minimal impacts related to traffic, emissions, and surrounding land uses; and, WHEREAS, Data centers are not"
+      },
+      {
+        "topic": "data_center",
+        "start": 3986,
+        "end": 3998,
+        "match": "Data centers",
+        "context": "that, when properly sited and designed, can operate with minimal impacts related to traffic, emissions, and surrounding land uses; and, WHEREAS, Data centers are not specifically defined or regulated under the current St. Charles Parish Zoning Ordinance, and may otherwise be interpreted as permitted uses within existing industrial zoning districts; and, WHEREAS, th"
+      },
+      {
+        "topic": "permission",
+        "start": 4132,
+        "end": 4146,
+        "match": "permitted uses",
+        "context": "ata centers are not specifically defined or regulated under the current St. Charles Parish Zoning Ordinance, and may otherwise be interpreted as permitted uses within existing industrial zoning districts; and, WHEREAS, the Parish recognizes that data centers are not a one-size-fits-all use and range from smaller, lower-impact facilities to large-scale campuses, each"
+      },
+      {
+        "topic": "data_center",
+        "start": 4233,
+        "end": 4245,
+        "match": "data centers",
+        "context": "inance, and may otherwise be interpreted as permitted uses within existing industrial zoning districts; and, WHEREAS, the Parish recognizes that data centers are not a one-size-fits-all use and range from smaller, lower-impact facilities to large-scale campuses, each with different infrastructure and land-use considerations; and, WHEREAS, the Parish desires to prov"
+      }
+    ],
+    "links": [
+      [
+        8,
+        "https://stcharlesgov.legistar.com/View.ashx?M=F&ID=15477866&GUID=9C80C7D2-7634-402F-9FF2-D726721FB0AE",
+        "2026-0170 PC Approved ORD_2026-XX Data Centers"
+      ],
+      [
+        8,
+        "https://stcharlesgov.legistar.com/View.ashx?M=F&ID=15477868&GUID=A99BE99B-961C-4953-A0A7-D4D9E3B91C70",
+        "2026-0170 Legislative ORD_2026-XX Data Centers (PP FINAL Version) (003)"
+      ],
+      [
+        3,
+        "https://stcharlesgov.legistar.com/DepartmentDetail.aspx?ID=26223&GUID=3F393D5B-C8F9-4CA3-AFBB-AA0A52A40F79",
+        "Department of Planning & Zoning"
+      ]
+    ],
+    "status": "candidate_only"
+  },
+  {
+    "state": "LA",
+    "jurisdiction": "St. Charles Parish",
+    "url": "https://stcharlesgov.legistar.com/View.ashx?M=F&ID=15477866&GUID=9C80C7D2-7634-402F-9FF2-D726721FB0AE",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "LA",
+    "jurisdiction": "St. Charles Parish",
+    "url": "https://stcharlesgov.legistar.com/View.ashx?M=F&ID=15477868&GUID=A99BE99B-961C-4953-A0A7-D4D9E3B91C70",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  },
+  {
+    "state": "LA",
+    "jurisdiction": "St. Charles Parish",
+    "url": "https://stcharlesgov.legistar.com/DepartmentDetail.aspx?ID=26223&GUID=3F393D5B-C8F9-4CA3-AFBB-AA0A52A40F79",
+    "depth": 1,
+    "sha256": null,
+    "adapter": null,
+    "error": "not_cached",
+    "hits": [],
+    "links": [],
+    "status": "not_assessed"
+  }
+]

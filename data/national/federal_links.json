@@ -1,0 +1,79 @@
+{
+  "nm-epa-nmr1006jh-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR1006JH",
+    "version": "0",
+    "activity_id": "3604028105",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  },
+  "nm-epa-nmr1007oz-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR1007OZ",
+    "version": "0",
+    "activity_id": "3604711655",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  },
+  "nm-epa-nmr1007mo-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR1007MO",
+    "version": "0",
+    "activity_id": "3604731688",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  },
+  "nm-epa-nmr1006vq-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR1006VQ",
+    "version": "0",
+    "activity_id": "3604194421",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  },
+  "nm-epa-nmr1004tm-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR1004TM",
+    "version": "0",
+    "activity_id": "3603244681",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  },
+  "nm-epa-nmr1007mn-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR1007MN",
+    "version": "0",
+    "activity_id": "3604730906",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  },
+  "nm-epa-nmr10040c-v0": {
+    "issuer": "U.S. Environmental Protection Agency",
+    "program": "NPDES",
+    "authority_code": "EP6",
+    "npdes_id": "NMR10040C",
+    "version": "0",
+    "activity_id": "3602755927",
+    "source_url": "https://echo.epa.gov/files/echodownloads/npdes_downloads.zip",
+    "source_sha256": "1dc1bda010f971fd9f50ca2367fa15dd77665ea94b2646c63ec1bdaf0774cfa3",
+    "dictionary": "https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary"
+  }
+}

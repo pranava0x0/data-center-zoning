@@ -1,0 +1,68 @@
+{
+  "cutoff": "2026-11-15",
+  "rows": 650,
+  "datasets": {
+    "Dallas building permits": {
+      "records": 70,
+      "unique_record_numbers": 70,
+      "date_roles": {
+        "Issue date": 70
+      },
+      "first_date": "2018-03-06",
+      "last_date": "2026-10-29"
+    },
+    "Austin issued construction permits": {
+      "records": 333,
+      "unique_record_numbers": 333,
+      "date_roles": {
+        "Issue date": 333
+      },
+      "first_date": "1985-05-13",
+      "last_date": "2026-05-20"
+    },
+    "Fort Worth development permits": {
+      "records": 187,
+      "unique_record_numbers": 169,
+      "date_roles": {
+        "Status date": 181,
+        "File date": 6
+      },
+      "first_date": "2003-07-22",
+      "last_date": "2026-11-12"
+    },
+    "San Antonio issued building and trade permits": {
+      "records": 33,
+      "unique_record_numbers": 33,
+      "date_roles": {
+        "Issue date": 33
+      },
+      "first_date": "2021-04-28",
+      "last_date": "2026-09-29"
+    },
+    "TDLR architectural barriers registrations": {
+      "records": 25,
+      "unique_record_numbers": 25,
+      "date_roles": {
+        "Registration date": 25
+      },
+      "first_date": "2017-05-16",
+      "last_date": "2026-11-03"
+    },
+    "Abilene city site-plan register": {
+      "records": 2,
+      "unique_record_numbers": 2,
+      "date_roles": {
+        "Decision date not stated": 2
+      },
+      "first_date": null,
+      "last_date": null
+    }
+  },
+  "dropped_rows": {
+    "fort_worth duplicate permit": 37,
+    "san_antonio linked trade/address row": 90
+  },
+  "keyword_nonmatches": 18,
+  "archive_files_verified": 35,
+  "fort_worth_candidate_ids_reconciled": 225
+}

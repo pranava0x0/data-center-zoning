@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fed-faa-2025-agl-12773-oe",
+    "state": "ND",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Dickey County",
+    "county": "Dickey County",
+    "record_no": "2025-AGL-12773-OE",
+    "project": "Datacenter",
+    "kind": "Airspace review of construction equipment",
+    "status": "Extension",
+    "date": "2025-09-17",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip",
+    "source_sha256": "69c3e55633ede839af00c725cb17358552356bf42cd1711dd299494a85f62daf",
+    "locator": "AGL 2025 off-airport CSV · STUDY (ASN) 2025-AGL-12773-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Ellendale",
+      "original_structure_type": "CRANE",
+      "prior_study": "2025-AGL-12640-OE",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Crawler Crane which we can boom down when needed",
+      "original_determination": "Extension"
+    }
+  },
+  {
+    "id": "fed-faa-2025-agl-14944-oe",
+    "state": "ND",
+    "dataset": "FAA airspace determinations",
+    "jurisdiction": "Cass County",
+    "county": "Cass County",
+    "record_no": "2025-AGL-14944-OE",
+    "project": "Datacenter Harwood",
+    "kind": "Airspace review of construction equipment",
+    "status": "Extension",
+    "date": "2026-01-13",
+    "date_role": "FAA study completion date",
+    "url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip",
+    "source_url": "https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AGL2025List.gzip",
+    "source_sha256": "69c3e55633ede839af00c725cb17358552356bf42cd1711dd299494a85f62daf",
+    "locator": "AGL 2025 off-airport CSV · STUDY (ASN) 2025-AGL-14944-OE",
+    "details": {
+      "federal_issuer": "Federal Aviation Administration",
+      "scope": "The FAA evaluated this structure or construction equipment for air navigation. Several study numbers can cover the same building. This is not a zoning, building or operating permit.",
+      "structure_city_as_reported": "Fargo",
+      "original_structure_type": "CRANE",
+      "prior_study": "",
+      "reported_case_status": "Determined - No Hazard",
+      "source_description": "Will have a crane onsite to build the Datacenter",
+      "original_determination": "Extension"
+    }
+  }
+]

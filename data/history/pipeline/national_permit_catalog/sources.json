@@ -1,0 +1,92 @@
+{
+  "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=0": {
+    "sha256": "a19569feaa3a2692c200f13eff356640082e051011cf60c10a008f22ceb7ab55",
+    "bytes": 855636,
+    "retrieved": "2026-11-16T06:45:41+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=0"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=100": {
+    "sha256": "464f01b280a82c60fad4a699124cf2cfbd44654b6e59f612f57dd30f1eab1a45",
+    "bytes": 808323,
+    "retrieved": "2026-11-16T06:45:43+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=100"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=200": {
+    "sha256": "3e1082bfd49adf277dd6cb8d2695fae43d46c968302174cc04bf9b1774e2312f",
+    "bytes": 992558,
+    "retrieved": "2026-11-16T06:45:43+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=200"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=300": {
+    "sha256": "4491759e241cceea34b84183742a39e46dc360896d0f8fe3a0bf37f821f25cbf",
+    "bytes": 1288111,
+    "retrieved": "2026-11-16T06:45:44+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=300"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=400": {
+    "sha256": "bf16d71161764b44915b9b3cb90e1fe4f6ec85f42c612ef9c460869be978e3b8",
+    "bytes": 1510354,
+    "retrieved": "2026-11-16T06:45:45+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=building+permits&only=datasets&limit=100&offset=400"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=0": {
+    "sha256": "ef1e747627fb2c60ceecdf0a1a0db98b8535780fad14330fb0d620a0fc43a59d",
+    "bytes": 903422,
+    "retrieved": "2026-11-16T06:45:45+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=0"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=100": {
+    "sha256": "4868ec868b4f689bdf873ab86b5b690b07cd2fc4a7a2acae5f57ad0628801b5b",
+    "bytes": 917717,
+    "retrieved": "2026-11-16T06:45:46+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=100"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=200": {
+    "sha256": "b38a207810c6cacde2a7215cac248debde9736e596670ec72c40ca429253454e",
+    "bytes": 1244269,
+    "retrieved": "2026-11-16T06:45:47+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=200"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=300": {
+    "sha256": "08f49597a57c59e64b0e64aa87111d801263cc7ed6e3a910001fad60619ddca8",
+    "bytes": 577580,
+    "retrieved": "2026-11-16T06:45:48+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=construction+permits&only=datasets&limit=100&offset=300"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=land+use+permits&only=datasets&limit=100&offset=0": {
+    "sha256": "7be40fbacad2508656f3623664e82cfed168a8f35dc242987814393e175d4c86",
+    "bytes": 1190026,
+    "retrieved": "2026-11-16T06:45:52+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=land+use+permits&only=datasets&limit=100&offset=0"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=land+use+permits&only=datasets&limit=100&offset=100": {
+    "sha256": "3302a537bf8b519fa884d645a437b49a0d7948b39708e32d605561c175e79df5",
+    "bytes": 1085768,
+    "retrieved": "2026-11-16T06:45:52+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=land+use+permits&only=datasets&limit=100&offset=100"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=commercial+permits&only=datasets&limit=100&offset=0": {
+    "sha256": "cbba7e96a02af17ee43848eb72de31920d5cd49eb72ce18d1b1b62519bf12215",
+    "bytes": 990982,
+    "retrieved": "2026-11-16T06:45:53+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=commercial+permits&only=datasets&limit=100&offset=0"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=commercial+permits&only=datasets&limit=100&offset=100": {
+    "sha256": "361b8d40d67d1e3b7c5af866c392c63db92e021c0a4f1be58acc95e425e7279d",
+    "bytes": 1136460,
+    "retrieved": "2026-11-16T06:45:54+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=commercial+permits&only=datasets&limit=100&offset=100"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=electrical+permits&only=datasets&limit=100&offset=0": {
+    "sha256": "e3f866db021babae170f307021d193efc16fc9862b6404cef8f2dfbdf3b039dc",
+    "bytes": 1465632,
+    "retrieved": "2026-11-16T06:45:56+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=electrical+permits&only=datasets&limit=100&offset=0"
+  },
+  "https://api.us.socrata.com/api/catalog/v1?q=electrical+permits&only=datasets&limit=100&offset=100": {
+    "sha256": "95057097fb2a7adf96cf8957f85af3bc5a82dedf9ac8562733fa3becb5b3fb5f",
+    "bytes": 200835,
+    "retrieved": "2026-11-16T06:46:00+00:00",
+    "resolved": "https://api.us.socrata.com/api/catalog/v1?q=electrical+permits&only=datasets&limit=100&offset=100"
+  }
+}

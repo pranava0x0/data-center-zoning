@@ -1,0 +1,50 @@
+{
+  "state": "AR",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 23,
+  "county": {
+    "Johnson County": 6,
+    "Pulaski County": 6,
+    "Benton County": 5,
+    "Crittenden County": 5,
+    "Washington County": 1
+  },
+  "agency_reported_locality": {
+    "Clarksville": 6,
+    "Little Rock": 6,
+    "West Memphis": 5,
+    "Bentonville": 4,
+    "Lowell": 1,
+    "Springdale": 1
+  },
+  "datasets": {
+    "Arkansas DEQ air permitting and PDS": 12,
+    "Arkansas PDS regulated storage tank records": 6,
+    "Arkansas DEQ other air requests": 4,
+    "Little Rock municipal permits": 1
+  },
+  "cross_register_date_matches": 0,
+  "cutoff": "2026-11-15",
+  "facility_source_rows": 32882,
+  "permit_source_rows": 62713,
+  "matched_facility_names_codes": 12,
+  "air_request_facilities": [
+    "04-00737",
+    "18-01011",
+    "36-00552",
+    "60-06438"
+  ],
+  "excluded_water_ids": [
+    "AR0050652",
+    "ARR10C653",
+    "ARR154479"
+  ],
+  "other_programs_held": [
+    "ARR000006312",
+    "ARR000013557"
+  ],
+  "municipal_source_rows": [
+    0,
+    19
+  ]
+}

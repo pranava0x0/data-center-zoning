@@ -1,0 +1,1584 @@
+{
+  "sources": {
+    "new_albany": {
+      "all_use_rows": 585,
+      "screen_candidates": 4,
+      "strict_phrase_rows": 4,
+      "url": "https://webgis.newalbanyohio.org/arcgis/rest/services/PublicZoning/ZoningEntitlementsBoardsCommissions/MapServer/0",
+      "predicate": "UPPER(Name) LIKE '%DATA%CENT%' OR UPPER(Name) LIKE '%DATA%CTR%' OR UPPER(Name) LIKE '%DATA%HALL%' OR UPPER(Name) LIKE '%SERVER%FARM%' OR UPPER(Name) LIKE '%DATA%BUILDING%' OR UPPER(Description) LIKE '%DATA%CENT%' OR UPPER(Description) LIKE '%DATA%CTR%' OR UPPER(Description) LIKE '%DATA%HALL%' OR UPPER(Description) LIKE '%SERVER%FARM%' OR UPPER(Description) LIKE '%DATA%BUILDING%' OR UPPER(AdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(AdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(AdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(AdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(AdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%CENT%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%CTR%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%HALL%' OR UPPER(PCAdditonalInfo) LIKE '%SERVER%FARM%' OR UPPER(PCAdditonalInfo) LIKE '%DATA%BUILDING%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(BZAAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(BZAAdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(ARBAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(ARBAdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(CC2AdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(CC2AdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(CC1AdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(CC1AdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(RFABAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(RFABAdditionalInfo) LIKE '%DATA%BUILDING%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%CENT%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%CTR%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%HALL%' OR UPPER(PTABAdditionalInfo) LIKE '%SERVER%FARM%' OR UPPER(PTABAdditionalInfo) LIKE '%DATA%BUILDING%'"
+    },
+    "engineering": {
+      "all_use_rows": 6555,
+      "screen_candidates": 11,
+      "strict_phrase_rows": 10,
+      "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/22",
+      "predicate": "UPPER(B1_WORK_DESC) LIKE '%DATA%CENT%' OR UPPER(B1_WORK_DESC) LIKE '%DATA%CTR%' OR UPPER(B1_WORK_DESC) LIKE '%DATA%HALL%' OR UPPER(B1_WORK_DESC) LIKE '%SERVER%FARM%' OR UPPER(B1_WORK_DESC) LIKE '%DATA%BUILDING%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%CENT%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%CTR%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%HALL%' OR UPPER(B1_SHORT_NOTES) LIKE '%SERVER%FARM%' OR UPPER(B1_SHORT_NOTES) LIKE '%DATA%BUILDING%'"
+    },
+    "building": {
+      "all_use_rows": 690297,
+      "screen_candidates": 0,
+      "strict_phrase_rows": 0,
+      "url": "https://maps2.columbus.gov/arcgis/rest/services/Schemas/BuildingZoning/MapServer/5",
+      "predicate": "UPPER(VALUE_DESC) LIKE '%DATA%CENT%' OR UPPER(VALUE_DESC) LIKE '%DATA%CTR%' OR UPPER(VALUE_DESC) LIKE '%DATA%HALL%' OR UPPER(VALUE_DESC) LIKE '%SERVER%FARM%' OR UPPER(VALUE_DESC) LIKE '%DATA%BUILDING%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%CENT%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%CTR%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%HALL%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%SERVER%FARM%' OR UPPER(APPLICANT_BUS_NAME) LIKE '%DATA%BUILDING%'"
+    },
+    "npdes0": {
+      "all_use_rows": 3146,
+      "screen_candidates": 0,
+      "strict_phrase_rows": 0,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/0",
+      "predicate": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    },
+    "npdes1": {
+      "all_use_rows": 8497,
+      "screen_candidates": 0,
+      "strict_phrase_rows": 0,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/1",
+      "predicate": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    },
+    "npdes2": {
+      "all_use_rows": 3594,
+      "screen_candidates": 0,
+      "strict_phrase_rows": 0,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/2",
+      "predicate": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    },
+    "npdes3": {
+      "all_use_rows": 8725,
+      "screen_candidates": 23,
+      "strict_phrase_rows": 23,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/3",
+      "predicate": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    },
+    "npdes4": {
+      "all_use_rows": 51909,
+      "screen_candidates": 30,
+      "strict_phrase_rows": 29,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/4",
+      "predicate": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    },
+    "npdes6": {
+      "all_use_rows": 148,
+      "screen_candidates": 0,
+      "strict_phrase_rows": 0,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/6",
+      "predicate": "UPPER(facility_name) LIKE '%DATA%CENT%' OR UPPER(facility_name) LIKE '%DATA%CTR%' OR UPPER(facility_name) LIKE '%DATA%HALL%' OR UPPER(facility_name) LIKE '%SERVER%FARM%' OR UPPER(facility_name) LIKE '%DATA%BUILDING%' OR UPPER(facility_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(facility_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    },
+    "npdes7": {
+      "all_use_rows": 5440,
+      "screen_candidates": 0,
+      "strict_phrase_rows": 0,
+      "url": "https://geo.epa.ohio.gov/arcgis/rest/services/SurfaceWater/NPDES/MapServer/7",
+      "predicate": "UPPER(fp_place_name) LIKE '%DATA%CENT%' OR UPPER(fp_place_name) LIKE '%DATA%CTR%' OR UPPER(fp_place_name) LIKE '%DATA%HALL%' OR UPPER(fp_place_name) LIKE '%SERVER%FARM%' OR UPPER(fp_place_name) LIKE '%DATA%BUILDING%' OR UPPER(fp_place_name) LIKE '%AMAZON DATA SERVICES%' OR UPPER(fp_place_name) LIKE '%AMAZON DATA SYSTEMS%'"
+    }
+  },
+  "held": [
+    {
+      "source": "engineering",
+      "object_id": 1002,
+      "reason": "loose SQL or operator-only hit"
+    },
+    {
+      "source": "npdes4",
+      "object_id": 37766,
+      "reason": "loose SQL or operator-only hit"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMLSC2202160",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00069&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2223267",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00MOM&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2223461",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00MVL&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2223595",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00N0P&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2233096",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00X2M&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2234529",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=00YMN&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2238618",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=01392&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2243444",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=018LK&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2245416",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=22CAP&capID2=00000&capID3=01ARK&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2302501",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=000KH&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FNDTC2319364",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00IYW&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2323120",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00N1W&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2334029",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=00YMW&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2341414",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=016KX&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2342978",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=018AE&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2343106",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=018EZ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2343693",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=0190O&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2348294",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01E1G&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2351521",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01HMT&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "ACS2350870",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=23CAP&capID2=00000&capID3=01GVW&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2402775",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=000TH&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2404001",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00284&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2405867",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=0048L&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2406800",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00593&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2407931",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=006HG&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2408769",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=007CZ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2409498",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=0083D&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2420126",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00JD4&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "TSTRC2423718",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00MZ4&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2424191",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NGY&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2424187",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NGT&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2424190",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NGX&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2424521",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NT3&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2424525",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00NT7&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2425554",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00OVP&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2426393",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00PPC&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2427558",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00QWA&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2427547",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00QVV&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2427551",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00QW1&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2429540",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00SW2&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2429795",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00T5J&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2429794",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00T5I&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2429796",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00T5L&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2432713",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00VQM&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2434446",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00XKK&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2433376",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00WH2&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "ACS2434094",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00X73&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2434290",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00XEQ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2435359",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=00YMO&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2440989",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=24CAP&capID2=00000&capID3=014WO&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2502158",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=0006A&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2502831",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=000XG&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2636262",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=014IT&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2612083",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00CDJ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2614697",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00FKB&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2626456",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00T3T&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2603225",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=001IC&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2605368",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00436&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2604857",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=003G3&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2607361",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=006JX&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2545107",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01DX1&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2542890",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01B7G&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2545276",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01E4S&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2543066",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01BDT&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "DEMO2611031",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26120&capID2=00000&capID3=00019&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2537223",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=014IJ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2539910",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017PO&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2542894",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01B7L&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2542896",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01B7Q&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2543077",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01BE8&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2539912",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=017PR&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2536056",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=01342&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2541643",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=019PU&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2537220",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=014IG&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2538995",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=016N2&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2527597",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00T6Y&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2531555",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00XQG&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2526040",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00RGJ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2526056",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00RH8&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FNDTC2522914",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00O0R&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2528490",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00U7L&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2527604",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00T78&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2529085",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00UVV&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FNDTC2522917",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00O0V&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2525069",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00QDG&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2525463",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00QSS&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FSUPC2507915",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=006RB&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2513667",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00DE7&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "NEWC2520497",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00LBE&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2512873",
+      "site_plan_numbers": [
+        "22345-00616",
+        "21601-00113"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00CHJ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2502629",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=000P3&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "MMEPC2515696",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00FTX&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "PMEPC2515697",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=25CAP&capID2=00000&capID3=00FTZ&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2603946",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=002E7&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "EMEPC2611491",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=00BNV&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2636572",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=014XN&agencyCode=COLUMBUS"
+    },
+    {
+      "source": "Columbus building parcel search",
+      "number": "FALRC2636990",
+      "site_plan_numbers": [
+        "21345-783",
+        "21345-199",
+        "22345-00448",
+        "23345-00568",
+        "24345-00048",
+        "25345-00215",
+        "25345-00443",
+        "25345-00641"
+      ],
+      "reason": "no explicit facility phrase in matching permit description",
+      "url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=26CAP&capID2=00000&capID3=015FB&agencyCode=COLUMBUS"
+    }
+  ],
+  "duplicates": [],
+  "columbus_portal": {
+    "candidate_numbers": 166,
+    "explicit_numbered_permits": 69,
+    "cached_documents": 166
+  },
+  "as_of": "2026-11-15",
+  "rows": 141,
+  "by_dataset": {
+    "New Albany zoning entitlements": 4,
+    "Columbus engineering filings": 10,
+    "Ohio EPA NPDES register": 52,
+    "Columbus building and trade permits": 69,
+    "Municipal planning decisions": 4,
+    "Ohio EPA selected air and water permits": 2
+  },
+  "by_jurisdiction": {
+    "New Albany": 6,
+    "Columbus": 79,
+    "Coshocton County": 2,
+    "Lawrence County": 1,
+    "Morgan County": 1,
+    "Pike County": 3,
+    "Clinton County": 7,
+    "Shelby County": 1,
+    "Erie County": 6,
+    "Wood County": 1,
+    "Van Wert County": 2,
+    "Summit County": 1,
+    "Licking County": 19,
+    "Union County": 5,
+    "Franklin County": 2,
+    "Hamilton County": 1,
+    "Hilliard": 2,
+    "Dublin": 2
+  }
+}

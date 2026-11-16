@@ -1,0 +1,1810 @@
+{
+  "results": [
+    {
+      "jurisdiction": "AK",
+      "ok": true,
+      "rows": 65,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/alaska/history.py",
+          "seconds": 0.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/alaska/history.json": "ad5b43f445152655473812eb52fb8eadfd873b6b5997875932c504949b651a34"
+      }
+    },
+    {
+      "jurisdiction": "AL",
+      "ok": true,
+      "rows": 50,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/alabama/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/alabama/history.json": "24bdfd8541a5bb75b0f8a2d439eab7478bc58d9bc392c4a1b3328ebad59e5155",
+        "output/history/federal/faa_obstruction_evaluations/alabama.json": "50fecaccdccc4d0aa26be701750c8367bc113eb8c9937c9c266fcb9ab0f445db",
+        "output/history/federal/epa_named_water_permits/alabama.json": "050a9608b9d0978ec830be36a02b8f537af5cd519302ebc394d0e6446637252e"
+      }
+    },
+    {
+      "jurisdiction": "AR",
+      "ok": true,
+      "rows": 29,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/arkansas/history.py",
+          "seconds": 4.0,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/arkansas/history.json": "37506559afd5983f0c680f81568e2e73db58a413b5f54f7a1b2fa0c1c6803c9a",
+        "output/history/federal/faa_obstruction_evaluations/arkansas.json": "21e1945d416bbeb259ff93d52a9a816cdee566148b5727b11459f08d884d63f2",
+        "output/history/federal/epa_named_water_permits/arkansas.json": "868b8b969ac661e2d46b3fb4fb3323ffb121b93f9c26788652b26b8e5868341d"
+      }
+    },
+    {
+      "jurisdiction": "AS",
+      "ok": true,
+      "rows": 1,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/territories/federal_grants.py",
+          "seconds": 0.9,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/territories/federal_grants/american_samoa.json": "1519ca08f116180e4592c5e428815d1674dcd136c8c5b00e35992ca9dcc669e0"
+      }
+    },
+    {
+      "jurisdiction": "AZ",
+      "ok": true,
+      "rows": 509,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/water_fire_authorizations.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/arizona/history.py",
+          "seconds": 1.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/arizona/history.json": "f43920f934927262287cd773dac45fab8850d0db439d07a41f99a37c59a561ff",
+        "output/history/federal/faa_obstruction_evaluations/arizona.json": "0dc5ff16b31a1e3897570d1298541bd562304c8c71c5390081f1991b6be7beff",
+        "output/history/multistate/water_fire_authorizations/arizona.json": "dc5c591b13785bb566fb4f96afa859503d1af08f2ad7894a6cc9a2561593dc59",
+        "output/history/federal/epa_named_water_permits/arizona.json": "8a70a3f335ab58a9c83d84e24a68ddc973a7f13a4c8ca75f4a16ef0508e55a6b"
+      }
+    },
+    {
+      "jurisdiction": "CA",
+      "ok": true,
+      "rows": 548,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/water_fire_authorizations.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/oregon/portland_west_metro.py",
+          "seconds": 0.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/california/history.py",
+          "seconds": 1.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/doe_nepa.py",
+          "seconds": 0.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_letters_california_energy.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/california/history.json": "0fcf89066f4478e53ac335458c645b57b78c1b326509c53986b9100056100c61",
+        "output/history/federal/usace_regulatory/california.json": "49de280a0888ebdd7c0bfda32b088f585511c9250c0307725fb5388b8fd9f515",
+        "output/history/federal/doe_nepa/california.json": "bbd3f036d089c8ac55f3b23211007dc25fd4792fe2669768d31c5e88a165df94",
+        "output/history/federal/faa_obstruction_evaluations/california.json": "527119e824ced24d91b75ba88c28b01a89e72a371df9074bb4cb1cb3ca0bfd2b",
+        "output/history/federal/faa_letters_california_energy.json": "37d0d16dff7e76cbe9d8a2fd98a609991d3943bc7e8af7e71a316f4c313cfb6f",
+        "output/history/federal/usace_consultations/california.json": "6bb266c65e3a5b4ef5e9716e60a368dec3b2ecd22f5a5cfd727005afdda86192",
+        "output/history/multistate/water_fire_authorizations/california.json": "3db4cb0276be556aa23837c55c95637ad03f578c426ff670aa2ede2d09a68fc4",
+        "output/history/oregon/portland_west_metro/california.json": "cb5174e541f7c9397db7bf7f5daa7dc1e7aae0e418bb73064f860aa374a64fef",
+        "output/history/federal/epa_named_water_permits/california.json": "462d24ca79b1a0bfd30e32114362105b7c691b8382af044306c56adcb5bdb513"
+      }
+    },
+    {
+      "jurisdiction": "CO",
+      "ok": true,
+      "rows": 76,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/colorado/history.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/colorado/history.json": "a1ec5fe11c4e56116c71aaedcecf3505bb9901c58103fa7d807cfa2ff5b055c7",
+        "output/history/federal/faa_obstruction_evaluations/colorado.json": "23642ab6bc01120767063649d30bef5c965af27eb3d703bebb1b3bd6b6a60011",
+        "output/history/federal/epa_named_water_permits/colorado.json": "b6d5bb2318de81644374f0705798d52aa71f6f5a2d0094169621a76dc49c4a93"
+      }
+    },
+    {
+      "jurisdiction": "CT",
+      "ok": true,
+      "rows": 8,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/connecticut/history.py",
+          "seconds": 0.3,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/connecticut/history.json": "e23fcdf344e53a67957085bcea7ee8f21683c1cf94e72c6b52cbdeba76b6b481"
+      }
+    },
+    {
+      "jurisdiction": "DC",
+      "ok": true,
+      "rows": 18,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/district_of_columbia/history.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/district_of_columbia/history.json": "184e7acaee631b5ca9a6e090357e9cb6ee7a628b89d6096ececbe639017bbcee"
+      }
+    },
+    {
+      "jurisdiction": "DE",
+      "ok": true,
+      "rows": 3,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/meeting_votes.py",
+          "seconds": 1.0,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/meeting_votes/delaware.json": "acb0f0575c352ac10e1581f8d9b53e0ed5590f4350d8d5360874899989d678b5"
+      }
+    },
+    {
+      "jurisdiction": "FL",
+      "ok": true,
+      "rows": 51,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/florida/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/meeting_votes.py",
+          "seconds": 1.0,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/meeting_votes/florida.json": "4d5808531b61b28d8416bcec208e6ffc5ef6c1f146ce084d94d657c323fe9215",
+        "output/history/federal/faa_obstruction_evaluations/florida.json": "1609f288c5790b16359be5f2e2f5922534b86412142ce1957077bbc921e64126",
+        "output/history/florida/history.json": "aaa1101742386771125e7c734ecc220ed42ef8c1c84786ac8b0455aebc7e5cca",
+        "output/history/federal/epa_named_water_permits/florida.json": "dabbe974517c5b0652cac82881caa8f45da0457367f11bfbdfdeb22103b4490c"
+      }
+    },
+    {
+      "jurisdiction": "GA",
+      "ok": true,
+      "rows": 364,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/georgia/history.py",
+          "seconds": 41.0,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/georgia.json": "61cc40b7adf8a4bc48d263bcc2299999db6707f193901e6b3d212e0ff37cdd81",
+        "output/history/federal/faa_obstruction_evaluations/georgia.json": "489def8c2b32ea7b919d67779a9fd90625de87ed71d3942709bb9df2c846e167",
+        "output/history/federal/usace_consultations/georgia.json": "9da95578be233c69c7b80e41ea215b2c3f5d37c3c9f6899e0438b20720f21225",
+        "output/history/georgia/history.json": "b0310f742ca504470a49d37b8f00a56086265b7a38f88c105cb49396f4e253fa",
+        "output/history/federal/epa_named_water_permits/georgia.json": "1d99aae172fd6f591afe6dc42c5bf252bd5af61fe7c630de13e3b4cab80f2d08"
+      }
+    },
+    {
+      "jurisdiction": "GU",
+      "ok": true,
+      "rows": 9,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/meeting_votes.py",
+          "seconds": 1.0,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes.py",
+          "seconds": 2.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes_timeline.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/guam/land_use_referrals.py",
+          "seconds": 0.4,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/meeting_votes/guam.json": "5c4e2e6289a1648d6198b2409a05c29efde04383adeb957a9de42642deaa67d1",
+        "output/history/federal/epa_npdes_timeline/guam.json": "bbbdf6978fff25da4bb5be8efed4f94bcd5b0a657d55a9f2ad6c6e079d424c2a",
+        "output/history/federal/epa_npdes/guam.json": "d02ec49872e477478eac79e7963a1c4e650b8e954f2c4bfbcbc52aed3a8033b6",
+        "output/history/guam/land_use_referrals.json": "2cb393f5a2768a78f871b11340c9e04d821b92fa1c3df143720e26cba6bf44f2"
+      }
+    },
+    {
+      "jurisdiction": "HI",
+      "ok": true,
+      "rows": 9,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/hawaii/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/hawaii/history.json": "ea34f89dd53c530e09417cd658c42e70437e62c50a66c83266cf7cb3bd81160a",
+        "output/history/federal/epa_named_water_permits/hawaii.json": "94b3e4e79019980b50594f9c96d8220d2a319f142447439321cec2da61f92b23"
+      }
+    },
+    {
+      "jurisdiction": "IA",
+      "ok": true,
+      "rows": 4701,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/iowa/history.py",
+          "seconds": 2.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/iowa.json": "3e59c195f9be440966c8742083121ff1b36ed5de512a887e24bdb389731a6cd3",
+        "output/history/iowa/history.json": "c1443e098d1e768d3217aac34c15bbc3a9df75390f5f3c70daa36901ec7a7594",
+        "output/history/federal/epa_named_water_permits/iowa.json": "7ef9dcdd0e54e53fde51b7be91ec1d663c48fd56415db4d15f4b6de561a18ae7"
+      }
+    },
+    {
+      "jurisdiction": "ID",
+      "ok": true,
+      "rows": 11,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/idaho/history.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes.py",
+          "seconds": 2.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes_timeline.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/doe_nepa.py",
+          "seconds": 0.9,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/doe_nepa/idaho.json": "5b2150c7759769d8925251024327eb73eabb66709c91d8a468004fb14a1453fb",
+        "output/history/federal/epa_npdes_timeline/idaho.json": "9e659081fabad5567365d676942c325e5e72df596795597039743791db13d192",
+        "output/history/federal/epa_npdes/idaho.json": "88891918b2ad3da47c34a34a81c714b11561929aeec4295f393a81edee498060",
+        "output/history/idaho/history.json": "a0693d01a43a6fc5b90dde426a8aabff8d69430417168a95a6c1a15cc3c01070",
+        "output/history/federal/epa_named_water_permits/idaho.json": "66904571c7c4674499a63f7afe78cb4d9fe79a22887c992f1d1ed980c2f45f47"
+      }
+    },
+    {
+      "jurisdiction": "IL",
+      "ok": true,
+      "rows": 403,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/illinois/elk_grove_village_cook_assessor.py",
+          "seconds": 1.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/open_data_release.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/doe_nepa.py",
+          "seconds": 0.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_digital_library.py",
+          "seconds": 1.9,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/illinois.json": "491384cdcb24bd9445fedc3e920b783083f6cd252697e057b108066c13e6ccc5",
+        "output/history/federal/usace_digital_library/illinois.json": "2382a92a86298bbc350cebb20c306f284e2ebc83586271393544144e04f70e2c",
+        "output/history/federal/doe_nepa/illinois.json": "1763dce975944aadee25b33bc9f3984fb29dad66f7eb4d1b66aa7342d915a194",
+        "output/history/illinois/elk_grove_village_cook_assessor.json": "70ea50d53c7d9cbc64a07dbdaf4161d911919c370b74a899e203f1009ddec198",
+        "output/history/federal/faa_obstruction_evaluations/illinois.json": "3feb20b1b1442e799d72d6c16c8465716aaac16bc790bd1be3113bd9eb8b9a3a",
+        "output/history/multistate/open_data_release/illinois.json": "011b260ca7c36523a9376203454deb57c056020554f98243771373267d1ab9ce",
+        "output/history/federal/epa_named_water_permits/illinois.json": "c56430b2ce552696a11fdc28812227f7649eebc81222997e84f965a4ac648d61"
+      }
+    },
+    {
+      "jurisdiction": "IN",
+      "ok": true,
+      "rows": 480,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/indiana/history.py",
+          "seconds": 10.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/indiana.json": "f46569cdada72def82ce090a6b8caefc1624aa2f009f9e80b9003ff79de50c66",
+        "output/history/federal/faa_obstruction_evaluations/indiana.json": "bb54114f0ea739ec3dd572f9268c182d32ab8b92097ec3306dae1f1fb97437fa",
+        "output/history/federal/usace_consultations/indiana.json": "485670daba711cff6803eae4b69666b71a226b7cd8ca4db997ef230414f30097",
+        "output/history/indiana/history.json": "5b0e756d0a2c2b1df21981d207bc82e1c0426a97da0e430ea3d7cb980653960e",
+        "output/history/federal/epa_named_water_permits/indiana.json": "856f8ca717c4c616ec31614c307eab328ca35e494b24787f9dbb7c61efc666d4"
+      }
+    },
+    {
+      "jurisdiction": "KS",
+      "ok": true,
+      "rows": 12,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/kansas/history.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/kansas.json": "dca8c71483b9b799bf3bb6fe5693626f1276d874e2121def6ddc13b90468922b",
+        "output/history/kansas/history.json": "6f55e6e733d9b3ee211b3e3cd63dc9dceb0890b236d09414c4aa9ea7ffb8d290",
+        "output/history/federal/epa_named_water_permits/kansas.json": "18b461ba5209c7309baf504269862eaabae19d7380094518bd42b60e60b67f2c"
+      }
+    },
+    {
+      "jurisdiction": "KY",
+      "ok": true,
+      "rows": 15,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/kentucky/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/doe_nepa.py",
+          "seconds": 0.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/doe_nepa/kentucky.json": "1447d469934f3bdd5ad5893339437b099c5fdd3d01fb21e74c4a9d1cfe995d39",
+        "output/history/federal/faa_obstruction_evaluations/kentucky.json": "674c54ea309a824046e733d1aca6c5a779731a4f8b931beccef491b10fcd8b90",
+        "output/history/kentucky/history.json": "fff3b40e7efd644d7f17027010470e0f0f24da0fefd6af731d548c0c5211493d",
+        "output/history/federal/epa_named_water_permits/kentucky.json": "59c2c2f19523f1b19ac697e0dc15b1b8ee17bc8b5517b89fc6031861f2ec8c1d"
+      }
+    },
+    {
+      "jurisdiction": "LA",
+      "ok": true,
+      "rows": 33,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/louisiana/history.py",
+          "seconds": 9.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/open_data_release.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_digital_library.py",
+          "seconds": 1.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/louisiana.json": "c2e483d028a54148bd3d6932a0ffb952ef7078bd3a6a3c0a79a95bbfe9c94067",
+        "output/history/federal/usace_digital_library/louisiana.json": "783f48368828df36e247e77cecb5a53cad6f82f813ad80f230da6fa1d938e8b4",
+        "output/history/federal/usace_consultations/louisiana.json": "a27c021bfb2dabbd388bf27faa9916cb9b6cd8f610bcf93aa3fb86deaa79e776",
+        "output/history/louisiana/history.json": "4dde47f83a7e439c0c6b3f35f108bae4f6cdd6231686caed28d23a0d0f811a8c",
+        "output/history/multistate/open_data_release/louisiana.json": "cbd902d3db774d6128b1f95e70c126173325e3873ed8a5e246f79d05df86ca2b"
+      }
+    },
+    {
+      "jurisdiction": "MA",
+      "ok": true,
+      "rows": 160,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/massachusetts/history.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/open_data_release.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes.py",
+          "seconds": 2.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes_timeline.py",
+          "seconds": 0.3,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/epa_npdes_timeline/massachusetts.json": "4c7c8c11ca7cfc53b89a144e16e2477bc7bd8fd9f04f3978311f99a039aa6636",
+        "output/history/federal/epa_npdes/massachusetts.json": "7e6620be0be45919b65902475d1f3a0ea4bb3af859fe62cbe3687098928b3bf2",
+        "output/history/massachusetts/history.json": "f0611b7de0b87d8db910b640bf09def11f62ca2fbb70a0b2ba3f6dc0c05c6170",
+        "output/history/multistate/open_data_release/massachusetts.json": "c8c0b0a605cb3eaf4a4eb7ad1efd3b60ad9e9e0f4b75bd1bdec6341b445c6b42"
+      }
+    },
+    {
+      "jurisdiction": "MD",
+      "ok": true,
+      "rows": 65,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/maryland/history.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/open_data_release.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/maryland.json": "edda19310443f51e8045ae39896b0318d97b0cb7fd9802c360d9e2a3155a567f",
+        "output/history/maryland/history.json": "1d08f13aa3ebfa9bdb774f4fc87dd5ce6fc890f998a77923b744a9243e0571e3",
+        "output/history/multistate/open_data_release/maryland.json": "ca6b77b43ef5403719099ce22307dbfe054ac1eb688229231a920521ae6a9d4d"
+      }
+    },
+    {
+      "jurisdiction": "ME",
+      "ok": true,
+      "rows": 1,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/meeting_votes.py",
+          "seconds": 1.0,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/meeting_votes/maine.json": "f91598608687d6cffaa49a1403cd0ce21c7a92bef44eeaa8080d850bd600b929"
+      }
+    },
+    {
+      "jurisdiction": "MI",
+      "ok": true,
+      "rows": 24,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/michigan/history.py",
+          "seconds": 2.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/michigan.json": "6ac030b7f5fe4573bcaf604cb2606bee45bfba1f505af33d39e93e696a0073bf",
+        "output/history/michigan/history.json": "3ee0b230941d707af433404d537bf56d3067be2d97b138e83fde261daa30827e",
+        "output/history/federal/epa_named_water_permits/michigan.json": "053a5ef789a243f3f7dd579e0e74da062031529373fb19c4e3d3a04951fb46aa"
+      }
+    },
+    {
+      "jurisdiction": "MN",
+      "ok": true,
+      "rows": 51,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/minnesota/history.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/minnesota.json": "df466406a6cf66258e12a4605229e41259e70a15e62c8c6d06541f502c4320be",
+        "output/history/federal/faa_obstruction_evaluations/minnesota.json": "e0af81057d760451a1c187bf568e04f35ce40dcc7ad5224953993f8f86b3bea9",
+        "output/history/minnesota/history.json": "d9e0ef205dc28e37ed030e35e2d3d621b8eb485cfa110b1cf956d44af076c7c6"
+      }
+    },
+    {
+      "jurisdiction": "MO",
+      "ok": true,
+      "rows": 21,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/missouri.json": "104ffe24d2c59c86a281cb94527ab185e651cbb36a63ec20a7e1f6f6bc34b51d",
+        "output/history/federal/epa_named_water_permits/missouri.json": "4bd4e7d69a3644cbd52787eb8de1cc861b149e08ccd7fcc546c203c84a48ede7"
+      }
+    },
+    {
+      "jurisdiction": "MS",
+      "ok": true,
+      "rows": 32,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/mississippi/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/mississippi.json": "b3850cfe467f493b69a1dac5a064a180684f072b039d9cdab7254190fc2b29d4",
+        "output/history/mississippi/history.json": "c4e5624708a96aedb1bc5b95e335dcc8e185c76a0fa934c6a0e2f070eb527ce9"
+      }
+    },
+    {
+      "jurisdiction": "MT",
+      "ok": true,
+      "rows": 15,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/montana/history.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/montana/history.json": "fc0e151812491f2082552361b143ecb2b3744b6a09f394dc3588ecb92b90ce64",
+        "output/history/federal/epa_named_water_permits/montana.json": "36cbabf4d65a496a4f56517fe17f51c101291eb49edee058aecd066b8d748d1b"
+      }
+    },
+    {
+      "jurisdiction": "NC",
+      "ok": true,
+      "rows": 148,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/north_carolina/history.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/north_carolina.json": "51d0a9f54579418ed3730661934b05dabf39c6258d2eb0aadddbd0b037a3200c",
+        "output/history/federal/faa_obstruction_evaluations/north_carolina.json": "fd419040afbbf9d28ec87a4d9c010cbdcd48afc39485c80d3dc3f7d2ae9a0ff6",
+        "output/history/federal/usace_consultations/north_carolina.json": "97e85e26ccfd2451e5de8bf5c6a81729cb97633ba9e671b406008ab341725c37",
+        "output/history/north_carolina/history.json": "ce1d38bb22b7dbf2a3ae57f61d2a18b258656f3c0b23ec074625886820234f86",
+        "output/history/federal/epa_named_water_permits/north_carolina.json": "65fbf4bdc0d7b692ce234dc2080b3330d183606161650e64ada74af29e8b6b27"
+      }
+    },
+    {
+      "jurisdiction": "ND",
+      "ok": true,
+      "rows": 18,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/north_dakota/history.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_air_cases.py",
+          "seconds": 0.3,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/north_dakota.json": "de5901c2bf8a714b2cb278a91f67f504d99514812741f36dfbc126288efc0dea",
+        "output/history/federal/faa_obstruction_evaluations/north_dakota.json": "f5bce5a688f956a4183d6ab388b5b412c50256b719720e354ab9f24424074bbb",
+        "output/history/federal/epa_air_cases.json": "839ce94d715294c690b4756a0a23d43ebe83d0a738e3cc73c92aff7f3c63efa7",
+        "output/history/north_dakota/history.json": "b9dcea5d36104bf27438e304ad6c41e9df71a8f964d0f7c18268076649ad5873"
+      }
+    },
+    {
+      "jurisdiction": "NE",
+      "ok": true,
+      "rows": 151,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/nebraska/history.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/nebraska.json": "ada2c6bb968f61d7aaada38d008c9c0a4ca15c415cf4652ae9ee33240d659f39",
+        "output/history/federal/faa_obstruction_evaluations/nebraska.json": "6aa5d3e2d5eeff5198d07ec6c1a01648568584642a56f2c9d1045f05d8990006",
+        "output/history/federal/usace_consultations/nebraska.json": "67db55572af9db437cd396b36e51bdf9571de61a3108b7de4ab1c7f890d9a3d1",
+        "output/history/nebraska/history.json": "efdc82768e5bd4a9d9dceca1d2855d6a7eb6ba672b885a9da9cae5d7c95ad5a1",
+        "output/history/federal/epa_named_water_permits/nebraska.json": "bf2801544b15aac2bfe2d737be028edf6139cf322cf8e8abb731b396914388f7"
+      }
+    },
+    {
+      "jurisdiction": "NH",
+      "ok": true,
+      "rows": 5,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/legistar_matters.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/legistar_matters/new_hampshire.json": "8c8893b93b9b73929dd1c5ae57e899adce2eb04b69058ae5593153be66d34a66"
+      }
+    },
+    {
+      "jurisdiction": "NJ",
+      "ok": true,
+      "rows": 47,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/new_jersey/history.py",
+          "seconds": 73.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/new_jersey.json": "be99f46a9ce48174a996f3e6a5584dd1743d87c972c3cde20a98eb1453274509",
+        "output/history/new_jersey/history.json": "3e411f129dc9d4a32c0c2a2054e45f93f6e56789f9f9752360405cf3a3681436",
+        "output/history/federal/epa_named_water_permits/new_jersey.json": "21a7c7a668eb9f5ead877903f890303d5c146bc6d350b2472116758808a7e571"
+      }
+    },
+    {
+      "jurisdiction": "NM",
+      "ok": true,
+      "rows": 40,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/new_mexico/history.py",
+          "seconds": 2.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes_timeline.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/epa_npdes_timeline/new_mexico.json": "81690e0f3b43d97fd18d96fea41be1bca188c4a6d7a787c8f1c3babc1c6211a7",
+        "output/history/federal/faa_obstruction_evaluations/new_mexico.json": "681417ba6aec3b0b12720a5d9ee6682eb82df11d3f34b6f3c24d28574488d1c4",
+        "output/history/new_mexico/history.json": "1e52bbe63323385e90eab6b202fa04aed4da2ac2a6f91450ff9cbf3adaed3291"
+      }
+    },
+    {
+      "jurisdiction": "NV",
+      "ok": true,
+      "rows": 108,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/nevada/history.py",
+          "seconds": 15.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/legistar_matters.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/decisions.py",
+          "seconds": 1.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/nevada.json": "798328784637be854645b62cc8be6667443e6c5ac8b1872b4c97b04d06aa625d",
+        "output/history/multistate/legistar_matters/nevada.json": "8868e350eb480c3cad4b191c30e15eff1a84de31f9e71c8bf9a81fd84297e584",
+        "output/history/federal/faa_obstruction_evaluations/nevada.json": "847b5f9a0957e77012b21aeb7074d3e7874503d77f0a20710fe96be66816695c",
+        "output/history/federal/decisions/nevada.json": "2fb9ac7324d56f0d616e0a1cd34003ec229fabfac8ebcbdc693642ae4bad1c9b",
+        "output/history/nevada/history.json": "130fd2e14d8287c82a13956f75b78e45ec8b4ad087a29f9d52fa683bf7f5ce60"
+      }
+    },
+    {
+      "jurisdiction": "NY",
+      "ok": true,
+      "rows": 506,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/new_york/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/new_york/history.json": "2d688657bcfac622ceece157e57042ad7af51964a30df8edb65befb5e437bcbd",
+        "output/history/federal/epa_named_water_permits/new_york.json": "22dbb32b34136b627d5b2ebe80302668e4900f1963a0ff8549c60e88f98433c3"
+      }
+    },
+    {
+      "jurisdiction": "OH",
+      "ok": true,
+      "rows": 273,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/ohio/history.py",
+          "seconds": 4.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/ohio/central_ohio_entitlements.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/doe_nepa.py",
+          "seconds": 0.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_digital_library.py",
+          "seconds": 1.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/fast41_dashboard.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/ohio.json": "bf8903d98c3ccee0bd75abfcc9fdfa962d9859355c89d275c95ce6b08698bc4d",
+        "output/history/federal/usace_digital_library/ohio.json": "313c4a57fd63e80ac3d94e74d97a80ca8389d29a56de9a46d458c11f9c834425",
+        "output/history/federal/doe_nepa/ohio.json": "5b56e70be6f4479e6f80ea8e78ff018fdc9cdc561d5ed2d76048eb63da0cc3ba",
+        "output/history/federal/faa_obstruction_evaluations/ohio.json": "b6fc03286fe3f325ddad7d1dfa69b3be56ade2a8d8887cc9fdbd7fe5e1f008f1",
+        "output/history/federal/fast41_dashboard/ohio.json": "89fe0ba86fe7f6294cb2beef0dba05c822bf0497b8c9df3019bf470ed5aa680c",
+        "output/history/ohio/central_ohio_entitlements.json": "771a3e1d11404c87614999aaaf5bdf46e90310865b404fd0eb6d90cbfe8733aa",
+        "output/history/ohio/history.json": "48f77278ba095f64f0c470628671d716c961110e671c3be7a624b0a478d7d6c5"
+      }
+    },
+    {
+      "jurisdiction": "OK",
+      "ok": true,
+      "rows": 54,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/oklahoma/history.py",
+          "seconds": 1.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes.py",
+          "seconds": 2.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_npdes_timeline.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/oklahoma.json": "22999a6f493f44a2bfb5dacdecc6a6a4596ad673eec616f682759ccdbd06d3f3",
+        "output/history/federal/epa_npdes_timeline/oklahoma.json": "1647e2910b14caabb7b74c9291ce15b1f3a3875f1a07d2cf636475607abc212c",
+        "output/history/federal/faa_obstruction_evaluations/oklahoma.json": "070686879864a3fc8919bebb54c617e21b79ba8e23433260f5d334c710d2b01b",
+        "output/history/federal/epa_npdes/oklahoma.json": "aa01de0c6d5d10da679522523211ea744c1cd74720e5aff1e898816c0880562d",
+        "output/history/oklahoma/history.json": "d0ba0d85fcd6524d4adb9fee4c576e36099d2a351d5baa7aa15cdcc6b4b20960"
+      }
+    },
+    {
+      "jurisdiction": "OR",
+      "ok": true,
+      "rows": 260,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/oregon/portland_west_metro.py",
+          "seconds": 0.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/oregon/history.py",
+          "seconds": 1.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_digital_library.py",
+          "seconds": 1.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/oregon.json": "7edd1dbbb60d843c57890d8bd70b9ebe8d0ec0f690869af5727674fa46cc7311",
+        "output/history/federal/usace_digital_library/oregon.json": "f801cdba09aca6211cd2941449c18dbf3bd463bb6b69d6c102359bcab66723fc",
+        "output/history/federal/faa_obstruction_evaluations/oregon.json": "159c6b3b8f952d6825f0119d78894a77602b0b229c7c2323477e96ae2a27128a",
+        "output/history/federal/usace_consultations/oregon.json": "ba00328c62706603bbcd0cf03d9800757bf3ee157a7f7a76677636d279825d62",
+        "output/history/oregon/history.json": "df0e79d209e5119a1b7637195646227df7405ead4383a9269f8d466fe75639a6",
+        "output/history/oregon/portland_west_metro/oregon.json": "e9da3d04ace5ed5ab3aa7a0ff2b36b13bcc524a9fbd21c4636fad3342637555c",
+        "output/history/federal/epa_named_water_permits/oregon.json": "f378f4570fbbe459561f6bd3b9527509fc775117b64d6d97a26ffe08bb0ebfe3"
+      }
+    },
+    {
+      "jurisdiction": "PA",
+      "ok": true,
+      "rows": 142,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/water_fire_authorizations.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/pennsylvania/history.py",
+          "seconds": 0.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/meeting_votes.py",
+          "seconds": 1.0,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/ferc_orders.py",
+          "seconds": 4.0,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/meeting_votes/pennsylvania.json": "a28611ccee4127f877f70135bdcef47c776df1bb86c65bc307931f42fc755997",
+        "output/history/federal/usace_regulatory/pennsylvania.json": "0a526644a3b1972cae8cc424fd567efdc089cb8bbc45a5ace19e3e07efb261df",
+        "output/history/federal/faa_obstruction_evaluations/pennsylvania.json": "af9ca347a1860546a1ba60cb4b81eb610a9955575b970c6adb15c091a4e83a6b",
+        "output/history/federal/ferc_orders.json": "2a5e15395254f352f4720f83a1f3c088a676138f42323bc5270bf63a9a785d52",
+        "output/history/pennsylvania/history.json": "eec0ad822975bc4d45c4feb83a6c251412ac368a0dd06d457f4409b1851fe8a5",
+        "output/history/multistate/water_fire_authorizations/pennsylvania.json": "12efe9c6ce050bdf40fa482468175527bc3c1af678ba0c230e6072e60584fec6"
+      }
+    },
+    {
+      "jurisdiction": "PR",
+      "ok": true,
+      "rows": 33,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/puerto_rico/history.py",
+          "seconds": 0.2,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/puerto_rico/history.json": "8c471a73f0a5ee33dcabfcd2281f3fbd5e6e1e645f020e37da9503721072af92"
+      }
+    },
+    {
+      "jurisdiction": "RI",
+      "ok": true,
+      "rows": 3,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/meeting_votes.py",
+          "seconds": 1.0,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/multistate/meeting_votes/rhode_island.json": "197bad6a6f51d0eb16ab7700b7d181b55ca206c57d466377b3a6156b97a729fe"
+      }
+    },
+    {
+      "jurisdiction": "SC",
+      "ok": true,
+      "rows": 38,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/south_carolina/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/decisions.py",
+          "seconds": 1.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/south_carolina.json": "7bafff232f535fb8960e091553317d364d8e066a17e9323bf8d788c343f62e3c",
+        "output/history/federal/faa_obstruction_evaluations/south_carolina.json": "c022148c14ead1c68b5e8cb279a424018fcf56008984f26963535664ddb8f069",
+        "output/history/federal/usace_consultations/south_carolina.json": "a21ca16d9a5bdf05d033c760fb1cd61ca2ef751d8024ba82f522627737b997b9",
+        "output/history/federal/decisions/south_carolina.json": "6068fcae669bdb6342dacedfe984f78b3d70341dc852060f457e0d5338558415",
+        "output/history/south_carolina/history.json": "ad102902f29ec694770843b7b33656d04694c8309078bc8eb4cc9af6a9e24dd3",
+        "output/history/federal/epa_named_water_permits/south_carolina.json": "7c89c9a08c0513096dc1ae4505f1f8919b5840e83f5892717915092fb154f646"
+      }
+    },
+    {
+      "jurisdiction": "SD",
+      "ok": true,
+      "rows": 9,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/south_dakota/history.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/south_dakota/history.json": "6ff5281598e3edc05b6c17364ea39ce434e17d3b63a4df33e5684f2f73b55437",
+        "output/history/federal/epa_named_water_permits/south_dakota.json": "12a4b0e98565cd1b17ff4f76c9f5749232cb92140a4e808ea5379daa49cafc8b"
+      }
+    },
+    {
+      "jurisdiction": "TN",
+      "ok": true,
+      "rows": 57,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/tennessee/history.py",
+          "seconds": 1.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/tennessee.json": "0573d1aacce5c77f9b1749c13ec9247e08d3f4db4e7336513f96fa12d27579e8",
+        "output/history/federal/faa_obstruction_evaluations/tennessee.json": "f2004673958681999dab89a19c0305ca9c1fc282714ca0d9bbd680df5f98cfa1",
+        "output/history/tennessee/history.json": "478c917d976b426135e837397c5b29789eb5ce8b5dcdce1b7ca3cedf79e83baf"
+      }
+    },
+    {
+      "jurisdiction": "TX",
+      "ok": true,
+      "rows": 962,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/water_fire_authorizations.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/texas/history.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/legistar_matters.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/texas.json": "03f1a48de31e60b3f6c7917ced3c7bebcb98294f14f8d28eca43f6b1175242fc",
+        "output/history/multistate/legistar_matters/texas.json": "55b69b34680c62867dc5b59fcbac2f213f26d0cb52ff435fe8763d791e57d2b8",
+        "output/history/federal/faa_obstruction_evaluations/texas.json": "54630e51b4b0ddd5dee84fa6e904698ce0550b66758940ef70f97ca24865805d",
+        "output/history/texas/history.json": "6d1e032036976722568d54298a7e48519b6c19ab34e620c9118eff8f2d4924eb",
+        "output/history/multistate/water_fire_authorizations/texas.json": "9899451384ffef2a1017ddc4a7da5637f7fe9c535d566fdf6ec5219054665491",
+        "output/history/federal/epa_named_water_permits/texas.json": "63b4b41517d30b06cdf4535b504700275dbae5000d19fb81d8c9d64379556b97"
+      }
+    },
+    {
+      "jurisdiction": "UT",
+      "ok": true,
+      "rows": 108,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/utah/history.py",
+          "seconds": 0.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/utah.json": "9e492750bea078ba462658ee2780a7f2a659ac275dcec2bf75c6c78fcd0b4852",
+        "output/history/utah/history.json": "a7511c71290ad3391bd13dcbdb80e7af4fe33da644b5bfbb9279adbe29f3764a",
+        "output/history/federal/epa_named_water_permits/utah.json": "b02ca3dbcc3ec2f6c69cf6ef3df47c2ca2949374ccccd9ff5da87355ca22f54d"
+      }
+    },
+    {
+      "jurisdiction": "VA",
+      "ok": true,
+      "rows": 3767,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/virginia/loudoun_county/building_and_zoning_gis.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/virginia/loudoun_county/monthly_reports.py",
+          "seconds": 118.8,
+          "ok": true
+        },
+        {
+          "script": "collectors/virginia/henrico_county/permits.py",
+          "seconds": 5.9,
+          "ok": true
+        },
+        {
+          "script": "collectors/virginia/manassas/development_actions.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/virginia/fairfax_county/land_use_cases.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/water_fire_authorizations.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/virginia/statewide/deq_air_permits.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/virginia/statewide/deq_water_permits.py",
+          "seconds": 2.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/ckan_catalog_csv.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/accela_case_pages.py",
+          "seconds": 0.3,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/decisions.py",
+          "seconds": 1.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_virginia_prior_actions.py",
+          "seconds": 0.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/fast41_dashboard.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_consultations.py",
+          "seconds": 0.1,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/virginia/statewide/deq_air_permits.json": "c850d2b8e36d41b6bf8bed5bf14d4bee8f2cc2da22312d1a05f75b4f6c283db9",
+        "output/history/virginia/loudoun_county/monthly_reports.json": "3b9357061806d11e50e7b2f98964c813a86ccabfb84c9cec2f594f0cf0bfedd7",
+        "output/history/multistate/accela_case_pages.json": "64984896a5dcace7b928fb2539819f8bc3928626a97ddaa2ff0ec2055bca2f3f",
+        "output/history/federal/usace_regulatory/virginia.json": "9a97d4d23fc04e8479be631bb2b01a05fc40296113c304ef304d9abf4d2100fa",
+        "output/history/federal/usace_virginia_prior_actions.json": "ce85d79e797ca3817e8ff5d1df2b9b757d5e3072bf544903ecfc455bb1149478",
+        "output/history/federal/faa_obstruction_evaluations/virginia.json": "14a560c7d2e228cec775baaaf004c41e1bfb213120ffde03f61dfd79a06a8016",
+        "output/history/virginia/fairfax_county/land_use_cases.json": "14fa4ff649eeec8395a39e32ebc19a587beac3ed7099c615c95a63056a267fe2",
+        "output/history/federal/fast41_dashboard/virginia.json": "e99979aaea515cf18f94e92d9bc20479e5d6b4fffc963d83044947140f393117",
+        "output/history/federal/usace_consultations/virginia.json": "36b6716a767c0143d6afcfdd95dab1f7c4c14bb85ae0f67482c4bed87012f3a6",
+        "output/history/virginia/henrico_county/permits.json": "7dae539dc6fe530d3d3b0400f307cf04e4cd552a9b5d6178bfd211727a150b75",
+        "output/history/federal/decisions/virginia.json": "8ab1127d1372666e30608a7f08b6701a930fb80b461be548abb9261ce0b2567f",
+        "output/history/virginia/loudoun_county/building_and_zoning_gis.json": "3efa67cf4bd543cdfb21f95cf0314f75b26a416c9ed7a18cf4c89282ca4bca30",
+        "output/history/virginia/manassas/development_actions.json": "7979e159284193be270310d16b34089b50c3ee7b10d81967ff3ca6cb886b335a",
+        "output/history/multistate/ckan_catalog_csv.json": "1ce8770e90e66c26518bef039fb4aea3a469e15013f527e376518b5e8cac5a16",
+        "output/history/virginia/statewide/deq_water_permits.json": "78f55b5be31416cbcd51c5a17d3d8deaa062b2114250a860ac6091349d03af82",
+        "output/history/multistate/water_fire_authorizations/virginia.json": "c862d18070f63e6212bc5f3f1646fc3886c19772fb7b9e79d9bf5b1c6a2231c3",
+        "output/history/federal/epa_named_water_permits/virginia.json": "fc28d1e067f963ce8a91bc1f08ec61660198ad6e811b0814b31b7376bc3f6c5a"
+      }
+    },
+    {
+      "jurisdiction": "VI",
+      "ok": true,
+      "rows": 1,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/territories/federal_grants.py",
+          "seconds": 0.9,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/territories/federal_grants/us_virgin_islands.json": "4a857ad4984d10e1b5af232247fe32f1ef7c1eb0a175a045831cf207ebdd019d"
+      }
+    },
+    {
+      "jurisdiction": "VT",
+      "ok": true,
+      "rows": 8,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/vermont/history.py",
+          "seconds": 0.4,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/vermont/history.json": "19611fceae0e5e85ff5cb7abc18c8976c6926eb4289db8d447c759099825f209"
+      }
+    },
+    {
+      "jurisdiction": "WA",
+      "ok": true,
+      "rows": 91,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/multistate/water_fire_authorizations.py",
+          "seconds": 0.4,
+          "ok": true
+        },
+        {
+          "script": "collectors/washington/history.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/multistate/open_data_release.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/washington.json": "ee931b8f918197c5f50bc64ed3368ed12249381fdf1eda970ef749df54e1ac19",
+        "output/history/multistate/open_data_release/washington.json": "f18bc9e4d4088f7ed7c0e4c9a9fc49c3b9463485d6b6422c0f6ddbcca8f57f98",
+        "output/history/washington/history.json": "546624de8b978145e2320b6d87cfcf3d12e72c2773db12d3db2220fdc31bebe5",
+        "output/history/multistate/water_fire_authorizations/washington.json": "561d9fcf1ecd88c828fada0f102d679e3a15a4969d042f37214442f34ade33be",
+        "output/history/federal/epa_named_water_permits/washington.json": "bd5253056fc1c130138c68111a3e06a742b06fa8a347b04af2ca23efe4428421"
+      }
+    },
+    {
+      "jurisdiction": "WI",
+      "ok": true,
+      "rows": 67,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/wisconsin/history.py",
+          "seconds": 0.1,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/usace_regulatory.py",
+          "seconds": 0.7,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/usace_regulatory/wisconsin.json": "2d5dce34ef71c5b22ab3b84aa0870c00de29e1408cdbb894790a8c76540da7fb",
+        "output/history/federal/faa_obstruction_evaluations/wisconsin.json": "4d2958c86afbf110edbc1c9e2c21625e959b9ca095a5371731a999b43a2c4102",
+        "output/history/wisconsin/history.json": "a2fd6c38324726c79e223a3ee9235a1d9b9c0002274befe63268bb1b770fc314"
+      }
+    },
+    {
+      "jurisdiction": "WV",
+      "ok": true,
+      "rows": 13,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/west_virginia/history.py",
+          "seconds": 0.2,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/west_virginia/history.json": "417ec00c6710bd56455be736eb49fc8298f78d50ed9abcf037d88fc63cf98311"
+      }
+    },
+    {
+      "jurisdiction": "WY",
+      "ok": true,
+      "rows": 30,
+      "errors": [],
+      "drift_from_published": [],
+      "collectors": [
+        {
+          "script": "collectors/wyoming/history.py",
+          "seconds": 0.2,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/epa_named_water_permits.py",
+          "seconds": 0.6,
+          "ok": true
+        },
+        {
+          "script": "collectors/federal/faa_obstruction_evaluations.py",
+          "seconds": 44.5,
+          "ok": true
+        }
+      ],
+      "series_sha256": {
+        "output/history/federal/faa_obstruction_evaluations/wyoming.json": "d518d193c383fd6ca582575b341a20e9a2f2acb21c36dc71f8a8e599421ec0e4",
+        "output/history/federal/epa_named_water_permits/wyoming.json": "a978ea9a55541e6cde0f6b0cc6ef98e03e724fe4bbcb391b69b57d67b4bf8dce",
+        "output/history/wyoming/history.json": "e295b2a75386af6efc1e9f432092f44562c59a3c547519f36a6dc809998129c9"
+      }
+    }
+  ],
+  "archive_receipts_ok": true
+}

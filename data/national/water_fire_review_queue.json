@@ -1,0 +1,27 @@
+[
+  {
+    "state": "TX",
+    "subject": "District well permits at FM 442 in Wharton County",
+    "records": [
+      "OP-26042003",
+      "OP-26042004",
+      "OP-A26042202"
+    ],
+    "government_sources": {
+      "tx-may": "https://cbgcd.com/wp-content/uploads/pdf/Minutes-May-12-2026.pdf",
+      "tx-may-notice": "https://cbgcd.com/wp-content/uploads/pdf/May-12-2026-CBGCD-Hearing-Notice.pdf",
+      "tx-jul": "https://cbgcd.com/wp-content/uploads/pdf/Minutes-7-16-2026.pdf",
+      "tx-state-proj": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026023826"
+    },
+    "disposition": "Exclude from site-specific permit counts. District records identify permit holder and wells, state identifies the Amazon data-center campus in Boling. No shared parcel, site name or permit number establishes these wells serve the campus; no cooling use established."
+  },
+  {
+    "state": "VA",
+    "subject": "GWI000502 Birchwood groundwater reissuance application",
+    "government_sources": {
+      "va-birchwood": "https://www.deq.virginia.gov/Home/Components/Calendar/Event/5266/139?toggle=next30days",
+      "va-birchwood-identity": "https://www.kinggeorgecountyva.gov/m/newsflash/Home/Detail/2251"
+    },
+    "disposition": "DEQ publicly confirms withdrawal. Direct archive unavailable; date span shown is a notice period, not a withdrawal date. Exclude pending machine-replayable withdrawal evidence."
+  }
+]

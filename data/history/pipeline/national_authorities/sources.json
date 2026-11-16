@@ -1,0 +1,26 @@
+{
+  "https://www.bia.gov/service/tribal-leaders-directory/tld-csvexcel-dataset": {
+    "sha256": "2ce2a473c2ba3e63830391a632747f0316d46696a0bbe8e34141199d8fe7e9e5",
+    "bytes": 47776,
+    "retrieved": "2026-11-16T05:28:57+00:00",
+    "resolved": "https://www.bia.gov/service/tribal-leaders-directory/tld-csvexcel-dataset"
+  },
+  "https://www.bia.gov/tribal-leaders-csv": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "retrieved": "2026-11-16T05:29:07+00:00",
+    "resolved": "https://www.bia.gov/tribal-leaders-csv"
+  },
+  "https://www.federalregister.gov/documents/full_text/xml/2026/01/30/2026-01899.xml": {
+    "sha256": "616e96f6288cc0bbcdfb947042b1402de8f8bc5e5e90bf49d6c84acdc9458dfa",
+    "bytes": 53665,
+    "retrieved": "2026-11-16T05:30:46+00:00",
+    "resolved": "https://www.federalregister.gov/documents/full_text/xml/2026/01/30/2026-01899.xml"
+  },
+  "https://www.doi.gov/oia/islands/politicatypes": {
+    "sha256": "6c527ca72c51348b362a30b5bb06e01a1ff6668916463543e54577c8c52e8530",
+    "bytes": 63521,
+    "retrieved": "2026-11-16T05:32:54+00:00",
+    "resolved": "https://www.doi.gov/oia/islands/politicatypes"
+  }
+}

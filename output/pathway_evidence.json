@@ -1,0 +1,528 @@
+{
+  "published": {
+    "va-lou-phase1": {
+      "source_url": "https://www.loudoun.gov/6221/Phase-1-Project-Plan-for-Data-Center-Sta",
+      "source_sha256": "d4f9d76237a20115c4696364e28ddd4da20643bd36ec3686173ecbe77d9a9606",
+      "locator": "ZOAM-2024-0001, March 18, 2025; county Phase 1 adoption record",
+      "paths": [
+        {
+          "path": "special exception",
+          "district_or_area": "IP; GI; MR-HI",
+          "qualifier": "March 2025 change; prior approvals and eligible legacy parcels require separate review"
+        }
+      ]
+    },
+    "va-fx-industrial-gfa": {
+      "source_url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
+      "source_sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+      "locator": "ZO 112.2-2024-8, § 4102.6.A(3), printed p. 3",
+      "paths": [
+        {
+          "path": "special exception",
+          "district_or_area": "I-2; I-3; I-4",
+          "qualifier": "Building exceeds 80000 square feet of gross floor area"
+        }
+      ]
+    },
+    "va-fx-commercial-gfa": {
+      "source_url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
+      "source_sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+      "locator": "ZO 112.2-2024-8, § 4102.6.A(2), printed p. 3",
+      "paths": [
+        {
+          "path": "special exception",
+          "district_or_area": "C-3; C-4",
+          "qualifier": "Building exceeds 40000 square feet of gross floor area"
+        }
+      ]
+    },
+    "va-ches-cup": {
+      "source_url": "https://www.cityofchesapeake.net/3783/Data-Center-Ordinance-and-Policy",
+      "source_sha256": "536f00d3b64cba5d4dec58d5d0aa7a896dfd848b698d1f63c2d5fa25109a8799",
+      "locator": "August 18, 2026 action; 'City Council Action' and 'By-Right In CoVAC?'",
+      "paths": [
+        {
+          "path": "conditional use permit",
+          "district_or_area": "M-1; M-2",
+          "qualifier": "Outside Coastal Virginia Commerce Park"
+        },
+        {
+          "path": "permitted use",
+          "district_or_area": "Coastal Virginia Commerce Park",
+          "qualifier": "Check the governing approval and separate public-service requirements"
+        }
+      ]
+    },
+    "va-jcc-industrial": {
+      "source_url": "https://documents.jamescitycountyva.gov/Minutes/Ordinances/2025/31A-36409092025.pdf",
+      "source_sha256": "fc94ed2ecac421fc2ffeecd57252d12d4f1960c84cf6de7b817bd80c63ff0420",
+      "locator": "Adopted Ord. 31A-364, arts. III, §§ 24-411, 24-436, 24-418, 24-536.4; General Industrial M-2 row, p. 2",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "M-2",
+          "qualifier": "Industrial principal-use provision"
+        }
+      ]
+    },
+    "in-lake-special-exception": {
+      "source_url": "https://lakecountyin.gov/departments/planning-commission/ordinances-c/amendments/ord%202590%20data%20center.pdf",
+      "source_sha256": "66939d56ada4c5a6b1388b2f20f046bbff28e5a2f2c91f2335667140ed311d93",
+      "locator": "Ordinance 2590 §3, UDO §154-4-020.A, Table 4-2",
+      "paths": [
+        {
+          "path": "special exception",
+          "district_or_area": "M-1; M-2",
+          "qualifier": "Unincorporated county; additional application requirements"
+        }
+      ]
+    },
+    "oh-new-albany-use": {
+      "source_url": "https://datacenters.newalbanyohio.org/resident-questions/",
+      "source_sha256": "7994fd7e2b668960bbe12adeff65735dbd99da19667c5ce5a2fc2acbaacd1431",
+      "locator": "FAQ → What kind of zoning code has New Albany adopted?; annexation/zoning discussion",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "GE; TMD",
+          "qualifier": "Base text only; site-specific rezoning can exclude primary data centers"
+        }
+      ]
+    },
+    "az-chandler-primary-use": {
+      "source_url": "https://www.chandleraz.gov/news-center/chandlers-data-center-ordinance-now-effect",
+      "source_sha256": "bac74f822007116cb42475645ce558b3574a28d1968e171cd1a4d02f976dccfd",
+      "locator": "City summary → Chapter 35 §2214",
+      "paths": [
+        {
+          "path": "planned development",
+          "district_or_area": "PAD",
+          "qualifier": "Primary use only; designation alone is insufficient"
+        }
+      ]
+    },
+    "nv-reno-cup": {
+      "source_url": "https://reno.gov/business-development/development-services/initiatives-and-updates.php",
+      "source_sha256": "2461db87876520484a55b6922242e028a0d2abf9a7e9761ea8d2dff04dfe14af",
+      "locator": "Data Center Text Amendment and Moratorium",
+      "paths": [
+        {
+          "path": "conditional use permit",
+          "district_or_area": "City zoning jurisdiction",
+          "qualifier": "Check the moratorium before treating applications as available"
+        }
+      ]
+    },
+    "ms-ridgeland-by-right": {
+      "source_url": "https://storage.googleapis.com/ridgelandms-media/2024/08/2023-09.pdf",
+      "source_sha256": "b3b6cfd5321d239f2d64129b3d609f4c3996e3d9d2c0de2e1ee567050c5899c3",
+      "locator": "Ordinance 2023-09 §§2–4; §520.02(I)",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "Technical Industrial Park",
+          "qualifier": "Subject to site and building review"
+        }
+      ]
+    },
+    "tn-nashville-use": {
+      "source_url": "https://nashville.legistar.com/LegislationDetail.aspx?FullText=1&GUID=007B8704-62ED-46D1-9E9A-8B3F778229A8&ID=8040869",
+      "source_sha256": "e0c6f3f5cd56dd1b07e3335c3ca72d05cf44cb2b14e48599c0f6d41614af3d61",
+      "locator": "BL2026-1391 §2; Metropolitan Code §17.08.030",
+      "paths": [
+        {
+          "path": "prohibited",
+          "district_or_area": "All zoning districts",
+          "qualifier": "Only the separately defined campus category"
+        },
+        {
+          "path": "special exception",
+          "district_or_area": "IR; IG",
+          "qualifier": "Large data centers as defined; check separate temporary pause"
+        }
+      ]
+    },
+    "la-st-charles-industrial": {
+      "source_url": "https://stcharlesgov.legistar.com/LegislationDetail.aspx?GUID=4194CDCA-7D35-4DB9-8959-5DE81A5526DC&ID=8028024",
+      "source_sha256": "cfc10dd945222d3e15e71616b7bbe6a15858a5ee2942cde972348f227437739a",
+      "locator": "Ordinance 26-6-3, Appendix A §VI.D and §VII; final action June 1, 2026",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "M-1; M-2",
+          "qualifier": "Subject to supplemental standards"
+        }
+      ]
+    },
+    "tx-san-marcos-districts": {
+      "source_url": "https://www.sanmarcostx.gov/4772/June-16-2026-City-Council-Recap",
+      "source_sha256": "a4a2f366401e2105a7976d559fab890c2b9e994738e24a9127c354727a4cf7a1",
+      "locator": "June 16 council recap, item 17; ordinance 2026-08",
+      "paths": [
+        {
+          "path": "prohibited",
+          "district_or_area": "All city zoning districts",
+          "qualifier": "Check vested or approved cases; do not extend to the ETJ"
+        }
+      ]
+    },
+    "tx-talty-cup": {
+      "source_url": "https://www.taltytexas.com/page/article/76",
+      "source_sha256": "4c986b30d0b1f7d7c500aaf1cfc30a5906edc7c0915ea07defe50efae8753f74",
+      "locator": "City caption of Ordinance 2026-04; zoning ordinance 99-08, §§2.21–2.22",
+      "paths": [
+        {
+          "path": "conditional use permit",
+          "district_or_area": "Eligible districts not identified in published caption",
+          "qualifier": "Do not infer citywide eligibility"
+        }
+      ]
+    },
+    "tx-lewisville-sup": {
+      "source_url": "https://cityoflewisville.legistar.com/View.ashx?M=F&ID=15521612&GUID=84DADB7F-9895-4C27-9065-FE4D9F3422DD",
+      "source_sha256": "e291ff0e539185bd0d93741188c7697bbdd69fe5cd6ce0108068267124528098",
+      "locator": "Ordinance 0847-26-ORD, §2, Exhibit VII.2-3-4, p. 4; June 15 adoption confirmed by city notice",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "Light Industrial; Warehouse; Heavy Industrial",
+          "qualifier": "Site review still required"
+        }
+      ]
+    },
+    "az-marana-principal": {
+      "source_url": "https://public.destinyhosted.com/marandocs/2024/CCREG/20241203_3069/3916_Exhibit_A_to_Resolution_No._2024-108.pdf",
+      "source_sha256": "15bdb916c4526d745c8b646900c18c8074c3a1a43de590f0a6a7f86e85c6e6e0",
+      "locator": "Ordinance 2024.029 and Resolution 2024-108, Exhibit A, §17-6-13(A)–(C)",
+      "paths": [
+        {
+          "path": "rezoning",
+          "district_or_area": "Specific plan area",
+          "qualifier": "Principal data center must be explicitly approved"
+        }
+      ]
+    },
+    "az-mesa-pad": {
+      "source_url": "https://mesa.legistar.com/View.ashx?M=F&ID=14327029&GUID=5FD9E3FA-BBFB-43F9-A492-5E57CF3B0C72",
+      "source_sha256": "9b433c1e06f9b7827deeb57bc8145db3fc0b148721ddfe56607c0d7ff4dcdc1d",
+      "locator": "Ordinance 5957 §2, Table 11-7-2, note 18; confirmed by city September 2025 bulletin",
+      "paths": [
+        {
+          "path": "planned development",
+          "district_or_area": "GI; HI",
+          "qualifier": "Principal use requires council authorization in the PAD overlay"
+        }
+      ]
+    },
+    "oh-clermont-ohio-twp-pause": {
+      "source_url": "https://www.ohiotownshipclermontcounty.org/zoning.html",
+      "source_sha256": "5f2cf8e9989bb3b33a1e38f30bc715234c0b46e7d8841772c8f09630ee63adcb",
+      "locator": "Zoning → Resolution 2026-58",
+      "paths": [
+        {
+          "path": "temporary pause",
+          "district_or_area": "Ohio Township in Clermont County",
+          "qualifier": "Dated township moratorium; check later action"
+        }
+      ]
+    },
+    "nv-reno-pause": {
+      "source_url": "https://reno.gov/business-development/development-services/initiatives-and-updates.php",
+      "source_sha256": "2461db87876520484a55b6922242e028a0d2abf9a7e9761ea8d2dff04dfe14af",
+      "locator": "June 1, 2026 resolution discussion",
+      "paths": [
+        {
+          "path": "temporary pause",
+          "district_or_area": "City of Reno",
+          "qualifier": "Acceptance of data-center CUP applications; check early replacement"
+        }
+      ]
+    },
+    "nm-santa-fe-moratorium": {
+      "source_url": "https://www.santafecountynm.gov/uploads/documents/Ordinance_2026-06.pdf",
+      "source_sha256": "067ce148d0f6144e9740b04e4172360cda1a525598e6c153a3a24fc41a31e9d3",
+      "locator": "Ordinance 2026-06 §§2(E), 4–6, 10; recorded July 9, 2026",
+      "paths": [
+        {
+          "path": "temporary pause",
+          "district_or_area": "County jurisdiction",
+          "qualifier": "Covered project at or above 1 MW; exclusions and vesting apply"
+        }
+      ]
+    },
+    "tn-nashville-pause": {
+      "source_url": "https://nashville.legistar.com/View.ashx?M=F&ID=15702335&GUID=178F127E-72C9-42EA-9836-D935A7FBAAD4",
+      "source_sha256": "f41960ad5f01afe613dfe504dd06698244d5ee83744d5b3d155d010d0552c364",
+      "locator": "BL2026-1448 as amended, Amendment No. 1 §1; see July 2026 council action and DCB Nashville case, October 6 order",
+      "paths": [
+        {
+          "path": "temporary pause",
+          "district_or_area": "Metropolitan permitting jurisdiction",
+          "qualifier": "Through the date specified by the amended measure; check subsequent action"
+        }
+      ]
+    },
+    "in-boone-pause": {
+      "source_url": "https://boonecounty.in.gov/wp-content/uploads/2026/07/Ordinance-2026-08.Moratorium-on-data-centers.pdf",
+      "source_sha256": "598da0033e60be806d7ca6e1ebf0dfbf6e6b9e429478bc885c9a94d635ec062e",
+      "locator": "Ordinance 2026-08, §§1–3, pp. 1–2",
+      "paths": [
+        {
+          "path": "temporary pause",
+          "district_or_area": "Unincorporated county zoning jurisdiction",
+          "qualifier": "Date bounded; internal IT facilities excluded"
+        }
+      ]
+    },
+    "va-botetourt-ram": {
+      "source_url": "https://www.botetourtva.gov/1021/Google-Data-Center",
+      "source_sha256": "fcb991b4a8ce0ac7ca9274cb318e0c5bfda2f9e9410d4beda44275deda318e1b",
+      "locator": "November 26, 2024: Zoning Ordinance Amendment Approved (county timeline)",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "RAM",
+          "qualifier": "County identifies Greenfield; town limits have separate zoning"
+        }
+      ]
+    },
+    "va-troutville-prohibition": {
+      "source_url": "https://townoftroutville-va.gov/townordinances.php",
+      "source_sha256": "9eb42066f1d5e29634237a43ef5d5a2ae41aa90c4b2a48c4f93a61e13f27e53a",
+      "locator": "Town ordinances, art. XVIII §§ 240-95–96",
+      "paths": [
+        {
+          "path": "prohibited",
+          "district_or_area": "All town zoning districts",
+          "qualifier": "Dedicated facilities as defined in §240-95 within town limits"
+        }
+      ]
+    },
+    "va-chesterfield-cup": {
+      "source_url": "https://www.chesterfield.gov/5989/Data-Centers",
+      "source_sha256": "09a0bc787692c45178eb9aa44a7cee243d1a01b287022f242fa32e21edfaf948",
+      "locator": "Data Center Development in Chesterfield; county account of zoning update; effective January 1, 2026 (ZO-2025-001)",
+      "paths": [
+        {
+          "path": "conditional use permit",
+          "district_or_area": "County zoning jurisdiction",
+          "qualifier": "New projects; parcel-specific prior approvals require review"
+        }
+      ]
+    },
+    "va-henrico-principal": {
+      "source_url": "https://henrico.gov/pdfs/planning/Ord-1343-6-10-2025.pdf",
+      "source_sha256": "3e40c2ad684e7562617434444fa203f8e93ad81ccbc28001dab95e42f083a36d",
+      "locator": "Ord. 1343, § 24-4205, principal use table and legend; industrial services",
+      "paths": [
+        {
+          "path": "provisional use permit",
+          "district_or_area": "M-1; M-2; M-3",
+          "qualifier": "P in this jurisdiction denotes a provisional permit"
+        }
+      ]
+    },
+    "tx-nrh-use-small": {
+      "source_url": "https://nrhtx.legistar.com/View.ashx?M=F&ID=15705650&GUID=59EE1769-D60A-4F18-BB55-43249655A2B7",
+      "source_sha256": "8d1425799167a31c0a463e760f154bda7b0e2496f007b0731c10729106356867",
+      "locator": "July 27 meeting memo (Current Definitions + Proposed Changes) paired with confirmed adoption of Ordinance 3965; Ch. 118",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "C-1; C-2; I-1; I-2",
+          "qualifier": "New data center at or below 10000 square feet"
+        }
+      ]
+    },
+    "tx-nrh-use-general": {
+      "source_url": "https://nrhtx.legistar.com/View.ashx?M=F&ID=15705650&GUID=59EE1769-D60A-4F18-BB55-43249655A2B7",
+      "source_sha256": "8d1425799167a31c0a463e760f154bda7b0e2496f007b0731c10729106356867",
+      "locator": "July 27 meeting memo (Current Definitions + Proposed Changes) paired with confirmed adoption of Ordinance 3965; Ch. 118",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "C-2; I-1; I-2",
+          "qualifier": "New data center over 10000 square feet"
+        }
+      ]
+    },
+    "pa-fairview-conditional": {
+      "source_url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+      "source_sha256": "31bf621973ecea1671e07a901b1332725a0fee486c37de4464a53decb8a94869",
+      "locator": "Ord. 2025-03, § 300-72(E)(3) and Table 5-2.B.2; PDF pp. 2–3",
+      "paths": [
+        {
+          "path": "conditional use",
+          "district_or_area": "Commercial Business; Industrial Business",
+          "qualifier": "Township approval required; minimum 50 acres."
+        }
+      ]
+    },
+    "co-boulder-size": {
+      "source_url": "https://bouldercounty.gov/news/data-centers-and-detention-centers-land-use-code-updates/",
+      "source_sha256": "fd03b2a3832190d68767479b53a0bdb0638dcd88bbb27a3045e6a44b5f010abd",
+      "locator": "Nov. 13 adoption notice, describing changes effective Nov. 10",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "Light Industrial; General Industrial",
+          "qualifier": "Under 50 kW in unincorporated Boulder County."
+        }
+      ]
+    },
+    "va-pulaski-industry": {
+      "source_url": "https://www.pulaskicounty.org/documents/planning-zoning/ordinances/udo-september-2026.pdf",
+      "source_sha256": "0276304400e7c12295a1aecc0b60d9f7608266f70cc47738a145d68246e4ef1d",
+      "locator": "September 2026 ordinance, Table 4.1, pp. 49 and 58; §4.17(B), p. 33",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "Light Industrial; Industrial; Planned Industrial",
+          "qualifier": "The airport overlay needs a separate underlying-zone check."
+        }
+      ]
+    },
+    "va-franklin-enterprise-park": {
+      "source_url": "https://franklincountyva.gov/DocumentCenter/View/4312",
+      "source_sha256": "85bf8317a9809bf8000bc3e7ca064a45ea51e145e0fb1fcddfbd20c78ffd2ff8",
+      "locator": "Regional Enterprise Park district, §25-411, pp. 1–2",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "Regional Enterprise Park",
+          "qualifier": "Listed as a permitted district use; does not issue an individual construction permit."
+        }
+      ]
+    },
+    "tx-mcallen-industrial-approval": {
+      "source_url": "https://www.mcallen.net/docs/default-source/planning-files/udc_adopted-02-09-2026.pdf",
+      "source_sha256": "0633377e40c169dcb0d90eb90c8171677ac44fc64b1f75cd41eff26be6db4b37",
+      "locator": "February 9, 2026 code, Article 3.1 use table, printed p. 40",
+      "paths": [
+        {
+          "path": "conditional use",
+          "district_or_area": "I-2",
+          "qualifier": "Only the I-2 column has a conditional-use mark on the data center row."
+        }
+      ]
+    },
+    "ga-habersham-special-use": {
+      "source_url": "https://www.habershamga.com/userfiles/File/Habersham-UDO_06-01-26.pdf",
+      "source_sha256": "d917fbdf237842f4a201a1f052f6435661dc3b10aad5f96ce1a986540fe2b739",
+      "locator": "§4.2.10.3(A), p. 96",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "County zoning jurisdiction",
+          "qualifier": "Applies to primary and qualifying ancillary uses."
+        }
+      ]
+    },
+    "ga-douglas-special-use": {
+      "source_url": "https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026",
+      "source_sha256": "c3712649ae6ccedefdace0c0e64701bc1f3c51a18aa98c26936e744f48fd345c",
+      "locator": "§105(a), PDF p. 34; Table 2.2, NAICS 518210, printed p. 44 of 76 (PDF p. 101), including legend",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "OI; LI; LI-R; HI",
+          "qualifier": "Applies to the unincorporated county and the use defined in the NAICS 518210 row."
+        }
+      ]
+    },
+    "alt-randolph-district": {
+      "source_url": "https://www.randolphcountync.gov/DocumentCenter/View/1786/The-Unified-Development-Ordinance",
+      "source_sha256": "3bbd3a4aa3d7e1703f8794cea783922c99cf45288df750da9a39eaacebbc5e7c",
+      "locator": "Art. 600 §621, Data Processing Facility, PDF p. 207",
+      "paths": [
+        {
+          "path": "conditional district rezoning",
+          "district_or_area": "HI-CD",
+          "qualifier": "Heavy Industrial Conditional District; not by-right in general industrial zoning."
+        }
+      ]
+    },
+    "alt-mancelona-district": {
+      "source_url": "https://villageofmancelona.org/wp-content/uploads/2025/01/Mancelona-ZO-FINAL-12.27.24.pdf",
+      "source_sha256": "b2fef48a92eec7ff858e98e77c7690bfa23c93656a5b1d11d0235747b53193ff",
+      "locator": "Zoning Ordinance §§3.7.2, 3.8.2 and 14.6, PDF pp. 65, 69 and 180",
+      "paths": [
+        {
+          "path": "permitted use",
+          "district_or_area": "Commercial; Light Industrial & Warehousing",
+          "qualifier": "Village definition excludes ordinary offices."
+        }
+      ]
+    },
+    "alt-saluda-district": {
+      "source_url": "https://www.cityofsaludanc.com/images/2025-12-8_Zoning_Ordinance_1.pdf",
+      "source_sha256": "d3fee7979108e94b3956ffe0e376d304dc8d43cde8c60671b168f3543f39f0f0",
+      "locator": "Zoning Ordinance, C-3 use-specific requirements, (2)(B), PDF p. 43; definition p. 87",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "C-3 Commercial",
+          "qualifier": "Applies to remote data processing as defined."
+        }
+      ]
+    },
+    "alt-brown-permits": {
+      "source_url": "https://www.brown.sd.us/sites/default/files/2026-08/title_4_zoning.pdf",
+      "source_sha256": "3f59247374e90ef044c92dc50a299a0755f56cb0640055f72e51695de484be71",
+      "locator": "Title 4 §4.3802, PDF p. 206",
+      "paths": [
+        {
+          "path": "conditional use permit",
+          "district_or_area": "H-I; AG-P",
+          "qualifier": "See petition requirements; a separate county building permit is also required."
+        }
+      ]
+    },
+    "az-mohave-special": {
+      "source_url": "https://www.mohave.gov/media/ll1dxipp/mohave-county-zoning-ordinance.pdf",
+      "source_sha256": "453945e6d1d54ad2c48cfcd1262d8aa29abba32e3fc1f3b15dee1dbf4050a9fc",
+      "locator": "County Zoning Ordinance §§14.D.8, 32.D.3, 33.D.3, 34.D.5; PDF pp. 40–41, 86, 89, 92–93",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "A-D; M-1; M-2; M-X",
+          "qualifier": "Each district lists data centers as a special use."
+        }
+      ]
+    },
+    "il-westmont-special": {
+      "source_url": "https://westmont.illinois.gov/DocumentCenter/View/5043/VillageofWestmentZoningOrdinance-AsAmended-Feb-19-2026",
+      "source_sha256": "d7921272429605418c3bd9d0833092cd5642b55485ae7b0f0b49597e6ddc8f3c",
+      "locator": "Article VI §6.01 Allowed Uses, PDF p. 72 (VI-3); §6.05(B), p. 88",
+      "paths": [
+        {
+          "path": "special use permit",
+          "district_or_area": "O/R; M-1; M",
+          "qualifier": "The O/R-1 column does not allow the same use."
+        }
+      ]
+    },
+    "pa-palmyra-pike-conditional": {
+      "source_url": "https://palmyrapike.org/wp-content/uploads/2025/07/Palmyra-Twp-Zoning-Ord-2025-07-15.pdf",
+      "source_sha256": "a4bff3c9ef90aefb2aa0cb9c799d91ef845758bf1feb99b2a8f5b94141329dfb",
+      "locator": "Article IV, HC Highway Commercial, printed p. 54 / PDF p. 60; §11.804",
+      "paths": [
+        {
+          "path": "conditional use",
+          "district_or_area": "Highway Commercial",
+          "qualifier": "Pike County township; see §11.804."
+        }
+      ]
+    }
+  },
+  "held_rule_ids": [
+    "va-brunswick-b1",
+    "va-fred-campus",
+    "va-lees-pec-spex",
+    "va-lou-legacy-use",
+    "va-lou-spex",
+    "va-pwc-outside",
+    "va-pwc-overlay"
+  ],
+  "held_entries": 8
+}

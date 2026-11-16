@@ -1,0 +1,103 @@
+reviewed_local_register_rows,reviewed_local_permit_keys,all_permit_keys_at_location,active_keys_at_location,historical_keys_at_location,unconfirmed_keys_at_location,example_local_register,example_local_record,state,group,location,geoid,facility_markers,local_provisions,history_rows_named_here,federal_rows_named_here,example_rule,example_history,starting_government_page,linked_resource,source_kind,government_referral_sha256,discovery_links,next_step
+0,0,5,0,3,2,,,TX,Reported county,Bexar County,48029,58,0,20,11,,https://www.tdlr.texas.gov/TABS/Projects/TABS2024014061,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CA,Reported county,Santa Clara County,06085,74,0,58,57,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77AWP2026List.gzip,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,OH,cousubs,Jersey township,3908939102,30,2,0,0,https://www.jerseytownship.us/zoning-resolution-book.html,,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,0,0,1,,,NY,cousubs,Orangetown town,3608755211,4,0,1,0,,https://data.ny.gov/resource/2wgt-bc53.json?%24where=permit_id%3D%273-3924-00119%2F00005%27,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,IL,cousubs,Elk Grove township,1703123243,21,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,3,0,3,0,,,FL,Reported county,Miami-Dade County,12086,4,0,4,1,,https://gisweb.miamidade.gov/arcgis/rest/services/MD_LandInformation/MapServer/1/query?f=pjson&where=OBJECTID%3D63467&outFields=%2A&returnGeometry=false,,,,,0,Identify issuing office and obtain an official register link
+0,0,3,0,3,0,,,FL,Reported county,Orange County,12095,4,0,3,0,,https://echo.epa.gov/effluent-charts#/FLR10UL86,https://www.ocfl.net/PermitsLicenses/ZoningDivision.aspx,https://library.municode.com/fl/orange_county/codes/code_of_ordinances,Municode,ef5c741baa544c5f458f9acc68494aeadc7eb6be0af57cd56abe9ee861883799,9,Check local permit and hearing register
+0,0,0,0,0,0,,,PA,Reported county,Venango County,42121,32,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,PA,place,Green Tree borough,4231256,1,0,0,0,,,https://www.greentreeboro.com/government/code_of_ordinances.php,https://ecode360.com/14036648,General Code,d7b962d9cae8d23fa7ca6e2e4b8cf8114a6f2470aac605aa87a6981ca0fcc20b,2,Check local permit and hearing register
+0,0,0,0,0,0,,,PA,place,Philadelphia city,4260000,1,0,0,0,,,https://www.phila.gov/,https://codelibrary.amlegal.com/codes/philadelphia/latest/overview,American Legal Publishing,f555a20bb90aa1bd437ff8ad1644ebaf1007cf81a399829577ef49dc99156ccc,2,Check local permit and hearing register
+0,0,0,0,0,0,,,PA,place,Pittsburgh city,4261000,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,PA,cousubs,Scrubgrass township,4212169016,32,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,26,1,13,12,,,WA,Reported county,Grant County,53025,33,0,48,2,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip,,,,,0,Identify issuing office and obtain an official register link
+0,0,21,0,10,11,,,WA,place,Quincy city,5357115,33,1,40,0,https://quincy.civicweb.net/document/202847/2026-04-07%20I-1.pdf,https://ecology.wa.gov/20260406sabeyinternoctsd,https://www.quincywashington.us,https://quincy.civicweb.net/filepro/documents/,Municipal meeting records,a9378c5cecdb36643052dd4b41df6acfe46bb85d5cb9cce0ab99ebbf8cf8ff75,2,Check local permit and hearing register
+0,0,2,0,0,2,,,IN,Reported county,St. Joseph County,18141,10,0,333,3,,https://oas.dhs.in.gov/reports/rwservlet?dfbsepnpdf&report=plan_design_release04292005.rdf&p_release_id=545876,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,IN,place,Columbus city,1814734,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,IN,place,West Lafayette city,1882862,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,IN,cousubs,Olive township,1814156556,8,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,2,1,0,1,,,NJ,Reported county,Hudson County,34017,14,0,20,7,,https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content#page=10,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,0,0,1,,,NJ,place,Secaucus town,3466570,11,0,12,0,,https://dspace.njstatelib.org/server/api/core/bitstreams/be5629b1-3bef-4d71-80b4-2a6b559dddc7/content#page=10,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,NJ,cousubs,Piscataway township,3402359010,10,0,0,0,,,https://www.piscatawaynj.org,https://www.ecode360.com/PI0646,General Code,0536eb905d48f6656e7cc477954228fc5f7a2ded30b51587e44d8fe6e9ad4801,2,Check local permit and hearing register
+0,0,8,0,0,8,,,OR,Reported county,Morrow County,41049,38,0,20,1,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ANM2026List.gzip,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,OR,place,Hillsboro city,4134100,33,1,11,1,https://engage.hillsboro-oregon.gov/data-centers,https://usace.contentdm.oclc.org/digital/api/collection/p16021coll15/id/8406/download,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,NC,place,Durham city,3719000,5,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,11,0,10,1,,,MN,Reported county,Hennepin County,27053,6,0,20,9,,https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/CCS_Permits/FeatureServer/0/query?where=permitNumber%3D%27BLDG1181293%27&outFields=permitNumber%2CpermitType%2CworkType%2Cstatus%2Cmilestone%2Ccomments%2CissueDate%2CcompleteDate&returnGeometry=false&f=pjson,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MN,place,Chaska city,2710972,4,0,7,0,,https://www.chaskamn.gov/841/Cloud-HQ,,,,,0,Identify issuing office and obtain an official register link
+0,0,11,0,10,1,,,MN,place,Minneapolis city,2743000,4,0,11,0,,https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/CCS_Permits/FeatureServer/0/query?where=permitNumber%3D%27BLDG1181293%27&outFields=permitNumber%2CpermitType%2CworkType%2Cstatus%2Cmilestone%2Ccomments%2CissueDate%2CcompleteDate&returnGeometry=false&f=pjson,https://www.ci.minneapolis.mn.us/business-services/planning-zoning/,https://library.municode.com/mn/minneapolis/codes/code_of_ordinances?nodeId=MICOOR_TIT20ZOCO,Municode,623536f0a0cb2e7676bcb44d7fc3d6fe4f55c7c8db398a7ccc1e7f586bff49d7,2,Check local permit and hearing register
+0,0,0,0,0,0,,,MN,cousubs,Pine Island township,2704951154,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,1,0,0,,,MO,Reported county,Clay County,29047,7,0,8,7,,https://echo.epa.gov/effluent-charts#/MORA26968,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MO,place,Kansas City city,2938000,15,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MO,cousubs,Hamilton township,2902530052,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CO,place,Centennial city,0812815,7,0,1,0,,https://apcdweb.dphe.state.co.us/PermitStatus/?permit=26AR0258,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MI,place,Detroit city,2622000,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MI,cousubs,Delta charter township,2604521520,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,TN,Reported county,Williamson County,47187,6,0,1,1,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2019List.gzip,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,TN,place,Brentwood city,4708280,3,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,TN,place,Gallatin city,4728540,3,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,NV,place,Las Vegas city,3240000,2,0,0,0,,,https://www.lasvegasnevada.gov/Business/Planning-Zoning,https://files.lasvegasnevada.gov/planning/Planning-FAQ-and-Glossary.pdf,Published codebook,a84f3905d9250b5c40fdfb360c23c419b654dc948a73e036fd32ea0373c64d36,1,Check local permit and hearing register
+0,0,0,0,0,0,,,NV,place,North Las Vegas city,3251800,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,2,0,0,2,,,UT,place,Eagle Mountain city,4920810,5,1,8,0,https://eaglemountain.gov/wp-content/uploads/2026/10/QTS-Development-Agreement.pdf,https://daqpermitting.utah.gov/DocViewer?IntDocID=167227&contentType=application%2Fpdf,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MD,place,Baltimore city,2404000,6,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,3,0,0,3,,,OK,Reported county,Tulsa County,40143,8,0,9,6,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASW2026List.gzip,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,OK,place,Tulsa city,4075000,7,4,1,0,https://tulsaplanning.org/plans/TulsaZoningCode.pdf,https://tulsaplanning.org/tmapc/agendas/exhibits/Z-7851.pdf,https://www.cityoftulsa.org/government/city-charter-ordinances-and-executive-orders/,https://library.municode.com/ok/tulsa/codes/code_of_ordinances?nodeId=COOR_1989AMCH,Municode,b5c36e5ea8f395af31f6420bd7fdb00d484ebc40763fae501c331d02fe7a8285,1,Check local permit and hearing register
+0,0,2,0,1,1,,,MA,place,Lowell city,2537000,1,1,6,2,https://lowellma.gov/2237/Data-Centers,https://www.mass.gov/doc/markley-group-llc-final-decision-2025-022/download,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MA,place,Somerville city,2562535,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MA,cousubs,Andover town,2500901465,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,5,5,0,0,,,WI,Reported county,Racine County,55101,4,0,44,2,,https://apps.dnr.wi.gov/warp_ext/AM_PermitTracking2.aspx?id=35961,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,WI,place,Mount Pleasant village,5554875,4,0,0,0,,,https://www.mtpleasantwi.gov,https://ecode360.com/MO3975,General Code,00cf3536f65f9651287a10cbb4a0bbf6f645c301f61e1a5257c23b6770c7a6c9,2,Check local permit and hearing register
+0,0,0,0,0,0,,,WI,cousubs,Newport town,5502157025,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,WI,cousubs,Trenton town,5502780525,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,KY,place,Florence city,2127982,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,KY,place,Madisonville city,2149368,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,KY,place,Paducah city,2158836,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,0,0,1,,,ND,Reported county,Dickey County,38021,10,0,8,1,,https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf#page=2,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,ND,place,Harwood city,3835940,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,ND,cousubs,Ellendale township,3802123260,10,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,KS,place,Lenexa city,2039350,3,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,KS,cousubs,Medicine Lodge township,2000745525,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,6,6,0,0,,,MS,Reported county,Madison County,28089,9,0,13,0,,https://opcgis.deq.state.ms.us/ensearchonline/ai_info.aspx?ai=54959,,,,,0,Identify issuing office and obtain an official register link
+0,0,2,2,0,0,,,MS,place,Ridgeland city,2862520,4,2,4,0,https://www.ridgelandms.org/city-departments/public-works/community-development/permits-and-inspections/,https://opcgis.deq.state.ms.us/ensearchonline/ai_info.aspx?ai=54959,https://www.ridgelandms.org/ordinances-and-codes/,https://library.municode.com/index.aspx?clientId=14872,Municode,b42d4b8fe193635062365c3573e837cd9f33df132304bfc506ed8cdff50b3d47,2,Check local permit and hearing register
+0,0,1,0,0,1,,,SC,Reported county,Berkeley County,45015,9,0,2,0,,https://dph.sc.gov/sites/scdph/files/media/document/Board%20Minutes/2019-12-12-Minutes.pdf#page=9,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,SC,place,Columbia city,4516000,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,SC,place,Greenville city,4530850,1,0,0,0,,,https://www.greenvillesc.gov/,https://library.municode.com/SC/Greenville,Municode,d98e45203f8ec9da0dd1cc62923813c7a150c88520cc59aa434082aeceb8e1dc,1,Check local permit and hearing register
+0,0,0,0,0,0,,,SC,place,Myrtle Beach city,4549075,1,0,0,0,,,https://www.cityofmyrtlebeach.com/,https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances,Municode,76537e8d226d6871d78d215667bcd991b65285319b47e8f51cb5de257a694988,5,Check local permit and hearing register
+0,0,0,0,0,0,,,SC,place,North Charleston city,4550875,1,0,0,0,,,https://www.northcharleston.org/business/zoning/index.php,https://library.municode.com/sc/north_charleston/codes/code_of_ordinances?nodeId=COOR_APXAZORE_ARTVDIUSCL,Municode,e06ec7c7be7dff0875a85649daf9df4de6d6cc3362ccf77b96207bb360debca4,27,Check local permit and hearing register
+0,0,0,0,0,0,,,AL,Reported county,Madison County,01089,7,0,3,3,,https://oeaaa.faa.gov/oeaaa/oe3a-external-api/downloadArchives.do?fname=Part77ASO2024List.gzip,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,Reported county,Western Connecticut Planning Region,09190,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,place,Norwalk city,0955990,1,0,0,0,,,https://www.norwalkct.gov/,https://ecode360.com/NO0086,General Code,704ea1179617db457cbd4112ec5bbab956f2e8ce6cb51e7cfe3aa8cbcf909e70,5,Check local permit and hearing register
+0,0,0,0,0,0,,,CT,place,Stamford city,0973000,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,cousubs,Glastonbury town,0911031240,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,cousubs,Norwalk town,0919056060,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,cousubs,Stamford town,0919073070,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,cousubs,Trumbull town,0912077200,1,0,5,0,,https://portal.ct.gov/-/media/csc/3_petitions-medialibrary/petitions_medialibrary/mediapetitionnos1201-1300/20210510-bloom-listofcompletedsites.pdf?rev=87bd3557e5a948e7baf6e9e34c2a4746&hash=E9EDC78C314D45057C9BA9E56A188210,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,CT,cousubs,Wallingford town,0917078740,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,LA,place,Baton Rouge city,2205000,3,0,0,0,,,https://www.brla.gov/1129/Code-of-Ordinances,https://library.municode.com/index.aspx?clientId=10107,Municode,f422c7f52b395f101c38ab38994543e78eb9c1e837da89105c24db55584d66c0,1,Check local permit and hearing register
+0,0,0,0,0,0,,,WV,Reported county,Kanawha County,54039,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,WV,Reported county,Morgan County,54065,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,WV,place,Bath (Berkeley Springs) town,5404876,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,WV,place,South Charleston city,5475292,1,0,0,0,,,https://cityofsouthcharleston.com/government/city-ordinances/,https://codelibrary.amlegal.com/codes/southcharleston/latest/overview,American Legal Publishing,9c19720901889a753a2d5feffbb3a67e66ba460ba1bae06d21205398dbb14f20,1,Check local permit and hearing register
+0,0,0,0,0,0,,,NH,Reported county,Rockingham County,33015,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,NH,place,Portsmouth city,3362900,1,2,0,0,https://files.portsmouthnh.gov/files/planning/SitePlanReviewRegs.pdf,,https://www.portsmouthnh.gov/cityclerk/city-ordinances,https://files.portsmouthnh.gov/cityclerk/ordinances/Ordinance-Book-Table-of-Contents_Update-5.20.26.pdf,Published codebook,71611df8cd51de410dc6a52e5c4e6eef1e6698441a7c59f6ffa8698af5b8806b,1,Check local permit and hearing register
+0,0,0,0,0,0,,,NH,cousubs,Durham town,3301719700,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,NH,cousubs,Exeter town,3301525380,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,AR,Reported county,White County,05145,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,AR,place,Searcy city,0563020,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,1,0,0,,,ID,Reported county,Ada County,16001,2,0,1,0,,https://echo.epa.gov/effluent-charts#/IDR10C29X,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,0,0,1,,,MT,Reported county,Custer County,30017,1,0,2,0,,https://echo.epa.gov/effluent-charts#/MTR104810,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MT,Reported county,Granite County,30039,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MT,place,Billings city,3006550,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,MT,place,Philipsburg town,3057175,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,1,0,0,1,,,SD,Reported county,Minnehaha County,46099,2,0,4,0,,https://echo.epa.gov/effluent-charts#/SD0000299,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,SD,place,Sioux Falls city,4659020,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,SD,cousubs,Benton township,4609904860,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,ME,Reported county,Cumberland County,23005,2,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,ME,place,Portland city,2360545,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,ME,cousubs,Brunswick town,2300508430,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,ME,cousubs,Limestone town,2300339300,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,18,0,9,9,,,DC,Reported county,District of Columbia,11001,1,0,18,0,,https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer/16/1187961730,,,,,0,Identify issuing office and obtain an official register link
+0,0,3,0,1,2,,,PR,Reported county,Guaynabo Municipio,72061,1,0,4,0,,https://sigejp.pr.gov/server/rest/services/MIPR/Permisos/MapServer/2/query?f=pjson&objectIds=1046640&outFields=Caso%2CSiglas%2CNomProy%2CEstado%2CMunicipio%2CAgencia%2CRadicado%2CF_Estado%2CTramite&returnGeometry=false,,,,,0,Identify issuing office and obtain an official register link
+0,0,4,0,0,4,,,PR,Reported county,San Juan Municipio,72127,1,0,10,0,,https://sigejp.pr.gov/server/rest/services/MIPR/Permisos/MapServer/2/query?f=pjson&objectIds=973108&outFields=Caso%2CSiglas%2CNomProy%2CEstado%2CMunicipio%2CAgencia%2CRadicado%2CF_Estado%2CTramite&returnGeometry=false,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,VT,Reported county,Windham County,50025,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link
+0,0,0,0,0,0,,,VT,cousubs,Putney town,5002557700,1,0,0,0,,,,,,,0,Identify issuing office and obtain an official register link

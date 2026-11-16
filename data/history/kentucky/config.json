@@ -1,0 +1,231 @@
+{
+  "sources": {
+    "planning": {
+      "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26",
+      "where": "RECORD_NUMBER='25-CAT3-0015'",
+      "out": [
+        "RECORD_NUMBER",
+        "RECORD_OPEN_DATE",
+        "RECORD_STATUS",
+        "RECORD_STATUS_DATE",
+        "RECORD_TYPE",
+        "RECORD_TYPE_SUBTYPE",
+        "RECORD_TYPE_CATEGORY"
+      ]
+    },
+    "airboard": {
+      "url": "https://louisvilleky.gov/government/air-pollution-control-district/september-16-board-meeting",
+      "ext": "html"
+    },
+    "case": {
+      "url": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+      "ext": "pdf"
+    },
+    "psc": {
+      "url": "https://psc.ky.gov/order_vault/Orders_2025/202500045_03272025.pdf",
+      "ext": "pdf"
+    },
+    "plans": {
+      "url": "https://eec.ky.gov/Energy/Programs/Pages/Data-Center-Energy-Plans.aspx",
+      "ext": "html"
+    },
+    "hearing": {
+      "url": "https://louisvilleky.new.swagit.com/events/45332",
+      "ext": "html"
+    },
+    "oldham": {
+      "url": "https://www.oldhamcountyky.gov/projectlincoln",
+      "ext": "html"
+    },
+    "hwy": {
+      "url": "https://irp.cdn-website.com/fd0fc3bd/files/uploaded/Hwy_53_Withdrawl_Letter.pdf",
+      "ext": "pdf"
+    },
+    "dw": {
+      "url": "https://irp.cdn-website.com/fd0fc3bd/files/uploaded/Withdrawal+Email-WEB.pdf",
+      "ext": "pdf"
+    },
+    "prior": {
+      "url": "https://gis.lojic.org/maps/rest/services/LojicSolutions/OpenDataDevelopment/MapServer/26",
+      "where": "RECORD_NUMBER='25-CAT3-0006'",
+      "out": [
+        "RECORD_NUMBER",
+        "RECORD_OPEN_DATE",
+        "RECORD_STATUS",
+        "RECORD_STATUS_DATE",
+        "RECORD_TYPE",
+        "RECORD_TYPE_SUBTYPE",
+        "RECORD_TYPE_CATEGORY"
+      ]
+    }
+  },
+  "records": [
+    {
+      "source": "prior",
+      "id": "25-cat3-0006-opened",
+      "dataset": "Louisville Metro development plans",
+      "jurisdiction": "Louisville/Jefferson County metro government",
+      "record_no": "25-CAT3-0006",
+      "project": "Camp Ground Road Data Center",
+      "kind": "Category 3 development plan",
+      "status": "Opened",
+      "date": "2025-03-24",
+      "date_role": "record opened",
+      "locator": "LOJIC planning case 25-CAT3-0006",
+      "evidence": "25-CAT3-0006",
+      "details": {
+        "county": "Jefferson County",
+        "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+        "identity_page": 4
+      },
+      "oid": 54525,
+      "assert_attrs": {
+        "RECORD_NUMBER": "25-CAT3-0006",
+        "RECORD_OPEN_DATE": 1742788800000,
+        "RECORD_STATUS": "APPROVED"
+      }
+    },
+    {
+      "source": "prior",
+      "id": "25-cat3-0006-status",
+      "dataset": "Louisville Metro development plans",
+      "jurisdiction": "Louisville/Jefferson County metro government",
+      "record_no": "25-CAT3-0006",
+      "project": "Camp Ground Road Data Center",
+      "kind": "Category 3 development plan",
+      "status": "APPROVED",
+      "date": "2025-07-24",
+      "date_role": "register status date",
+      "locator": "LOJIC planning case 25-CAT3-0006",
+      "evidence": "25-CAT3-0006",
+      "details": {
+        "county": "Jefferson County",
+        "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+        "identity_page": 4
+      },
+      "oid": 54525,
+      "assert_attrs": {
+        "RECORD_NUMBER": "25-CAT3-0006",
+        "RECORD_STATUS_DATE": 1753329600000,
+        "RECORD_STATUS": "APPROVED"
+      }
+    },
+    {
+      "source": "planning",
+      "id": "25-cat3-0015-opened",
+      "dataset": "Louisville Metro development plans",
+      "jurisdiction": "Louisville/Jefferson County metro government",
+      "record_no": "25-CAT3-0015",
+      "project": "Camp Ground Road Data Center",
+      "kind": "Category 3 development plan",
+      "status": "Opened",
+      "date": "2025-10-13",
+      "date_role": "record opened",
+      "locator": "LOJIC planning case 25-CAT3-0015",
+      "evidence": "25-CAT3-0015",
+      "details": {
+        "county": "Jefferson County",
+        "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+        "identity_page": 4
+      },
+      "oid": 56528,
+      "assert_attrs": {
+        "RECORD_NUMBER": "25-CAT3-0015",
+        "RECORD_OPEN_DATE": 1760328000000,
+        "RECORD_STATUS": "APPROVED"
+      }
+    },
+    {
+      "source": "planning",
+      "id": "25-cat3-0015-status",
+      "dataset": "Louisville Metro development plans",
+      "jurisdiction": "Louisville/Jefferson County metro government",
+      "record_no": "25-CAT3-0015",
+      "project": "Camp Ground Road Data Center",
+      "kind": "Category 3 development plan",
+      "status": "APPROVED",
+      "date": "2026-05-10",
+      "date_role": "register status date",
+      "locator": "LOJIC planning case 25-CAT3-0015",
+      "evidence": "25-CAT3-0015",
+      "details": {
+        "county": "Jefferson County",
+        "identity_source": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/02/12/file_attachments/3552263/IARC%20Report%20021026.pdf",
+        "identity_page": 4
+      },
+      "oid": 56528,
+      "assert_attrs": {
+        "RECORD_NUMBER": "25-CAT3-0015",
+        "RECORD_STATUS_DATE": 1778385600000,
+        "RECORD_STATUS": "APPROVED"
+      }
+    },
+    {
+      "source": "hearing",
+      "id": "campground-hearing",
+      "dataset": "Louisville Metro development plans",
+      "jurisdiction": "Louisville/Jefferson County metro government",
+      "record_no": "25-CAT3-0015",
+      "project": "Camp Ground Road Data Center",
+      "kind": "Category 3 plan hearing",
+      "status": "On agenda",
+      "date": "2026-03-05",
+      "date_role": "meeting date",
+      "locator": "March 5 planning commission item 7",
+      "evidence": "Camp Ground Rd Data Center",
+      "details": {
+        "county": "Jefferson County"
+      }
+    },
+    {
+      "source": "psc",
+      "id": "psc-2025-00045",
+      "dataset": "Kentucky PSC project information requests",
+      "jurisdiction": "Kentucky",
+      "record_no": "2025-00045",
+      "project": "Camp Ground Road Data Center",
+      "kind": "Utility generation case information request",
+      "status": "Information requested",
+      "date": "2025-03-27",
+      "date_role": "staff information request date",
+      "locator": "Question 4, p. 7; demand assumptions test",
+      "evidence": "402 MW Camp Ground Road data center only",
+      "page": 7,
+      "details": {}
+    },
+    {
+      "source": "oldham",
+      "id": "oldham-hwy",
+      "dataset": "Oldham County Project Lincoln withdrawals",
+      "jurisdiction": "Oldham County",
+      "record_no": "Project Lincoln: Highway 53",
+      "project": "Project Lincoln / Highway 53",
+      "kind": "Land use application withdrawal",
+      "status": "Withdrawal posted",
+      "date": null,
+      "date_role": "date unavailable",
+      "locator": "County Board of Adjustments project page; Highway 53",
+      "evidence": "Highway 53 Withdrawal Letter",
+      "details": {
+        "county": "Oldham County"
+      }
+    },
+    {
+      "source": "oldham",
+      "id": "oldham-dw",
+      "dataset": "Oldham County Project Lincoln withdrawals",
+      "jurisdiction": "Oldham County",
+      "record_no": "Project Lincoln: D.W. Griffith",
+      "project": "Project Lincoln / D.W. Griffith",
+      "kind": "Land use application withdrawal",
+      "status": "Withdrawal posted",
+      "date": null,
+      "date_role": "date unavailable",
+      "locator": "County Board of Adjustments project page; D.W. Griffith",
+      "evidence": "D.W. Griffith Withdrawal Email",
+      "details": {
+        "county": "Oldham County"
+      }
+    }
+  ]
+}

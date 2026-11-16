@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ny-nf-seqra",
+    "state": "NY",
+    "dataset": "Niagara Falls project decisions",
+    "jurisdiction": "Niagara Falls",
+    "project": "North East Data LLC / Blockfusion, 5380 Frontier Avenue (data center and digital asset mining facility)",
+    "record_no": "2023-35",
+    "kind": "Environmental review determination",
+    "status": "positive declaration",
+    "date": "2023-07-26",
+    "date_role": "local board vote date",
+    "url": "https://cms3.revize.com/revize/niagarafallsny/Documents/Government/City%20Council/Agenda/2023.7.26.MTG_.VOTE_.pdf",
+    "source_url": "https://cms3.revize.com/revize/niagarafallsny/Documents/Government/City%20Council/Agenda/2023.7.26.MTG_.VOTE_.pdf",
+    "source_sha256": "f0985d616bd310c39dc53d8d2b11076357e1317e5a7d9a57f2f9ecd896f120f8",
+    "locator": "July 26 vote sheet item 27, 3\u20132; follow-up finding in April 9, 2025 Planning Board packet",
+    "details": {
+      "county": "Niagara County",
+      "issuer": "Niagara Falls City Council",
+      "archive_file": "cache/history/ny/niagara-20230726-review.txt",
+      "verified_markers": [
+        "Seqra determination of significance",
+        "Digital Asset",
+        "5380 Frontier"
+      ]
+    }
+  },
+  {
+    "id": "ny-nf-recommend",
+    "state": "NY",
+    "dataset": "Niagara Falls project decisions",
+    "jurisdiction": "Niagara Falls",
+    "project": "North East Data LLC / Blockfusion, 5380 Frontier Avenue (data center and digital asset mining facility)",
+    "record_no": "SBL 160.14-1-1.2",
+    "kind": "Zoning overlay recommendation",
+    "status": "Motion to approve the recommendation",
+    "date": "2025-06-25",
+    "date_role": "local board vote date",
+    "url": "https://cms3.revize.com/revize/niagarafallsny/Documents/Government/Department/Planning%20And%20Environmental/Planning%20Board/2025/PB%20Packet%2020250728_Redacted.pdf",
+    "source_url": "https://cms3.revize.com/revize/niagarafallsny/Documents/Government/Department/Planning%20And%20Environmental/Planning%20Board/2025/PB%20Packet%2020250728_Redacted.pdf",
+    "source_sha256": "b809af98dae737ab23b7cfa84e834f63eec90589553a01ed743ea6f2492b4f62",
+    "locator": "June 25 official Planning Board minutes, item 1. Recommendation only; not final rezoning.",
+    "details": {
+      "county": "Niagara County",
+      "issuer": "Niagara Falls Planning Board",
+      "archive_file": "cache/history/ny/niagara-20250625-review.txt",
+      "verified_markers": [
+        "5380 Frontier Avenue",
+        "Motion to approve the recommendation"
+      ]
+    }
+  },
+  {
+    "id": "ny-nf-eis",
+    "state": "NY",
+    "dataset": "Niagara Falls project decisions",
+    "jurisdiction": "Niagara Falls",
+    "project": "North East Data LLC / Blockfusion, 5380 Frontier Avenue (data center and digital asset mining facility)",
+    "record_no": "2025-07-23 agenda item 20",
+    "kind": "Environmental impact statement decision",
+    "status": "THE MOTION WAS ADOPTED",
+    "date": "2025-07-23",
+    "date_role": "local board vote date",
+    "url": "https://cms3.revize.com/revize/niagarafallsny/Documents/Government/City%20Council/2025/0723/0%20-%20VOTE%20SHEET%20for%20REGULAR%20MTG%207.23.25.pdf",
+    "source_url": "https://cms3.revize.com/revize/niagarafallsny/Documents/Government/City%20Council/2025/0723/0%20-%20VOTE%20SHEET%20for%20REGULAR%20MTG%207.23.25.pdf",
+    "source_sha256": "04cf4ef4df5b206b1ac6259000af53c9ddeb7a49ab73285fd90b565ef8dda0a5",
+    "locator": "July 23 council vote sheet, item 20; five yeas. Final EIS, not final zoning.",
+    "details": {
+      "county": "Niagara County",
+      "issuer": "Niagara Falls City Council",
+      "archive_file": "cache/history/ny/niagara-20250723-review.txt",
+      "verified_markers": [
+        "ISSUING A FINAL",
+        "5380 FRONTIER",
+        "THE MOTION WAS ADOPTED"
+      ]
+    }
+  },
+  {
+    "id": "ny-somerset-coastal",
+    "state": "NY",
+    "dataset": "Somerset Planning Board project decisions",
+    "jurisdiction": "Somerset",
+    "project": "Wulf Compute / Lake Mariner Data, CB3 battery UPS, 7725 Lake Road",
+    "record_no": "SBL 8.00-1-1.11 / CB3 / coastal",
+    "kind": "Coastal consistency determination",
+    "status": "ADOPTED",
+    "date": "2025-09-04",
+    "date_role": "planning board vote date",
+    "url": "https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10",
+    "source_url": "https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10",
+    "source_sha256": "6df48c8cad1c8e8988c9c30d4a86da1a53891214aa70f3138a2f52ee624538b3",
+    "locator": "September 4 minutes, Coastal consistency determination; CB3 battery UPS accessory to AI campus; grant subject to terms, not a building permit.",
+    "details": {
+      "county": "Niagara County",
+      "issuer": "Town of Somerset Planning Board",
+      "archive_file": "cache/history/ny/somerset-20250904-review.txt",
+      "verified_markers": [
+        "COASTAL CONSISTENCY RESOLUTION",
+        "ADOPTED"
+      ]
+    }
+  },
+  {
+    "id": "ny-somerset-seqr",
+    "state": "NY",
+    "dataset": "Somerset Planning Board project decisions",
+    "jurisdiction": "Somerset",
+    "project": "Wulf Compute / Lake Mariner Data, CB3 battery UPS, 7725 Lake Road",
+    "record_no": "SBL 8.00-1-1.11 / CB3 / seqr",
+    "kind": "Environmental review determination",
+    "status": "Negative Declaration",
+    "date": "2025-09-04",
+    "date_role": "planning board vote date",
+    "url": "https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10",
+    "source_url": "https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10",
+    "source_sha256": "6df48c8cad1c8e8988c9c30d4a86da1a53891214aa70f3138a2f52ee624538b3",
+    "locator": "September 4 minutes, Environmental review determination; CB3 battery UPS accessory to AI campus; grant subject to terms, not a building permit.",
+    "details": {
+      "county": "Niagara County",
+      "issuer": "Town of Somerset Planning Board",
+      "archive_file": "cache/history/ny/somerset-20250904-review.txt",
+      "verified_markers": [
+        "SEQR NEGATIVE DECLARATION RESOLUTION",
+        "Negative Declaration"
+      ]
+    }
+  },
+  {
+    "id": "ny-somerset-sup",
+    "state": "NY",
+    "dataset": "Somerset Planning Board project decisions",
+    "jurisdiction": "Somerset",
+    "project": "Wulf Compute / Lake Mariner Data, CB3 battery UPS, 7725 Lake Road",
+    "record_no": "SBL 8.00-1-1.11 / CB3 / sup",
+    "kind": "Conditional special use permit and site plan decision",
+    "status": "ADOPTED",
+    "date": "2025-09-04",
+    "date_role": "planning board vote date",
+    "url": "https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10",
+    "source_url": "https://www.somersetny.gov/planning-board/minutes/planning-board-meeting-minutes-10",
+    "source_sha256": "6df48c8cad1c8e8988c9c30d4a86da1a53891214aa70f3138a2f52ee624538b3",
+    "locator": "September 4 minutes, Conditional special use permit and site plan decision; CB3 battery UPS accessory to AI campus; grant subject to terms, not a building permit.",
+    "details": {
+      "county": "Niagara County",
+      "issuer": "Town of Somerset Planning Board",
+      "archive_file": "cache/history/ny/somerset-20250904-review.txt",
+      "verified_markers": [
+        "SPECIAL USE and SITE PLAN RESOLUTION",
+        "hereby grants a Special Use Permit"
+      ]
+    }
+  },
+  {
+    "id": "ny-orangetown-mod-1",
+    "state": "NY",
+    "dataset": "New York DEC air permit modifications",
+    "jurisdiction": "Orangeburg",
+    "project": "Orangetown Data Center",
+    "record_no": "3-3924-00493/00001",
+    "kind": "State facility air permit modification",
+    "status": "Modification effective",
+    "date": "2020-10-01",
+    "date_role": "modification effective date",
+    "url": "https://extapps.dec.ny.gov/data/dar/afs/permits/339240049300001_r0_2.pdf",
+    "source_url": "https://extapps.dec.ny.gov/data/dar/afs/permits/339240049300001_r0_2.pdf",
+    "source_sha256": "88c17c9bbeb26d5c67d7d72367c3de7fb4fbe1a9c350bcac4d924e4baa9e91e1",
+    "locator": "Cover p. 1; Mod 1 is a revision of the existing permit.",
+    "details": {
+      "county": "Rockland County",
+      "issuer": "New York State Department of Environmental Conservation",
+      "archive_file": "cache/history/ny/339240049300001_r0_2.pdf",
+      "verified_markers": [
+        "Mod 1 Effective Date: 10/01/2020"
+      ]
+    }
+  },
+  {
+    "id": "ny-orangetown-mod-2",
+    "state": "NY",
+    "dataset": "New York DEC air permit modifications",
+    "jurisdiction": "Orangeburg",
+    "project": "Orangetown Data Center",
+    "record_no": "3-3924-00493/00001",
+    "kind": "State facility air permit modification",
+    "status": "Modification effective",
+    "date": "2025-06-23",
+    "date_role": "modification effective date",
+    "url": "https://extapps.dec.ny.gov/data/dar/afs/permits/339240049300001_r0_2.pdf",
+    "source_url": "https://extapps.dec.ny.gov/data/dar/afs/permits/339240049300001_r0_2.pdf",
+    "source_sha256": "88c17c9bbeb26d5c67d7d72367c3de7fb4fbe1a9c350bcac4d924e4baa9e91e1",
+    "locator": "Cover p. 1; Mod 2 is a revision of the existing permit.",
+    "details": {
+      "county": "Rockland County",
+      "issuer": "New York State Department of Environmental Conservation",
+      "archive_file": "cache/history/ny/339240049300001_r0_2.pdf",
+      "verified_markers": [
+        "Mod 2 Effective Date: 06/23/2025"
+      ]
+    }
+  }
+]

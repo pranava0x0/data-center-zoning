@@ -1,0 +1,44 @@
+{
+  "https://www.bcnv.org/CivicAlerts.aspx?AID=534": {
+    "sha256": "9a25a21b0e2c5ffce649b1a6ceb7f2cef4cda88eac039265e3d2c0398705f22e",
+    "bytes": 103153,
+    "retrieved": "2026-11-16T06:34:15+00:00",
+    "resolved": "https://www.bcnv.org/m/newsflash/home/detail/534"
+  },
+  "https://www.bcnv.org/DocumentCenter/View/17364/2026-0213-Boulder-City-Stay-Granted": {
+    "sha256": "3f9344e88006bdc83467202df09af2148df9ce0068696e8a5992772dd7b3d794",
+    "bytes": 390311,
+    "retrieved": "2026-11-16T06:35:43+00:00",
+    "resolved": "https://www.bcnv.org/DocumentCenter/View/17364/2026-0213-Boulder-City-Stay-Granted"
+  },
+  "https://eplanning.blm.gov/Project-Home/?id=f4dd06fc-446f-f111-ab0d-001dd802f839": {
+    "sha256": "16dc6f7bd0d770dc0d9fca410b02251b88155b39b3c8e6415da80c1fecc13d9d",
+    "bytes": 231215,
+    "retrieved": "2026-11-16T06:35:45+00:00",
+    "resolved": "https://eplanning.blm.gov/Project-Home/?id=f4dd06fc-446f-f111-ab0d-001dd802f839"
+  },
+  "https://www.energy.gov/sites/default/files/2025-11/CX-034617.pdf": {
+    "sha256": "4b53a1b099d6f1ba6021b52b12299a6283be5d6cbb8d5845c53a18e5e299cf95",
+    "bytes": 138642,
+    "retrieved": "2026-11-16T06:35:45+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2025-11/CX-034617.pdf"
+  },
+  "https://www.energy.gov/nepa/articles/cx-035792-data-center-flexibility-grid-enhancing-technology": {
+    "sha256": "76a3947450620425c49e2c7d689511cdedebea5f0b5c49750bc2a1410bc66052",
+    "bytes": 115216,
+    "retrieved": "2026-11-16T06:36:55+00:00",
+    "resolved": "https://www.energy.gov/nepa/articles/cx-035792-data-center-flexibility-grid-enhancing-technology"
+  },
+  "https://www.energy.gov/sites/default/files/2026-07/CX-035792.pdf": {
+    "sha256": "63d1f2813e3faf7cfa2c19dc22bcd9f15be64c0198e103c3e08c8c9fec25c9ad",
+    "bytes": 391855,
+    "retrieved": "2026-11-16T06:36:56+00:00",
+    "resolved": "https://www.energy.gov/sites/default/files/2026-07/CX-035792.pdf"
+  },
+  "https://www.energy.gov/documents/cx-023183pdf-0": {
+    "sha256": "2937d408d7c488d89a6ecba0ae155f0b67a3c97d68315d388597c73db2eb3286",
+    "bytes": 111093,
+    "retrieved": "2026-11-16T06:36:56+00:00",
+    "resolved": "https://www.energy.gov/documents/cx-023183pdf-0"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pa-fairview-conditional": {
+    "url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+    "sha256": "31bf621973ecea1671e07a901b1332725a0fee486c37de4464a53decb8a94869",
+    "page": 3,
+    "method": "Compared PDF pages 1–5, district table and signed enactment. Ord. 2025-03, § 300-72(E)(3) and Table 5-2.B.2; PDF pp. 2–3",
+    "reviewer": "Codex, visual inspection of rendered government ordinance",
+    "reviewed_on": "2026-11-16"
+  },
+  "pa-fairview-setback": {
+    "url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+    "sha256": "31bf621973ecea1671e07a901b1332725a0fee486c37de4464a53decb8a94869",
+    "page": 3,
+    "method": "Compared PDF pages 1–5, district table and signed enactment. Ord. 2025-03, § 300-72(E)(9); PDF p. 3",
+    "reviewer": "Codex, visual inspection of rendered government ordinance",
+    "reviewed_on": "2026-11-16"
+  },
+  "pa-fairview-noise": {
+    "url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+    "sha256": "31bf621973ecea1671e07a901b1332725a0fee486c37de4464a53decb8a94869",
+    "page": 3,
+    "method": "Compared PDF pages 1–5, district table and signed enactment. Ord. 2025-03, § 300-72(E)(7); PDF pp. 2–3",
+    "reviewer": "Codex, visual inspection of rendered government ordinance",
+    "reviewed_on": "2026-11-16"
+  },
+  "pa-fairview-service": {
+    "url": "https://twp.fairview.pa.us/wp-content/uploads/2025/12/Ord_-2025-03-Zoning-Text-Amendment-Data-Centers.pdf",
+    "sha256": "31bf621973ecea1671e07a901b1332725a0fee486c37de4464a53decb8a94869",
+    "page": 1,
+    "method": "Compared PDF pages 1–5, district table and signed enactment. Ord. 2025-03, § 300-72(E)(1); PDF p. 1",
+    "reviewer": "Codex, visual inspection of rendered government ordinance",
+    "reviewed_on": "2026-11-16"
+  },
+  "ca-santa-clara-noise": {
+    "url": "https://santaclara.legistar.com/View.ashx?GUID=02DDCA1B-D84F-4CDE-BB46-76B21E28932C&ID=14220670&M=F",
+    "sha256": "6e16f32072c73cac36d3107d95d61e6347a261e65148f49bfdc79a0b1d4608ef",
+    "page": 1,
+    "method": "Read rendered code page headed Title 18 — Zoning Code, §18.60.090, including subsections B and C. The text layer splits ordinary words.",
+    "reviewer": "Codex, visual inspection of city code exhibit",
+    "reviewed_on": "2026-11-16"
+  },
+  "ca-santa-clara-light": {
+    "url": "https://santaclara.legistar.com/View.ashx?GUID=02DDCA1B-D84F-4CDE-BB46-76B21E28932C&ID=14220670&M=F",
+    "sha256": "6e16f32072c73cac36d3107d95d61e6347a261e65148f49bfdc79a0b1d4608ef",
+    "page": 1,
+    "method": "Read rendered code page headed Title 18 — Zoning Code, §18.60.090, including subsections B and C. The text layer splits ordinary words.",
+    "reviewer": "Codex, visual inspection of city code exhibit",
+    "reviewed_on": "2026-11-16"
+  },
+  "ar-conway-cup": {
+    "url": "https://media.conwayarkansas.gov/media/archive/ordinances/2023/O-23-72.pdf",
+    "sha256": "241da49d13670ad12d0fe55f0756f45429fc824227412cb9b732dd451fd85df5",
+    "page": 2,
+    "method": "Read the 2023 city ordinance, p. 1 recording certificate and definitions; on p. 2 checked each entry in the Limited/General use table and both conditional-use application requirements.",
+    "reviewer": "Codex, reviewed rendered municipal ordinance",
+    "reviewed_on": "2026-11-16"
+  },
+  "ar-conway-noise": {
+    "url": "https://media.conwayarkansas.gov/media/archive/ordinances/2023/O-23-72.pdf",
+    "sha256": "241da49d13670ad12d0fe55f0756f45429fc824227412cb9b732dd451fd85df5",
+    "page": 2,
+    "method": "Read the 2023 city ordinance, p. 1 recording certificate and definitions; on p. 2 checked each entry in the Limited/General use table and both conditional-use application requirements.",
+    "reviewer": "Codex, reviewed rendered municipal ordinance",
+    "reviewed_on": "2026-11-16"
+  }
+}

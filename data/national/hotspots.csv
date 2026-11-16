@@ -1,0 +1,741 @@
+state,layer,name,geoid,markers,rank_in_layer
+VA,Reported county,Loudoun County,,228,1
+VA,Reported county,Prince William County,,72,2
+VA,Reported county,Fairfax County,,33,3
+VA,Reported county,Henrico County,,25,4
+VA,Reported county,Mecklenburg County,,18,5
+VA,Reported county,Chesterfield County,,5,6
+VA,Reported county,Manassas city,,4,7
+VA,Reported county,Fauquier County,,3,8
+VA,Reported county,Culpeper County,,1,9
+VA,Reported county,Frederick County,,1,9
+VA,Reported county,Harrisonburg city,,1,9
+VA,Reported county,Lynchburg city,,1,9
+VA,place,Manassas city,5148952,4,1
+VA,place,Harrisonburg city,5135624,1,2
+VA,place,Herndon town,5136648,1,2
+VA,place,Lynchburg city,5147672,1,2
+VA,statistical place,Ashburn CDP,5103320,123,1
+VA,statistical place,Innovation CDP,5139916,20,2
+VA,statistical place,Oak Grove CDP,5158104,15,3
+VA,statistical place,Dulles Town Center CDP,5123732,12,4
+VA,statistical place,Gainesville CDP,5130176,11,5
+VA,statistical place,Chantilly CDP,5114744,10,6
+VA,statistical place,Arcola CDP,5102248,9,7
+VA,statistical place,Buckhall CDP,5110776,9,7
+VA,statistical place,Linton Hall CDP,5145957,7,9
+VA,statistical place,South Riding CDP,5174100,6,10
+VA,statistical place,Reston CDP,5166672,5,11
+VA,statistical place,Sully Square CDP,5176516,5,11
+VA,statistical place,Tysons CDP,5179950,5,11
+VA,statistical place,Floris CDP,5128528,3,14
+VA,statistical place,Fort Belvoir CDP,5129008,2,15
+VA,statistical place,Loudoun Valley Estates CDP,5147136,1,16
+VA,statistical place,New Baltimore CDP,5155528,1,16
+VA,statistical place,Springfield CDP,5174592,1,16
+VA,statistical place,Sterling CDP,5175376,1,16
+TX,Reported county,Bexar County,,58,1
+TX,Reported county,Taylor County,,40,2
+TX,Reported county,Dallas County,,30,3
+TX,Reported county,Collin County,,15,4
+TX,Reported county,Ellis County,,15,4
+TX,Reported county,Travis County,,14,6
+TX,Reported county,Tarrant County,,10,7
+TX,Reported county,Harris County,,7,8
+TX,Reported county,Reeves County,,5,9
+TX,Reported county,Medina County,,4,10
+TX,Reported county,Bell County,,3,11
+TX,Reported county,Angelina County,,2,12
+TX,Reported county,Denton County,,2,12
+TX,Reported county,El Paso County,,2,12
+TX,Reported county,Montgomery County,,2,12
+TX,Reported county,Pecos County,,2,12
+TX,Reported county,Ward County,,2,12
+TX,Reported county,Carson County,,1,18
+TX,Reported county,Dickens County,,1,18
+TX,Reported county,Hood County,,1,18
+TX,Reported county,Milam County,,1,18
+TX,Reported county,Navarro County,,1,18
+TX,Reported county,Wichita County,,1,18
+TX,Reported county,Williamson County,,1,18
+TX,place,San Antonio city,4865000,46,1
+TX,place,Austin city,4805000,12,2
+TX,place,Red Oak city,4861196,12,2
+TX,place,Dallas city,4819000,11,4
+TX,place,Richardson city,4861796,10,5
+TX,place,Allen city,4801924,7,6
+TX,place,Fort Worth city,4827000,7,6
+TX,place,Garland city,4829000,7,6
+TX,place,Plano city,4858016,5,9
+TX,place,Houston city,4835000,4,10
+TX,place,Midlothian city,4848096,3,11
+TX,place,Temple city,4872176,3,11
+TX,place,El Paso city,4824000,2,13
+TX,place,Irving city,4837000,2,13
+TX,place,Roanoke city,4862504,2,13
+TX,place,Euless city,4824768,1,16
+TX,place,Lancaster city,4841212,1,16
+TX,place,Lufkin city,4845072,1,16
+TX,place,Mansfield city,4846452,1,16
+TX,place,McKinney city,4845744,1,16
+TX,place,Pflugerville city,4857176,1,16
+TX,place,Round Rock city,4863500,1,16
+TX,place,Southlake city,4869032,1,16
+TX,place,Wichita Falls city,4879000,1,16
+TX,statistical place,The Woodlands CDP,4872656,2,1
+TX,statistical place,Hornsby Bend CDP,4834856,1,2
+TX,statistical place,Timberwood Park CDP,4873057,1,2
+CA,Reported county,Santa Clara County,,74,1
+CA,Reported county,Los Angeles County,,9,2
+CA,Reported county,Alameda County,,7,3
+CA,Reported county,Sacramento County,,5,4
+CA,Reported county,San Diego County,,5,4
+CA,Reported county,San Francisco County,,4,6
+CA,Reported county,Orange County,,3,7
+CA,Reported county,Contra Costa County,,1,8
+CA,Reported county,Napa County,,1,8
+CA,Reported county,Riverside County,,1,8
+CA,Reported county,San Bernardino County,,1,8
+CA,Reported county,San Luis Obispo County,,1,8
+CA,Reported county,Solano County,,1,8
+CA,Reported county,Stanislaus County,,1,8
+CA,place,Santa Clara city,0669084,53,1
+CA,place,San Jose city,0668000,14,2
+CA,place,Fremont city,0626000,4,3
+CA,place,Los Angeles city,0644000,4,3
+CA,place,San Diego city,0666000,4,3
+CA,place,San Francisco city,0667000,4,3
+CA,place,Sunnyvale city,0677000,4,3
+CA,place,El Segundo city,0622412,3,8
+CA,place,Santa Ana city,0669000,2,9
+CA,place,Berkeley city,0606000,1,10
+CA,place,Burbank city,0608954,1,10
+CA,place,Concord city,0616000,1,10
+CA,place,Fairfield city,0623182,1,10
+CA,place,Milpitas city,0647766,1,10
+CA,place,Modesto city,0648354,1,10
+CA,place,Napa city,0650258,1,10
+CA,place,Oakland city,0653000,1,10
+CA,place,Palmdale city,0655156,1,10
+CA,place,Palo Alto city,0655282,1,10
+CA,place,Pleasanton city,0657792,1,10
+CA,place,Rancho Cordova city,0659444,1,10
+CA,place,Redlands city,0659962,1,10
+CA,place,Riverside city,0662000,1,10
+CA,place,San Luis Obispo city,0668154,1,10
+CA,place,Tustin city,0680854,1,10
+CA,place,Vista city,0682996,1,10
+CA,statistical place,Stanford CDP,0673906,1,1
+OH,Reported county,Franklin County,,32,1
+OH,Reported county,Licking County,,31,2
+OH,Reported county,Union County,,9,3
+OH,Reported county,Cuyahoga County,,4,4
+OH,Reported county,Hamilton County,,3,5
+OH,Reported county,Warren County,,3,5
+OH,Reported county,Butler County,,2,7
+OH,Reported county,Fairfield County,,2,7
+OH,Reported county,Clark County,,1,9
+OH,Reported county,Delaware County,,1,9
+OH,Reported county,Erie County,,1,9
+OH,Reported county,Mahoning County,,1,9
+OH,Reported county,Summit County,,1,9
+OH,Reported county,Wood County,,1,9
+OH,cousubs,Jersey township,3908939102,30,1
+OH,cousubs,Norwich township,3904957344,15,2
+OH,cousubs,Jerome township,3915939046,9,3
+OH,cousubs,Plain township,3904962974,8,4
+OH,cousubs,Washington township,3904981242,6,5
+OH,cousubs,Boardman township,3909907468,1,6
+OH,cousubs,Deerfield township,3916521238,1,6
+OH,cousubs,Liberty township,3904143106,1,6
+OH,cousubs,Middleton township,3917349812,1,6
+OH,cousubs,Perkins township,3904361714,1,6
+OH,cousubs,West Chester township,3901783150,1,6
+OH,place,New Albany city,3953970,38,1
+OH,place,Hilliard city,3935476,15,2
+OH,place,Dublin city,3922694,6,3
+OH,place,Columbus city,3918000,4,4
+OH,place,Cleveland city,3916000,3,5
+OH,place,Cincinnati city,3915000,2,6
+OH,place,Lancaster city,3941720,2,6
+OH,place,Lebanon city,3942364,2,6
+OH,place,Akron city,3901000,1,9
+OH,place,Hamilton city,3933012,1,9
+OH,place,Independence city,3937240,1,9
+OH,place,Sharonville city,3971892,1,9
+OH,place,Springfield city,3974118,1,9
+GA,Reported county,Douglas County,,22,1
+GA,Reported county,Fulton County,,21,2
+GA,Reported county,Fayette County,,4,3
+GA,Reported county,Cobb County,,3,4
+GA,Reported county,Gwinnett County,,3,4
+GA,Reported county,Newton County,,3,4
+GA,Reported county,Forsyth County,,1,7
+GA,Reported county,Muscogee County,,1,7
+GA,place,Alpharetta city,1301696,9,1
+GA,place,Atlanta city,1304000,8,2
+GA,place,Douglasville city,1323900,6,3
+GA,place,Fayetteville city,1328968,2,4
+GA,place,South Fulton city,1372122,2,4
+GA,place,Suwanee city,1374936,2,4
+GA,place,Acworth city,1300408,1,7
+GA,place,Columbus city,1319000,1,7
+GA,place,East Point city,1325720,1,7
+GA,place,Hapeville city,1336472,1,7
+GA,place,Marietta city,1349756,1,7
+GA,place,Peachtree Corners city,1359735,1,7
+GA,statistical place,Lithia Springs CDP,1346832,6,1
+AZ,Reported county,Maricopa County,,69,1
+AZ,Reported county,Cochise County,,1,2
+AZ,Reported county,Pima County,,1,2
+AZ,place,Mesa city,0446000,17,1
+AZ,place,Phoenix city,0455000,15,2
+AZ,place,Chandler city,0412000,13,3
+AZ,place,Goodyear city,0428380,10,4
+AZ,place,Scottsdale city,0465000,5,5
+AZ,place,Tempe city,0473000,5,5
+AZ,place,Avondale city,0404720,1,7
+AZ,place,Benson city,0405770,1,7
+AZ,place,El Mirage city,0422220,1,7
+AZ,place,Gilbert town,0427400,1,7
+AZ,place,Glendale city,0427820,1,7
+AZ,place,Tucson city,0477000,1,7
+NY,Reported county,Niagara County,,13,1
+NY,Reported county,Rockland County,,4,2
+NY,Reported county,Albany County,,3,3
+NY,Reported county,New York County,,3,3
+NY,Reported county,Dutchess County,,2,5
+NY,Reported county,Erie County,,2,5
+NY,Reported county,Richmond County,,2,5
+NY,Reported county,Franklin County,,1,8
+NY,Reported county,Kings County,,1,8
+NY,Reported county,Monroe County,,1,8
+NY,Reported county,Onondaga County,,1,8
+NY,Reported county,St. Lawrence County,,1,8
+NY,Reported county,Suffolk County,,1,8
+NY,Reported county,Westchester County,,1,8
+NY,Reported county,Yates County,,1,8
+NY,cousubs,Orangetown town,3608755211,4,1
+NY,cousubs,Amherst town,3602902000,2,2
+NY,cousubs,Colonie town,3600117343,2,2
+NY,cousubs,Brookhaven town,3610310000,1,4
+NY,cousubs,Chateaugay town,3603313992,1,4
+NY,cousubs,Onondaga town,3606754958,1,4
+NY,cousubs,Potsdam town,3608959575,1,4
+NY,cousubs,Poughkeepsie town,3602759652,1,4
+NY,cousubs,Rush town,3605564144,1,4
+NY,cousubs,Torrey town,3612375055,1,4
+NY,cousubs,Wappinger town,3602778157,1,4
+NY,cousubs,Wheatfield town,3606381380,1,4
+NY,place,Niagara Falls city,3651055,12,1
+NY,place,New York city,3651000,6,2
+NY,place,Albany city,3601000,1,3
+NY,place,Potsdam village,3659564,1,3
+NY,place,Yonkers city,3684000,1,3
+NY,statistical place,Pearl River CDP,3656902,2,1
+NY,statistical place,Latham CDP,3641399,1,2
+NY,statistical place,Myers Corner CDP,3649363,1,2
+NY,statistical place,Shirley CDP,3667070,1,2
+NY,statistical place,Tappan CDP,3673154,1,2
+IL,Reported county,Cook County,,36,1
+IL,Reported county,DuPage County,,19,2
+IL,Reported county,DeKalb County,,3,3
+IL,Reported county,Champaign County,,1,4
+IL,Reported county,Kendall County,,1,4
+IL,Reported county,Lake County,,1,4
+IL,Reported county,Madison County,,1,4
+IL,Reported county,Will County,,1,4
+IL,cousubs,Elk Grove township,1703123243,21,1
+IL,cousubs,Addison township,1704300250,8,2
+IL,cousubs,Naperville township,1704351635,7,3
+IL,cousubs,Leyden township,1703143120,5,4
+IL,cousubs,Afton township,1703700386,3,5
+IL,cousubs,Downers Grove township,1704320604,2,6
+IL,cousubs,Barrington township,1703103831,1,7
+IL,cousubs,Bristol township,1709308368,1,7
+IL,cousubs,Champaign City township,1701912411,1,7
+IL,cousubs,Edwardsville township,1711922710,1,7
+IL,cousubs,Jackson township,1719738076,1,7
+IL,cousubs,Lisle township,1704343952,1,7
+IL,cousubs,Vernon township,1709777668,1,7
+IL,cousubs,Wayne township,1704379410,1,7
+IL,place,Elk Grove Village village,1723256,21,1
+IL,place,Chicago city,1714000,9,2
+IL,place,Aurora city,1703012,6,3
+IL,place,Itasca village,1737907,4,4
+IL,place,Northlake city,1753871,4,4
+IL,place,DeKalb city,1719161,3,6
+IL,place,Wood Dale city,1782985,3,6
+IL,place,Champaign city,1712385,1,8
+IL,place,Edwardsville city,1722697,1,8
+IL,place,Franklin Park village,1727702,1,8
+IL,place,Hoffman Estates village,1735411,1,8
+IL,place,Lisle village,1743939,1,8
+IL,place,Naperville city,1751622,1,8
+IL,place,Vernon Hills village,1777694,1,8
+IL,place,West Chicago city,1780060,1,8
+IL,place,Westmont village,1780645,1,8
+FL,Reported county,Miami-Dade County,,4,1
+FL,Reported county,Orange County,,4,1
+FL,Reported county,Hillsborough County,,3,3
+FL,Reported county,Broward County,,2,4
+FL,Reported county,Duval County,,2,4
+FL,Reported county,Alachua County,,1,6
+FL,Reported county,Polk County,,1,6
+FL,place,Eatonville town,1219650,3,1
+FL,place,Jacksonville city,1235000,2,2
+FL,place,Miami city,1245000,2,2
+FL,place,Fort Lauderdale city,1224000,1,4
+FL,place,Gainesville city,1225175,1,4
+FL,place,Sunrise city,1269700,1,4
+FL,place,Tampa city,1271000,1,4
+FL,place,Winter Garden city,1278250,1,4
+FL,statistical place,Brandon CDP,1208150,1,1
+FL,statistical place,Town 'n' Country CDP,1272145,1,1
+PA,Reported county,Venango County,,32,1
+PA,Reported county,Montgomery County,,4,2
+PA,Reported county,Allegheny County,,3,3
+PA,Reported county,Luzerne County,,3,3
+PA,Reported county,Lehigh County,,2,5
+PA,Reported county,Clearfield County,,1,6
+PA,Reported county,Philadelphia County,,1,6
+PA,Reported county,Pike County,,1,6
+PA,cousubs,Scrubgrass township,4212169016,32,1
+PA,cousubs,Salem township,4207967456,3,2
+PA,cousubs,Lower Providence township,4209145080,2,3
+PA,cousubs,Hanover township,4207732400,1,4
+PA,cousubs,Karthaus township,4203338784,1,4
+PA,cousubs,North Fayette township,4200355016,1,4
+PA,cousubs,Palmyra township,4210357728,1,4
+PA,cousubs,Upper Macungie township,4207779104,1,4
+PA,cousubs,Upper Merion township,4209179136,1,4
+PA,cousubs,Upper Providence township,4209179256,1,4
+PA,place,Green Tree borough,4231256,1,1
+PA,place,Philadelphia city,4260000,1,1
+PA,place,Pittsburgh city,4261000,1,1
+PA,statistical place,Audubon CDP,4203544,2,1
+PA,statistical place,Swedeland CDP,4275712,1,2
+WA,Reported county,Grant County,,33,1
+WA,Reported county,King County,,15,2
+WA,Reported county,Douglas County,,11,3
+WA,Reported county,Snohomish County,,4,4
+WA,Reported county,Spokane County,,3,5
+WA,Reported county,Pierce County,,2,6
+WA,Reported county,Thurston County,,1,7
+WA,Reported county,Whatcom County,,1,7
+WA,place,Quincy city,5357115,33,1
+WA,place,Tukwila city,5372625,8,2
+WA,place,Seattle city,5363000,7,3
+WA,place,Lynnwood city,5340840,2,4
+WA,place,Puyallup city,5356695,2,4
+WA,place,Bellingham city,5305280,1,6
+WA,place,Everett city,5322640,1,6
+WA,place,Liberty Lake city,5339335,1,6
+WA,place,Spokane city,5367000,1,6
+WA,place,Yelm city,5380220,1,6
+WA,statistical place,Picnic Point CDP,5354213,1,1
+IN,Reported county,St. Joseph County,,10,1
+IN,Reported county,Bartholomew County,,2,2
+IN,Reported county,Tippecanoe County,,2,2
+IN,Reported county,Hancock County,,1,4
+IN,Reported county,Lake County,,1,4
+IN,Reported county,Monroe County,,1,4
+IN,Reported county,Morgan County,,1,4
+IN,cousubs,Olive township,1814156556,8,1
+IN,cousubs,Columbus township,1800514752,2,2
+IN,cousubs,Harris township,1814131558,2,2
+IN,cousubs,Wabash township,1815779352,2,2
+IN,cousubs,Bloomington township,1810505878,1,5
+IN,cousubs,Monroe township,1810950400,1,5
+IN,cousubs,North township,1808954414,1,5
+IN,cousubs,Sugar Creek township,1805973880,1,5
+IN,place,Columbus city,1814734,2,1
+IN,place,West Lafayette city,1882862,2,1
+IN,place,Bloomington city,1805860,1,3
+IN,place,Hammond city,1831000,1,3
+IN,statistical place,Granger CDP,1828800,2,1
+NJ,Reported county,Hudson County,,14,1
+NJ,Reported county,Somerset County,,13,2
+NJ,Reported county,Middlesex County,,12,3
+NJ,Reported county,Monmouth County,,5,4
+NJ,Reported county,Passaic County,,5,4
+NJ,Reported county,Ocean County,,4,6
+NJ,Reported county,Essex County,,2,7
+NJ,Reported county,Bergen County,,1,8
+NJ,Reported county,Cumberland County,,1,8
+NJ,Reported county,Gloucester County,,1,8
+NJ,Reported county,Union County,,1,8
+NJ,cousubs,Piscataway township,3402359010,10,1
+NJ,cousubs,Franklin township,3403524900,8,2
+NJ,cousubs,Bridgewater township,3403507720,3,3
+NJ,cousubs,Wall township,3402576460,3,3
+NJ,cousubs,Manchester township,3402943140,2,5
+NJ,cousubs,Weehawken township,3401777930,2,5
+NJ,cousubs,Branchburg township,3403507180,1,7
+NJ,cousubs,Cranford township,3403915640,1,7
+NJ,cousubs,Edison township,3402320230,1,7
+NJ,cousubs,Freehold township,3402525230,1,7
+NJ,cousubs,Hillsborough township,3403531890,1,7
+NJ,cousubs,Little Egg Harbor township,3402940560,1,7
+NJ,cousubs,Mahwah township,3400342750,1,7
+NJ,cousubs,North Bergen township,3401752470,1,7
+NJ,cousubs,Nutley township,3401353680,1,7
+NJ,cousubs,West Deptford township,3401578800,1,7
+NJ,place,Secaucus town,3466570,11,1
+NJ,place,Clifton city,3413690,3,2
+NJ,place,Totowa borough,3473140,2,3
+NJ,place,Carteret borough,3410750,1,4
+NJ,place,Manasquan borough,3443050,1,4
+NJ,place,Newark city,3451000,1,4
+NJ,place,Tuckerton borough,3474210,1,4
+NJ,place,Vineland city,3476070,1,4
+NJ,statistical place,Franklin Center CDP,3424965,8,1
+NJ,statistical place,Cedar Glen West CDP,3411155,2,2
+NJ,statistical place,Martinsville CDP,3444430,2,2
+NJ,statistical place,Allenwood CDP,3400790,1,4
+NJ,statistical place,Bradley Gardens CDP,3407000,1,4
+NJ,statistical place,Flagtown CDP,3423610,1,4
+NJ,statistical place,West Freehold CDP,3479100,1,4
+OR,Reported county,Morrow County,,38,1
+OR,Reported county,Washington County,,36,2
+OR,Reported county,Umatilla County,,34,3
+OR,Reported county,Crook County,,11,4
+OR,Reported county,Wasco County,,4,5
+OR,Reported county,Multnomah County,,3,6
+OR,Reported county,Deschutes County,,2,7
+OR,Reported county,Marion County,,2,7
+OR,Reported county,Clackamas County,,1,9
+OR,Reported county,Jackson County,,1,9
+OR,Reported county,Lane County,,1,9
+OR,Reported county,Linn County,,1,9
+OR,place,Hillsboro city,4134100,33,1
+OR,place,Umatilla city,4175650,20,2
+OR,place,Prineville city,4159850,11,3
+OR,place,Hermiston city,4133700,5,4
+OR,place,Boardman city,4107200,4,5
+OR,place,The Dalles city,4172950,4,5
+OR,place,Portland city,4159000,3,7
+OR,place,Beaverton city,4105350,2,8
+OR,place,Bend city,4105800,2,8
+OR,place,Salem city,4164900,2,8
+OR,place,Eugene city,4123850,1,11
+OR,place,Forest Grove city,4126200,1,11
+OR,place,Lyons city,4144300,1,11
+OR,place,Medford city,4147000,1,11
+OR,place,Wilsonville city,4182800,1,11
+NC,Reported county,Durham County,,5,1
+NC,Reported county,Mecklenburg County,,5,1
+NC,Reported county,Rutherford County,,4,3
+NC,Reported county,Wake County,,4,3
+NC,Reported county,Catawba County,,3,5
+NC,Reported county,Caldwell County,,2,6
+NC,Reported county,Buncombe County,,1,7
+NC,Reported county,Cleveland County,,1,7
+NC,Reported county,Union County,,1,7
+NC,place,Charlotte city,3712000,5,1
+NC,place,Durham city,3719000,5,1
+NC,place,Forest City town,3724080,4,3
+NC,place,Maiden town,3740660,3,4
+NC,place,Lenoir city,3737760,2,5
+NC,place,Asheville city,3702140,1,6
+NC,place,Cary town,3710740,1,6
+NC,place,Fairview town,3722500,1,6
+NC,place,Garner town,3725480,1,6
+NC,place,Kings Mountain city,3735880,1,6
+NC,place,Morrisville town,3744520,1,6
+NC,place,Zebulon town,3776220,1,6
+MN,Reported county,Hennepin County,,6,1
+MN,Reported county,Carver County,,4,2
+MN,Reported county,Dakota County,,2,3
+MN,Reported county,Anoka County,,1,4
+MN,Reported county,Goodhue County,,1,4
+MN,Reported county,Olmsted County,,1,4
+MN,Reported county,Ramsey County,,1,4
+MN,Reported county,St. Louis County,,1,4
+MN,cousubs,Pine Island township,2704951154,1,1
+MN,place,Chaska city,2710972,4,1
+MN,place,Minneapolis city,2743000,4,1
+MN,place,Rosemount city,2755726,2,3
+MN,place,Bloomington city,2706616,1,4
+MN,place,Brooklyn Park city,2707966,1,4
+MN,place,Duluth city,2717000,1,4
+MN,place,Lino Lakes city,2737322,1,4
+MN,place,Rochester city,2754880,1,4
+MN,place,St. Paul city,2758000,1,4
+MO,Reported county,Clay County,,7,1
+MO,Reported county,Platte County,,5,2
+MO,Reported county,Jackson County,,3,3
+MO,Reported county,St. Louis city,,3,3
+MO,Reported county,Adair County,,1,5
+MO,Reported county,Boone County,,1,5
+MO,Reported county,Caldwell County,,1,5
+MO,Reported county,St. Charles County,,1,5
+MO,cousubs,Hamilton township,2902530052,1,1
+MO,place,Kansas City city,2938000,15,1
+MO,place,St. Louis city,2965000,3,2
+MO,place,Columbia city,2915670,1,3
+MO,place,Hamilton city,2930034,1,3
+MO,place,Kirksville city,2939026,1,3
+MO,place,O'Fallon city,2954074,1,3
+CO,Reported county,Arapahoe County,,11,1
+CO,Reported county,Douglas County,,6,2
+CO,Reported county,El Paso County,,4,3
+CO,Reported county,Denver County,,3,4
+CO,Reported county,Adams County,,1,5
+CO,Reported county,Broomfield County,,1,5
+CO,Reported county,Jefferson County,,1,5
+CO,place,Centennial city,0812815,7,1
+CO,place,Aurora city,0804000,4,2
+CO,place,Colorado Springs city,0816000,3,3
+CO,place,Denver city,0820000,3,3
+CO,place,Broomfield city,0809280,1,5
+CO,place,Thornton city,0877290,1,5
+CO,place,Westminster city,0883835,1,5
+MI,Reported county,Wayne County,,4,1
+MI,Reported county,Eaton County,,2,2
+MI,Reported county,Oakland County,,2,2
+MI,Reported county,Cass County,,1,4
+MI,Reported county,Genesee County,,1,4
+MI,Reported county,Monroe County,,1,4
+MI,Reported county,Washtenaw County,,1,4
+MI,cousubs,Delta charter township,2604521520,2,1
+MI,cousubs,Bedford township,2611506740,1,2
+MI,cousubs,Flint charter township,2604929020,1,2
+MI,cousubs,Saline township,2616171160,1,2
+MI,cousubs,Van Buren charter township,2616381660,1,2
+MI,place,Detroit city,2622000,2,1
+MI,place,Dowagiac city,2622880,1,2
+MI,place,Royal Oak city,2670040,1,2
+MI,place,Southfield city,2674900,1,2
+MI,place,Southgate city,2674960,1,2
+TN,Reported county,Williamson County,,6,1
+TN,Reported county,Davidson County,,4,2
+TN,Reported county,Montgomery County,,4,2
+TN,Reported county,Sumner County,,3,4
+TN,Reported county,Shelby County,,2,5
+TN,Reported county,Grainger County,,1,6
+TN,Reported county,Hamilton County,,1,6
+TN,Reported county,Henry County,,1,6
+TN,Reported county,Roane County,,1,6
+TN,Reported county,Rutherford County,,1,6
+TN,place,Brentwood city,4708280,3,1
+TN,place,Franklin city,4727740,3,1
+TN,place,Gallatin city,4728540,3,1
+TN,place,Memphis city,4748000,2,4
+TN,place,Chattanooga city,4714000,1,5
+TN,place,Oak Ridge city,4755120,1,5
+TN,place,Smyrna town,4769420,1,5
+TN,statistical place,Nashville-Davidson metropolitan government (balance),4752006,4,1
+NV,Reported county,Clark County,,23,1
+NV,Reported county,Washoe County,,11,2
+NV,Reported county,Storey County,,5,3
+NV,place,Henderson city,3231900,2,1
+NV,place,Las Vegas city,3240000,2,1
+NV,place,North Las Vegas city,3251800,2,1
+NV,statistical place,Enterprise CDP,3223770,11,1
+NV,statistical place,Sunrise Manor CDP,3271400,4,2
+NV,statistical place,Paradise CDP,3254600,2,3
+UT,Reported county,Salt Lake County,,13,1
+UT,Reported county,Utah County,,6,2
+UT,Reported county,Washington County,,2,3
+UT,Reported county,Uintah County,,1,4
+UT,place,Bluffdale city,4906810,5,1
+UT,place,Eagle Mountain city,4920810,5,1
+UT,place,Salt Lake City city,4967000,2,3
+UT,place,South Jordan city,4970850,2,3
+UT,place,St. George city,4965330,2,3
+UT,place,Draper city,4920120,1,6
+UT,place,Lindon city,4945090,1,6
+UT,place,Millcreek city,4950150,1,6
+UT,place,Sandy city,4967440,1,6
+UT,place,Vernal city,4980090,1,6
+UT,place,West Jordan city,4982950,1,6
+IA,Reported county,Polk County,,24,1
+IA,Reported county,Pottawattamie County,,20,2
+IA,Reported county,Dallas County,,9,3
+IA,Reported county,Warren County,,5,4
+IA,Reported county,Johnson County,,1,5
+IA,Reported county,Scott County,,1,5
+IA,place,West Des Moines city,1983910,25,1
+IA,place,Council Bluffs city,1916860,20,2
+IA,place,Altoona city,1901630,9,3
+IA,place,Pleasant Hill city,1963525,2,4
+IA,place,Bettendorf city,1906355,1,5
+IA,place,Coralville city,1916230,1,5
+IA,place,Des Moines city,1921000,1,5
+IA,place,Waukee city,1982695,1,5
+MD,Reported county,Baltimore city,,6,1
+MD,Reported county,Anne Arundel County,,2,2
+MD,Reported county,Baltimore County,,1,3
+MD,Reported county,Frederick County,,1,3
+MD,Reported county,Howard County,,1,3
+MD,Reported county,Montgomery County,,1,3
+MD,Reported county,Prince George's County,,1,3
+MD,place,Baltimore city,2404000,6,1
+MD,statistical place,Ballenger Creek CDP,2403800,1,1
+MD,statistical place,Calverton CDP,2412350,1,1
+MD,statistical place,Glen Burnie CDP,2432650,1,1
+MD,statistical place,Konterra CDP,2444715,1,1
+MD,statistical place,North Laurel CDP,2456725,1,1
+OK,Reported county,Tulsa County,,8,1
+OK,Reported county,Bryan County,,1,2
+OK,Reported county,Muskogee County,,1,2
+OK,Reported county,Oklahoma County,,1,2
+OK,place,Tulsa city,4075000,7,1
+OK,place,Durant city,4022050,1,2
+OK,place,Oklahoma City city,4055000,1,2
+MA,Reported county,Middlesex County,,2,1
+MA,Reported county,Essex County,,1,2
+MA,cousubs,Andover town,2500901465,1,1
+MA,place,Lowell city,2537000,1,1
+MA,place,Somerville city,2562535,1,1
+WI,Reported county,Racine County,,4,1
+WI,Reported county,Milwaukee County,,3,2
+WI,Reported county,Dane County,,2,3
+WI,Reported county,Calumet County,,1,4
+WI,Reported county,Columbia County,,1,4
+WI,Reported county,Dodge County,,1,4
+WI,Reported county,Dunn County,,1,4
+WI,Reported county,Marquette County,,1,4
+WI,Reported county,Waukesha County,,1,4
+WI,cousubs,Newport town,5502157025,1,1
+WI,cousubs,Trenton town,5502780525,1,1
+WI,place,Mount Pleasant village,5554875,4,1
+WI,place,Madison city,5548000,2,2
+WI,place,Franklin city,5527300,1,3
+WI,place,Harrison village,5532790,1,3
+WI,place,Menomonie city,5551025,1,3
+WI,place,Milwaukee city,5553000,1,3
+WI,place,Oxford village,5560875,1,3
+WI,place,Pewaukee city,5562240,1,3
+WI,place,West Milwaukee village,5585875,1,3
+NE,Reported county,Sarpy County,,12,1
+NE,Reported county,Douglas County,,11,2
+NE,Reported county,Buffalo County,,1,3
+NE,Reported county,Lancaster County,,1,3
+NE,place,Papillion city,3138295,9,1
+NE,place,Omaha city,3137000,7,2
+NE,place,Springfield city,3146520,2,3
+NE,place,La Vista city,3126385,1,4
+NE,place,Lincoln city,3128000,1,4
+KY,Reported county,Jefferson County,,2,1
+KY,Reported county,Boone County,,1,2
+KY,Reported county,Floyd County,,1,2
+KY,Reported county,Hopkins County,,1,2
+KY,Reported county,McCracken County,,1,2
+KY,place,Florence city,2127982,1,1
+KY,place,Madisonville city,2149368,1,1
+KY,place,Paducah city,2158836,1,1
+KY,statistical place,Louisville city,2148000,1,1
+KY,statistical place,Louisville/Jefferson County metro government (balance),2148006,1,1
+WY,Reported county,Laramie County,,24,1
+WY,Reported county,Campbell County,,1,2
+WY,place,Cheyenne city,5613900,7,1
+WY,place,Pine Bluffs town,5661435,1,2
+ND,Reported county,Dickey County,,10,1
+ND,Reported county,Cass County,,2,2
+ND,Reported county,Williams County,,1,3
+ND,cousubs,Ellendale township,3802123260,10,1
+ND,cousubs,Judson township,3810541260,1,2
+ND,place,Fargo city,3825700,1,1
+ND,place,Harwood city,3835940,1,1
+KS,Reported county,Johnson County,,5,1
+KS,Reported county,Barber County,,1,2
+KS,Reported county,Ellis County,,1,2
+KS,cousubs,Medicine Lodge township,2000745525,1,1
+KS,place,Lenexa city,2039350,3,1
+KS,place,Olathe city,2052575,2,2
+KS,place,Hays city,2031100,1,3
+KS,place,Medicine Lodge city,2045500,1,3
+MS,Reported county,Madison County,,9,1
+MS,Reported county,DeSoto County,,2,2
+MS,place,Ridgeland city,2862520,4,1
+MS,place,Southaven city,2869280,2,2
+SC,Reported county,Berkeley County,,9,1
+SC,Reported county,Spartanburg County,,2,2
+SC,Reported county,Aiken County,,1,3
+SC,Reported county,Charleston County,,1,3
+SC,Reported county,Greenville County,,1,3
+SC,Reported county,Horry County,,1,3
+SC,Reported county,Richland County,,1,3
+SC,place,Columbia city,4516000,1,1
+SC,place,Greenville city,4530850,1,1
+SC,place,Myrtle Beach city,4549075,1,1
+SC,place,North Charleston city,4550875,1,1
+AL,Reported county,Madison County,,7,1
+AL,Reported county,Jackson County,,2,2
+AL,Reported county,Jefferson County,,2,2
+AL,Reported county,Houston County,,1,4
+AL,Reported county,Montgomery County,,1,4
+AL,place,Huntsville city,0137000,7,1
+AL,place,Birmingham city,0107000,2,2
+AL,place,Dothan city,0121184,1,3
+CT,Reported county,Western Connecticut Planning Region,,2,1
+CT,Reported county,Capitol Planning Region,,1,2
+CT,Reported county,Greater Bridgeport Planning Region,,1,2
+CT,Reported county,South Central Connecticut Planning Region,,1,2
+CT,cousubs,Glastonbury town,0911031240,1,1
+CT,cousubs,Norwalk town,0919056060,1,1
+CT,cousubs,Stamford town,0919073070,1,1
+CT,cousubs,Trumbull town,0912077200,1,1
+CT,cousubs,Wallingford town,0917078740,1,1
+CT,place,Norwalk city,0955990,1,1
+CT,place,Stamford city,0973000,1,1
+CT,statistical place,Glastonbury Center CDP,0931270,1,1
+LA,Reported county,East Baton Rouge Parish,,3,1
+LA,Reported county,Caddo Parish,,1,2
+LA,Reported county,Richland Parish,,1,2
+LA,place,Baton Rouge city,2205000,3,1
+LA,place,Shreveport city,2270000,1,2
+NM,Reported county,Bernalillo County,,9,1
+NM,Reported county,Valencia County,,5,2
+NM,Reported county,Doña Ana County,,3,3
+NM,Reported county,Santa Fe County,,1,4
+NM,place,Albuquerque city,3502000,7,1
+NM,place,Los Lunas village,3543370,5,2
+NM,place,Las Cruces city,3539380,1,3
+NM,place,Santa Fe city,3570500,1,3
+NM,statistical place,Kirtland AFB CDP,3536300,2,1
+NM,statistical place,White Sands CDP,3584845,1,2
+WV,Reported county,Kanawha County,,1,1
+WV,Reported county,Morgan County,,1,1
+WV,place,Bath (Berkeley Springs) town,5404876,1,1
+WV,place,South Charleston city,5475292,1,1
+NH,Reported county,Rockingham County,,2,1
+NH,Reported county,Strafford County,,1,2
+NH,cousubs,Durham town,3301719700,1,1
+NH,cousubs,Exeter town,3301525380,1,1
+NH,place,Portsmouth city,3362900,1,1
+NH,statistical place,Exeter CDP,3325300,1,1
+AR,Reported county,Pulaski County,,1,1
+AR,Reported county,White County,,1,1
+AR,place,Little Rock city,0541000,1,1
+AR,place,Searcy city,0563020,1,1
+ID,Reported county,Ada County,,2,1
+ID,Reported county,Bear Lake County,,1,2
+ID,Reported county,Madison County,,1,2
+ID,place,Kuna city,1644290,2,1
+ID,place,Montpelier city,1653920,1,2
+ID,place,Rexburg city,1667420,1,2
+MT,Reported county,Custer County,,1,1
+MT,Reported county,Granite County,,1,1
+MT,Reported county,Yellowstone County,,1,1
+MT,place,Billings city,3006550,1,1
+MT,place,Philipsburg town,3057175,1,1
+SD,Reported county,Minnehaha County,,2,1
+SD,cousubs,Benton township,4609904860,1,1
+SD,place,Sioux Falls city,4659020,1,1
+ME,Reported county,Cumberland County,,2,1
+ME,Reported county,Aroostook County,,1,2
+ME,cousubs,Brunswick town,2300508430,1,1
+ME,cousubs,Limestone town,2300339300,1,1
+ME,place,Portland city,2360545,1,1
+ME,statistical place,Brunswick CDP,2308395,1,1
+DC,Reported county,District of Columbia,,1,1
+DC,statistical place,Washington city,1150000,1,1
+PR,Reported county,Guaynabo Municipio,,1,1
+PR,Reported county,San Juan Municipio,,1,1
+PR,statistical place,Guaynabo zona urbana,7232522,1,1
+PR,statistical place,San Juan zona urbana,7276770,1,1
+VT,Reported county,Windham County,,1,1
+VT,cousubs,Putney town,5002557700,1,1

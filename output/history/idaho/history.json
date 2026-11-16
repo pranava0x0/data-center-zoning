@@ -1,0 +1,116 @@
+[
+  {
+    "id": "id-amend-base",
+    "dataset": "City of Kuna planning and zoning cases",
+    "jurisdiction": "Kuna",
+    "record_no": "22-04 DR MOD",
+    "project": "Brisbie LLC — Kuna Data Center",
+    "kind": "Campus site plan",
+    "status": "Prior approval reported",
+    "date": null,
+    "date_role": "date unavailable",
+    "locator": "PDF page 51",
+    "state": "ID",
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3936#page=51",
+    "source_url": "https://kunacity.id.gov/Archive/ViewFile/Item/3936",
+    "details": {
+      "source_sha256": "40e2d01fce353e54af6360405e2fef0998052d8c662b149662fa30f74565efb0",
+      "evidence": "previously approved (22-04 DR MOD) project site of 242.7 acres"
+    }
+  },
+  {
+    "id": "id-amend-decision",
+    "dataset": "City of Kuna planning and zoning cases",
+    "jurisdiction": "Kuna",
+    "record_no": "25-24-DR",
+    "project": "Brisbie LLC — Kuna Data Center — northern campus addition",
+    "kind": "Consent approval of reasoned design decision",
+    "status": "Approved on consent",
+    "date": "2025-08-12",
+    "date_role": "commission vote on decision and reasoned statement",
+    "locator": "PDF page 4",
+    "state": "ID",
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3950#page=4",
+    "source_url": "https://kunacity.id.gov/Archive/ViewFile/Item/3950",
+    "details": {
+      "source_sha256": "553c75d96816d845753cfed8b8c5c6c435296c3a886372e3c80018644af81baa",
+      "evidence": "Motion To: Approve The Consent Agenda"
+    }
+  },
+  {
+    "id": "id-amend-request",
+    "dataset": "City of Kuna planning and zoning cases",
+    "jurisdiction": "Kuna",
+    "record_no": "25-24-DR",
+    "project": "Brisbie LLC — Kuna Data Center — northern campus addition",
+    "kind": "Site plan amendment / design review",
+    "status": "Design review requested",
+    "date": "2025-06-26",
+    "date_role": "applicant narrative date",
+    "locator": "PDF page 51",
+    "state": "ID",
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3936#page=51",
+    "source_url": "https://kunacity.id.gov/Archive/ViewFile/Item/3936",
+    "details": {
+      "source_sha256": "40e2d01fce353e54af6360405e2fef0998052d8c662b149662fa30f74565efb0",
+      "evidence": "This site plan amendment would add the 40-acre site to the north"
+    }
+  },
+  {
+    "id": "id-brisbie-mod-notice",
+    "dataset": "Idaho DEQ issued air permits and notices",
+    "jurisdiction": "Idaho",
+    "record_no": "P-2022.0030 / project 63191",
+    "project": "Brisbie LLC — Kuna Data Center",
+    "kind": "Air permit modification notice",
+    "status": "Comment opportunity announced",
+    "date": "2023-10-11",
+    "date_role": "notice date",
+    "locator": "PDF page 1",
+    "state": "ID",
+    "url": "https://www2.deq.idaho.gov/admin/LEIA/api/document/download/21478#page=1",
+    "source_url": "https://www2.deq.idaho.gov/admin/LEIA/api/document/download/21478",
+    "details": {
+      "source_sha256": "9736ab9c56ef783529f4d86a062f866dedfc715c0cd9457a8af0749067813084",
+      "evidence": "DATED this 11th day of October 2023"
+    }
+  },
+  {
+    "id": "id-brisbie-ptc",
+    "dataset": "Idaho DEQ issued air permits and notices",
+    "jurisdiction": "Idaho",
+    "record_no": "P-2022.0030",
+    "project": "Brisbie LLC — Kuna Data Center",
+    "kind": "Air permit to construct",
+    "status": "Issued",
+    "date": "2024-07-02",
+    "date_role": "permit issue date",
+    "locator": "Issued register, Brisbie LLC, Kuna row",
+    "state": "ID",
+    "url": "https://www.deq.idaho.gov/permits/issued-permits-and-water-quality-certifications/",
+    "source_url": "https://www.deq.idaho.gov/permits/issued-permits-and-water-quality-certifications/",
+    "details": {
+      "source_sha256": "45ee172fe2ebbb1eee4efad96a9053e485e2ff5ff97468a8566ba4da5a8b0e9e",
+      "evidence": "Brisbie, LLC, Kuna, Idaho P-2022.0030 Air - PTC 2024 July 02"
+    }
+  },
+  {
+    "id": "id-tower",
+    "dataset": "City of Kuna planning and zoning cases",
+    "jurisdiction": "Kuna",
+    "record_no": "23-11-SUP",
+    "project": "Brisbie LLC — Kuna Data Center — communication towers",
+    "kind": "Special use permit for support towers",
+    "status": "Staff report",
+    "date": "2023-08-08",
+    "date_role": "meeting date",
+    "locator": "PDF page 49",
+    "state": "ID",
+    "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3372#page=49",
+    "source_url": "https://kunacity.id.gov/Archive/ViewFile/Item/3372",
+    "details": {
+      "source_sha256": "f57811724e49db6ab4ede93c44ad202c2aa4f0b29930863c37804194d608c469",
+      "evidence": "23-11-SUP STAFF REPORT FOR SPECIAL USE PERMIT APPLICATION"
+    }
+  }
+]

@@ -1,0 +1,623 @@
+{
+  "snapshot_utc": "2026-11-16T05:26:15+00:00",
+  "atlas": {
+    "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+    "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+    "ext": "json",
+    "bytes": 497573
+  },
+  "place_ids": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2713%27&returnIdsOnly=true",
+    "sha256": "b22d2fc5a487218a8c70ecb94e45660ee2648e67f0ca3e5fa0ea3d0dbeccdaa8",
+    "ext": "json",
+    "bytes": 3205
+  },
+  "places": {
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2713%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+    "sha256": "474d3faa0db64f97029d6a956485b4857992971e7de44e27d989a67d66f5b0be",
+    "ext": "json",
+    "bytes": 3900336
+  },
+  "air_queries": {
+    "Data Center": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Data+Center",
+      "sha256": "07fc16f3736ef458b28bf251e7f705945448dd19a02176b2a000014cb84d2df3",
+      "ext": "html",
+      "bytes": 551621
+    },
+    "Datacenter": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Datacenter",
+      "sha256": "3023dbec5ff0e85a7ce51b9dbfd396751b1b1146f569bc94cafe01ed6508e968",
+      "ext": "html",
+      "bytes": 534957
+    },
+    "Google": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Google",
+      "sha256": "b20badef5f1f535e7e3d4e91fdc03b260c67cc6822177ccff9917b96e4c855bb",
+      "ext": "html",
+      "bytes": 545010
+    },
+    "QTS": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=QTS",
+      "sha256": "f1b60d37a40b51b909fd263b59676961d10060ad600ab3bd8c11651ea346ad73",
+      "ext": "html",
+      "bytes": 539317
+    },
+    "Microsoft": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Microsoft",
+      "sha256": "dce1b06b5fe87a029eda654d4ad6ee1f8cfface41445dbdd9f084e81b51f2f78",
+      "ext": "html",
+      "bytes": 543672
+    },
+    "Digital Realty": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Digital+Realty",
+      "sha256": "d2bcaada08d4f96c34d1cce7360cc72c8e6fe7c27cff72181d5e8e3654a6333b",
+      "ext": "html",
+      "bytes": 534961
+    },
+    "Vantage": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Vantage",
+      "sha256": "9fbd7acdf53f2e4e6c638713fc8bcaea1473fc902642c9997b9a4e52a4d53005",
+      "ext": "html",
+      "bytes": 543236
+    },
+    "Equinix": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Equinix",
+      "sha256": "3b9d4771784ffbd655e9ae1f65266aa19d815725c62785ffd42a0b931ef64fa0",
+      "ext": "html",
+      "bytes": 538461
+    },
+    "Stack Infrastructure": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Stack+Infrastructure",
+      "sha256": "2a3a3b0b3580005c5b3c7f0f444726aa60eccf90e05c39a729b6f2c1852e3be0",
+      "ext": "html",
+      "bytes": 534972
+    },
+    "Flexential": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Flexential",
+      "sha256": "fe2dc73130ad18d33e538d803f30c8ecc04778337fc4afac3452c5b6c2c65521",
+      "ext": "html",
+      "bytes": 538492
+    },
+    "Switch": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Switch",
+      "sha256": "ed563f8e9b89eb4c5ead7075b5dd3a5fda176c8ace43ccaf31de4c9bf41f9c4b",
+      "ext": "html",
+      "bytes": 538460
+    },
+    "CoreSite": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=CoreSite",
+      "sha256": "27004976de20cafb2ec64f06da35f5ca48b5e4331368dc7829bea5bd01167b66",
+      "ext": "html",
+      "bytes": 534955
+    },
+    "Quality Technology Services": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Quality+Technology+Services",
+      "sha256": "6c7b708c10dae0918c6b31efc89679a21f7154dac483800ebea4cd2907c01c67",
+      "ext": "html",
+      "bytes": 534974
+    },
+    "Amazon Data": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Amazon+Data",
+      "sha256": "f986f83239533c72b7c90254b36d7645e159dde06b7f47bf61dd2f0613c15a26",
+      "ext": "html",
+      "bytes": 539392
+    },
+    "DC BLOX": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=DC+BLOX",
+      "sha256": "3aecfafe6e9d503fcd3e08551401f23a1b9552f8b138e343ee7dba9ac5b7f3fe",
+      "ext": "html",
+      "bytes": 534954
+    },
+    "Meta Platforms": {
+      "url": "https://air.gaepd.org/Permits/Search?Name=Meta+Platforms",
+      "sha256": "f60fd9a39c37d41331e053ae0042b8a55cfc7fb247dafe5becc2bf32fde8fe94",
+      "ext": "html",
+      "bytes": 534961
+    },
+    "SIC 7374": [
+      {
+        "url": "https://air.gaepd.org/Permits/Search?Permit=7374",
+        "sha256": "827d5b005607c4d9d71b5f5803cab2b256586fbfbbacb77800bd0fff9e7aecca",
+        "ext": "html",
+        "bytes": 559915
+      },
+      {
+        "url": "https://air.gaepd.org/Permits/Search?Sort=Name&Permit=7374&p=2",
+        "sha256": "c2be43bb47c906f925f4e7e51a4ce51f545831d041074d6381682165618182a6",
+        "ext": "html",
+        "bytes": 558195
+      }
+    ]
+  },
+  "arc_queries": {
+    "data center": [
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?fulltext.search.query=data+center",
+        "sha256": "5612cef8fc76844756d1838359e5225b291ddf4d28068d84a1471371b6bff986",
+        "ext": "html",
+        "bytes": 13480
+      },
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?revChunk=2&fulltext.search.query=data+center",
+        "sha256": "096798bf1277bc0ead4137240cc4a4aad7ddf65f0ea3efebf1cbdcc6874942df",
+        "ext": "html",
+        "bytes": 15494
+      },
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?revChunk=3&fulltext.search.query=data+center",
+        "sha256": "ef416f30d2ca91d622229ac057997ccedc54d9d66ef47dce94b4bae6c6bee95e",
+        "ext": "html",
+        "bytes": 15343
+      },
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?revChunk=4&fulltext.search.query=data+center",
+        "sha256": "29de6a5db8b1c59c2b8dd9bd0259c8fd436163f9e9eb9be444e28c0a9e82260b",
+        "ext": "html",
+        "bytes": 5078
+      }
+    ],
+    "datacenter": [
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?fulltext.search.query=datacenter",
+        "sha256": "8ae992b357e3fbcae55e48864029d06a9b1caa47af0bcd738bdb1345baa8f637",
+        "ext": "html",
+        "bytes": 2421
+      }
+    ],
+    "data centre": [
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?fulltext.search.query=data+centre",
+        "sha256": "f3293d6b2097b13cfcb623c0ba2ebd58009898368127bc5fd651116b9b163934",
+        "ext": "html",
+        "bytes": 2422
+      }
+    ],
+    "server farm": [
+      {
+        "url": "https://planreviews.atlantaregional.com/planreviewsresult.aspx?fulltext.search.query=server+farm",
+        "sha256": "a3a89447007094a45b132f8b51f82371770725e06c3bbb3f859cc26fd1dddb3a",
+        "ext": "html",
+        "bytes": 2422
+      }
+    ]
+  },
+  "local_docs": {
+    "douglas20241001": {
+      "url": "https://douglascountyga.gov/DocumentCenter/View/11134/DRAFT-10-1-2024-Zoning-Agenda",
+      "sha256": "a61a1e32a7f8218091f0c055dbc43d7abb7520d7125756ea6c532e906a210411",
+      "ext": "pdf",
+      "bytes": 101020
+    },
+    "douglas20250204": {
+      "url": "https://douglascountyga.gov/DocumentCenter/View/11648/2-4-2025-Zoning-Agenda_revised_?bidId=",
+      "sha256": "c24547927774670aac006465e4390337501fbafcfb14ede968c21125382f774e",
+      "ext": "pdf",
+      "bytes": 86438
+    },
+    "douglas20260203": {
+      "url": "https://douglascountyga.gov/DocumentCenter/View/13708/DRAFT-2-3-2026-Zoning-Agenda?bidId=",
+      "sha256": "7fc425800a484f04e5503bcc70b395952d7c2c10d713eba84647cdb42e050300",
+      "ext": "pdf",
+      "bytes": 81022
+    },
+    "douglas20240206": {
+      "url": "https://www.douglascountyga.gov/DocumentCenter/View/10322/2-6-2024-Zoning-Agenda-003?bidId=",
+      "sha256": "e8a63f5626d6bf956fc415130f0d183f92a2ccb6c1df4960031b7c5926a6932d",
+      "ext": "pdf",
+      "bytes": 78089
+    }
+  },
+  "air_docs": {
+    "097-00061": {
+      "url": "https://air.gaepd.org/Permits/View/ON-27135",
+      "sha256": "35a97ef78787ca1b7b174328fcd00a8d8ee74217d34480842b513afbb51139cc",
+      "ext": "pdf",
+      "bytes": 181239
+    },
+    "097-00093": {
+      "url": "https://air.gaepd.org/Permits/View/ON-27709",
+      "sha256": "7aee5309d666bfe208fbe1658bea4eb23a84746552bea4dea2fa14608c202e09",
+      "ext": "pdf",
+      "bytes": 240667
+    },
+    "097-00097": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29541",
+      "sha256": "c0457c0465fefb7b1d698a3d31727265ea54c7022318fdc8bd822dbb693a2fc0",
+      "ext": "pdf",
+      "bytes": 357904
+    },
+    "097-00098": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29094",
+      "sha256": "0acd4d0791aaca174c9c3a693e6f0c04ff4055bdffe2075bfee10a04fe15dc07",
+      "ext": "pdf",
+      "bytes": 459764
+    },
+    "097-00100": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29851",
+      "sha256": "c7e10457ec05c5be1eb69528c8ee2e23b5d5c8dbf58a9c45e4bdd960f0bdb872",
+      "ext": "pdf",
+      "bytes": 230659
+    },
+    "097-00101": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29644",
+      "sha256": "c26260cd09278ec6bd5cc81bb59e9a78977cb416f5e94c5744d19e644ad8a5d5",
+      "ext": "pdf",
+      "bytes": 384671
+    },
+    "097-00102": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29723",
+      "sha256": "1bd839ad32c71159f008e34af12511ca68cde9d1a87546e34f8cd4e0a051f271",
+      "ext": "pdf",
+      "bytes": 1145244
+    },
+    "097-00103": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29802",
+      "sha256": "277a7b7ebc6d35390736c70172f8b0c960e1dd59ad543492d4ecec51855314af",
+      "ext": "pdf",
+      "bytes": 252967
+    },
+    "113-00073": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29366",
+      "sha256": "918e800f6fe1ee50d0b2c0623acf44d76ff1c0ba3978acaaf101cc328f24a178",
+      "ext": "pdf",
+      "bytes": 299519
+    },
+    "117-00093": {
+      "url": "https://air.gaepd.org/Permits/View/ON-28844",
+      "sha256": "75db9250c91ad518ad2acdae1923d11af5b6cc03e097ff0272ffa09098430579",
+      "ext": "pdf",
+      "bytes": 214521
+    },
+    "121-00539": {
+      "url": "https://air.gaepd.org/Permits/View/OP-16133",
+      "sha256": "1d4f72ce6aec48bbdf1ffa27e037c59b5a4559b255581a5009917970e54f5498",
+      "ext": "pdf",
+      "bytes": 595543
+    },
+    "121-00798": {
+      "url": "https://air.gaepd.org/Permits/View/ON-24106",
+      "sha256": "450871e0c7c3a07ab74695bcc73c701791dc1f1078e2f16ddf0415dfe8b663e1",
+      "ext": "pdf",
+      "bytes": 155338
+    },
+    "121-00838": {
+      "url": "https://air.gaepd.org/Permits/View/ON-20534",
+      "sha256": "7249bc292f5a4c7fc2275050b2ab81c5ae6f44d8fc24bee0693a94452838d0df",
+      "ext": "pdf",
+      "bytes": 164041
+    },
+    "121-00846": {
+      "url": "https://air.gaepd.org/Permits/View/ON-30219",
+      "sha256": "42b28095e7b22685b2861c3c1a89d8608ef91df113985ef92747947ec24b8708",
+      "ext": "pdf",
+      "bytes": 170298
+    },
+    "121-00868": {
+      "url": "https://air.gaepd.org/Permits/View/ON-19741",
+      "sha256": "a6ccfa4e486f200c3e8dd5759e94e671cc51417757576e8413ac714d27a1679b",
+      "ext": "pdf",
+      "bytes": 285211
+    },
+    "121-00929": {
+      "url": "https://air.gaepd.org/Permits/View/ON-22727",
+      "sha256": "352a4ac60e4640be3836e7ab8284552cbcc952cc647a70847843e424a3efe418",
+      "ext": "pdf",
+      "bytes": 242729
+    },
+    "121-00931": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29408",
+      "sha256": "8e21dab5b31d87f7b82c2d0184c3bef70268ccf1501c7d1c258410decf8d3250",
+      "ext": "pdf",
+      "bytes": 239748
+    },
+    "121-00941": {
+      "url": "https://air.gaepd.org/Permits/View/ON-26442",
+      "sha256": "10aa04aa21ac330bddfb89bd0177608e81d3f779d79282856869165ade67044e",
+      "ext": "pdf",
+      "bytes": 165429
+    },
+    "121-00968": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29582",
+      "sha256": "530961969daba638594110513f997d423baff515ea93d4e78200a5ff15c6b86b",
+      "ext": "pdf",
+      "bytes": 1330910
+    },
+    "121-00969": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29402",
+      "sha256": "f690db96f332cae902df74030e92875a46156c828407504fee279d0067800401",
+      "ext": "pdf",
+      "bytes": 394377
+    },
+    "121-00972": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29728",
+      "sha256": "98ce8f919a9d210cb0bbb45c6c9e6bd1fbf86a5445f01bcfd9a1e1f487eb5a7f",
+      "ext": "pdf",
+      "bytes": 293664
+    },
+    "121-00973": {
+      "url": "https://air.gaepd.org/Permits/View/ON-28975",
+      "sha256": "64706341e3c7820f80a50b05fd8852f40c5063762ace6190a73f5aaa026e8d9c",
+      "ext": "pdf",
+      "bytes": 236427
+    },
+    "121-00977": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29820",
+      "sha256": "d0e788a42f56bf87e127b13f388e4ad48fb2f7d0430cbe24be18fdff28152779",
+      "ext": "pdf",
+      "bytes": 336027
+    },
+    "121-00981": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29392",
+      "sha256": "7cc72dc6f77c178749a400b9642d7d50bcdf06859b92816fce413b176e65b5d1",
+      "ext": "pdf",
+      "bytes": 351624
+    },
+    "121-00982": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29506",
+      "sha256": "bb67074561181a6d9f1bd183903062ec28b0a6bbcb2daab43a009ab1ad9ef004",
+      "ext": "pdf",
+      "bytes": 351446
+    },
+    "121-00984": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29558",
+      "sha256": "6af2394f639fe9900e3475776959c9bcf0e5ad96b4f2d6a16508a557be24e68f",
+      "ext": "pdf",
+      "bytes": 2413865
+    },
+    "135-00223": {
+      "url": "https://air.gaepd.org/Permits/View/OP-15334",
+      "sha256": "d4ab712282d7ffadacc274927505e2e5ca99d9f24e8ab53af60934b0841d75ef",
+      "ext": "pdf",
+      "bytes": 534767
+    },
+    "135-00263": {
+      "url": "https://air.gaepd.org/Permits/View/ON-26024",
+      "sha256": "2cc7a6b05864044c45b59388cd84dd8dd15f0a0fe25579b0da98135baee30fe7",
+      "ext": "pdf",
+      "bytes": 127638
+    },
+    "151-00068": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29899",
+      "sha256": "789f9dfe76c49379b70a888be9d10fae28bc7a42037d2cdd8395b13805e9b404",
+      "ext": "pdf",
+      "bytes": 284974
+    },
+    "157-00077": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29627",
+      "sha256": "7b6caf7f7c72a2d0bb3e248278e3663141f4c35807cf290fcc4da00e464a1790",
+      "ext": "pdf",
+      "bytes": 343934
+    },
+    "217-00072": {
+      "url": "https://air.gaepd.org/Permits/View/ON-28974",
+      "sha256": "c85eeb2f814d0ea4d3a5064273fce278d313c686b83d9657d7774f86ece6bba2",
+      "ext": "pdf",
+      "bytes": 332881
+    },
+    "217-00078": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29883",
+      "sha256": "e362d1232290bd2f50f36eb748c7bd0023ec313e55dcf51ff7df18f509b054ba",
+      "ext": "pdf",
+      "bytes": 226784
+    },
+    "217-00079": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29898",
+      "sha256": "2be6bc3ad01a254c0385d599f242f25b20a47e46795b9b11ba19e604dc0667c1",
+      "ext": "pdf",
+      "bytes": 254544
+    },
+    "247-00025": {
+      "url": "https://air.gaepd.org/Permits/View/VN-9353",
+      "sha256": "1f1d2b09a66bf7ae054b558202a61fcdf53b136899ea26f6f79eb8cb6edf8698",
+      "ext": "pdf",
+      "bytes": 75707
+    },
+    "247-00076": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29442",
+      "sha256": "de16e742dfdbb85ea7fc4acd73a2f30345040b964c904324e95a3d660be9b3a0",
+      "ext": "pdf",
+      "bytes": 286741
+    },
+    "285-00109": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29849",
+      "sha256": "4b9da3442d9aaa0e81eb0fbb3d927a86d4ac0435264bdcc29c4e436b6a08dda0",
+      "ext": "pdf",
+      "bytes": 365859
+    },
+    "313-00171": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29946",
+      "sha256": "2e6bb417b8c2ed7e5bcc8371ec88d525f01a8dbbbfaa321aa9cf2f235aa40881",
+      "ext": "pdf",
+      "bytes": 221215
+    },
+    "313-00172": {
+      "url": "https://air.gaepd.org/Permits/View/ON-29951",
+      "sha256": "7c5aad4b02160f98e9bf3ec28e43ae60ff53ef86c0bbcb5b5b1b206e4754bd3a",
+      "ext": "pdf",
+      "bytes": 238307
+    }
+  },
+  "arc_docs": {
+    "1778": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID971/Final%20Report.pdf",
+      "sha256": "c066a252163cb95201ee9237649d999408b34ab4b85c63e78411b9c2ba50b7b5",
+      "ext": "pdf",
+      "bytes": 2840264
+    },
+    "2569": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID1686/Final%20Report%20-%20Georgia%20Tech%20HPCC%20(DRI%202569).pdf",
+      "sha256": "1f25b1f17c35acc5630d1b5a9e83bc42c1d9473a421c33277c8c229535dfeb5c",
+      "ext": "pdf",
+      "bytes": 1146487
+    },
+    "3426": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID3152/ARC%20Final%20Report%20-%20FTY01%203426.pdf",
+      "sha256": "9e57a77b96dc1e722ed9cf0db0f72a92dc6910b58b12dc6adf46609a4972c4eb",
+      "ext": "pdf",
+      "bytes": 4124646
+    },
+    "3576": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID4187/2022%20Microsoft%20Data%20Center%20Palmetto%20DRI%203576%20-%20Final%20Report.pdf",
+      "sha256": "3d36c46e9171756f382bbabdc5e01d120a705603f4ad2bd64e8fd3901e38241a",
+      "ext": "pdf",
+      "bytes": 5227553
+    },
+    "3747": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID4233/2022%20T5%20-%20ATL%20III%20Data%20Center%20DRI%203747%20-%20Final%20Report.pdf",
+      "sha256": "415971d9483ec9685bddd7887568c1519540f21881c37f019a6f9734eb5aba59",
+      "ext": "pdf",
+      "bytes": 3704313
+    },
+    "3813": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5283/2022%20Project%20Excalibur%20DRI%203813%20-%20Final%20Report.pdf",
+      "sha256": "d819d919b5175fee6151cdb53eac06a9e58a2d517e6c4b758601bcc8845ad3d8",
+      "ext": "pdf",
+      "bytes": 15595192
+    },
+    "4051": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5353/2023%20Vantage%20Data%20Center%20DRI%204051%20-%20Final%20Report.pdf",
+      "sha256": "29b36af4f184e4902a19850421310fd89d830a4543aad7f50eaf5fdb6d3e325a",
+      "ext": "pdf",
+      "bytes": 9367144
+    },
+    "4078": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5383/2023%20Rock%20House%20Road%20Data%20Center%20Site%20DRI%204078%20-%20Final%20Report.pdf",
+      "sha256": "2765af096cdd99e784533fc2c99fbbf685b60a090eadf309d65d5259c1db9aad",
+      "ext": "pdf",
+      "bytes": 8779085
+    },
+    "4087": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5376/2023%20Lithia%20Springs%20Data%20Center%20DRI%204087%20-%20Final%20Report.pdf",
+      "sha256": "145b54f78ade845240416ed00e63f464e038c10138993662470ead244b06bd06",
+      "ext": "pdf",
+      "bytes": 6512089
+    },
+    "4094": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5404/2024%20Project%20Rita%20DRI%204094%20-%20Preliminary%20Report%20and%20Comments%20Request.pdf",
+      "sha256": "78552ae48b326bf61fb827eaad3e937e766eed2a2b72ecff5ed6ac3fede0ac35",
+      "ext": "pdf",
+      "bytes": 2104332
+    },
+    "4112": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5407/2024%20DC%20Blox%20ATL%20West%20Data%20Center%20DRI%204112%20-%20Final%20Report.pdf",
+      "sha256": "fe8839e484973acbb669d3c344617c99350c82a8257101d87163e211c957116e",
+      "ext": "pdf",
+      "bytes": 3776204
+    },
+    "4120": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5422/2024%20DC%20Blox%20ATL%20East%20Data%20Center%20DRI%204120%20-%20Final%20Report.pdf",
+      "sha256": "6966ce0df4fcae840db5a8e5cc9aea35f4f5a4959f2608c71909f431c569e440",
+      "ext": "pdf",
+      "bytes": 4553303
+    },
+    "4147": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5409/2024%20Rockdale%20Technology%20Park%20DRI%204147%20-%20Final%20Report.pdf",
+      "sha256": "48e9d737a546b75b96309a0bfc1397dc0de5346214007bcb08ed696bc29df7c4",
+      "ext": "pdf",
+      "bytes": 2579054
+    },
+    "4192": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5450/2024%20Douglas%20Waldrop%20DRI%204192%20-%20Final%20Report.pdf",
+      "sha256": "801000ca3efb2c217170e23857824ba9bc2a1fb158ac22f70bace4c651eaffc7",
+      "ext": "pdf",
+      "bytes": 3108496
+    },
+    "4198": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5445/2024%200%20Rocky%20Creek%20DRI%204198%20-%20Final%20Report.pdf",
+      "sha256": "31bc48c1b0062b5eee10edaa795d77517b3ca2789cd9ef909881b6659c42c648",
+      "ext": "pdf",
+      "bytes": 20629273
+    },
+    "4213": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5441/2024%20Fairburn%20Technology%20Center%20DRI%204213%20-%20Final%20Report.pdf",
+      "sha256": "b802daba7106e6f6bd15e89a5fdd7fd45e01759b46508c8c6847f0f48ca8735d",
+      "ext": "pdf",
+      "bytes": 4935904
+    },
+    "4235": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5456/2024%20ATL11%20DRI%204235%20-%20Final%20Report.pdf",
+      "sha256": "437364b39b842f676c17e04d834c0916008bef7ef31bf60b525b7a6d5c0b45f8",
+      "ext": "pdf",
+      "bytes": 8192794
+    },
+    "4251": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5451/2024%20Strickland%20Tract%20DRI%204251%20-%20Final%20Report.pdf",
+      "sha256": "e45d08f7bb56ecf9f8e5196ff5b7c6f1c2e6e5c69fc3eb063868f737b102a826",
+      "ext": "pdf",
+      "bytes": 10387701
+    },
+    "4256": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5475/2024%20Avon-Higgins%20Mixed%20Use%20DRI%204330%20-%20Final%20Report.pdf",
+      "sha256": "2e085a8cef7c8635e79c15a58ec17979dd2a88f723646448226db43a7f12c559",
+      "ext": "pdf",
+      "bytes": 7676096
+    },
+    "4257": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5476/2024%20Vantage%20Data%20Center%20-%20Stacks%20Rd%20DRI%204257%20-%20Final%20Report.pdf",
+      "sha256": "a1263614dcb903a3e18e05f89a69abb4dd823fa906cb3b16740383680074802a",
+      "ext": "pdf",
+      "bytes": 3176539
+    },
+    "4315": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5471/2024%20ATL03%20Red%20Oak%20DRI%204315%20-%20Final%20Report.pdf",
+      "sha256": "20ed3d812b047e8ead4892cfc5f9ce6848e1a50ed22e7936ae61c8458c3079af",
+      "ext": "pdf",
+      "bytes": 5940708
+    },
+    "4326": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5465/2025%20Lithia%20Springs%20Data%20Center%20DRI%204326%20-%20Final%20Report.pdf",
+      "sha256": "595e8a389490a54df9131b5cf542aaf083f2641083f71ac360be756c871399cf",
+      "ext": "pdf",
+      "bytes": 11378324
+    },
+    "4334": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID6488/2025%20Stream%20Data%20Center%20DRI%204334%20-%20Final%20Report.pdf",
+      "sha256": "7505ede644c06f75f6f1179e6ed04d6ec6b4bd1d3114d4b547130b662b9b2834",
+      "ext": "pdf",
+      "bytes": 11089135
+    },
+    "4342": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID5486/2025%20Stonewall%20Tell%20Data%20Center%20DRI%204342%20-%20Final%20Report.pdf",
+      "sha256": "0414957bbcf38464c213e9aa2dd2714f55d8e53e890021a730761144f824b4c8",
+      "ext": "pdf",
+      "bytes": 7241739
+    },
+    "4422": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID6518/2025%20Hickman%20Property%20DRI%204422%20-%20Final%20Report.pdf",
+      "sha256": "ba2cb9c2feeb3ca1624f9ae2f91e0a00f22e81070ccdd9acb4c936f845be222f",
+      "ext": "pdf",
+      "bytes": 4151929
+    },
+    "4456": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID6527/2025%20Project%20Rockforge%20DRI%20%20-%20Final%20Report.pdf",
+      "sha256": "5a34ccfc3d858468f0cddcdee22a8372b2a6438988d4ecafd354e39538edc0ee",
+      "ext": "pdf",
+      "bytes": 6929772
+    },
+    "4465": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID6544/2025%20T5%20ATL%20IV%204465%20-%20Final%20Report.pdf",
+      "sha256": "2c081ca309ad203ae1e1f0fab1df7a944c936fb0f7ed45fcf8cc61ea6213901f",
+      "ext": "pdf",
+      "bytes": 6064716
+    },
+    "4506": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID6547/2025%201611%20Ellsworth%20DRI%204506%20-%20Final%20Report.pdf",
+      "sha256": "9407347e8569d480efa98578d302d61e33c5806473ee0891dd4db897a65474e9",
+      "ext": "pdf",
+      "bytes": 5770936
+    },
+    "R2011201": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID2075/ARC%20Final%20Report%20-%20Southeast%20Data%20Center%20campus%20DRI%203160.pdf",
+      "sha256": "5616410507d8d6af997fa2ff80dd2399e93df7ea28d7395cfe0d9ba64146e9bc",
+      "ext": "pdf",
+      "bytes": 4888974
+    },
+    "R2105261": {
+      "url": "https://documents.atlantaregional.com/Land%20Use/Reviews/ID2110/ARC%20Final%20Report%20-%20Project%20Granite%20DRI%203298.pdf",
+      "sha256": "517078bdc09e4e5e34ec72cc9173f773ce68ef424c75fc05d49e814d6b058867",
+      "ext": "pdf",
+      "bytes": 4453396
+    }
+  }
+}

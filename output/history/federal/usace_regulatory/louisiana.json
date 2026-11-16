@@ -1,0 +1,95 @@
+[
+  {
+    "id": "federal-corps-8e4aedf8a66bfc089951d2f0",
+    "state": "LA",
+    "jurisdiction": "US Army Corps of Engineers — Vicksburg",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "MVK-2024-00740-KC",
+    "project": "Laidley, LLC/12122024/Project Sucre, Standard Permit Request for Proposed Development of a Corporate Data Center Campus in Rayville, Richland Parish, Louisiana",
+    "kind": "Standard Permit",
+    "status": "Pending",
+    "date": "2026-10-13",
+    "date_role": "application received date",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVK-2024-00740-KC%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVK-2024-00740-KC%22&max=200&start=0&sa=true",
+    "locator": "Army file MVK-2024-00740-KC; ORM pending action; 2026-10-13",
+    "details": {
+      "source_sha256": "80ac296b41d2f266a8772b98a445c7d4a4a2efd701488b793197543080a929a4",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "MVK-2024-00740-KC",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "MVK-2024-00740-KC",
+      "da_number": "MVK-2024-00740-KC",
+      "district_code": "MVK",
+      "orm_view": "pending",
+      "census_county": "Richland Parish",
+      "census_county_geoid": "22083",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-91.63546%2C32.50796&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "8a98d89db2ebb3069896b690fd8c6d35c64081cb986017613dc0adabf31d7957",
+      "longitude": -91.63546,
+      "latitude": 32.50796,
+      "orm_public_notice_date": "08-SEP-2026",
+      "consultations": {
+        "esa": [
+          {
+            "actionId": 13422615,
+            "actionFolderId": 5581113,
+            "actionLinkId": 13422610,
+            "beginDate": "2026-07-17",
+            "endDate": "2026-08-07",
+            "agency": "US Fish and Wildlife Service",
+            "consultationType": "Programmatic",
+            "closureMethod": "Activity Covered by a Programmatic Consultation"
+          }
+        ],
+        "s106Nhpa": [
+          {
+            "actionId": 13574831,
+            "actionFolderId": 5581113,
+            "actionLinkId": 13422610,
+            "beginDate": "2026-10-23",
+            "endDate": null,
+            "effectsDetermination": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "federal-corps-f08a761030cf248c35cfd7a5",
+    "state": "LA",
+    "jurisdiction": "US Army Corps of Engineers — Vicksburg District",
+    "dataset": "US Army Corps of Engineers regulatory public actions",
+    "record_no": "MVK-2024-00740-KC",
+    "project": "Laidley, LLC/12122024/Project Sucre, Standard Permit Request for Proposed Development of a Corporate Data Center Campus in Rayville, Richland Parish, Louisiana",
+    "kind": "Environmental assessment",
+    "status": "In Progress",
+    "date": "2026-09-08",
+    "date_role": "public notice date associated with EA",
+    "url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVK-2024-00740-KC%22&max=200&start=0&sa=true",
+    "source_url": "https://permits.ops.usace.army.mil/orm-public-api/permits/search?q=identifier%3A%22MVK-2024-00740-KC%22&max=200&start=0&sa=true",
+    "locator": "Army file MVK-2024-00740-KC; ORM nepa_ea action; 2026-09-08",
+    "details": {
+      "source_sha256": "80ac296b41d2f266a8772b98a445c7d4a4a2efd701488b793197543080a929a4",
+      "authority": "US Army Corps of Engineers",
+      "federal_issuer": "US Army Corps of Engineers",
+      "corps_file": "MVK-2024-00740-KC",
+      "authority_level": "federal",
+      "issuer_level": "federal",
+      "orm_identifier": "MVK-2024-00740-KC",
+      "da_number": "MVK-2024-00740-KC",
+      "district_code": "MVK",
+      "orm_view": "nepa_ea",
+      "census_county": "Richland Parish",
+      "census_county_geoid": "22083",
+      "geography_basis": "USACE point intersected with Census TIGERweb county; not an agency-reported county",
+      "geography_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?f=json&geometry=-91.63546%2C32.50796&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=STATE%2CCOUNTY%2CGEOID%2CNAME&returnGeometry=false",
+      "geography_sha256": "8a98d89db2ebb3069896b690fd8c6d35c64081cb986017613dc0adabf31d7957",
+      "longitude": -91.63546,
+      "latitude": 32.50796
+    }
+  }
+]

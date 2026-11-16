@@ -1,0 +1,123 @@
+{
+  "https://ecode360.com/51762948": {
+    "type": "enacted code",
+    "hold": "Primary published operative text checked in web index; direct download did not provide the original. Do not promote as archived."
+  },
+  "https://ecode360.com/51628551": {
+    "type": "enacted code",
+    "hold": "Primary published operative text checked in web index; direct download did not provide the original. Do not promote as archived."
+  },
+  "https://ecode360.com/51175313": {
+    "type": "enacted code",
+    "hold": "Primary published operative text checked in web index; direct download did not provide the original. Do not promote as archived."
+  },
+  "https://www.franklintownshipnj.org/DocumentCenter/View/7487/Ordinance-05-26--AI-Centers-Not-Allowed-PDF": {
+    "type": "adopted council exhibit",
+    "file": "franklin.pdf",
+    "sha256": "7e1dfda4f194c42daae3ad892e751134793c86bf4c96a0f85c178db91f4a818d"
+  },
+  "https://waltonclerkfl.gov/vertical/sites/%7BA6BED226-E1BB-4A16-9632-BB8E6515F4E0%7D/uploads/2026-08.pdf": {
+    "type": "adopted ordinance",
+    "file": "walton.pdf",
+    "sha256": "eeebd5854003537ea0bb1d7d159244da486eee92c3e2f782f5ff86a72bedc707"
+  },
+  "https://www.douglascountyga.gov/DocumentCenter/View/14894/Douglas-County-Unified-Development-Code_Updates-through-August-2026": {
+    "type": "enacted code",
+    "hold": "Primary published operative text checked in web index; direct download did not provide the original. Do not promote as archived."
+  },
+  "https://charlottenc.legistar1.com/charlottenc/attachments/2e870f5c-3d79-40ac-8e73-4cc9e7e25900.pdf": {
+    "type": "adopted ordinance",
+    "file": "charlotte-extension.pdf",
+    "sha256": "5ff898a45403dda0be25cba72ebb13db102cbc66339c9ea12ec9d892483e40d2"
+  },
+  "https://eagan.granicus.com/MetaViewer.php?clip_id=2657&meta_id=155114&view_id=8": {
+    "type": "adopted council exhibit",
+    "file": "eagan-interim.pdf",
+    "sha256": "e661524049fe6fe76c2958e91a137a30b009640c116e507e915b67092019da89"
+  },
+  "https://vcservices.vcgov.org/agenda/agendas/20261020/Item-09-20266-R1.pdf": {
+    "type": "adopted council exhibit",
+    "file": "volusia-code.pdf",
+    "sha256": "c02acce290293f537aaa881d2bc293282b22d08992ffef9789e8c320242dbab9"
+  },
+  "https://roch.legistar.com/View.ashx?M=F&ID=15739548&GUID=873D08AA-CA67-4E57-BC29-E41CDCF6C26D": {
+    "type": "adopted council exhibit",
+    "file": "rochester-extension.pdf",
+    "sha256": "1f68ad03d61ada76a0e123ce639bbf0dbab970fd7186eecb5266ad267b11340c"
+  },
+  "https://www.nj.gov/pinelands/landuse/amend/ords.shtml": {
+    "type": "state adoption register",
+    "file": "pinelands.html",
+    "sha256": "6e4ac4e21c12c91f9af08b5ccbd9a0d0443421133a436789cacd6782dd16e15f",
+    "note": "Franklin township (Gloucester) O-5-2026"
+  },
+  "https://www.volusia.org/news/news-releases.stml?calendar_entry_id=93017&portalProcess_dd_0_1_1=showPublicEvent": {
+    "type": "government adoption summary",
+    "file": "volusia.html",
+    "sha256": "c408090670fd0983604c229504e314c49e6ad7c0906dedc3a3eccc67a381776b",
+    "note": "October 20 final vote and unincorporated-only scope"
+  },
+  "https://eagan.granicus.com/MetaViewer.php?event_id=3737&meta_id=155347&view_id=8": {
+    "type": "council adoption minutes",
+    "file": "eagan-minutes.pdf",
+    "sha256": "80b1019c99c09cddbe43d996a6556ca24adf0b52da7e2acf6289fbf86793350f",
+    "note": "4–0 vote on §12.09"
+  },
+  "https://roch.legistar.com/View.ashx?M=M&ID=1366719&GUID=0DDEAE98-042C-40EA-A2EA-F419D043DB06": {
+    "type": "council adoption minutes",
+    "file": "rochester-aug-minutes.pdf",
+    "sha256": "8cddab889780c78331acad3d3f0433be3d0fba058d8f4b812f6e9face225fb75",
+    "note": "RES0224-2026, adopted 7–0"
+  },
+  "https://webapi.legistar.com/v1/charlottenc/events/1972/eventitems?AgendaNote=1&MinutesNote=1&Attachments=1": {
+    "type": "selected government event-item record",
+    "file": "charlotte-minutes.json",
+    "sha256": "48a919751aa31b7e0cc667752e75dc7df0f690e8ff6e5642093df1fc1b3ff751",
+    "note": "matter 30195, passed; cache retains only the individual returned event item"
+  },
+  "https://quincy.civicweb.net/document/202847/2026-04-07%20I-1.pdf": {
+    "type": "adopted council exhibit",
+    "file": "quincy-ordinance.pdf",
+    "sha256": "e590bc486b7bcc3aae03acb6f1bdf8987b4cad0ee5927fd8012582232b7cab27"
+  },
+  "https://seattle.legistar.com/View.ashx?M=F&ID=15591933&GUID=FF4AF581-2436-47CB-82BA-B0AC4D72590F": {
+    "type": "adopted ordinance",
+    "file": "seattle-signed.pdf",
+    "sha256": "67ba32830dc4e494921171e35e03cb8ffc5a0656d25894194df84b2b16cc18b3"
+  },
+  "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops": {
+    "type": "state executive order",
+    "file": "ny-executive.html",
+    "sha256": "e31e6c3eba1385b3b46227aa3d0d28b5c8c16d7653343191715849f7eb622c67"
+  },
+  "https://www.townofoneonta.org/application/files/9317/8075/3729/2605.13_OTBMins.pdf": {
+    "type": "adopted council exhibit",
+    "file": "oneonta-may.pdf",
+    "sha256": "2ecb5e3d9f66b2645ee2427791c3c2eb32831d17f1c9053cd415d1386011ced2",
+    "note": "Official May 13 minutes include the adopted text and roll call."
+  },
+  "https://quincy.civicweb.net/document/203058/": {
+    "type": "council adoption minutes",
+    "file": "quincy-minutes.html",
+    "sha256": "3a7ee6420d48333f43941fb3de00476c0df824cd7d40624a564be074a5f91a71",
+    "note": "Vote on Ordinance 26-652; the displayed code table independently agrees with Exhibit B."
+  },
+  "https://stcharlesgov.legistar.com/View.ashx?M=F&ID=15550040&GUID=2D4B661F-7B92-4EE8-AA14-07DA592CB101": {
+    "type": "adopted ordinance",
+    "file": "stcharles-signed.pdf",
+    "sha256": "2b72c127c3ca7674d932c1be3248585b86e3dd4199648053acbdaebb90f87654",
+    "note": "Signed council enactment June 1 and executive approval June 2 on p. 4. Effective five days after official publication; actual publication date unknown."
+  },
+  "https://desotokansas.citycode.net/appendix-c-zoning-regulations/appendix-a-permitted-land-uses-by-zoning-district/": {
+    "type": "enacted code",
+    "file": "desoto-matrix.html",
+    "sha256": "28810219095c3a4d8fc0825a4b3ce8942c3504c9d47c45f3990c3db27ab7e7fd",
+    "note": "Appendix A NAICS 518 is broader than data centers. City specifically identifies M-1 as a permitted district for its two data center projects: https://www.desotoks.us/465/Data-Centers . Do not relabel every NAICS 518 establishment as a confirmed data center."
+  },
+  "https://louisville.legistar.com/View.ashx?M=F&ID=15773729&GUID=2BEF2F0D-866D-4039-80E5-DE4766F23E98": {
+    "type": "adopted ordinance",
+    "file": "louisville-final.pdf",
+    "sha256": "fc4048c29a9141ac9362b6d29c684e1bf7567c8f0831dd80b7f9eed4c6c22c9c",
+    "note": "Signed final Ordinance 151, Series 2026. Page 3 shows August 13 vote and mayoral approval August 14; separate proposed permanent amendments O-251-26 were held in committee at cutoff."
+  }
+}

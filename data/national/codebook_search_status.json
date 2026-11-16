@@ -1,0 +1,11 @@
+{
+  "referrals": 2799,
+  "unique_document_urls": 2775,
+  "results": {
+    "no matching text": 1287,
+    "could not read": 841,
+    "no text": 562,
+    "text hit": 85
+  },
+  "scope": "Only linked government PDFs capped at 18 MiB. A no-hit can miss scans, aliases or a newer ordinance. Matches require review."
+}

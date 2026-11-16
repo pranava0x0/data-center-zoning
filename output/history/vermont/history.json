@@ -1,0 +1,163 @@
+[
+  {
+    "id": "vt-velco-0",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "1R0372-10",
+    "kind": "Act 250 case milestone",
+    "status": "Received",
+    "date": "2017-03-13",
+    "date_role": "Date Application Received",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "locator": "Project Status / Date Application Received",
+    "details": {
+      "issuer": "Vermont District 1 Environmental Commission",
+      "archive": "cache/history/vt/detail.html.gz",
+      "archive_sha256": "cfa506414a2318aa11e4be032ee7c54d2a18d0e3fa3a1cb79b1b4a17a324d4c8"
+    }
+  },
+  {
+    "id": "vt-velco-1",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "1R0372-10",
+    "kind": "Act 250 case milestone",
+    "status": "Deemed complete",
+    "date": "2017-03-13",
+    "date_role": "Date Deemed Complete",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "locator": "Project Status / Date Deemed Complete",
+    "details": {
+      "issuer": "Vermont District 1 Environmental Commission",
+      "archive": "cache/history/vt/detail.html.gz",
+      "archive_sha256": "cfa506414a2318aa11e4be032ee7c54d2a18d0e3fa3a1cb79b1b4a17a324d4c8"
+    }
+  },
+  {
+    "id": "vt-velco-2",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "1R0372-10",
+    "kind": "Act 250 case milestone",
+    "status": "Notice issued",
+    "date": "2017-03-29",
+    "date_role": "Notice Issued",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "locator": "Project Status / Notice Issued",
+    "details": {
+      "issuer": "Vermont District 1 Environmental Commission",
+      "archive": "cache/history/vt/detail.html.gz",
+      "archive_sha256": "cfa506414a2318aa11e4be032ee7c54d2a18d0e3fa3a1cb79b1b4a17a324d4c8"
+    }
+  },
+  {
+    "id": "vt-velco-3",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "1R0372-10",
+    "kind": "Act 250 case milestone",
+    "status": "Response deadline",
+    "date": "2017-04-19",
+    "date_role": "Response Deadline",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "locator": "Project Status / Response Deadline",
+    "details": {
+      "issuer": "Vermont District 1 Environmental Commission",
+      "archive": "cache/history/vt/detail.html.gz",
+      "archive_sha256": "cfa506414a2318aa11e4be032ee7c54d2a18d0e3fa3a1cb79b1b4a17a324d4c8"
+    }
+  },
+  {
+    "id": "vt-velco-4",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "1R0372-10",
+    "kind": "Act 250 land use permit amendment",
+    "status": "Issued",
+    "date": "2017-05-23",
+    "date_role": "Commission decision date",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/1R0372-10%20Permit%20and%20COS.pdf",
+    "locator": "Docket Project Status; final permit p. 1 explicitly authorizes data center and generator enclosure",
+    "details": {
+      "issuer": "Vermont District 1 Environmental Commission",
+      "archive": "cache/history/vt/land.pdf",
+      "archive_sha256": "74cd02ab6284005add79cc009973c42fc521670bdee83ced880999a67cf1b7f9"
+    }
+  },
+  {
+    "id": "vt-velco-5",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "3329-9020",
+    "kind": "Low-risk construction stormwater discharge coverage",
+    "status": "Authorized",
+    "date": "2017-04-11",
+    "date_role": "Authorization date",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/027%201R0372-10%20Discharge%20Permit%203329-9020.pdf",
+    "locator": "Exhibit 027, pp. 1–2, discharge under CGP 3-9020",
+    "details": {
+      "issuer": "Vermont Department of Environmental Conservation",
+      "archive": "cache/history/vt/discharge.pdf",
+      "archive_sha256": "d78c84944125fa97f489457f4d2c738320dea54287fb8d0e7f1aac8b42ead074",
+      "expiration_date": "2019-04-11"
+    }
+  },
+  {
+    "id": "vt-velco-6",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "1R0372-10 / exhibit 029",
+    "kind": "Underground injection control applicability",
+    "status": "No UIC permit required",
+    "date": "2017-04-24",
+    "date_role": "Agency review email date",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/029%201R0372-10%20Darlene%20Autery%20No%20UIC%20permit%20req.pdf",
+    "locator": "Exhibit 029, p. 1: agency found no reason for a UIC permit; not issuance",
+    "details": {
+      "issuer": "Vermont Department of Environmental Conservation",
+      "archive": "cache/history/vt/uic.pdf",
+      "archive_sha256": "75eae736f307b4a45b66a4ea0a14ba1845fdaaedf178315d256e90e3900f2730"
+    }
+  },
+  {
+    "id": "vt-velco-7",
+    "state": "VT",
+    "dataset": "Vermont Act 250 permit docket",
+    "jurisdiction": "Rutland Town",
+    "project": "VELCO Pinnacle Ridge data center and standby generator enclosure",
+    "record_no": "3329-INDS",
+    "kind": "Operational stormwater discharge draft",
+    "status": "Draft",
+    "date": "2017-04-27",
+    "date_role": "Docket exhibit date; final issuance not established",
+    "url": "https://anrweb.vt.gov/ANR/Act250/Details.aspx?Num=1R0372-10",
+    "source_url": "https://anrweb.vt.gov/PubDocs/ANR/SPTemp/034%20DRAFT%20Operational%20Stormwater%20Permit-3329-INDS.pdf",
+    "locator": "Exhibit 034 marked DRAFT; five-year proposed term not a final permit",
+    "details": {
+      "issuer": "Vermont Department of Environmental Conservation",
+      "archive": "cache/history/vt/draftwater.pdf",
+      "archive_sha256": "834476ba56298b579e5b0ffdc888aa4c52e4b9c9db483c024f348d037b2ba116"
+    }
+  }
+]

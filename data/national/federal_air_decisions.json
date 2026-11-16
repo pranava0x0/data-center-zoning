@@ -1,0 +1,25 @@
+{
+  "hit_dispositions": {
+    "r8|table 3 row 32|Crusoe,crusoe": "admit_as_federal_case",
+    "r8|table 3 row 33|Crusoe,crusoe": "admit_as_federal_case",
+    "r8|register text outside tables|Microsoft": "excluded_office_software",
+    "r8pending|table 3 row 58|Great American Mining": "held_application_on_hold_project_use_unconfirmed"
+  },
+  "government_docket_checks": {
+    "crosby_scope": {
+      "url": "https://downloads.regulations.gov/EPA-R08-OAR-2021-0039-0014/content.pdf",
+      "locator": "EPA region 8, document 0014 pp. 1\u20132; proposed instrument with effective date TBD",
+      "evidence": "to power small data centers using field gas from an existing oil and natural gas production facility",
+      "method": "Read EPA docket document via public web PDF viewer. Direct archival route failed robots preflight; this note is not a signed final or a byte snapshot."
+    },
+    "crosby_identifiers": {
+      "url": "https://downloads.regulations.gov/EPA-R08-OAR-2023-0443-0023/content.pdf",
+      "locator": "EPA docket, Part 49 Permit Issuance History, two historical permit numbers (not draft 2024 number)",
+      "records": [
+        "TMNSR-TAT-008149-2021.001",
+        "TMNSR-TAT-008149-2021.001B"
+      ],
+      "method": "Agency-published table exposed by public web index; secondary identifier check. Final dates are anchored independently in locally archived final-action pages."
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "sources": {
+    "issued": {
+      "url": "https://www.deq.idaho.gov/permits/issued-permits-and-water-quality-certifications/",
+      "ext": "html"
+    },
+    "air": {
+      "url": "https://www2.deq.idaho.gov/admin/LEIA/api/document/download/21478",
+      "ext": "pdf"
+    },
+    "kuna25": {
+      "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3936",
+      "ext": "pdf"
+    },
+    "kuna23": {
+      "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3372",
+      "ext": "pdf"
+    },
+    "kunamin": {
+      "url": "https://kunacity.id.gov/Archive/ViewFile/Item/3950",
+      "ext": "pdf"
+    },
+    "kunadec": {
+      "url": "https://kunacity.id.gov/ArchiveCenter/ViewFile/Item/3943",
+      "ext": "pdf"
+    }
+  },
+  "records": [
+    {
+      "source": "issued",
+      "id": "brisbie-ptc",
+      "dataset": "Idaho DEQ issued air permits and notices",
+      "jurisdiction": "Idaho",
+      "record_no": "P-2022.0030",
+      "project": "Brisbie LLC — Kuna Data Center",
+      "kind": "Air permit to construct",
+      "status": "Issued",
+      "date": "2024-07-02",
+      "date_role": "permit issue date",
+      "locator": "Issued register, Brisbie LLC, Kuna row",
+      "evidence": "Brisbie, LLC, Kuna, Idaho P-2022.0030 Air - PTC 2024 July 02",
+      "details": {}
+    },
+    {
+      "source": "air",
+      "id": "brisbie-mod-notice",
+      "dataset": "Idaho DEQ issued air permits and notices",
+      "jurisdiction": "Idaho",
+      "record_no": "P-2022.0030 / project 63191",
+      "project": "Brisbie LLC — Kuna Data Center",
+      "kind": "Air permit modification notice",
+      "status": "Comment opportunity announced",
+      "date": "2023-10-11",
+      "date_role": "notice date",
+      "locator": "PDF page 1",
+      "evidence": "DATED this 11th day of October 2023",
+      "page": 1,
+      "details": {}
+    },
+    {
+      "source": "kuna23",
+      "id": "tower",
+      "dataset": "City of Kuna planning and zoning cases",
+      "jurisdiction": "Kuna",
+      "record_no": "23-11-SUP",
+      "project": "Brisbie LLC — Kuna Data Center — communication towers",
+      "kind": "Special use permit for support towers",
+      "status": "Staff report",
+      "date": "2023-08-08",
+      "date_role": "meeting date",
+      "locator": "PDF page 49",
+      "evidence": "23-11-SUP STAFF REPORT FOR SPECIAL USE PERMIT APPLICATION",
+      "page": 49,
+      "details": {}
+    },
+    {
+      "source": "kuna25",
+      "id": "amend-base",
+      "dataset": "City of Kuna planning and zoning cases",
+      "jurisdiction": "Kuna",
+      "record_no": "22-04 DR MOD",
+      "project": "Brisbie LLC — Kuna Data Center",
+      "kind": "Campus site plan",
+      "status": "Prior approval reported",
+      "date": null,
+      "date_role": "date unavailable",
+      "locator": "PDF page 51",
+      "evidence": "previously approved (22-04 DR MOD) project site of 242.7 acres",
+      "page": 51,
+      "details": {}
+    },
+    {
+      "source": "kuna25",
+      "id": "amend-request",
+      "dataset": "City of Kuna planning and zoning cases",
+      "jurisdiction": "Kuna",
+      "record_no": "25-24-DR",
+      "project": "Brisbie LLC — Kuna Data Center — northern campus addition",
+      "kind": "Site plan amendment / design review",
+      "status": "Design review requested",
+      "date": "2025-06-26",
+      "date_role": "applicant narrative date",
+      "locator": "PDF page 51",
+      "evidence": "This site plan amendment would add the 40-acre site to the north",
+      "page": 51,
+      "details": {}
+    },
+    {
+      "source": "kunamin",
+      "id": "amend-decision",
+      "dataset": "City of Kuna planning and zoning cases",
+      "jurisdiction": "Kuna",
+      "record_no": "25-24-DR",
+      "project": "Brisbie LLC — Kuna Data Center — northern campus addition",
+      "kind": "Consent approval of reasoned design decision",
+      "status": "Approved on consent",
+      "date": "2025-08-12",
+      "date_role": "commission vote on decision and reasoned statement",
+      "locator": "PDF page 4",
+      "evidence": "Motion To: Approve The Consent Agenda",
+      "page": 4,
+      "details": {}
+    }
+  ]
+}

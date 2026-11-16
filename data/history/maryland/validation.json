@@ -1,0 +1,26 @@
+{
+  "state": "MD",
+  "unit": "Collected source events after joining matching source records; NOT count of operating facilities or total permits. Cities reflect register address, not incorporated boundaries.",
+  "events": 40,
+  "county": {
+    "Frederick County": 28,
+    "Baltimore city": 12
+  },
+  "agency_reported_locality": {
+    "Frederick County": 20,
+    "Baltimore": 12,
+    "Frederick": 6,
+    "Adamstown": 2
+  },
+  "datasets": {
+    "Maryland MDE Frederick construction stormwater letters": 20,
+    "Baltimore DHCD issued building and use permits": 12,
+    "Maryland MDE Frederick land restoration decisions": 3,
+    "Maryland MDE Frederick water appropriation and use permits": 3,
+    "Maryland MDE Frederick campus air permits": 2
+  },
+  "cross_register_date_matches": 0,
+  "baltimore_candidates": 12,
+  "verified_file_count": 8,
+  "cutoff": "2026-11-15"
+}

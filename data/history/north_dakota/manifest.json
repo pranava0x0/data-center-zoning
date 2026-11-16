@@ -1,0 +1,80 @@
+{
+  "geo": {
+    "atlas": {
+      "url": "https://immm-sfa.github.io/datacenter-atlas/im3_datacenter_centroids.geojson",
+      "sha256": "b55d72a8a5887a2d1d0390894eced810f06b789ecc2a5652b4675c82a2bfd28c",
+      "bytes": 497573,
+      "ext": "json"
+    },
+    "ids": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2738%27&returnIdsOnly=true",
+      "sha256": "6cd64838e44bb1cc1189c4e6f80c81e671860eecd76c6f93085510d1fe7c4841",
+      "bytes": 1931,
+      "ext": "json"
+    },
+    "polygons": {
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/11/query?f=json&where=STATE%3D%2738%27&outFields=OBJECTID%2CGEOID%2CNAME&returnGeometry=true&outSR=4326&maxAllowableOffset=.000025&geometryPrecision=6",
+      "sha256": "56b7ba111d15481c0840001ccddf95cea72170a266f2e3c4e39efda3a2a8be79",
+      "bytes": 385860,
+      "ext": "json"
+    }
+  },
+  "airportal": {
+    "url": "https://www.deq.nd.gov/AQ/permitting/permitportal.aspx",
+    "sha256": "1586975c4a2f0ca11e86521db3bc8451b1ddf56204383b84170915a8f3fe83c1",
+    "bytes": 41660,
+    "ext": "html"
+  },
+  "dr": {
+    "url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFTACP18345v1_0AQEA.pdf",
+    "sha256": "a971451d4d089ec762f248eda0b194c33a31f4b64747f005bc00a18f57c537de",
+    "bytes": 288368,
+    "ext": "pdf"
+  },
+  "waternotice": {
+    "url": "https://deq.nd.gov/PublicComment/NDPDES-Jamestown-20240615.pdf",
+    "sha256": "55f8b5babd3b91156ba921b32fa50cc852f2e0e1dff62a3b2e117dc2fafa4f04",
+    "bytes": 875703,
+    "ext": "pdf"
+  },
+  "dickey": {
+    "url": "https://dickeynd.com/ufile/f1/WaterBoard/Minutes/2025/October_15%2C2025_meeting_minutes-sf.pdf",
+    "sha256": "ae8bdd331a77d2205e8b67e3753d6cf5f7e0a2d58f2b177542dcb10e125bed32",
+    "bytes": 132270,
+    "ext": "pdf"
+  },
+  "eln_permit": {
+    "url": "https://ceris.deq.nd.gov/ext/ncore/downloadfile/-4132207354506109210",
+    "error": "robots preflight HTTP 403"
+  },
+  "eln_application": {
+    "url": "https://deq.nd.gov/aq/Notices/ELN/DRAFTACP18296v10AQEA.pdf",
+    "sha256": "4c93dbf61277a64b7e9e3ba00e23e7c8a7bfa8ecf527e1a7d4dd0cdab6be8229",
+    "bytes": 347578,
+    "ext": "pdf"
+  },
+  "harwood": {
+    "url": "https://www.cityofharwood.com/meetings",
+    "sha256": "370dafe9d8350040a39dccde2216485474043ddeb379b636725f22485b7f2298",
+    "bytes": 48778,
+    "ext": "html"
+  },
+  "fargo": {
+    "url": "https://fargond.gov/city-government/departments/city-commission/agendas-minutes/2025-minutes-video-archive/november-24-2025-minutes",
+    "sha256": "eee06dda3a851f10c081dd874c6a48a89f9ccb30aa9c93496349c6749b943f79",
+    "bytes": 64267,
+    "ext": "html"
+  },
+  "eln_modifier": {
+    "url": "https://deq.nd.gov/aq/Notices/AppliedDigital/DRAFT_ACP18338v1_0AQEA.pdf",
+    "sha256": "2603976335a7fa299683a1533968c3fd08f1000761a974de4b32f3b6435e2666",
+    "bytes": 316048,
+    "ext": "pdf"
+  },
+  "harwood_min": {
+    "url": "https://www.cityofharwood.com/agenda-and-meeting-minutes",
+    "sha256": "f595271c05cc27af453321ce683490ad78698bfa29337c6cd8d8bc6ff198c0c4",
+    "bytes": 60313,
+    "ext": "html"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "state": "PA",
+    "jurisdiction": "Susquehanna River Basin Commission",
+    "record_no": "20251217",
+    "project": "Amazon Data Services — PHL100 Data Center Campus",
+    "kind": "Consumptive water use approval modification",
+    "status": "Executive Director hereby approves modification",
+    "date": "2026-01-26",
+    "date_role": "modification date",
+    "locator": "Approval, sections 1–3; docket 20251217",
+    "details": {
+      "issuer_level": "regional",
+      "authority": "Susquehanna River Basin Commission",
+      "locality": "Salem Township",
+      "county": "Luzerne County",
+      "action_type": "srbc_revision",
+      "original_docket": "20240901",
+      "consumptive_limit_mgd": 0.06,
+      "averaging": "30-day average",
+      "water_source": "Production Well 1, bulk water supply and public water supply",
+      "use": "Evaporative cooling and related incidental uses",
+      "note": "Separate basin groundwater approval not required while withdrawals remain below 0.100 mgd on consecutive 30-day average. Does not exempt other state or local reviews.",
+      "source_sha256": "ed04bf7b99c23ce7affb00fdabcbcca45325f281562d594c88709acd69e43c5f",
+      "source_anchors": [
+        "PHL100 DATA CENTER CAMPUS",
+        "of up to 0.060 mgd",
+        "Executive Director hereby approves modification",
+        "Docket No. 20251217"
+      ]
+    },
+    "id": "waterfire-pa-pa-jan",
+    "dataset": "US site-specific water permit records",
+    "url": "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20251217",
+    "source_sha256": "ed04bf7b99c23ce7affb00fdabcbcca45325f281562d594c88709acd69e43c5f",
+    "source_url": "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20251217"
+  },
+  {
+    "state": "PA",
+    "jurisdiction": "Susquehanna River Basin Commission",
+    "record_no": "20260301",
+    "project": "Amazon Data Services — PHL100 Data Center Campus",
+    "kind": "Consumptive water use approval modification",
+    "status": "Executive Director hereby approves modification",
+    "date": "2026-03-12",
+    "date_role": "modification date",
+    "locator": "Approval, sections 1–3; docket 20260301",
+    "details": {
+      "issuer_level": "regional",
+      "authority": "Susquehanna River Basin Commission",
+      "locality": "Salem Township",
+      "county": "Luzerne County",
+      "action_type": "srbc_revision",
+      "original_docket": "20240901",
+      "consumptive_limit_mgd": 0.129,
+      "averaging": "30-day average",
+      "water_source": "Production Well 1, bulk water supply and public water supply",
+      "use": "Evaporative cooling and related incidental uses",
+      "note": "Separate basin groundwater approval not required while withdrawals remain below 0.100 mgd on consecutive 30-day average. Does not exempt other state or local reviews.",
+      "source_sha256": "29180b73c9eae63586e56864a2aa39c0b25e83a7a555a8bdb7cdb703f2ef1e61",
+      "source_anchors": [
+        "PHL100 DATA CENTER CAMPUS",
+        "of up to 0.129 mgd",
+        "Executive Director hereby approves modification",
+        "Docket No. 20260301"
+      ]
+    },
+    "id": "waterfire-pa-pa-mar",
+    "dataset": "US site-specific water permit records",
+    "url": "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20260301",
+    "source_sha256": "29180b73c9eae63586e56864a2aa39c0b25e83a7a555a8bdb7cdb703f2ef1e61",
+    "source_url": "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20260301"
+  }
+]

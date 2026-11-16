@@ -1,0 +1,68 @@
+{
+  "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx": {
+    "sha256": "ab81ec89981d3de2f9abf45f7740cc5acd2cc3c2c9ad854969d39434af895e53",
+    "bytes": 116061,
+    "retrieved": "2026-11-16T05:31:24+00:00",
+    "resolved": "https://discover.pbc.gov/pzb/zoning/Pages/Project_Tango.aspx"
+  },
+  "https://discover.pbc.gov/pzb/zoning/Resolutions-ZR/ZR-2025-014.pdf": {
+    "sha256": "a02ad443c6147eda276104c526813c89d53aa946c820d637807de0a6d4def817",
+    "bytes": 3304233,
+    "retrieved": "2026-11-16T05:31:25+00:00",
+    "resolved": "https://discover.pbc.gov/pzb/zoning/Resolutions-ZR/ZR-2025-014.pdf"
+  },
+  "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf": {
+    "sha256": "5b53a9683b6cfff7d2445943ee5bba2094424ff28f523bace8c42fdfe3f565a8",
+    "bytes": 22028865,
+    "retrieved": "2026-11-16T05:31:30+00:00",
+    "resolved": "https://dlm.guam.gov/wp-dlm-content/uploads/2024/02/GHLUC-MAY122022.pdf"
+  },
+  "https://dnrec.delaware.gov/coastal-zone-act/industrial-control-board/": {
+    "sha256": "73db13a4eb3c35449bc5896f3e430a6307b5e7114480e5421c7cbb7ecd8e21f1",
+    "bytes": 76909,
+    "retrieved": "2026-11-16T05:58:26+00:00",
+    "resolved": "https://dnrec.delaware.gov/coastal-zone-act/industrial-control-board/"
+  },
+  "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf": {
+    "sha256": "031a465df69e632d9fdb9aca9528b35c7d098c68a906f10a01e44827828c8b8a",
+    "bytes": 498475,
+    "retrieved": "2026-11-16T05:58:26+00:00",
+    "resolved": "https://documents.dnrec.delaware.gov/Admin/CZICB/Decisions/CZ-2026-01-Starwood-Digital-Ventures.pdf"
+  },
+  "https://documents.dnrec.delaware.gov/Admin/Public-Notices/CCE20260043/Status-Decision.pdf": {
+    "sha256": "bf13151f70f2036626e147f0864170b7b707c1fdaa7aa86ddeeeb21302861677",
+    "bytes": 395608,
+    "retrieved": "2026-11-16T05:58:28+00:00",
+    "resolved": "https://documents.dnrec.delaware.gov/Admin/Public-Notices/CCE20260043/Status-Decision.pdf"
+  },
+  "https://documents.dnrec.delaware.gov/Admin/CZICB/Appeals/CZ-2026-01/Statement-of-Appeal.pdf": {
+    "sha256": "687f1fff7e1e3c59969f7c0db24e840616749bd97023ff9575cb3f180c9e2b29",
+    "bytes": 945152,
+    "retrieved": "2026-11-16T05:58:28+00:00",
+    "resolved": "https://documents.dnrec.delaware.gov/Admin/CZICB/Appeals/CZ-2026-01/Statement-of-Appeal.pdf"
+  },
+  "https://www.lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6685": {
+    "sha256": "25ffc04d1e3a8aef8a7da899dd618f036db81ab2428c5586043d7b50cab2715a",
+    "bytes": 216736,
+    "retrieved": "2026-11-16T05:58:29+00:00",
+    "resolved": "https://www.lewistonmaine.gov/ArchiveCenter/ViewFile/Item/6685"
+  },
+  "https://legislature.vermont.gov/bill/status/2026/H.727": {
+    "sha256": "b7ab0b612c55fd4e9383efd5b4d577d848655f8ed9db0def60ab01d396fcdd3c",
+    "bytes": 133381,
+    "retrieved": "2026-11-16T05:58:30+00:00",
+    "resolved": "https://legislature.vermont.gov/bill/status/2026/H.727"
+  },
+  "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf": {
+    "sha256": "3df4d7112591fd831c8bba297fa3f9f2cad9c81b33540d7f088066a56c863e9c",
+    "bytes": 108482,
+    "retrieved": "2026-11-16T06:04:43+00:00",
+    "resolved": "https://dem.ri.gov/sites/g/files/xkgbur861/files/programs/benviron/air/preperms/gpeg19.pdf"
+  },
+  "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20240901": {
+    "sha256": "40160c3f29d2ff95c421cddcdb7d75261069ac819558a0a4b50b3d5b912391b6",
+    "bytes": 372551,
+    "retrieved": "2026-11-16T06:17:59+00:00",
+    "resolved": "https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20240901"
+  }
+}
