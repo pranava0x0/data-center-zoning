@@ -26,7 +26,7 @@ def gis_download(k,url,cols,fields):
   return json.loads(A.fetch(n,q+'?'+urlencode(p)))
  r=arcgis.pull(g,lambda a:a,url,lib.terms.patterns(cols.split(','),'UPPER'),fields,batch=100,id_params={'f':'json'},page_params={'f':'json'})
  print(k,len(r['ids']['objectIds'] or []),flush=True)
-def gis_rows(events,held,k,gis,cols2,parse):
+def gis_rows(events,held,k,gis,cols2,parse,numfield):
  url,cols,fields=gis
  ids=json.loads(A.read(k+'-ids.json.gz'))['objectIds'];count=0;unique={}
  for n in sorted(n for n in A.files if re.fullmatch(k+r'-\d+\.json\.gz',n)):
@@ -38,7 +38,7 @@ def gis_rows(events,held,k,gis,cols2,parse):
    key=(k,num);finger=(status,issued,kind)
    if key in unique:
     assert unique[key]==finger;continue
-   unique[key]=finger;d.update(source_objectid=oid,archive='cache/history/nc/'+n,archive_sha256=A.files[n]['sha256'])
+   unique[key]=finger;d.update(portal_row_id_at_capture=oid,archive='cache/history/nc/'+n,archive_sha256=A.files[n]['sha256'])
    dt=issued or d.get('applied_date');role='Permit issue date' if issued else ('Application date' if dt else 'No date reported');title=' — '.join(dict.fromkeys(matched))[:500]
-   add(events,'nc-'+k+'-'+num,ds,num,title,scope,kind,status,dt,role,url+'/'+str(oid),url,'OBJECTID '+str(oid)+'; permit '+num,d)
+   add(events,'nc-'+k+'-'+num,ds,num,title,scope,kind,status,dt,role,url+'/query?'+urlencode({'where':numfield+"='"+num.replace("'","''")+"'",'outFields':'*','f':'html'}),url,'permit '+num,d)
  assert count==len(ids)

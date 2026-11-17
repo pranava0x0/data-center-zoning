@@ -44,8 +44,8 @@ def main():
         dates=[dt.date.fromisoformat(d[:10].replace('/','-')).isoformat() for d in values('date')]
         if any(d>cfg['edition_date'] for d in dates):raise ValueError('post-edition occupancy; version the export')
         ids=values('object_id')
-        src=cfg['layer']+'/query?'+urlencode(dict(objectIds=','.join(ids),outFields=','.join(keys.values()),returnGeometry='false',f='pjson'))
-        out.append(dict(id=slug+'-'+case,dataset=cfg['dataset'],jurisdiction=cfg['jurisdiction'],record_no=case,project=' / '.join(values('title')) or case,kind=cfg['kind'],status=' / '.join(values('status')) or 'Not supplied',date=dates[0] if len(dates)==1 else None,date_role=cfg['date_role'],url=src,source_url=m['csv']['url'],locator=keys['case']+' '+case,details=dict(object_ids=ids,occupancy_dates=dates,planning_cases=values('land_use_file'),sha256=m['csv']['sha256'])))
+        src=cfg['layer']+'/query?'+urlencode(dict(where=keys['case']+" = '"+case.replace("'","''")+"'",outFields=','.join(keys.values()),returnGeometry='false',f='pjson'))
+        out.append(dict(id=slug+'-'+case,dataset=cfg['dataset'],jurisdiction=cfg['jurisdiction'],record_no=case,project=' / '.join(values('title')) or case,kind=cfg['kind'],status=' / '.join(values('status')) or 'Not supplied',date=dates[0] if len(dates)==1 else None,date_role=cfg['date_role'],url=src,source_url=m['csv']['url'],locator=keys['case']+' '+case,details=dict(portal_row_id_at_capture=ids,occupancy_dates=dates,planning_cases=values('land_use_file'),sha256=m['csv']['sha256'])))
     if not out:raise ValueError('No named permit files; inspect edition before publishing')
     c.dump(args.output,out);c.dump(args.output.with_name(args.output.stem+'_coverage.json'),dict(source=m['csv']['url'],catalog=cfg['catalog'],inventory_rows=len(records),without_permit_number=sum(not clean(r[keys['case']]) for r in records),distinct_permit_files=len(out),capture=m['captured_utc']))
     print(len(out),'numbered permits from',len(records),'building inventory rows')

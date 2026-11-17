@@ -48,8 +48,9 @@ def build(layers):
   if hit:ds,d,s,typ,jur,project,role,extra=hit
   if not ds or not d or d>'2026-11-16':
    held.append(dict(layer=l,objectid=oid,case=num,reason=hold_reason(l,a)));continue
-  lurl=BASE+str(l)+'/query?'+urlencode(dict(f='pjson',objectIds=oid,outFields=layers[l].OUT_FIELDS,returnGeometry='false'))
-  z=dict(id='pr-jp-'+num.lower(),state='PR',dataset=ds,jurisdiction=jur,record_no=num,project=project,kind=typ,status=s,date=d,date_role=role,url=lurl,source_url=ref['url'],locator='MIPR Permisos; layer '+str(l)+'; OBJECTID '+str(oid)+'; '+num,details=dict(source_sha256=ref['sha256'],source_layer=l,objectid=oid,municipio=jur,**extra))
+  cf=next(f for f in ('Caso','CASO','NUMERO_CAS') if a.get(f)==num)  # issuer case-number field; the stable link filters on it, never on the portal row id
+  lurl=BASE+str(l)+'/query?'+urlencode(dict(f='pjson',where=cf+"='"+num+"'",outFields=layers[l].OUT_FIELDS,returnGeometry='false'))
+  z=dict(id='pr-jp-'+num.lower(),state='PR',dataset=ds,jurisdiction=jur,record_no=num,project=project,kind=typ,status=s,date=d,date_role=role,url=lurl,source_url=ref['url'],locator='MIPR Permisos; layer '+str(l)+'; '+num,details=dict(source_sha256=ref['sha256'],source_layer=l,portal_row_id_at_capture=oid,municipio=jur,**extra))
   if num in out:raise ValueError('Unexpected duplicate PR case')
   out[num]=z
  data=sorted(out.values(),key=lambda z:z['id']);collect.dump(series_path('pr'),data);collect.dump(collector_data('puerto_rico','held.json'),held);collect.dump(collector_data('puerto_rico','coverage.json'),dict(matches_per_query=by,unique_features=len(seen),held=len(held),published=len(data),municipalities=dict(Counter(a['jurisdiction'] for a in data)),by_status=dict(Counter(a['status'] for a in data)),by_class=dict(Counter(a['details']['procedure_code'] for a in data))));return data

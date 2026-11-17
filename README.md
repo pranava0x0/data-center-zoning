@@ -22,7 +22,7 @@ The [national directory](viewer/coverage.html) includes all 50 states, DC and th
 
 ## Run it
 
-Python 3.9+; `pypdf` for PDFs. For a fresh environment, run the following **inside this folder**. A checkout with the included snapshots can rebuild offline. The build gate requires Chrome or Chromium and Node 22+ with built-in WebSocket support.
+Python 3.9+; `pypdf` for PDFs. The evidence cache (`cache/`, about 10 GB) is not in git: restore it with `make cache-restore BUNDLE=…` (create one with `make cache-pack DEST=…`) before rebuilding offline; without it, `make refresh-XX` re-downloads a jurisdiction's sources. For a fresh environment, run the following **inside this folder**. A checkout with the included snapshots can rebuild offline. The build gate requires Chrome or Chromium and Node 22+ with built-in WebSocket support.
 
 ```sh
 python3 -m venv .venv

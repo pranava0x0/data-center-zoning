@@ -229,9 +229,9 @@
     "status": "Permit issued",
     "date": "2018-08-06",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/893",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=PermitID%3D500884&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 1 OBJECTID 893",
+    "locator": "City layer 1; PermitID 500884",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 1",
@@ -243,6 +243,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "500884",
+      "portal_row_id_at_capture": 893,
       "certificate_observed": true,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
@@ -259,9 +260,9 @@
     "status": "Permit issued",
     "date": "2020-05-06",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/5531",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=PermitID%3D539284&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 1 OBJECTID 5531",
+    "locator": "City layer 1; PermitID 539284",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 3",
@@ -273,6 +274,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "539284",
+      "portal_row_id_at_capture": 5531,
       "certificate_observed": true,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
@@ -289,9 +291,9 @@
     "status": "Permit issued",
     "date": "2021-03-08",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/1348",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D560858&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 1348",
+    "locator": "City layer 0; PermitID 560858",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 5",
@@ -302,6 +304,7 @@
       "co_date": "2023-12-14",
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 1348,
       "certificate_observed": true,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -318,9 +321,9 @@
     "status": "Permit issued",
     "date": "2021-03-08",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/1349",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D560860&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 1349",
+    "locator": "City layer 0; PermitID 560860",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 6",
@@ -331,6 +334,7 @@
       "co_date": null,
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 1349,
       "certificate_observed": false,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -347,9 +351,9 @@
     "status": "Permit issued",
     "date": "2021-04-01",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/1646",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D562743&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 1646",
+    "locator": "City layer 0; PermitID 562743",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 2",
@@ -360,6 +364,7 @@
       "co_date": "2021-11-23",
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 1646,
       "certificate_observed": true,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -376,9 +381,9 @@
     "status": "Permit issued",
     "date": "2021-12-28",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/4451",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D582580&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 4451",
+    "locator": "City layer 0; PermitID 582580",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 7",
@@ -389,6 +394,7 @@
       "co_date": null,
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 4451,
       "certificate_observed": false,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -405,9 +411,9 @@
     "status": "Permit issued",
     "date": "2022-02-18",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/5002",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D585980&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 5002",
+    "locator": "City layer 0; PermitID 585980",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 8",
@@ -418,6 +424,7 @@
       "co_date": null,
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 5002,
       "certificate_observed": false,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -434,9 +441,9 @@
     "status": "Permit issued",
     "date": "2022-09-12",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/7092",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D600802&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 7092",
+    "locator": "City layer 0; PermitID 600802",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 1",
@@ -447,6 +454,7 @@
       "co_date": "2023-06-14",
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 7092,
       "certificate_observed": true,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -463,9 +471,9 @@
     "status": "Permit issued",
     "date": "2022-09-12",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/7093",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D600803&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 7093",
+    "locator": "City layer 0; PermitID 600803",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 4",
@@ -476,6 +484,7 @@
       "co_date": null,
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 7093,
       "certificate_observed": false,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -492,9 +501,9 @@
     "status": "Permit issued",
     "date": "2022-09-12",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/7094",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D600805&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 7094",
+    "locator": "City layer 0; PermitID 600805",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 2",
@@ -505,6 +514,7 @@
       "co_date": "2023-06-15",
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 7094,
       "certificate_observed": true,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -521,9 +531,9 @@
     "status": "Permit issued",
     "date": "2023-11-13",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/11308",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D630704&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 11308",
+    "locator": "City layer 0; PermitID 630704",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 1",
@@ -534,6 +544,7 @@
       "co_date": null,
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 11308,
       "certificate_observed": false,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -550,9 +561,9 @@
     "status": "Permit issued",
     "date": "2024-03-27",
     "date_role": "Municipal building permit issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/60558",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=PermitID%3D639909&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/0/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "City layer 0 OBJECTID 60558",
+    "locator": "City layer 0; PermitID 639909",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 102",
@@ -563,6 +574,7 @@
       "co_date": null,
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+      "portal_row_id_at_capture": 60558,
       "certificate_observed": false,
       "archive": "cache/history/al/hsv-0.json.gz",
       "archive_sha256": "d112714cc9fb01221fdda252983475c7310f14bbad86c7b190c4f1c61d239098"
@@ -579,9 +591,9 @@
     "status": "Occupancy certificate issued",
     "date": "2023-06-14",
     "date_role": "Certificate issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/6142",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=OccupancyNumber%3D13092&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "OccupancyCerts OBJECTID 6142",
+    "locator": "OccupancyCerts OccupancyNumber 13092",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 1",
@@ -593,6 +605,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "600802",
+      "portal_row_id_at_capture": 6142,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
     }
@@ -608,9 +621,9 @@
     "status": "Occupancy certificate issued",
     "date": "2023-06-15",
     "date_role": "Certificate issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/6147",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=OccupancyNumber%3D13093&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "OccupancyCerts OBJECTID 6147",
+    "locator": "OccupancyCerts OccupancyNumber 13093",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 2",
@@ -622,6 +635,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "600805",
+      "portal_row_id_at_capture": 6147,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
     }
@@ -637,9 +651,9 @@
     "status": "Occupancy certificate issued",
     "date": "2021-04-01",
     "date_role": "Certificate issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/893",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=OccupancyNumber%3D43312&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "OccupancyCerts OBJECTID 893",
+    "locator": "OccupancyCerts OccupancyNumber 43312",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 1",
@@ -651,6 +665,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "500884",
+      "portal_row_id_at_capture": 893,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
     }
@@ -666,9 +681,9 @@
     "status": "Occupancy certificate issued",
     "date": "2021-11-23",
     "date_role": "Certificate issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/2501",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=OccupancyNumber%3D44707&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "OccupancyCerts OBJECTID 2501",
+    "locator": "OccupancyCerts OccupancyNumber 44707",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 2",
@@ -680,6 +695,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "562743",
+      "portal_row_id_at_capture": 2501,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
     }
@@ -695,9 +711,9 @@
     "status": "Occupancy certificate issued",
     "date": "2023-03-15",
     "date_role": "Certificate issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/5531",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=OccupancyNumber%3D47331&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "OccupancyCerts OBJECTID 5531",
+    "locator": "OccupancyCerts OccupancyNumber 47331",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 3",
@@ -709,6 +725,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "539284",
+      "portal_row_id_at_capture": 5531,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
     }
@@ -724,9 +741,9 @@
     "status": "Occupancy certificate issued",
     "date": "2023-12-14",
     "date_role": "Certificate issue date",
-    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/7332",
+    "url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=OccupancyNumber%3D48878&outFields=%2A&f=html",
     "source_url": "https://maps.huntsvilleal.gov/server/rest/services/Licenses/BuildingPermits/MapServer/1/query?where=UPPER%28Address%29+LIKE+%27100+PROFILE+PL+NW%25%27&outFields=%2A&returnGeometry=true&outSR=4326&f=json",
-    "locator": "OccupancyCerts OBJECTID 7332",
+    "locator": "OccupancyCerts OccupancyNumber 48878",
     "details": {
       "issuer": "City of Huntsville",
       "address": "100 PROFILE PL NW UNIT 5",
@@ -738,6 +755,7 @@
       "marker_source": "https://github.com/IMMM-SFA/datacenter-atlas",
       "municipal_context": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
       "building_permit_id": "560858",
+      "portal_row_id_at_capture": 7332,
       "archive": "cache/history/al/hsv-1.json.gz",
       "archive_sha256": "2b694e0fd7f3854da580cc0c09ddc9f004a131ab74bea2eaaa53b332380d4bc2"
     }

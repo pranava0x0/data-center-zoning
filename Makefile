@@ -147,3 +147,10 @@ check-%:
 	$(PYTHON) scripts/pipeline/jurisdiction.py check $*
 refresh-%:
 	$(PYTHON) scripts/pipeline/jurisdiction.py refresh $*
+
+# Evidence cache (not in git): pack it for any storage, restore it into a fresh clone.
+#   make cache-pack DEST=/Volumes/backup     make cache-restore BUNDLE=/Volumes/backup/cache-2026-11-16.tar
+cache-pack:
+	$(PYTHON) scripts/pipeline/cache_bundle.py pack $(DEST)
+cache-restore:
+	$(PYTHON) scripts/pipeline/cache_bundle.py restore $(BUNDLE)

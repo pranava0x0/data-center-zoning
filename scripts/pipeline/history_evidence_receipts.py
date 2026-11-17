@@ -78,7 +78,7 @@ def run():
             b=(loud.CACHE/(sha+'.pdf')).read_bytes();assert len(b)==z['bytes'] and c.digest(b)==sha;seen_pdf.add(sha)
         add(r,'county monthly PDF used by parser',z['url'],sha,r['locator'])
     elif reg in water:
-        z,ids=water[reg];m=re.search(r'OBJECTID\s+(\d+)',r['locator']);assert m and m[1] in ids and z['download_url']==r['source_url']
+        z,ids=water[reg];o=str(d.get('portal_row_id_at_capture'));assert o in ids and z['download_url']==r['source_url'],r['id']  # row id recorded at capture
         add(r,'matched object in archived agency CSV',z['download_url'],z['csv_sha256'],r['locator'])
     elif reg=='PortlandMaps all permits':
         z,folder=po[str(d['object_id'])];assert folder==str(d['folderkey']);add(r,'matched GIS objects in archived response',z['url'],z['sha256'],r['locator'])

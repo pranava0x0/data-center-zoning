@@ -3,7 +3,7 @@ helpers, and the record-building helpers every source module uses."""
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2]))  # scripts/ on the import path
 from lib.paths import collector_data
 from lib.text import plain
-import gzip, json, re
+import gzip, json, re, urllib.error, urllib.request
 from collections import Counter
 from pathlib import Path
 from urllib.parse import urlencode,quote
@@ -22,6 +22,22 @@ def fetch(n,url,params=None):
     if not (C/n).exists():raise
     bb=(C/n).read_bytes();m[n]={'url':full,'sha256':lib.files.sha(bb),'bytes':len(bb),'not_refreshed':str(e)};return data(n)
   bb=gzip.compress(b,mtime=0) if n.endswith('.gz') else b;(C/n).write_bytes(bb);m[n]={'url':full,'sha256':lib.files.sha(bb),'bytes':len(bb)};return b
+class _NoRedirect(urllib.request.HTTPRedirectHandler):
+  def redirect_request(self,*a,**k):return None
+_STOP=urllib.request.build_opener(_NoRedirect)
+def fetch_download(n,url,limit=400*1024**2):
+  """Download a CKAN resource file (a robots-allowed /dataset/<id>/resource/<id>/download/ link) through lib.net and archive it
+  gzipped. The portal answers with one 302 to a signed file-storage URL; each hop is robots-checked by lib.net, and the
+  default ':443' is dropped from the signed host because urllib would otherwise sign-mismatch. Refused -> keep the last capture."""
+  try:
+    try:b=lib.net.request(url,limit=limit,timeout=900,opener=_STOP).body
+    except urllib.error.HTTPError as e:
+      if e.code not in (301,302,303,307,308) or not e.headers.get('Location'):raise
+      b=lib.net.request(e.headers['Location'].replace(':443/','/',1),limit=limit,timeout=900).body
+  except lib.net.Refused as e:
+    if not (C/n).exists():raise
+    bb=(C/n).read_bytes();m[n]={'url':url,'sha256':lib.files.sha(bb),'bytes':len(bb),'not_refreshed':str(e)};return data(n)
+  bb=gzip.compress(b,mtime=0);(C/n).write_bytes(bb);m[n]={'url':url,'sha256':lib.files.sha(bb),'bytes':len(bb)};return b
 def keep_archived(prefix,reason):
   """A source robots.txt no longer allows: carry its last sealed capture (files and counts) into the new manifest."""
   old=json.loads(MAN.read_text())

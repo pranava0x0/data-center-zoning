@@ -7,4 +7,4 @@ def parse(a):
  num=a['permitnum'];status=a['statuscurrent'] or a['statuscurrentmapped'];issued=epoch(a['issueddate']);scope='Raleigh';kind=(a['permittypemapped'] or 'Building')+' permit — '+str(a['workclass'] or '');d=dict(issuer='City of Raleigh',co_issue_date=epoch(a['coissueddate']),issue_date=issued,expiration_date=epoch(a['expiresdate']),applied_date=epoch(a['applieddate']),void_date=epoch(a['voiddate']),completed_flag=a['constcompletedofficial'],status_mapped=a['statuscurrentmapped'],jurisdiction_boundary=a['jurisdiction_inout_ral'],address=a['originaladdress1']);ds='Raleigh building permits'
  if a['countylocation']:d['county']=a['countylocation'].title()+' County'
  return num,status,issued,scope,kind,d,ds
-def rows(events,held):gis_rows(events,held,'raleigh',GIS,GIS[1].split(','),parse)
+def rows(events,held):gis_rows(events,held,'raleigh',GIS,GIS[1].split(','),parse,'permitnum')

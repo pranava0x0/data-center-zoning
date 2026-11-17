@@ -83,7 +83,8 @@
         "RECORD_NUMBER": "25-CAT3-0006",
         "RECORD_OPEN_DATE": 1742788800000,
         "RECORD_STATUS": "APPROVED"
-      }
+      },
+      "key_field": "RECORD_NUMBER"
     },
     {
       "source": "prior",
@@ -108,7 +109,8 @@
         "RECORD_NUMBER": "25-CAT3-0006",
         "RECORD_STATUS_DATE": 1753329600000,
         "RECORD_STATUS": "APPROVED"
-      }
+      },
+      "key_field": "RECORD_NUMBER"
     },
     {
       "source": "planning",
@@ -133,7 +135,8 @@
         "RECORD_NUMBER": "25-CAT3-0015",
         "RECORD_OPEN_DATE": 1760328000000,
         "RECORD_STATUS": "APPROVED"
-      }
+      },
+      "key_field": "RECORD_NUMBER"
     },
     {
       "source": "planning",
@@ -158,7 +161,8 @@
         "RECORD_NUMBER": "25-CAT3-0015",
         "RECORD_STATUS_DATE": 1778385600000,
         "RECORD_STATUS": "APPROVED"
-      }
+      },
+      "key_field": "RECORD_NUMBER"
     },
     {
       "source": "hearing",

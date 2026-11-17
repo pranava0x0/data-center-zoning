@@ -8,7 +8,7 @@ from urllib.parse import urlencode
 from lib.url_archive import Archive
 import lib.discovery as c
 BASE='https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/FeatureServer';DS='District of Columbia building permit register'
-def query(u,**q):return u+'/query?'+urlencode(dict(f='json',**q))
+def query(u,**q):return u+'/query?'+urlencode({'f':'json',**q})
 def run(fetch):
  a=Archive('dcprojects',fetch,owner='district_of_columbia');layers=a.json(BASE+'?f=json')['layers'];out=[];held=[];years={};keys=set()
  for l in layers:
@@ -28,7 +28,7 @@ def run(fetch):
             when=datetime.datetime.fromtimestamp(stamp/1000,datetime.timezone.utc).date().isoformat() if isinstance(stamp,(int,float)) else str(stamp or '')[:10]
             if not re.fullmatch(r'\d{4}-\d\d-\d\d',when) or when>'2026-11-15' or not n or n in keys or re.search(r'former(?:ly)? (?:a )?data center|convert(?:ing)? (?:the |an existing )?data center (?:to|into)|adjacent to (?:a |the )?data center',txt,re.I):
                 held.append([year,n,'Date, duplicate or different use']);continue
-            keys.add(n);url=layer+'/'+str(r['OBJECTID']);out.append(dict(id='dc-dob-'+str(n),state='DC',dataset=DS,record_no=str(n),kind='Building permit',status=status,date=when,date_role='Issue date',jurisdiction='District of Columbia',county='District of Columbia',project=r['PERMIT_TYPE_NAME']+' '+str(n),url=url,source_url=u,source_sha256=a.sources[u]['sha256'],locator='DOB '+year+' register · '+str(n),details=dict(work_description=txt,subtype=r.get('PERMIT_SUBTYPE_NAME'),ward=r.get('WARD'),published_status=status)))
+            keys.add(n);w="PERMIT_ID='"+str(n).replace("'","''")+"'";url=query(layer,where=w,outFields='*',f='html');rowid=r['OBJECTID'];out.append(dict(id='dc-dob-'+str(n),state='DC',dataset=DS,record_no=str(n),kind='Building permit',status=status,date=when,date_role='Issue date',jurisdiction='District of Columbia',county='District of Columbia',project=r['PERMIT_TYPE_NAME']+' '+str(n),url=url,source_url=query(layer,where=w,outFields='*',f='json'),source_sha256=a.sources[u]['sha256'],locator='DOB '+year+' register · '+str(n),details=dict(portal_row_id_at_capture=rowid,work_description=txt,subtype=r.get('PERMIT_SUBTYPE_NAME'),ward=r.get('WARD'),published_status=status)))
  c.dump(series_path('dc'),out);c.dump(c.R/'data/national/dc_audit.json',dict(yearly_candidates=years,held=held,published=len(out)));print(len(out),'DOB records',len(held),'held',collections.Counter(r['status'] for r in out))
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--fetch',action='store_true');run(p.parse_args().fetch)

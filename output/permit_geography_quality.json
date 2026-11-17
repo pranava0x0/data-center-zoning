@@ -1,7 +1,7 @@
 {
   "state_and_territory_features": 56,
   "county_equivalent_features": 3235,
-  "permit_keys": 5655,
+  "permit_keys": 5654,
   "unassigned_by_state": {
     "AZ": {
       "history": 355,
@@ -44,10 +44,10 @@
       "active": 2
     },
     "CA": {
-      "history": 406,
+      "history": 405,
       "federal_history": 41,
       "unconfirmed": 14,
-      "active": 33,
+      "active": 32,
       "historical": 167,
       "federal_unconfirmed": 1
     },

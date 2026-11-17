@@ -22,5 +22,5 @@ def rows(a,emit,held):
             held.append(dict(record_no=no,reason='Telecom co-location; no explicit data center.'));continue
         day=dt.datetime.fromtimestamp(v['DateIssued']/1000,ZoneInfo('America/Denver')).date().isoformat()
         title='NOVA data center' if 'NOVA' in desc else 'Daytona Road data center' if 'DAYTONA' in (v['CalculatedAddress'] or '') else 'Data center building work'
-        emit('Albuquerque issued building permits',no,'Albuquerque','Bernalillo County',title,'Commercial building permit','Issued',day,'Issue date',n.ABQ+'/'+str(v['OBJECTID']),a.get(u)[1],'PermitNumber '+no,work_description=desc,address=v['CalculatedAddress'],work_class=v['TypeofWork'],source_url=u)
+        emit('Albuquerque issued building permits',no,'Albuquerque','Bernalillo County',title,'Commercial building permit','Issued',day,'Issue date',n.ABQ+'/query?'+urlencode({'where':f"PermitNumber='{no}'",'outFields':'*','f':'html'}),a.get(u)[1],'PermitNumber '+no,work_description=desc,address=v['CalculatedAddress'],work_class=v['TypeofWork'],portal_row_id_at_capture=v['OBJECTID'],source_url=u)
     return u,ids

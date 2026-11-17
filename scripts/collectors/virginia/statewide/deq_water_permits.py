@@ -138,8 +138,8 @@ def build():
                 if key=='sswd' and r['APPROVAL_DATE']:date=iso(r['APPROVAL_DATE']);role='determination approval'
                 if key=='vpdes_outfalls':
                     detail.update(outfall=r['OUTFALL_ID'],permit_type=r['VAP_TYPE']);status=''
-            detail['object_id']=oid
-            records.append(dict(id='va-water-'+key+'-'+ident,dataset=dataset,jurisdiction=loc,record_no=n,project=(name or '(unnamed)').strip(),kind=kind,status=status or 'Not supplied',date=date,date_role=role,url=url,source_url=download,locator=f'Layer {layer}; OBJECTID {oid}; {n}',details=detail))
+            detail['portal_row_id_at_capture']=oid
+            records.append(dict(id='va-water-'+key+'-'+ident,dataset=dataset,jurisdiction=loc,record_no=n,project=(name or '(unnamed)').strip(),kind=kind,status=status or 'Not supplied',date=date,date_role=role,url=url,source_url=download,locator=f'Layer {layer}; {n}',details=detail))
         audits[key]=dict(dataset=dataset,url=url,download_url=download,rows_scanned=len(ds),matched_source_rows=len(records)-n0-linked,rows_linked_by_number=linked,unique_record_numbers=len(matches_by_number),csv_bytes=len(raw),csv_sha256=hashlib.sha256(raw).hexdigest())
     cache=(CACHE/'vpt-search.json').read_bytes()
     searches=json.loads(cache);unique={a['id']:a for group in searches for a in group['data']}

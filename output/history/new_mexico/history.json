@@ -11,14 +11,15 @@
     "status": "Issued",
     "date": "2014-12-01",
     "date_role": "Issue date",
-    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/17441",
+    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?where=PermitNumber%3D%27201493026%27&outFields=%2A&f=html",
     "source_url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false",
     "source_sha256": "ac41c9926d05cffdb52bc62b61f58a2d64bfeda36f365c90c249f7023badc9a2",
     "locator": "PermitNumber 201493026",
     "details": {
       "work_description": "STRUCTURAL BUILDING ONLY SHELL NOVA ABQ DATA CENTER   3/11/15 CONTRACTOR CHANGE PER LAND CLARK - LETTER ON FILE - $94.00 CHANGE TO PLANS - DMM",
       "address": "5201 HAWKING DR SE",
-      "work_class": "COMMERCIAL RENOVATION"
+      "work_class": "COMMERCIAL RENOVATION",
+      "portal_row_id_at_capture": 17441
     }
   },
   {
@@ -33,14 +34,15 @@
     "status": "Issued",
     "date": "2014-12-03",
     "date_role": "Issue date",
-    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/17519",
+    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?where=PermitNumber%3D%27201493108%27&outFields=%2A&f=html",
     "source_url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false",
     "source_sha256": "ac41c9926d05cffdb52bc62b61f58a2d64bfeda36f365c90c249f7023badc9a2",
     "locator": "PermitNumber 201493108",
     "details": {
       "work_description": "TENANT IMPROVEMENT NOVA DATA CENTER SCAN   3-11-15  1.) CHANGE TO CONTRACTOR PER LAND CLAR - LETTER ON FILE -                 2.) ELECTRICAL UPGRADE (ELECTRICAL BRANCH CIRCUITS TO SERVER RACKS) ADDED $1,300,00       VALUATION TO THIS PROJECT.  - ORIGINAL*",
       "address": "5201 HAWKING DR SE",
-      "work_class": "COMMERCIAL RENOVATION"
+      "work_class": "COMMERCIAL RENOVATION",
+      "portal_row_id_at_capture": 17519
     }
   },
   {
@@ -55,14 +57,15 @@
     "status": "Issued",
     "date": "2015-02-10",
     "date_role": "Issue date",
-    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/17992",
+    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?where=PermitNumber%3D%27201590172%27&outFields=%2A&f=html",
     "source_url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false",
     "source_sha256": "ac41c9926d05cffdb52bc62b61f58a2d64bfeda36f365c90c249f7023badc9a2",
     "locator": "PermitNumber 201590172",
     "details": {
       "work_description": "ALTERATION LEVEL 2 NOVA DATA CENTER SCAN  NO CO  6/22/15 CHANGE TO PLANS FEE $94.00 PER NASIMA HADI. SAG  3/11/15 CHANGE TO CONTRACTOR PER LAND CLARK - LETTER ON FILE - $94.00 CHANGE TO PLANS FEE. DMM",
       "address": "5201 HAWKING DR SE",
-      "work_class": "COMMERCIAL ADDITION LT 500 SF"
+      "work_class": "COMMERCIAL ADDITION LT 500 SF",
+      "portal_row_id_at_capture": 17992
     }
   },
   {
@@ -388,14 +391,15 @@
     "status": "Issued",
     "date": "2024-12-30",
     "date_role": "Issue date",
-    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/43780",
+    "url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?where=PermitNumber%3D%27BP-2024-36995%27&outFields=%2A&f=html",
     "source_url": "https://coageo.cabq.gov/cabqgeo/rest/services/agis/City_Building_Permits/FeatureServer/0/query?f=json&where=UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATA+CENTRE%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25DATACENTER%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25SERVER+FARM%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25COLOCATION%25%27+OR+UPPER%28WorkDescription%29+LIKE+%27%25CO-LOCATION%25%27&outFields=OBJECTID%2CPermitNumber%2CWorkDescription%2CCalculatedAddress%2CTypeofWork%2CDateIssued&returnGeometry=false",
     "source_sha256": "ac41c9926d05cffdb52bc62b61f58a2d64bfeda36f365c90c249f7023badc9a2",
     "locator": "PermitNumber BP-2024-36995",
     "details": {
       "work_description": "REQUESTING FASTRAX EXPEDITED PLAN REVIEW.  CONSTRUCT NEW 98,695 SF DATA CENTER.  SCOPE INCLUDES SITE WORK, ARCHITECTURAL, ELECTRICAL, MECHANICAL, AND P",
       "address": "99999 DAYTONA RD NW",
-      "work_class": "New Building"
+      "work_class": "New Building",
+      "portal_row_id_at_capture": 43780
     }
   },
   {

@@ -1,11 +1,11 @@
 {
-  "history_rows": 14480,
-  "with_receipt": 14480,
+  "history_rows": 14479,
+  "with_receipt": 14479,
   "without_row_checksum": 0,
-  "receipts": 14508,
+  "receipts": 14507,
   "method_counts": {
     "collector archive verified on disk": 266,
-    "collector receipt": 11392,
+    "collector receipt": 11391,
     "matched GIS objects in archived response": 2088,
     "matched official detail excerpt (not original PDF)": 2,
     "matched application ID and number in official search response": 41,

@@ -342,11 +342,11 @@
       },
       "explicit_district_pathways": 0,
       "embedded_thresholds": 1,
-      "history_rows": 548,
+      "history_rows": 547,
       "unnumbered_cited_events": 0,
       "history_families": {
         "Aviation & airspace": 105,
-        "Building trades & occupancy": 250,
+        "Building trades & occupancy": 249,
         "Construction stormwater": 12,
         "Engineering, subdivision & land": 1,
         "Fire & life safety": 13,
@@ -366,7 +366,7 @@
         "Determination record": 2,
         "Issuance reported": 20,
         "Modification, reissue, transfer or termination": 4,
-        "Other source status; inspect record": 379
+        "Other source status; inspect record": 378
       },
       "history_datasets": {
         "Army Corps consultation history": 4,
@@ -379,7 +379,7 @@
         "San Francisco Fire Department storage and use permits": 12,
         "San Francisco building permits": 53,
         "San José C.3 stormwater project tracking": 12,
-        "San José building permit registers": 55,
+        "San José building permit registers": 54,
         "San José planning register": 57,
         "Santa Clara Fire Marshal permit documents": 1,
         "Santa Clara public land-use proceedings": 46,
@@ -387,9 +387,9 @@
         "US Army Corps of Engineers regulatory public actions": 3
       },
       "unmapped_history_kinds": {},
-      "distinct_identified_permits": 274,
+      "distinct_identified_permits": 273,
       "permit_snapshot_buckets": {
-        "active": 34,
+        "active": 33,
         "historical": 206,
         "unconfirmed": 34
       },

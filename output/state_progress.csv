@@ -1,7 +1,7 @@
 rank,state,name,listed,operating,under_construction,planned,leading_counties,leading_cities_or_towns,leading_townships,leading_statistical_places,verified_provisions,local_provisions,statewide_provisions,history_rows,federal_rows,active_permit_keys,historical_permit_keys,status_unconfirmed_keys
 1,VA,Virginia,591,298,81,212,Loudoun County (228),Manassas city (4),,Ashburn CDP (123),45,34,9,3544,632,22,141,1611
 2,TX,Texas,561,314,73,174,Bexar County (58),San Antonio city (46),,The Woodlands CDP (2),14,12,2,962,214,32,495,129
-3,CA,California,343,289,6,48,Santa Clara County (74),Santa Clara city (53),,Stanford CDP (1),9,8,1,548,113,34,206,34
+3,CA,California,343,289,6,48,Santa Clara County (74),Santa Clara city (53),,Stanford CDP (1),9,8,1,547,113,33,206,34
 4,OH,Ohio,238,154,27,57,Franklin County (32),New Albany city (38),Jersey township (30),,13,10,3,273,122,23,59,17
 5,GA,Georgia,232,112,22,98,Douglas County (22),Alpharetta city (9),,Lithia Springs CDP (6),15,14,1,364,228,6,7,83
 6,AZ,Arizona,176,107,16,53,Maricopa County (69),Mesa city (17),,,11,8,1,509,90,20,199,117

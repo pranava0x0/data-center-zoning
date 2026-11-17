@@ -1,22 +1,22 @@
 {
-  "events": 404,
+  "events": 403,
   "dataset_counts": {
     "CEC small power plant exemption docket": 32,
     "Hayward public land-use proceedings": 6,
     "Los Angeles issued building and trade permits": 143,
     "San Francisco building permits": 53,
     "San José C.3 stormwater project tracking": 12,
-    "San José building permit registers": 55,
+    "San José building permit registers": 54,
     "San José planning register": 57,
     "Santa Clara public land-use proceedings": 46
   },
   "overlap": {
-    "San Jose overlapping source rows": 23
+    "San Jose overlapping source rows": 22
   },
   "geography": {
     "markers": 114,
     "outside_mapped_places": 4
   },
-  "hashes": 114,
+  "hashes": 111,
   "exclusions": 76
 }

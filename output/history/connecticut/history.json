@@ -1,6 +1,6 @@
 [
   {
-    "id": "ct-com-alt-25-000527-0",
+    "id": "ct-com-alt-25-000527-2026-02-02-commercial-alteration-permit",
     "state": "CT",
     "dataset": "Hartford building and trade permits",
     "record_no": "COM-ALT-25-000527",
@@ -10,7 +10,7 @@
     "status": "Issued",
     "date": "2026-02-02",
     "date_role": "Permit issue date",
-    "url": "https://utility.arcgis.com/usrsvcs/servers/d595ae995fb049d3ac54919ebf24b1ac/rest/services/HartfordOpenDataTables/FeatureServer/0/3205",
+    "url": "https://utility.arcgis.com/usrsvcs/servers/d595ae995fb049d3ac54919ebf24b1ac/rest/services/HartfordOpenDataTables/FeatureServer/0/query?where=RECORD_ID%3D%27COM-ALT-25-000527%27&outFields=%2A&f=html",
     "locator": "Hartford Building Permits 20200101 to Current / COM-ALT-25-000527",
     "details": {
       "issuer": "City of Hartford",
@@ -18,11 +18,12 @@
       "archive_sha256": "03c25f70483d75c1390eb1e90711df5ad1955416e94500b9555a40578aadd023",
       "issue_date": "2026-02-02",
       "closed_date": null,
-      "address": "690 ASYLUM AV, #NP EC1, HARTFORD, CT 06105"
+      "address": "690 ASYLUM AV, #NP EC1, HARTFORD, CT 06105",
+      "portal_row_id_at_capture": 3205
     }
   },
   {
-    "id": "ct-1292-1",
+    "id": "ct-1292-2017-02-27-petition-for-declaratory-ruling",
     "state": "CT",
     "dataset": "Connecticut Siting Council data center docket",
     "record_no": "1292",
@@ -42,7 +43,7 @@
     }
   },
   {
-    "id": "ct-1292-2",
+    "id": "ct-1292-2017-04-27-declaratory-ruling",
     "state": "CT",
     "dataset": "Connecticut Siting Council data center docket",
     "record_no": "1292",
@@ -62,7 +63,7 @@
     }
   },
   {
-    "id": "ct-1292-3",
+    "id": "ct-1292-2018-06-14-1-mw-unit-commissioning",
     "state": "CT",
     "dataset": "Connecticut Siting Council data center docket",
     "record_no": "1292",
@@ -82,7 +83,7 @@
     }
   },
   {
-    "id": "ct-1292-4",
+    "id": "ct-1292-2018-06-15-1-mw-unit-commissioning",
     "state": "CT",
     "dataset": "Connecticut Siting Council data center docket",
     "record_no": "1292",
@@ -102,7 +103,7 @@
     }
   },
   {
-    "id": "ct-1292-5",
+    "id": "ct-1292-2021-05-10-notice-of-completion",
     "state": "CT",
     "dataset": "Connecticut Siting Council data center docket",
     "record_no": "1292",
@@ -122,7 +123,7 @@
     }
   },
   {
-    "id": "ct-8-11spr-6",
+    "id": "ct-8-11spr-2014-09-26-site-plan-surety-release",
     "state": "CT",
     "dataset": "Norwalk site plan surety decisions",
     "record_no": "8-11SPR",
@@ -142,7 +143,7 @@
     }
   },
   {
-    "id": "ct-8-11spr-7",
+    "id": "ct-8-11spr-2016-01-29-site-plan-surety-release",
     "state": "CT",
     "dataset": "Norwalk site plan surety decisions",
     "record_no": "8-11SPR",

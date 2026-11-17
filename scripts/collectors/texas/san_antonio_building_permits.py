@@ -34,4 +34,4 @@ def rows(m,add,exclusions):
             name=a['PROJECT NAME'];no=a['PERMIT #'];oid=a['_id'];match=MATCH.search(name)
             if not match:exclusions.append((k,oid,'no explicit keyword',name));continue
             href='https://data.sanantonio.gov/api/3/action/datastore_search?'+urlencode({'resource_id':rid,'filters':json.dumps({'PERMIT #':no},separators=(',',':'))})
-            add(k,n,no,name,a['PERMIT TYPE'],'Issued',isodate(a['DATE ISSUED']),'Issue date',href,f'{rid} CKAN _id={oid}',{'address':a['ADDRESS'],'work_class':a['WORK TYPE'],'application_date':isodate(a['DATE SUBMITTED']),'matched_text':match.group()},'San Antonio')
+            add(k,n,no,name,a['PERMIT TYPE'],'Issued',isodate(a['DATE ISSUED']),'Issue date',href,f'{rid}; PERMIT # {no}',{'address':a['ADDRESS'],'work_class':a['WORK TYPE'],'application_date':isodate(a['DATE SUBMITTED']),'matched_text':match.group()},'San Antonio',row_id=oid)

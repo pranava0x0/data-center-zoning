@@ -45,6 +45,10 @@ def fetch_layer(c,m,k,l):
 def cal(ms):
     return dt.datetime.fromtimestamp(ms/1000,dt.timezone.utc).astimezone(TZ).date().isoformat() if ms is not None else None
 def recordurl(u,n):return u+'/query?'+urlencode(dict(where='OBJECTID='+str(n),outFields='*',returnGeometry='false',f='pjson'))
+def keyurl(u,field,value):
+    """Stable record link: query the layer by the issuer's identifier field, never by the portal's row number."""
+    v=str(value) if isinstance(value,int) else "'"+str(value).replace("'","''")+"'"
+    return u+'/query?'+urlencode(dict(where=field+'='+v,outFields='*',returnGeometry='false',f='pjson'))
 def tidy(s):return ' '.join(str(s or '').upper().split())
 def normpdf(x):return ' '.join(str(x).split()).replace('–','-').casefold()
 def add_document(add,r,ref,dataset,county):
@@ -60,7 +64,7 @@ def build(c,m,geo,layers,portal,docs):
         if key in seen:raise ValueError('Duplicate history key: '+key)
         seen[key]=1
         rows.append(dict(id='oh-'+key,state='OH',dataset=dataset,jurisdiction=city,record_no=str(num),project=project or '(not named)',kind=kind,status=status or 'Not reported',date=date,date_role=role,url=url,locator=locator,source_url=source,source_sha256=hashref,details=details))
-    state={'eng':[],'npseen':{}}
+    state={'eng':[],'npseen':{},'npkeys':set()}
     for k,l in c['layers'].items():
         block=m['layers'][k];meta=read(block['meta']);entries=records(block['screen'])
         audit['sources'][k]={'all_use_rows':read(block['all_use'])['count'],'screen_candidates':len(entries),'strict_phrase_rows':sum(bool(hits(a,l)) for a,_ in entries),'url':l['url'],'predicate':block['screen']['where']}

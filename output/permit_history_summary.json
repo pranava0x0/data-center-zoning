@@ -1,16 +1,16 @@
 {
   "storage": {
-    "csv_bytes": 17209644,
-    "viewer_bytes": 8899755,
-    "detail_bytes": 6358725,
-    "archive_bytes": 3085122076,
+    "csv_bytes": 17151376,
+    "viewer_bytes": 8867924,
+    "detail_bytes": 6417021,
+    "archive_bytes": 3092172798,
     "at_100000_similar_rows_MB": {
-      "csv": 118.9,
-      "viewer": 61.5
+      "csv": 118.5,
+      "viewer": 61.2
     }
   },
   "as_of": "2026-11-15",
-  "rows": 14480,
+  "rows": 14479,
   "loudoun_rows": 2592,
   "states": {
     "WV": 13,
@@ -38,7 +38,7 @@
     "MT": 15,
     "KS": 12,
     "MS": 32,
-    "CA": 548,
+    "CA": 547,
     "WY": 30,
     "LA": 33,
     "NY": 506,
@@ -92,7 +92,7 @@
     },
     "CA": {
       "unconfirmed": 34,
-      "active": 34,
+      "active": 33,
       "historical": 206
     },
     "CO": {
@@ -487,18 +487,18 @@
       "latest": "2026-07-29"
     },
     "ca": {
-      "rows": 404,
+      "rows": 403,
       "datasets": {
         "CEC small power plant exemption docket": 32,
         "Los Angeles issued building and trade permits": 143,
-        "San José building permit registers": 55,
+        "San José building permit registers": 54,
         "San José C.3 stormwater project tracking": 12,
         "San José planning register": 57,
         "Hayward public land-use proceedings": 6,
         "Santa Clara public land-use proceedings": 46,
         "San Francisco building permits": 53
       },
-      "dated": 404,
+      "dated": 403,
       "earliest": "1999-04-29",
       "latest": "2026-10-26"
     },

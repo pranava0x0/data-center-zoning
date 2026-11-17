@@ -6,4 +6,4 @@ def download():gis_download('durham',*GIS)
 def parse(a):
  num=a['PermitNum'];status=a['PmtStatus'];issued=epoch(a['ISSUE_DATE']);co=epoch(a['CO_SIGNOFF_DATE']);scope='Durham County';kind='Building permit — '+str(a['BLDB_ACTIVITY'] or a['TYPE']);d=dict(county=scope,issuer='Durham City-County building inspections',co_signoff_date=co,issue_date=issued,building_type=a['BLD_Type'],occupancy=a['Occupancy']);ds='Durham City-County building permits'
  return num,status,issued,scope,kind,d,ds
-def rows(events,held):gis_rows(events,held,'durham',GIS,['DESCRIPTION','PROJECT_NAME','PROJECT_TYPE'],parse)
+def rows(events,held):gis_rows(events,held,'durham',GIS,['DESCRIPTION','PROJECT_NAME','PROJECT_TYPE'],parse,'PermitNum')

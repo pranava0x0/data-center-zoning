@@ -165,8 +165,8 @@ def rebuild(c):
         out.append({'id':'va-loudoun-structure-'+n,'dataset':'Loudoun structures (not permit files)','jurisdiction':'Loudoun County, VA',
                     'record_no':'Structure GIS ID '+n,'project':'County-classified data center: '+(a['LU_ADDRESS'] or n),'kind':'Data-center structure observation',
                     'status':a['LU_DEVELOP_STATUS'],'date':date,'date_role':'building-permit issue date on structure',
-                    'url':url,'source_url':c['structures'],'locator':'Existing Structures; OBJECTID '+str(oid)+'; GIS ID '+n,
-                    'details':{'structure_gis_id':n,'parcel_pin':p,'source_use':a['LU_USE'],'building_permit_number':None,
+                    'url':url,'source_url':c['structures'],'locator':'Existing Structures; GIS ID '+n,
+                    'details':{'structure_gis_id':n,'portal_row_id_at_capture':str(oid),'parcel_pin':p,'source_use':a['LU_USE'],'building_permit_number':None,
                         'structure_as_of':h.iso(a['LU_AS_OF_DATE'],TZ),'same_pin_date_new_construction_candidate_numbers':sorted(options),
                         'classification':'Structure observation; no permit ID in source'}})
     stats['structures']={'rows':len(out),'distinct_gis_ids':len({r['record_no'] for r in out}),'issue_years':dict(sorted(collections.Counter(r['date'][:4] if r['date'] else 'unknown' for r in out).items()))}

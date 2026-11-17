@@ -9,11 +9,11 @@
     "status": "Finaled",
     "date": "2002-11-06",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=96&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2001-04142%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2001-04142",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "96"
       ],
       "occupancy_dates": [
@@ -35,11 +35,11 @@
     "status": "Finaled",
     "date": "2009-10-23",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=154&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2006-05319%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2006-05319",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "154"
       ],
       "occupancy_dates": [
@@ -61,11 +61,11 @@
     "status": "Finaled",
     "date": "2010-04-20",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=34&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2007-04468%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2007-04468",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "34"
       ],
       "occupancy_dates": [
@@ -87,11 +87,11 @@
     "status": "Finaled",
     "date": "2012-09-20",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=67&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2009-02929%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2009-02929",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "67"
       ],
       "occupancy_dates": [
@@ -111,11 +111,11 @@
     "status": "Finaled",
     "date": "2012-09-20",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=70&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2012-02503%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2012-02503",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "70"
       ],
       "occupancy_dates": [
@@ -135,11 +135,11 @@
     "status": "Finaled",
     "date": "1986-06-04",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=69&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2012-03056%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2012-03056",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "69"
       ],
       "occupancy_dates": [
@@ -159,11 +159,11 @@
     "status": "Finaled",
     "date": "2014-07-29",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=105&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2014-01766%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2014-01766",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "105"
       ],
       "occupancy_dates": [
@@ -183,11 +183,11 @@
     "status": "Finaled",
     "date": "2016-01-22",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=9&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2015-22325%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2015-22325",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "9"
       ],
       "occupancy_dates": [
@@ -207,11 +207,11 @@
     "status": "Finaled",
     "date": "2016-07-22",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=10&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2015-23921%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2015-23921",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "10"
       ],
       "occupancy_dates": [
@@ -231,11 +231,11 @@
     "status": "Finaled",
     "date": "2017-10-26",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=107&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2016-04280%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2016-04280",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "107"
       ],
       "occupancy_dates": [
@@ -255,11 +255,11 @@
     "status": "Finaled",
     "date": "2017-09-14",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=51&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2016-05888%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2016-05888",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "51"
       ],
       "occupancy_dates": [
@@ -279,11 +279,11 @@
     "status": "Finaled",
     "date": "2017-06-01",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=15&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2016-06361%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2016-06361",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "15"
       ],
       "occupancy_dates": [
@@ -303,11 +303,11 @@
     "status": "Finaled",
     "date": "2017-09-24",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=1&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2017-00581%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2017-00581",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "1"
       ],
       "occupancy_dates": [
@@ -327,11 +327,11 @@
     "status": "Finaled",
     "date": "2017-08-04",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=16&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2017-01263%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2017-01263",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "16"
       ],
       "occupancy_dates": [
@@ -351,11 +351,11 @@
     "status": "Finaled",
     "date": "2017-10-22",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=14&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2017-02845%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2017-02845",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "14"
       ],
       "occupancy_dates": [
@@ -375,11 +375,11 @@
     "status": "Finaled",
     "date": "2020-05-14",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=13&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2018-03269%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2018-03269",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "13"
       ],
       "occupancy_dates": [
@@ -399,11 +399,11 @@
     "status": "Finaled",
     "date": "2019-10-24",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=2&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2018-04430%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2018-04430",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "2"
       ],
       "occupancy_dates": [
@@ -423,11 +423,11 @@
     "status": "Finaled",
     "date": "2023-07-11",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=108&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2018-06209%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2018-06209",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "108"
       ],
       "occupancy_dates": [
@@ -447,11 +447,11 @@
     "status": "Finaled",
     "date": "2019-03-28",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=23&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2018-06634%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2018-06634",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "23"
       ],
       "occupancy_dates": [
@@ -473,11 +473,11 @@
     "status": "Finaled",
     "date": "2020-09-16",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2019-01155%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2019-01155",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "27"
       ],
       "occupancy_dates": [
@@ -497,11 +497,11 @@
     "status": "Finaled",
     "date": "2020-02-05",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=36&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2019-01459%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2019-01459",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "36"
       ],
       "occupancy_dates": [
@@ -521,11 +521,11 @@
     "status": "Finaled",
     "date": "2021-01-05",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=50&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2019-02023%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2019-02023",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "50"
       ],
       "occupancy_dates": [
@@ -545,11 +545,11 @@
     "status": "Finaled",
     "date": "2019-11-15",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=35&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2019-02581%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2019-02581",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "35"
       ],
       "occupancy_dates": [
@@ -569,11 +569,11 @@
     "status": "Finaled",
     "date": "2020-12-02",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=28&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2019-04018%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2019-04018",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "28"
       ],
       "occupancy_dates": [
@@ -593,11 +593,11 @@
     "status": "Finaled",
     "date": "2021-10-14",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=46&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2020-00115%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2020-00115",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "46"
       ],
       "occupancy_dates": [
@@ -619,11 +619,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=52&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2020-04041%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2020-04041",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "52"
       ],
       "occupancy_dates": [],
@@ -641,11 +641,11 @@
     "status": "Finaled",
     "date": "2022-03-08",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=48&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2020-04380%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2020-04380",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "48"
       ],
       "occupancy_dates": [
@@ -667,11 +667,11 @@
     "status": "Finaled",
     "date": "2021-11-26",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=109&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2020-04888%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2020-04888",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "109"
       ],
       "occupancy_dates": [
@@ -691,11 +691,11 @@
     "status": "Finaled",
     "date": "2020-07-14",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=49&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2020-05182%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2020-05182",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "49"
       ],
       "occupancy_dates": [
@@ -717,11 +717,11 @@
     "status": "Finaled",
     "date": "2023-03-13",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=47&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2021-00330%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2021-00330",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "47"
       ],
       "occupancy_dates": [
@@ -743,11 +743,11 @@
     "status": "Finaled",
     "date": "2025-10-31",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=37&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2021-02881%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2021-02881",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "37"
       ],
       "occupancy_dates": [
@@ -767,11 +767,11 @@
     "status": "Finaled",
     "date": "2023-04-28",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=22&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2021-04300%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2021-04300",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "22"
       ],
       "occupancy_dates": [
@@ -791,11 +791,11 @@
     "status": "Finaled",
     "date": "2024-05-24",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=83&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2021-08185%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2021-08185",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "83"
       ],
       "occupancy_dates": [
@@ -817,11 +817,11 @@
     "status": "Finaled",
     "date": "2023-06-09",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=40&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-00534%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-00534",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "40"
       ],
       "occupancy_dates": [
@@ -841,11 +841,11 @@
     "status": "Finaled",
     "date": "2024-01-22",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=20&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-01092%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-01092",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "20"
       ],
       "occupancy_dates": [
@@ -867,11 +867,11 @@
     "status": "Finaled",
     "date": "2025-11-04",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=39&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-01720%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-01720",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "39"
       ],
       "occupancy_dates": [
@@ -891,11 +891,11 @@
     "status": "Finaled",
     "date": "2024-07-29",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=19&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-03130%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-03130",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "19"
       ],
       "occupancy_dates": [
@@ -917,11 +917,11 @@
     "status": "Finaled",
     "date": "2025-06-24",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=93&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-03616%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-03616",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "93"
       ],
       "occupancy_dates": [
@@ -943,11 +943,11 @@
     "status": "Finaled",
     "date": "2025-02-20",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=18&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-04680%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-04680",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "18"
       ],
       "occupancy_dates": [
@@ -969,11 +969,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=77&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-05922%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-05922",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "77"
       ],
       "occupancy_dates": [],
@@ -993,11 +993,11 @@
     "status": "Finaled",
     "date": "2024-07-11",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=24&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-06119%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-06119",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "24"
       ],
       "occupancy_dates": [
@@ -1019,11 +1019,11 @@
     "status": "Finaled",
     "date": "2025-07-16",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=38&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-07412%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-07412",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "38"
       ],
       "occupancy_dates": [
@@ -1043,11 +1043,11 @@
     "status": "Finaled",
     "date": "2024-11-05",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=106&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2022-07765%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2022-07765",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "106"
       ],
       "occupancy_dates": [
@@ -1067,11 +1067,11 @@
     "status": "Finaled",
     "date": "2024-09-25",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=3&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-00509%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-00509",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "3"
       ],
       "occupancy_dates": [
@@ -1091,11 +1091,11 @@
     "status": "Finaled",
     "date": "2025-07-07",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=32&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-00562%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-00562",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "32"
       ],
       "occupancy_dates": [
@@ -1117,11 +1117,11 @@
     "status": "Finaled",
     "date": "2025-05-28",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=17&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-00752%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-00752",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "17"
       ],
       "occupancy_dates": [
@@ -1143,11 +1143,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=97&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-01296%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-01296",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "97"
       ],
       "occupancy_dates": [],
@@ -1165,11 +1165,11 @@
     "status": "Finaled",
     "date": "2025-06-24",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=94&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-01345%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-01345",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "94"
       ],
       "occupancy_dates": [
@@ -1191,11 +1191,11 @@
     "status": "Finaled",
     "date": "2026-02-11",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=87&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-02498%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-02498",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "87"
       ],
       "occupancy_dates": [
@@ -1217,11 +1217,11 @@
     "status": "Finaled",
     "date": "2025-06-11",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=4&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-03506%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-03506",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "4"
       ],
       "occupancy_dates": [
@@ -1241,11 +1241,11 @@
     "status": "Finaled",
     "date": "2025-06-11",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=5&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-03508%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-03508",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "5"
       ],
       "occupancy_dates": [
@@ -1265,11 +1265,11 @@
     "status": "Finaled",
     "date": "2024-08-30",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=42&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-03853%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-03853",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "42"
       ],
       "occupancy_dates": [
@@ -1289,11 +1289,11 @@
     "status": "Finaled",
     "date": "2026-09-17",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=95&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-04428%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-04428",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "95"
       ],
       "occupancy_dates": [
@@ -1315,11 +1315,11 @@
     "status": "Finaled",
     "date": "2025-12-29",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=25&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-04643%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-04643",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "25"
       ],
       "occupancy_dates": [
@@ -1341,11 +1341,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=98&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-04861%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-04861",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "98"
       ],
       "occupancy_dates": [],
@@ -1363,11 +1363,11 @@
     "status": "Finaled",
     "date": "2025-06-18",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=6&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-05363%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-05363",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "6"
       ],
       "occupancy_dates": [
@@ -1387,11 +1387,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=101&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-05471%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-05471",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "101"
       ],
       "occupancy_dates": [],
@@ -1409,11 +1409,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=89&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-07492%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-07492",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "89"
       ],
       "occupancy_dates": [],
@@ -1431,11 +1431,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=99&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2023-07720%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2023-07720",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "99"
       ],
       "occupancy_dates": [],
@@ -1453,11 +1453,11 @@
     "status": "Finaled",
     "date": "2026-01-08",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=11&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-01532%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-01532",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "11"
       ],
       "occupancy_dates": [
@@ -1477,11 +1477,11 @@
     "status": "Finaled",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=58&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-02491%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-02491",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "58"
       ],
       "occupancy_dates": [],
@@ -1501,11 +1501,11 @@
     "status": "Finaled",
     "date": "2025-06-26",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=88&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-02696%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-02696",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "88"
       ],
       "occupancy_dates": [
@@ -1525,11 +1525,11 @@
     "status": "Finaled",
     "date": "2025-11-19",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=7&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-02971%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-02971",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "7"
       ],
       "occupancy_dates": [
@@ -1549,11 +1549,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=100&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-03062%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-03062",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "100"
       ],
       "occupancy_dates": [],
@@ -1571,11 +1571,11 @@
     "status": "Finaled",
     "date": "2026-07-02",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=29&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-04783%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-04783",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "29"
       ],
       "occupancy_dates": [
@@ -1597,11 +1597,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=41&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-05348%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-05348",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "41"
       ],
       "occupancy_dates": [],
@@ -1621,11 +1621,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=111&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-05622%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-05622",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "111"
       ],
       "occupancy_dates": [],
@@ -1645,11 +1645,11 @@
     "status": "Pending",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=73&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-06291%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-06291",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "73"
       ],
       "occupancy_dates": [],
@@ -1667,11 +1667,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=21&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-06788%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-06788",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "21"
       ],
       "occupancy_dates": [],
@@ -1691,11 +1691,11 @@
     "status": "Finaled",
     "date": "2026-07-01",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=84&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2024-07030%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2024-07030",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "84"
       ],
       "occupancy_dates": [
@@ -1717,11 +1717,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=57&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-00144%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-00144",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "57"
       ],
       "occupancy_dates": [],
@@ -1739,11 +1739,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=12&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-00827%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-00827",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "12"
       ],
       "occupancy_dates": [],
@@ -1761,11 +1761,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=45&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-01136%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-01136",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "45"
       ],
       "occupancy_dates": [],
@@ -1783,11 +1783,11 @@
     "status": "Planned",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=90&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-02384%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-02384",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "90"
       ],
       "occupancy_dates": [],
@@ -1805,11 +1805,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=59&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-02545%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-02545",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "59"
       ],
       "occupancy_dates": [],
@@ -1829,11 +1829,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=31&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-03019%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-03019",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "31"
       ],
       "occupancy_dates": [],
@@ -1853,11 +1853,11 @@
     "status": "Issued",
     "date": "2025-05-09",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=30&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-03129%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-03129",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "30"
       ],
       "occupancy_dates": [
@@ -1879,11 +1879,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=44&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-03391%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-03391",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "44"
       ],
       "occupancy_dates": [],
@@ -1903,11 +1903,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=26&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-03459%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-03459",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "26"
       ],
       "occupancy_dates": [],
@@ -1927,11 +1927,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=104&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-04670%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-04670",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "104"
       ],
       "occupancy_dates": [],
@@ -1949,11 +1949,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=62&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-04928%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-04928",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "62"
       ],
       "occupancy_dates": [],
@@ -1973,11 +1973,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=43&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2025-06092%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2025-06092",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "43"
       ],
       "occupancy_dates": [],
@@ -1997,11 +1997,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=112&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-00592%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-00592",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "112"
       ],
       "occupancy_dates": [],
@@ -2021,11 +2021,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=113&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-00593%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-00593",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "113"
       ],
       "occupancy_dates": [],
@@ -2045,11 +2045,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=61&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-01701%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-01701",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "61"
       ],
       "occupancy_dates": [],
@@ -2069,11 +2069,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=63&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-01905%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-01905",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "63"
       ],
       "occupancy_dates": [],
@@ -2093,11 +2093,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=265&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-02951%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-02951",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "265"
       ],
       "occupancy_dates": [],
@@ -2117,11 +2117,11 @@
     "status": "Finaled",
     "date": "2002-06-04",
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=153&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-02975%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-02975",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "153"
       ],
       "occupancy_dates": [
@@ -2141,11 +2141,11 @@
     "status": "Pending",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=86&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-04211%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-04211",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "86"
       ],
       "occupancy_dates": [],
@@ -2165,11 +2165,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=56&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-04432%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-04432",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "56"
       ],
       "occupancy_dates": [],
@@ -2189,11 +2189,11 @@
     "status": "Pending",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=114&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-05277%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-05277",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "114"
       ],
       "occupancy_dates": [],
@@ -2213,11 +2213,11 @@
     "status": "Issued",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=102&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-05831%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-05831",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "102"
       ],
       "occupancy_dates": [],
@@ -2235,11 +2235,11 @@
     "status": "Planned",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=240&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2026-06372%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2026-06372",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "240"
       ],
       "occupancy_dates": [],
@@ -2259,11 +2259,11 @@
     "status": "Planned",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=272&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2027-00758%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2027-00758",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "272"
       ],
       "occupancy_dates": [],
@@ -2283,11 +2283,11 @@
     "status": "Planned",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=78&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2027-01391%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2027-01391",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "78"
       ],
       "occupancy_dates": [],
@@ -2307,11 +2307,11 @@
     "status": "Planned",
     "date": null,
     "date_role": "occupancy date",
-    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?objectIds=258&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
+    "url": "https://gisweb.pwcva.gov/arcgis/rest/services/Planning/Build_Out_Analysis/MapServer/9/query?where=PermitCase+%3D+%27BLD2027-01529%27&outFields=PermitCase%2CBuildingName%2CPermitStatus%2COCCDate%2COBJECTID%2CPlanningCaseNumber&returnGeometry=false&f=pjson",
     "source_url": "https://gisdata-pwcgov.opendata.arcgis.com/api/download/v1/items/9c8104d64b1c4c45942aec06ccbe5f44/csv?layers=9",
     "locator": "PermitCase BLD2027-01529",
     "details": {
-      "object_ids": [
+      "portal_row_id_at_capture": [
         "258"
       ],
       "occupancy_dates": [],

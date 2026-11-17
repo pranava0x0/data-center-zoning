@@ -8,18 +8,18 @@
     "va_directory_entries": 324,
     "va_successes": 249,
     "bytes_per_rule_export": 1526.0424242424242,
-    "standalone_viewer_bytes": 2272518,
-    "viewer_asset_bytes": 22505780,
+    "standalone_viewer_bytes": 2266938,
+    "viewer_asset_bytes": 22526665,
     "national_geographies": 72418,
     "government_entries": 91811,
-    "history_events": 14480,
-    "history_csv_bytes": 17209644,
+    "history_events": 14479,
+    "history_csv_bytes": 17151376,
     "directory_bytes": 3063962,
-    "cache_logical_bytes": 10956589740,
-    "cache_file_count": 71223,
+    "cache_logical_bytes": 10963640462,
+    "cache_file_count": 71220,
     "cache_bytes_by_collection": {
       "codebooks": 4114431915,
-      "history": 3085122076,
+      "history": 3092172798,
       "compass_code_sources": 1742783678,
       "local-screen": 1219310384,
       "sources": 399426994,
@@ -55,7 +55,7 @@
       "va-corps-10795.txt": 0,
       "va-corps-10724.txt": 0
     },
-    "cache_measurement_utc": "2026-11-16T23:28:41+00:00"
+    "cache_measurement_utc": "2026-11-17T01:08:03+00:00"
   },
   "scenarios": [
     {

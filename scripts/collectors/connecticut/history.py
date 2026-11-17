@@ -13,7 +13,10 @@ def refresh():
 def build():
  A.verify();events=[]
  def add(ds,no,pr,j,kind,status,dt,role,url,loc,**d):
-  events.append(dict(id='ct-'+re.sub('[^a-z0-9]+','-',no.lower())+'-'+str(len(events)),state='CT',dataset=ds,record_no=no,project=pr,jurisdiction=j,kind=kind,status=status,date=dt,date_role=role,url=url,locator=loc,details=d))
+  slug=lambda v:re.sub('[^a-z0-9]+','-',str(v).lower()).strip('-')
+  rid='ct-'+slug(no)+'-'+slug(dt or 'undated')+'-'+slug(kind)  # identifier, date and action; not list position
+  assert rid not in {e['id'] for e in events},rid
+  events.append(dict(id=rid,state='CT',dataset=ds,record_no=no,project=pr,jurisdiction=j,kind=kind,status=status,date=dt,date_role=role,url=url,locator=loc,details=d))
  held=hartford.rows(A,add);csc.rows(A,add);norwalk.rows(A,add)
  lib.files.dump(series_path('ct'),events);lib.files.dump(collector_data('connecticut','validation.json'),dict(events=len(events),datasets=dict(Counter(a['dataset'] for a in events)),held_hartford_ids=held,geography=A.rank()));print(len(events),'CT events')
 if __name__=='__main__':

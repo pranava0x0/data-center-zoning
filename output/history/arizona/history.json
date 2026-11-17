@@ -12,7 +12,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-09976",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-09976, source row row-wr5k-zhqa_dmv8",
+    "locator": "permit_number=PMT26-09976",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -22,6 +22,7 @@
       "status_date": "2026-11-13",
       "finaled_date": "2026-11-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-wr5k-zhqa_dmv8",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -67,7 +68,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-20253",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-20253, source row row-jdcn_4c27~qe6z",
+    "locator": "permit_number=PMT26-20253",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -77,6 +78,7 @@
       "status_date": "2026-11-09",
       "finaled_date": "2026-11-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-jdcn_4c27~qe6z",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -122,7 +124,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-12295",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-12295, source row row-q95a_6ywp.cgtx",
+    "locator": "permit_number=PMT26-12295",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -132,6 +134,7 @@
       "status_date": "2026-10-21",
       "finaled_date": "2026-10-21",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-q95a_6ywp.cgtx",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -190,7 +193,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-11309",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-11309, source row row-86qd.7s77-kwxr",
+    "locator": "permit_number=PMT26-11309",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -200,6 +203,7 @@
       "status_date": "2026-10-14",
       "finaled_date": "2026-10-14",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-86qd.7s77-kwxr",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -216,7 +220,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-16525",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-16525, source row row-4enw.n2mn.siu4",
+    "locator": "permit_number=PMT26-16525",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Centers",
@@ -226,6 +230,7 @@
       "status_date": "2026-10-13",
       "finaled_date": "2026-10-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-4enw.n2mn.siu4",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -242,7 +247,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-11828",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-11828, source row row-33gk.6fxi-jyvh",
+    "locator": "permit_number=PMT26-11828",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -252,6 +257,7 @@
       "status_date": "2026-10-06",
       "finaled_date": "2026-10-06",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-33gk.6fxi-jyvh",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -268,7 +274,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-08422",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-08422, source row row-ewba_qv6i.vses",
+    "locator": "permit_number=PMT26-08422",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -278,6 +284,7 @@
       "status_date": "2026-10-06",
       "finaled_date": "2026-10-06",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-ewba_qv6i.vses",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -324,7 +331,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-17452",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-17452, source row row-i3ne-xcjx-jtih",
+    "locator": "permit_number=PMT26-17452",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -334,6 +341,7 @@
       "status_date": "2026-10-14",
       "finaled_date": "2026-10-14",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-i3ne-xcjx-jtih",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -373,7 +381,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-15404",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-15404, source row row-rhwk_whra~8yzn",
+    "locator": "permit_number=PMT26-15404",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -383,6 +391,7 @@
       "status_date": "2026-10-27",
       "finaled_date": "2026-10-27",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-rhwk_whra~8yzn",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -399,7 +408,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-13890",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-13890, source row row-juz7~ex2n.49zb",
+    "locator": "permit_number=PMT26-13890",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Centers",
@@ -409,6 +418,7 @@
       "status_date": "2026-11-13",
       "finaled_date": "2026-11-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-juz7~ex2n.49zb",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -425,7 +435,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-13328",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-13328, source row row-rfde.mfp8~363b",
+    "locator": "permit_number=PMT26-13328",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -435,6 +445,7 @@
       "status_date": "2026-08-10",
       "finaled_date": "2026-08-10",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-rfde.mfp8~363b",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -451,7 +462,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-06976",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-06976, source row row-ztaq-p4ia_jqws",
+    "locator": "permit_number=PMT26-06976",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -461,6 +472,7 @@
       "status_date": "2026-09-24",
       "finaled_date": "2026-09-24",
       "cofo_date": "2026-09-24",
+      "portal_row_id_at_capture": "row-ztaq-p4ia_jqws",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -507,7 +519,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-01256",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-01256, source row row-gv6k-d5ad_kzhu",
+    "locator": "permit_number=PMT26-01256",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -517,6 +529,7 @@
       "status_date": "2026-06-18",
       "finaled_date": "2026-06-18",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-gv6k-d5ad_kzhu",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -562,7 +575,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-05269",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-05269, source row row-awzq-7wgw.9xkx",
+    "locator": "permit_number=PMT26-05269",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -572,6 +585,7 @@
       "status_date": "2026-09-10",
       "finaled_date": "2026-09-10",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-awzq-7wgw.9xkx",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -640,7 +654,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-09201",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-09201, source row row-k68b~xczv-h3zs",
+    "locator": "permit_number=PMT26-09201",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Centers",
@@ -650,6 +664,7 @@
       "status_date": "2026-07-30",
       "finaled_date": "2026-07-30",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-k68b~xczv-h3zs",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -777,7 +792,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT26-00884",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT26-00884, source row row-ugsi_ux2f.xck4",
+    "locator": "permit_number=PMT26-00884",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -787,6 +802,7 @@
       "status_date": "2026-04-17",
       "finaled_date": "2026-04-17",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-ugsi_ux2f.xck4",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1152,7 +1168,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-15477",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-15477, source row row-nx9i-7qac-xew3",
+    "locator": "permit_number=PMT25-15477",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data halls",
@@ -1162,6 +1178,7 @@
       "status_date": "2026-09-15",
       "finaled_date": "2026-09-15",
       "cofo_date": "2026-09-15",
+      "portal_row_id_at_capture": "row-nx9i-7qac-xew3",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1207,7 +1224,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-22348",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-22348, source row row-95at_6c3x~t5u9",
+    "locator": "permit_number=PMT25-22348",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -1217,6 +1234,7 @@
       "status_date": "2026-02-09",
       "finaled_date": "2026-02-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-95at_6c3x~t5u9",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1233,7 +1251,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-18626",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-18626, source row row-6ske-3464-rdm9",
+    "locator": "permit_number=PMT25-18626",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -1243,6 +1261,7 @@
       "status_date": "2026-08-14",
       "finaled_date": "2026-08-14",
       "cofo_date": "2026-08-14",
+      "portal_row_id_at_capture": "row-6ske-3464-rdm9",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1259,7 +1278,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-16644",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-16644, source row row-jnvz-a6yn_xani",
+    "locator": "permit_number=PMT25-16644",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -1269,6 +1288,7 @@
       "status_date": "2026-02-09",
       "finaled_date": "2026-02-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-jnvz-a6yn_xani",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1408,7 +1428,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-13554",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-13554, source row row-dr8d.7dtj~cspv",
+    "locator": "permit_number=PMT25-13554",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -1418,6 +1438,7 @@
       "status_date": "2026-01-15",
       "finaled_date": "2026-01-15",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-dr8d.7dtj~cspv",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1434,7 +1455,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-17623",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-17623, source row row-zvg8.vw6g~3mb3",
+    "locator": "permit_number=PMT25-17623",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Hall",
@@ -1444,6 +1465,7 @@
       "status_date": "2026-01-13",
       "finaled_date": "2026-01-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-zvg8.vw6g~3mb3",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1608,7 +1630,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-13240",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-13240, source row row-e8yf~xben-t5s8",
+    "locator": "permit_number=PMT25-13240",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -1618,6 +1640,7 @@
       "status_date": "2025-12-30",
       "finaled_date": "2025-12-30",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-e8yf~xben-t5s8",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1663,7 +1686,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-22845",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-22845, source row row-iq2q.xesf_da9w",
+    "locator": "permit_number=PMT25-22845",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Hall",
@@ -1673,6 +1696,7 @@
       "status_date": "2025-12-15",
       "finaled_date": "2025-12-15",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-iq2q.xesf_da9w",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1965,7 +1989,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-11502",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-11502, source row row-guzs~qyrw-s35x",
+    "locator": "permit_number=PMT25-11502",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -1975,6 +1999,7 @@
       "status_date": "2026-08-14",
       "finaled_date": "2026-08-14",
       "cofo_date": "2026-08-14",
+      "portal_row_id_at_capture": "row-guzs~qyrw-s35x",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -1991,7 +2016,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-12302",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-12302, source row row-a6n8.s3pt_qcdn",
+    "locator": "permit_number=PMT25-12302",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -2001,6 +2026,7 @@
       "status_date": "2026-01-09",
       "finaled_date": "2026-01-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-a6n8.s3pt_qcdn",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2137,7 +2163,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-15222",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-15222, source row row-6vhp-rxrg.fyx7",
+    "locator": "permit_number=PMT25-15222",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -2147,6 +2173,7 @@
       "status_date": "2026-05-17",
       "finaled_date": "2026-05-17",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-6vhp-rxrg.fyx7",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2439,7 +2466,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-09255",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-09255, source row row-anhe~t82n_q9zf",
+    "locator": "permit_number=PMT25-09255",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Hall",
@@ -2449,6 +2476,7 @@
       "status_date": "2025-08-06",
       "finaled_date": "2025-08-06",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-anhe~t82n_q9zf",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2502,7 +2530,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-06684",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-06684, source row row-wdvn-g6yv_tigb",
+    "locator": "permit_number=PMT25-06684",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data halls",
@@ -2512,6 +2540,7 @@
       "status_date": "2026-07-09",
       "finaled_date": "2026-07-09",
       "cofo_date": "2026-07-09",
+      "portal_row_id_at_capture": "row-wdvn-g6yv_tigb",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2528,7 +2557,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-14194",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-14194, source row row-f357.v8bv-zi2z",
+    "locator": "permit_number=PMT25-14194",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -2538,6 +2567,7 @@
       "status_date": "2025-09-09",
       "finaled_date": "2025-09-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-f357.v8bv-zi2z",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2612,7 +2642,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-08110",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-08110, source row row-q8nd_jtjr-97g9",
+    "locator": "permit_number=PMT24-08110",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -2622,6 +2652,7 @@
       "status_date": "2025-07-28",
       "finaled_date": "2025-07-28",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-q8nd_jtjr-97g9",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2638,7 +2669,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT25-01071",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT25-01071, source row row-gtaw~4bw4.at8y",
+    "locator": "permit_number=PMT25-01071",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -2648,6 +2679,7 @@
       "status_date": "2026-09-15",
       "finaled_date": "2026-09-15",
       "cofo_date": "2026-09-15",
+      "portal_row_id_at_capture": "row-gtaw~4bw4.at8y",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2664,7 +2696,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-20204",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-20204, source row row-r5vc~utt7-aga3",
+    "locator": "permit_number=PMT24-20204",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -2674,6 +2706,7 @@
       "status_date": "2026-11-06",
       "finaled_date": "2026-11-06",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-r5vc~utt7-aga3",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2748,7 +2781,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-19524",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-19524, source row row-8edz~up9j-zvk9",
+    "locator": "permit_number=PMT24-19524",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -2758,6 +2791,7 @@
       "status_date": "2026-09-14",
       "finaled_date": "2026-09-14",
       "cofo_date": "2026-09-14",
+      "portal_row_id_at_capture": "row-8edz~up9j-zvk9",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2774,7 +2808,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-15751",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-15751, source row row-p2p5_psge~cuim",
+    "locator": "permit_number=PMT24-15751",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -2784,6 +2818,7 @@
       "status_date": "2025-04-09",
       "finaled_date": "2025-04-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-p2p5_psge~cuim",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2829,7 +2864,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-15709",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-15709, source row row-cjp5.bsnn.5k2w",
+    "locator": "permit_number=PMT24-15709",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -2839,6 +2874,7 @@
       "status_date": "2025-03-25",
       "finaled_date": "2025-03-25",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-cjp5.bsnn.5k2w",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2884,7 +2920,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-11833",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-11833, source row row-dmkx-96xr-irv3",
+    "locator": "permit_number=PMT24-11833",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -2894,6 +2930,7 @@
       "status_date": "2025-03-12",
       "finaled_date": "2025-03-12",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-dmkx-96xr-irv3",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2910,7 +2947,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-13636",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-13636, source row row-ckp8.8iay.j2xw",
+    "locator": "permit_number=PMT24-13636",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -2920,6 +2957,7 @@
       "status_date": "2026-08-18",
       "finaled_date": "2026-08-18",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-ckp8.8iay.j2xw",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -2936,7 +2974,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-17530",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-17530, source row row-snxj-zj5p_32tk",
+    "locator": "permit_number=PMT24-17530",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -2946,6 +2984,7 @@
       "status_date": "2026-10-30",
       "finaled_date": "2026-10-30",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-snxj-zj5p_32tk",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3057,7 +3096,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-16768",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-16768, source row row-u64k-6rfh_5dk8",
+    "locator": "permit_number=PMT24-16768",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data halls",
@@ -3067,6 +3106,7 @@
       "status_date": "2026-07-23",
       "finaled_date": "2026-07-23",
       "cofo_date": "2026-07-23",
+      "portal_row_id_at_capture": "row-u64k-6rfh_5dk8",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3646,7 +3686,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-11335",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-11335, source row row-rkhs~279h.379u",
+    "locator": "permit_number=PMT24-11335",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -3656,6 +3696,7 @@
       "status_date": "2026-08-28",
       "finaled_date": "2026-08-28",
       "cofo_date": "2026-08-28",
+      "portal_row_id_at_capture": "row-rkhs~279h.379u",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3761,7 +3802,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-07027",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-07027, source row row-cgtz-vtjg~ztyj",
+    "locator": "permit_number=PMT24-07027",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -3771,6 +3812,7 @@
       "status_date": "2026-07-09",
       "finaled_date": "2026-07-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-cgtz-vtjg~ztyj",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3787,7 +3829,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-15428",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-15428, source row row-6cuh.9ad6-yizr",
+    "locator": "permit_number=PMT24-15428",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -3797,6 +3839,7 @@
       "status_date": "2025-12-03",
       "finaled_date": "2025-12-03",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-6cuh.9ad6-yizr",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3813,7 +3856,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-11896",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-11896, source row row-9kvh.ug3v_gg9r",
+    "locator": "permit_number=PMT24-11896",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -3823,6 +3866,7 @@
       "status_date": "2024-09-16",
       "finaled_date": "2024-09-16",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-9kvh.ug3v_gg9r",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3839,7 +3883,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-13995",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-13995, source row row-vr66.y8ep.tjwc",
+    "locator": "permit_number=PMT24-13995",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "datacenter",
@@ -3849,6 +3893,7 @@
       "status_date": "2026-06-13",
       "finaled_date": "2026-06-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-vr66.y8ep.tjwc",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3865,7 +3910,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-09780",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-09780, source row row-zywf-gwe6.rbwt",
+    "locator": "permit_number=PMT24-09780",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -3875,6 +3920,7 @@
       "status_date": "2026-11-06",
       "finaled_date": "2026-11-06",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-zywf-gwe6.rbwt",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3891,7 +3937,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-19122",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-19122, source row row-8gyd_ksrb~43au",
+    "locator": "permit_number=PMT23-19122",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -3901,6 +3947,7 @@
       "status_date": "2026-04-28",
       "finaled_date": "2026-04-28",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-8gyd_ksrb~43au",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3917,7 +3964,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-19121",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-19121, source row row-in7m.6dsi_9biq",
+    "locator": "permit_number=PMT23-19121",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -3927,6 +3974,7 @@
       "status_date": "2025-11-26",
       "finaled_date": "2025-11-26",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-in7m.6dsi_9biq",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3943,7 +3991,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-06075",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-06075, source row row-tqmw-xuuy_eyvn",
+    "locator": "permit_number=PMT24-06075",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -3953,6 +4001,7 @@
       "status_date": "2026-01-09",
       "finaled_date": "2026-01-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-tqmw-xuuy_eyvn",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -3969,7 +4018,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-12942",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-12942, source row row-eq73-vgkw-t2f3",
+    "locator": "permit_number=PMT24-12942",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -3979,6 +4028,7 @@
       "status_date": "2026-10-22",
       "finaled_date": "2026-10-22",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-eq73-vgkw-t2f3",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4200,7 +4250,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-07723",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-07723, source row row-g5jr-defk_reus",
+    "locator": "permit_number=PMT24-07723",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -4210,6 +4260,7 @@
       "status_date": "2026-09-10",
       "finaled_date": "2026-09-10",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-g5jr-defk_reus",
       "archive": "cache/history/az/mesa-0.json.gz",
       "duplicate_source_rows": [
         "row-8qta-6wss_sr4a"
@@ -4229,7 +4280,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-05568",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-05568, source row row-y73y-z34f.crha",
+    "locator": "permit_number=PMT24-05568",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -4239,6 +4290,7 @@
       "status_date": "2025-04-30",
       "finaled_date": "2025-04-30",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-y73y-z34f.crha",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4255,7 +4307,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-04714",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-04714, source row row-ctqe.68kk-v77t",
+    "locator": "permit_number=PMT24-04714",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -4265,6 +4317,7 @@
       "status_date": "2025-02-18",
       "finaled_date": "2025-02-18",
       "cofo_date": "2025-02-18",
+      "portal_row_id_at_capture": "row-ctqe.68kk-v77t",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4339,7 +4392,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-11126",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-11126, source row row-kbhi~dmuf.b3hm",
+    "locator": "permit_number=PMT24-11126",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -4349,6 +4402,7 @@
       "status_date": "2024-07-07",
       "finaled_date": "2024-07-07",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-kbhi~dmuf.b3hm",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4365,7 +4419,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-10635",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-10635, source row row-2jhx_5t92.ma2a",
+    "locator": "permit_number=PMT24-10635",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -4375,6 +4429,7 @@
       "status_date": "2026-10-22",
       "finaled_date": "2026-10-22",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-2jhx_5t92.ma2a",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4583,7 +4638,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-03228",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-03228, source row row-kr5k.gke4-6iyw",
+    "locator": "permit_number=PMT24-03228",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -4593,6 +4648,7 @@
       "status_date": "2024-05-08",
       "finaled_date": "2024-05-08",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-kr5k.gke4-6iyw",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4609,7 +4665,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT24-05350",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT24-05350, source row row-s2fu.2ih2.chuu",
+    "locator": "permit_number=PMT24-05350",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -4619,6 +4675,7 @@
       "status_date": "2024-04-11",
       "finaled_date": "2024-04-11",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-s2fu.2ih2.chuu",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4664,7 +4721,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-20558",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-20558, source row row-zege-tve4.5qfw",
+    "locator": "permit_number=PMT23-20558",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -4674,6 +4731,7 @@
       "status_date": "2026-07-09",
       "finaled_date": "2026-07-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-zege-tve4.5qfw",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4786,7 +4844,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-18893",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-18893, source row row-y6gg-ri8c-rqqp",
+    "locator": "permit_number=PMT23-18893",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -4796,6 +4854,7 @@
       "status_date": "2024-02-13",
       "finaled_date": "2024-02-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-y6gg-ri8c-rqqp",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4929,7 +4988,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-19679",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-19679, source row row-y2k4_d67c_gb45",
+    "locator": "permit_number=PMT23-19679",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -4939,6 +4998,7 @@
       "status_date": "2024-12-03",
       "finaled_date": "2024-12-03",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-y2k4_d67c_gb45",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -4997,7 +5057,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-19680",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-19680, source row row-sw6x~h67e~npgu",
+    "locator": "permit_number=PMT23-19680",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -5007,6 +5067,7 @@
       "status_date": "2024-04-17",
       "finaled_date": "2024-04-17",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-sw6x~h67e~npgu",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5052,7 +5113,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-13926",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-13926, source row row-ha8u-b7xk~hv39",
+    "locator": "permit_number=PMT23-13926",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -5062,6 +5123,7 @@
       "status_date": "2025-08-08",
       "finaled_date": "2025-08-08",
       "cofo_date": "2025-08-08",
+      "portal_row_id_at_capture": "row-ha8u-b7xk~hv39",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5467,7 +5529,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT23-07125",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT23-07125, source row row-itjz.se3a-jg8j",
+    "locator": "permit_number=PMT23-07125",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -5477,6 +5539,7 @@
       "status_date": "2025-08-01",
       "finaled_date": "2025-08-01",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-itjz.se3a-jg8j",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5582,7 +5645,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-19910",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-19910, source row row-9wy3-vjs2_8s6u",
+    "locator": "permit_number=PMT22-19910",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -5592,6 +5655,7 @@
       "status_date": "2025-11-13",
       "finaled_date": "2025-11-13",
       "cofo_date": "2025-11-13",
+      "portal_row_id_at_capture": "row-9wy3-vjs2_8s6u",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5608,7 +5672,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-05260",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-05260, source row row-xwnb~u3kd.xjf7",
+    "locator": "permit_number=PMT22-05260",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -5618,6 +5682,7 @@
       "status_date": "2023-05-25",
       "finaled_date": "2023-05-25",
       "cofo_date": "2023-05-25",
+      "portal_row_id_at_capture": "row-xwnb~u3kd.xjf7",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5663,7 +5728,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-17409",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-17409, source row row-tp5y_r6v9_tfgn",
+    "locator": "permit_number=PMT22-17409",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTERS",
@@ -5673,6 +5738,7 @@
       "status_date": "2024-10-04",
       "finaled_date": "2024-10-04",
       "cofo_date": "2024-10-04",
+      "portal_row_id_at_capture": "row-tp5y_r6v9_tfgn",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5858,7 +5924,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-15608",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-15608, source row row-p8tg-4saj~aqw9",
+    "locator": "permit_number=PMT22-15608",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -5868,6 +5934,7 @@
       "status_date": "2024-04-14",
       "finaled_date": "2024-04-14",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-p8tg-4saj~aqw9",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -5972,7 +6039,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-15602",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-15602, source row row-9zw8~9abw_a8h7",
+    "locator": "permit_number=PMT22-15602",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -5982,6 +6049,7 @@
       "status_date": "2023-08-25",
       "finaled_date": "2023-08-25",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-9zw8~9abw_a8h7",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6027,7 +6095,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-19806",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-19806, source row row-bby2~dw5t_m3b6",
+    "locator": "permit_number=PMT22-19806",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -6037,6 +6105,7 @@
       "status_date": "2023-03-13",
       "finaled_date": "2023-03-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-bby2~dw5t_m3b6",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6090,7 +6159,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-19373",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-19373, source row row-yb8k.u83g-dxzu",
+    "locator": "permit_number=PMT22-19373",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -6100,6 +6169,7 @@
       "status_date": "2023-03-07",
       "finaled_date": "2023-03-07",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-yb8k.u83g-dxzu",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6144,7 +6214,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-12872",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-12872, source row row-hkrr.qb4m-ji39",
+    "locator": "permit_number=PMT22-12872",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data hall",
@@ -6154,6 +6224,7 @@
       "status_date": "2026-01-20",
       "finaled_date": "2026-01-20",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-hkrr.qb4m-ji39",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6273,7 +6344,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-06636",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-06636, source row row-m22r-xzik-fs46",
+    "locator": "permit_number=PMT22-06636",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -6283,6 +6354,7 @@
       "status_date": "2023-06-07",
       "finaled_date": "2023-06-07",
       "cofo_date": "2023-06-07",
+      "portal_row_id_at_capture": "row-m22r-xzik-fs46",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6299,7 +6371,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-09732",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-09732, source row row-g3pc.g5nw.c8ja",
+    "locator": "permit_number=PMT22-09732",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -6309,6 +6381,7 @@
       "status_date": "2024-04-17",
       "finaled_date": "2024-04-17",
       "cofo_date": "2024-04-17",
+      "portal_row_id_at_capture": "row-g3pc.g5nw.c8ja",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6325,7 +6398,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-12867",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-12867, source row row-6br5_5vi7_ftiv",
+    "locator": "permit_number=PMT22-12867",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -6335,6 +6408,7 @@
       "status_date": "2025-09-08",
       "finaled_date": "2025-09-08",
       "cofo_date": "2025-09-08",
+      "portal_row_id_at_capture": "row-6br5_5vi7_ftiv",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6501,7 +6575,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-06521",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-06521, source row row-6wkp~hx6n.vqdv",
+    "locator": "permit_number=PMT22-06521",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -6511,6 +6585,7 @@
       "status_date": "2023-06-01",
       "finaled_date": "2023-06-01",
       "cofo_date": "2023-06-01",
+      "portal_row_id_at_capture": "row-6wkp~hx6n.vqdv",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6587,7 +6662,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-06169",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-06169, source row row-mr2d~igw9.bj64",
+    "locator": "permit_number=PMT22-06169",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -6597,6 +6672,7 @@
       "status_date": "2022-10-21",
       "finaled_date": "2022-10-21",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-mr2d~igw9.bj64",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6613,7 +6689,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-03129",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-03129, source row row-bpvz~b4g8.i3tr",
+    "locator": "permit_number=PMT22-03129",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data center",
@@ -6623,6 +6699,7 @@
       "status_date": "2023-07-28",
       "finaled_date": "2023-07-28",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-bpvz~b4g8.i3tr",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6668,7 +6745,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT22-01489",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT22-01489, source row row-f2u7-dggg_8tgy",
+    "locator": "permit_number=PMT22-01489",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -6678,6 +6755,7 @@
       "status_date": "2022-11-08",
       "finaled_date": "2022-11-08",
       "cofo_date": "2022-11-08",
+      "portal_row_id_at_capture": "row-f2u7-dggg_8tgy",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6835,7 +6913,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-18745",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-18745, source row row-a57c-fq3j-dnsj",
+    "locator": "permit_number=PMT21-18745",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -6845,6 +6923,7 @@
       "status_date": "2022-05-19",
       "finaled_date": "2022-05-19",
       "cofo_date": "2022-05-19",
+      "portal_row_id_at_capture": "row-a57c-fq3j-dnsj",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6914,7 +6993,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-14282",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-14282, source row row-cya2~q3ps_j2r6",
+    "locator": "permit_number=PMT21-14282",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -6924,6 +7003,7 @@
       "status_date": "2022-08-09",
       "finaled_date": "2022-08-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-cya2~q3ps_j2r6",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6940,7 +7020,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-16638",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-16638, source row row-ydek_88dq_r5mu",
+    "locator": "permit_number=PMT21-16638",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -6950,6 +7030,7 @@
       "status_date": "2022-06-09",
       "finaled_date": "2022-06-09",
       "cofo_date": "2022-06-09",
+      "portal_row_id_at_capture": "row-ydek_88dq_r5mu",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -6966,7 +7047,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-11088",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-11088, source row row-74wp-qj45~2syv",
+    "locator": "permit_number=PMT21-11088",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -6976,6 +7057,7 @@
       "status_date": "2024-12-20",
       "finaled_date": "2024-12-20",
       "cofo_date": "2024-12-20",
+      "portal_row_id_at_capture": "row-74wp-qj45~2syv",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -7052,7 +7134,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-08862",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-08862, source row row-3mw7~smin_6wgs",
+    "locator": "permit_number=PMT21-08862",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -7062,6 +7144,7 @@
       "status_date": "2022-11-28",
       "finaled_date": "2022-11-28",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-3mw7~smin_6wgs",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -7138,7 +7221,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-09173",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-09173, source row row-mnzn-mjie_t84c",
+    "locator": "permit_number=PMT21-09173",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data center",
@@ -7148,6 +7231,7 @@
       "status_date": "2023-07-21",
       "finaled_date": "2023-07-21",
       "cofo_date": "2023-07-21",
+      "portal_row_id_at_capture": "row-mnzn-mjie_t84c",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -7254,7 +7338,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-03636",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-03636, source row row-as2r-ayni.7z9p",
+    "locator": "permit_number=PMT21-03636",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -7264,6 +7348,7 @@
       "status_date": "2023-05-25",
       "finaled_date": "2023-05-25",
       "cofo_date": "2023-05-25",
+      "portal_row_id_at_capture": "row-as2r-ayni.7z9p",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -7280,7 +7365,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-03354",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-03354, source row row-756d_24ys.es4z",
+    "locator": "permit_number=PMT21-03354",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -7290,6 +7375,7 @@
       "status_date": "2022-01-25",
       "finaled_date": "2022-01-25",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-756d_24ys.es4z",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -7396,7 +7482,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT21-01151",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT21-01151, source row row-bbhx~g58c~f5wm",
+    "locator": "permit_number=PMT21-01151",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -7406,6 +7492,7 @@
       "status_date": "2022-06-03",
       "finaled_date": "2022-06-03",
       "cofo_date": "2022-06-03",
+      "portal_row_id_at_capture": "row-bbhx~g58c~f5wm",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -7422,7 +7509,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT20-19152",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT20-19152, source row row-4n47.bt8g~r6wp",
+    "locator": "permit_number=PMT20-19152",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -7432,6 +7519,7 @@
       "status_date": "2023-12-18",
       "finaled_date": "2023-12-18",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-4n47.bt8g~r6wp",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -8350,7 +8438,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT18-04114",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT18-04114, source row row-7tnb~y55y~93tv",
+    "locator": "permit_number=PMT18-04114",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTERS",
@@ -8360,6 +8448,7 @@
       "status_date": "2019-06-13",
       "finaled_date": "2019-06-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-7tnb~y55y~93tv",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -8735,7 +8824,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT18-09502",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT18-09502, source row row-7z8p-2u77.2diq",
+    "locator": "permit_number=PMT18-09502",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -8745,6 +8834,7 @@
       "status_date": "2018-11-30",
       "finaled_date": "2018-11-30",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-7z8p-2u77.2diq",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -8881,7 +8971,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT17-07026",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT17-07026, source row row-rm6c_k8jk_3sb6",
+    "locator": "permit_number=PMT17-07026",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -8891,6 +8981,7 @@
       "status_date": "2020-02-11",
       "finaled_date": "2020-02-11",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-rm6c_k8jk_3sb6",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -8907,7 +8998,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT18-05719",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT18-05719, source row row-kynh~etgj.pefz",
+    "locator": "permit_number=PMT18-05719",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "Data Center",
@@ -8917,6 +9008,7 @@
       "status_date": "2019-08-29",
       "finaled_date": "2019-08-29",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-kynh~etgj.pefz",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9005,7 +9097,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=PMT17-05037",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=PMT17-05037, source row row-t5xi_frbw-xya6",
+    "locator": "permit_number=PMT17-05037",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -9015,6 +9107,7 @@
       "status_date": "2018-11-02",
       "finaled_date": "2018-11-02",
       "cofo_date": "2018-11-02",
+      "portal_row_id_at_capture": "row-t5xi_frbw-xya6",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9031,7 +9124,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2017-01651",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2017-01651, source row row-c5kv_zdmn.3qd7",
+    "locator": "permit_number=BLD2017-01651",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA HALL",
@@ -9041,6 +9134,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-c5kv_zdmn.3qd7",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9087,7 +9181,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2017-00332",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2017-00332, source row row-2y3d.zabc-stki",
+    "locator": "permit_number=BLD2017-00332",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA HALLS",
@@ -9097,6 +9191,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-2y3d.zabc-stki",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9113,7 +9208,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-05609",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-05609, source row row-wjbm~24s5_fdjk",
+    "locator": "permit_number=BLD2016-05609",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9123,6 +9218,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-wjbm~24s5_fdjk",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9139,7 +9235,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-05257",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-05257, source row row-pc63-j5sj-pqpy",
+    "locator": "permit_number=BLD2016-05257",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9149,6 +9245,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-pc63-j5sj-pqpy",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9165,7 +9262,7 @@
     "date_role": "Opened date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-06451",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-06451, source row row-pyrg-7qm4.4sip",
+    "locator": "permit_number=BLD2016-06451",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9175,6 +9272,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-pyrg-7qm4.4sip",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9191,7 +9289,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-03265",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-03265, source row row-45xr~i9is~u7pm",
+    "locator": "permit_number=BLD2016-03265",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -9201,6 +9299,7 @@
       "status_date": null,
       "finaled_date": "2016-11-30",
       "cofo_date": "2016-11-18",
+      "portal_row_id_at_capture": "row-45xr~i9is~u7pm",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9217,7 +9316,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-01686",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-01686, source row row-bjeh~6wk4.7xgu",
+    "locator": "permit_number=BLD2016-01686",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA HALL",
@@ -9227,6 +9326,7 @@
       "status_date": null,
       "finaled_date": "2016-11-10",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-bjeh~6wk4.7xgu",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9243,7 +9343,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-01685",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-01685, source row row-vauq~6p2p~uya5",
+    "locator": "permit_number=BLD2016-01685",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA HALL",
@@ -9253,6 +9353,7 @@
       "status_date": null,
       "finaled_date": "2016-12-05",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-vauq~6p2p~uya5",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9269,7 +9370,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-01169",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-01169, source row row-kewd-2zf6-skm7",
+    "locator": "permit_number=BLD2016-01169",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA HALL",
@@ -9279,6 +9380,7 @@
       "status_date": null,
       "finaled_date": "2016-12-07",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-kewd-2zf6-skm7",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9295,7 +9397,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-00392",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-00392, source row row-6bj3-5auq_dvxa",
+    "locator": "permit_number=BLD2016-00392",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA HALL",
@@ -9305,6 +9407,7 @@
       "status_date": null,
       "finaled_date": "2017-02-13",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-6bj3-5auq_dvxa",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9321,7 +9424,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2016-00395",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2016-00395, source row row-hg9j-7snr.xwpg",
+    "locator": "permit_number=BLD2016-00395",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9331,6 +9434,7 @@
       "status_date": null,
       "finaled_date": "2017-02-13",
       "cofo_date": "2017-02-10",
+      "portal_row_id_at_capture": "row-hg9j-7snr.xwpg",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9497,7 +9601,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2010-00754",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2010-00754, source row row-b8pz.escm~ib7q",
+    "locator": "permit_number=BLD2010-00754",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9507,6 +9611,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-b8pz.escm~ib7q",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9523,7 +9628,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2008-08721",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2008-08721, source row row-s8m3.y832~egke",
+    "locator": "permit_number=BLD2008-08721",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9533,6 +9638,7 @@
       "status_date": null,
       "finaled_date": "2009-07-22",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-s8m3.y832~egke",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9549,7 +9655,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2008-08899",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2008-08899, source row row-dsgt~g72u-9t2c",
+    "locator": "permit_number=BLD2008-08899",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9559,6 +9665,7 @@
       "status_date": null,
       "finaled_date": null,
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-dsgt~g72u-9t2c",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9575,7 +9682,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2007-11218",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2007-11218, source row row-fxc5_89ek~egcn",
+    "locator": "permit_number=BLD2007-11218",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "DATA CENTER",
@@ -9585,6 +9692,7 @@
       "status_date": null,
       "finaled_date": "2008-12-05",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-fxc5_89ek~egcn",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9601,7 +9709,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2008-06963",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2008-06963, source row row-2pp8~8tj3-uj6t",
+    "locator": "permit_number=BLD2008-06963",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -9611,6 +9719,7 @@
       "status_date": null,
       "finaled_date": "2009-10-08",
       "cofo_date": "2009-11-06",
+      "portal_row_id_at_capture": "row-2pp8~8tj3-uj6t",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },
@@ -9627,7 +9736,7 @@
     "date_role": "Issue date",
     "url": "https://data.mesaaz.gov/resource/dzpk-hxfb.json?permit_number=BLD2008-06216",
     "source_url": "https://data.mesaaz.gov/Development-Services/Building-Permits/dzpk-hxfb",
-    "locator": "permit_number=BLD2008-06216, source row row-piae-d8r6_8pru",
+    "locator": "permit_number=BLD2008-06216",
     "source_sha256": "d6ab7317ef71feda78f47de94def60d0ffc129a795c9a648922660dc517aecd9",
     "details": {
       "matched_text": "data center",
@@ -9637,6 +9746,7 @@
       "status_date": null,
       "finaled_date": "2009-11-09",
       "cofo_date": null,
+      "portal_row_id_at_capture": "row-piae-d8r6_8pru",
       "archive": "cache/history/az/mesa-0.json.gz"
     }
   },

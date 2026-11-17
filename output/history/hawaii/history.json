@@ -10,9 +10,9 @@
     "status": "Permit application closed",
     "date": "2007-10-11",
     "date_role": "Building permit issue date",
-    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?objectid=27059791",
+    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?externalfilenum=A2007-10-0301",
     "source_url": "https://data.honolulu.gov/d/4vab-c87q",
-    "locator": "Registry OBJECTID 27059791; A2007-10-0301",
+    "locator": "Registry application A2007-10-0301",
     "details": {
       "issuer": "City and County of Honolulu",
       "county": "Honolulu County",
@@ -24,7 +24,8 @@
       "co_issued": "N",
       "final_co_issued": "N",
       "tax_map_key": "11015013",
-      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred."
+      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred.",
+      "portal_row_id_at_capture": "27059791"
     }
   },
   {
@@ -38,9 +39,9 @@
     "status": "Job Cancelled",
     "date": "2008-06-24",
     "date_role": "Application created date",
-    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?objectid=30155565",
+    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?externalfilenum=A2008-06-1062",
     "source_url": "https://data.honolulu.gov/d/4vab-c87q",
-    "locator": "Registry OBJECTID 30155565; A2008-06-1062",
+    "locator": "Registry application A2008-06-1062",
     "details": {
       "issuer": "City and County of Honolulu",
       "county": "Honolulu County",
@@ -52,7 +53,8 @@
       "co_issued": "N",
       "final_co_issued": "N",
       "tax_map_key": "11005025",
-      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred."
+      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred.",
+      "portal_row_id_at_capture": "30155565"
     }
   },
   {
@@ -66,9 +68,9 @@
     "status": "Permit application closed",
     "date": "2008-11-06",
     "date_role": "Building permit issue date",
-    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?objectid=30935740",
+    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?externalfilenum=A2008-10-0467",
     "source_url": "https://data.honolulu.gov/d/4vab-c87q",
-    "locator": "Registry OBJECTID 30935740; A2008-10-0467",
+    "locator": "Registry application A2008-10-0467",
     "details": {
       "issuer": "City and County of Honolulu",
       "county": "Honolulu County",
@@ -80,7 +82,8 @@
       "co_issued": "N",
       "final_co_issued": "N",
       "tax_map_key": "91088009",
-      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred."
+      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred.",
+      "portal_row_id_at_capture": "30935740"
     }
   },
   {
@@ -94,9 +97,9 @@
     "status": "Permit application closed",
     "date": "2014-07-31",
     "date_role": "Building permit issue date",
-    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?objectid=51642102",
+    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?externalfilenum=A2014-02-1448",
     "source_url": "https://data.honolulu.gov/d/4vab-c87q",
-    "locator": "Registry OBJECTID 51642102; A2014-02-1448",
+    "locator": "Registry application A2014-02-1448",
     "details": {
       "issuer": "City and County of Honolulu",
       "county": "Honolulu County",
@@ -108,7 +111,8 @@
       "co_issued": "N",
       "final_co_issued": "N",
       "tax_map_key": "92043005",
-      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred."
+      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred.",
+      "portal_row_id_at_capture": "51642102"
     }
   },
   {
@@ -122,9 +126,9 @@
     "status": "Inspection(s) in Progress",
     "date": "2016-01-20",
     "date_role": "Building permit issue date",
-    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?objectid=53257936",
+    "url": "https://data.honolulu.gov/resource/4vab-c87q.json?externalfilenum=A2014-08-1135",
     "source_url": "https://data.honolulu.gov/d/4vab-c87q",
-    "locator": "Registry OBJECTID 53257936; A2014-08-1135",
+    "locator": "Registry application A2014-08-1135",
     "details": {
       "issuer": "City and County of Honolulu",
       "county": "Honolulu County",
@@ -136,7 +140,8 @@
       "co_issued": "N",
       "final_co_issued": "N",
       "tax_map_key": "91069027",
-      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred."
+      "snapshot_scope": "Historical city series through 2025-06-30; status as supplied, no later update inferred.",
+      "portal_row_id_at_capture": "53257936"
     }
   },
   {

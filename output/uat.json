@@ -475,11 +475,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 1071,
-      "coldAssetBytes": 2272518,
-      "portableByteBudget": 2712350,
-      "localHistoryMs": 504,
-      "filterMs": 19
+      "coldReadyMs": 549,
+      "coldAssetBytes": 2266938,
+      "portableByteBudget": 2712200,
+      "localHistoryMs": 203,
+      "filterMs": 11
     },
     "tablet": {
       "journeys": {
@@ -954,10 +954,10 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 969,
-      "coldAssetBytes": 2272518,
-      "portableByteBudget": 2712350,
-      "localHistoryMs": 489,
+      "coldReadyMs": 422,
+      "coldAssetBytes": 2266938,
+      "portableByteBudget": 2712200,
+      "localHistoryMs": 183,
       "filterMs": 5
     },
     "phone": {
@@ -1433,11 +1433,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 899,
-      "coldAssetBytes": 2272518,
-      "portableByteBudget": 2712350,
-      "localHistoryMs": 485,
-      "filterMs": 21
+      "coldReadyMs": 436,
+      "coldAssetBytes": 2266938,
+      "portableByteBudget": 2712200,
+      "localHistoryMs": 200,
+      "filterMs": 4
     },
     "small-phone": {
       "journeys": {
@@ -1912,10 +1912,10 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 927,
-      "coldAssetBytes": 2272518,
-      "portableByteBudget": 2712350,
-      "localHistoryMs": 431,
+      "coldReadyMs": 430,
+      "coldAssetBytes": 2266938,
+      "portableByteBudget": 2712200,
+      "localHistoryMs": 198,
       "filterMs": 4
     }
   },

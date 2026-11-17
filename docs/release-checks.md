@@ -6,8 +6,8 @@
 |---|---:|
 | Published rules and official permitting requirements | 312 |
 | Ordinance candidates withheld from default results | 18 |
-| Dated or explicitly undated project history records | 14,480 |
-| Distinct permit keys | 5,655 (246 active, 1,895 historical, 3,514 current status unconfirmed) |
+| Dated or explicitly undated project history records | 14,479 |
+| Distinct permit keys | 5,654 (245 active, 1,895 historical, 3,514 current status unconfirmed) |
 | Federal records already included in history | 2,034 |
 | Distinct federal permit keys already included above | 45 |
 | Saved checksums recomputed from local files | 1,093 of 1,093 |
@@ -20,10 +20,10 @@ The [COMPASS cross-check](../output/compass_crosscheck.json) reconciles 34,466 f
 
 | Viewport | Cold open | Filter change | Local history |
 |---|---:|---:|---:|
-| desktop | 1071 ms | 19 ms | 504 ms |
-| tablet | 969 ms | 5 ms | 489 ms |
-| phone | 899 ms | 21 ms | 485 ms |
-| small-phone | 927 ms | 4 ms | 431 ms |
+| desktop | 549 ms | 11 ms | 203 ms |
+| tablet | 422 ms | 5 ms | 183 ms |
+| phone | 436 ms | 4 ms | 200 ms |
+| small-phone | 430 ms | 4 ms | 198 ms |
 
 | Task | Maximum actions / swipes / navigations across measured viewports |
 |---|---:|

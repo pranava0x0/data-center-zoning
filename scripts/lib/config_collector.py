@@ -1,6 +1,7 @@
 """Config-only collector: a state's sources and reviewed records live in data/history/<state folder>/config.json.
 Each record's quote must appear on the cited page. Used by KY, ID, KS, MT, ND, SD, WY."""
 import argparse, collections, io
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from functools import lru_cache
 from pypdf import PdfReader
 import lib.discovery as collect
@@ -35,12 +36,16 @@ def run(st,code,fetch=False,initial=False):
             if len(match)!=1:raise ValueError('Case register mismatch')
             ref,a=match[0]
             if any(a.get(f)!=value for f,value in v.get('assert_attrs',{}).items()):raise ValueError('Published row drift')
-            text=' '.join(str(z) for z in a.values());url=ref['url'];source=ref
+            text=' '.join(str(z) for z in a.values());url=ref['url'];source=ref;extra={}
+            if v.get('key_field'):
+                # Opt-in: link by the issuer's identifier field instead of the portal row number, which the portal renumbers.
+                sp=urlsplit(url);q=[('where',v['key_field']+"='"+str(a[v['key_field']]).replace("'","''")+"'") if k=='objectIds' else (k,x) for k,x in parse_qsl(sp.query,keep_blank_values=True)]
+                url=urlunsplit(sp._replace(query=urlencode(q)));extra={'portal_row_id_at_capture':a[r['oid']]}
         else:
-            text=doc(k).pages[pg-1].extract_text() if r['ext']=='pdf' else htmltext(s.read(r));url=r['url']+(('#page='+str(pg)) if pg else '');source=r
+            text=doc(k).pages[pg-1].extract_text() if r['ext']=='pdf' else htmltext(s.read(r));url=r['url']+(('#page='+str(pg)) if pg else '');source=r;extra={}
         norm=lambda t:' '.join(str(t).lower().split())
         if norm(v['evidence']) not in norm(text):raise ValueError(k+' / '+v['evidence'])
-        z={key:v[key] for key in 'id dataset jurisdiction record_no project kind status date date_role locator'.split()};z.update(id=lo+'-'+z['id'],state=st,url=url,source_url=source['url'],details=dict(source_sha256=source['sha256'],evidence=v['evidence'],**v.get('details',{})));out.append(z)
+        z={key:v[key] for key in 'id dataset jurisdiction record_no project kind status date date_role locator'.split()};z.update(id=lo+'-'+z['id'],state=st,url=url,source_url=url if v.get('key_field') else source['url'],details=dict(source_sha256=source['sha256'],**extra,evidence=v['evidence'],**v.get('details',{})));out.append(z)
     if len(set(z['id'] for z in out))!=len(out):raise ValueError('Duplicate id')
     collect.dump(series_path(lo),sorted(out,key=lambda x:x['id']));collect.dump(collector_data(state_folder(st),'coverage.json'),dict(rows=len(out),by_dataset=dict(collections.Counter(x['dataset'] for x in out)),undated=sum(x['date'] is None for x in out),source_failures={k:v['error'] for k,v in m.items() if 'error' in v}))
     return out

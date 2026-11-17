@@ -8,7 +8,7 @@ State order follows operating, under-construction and planned listings in the [d
 |---|---:|---|---|---:|---:|---:|
 | [Virginia](../viewer/index.html#view=permits&state=VA) | 591 | Loudoun County (228) | Manassas city (4) | 45 | 3544 | 632 |
 | [Texas](../viewer/index.html#view=permits&state=TX) | 561 | Bexar County (58) | San Antonio city (46) | 14 | 962 | 214 |
-| [California](../viewer/index.html#view=permits&state=CA) | 343 | Santa Clara County (74) | Santa Clara city (53) | 9 | 548 | 113 |
+| [California](../viewer/index.html#view=permits&state=CA) | 343 | Santa Clara County (74) | Santa Clara city (53) | 9 | 547 | 113 |
 | [Ohio](../viewer/index.html#view=permits&state=OH) | 238 | Franklin County (32) | New Albany city (38) | 13 | 273 | 122 |
 | [Georgia](../viewer/index.html#view=permits&state=GA) | 232 | Douglas County (22) | Alpharetta city (9) | 15 | 364 | 228 |
 | [Arizona](../viewer/index.html#view=permits&state=AZ) | 176 | Maricopa County (69) | Mesa city (17) | 11 | 509 | 90 |
