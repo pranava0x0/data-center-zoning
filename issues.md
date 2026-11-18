@@ -16,3 +16,5 @@ Limits: tests use desktop Chromium with narrow viewport emulation, not physical-
 ## November 18: telecom pilot and public release
 
 Added a separate Virginia telecom dataset and public Pages build. Fixed unsupported Edgewood SUP approver attribution, labeled inferred history offices, corrected Fairfax PDF locators and exposed hearing/timing information. Two review passes caught telecom filter/reset state and PDF labeling errors; regression checks now cover them. Leesburg source access and county-controlled Loudoun ROW remain open; nationwide completeness remains unknown. See `docs/2026-11-18-telecom-pages-release.md`.
+
+- November 18: Pages deployment was correctly blocked when hosted Chrome failed to start twice before any browser assertion. The harness now retains launch diagnostics, reports early process exits, allows 24 seconds for browser launch, and logs viewport progress. Application latency and byte budgets are unchanged.

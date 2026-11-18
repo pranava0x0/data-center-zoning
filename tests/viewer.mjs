@@ -11,11 +11,12 @@ const server=http.createServer((req,res)=>{const u=new URL(req.url,'http://local
 await new Promise(r=>server.listen(0,'127.0.0.1',r));const base='http://127.0.0.1:'+server.address().port+'/viewer/';
 const chromium=process.env.CHROME_PATH||['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome','/usr/bin/chromium','/usr/bin/google-chrome'].find(fs.existsSync);
 if(!chromium){server.close();throw Error('Chrome/Chromium required; set CHROME_PATH.')}
-const proc=spawn(chromium,['--headless','--disable-gpu','--no-first-run','--disable-extensions','--disable-background-networking','--remote-debugging-port=0','--user-data-dir='+tmp,'about:blank'],{stdio:'ignore'});
+const proc=spawn(chromium,['--headless','--disable-gpu','--no-first-run','--disable-extensions','--disable-background-networking','--remote-debugging-port=0','--user-data-dir='+tmp,'about:blank'],{stdio:['ignore','ignore','pipe']});
+let browserLog='',spawnError='';proc.stderr.on('data',b=>{browserLog=(browserLog+b).slice(-8192)});proc.on('error',e=>{spawnError=e.message});
 let ws,profile='startup',active,cost,navStamp,external=0;
 function assert(cond,msg){if(!cond)throw Error(profile+': '+msg);report.checks.push(profile+': '+msg)}
 try{
- let port;for(let i=0;i<130&&!port;i++){try{port=Number(fs.readFileSync(path.join(tmp,'DevToolsActivePort'),'utf8').split('\n')[0])}catch{}await wait(60)}if(!port)throw Error('Chrome did not start');
+ let port;for(let i=0;i<400&&!port;i++){if(spawnError||proc.exitCode!==null)throw Error('Chrome exited before its debugger was ready: '+spawnError+'; exit='+proc.exitCode+'; '+browserLog);try{port=Number(fs.readFileSync(path.join(tmp,'DevToolsActivePort'),'utf8').split('\n')[0])}catch{}await wait(60)}if(!port)throw Error('Chrome debugger was not ready within 24 seconds: '+browserLog);
  const tab=(await(await fetch('http://127.0.0.1:'+port+'/json/list')).json()).find(t=>t.type==='page');ws=new WebSocket(tab.webSocketDebuggerUrl);await new Promise((ok,no)=>{const t=setTimeout(()=>no(Error('Chrome debugger connection timed out')),12000);ws.onopen=()=>{clearTimeout(t);ok()};ws.onerror=()=>{clearTimeout(t);no(Error('Chrome debugger connection failed'))}});
  let id=0;const pending=new Map();function c(method,params={}){return new Promise((ok,no)=>{const key=++id;const timer=setTimeout(()=>{pending.delete(key);no(Error(profile+': Chrome did not answer '+method+' within 30 seconds'))},30000);pending.set(key,[v=>{clearTimeout(timer);ok(v)},e=>{clearTimeout(timer);no(e)}]);ws.send(JSON.stringify({id:key,method,params}))})}
  ws.onmessage=e=>{const m=JSON.parse(e.data);if(m.id&&pending.has(m.id)){const [ok,no]=pending.get(m.id);pending.delete(m.id);m.error?no(Error(m.error.message)):ok(m.result);return}
@@ -37,7 +38,7 @@ try{
  async function select(s,value){await xy(s);assert(await ev('Array.from('+sel(s)+'.options).some(o=>o.value==='+q(value)+')'),s+' offers '+value);await ev(sel(s)+'.value='+q(value)+';'+sel(s)+'.dispatchEvent(new Event("change",{bubbles:true}))');cost.actions+=2}
  async function type(s,value){await click(s);await c('Input.insertText',{text:value});cost.actions++}
  for(const [name,width,height] of [['desktop',1320,900],['tablet',768,900],['phone',390,844],['small-phone',360,740]]){
- profile=name;const result=report.profiles[profile]={journeys:{}};await c('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:width<651});
+ console.log('Browser profile: '+name);profile=name;const result=report.profiles[profile]={journeys:{}};await c('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:width<651});
  const start=performance.now();await navigate(base+'index.html');result.coldReadyMs=Math.round(performance.now()-start);
  const assets=await ev("performance.getEntriesByType('resource').map(x=>[x.name,x.decodedBodySize])");result.coldAssetBytes=assets.reduce((n,a)=>n+a[1],0)+await ev("performance.getEntriesByType('navigation')[0].decodedBodySize");
  const rowTotal=Object.values(await ev('H.totals')).reduce((n,v)=>n+v,0),scale=B.portableScale;result.portableByteBudget=Math.min(scale.hardCapBytes,B.max.coldAssetBytes+Math.max(0,rowTotal-scale.baselineRows)*scale.bytesPerAdditionalRow);
