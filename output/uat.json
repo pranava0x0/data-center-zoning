@@ -475,11 +475,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 555,
-      "coldAssetBytes": 2431167,
+      "coldReadyMs": 543,
+      "coldAssetBytes": 2434320,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 228,
-      "filterMs": 10
+      "localHistoryMs": 229,
+      "filterMs": 8
     },
     "tablet": {
       "journeys": {
@@ -954,11 +954,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 592,
-      "coldAssetBytes": 2431167,
+      "coldReadyMs": 493,
+      "coldAssetBytes": 2434320,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 283,
-      "filterMs": 6
+      "localHistoryMs": 201,
+      "filterMs": 4
     },
     "phone": {
       "journeys": {
@@ -1433,10 +1433,10 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 473,
+      "coldReadyMs": 577,
       "coldAssetBytes": 2434320,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 200,
+      "localHistoryMs": 217,
       "filterMs": 4
     },
     "small-phone": {
@@ -1912,11 +1912,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 435,
+      "coldReadyMs": 569,
       "coldAssetBytes": 2434320,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 203,
-      "filterMs": 4
+      "localHistoryMs": 213,
+      "filterMs": 5
     }
   },
   "checks": [

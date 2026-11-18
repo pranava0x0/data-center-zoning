@@ -8,3 +8,6 @@ cache/
 
 _site/
 tmp/
+
+# Live deployment verification is an environment receipt, not a build input.
+/output/deployment_checks.json

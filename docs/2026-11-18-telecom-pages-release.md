@@ -42,13 +42,13 @@ Small-phone review caught evidence requiring an extra swipe after the new naviga
 
 ## Measured local validation
 
-112 Python tests and 5633 browser assertions passed across four viewports, HTTP and isolated file loading. No uncaught browser errors or external startup dependencies were observed. The focused smallest-phone evidence journey also passed 34 checks. Current timings are local Chrome measurements, not a promise about cellular networks or government portals.
+112 Python tests and 5633 browser assertions passed across four viewports, HTTP and isolated file loading. All four browser receipts match the exact 2434320-byte packed build. No uncaught browser errors or external startup dependencies were observed. The focused smallest-phone evidence journey also passed 34 checks. Timings are local Chrome measurements, not a promise about cellular networks or government portals.
 
 | Viewport | Cold ready (ms) | Filter (ms) | Local history (ms) |
 |---|---:|---:|---:|
-| desktop | 555 | 10 | 228 |
-| tablet | 592 | 6 | 283 |
-| phone | 473 | 4 | 200 |
-| small-phone | 435 | 4 | 203 |
+| desktop | 543 | 8 | 229 |
+| tablet | 493 | 4 | 201 |
+| phone | 577 | 4 | 217 |
+| small-phone | 569 | 5 | 213 |
 
 The first GitHub runner exposed a browser-harness setup assumption: the ignored cache directory did not exist on a fresh checkout. The harness now creates its temporary-profile parent directory itself. CI also requires browser receipts to match the exact packed-file byte size before publishing.
