@@ -2,7 +2,9 @@
 import {spawn} from 'node:child_process';
 import fs from 'node:fs';import path from 'node:path';import http from 'node:http';
 import {fileURLToPath,pathToFileURL} from 'node:url';
-const root=path.resolve(fileURLToPath(new URL('../',import.meta.url))),tmp=fs.mkdtempSync(path.join(root,'cache/chrome-test-'));
+const root=path.resolve(fileURLToPath(new URL('../',import.meta.url)));
+fs.mkdirSync(path.join(root,'cache'),{recursive:true});
+const tmp=fs.mkdtempSync(path.join(root,'cache/chrome-test-'));
 const B=JSON.parse(fs.readFileSync(path.join(root,'tests/uat-budgets.json'))),wait=ms=>new Promise(r=>setTimeout(r,ms));
 const report={edition:'2026-11-15',passed:false,profiles:{},checks:[],errors:[]};
 const server=http.createServer((req,res)=>{const u=new URL(req.url,'http://localhost'),f=path.resolve(root,'.'+decodeURIComponent(u.pathname));if(!f.startsWith(root+path.sep)||!fs.existsSync(f)||!fs.statSync(f).isFile()){res.writeHead(404);res.end();return}res.setHeader('Content-Type',({'.html':'text/html','.js':'text/javascript','.css':'text/css'})[path.extname(f)]||'application/octet-stream');fs.createReadStream(f).pipe(res)});

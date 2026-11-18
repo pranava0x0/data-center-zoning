@@ -1,8 +1,9 @@
 {
   "passed": true,
+  "revision": "c88e8a9cad13324af6ff9d0c782c683f4c455b60",
   "cache_present": false,
-  "elapsed_seconds": 7.53,
-  "tail": "python3 scripts/collectors/virginia/statewide/telecom_right_of_way.py\nTelecom: 14 requirements, 17 instruments/applications, 33 events\npython3 scripts/pipeline/build_viewer.py --snapshot-geography\nStandalone atlas: 2,430,151 bytes; 55 state permit registers\npython3 scripts/pipeline/publish_site.py\nPages artifact: 245 features; 17 checksummed downloads; 31,380,237 bytes\npython3 -m unittest discover -s tests -p test_publication.py\nPages artifact: 245 features; 17 checksummed downloads; 31,380,237 bytes\n........\n----------------------------------------------------------------------\nRan 8 tests in 1.905s\n\nOK\n",
+  "elapsed_seconds": 6.2,
+  "tail": "python3 scripts/collectors/virginia/statewide/telecom_right_of_way.py\nTelecom: 14 requirements, 17 instruments/applications, 33 events\npython3 scripts/pipeline/build_viewer.py --snapshot-geography\nStandalone atlas: 2,434,320 bytes; 55 state permit registers\npython3 scripts/pipeline/publish_site.py\nPages artifact: 245 features; 17 checksummed downloads; 31,821,280 bytes\npython3 -m unittest discover -s tests -p test_publication.py\nPages artifact: 245 features; 17 checksummed downloads; 31,821,280 bytes\n........\n----------------------------------------------------------------------\nRan 8 tests in 1.436s\n\nOK\n",
   "download_manifest_equal": true,
   "index_equal": true,
   "zip_equal": true

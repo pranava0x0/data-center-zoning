@@ -50,3 +50,5 @@ Small-phone review caught evidence requiring an extra swipe after the new naviga
 | tablet | 592 | 6 | 283 |
 | phone | 473 | 4 | 200 |
 | small-phone | 435 | 4 | 203 |
+
+The first GitHub runner exposed a browser-harness setup assumption: the ignored cache directory did not exist on a fresh checkout. The harness now creates its temporary-profile parent directory itself. CI also requires browser receipts to match the exact packed-file byte size before publishing.
