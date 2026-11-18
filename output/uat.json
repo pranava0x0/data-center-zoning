@@ -475,11 +475,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 991,
-      "coldAssetBytes": 2378065,
+      "coldReadyMs": 209,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 496,
-      "filterMs": 16
+      "localHistoryMs": 215,
+      "filterMs": 7
     },
     "tablet": {
       "journeys": {
@@ -954,11 +954,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 817,
-      "coldAssetBytes": 2378065,
+      "coldReadyMs": 97,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 391,
-      "filterMs": 7
+      "localHistoryMs": 202,
+      "filterMs": 4
     },
     "phone": {
       "journeys": {
@@ -1433,11 +1433,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 816,
-      "coldAssetBytes": 2378065,
+      "coldReadyMs": 93,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 389,
-      "filterMs": 6
+      "localHistoryMs": 197,
+      "filterMs": 10
     },
     "small-phone": {
       "journeys": {
@@ -1912,11 +1912,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 848,
-      "coldAssetBytes": 2378065,
+      "coldReadyMs": 125,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 393,
-      "filterMs": 5
+      "localHistoryMs": 307,
+      "filterMs": 4
     }
   },
   "checks": [
@@ -7506,8 +7506,61 @@
     "reliability: national directory covers states, DC and five inhabited territories",
     "reliability: Guam search finds cited local geography",
     "reliability: sovereign government roster separate from geographic areas",
-    "reliability: no uncaught browser errors",
-    "reliability: no external startup dependencies"
+    "telecom: dedicated telecom deep link 1320",
+    "telecom: telecom scope and coverage 1320",
+    "telecom: instrument map and cards reconcile 1320",
+    "telecom: Fairfax VDOT work and county easement stay distinct 1320",
+    "telecom: telecom directory uses its own counting units 1320",
+    "telecom: telecom filtering works while directory remains open 1320",
+    "telecom: #export in viewport",
+    "telecom: #export unobscured",
+    "telecom: filtered telecom export preserves authority and source 1320",
+    "telecom: telecom filter visible and no overflow 1320",
+    "telecom: print action is visible in map mode 1320",
+    "telecom: print includes selected map and metric 1320",
+    "telecom: map PDF generates",
+    "telecom: dedicated telecom deep link 768",
+    "telecom: telecom scope and coverage 768",
+    "telecom: instrument map and cards reconcile 768",
+    "telecom: Fairfax VDOT work and county easement stay distinct 768",
+    "telecom: telecom directory uses its own counting units 768",
+    "telecom: telecom filtering works while directory remains open 768",
+    "telecom: #export in viewport",
+    "telecom: #export unobscured",
+    "telecom: filtered telecom export preserves authority and source 768",
+    "telecom: telecom filter visible and no overflow 768",
+    "telecom: print action is visible in map mode 768",
+    "telecom: print includes selected map and metric 768",
+    "telecom: dedicated telecom deep link 390",
+    "telecom: telecom scope and coverage 390",
+    "telecom: instrument map and cards reconcile 390",
+    "telecom: Fairfax VDOT work and county easement stay distinct 390",
+    "telecom: telecom directory uses its own counting units 390",
+    "telecom: telecom filtering works while directory remains open 390",
+    "telecom: #export in viewport",
+    "telecom: #export unobscured",
+    "telecom: filtered telecom export preserves authority and source 390",
+    "telecom: telecom filter visible and no overflow 390",
+    "telecom: print action is visible in map mode 390",
+    "telecom: print includes selected map and metric 390",
+    "telecom: dedicated telecom deep link 360",
+    "telecom: telecom scope and coverage 360",
+    "telecom: instrument map and cards reconcile 360",
+    "telecom: Fairfax VDOT work and county easement stay distinct 360",
+    "telecom: telecom directory uses its own counting units 360",
+    "telecom: telecom filtering works while directory remains open 360",
+    "telecom: #export in viewport",
+    "telecom: #export unobscured",
+    "telecom: filtered telecom export preserves authority and source 360",
+    "telecom: telecom filter visible and no overflow 360",
+    "telecom: print action is visible in map mode 360",
+    "telecom: print includes selected map and metric 360",
+    "telecom: multi-locality instrument appears in each view and counts once nationally",
+    "telecom: isolated offline telecom fixture",
+    "telecom: reset preserves telecom collection and restores its metric",
+    "telecom: return to data-center collection preserves isolation",
+    "telecom: no uncaught browser errors",
+    "telecom: no external startup dependencies"
   ],
   "errors": []
 }

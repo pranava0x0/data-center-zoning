@@ -15,7 +15,7 @@
     "va-fx-industrial-gfa": {
       "source_url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
       "source_sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
-      "locator": "ZO 112.2-2024-8, § 4102.6.A(3), printed p. 3",
+      "locator": "ZO 112.2-2024-8, § 4102.6.A(3), PDF p. 3",
       "paths": [
         {
           "path": "special exception",
@@ -27,7 +27,7 @@
     "va-fx-commercial-gfa": {
       "source_url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
       "source_sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
-      "locator": "ZO 112.2-2024-8, § 4102.6.A(2), printed p. 3",
+      "locator": "ZO 112.2-2024-8, § 4102.6.A(2), PDF p. 3",
       "paths": [
         {
           "path": "special exception",

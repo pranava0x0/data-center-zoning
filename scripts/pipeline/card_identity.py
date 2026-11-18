@@ -58,6 +58,8 @@ def apply_rules(rules):
         if t:
             if t['role'] not in RULE_ROLES or not t['title'].strip() or not t['issuer'].strip():
                 raise ValueError('Incomplete card identity row: ' + r['id'])
+            r['card_role_evidence'] = t['citation']
+            r['card_role_quote'] = t['role_quote']
             r.update(card_title=t['title'], card_issuer=t['issuer'], card_role=t['role'], card_process=t['decision_process'],
                      card_identity='reviewed')
             sentence, basis = (t['sentence'], t['sentence_basis'] or 'reviewed') if t['sentence'] else (first_sentence(brief), 'first sentence of the reviewed brief')
@@ -162,6 +164,8 @@ def history_identity(r, d, table, state_name, offices=(), agencies=({}, {})):
         role = {'decides': 'acts', 'acts': 'acts', 'reviews': 'reviews', 'publisher': 'publisher', 'issues': 'issues' if permit else 'agency'}[role]
     if not issuer:  # only the publisher is known: say so, do not promote it to issuer
         issuer, basis, role = r.get('jurisdiction') or r.get('locality') or state_name.get(r['state'], r['state']), 'jurisdiction', 'publisher'
+    if basis == 'office_table' and office and office.get('evidence') == 'inferred':
+        role = 'publisher'
     return title, tb, issuer, role, basis
 
 

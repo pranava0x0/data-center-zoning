@@ -43,14 +43,6 @@
     "sha256": "5a08c31441ddcf8349c76b9fb82716f4cd690a7a9e56021c95e445ac96563a2a",
     "record_sha256": "c4a2dd01c245cb5da4d46492f76afebbbfa5e244179b89308d6231c7bb09a171"
   },
-  "va-fx-commercial-gfa": {
-    "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
-    "record_sha256": "d35fcf782758777fc1bb5cb16c3ba376d1ce6e336cc09de0f85f1bbe31b5d966"
-  },
-  "va-fx-industrial-gfa": {
-    "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
-    "record_sha256": "5c055db3df1b683f994bf47523d74a1d251ca64c1d7c9489c0906852c997828a"
-  },
   "va-fx-setback": {
     "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
     "record_sha256": "77c8b3797aeeb8a8030a135e5d4d6fceb3d7570e8fe91fd146e5b8bd118f7a4f"
@@ -1295,5 +1287,13 @@
   "ga-douglas-buffer": {
     "sha256": "c3712649ae6ccedefdace0c0e64701bc1f3c51a18aa98c26936e744f48fd345c",
     "record_sha256": "af65d0e0813f9d92b1b149013650f8ecdf97f276811164584fcbd886fc080924"
+  },
+  "va-fx-commercial-gfa": {
+    "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+    "record_sha256": "7668afa02752b06e7270f6084cc19d770efcdf6051f100a672a75ea3b2fc4892"
+  },
+  "va-fx-industrial-gfa": {
+    "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+    "record_sha256": "be745e572302bc549fe87181477bf89c487445ca47a65d242b56dbb1e4ee6951"
   }
 }

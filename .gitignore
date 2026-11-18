@@ -5,3 +5,9 @@ __pycache__/
 # 10 GB evidence cache: hash-pinned in data/ manifests; rebuild with make refresh-XX or restore from backup
 cache/
 *.part
+
+_site/
+tmp/
+
+# Live deployment verification is an environment receipt, not a build input.
+/output/deployment_checks.json

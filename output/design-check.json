@@ -1,1 +1,42 @@
-[]
+[
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "/Users/pranava/Projects/local ordinance zoning/viewer/style.css",
+  "line": 48,
+  "snippet": "[hidden]{display:none!important}.coverage-note{font-size:.85rem;color:#49575b;margin:.25rem 0 .75rem",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "/Users/pranava/Projects/local ordinance zoning/viewer/style.css",
+  "line": 48,
+  "snippet": "[hidden]{display:none!important}.coverage-note{font-size:.85rem;color:#49575b;margin:.25rem 0 .75rem",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "/Users/pranava/Projects/local ordinance zoning/viewer/style.css",
+  "line": 51,
+  "snippet": "body{background:#fff!important;color:#000!important}header{padding:0!important}header h1{font-size:1",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "/Users/pranava/Projects/local ordinance zoning/viewer/style.css",
+  "line": 51,
+  "snippet": "body{background:#fff!important;color:#000!important}header{padding:0!important}header h1{font-size:1",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ },
+ {
+  "rule": "hex-outside-root",
+  "level": "WARN",
+  "path": "/Users/pranava/Projects/local ordinance zoning/viewer/style.css",
+  "line": 55,
+  "snippet": "#mapkey,.maphead,.coverage-note,#unknownCount,#outlying{display:block!important;break-inside:avoid}.",
+  "why": "a hardcoded hex outside the token blocks; exactly the value that cannot flip with the theme"
+ }
+]

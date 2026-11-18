@@ -1,0 +1,74 @@
+{
+  "reviewed_on": "2026-11-18",
+  "reason": "Visual check confirms PDF page 3; page has no printed number. Preserve prior claims and pins for review.",
+  "previous": {
+    "va-fx-commercial-gfa": {
+      "previous_record": {
+        "id": "va-fx-commercial-gfa",
+        "state": "VA",
+        "jurisdiction": "Fairfax County",
+        "level": "county",
+        "topic": "use-permission",
+        "scope": "data-center-specific",
+        "summary": "In C-3/C-4, a data-center building may exceed 40,000 ft\u00b2 of gross floor area only with a special exception. Check the use table and all other standards even below the limit.",
+        "status": "adopted",
+        "locator": "ZO 112.2-2024-8, \u00a7 4102.6.A(2), printed p. 3",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
+        "authority": "Fairfax County Board of Supervisors",
+        "evidence": "40,000 square feet",
+        "effective": "2024-09-11",
+        "district": "C-3; C-4",
+        "trigger": "Building GFA >40,000 ft\u00b2.",
+        "thresholds": [
+          {
+            "metric": "building_gfa",
+            "operator": ">",
+            "value": 40000,
+            "unit": "ft2",
+            "context": "Commercial C-3/C-4 size trigger."
+          }
+        ],
+        "geoid": "51059"
+      },
+      "previous_pin": {
+        "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+        "record_sha256": "d35fcf782758777fc1bb5cb16c3ba376d1ce6e336cc09de0f85f1bbe31b5d966"
+      },
+      "previous_pathway_fingerprint": "d0f1e1c774072e7fb7fff91eea1be34668c3549a40c077c7011f7d9b7b4cb15a"
+    },
+    "va-fx-industrial-gfa": {
+      "previous_record": {
+        "id": "va-fx-industrial-gfa",
+        "state": "VA",
+        "jurisdiction": "Fairfax County",
+        "level": "county",
+        "topic": "use-permission",
+        "scope": "data-center-specific",
+        "summary": "In I-2/I-3/I-4, a data-center building may exceed 80,000 ft\u00b2 of gross floor area only with a special exception. Other siting and approval requirements still apply.",
+        "status": "adopted",
+        "locator": "ZO 112.2-2024-8, \u00a7 4102.6.A(3), printed p. 3",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf",
+        "authority": "Fairfax County Board of Supervisors",
+        "evidence": "80,000 square feet",
+        "effective": "2024-09-11",
+        "district": "I-2; I-3; I-4",
+        "trigger": "Building GFA >80,000 ft\u00b2.",
+        "thresholds": [
+          {
+            "metric": "building_gfa",
+            "operator": ">",
+            "value": 80000,
+            "unit": "ft2",
+            "context": "Industrial I-2/I-3/I-4 size trigger."
+          }
+        ],
+        "geoid": "51059"
+      },
+      "previous_pin": {
+        "sha256": "c8c406346e3ce328d0719a057479e88773d06af7a4cac05ba928106c345c2c25",
+        "record_sha256": "5c055db3df1b683f994bf47523d74a1d251ca64c1d7c9489c0906852c997828a"
+      },
+      "previous_pathway_fingerprint": "f968844d027f952f16075fa56d3ce4a8b32984404da2d52e752c292d9f9d0fff"
+    }
+  }
+}

@@ -26,9 +26,10 @@ function geometry(st){
  if(!st){const W=x1-x0,gap=.01*W,w=(W-6*gap)/7,h=.165*W,top0=y1+.04*W;insetCodes.forEach((code,i)=>{const f=G.state.find(s=>s[0]===code);if(f)shapes.push(insetShape(code,[x0+i*(w+gap),top0,w,h],f))});bottom=top0+h+pad/2}
  const geo={shapes,span,view:[x0-pad,top,x1-x0+2*pad,bottom-top].join(' ')};geometryCache.set(st,geo);return geo
 }
-let mapMetric='rules';const metricNames={permits:'Distinct permits',rules:'Ordinance rules',active:'Active permits',historical:'Historical permits',unconfirmed:'Status not reported'};
+let mapMetric='rules';const metricNames={tc_rules:'Telecom requirements',tc_instruments:'Instruments / applications',tc_events:'Dated actions',permits:'Distinct permits',rules:'Ordinance rules',active:'Active permits',historical:'Historical permits',unconfirmed:'Status not reported'};
 const mapCountCache=new Map();
 function countsFor(st,id='',name=''){
+ if(mode==='telecom'){const rows=telecomScope(telecomRows(),st,id);return {tc_rules:rows.filter(r=>r.row_kind==='requirement').length,tc_instruments:rows.filter(r=>r.row_kind==='instrument').length,tc_events:rows.filter(r=>r.row_kind==='event').length,hasHistory:true}}
  const cacheKey=JSON.stringify([federalOnly,st,id,name]);if(mapCountCache.has(cacheKey))return mapCountCache.get(cacheKey);
  const scopedState=id&&places.get(id)?.[2]==='state',area=id&&!scopedState?norm(name||places.get(id)?.[3]||scoped.get(id)?.[1],st):'*';
  const rs=A.rules.filter(r=>ok(r)&&(!st||r.state===st)&&(!id||scopedState||jkey(r)===id));
@@ -36,7 +37,7 @@ function countsFor(st,id='',name=''){
  for(const states of (st?[st]:Object.keys(source))){const t=source[states]?.[area]||{};for(const k of ['active','historical','unconfirmed'])result[k]+=t[k]||0}
  result.permits=result.active+result.historical+result.unconfirmed;mapCountCache.set(cacheKey,result);return result
 }
-function amount(ct,k){return (k==='rules'||ct.hasHistory)?ct[k].toLocaleString():'—'}
+function amount(ct,k){return (k==='rules'||ct.hasHistory)?(ct[k]||0).toLocaleString():'—'}
 function updateMapCounts(st,id){
  const islands=$('outlying');islands.hidden=!!st;
 
@@ -44,6 +45,7 @@ function updateMapCounts(st,id){
  for(const b of document.querySelectorAll('[data-metric]')){const k=b.dataset.metric;b.firstElementChild.textContent=amount(ct,k);b.setAttribute('aria-pressed',String(k===mapMetric));b.title='Show '+metricNames[k].toLowerCase()+' on the map and in the list'}
  $('maptitle').textContent=(id&&(scoped.get(id)?.[1]||places.get(id)?.[3]))||sn.get(st)||'All states';
  $('unknownCount').replaceChildren();if(ct.hasHistory&&ct.unconfirmed){const b=el('button',ct.unconfirmed.toLocaleString()+' more permits have no confirmed status');b.onclick=()=>{selectMetric('unconfirmed');mobileMap(false)};$('unknownCount').append(b)}else if(!ct.hasHistory)$('unknownCount').textContent=federalOnly?'No federal records collected for this area.':'No permit files collected for this state.';
+ if(mode==='telecom')$('unknownCount').textContent='Counts show documented records by locality, not surveyed routes. Statewide requirements are counted at state level only.';
  $('mapkey').replaceChildren(el('span',metricNames[mapMetric]),...['0 in atlas','1–9','10–99','100+'].map((x,i)=>el('span',x,'keybin bin'+i)))
 }
 function localSearchNote(g){if(!g)return '';const n=g[10]||0;
@@ -51,16 +53,16 @@ function localSearchNote(g){if(!g)return '';const n=g[10]||0;
  if(g[6]==='retrieval failed')return 'The local website could not be read.';
  if(g[6]==='evidence held')return 'A possible rule still needs verification.';
  return 'No local zoning source on file.'}
-function geoList(){const q=$('geosearch').value.toLowerCase().trim(),st=$('state').value,box=$('geolist');box.replaceChildren();const gs=A.geo.filter(g=>(!st||g[1]===st)&&(!q||g[3].toLowerCase().includes(q)||g[0]===q)).sort((a,b)=>(b[7]-a[7])||a[3].localeCompare(b[3]));for(const g of gs.slice(0,40)){const b=el('button'),ct=countsFor(g[1],g[0],g[3]),ruleLabel=ct.rules===1?' rule':' rules',permitLabel=(federalOnly?' federal':'')+(ct.permits===1?' permit':' permits');b.append(el('span',g[3]+' · '+g[1]),el('small',ct.rules+ruleLabel+' · '+(ct.hasHistory?ct.permits.toLocaleString()+permitLabel:'no '+(federalOnly?'federal ':'')+'permit files')));b.onclick=()=>selectMap(g[1],g[2]==='state'?'':g[0]);box.append(b)}if(gs.length>40)box.append(el('small','Type to narrow '+gs.length.toLocaleString()+' places.'))}
+function geoList(){const q=$('geosearch').value.toLowerCase().trim(),st=$('state').value,box=$('geolist');box.replaceChildren();const gs=A.geo.filter(g=>(!st||g[1]===st)&&(!q||g[3].toLowerCase().includes(q)||g[0]===q)).sort((a,b)=>(b[7]-a[7])||a[3].localeCompare(b[3]));for(const g of gs.slice(0,40)){const b=el('button'),ct=countsFor(g[1],g[0],g[3]),ruleLabel=ct.rules===1?' rule':' rules',permitLabel=(federalOnly?' federal':'')+(ct.permits===1?' permit':' permits');const description=mode==='telecom'?ct.tc_rules+' requirements · '+ct.tc_instruments+' instruments / applications · '+ct.tc_events+' dated actions':ct.rules+ruleLabel+' · '+(ct.hasHistory?ct.permits.toLocaleString()+permitLabel:'no '+(federalOnly?'federal ':'')+'permit files');b.append(el('span',g[3]+' · '+g[1]),el('small',description));b.onclick=()=>selectMap(g[1],g[2]==='state'?'':g[0]);box.append(b)}if(gs.length>40)box.append(el('small','Type to narrow '+gs.length.toLocaleString()+' places.'))}
 let lastMap='',lastState=null;
 function selectMap(st,id){choose(st,id);if(id){mobileMap(false);$('resultTitle').focus({preventScroll:true})}}
 function map(st,jid){
- const stamp=st+':'+jid+':'+mapMetric+':'+federalOnly;if(stamp===lastMap)return;lastMap=stamp;updateMapCounts(st,jid);
+ const stamp=st+':'+jid+':'+mapMetric+':'+federalOnly+':'+mode;if(stamp===lastMap)return;lastMap=stamp;updateMapCounts(st,jid);
  const m=$('map'),tip=$('tip'),geo=geometry(st);tip.hidden=true;
  if(st+mapMetric+federalOnly===lastState){for(const x of m.querySelectorAll('[data-id]'))x.classList.toggle('active',x.dataset.id===jid);return}
  lastState=st+mapMetric+federalOnly;m.replaceChildren();if(!geo.shapes.length)return;m.setAttribute('viewBox',geo.view);
  const nodes=[],markers=[];function bind(shape,state,id,name,isNational,available,extra=[],spot=null){
-   const g=places.get(id),ct=countsFor(state,isNational?'':id,g?.[3]||name),num=ct[mapMetric],bin=!num?0:num<10?1:num<100?2:3,labels=['rules','active','historical','unconfirmed'].map(k=>(federalOnly&&k!=='rules'?'Federal · ':'')+metricNames[k]+': '+amount(ct,k));
+   const g=places.get(id),ct=countsFor(state,isNational?'':id,g?.[3]||name),num=ct[mapMetric],bin=!num?0:num<10?1:num<100?2:3,labels=(mode==='telecom'?['tc_rules','tc_instruments','tc_events']:['rules','active','historical','unconfirmed']).map(k=>(federalOnly&&k!=='rules'?'Federal · ':'')+metricNames[k]+': '+amount(ct,k));
    shape.classList.add(available?'on':'back','countbin'+bin);if(jid===id)shape.classList.add('active');shape.dataset.id=id;shape.dataset.value=num;
    shape.setAttribute('aria-label',[name,...labels].join(' · '));shape.setAttribute('role',available?'button':'img');
    if(num>0){markers.push([num,shape,g,spot])}

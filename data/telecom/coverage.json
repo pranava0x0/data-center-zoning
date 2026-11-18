@@ -1,0 +1,60 @@
+[
+  {
+    "id": "vdot-loudoun",
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "authority": "VDOT",
+    "source_review": "verified",
+    "history_review": "bounded sample",
+    "source_id": "vdot-fiber-search",
+    "search": "agency 8; Utility - Fiber Optic 399; locality Loudoun County; newest 10",
+    "pagination": "start 0, length 10; not all pages",
+    "result_count": 163,
+    "published_sample": 11,
+    "limitation": "Ten newest detail pages plus the independently selected application 949:61269. No date filter; not a census."
+  },
+  {
+    "id": "vdot-fairfax",
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "authority": "VDOT",
+    "source_review": "verified",
+    "history_review": "bounded sample",
+    "source_id": "vdot-fairfax-search",
+    "search": "agency 8; Utility - Fiber Optic 399; locality Fairfax County; newest 5",
+    "pagination": "start 0, length 5; not all pages",
+    "result_count": 125,
+    "published_sample": 5,
+    "limitation": "Not a complete register; address does not establish county authority."
+  },
+  {
+    "id": "fairfax-county",
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "authority": "Fairfax County",
+    "source_review": "verified",
+    "history_review": "two easement actions; no utility permit register reconciled",
+    "source_id": "fairfax-up",
+    "limitation": "No inference of executed deed or issued street-opening permit."
+  },
+  {
+    "id": "leesburg",
+    "state": "VA",
+    "jurisdiction": "Leesburg",
+    "authority": "Town of Leesburg",
+    "source_review": "blocked",
+    "history_review": "unavailable",
+    "source_id": "leesburg-row",
+    "limitation": "Official process page returned HTTP 403; search-index text is discovery only. No zero-record finding."
+  },
+  {
+    "id": "loudoun-county",
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "authority": "Loudoun County",
+    "source_review": "not reviewed",
+    "history_review": "not searched",
+    "source_id": null,
+    "limitation": "VDOT work location is established separately; no county-controlled ROW process verified."
+  }
+]

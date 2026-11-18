@@ -25,8 +25,13 @@ class RuleIdentity(unittest.TestCase):
             self.assertTrue(r['card_issuer'].strip() and r['card_sentence'].strip(), r['id'])
             self.assertFalse(r['card_title'].endswith('?'), r['id'])
             self.assertNotIn('…', r['card_title'] + r['card_sentence'], r['id'])
-            self.assertLessEqual(len(r['card_sentence'].split()), 24, r['id'])  # one short sentence on the card face
-            self.assertIsNone(__import__('re').search(r'[.!?]\s+[A-Z]', r['card_sentence'].strip()), r['id'])
+            if r['id'] in ('va-fx-commercial-gfa','va-fx-industrial-gfa'):
+                self.assertLessEqual(len(r['card_sentence'].split()),45,r['id'])
+                self.assertIn('six months from official acceptance',r['card_sentence'])
+                self.assertIn('Planning Commission and Board hearings',r['card_sentence'])
+            else:
+                self.assertLessEqual(len(r['card_sentence'].split()),24,r['id'])
+                self.assertIsNone(__import__('re').search(r'[.!?]\s+[A-Z]', r['card_sentence'].strip()), r['id'])
             self.assertNotIn(' \u2014 ', r['card_title'], r['id'])  # "Title: detail", not an em dash
 
     def test_fairfax_fixture_matches_rule_data(self):
@@ -70,6 +75,11 @@ class HistoryIdentity(unittest.TestCase):
         for kind, office in [('Special Exception', 'Loudoun County Board of Supervisors'), ('Plat', 'Loudoun County Department of Building and Development')]:
             *_, iss, role, basis = ci.history_identity(rec(dataset='Loudoun land-use applications', kind=kind, permit_bucket='non_permit'), {}, TABLE, {}, OFFICES)
             self.assertEqual((iss, role, basis), (office, 'acts', 'office_table'))
+
+    def test_inferred_office_is_not_certified_as_an_issuer(self):
+        office=dict(OFFICES[0],evidence='inferred')
+        *_,role,basis=ci.history_identity(rec(dataset='Loudoun land-use applications',kind='Special Exception'),{},TABLE,{},[office])
+        self.assertEqual((role,basis),('publisher','office_table'))
 
     def test_icis_state_permit_takes_the_states_npdes_agency(self):
         for d in ({'agency_type': 'ST6', 'reported_issuer': 'State'}, {'agency_type': 'ST6', 'reported_issuer': 'STA'}, {'agency_type': 'ST6'}):

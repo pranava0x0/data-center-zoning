@@ -1,0 +1,70 @@
+{
+  "edition": "2026-11-15",
+  "passed": true,
+  "profiles": {
+    "small-phone": {
+      "journeys": {
+        "firstRule": {
+          "actions": 0,
+          "swipes": 0,
+          "navigations": 0
+        },
+        "botetourtFinding": {
+          "actions": 2,
+          "swipes": 0,
+          "navigations": 0
+        },
+        "primarySource": {
+          "actions": 1,
+          "swipes": 0,
+          "navigations": 1
+        },
+        "evidence": {
+          "actions": 1,
+          "swipes": 0,
+          "navigations": 0
+        }
+      },
+      "coldReadyMs": 756,
+      "coldAssetBytes": 2431167,
+      "portableByteBudget": 2712200
+    }
+  },
+  "checks": [
+    "small-phone: cold-load budgets",
+    "small-phone: no separate script or stylesheet requests",
+    "small-phone: All-state overview with categories",
+    "small-phone: map names preserve City and Village in real place names",
+    "small-phone: .rowcard .strip in viewport",
+    "small-phone: firstRule actions 0 <= 0",
+    "small-phone: firstRule swipes 0 <= 0",
+    "small-phone: firstRule navigations 0 <= 0",
+    "small-phone: .facets button in viewport",
+    "small-phone: .facets button unobscured",
+    "small-phone: topic chip filters the cards",
+    "small-phone: .facets button[aria-pressed=true] in viewport",
+    "small-phone: .facets button[aria-pressed=true] unobscured",
+    "small-phone: #jur in viewport",
+    "small-phone: #jur offers 51023",
+    "small-phone: .rowcard h3 in viewport",
+    "small-phone: Botetourt title, jurisdiction and office, and one sentence on a collapsed card",
+    "small-phone: every card shows title then jurisdiction and office without expanding, labelled Details, with no role labels",
+    "small-phone: botetourtFinding actions 2 <= 2",
+    "small-phone: botetourtFinding swipes 0 <= 0",
+    "small-phone: botetourtFinding navigations 0 <= 0",
+    "small-phone: .cardhead a in viewport",
+    "small-phone: .cardhead a unobscured",
+    "small-phone: direct official citation target",
+    "small-phone: primarySource actions 1 <= 1",
+    "small-phone: primarySource swipes 0 <= 0",
+    "small-phone: primarySource navigations 1 <= 1",
+    "small-phone: .rowcard summary in viewport",
+    "small-phone: .rowcard summary unobscured",
+    "small-phone: .rowcard blockquote in viewport",
+    "small-phone: Details list the source, where in it, and the quote in plain words",
+    "small-phone: evidence actions 1 <= 1",
+    "small-phone: evidence swipes 0 <= 0",
+    "small-phone: evidence navigations 0 <= 0"
+  ],
+  "errors": []
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "commit": "d142d77f5df42434ef301701378114cabdf92ced",
+  "research_cache_present": false,
+  "network_proxy": "unreachable loopback",
+  "exact_file_matches": {
+    "index.html": true,
+    "downloads/manifest.json": true,
+    "downloads/atlas-2026-11-18-v1.zip": true
+  }
+}

@@ -1,0 +1,6 @@
+id,state,jurisdiction,authority,source_review,history_review,source_id,search,pagination,result_count,published_sample,limitation
+vdot-loudoun,VA,Loudoun County,VDOT,verified,bounded sample,vdot-fiber-search,agency 8; Utility - Fiber Optic 399; locality Loudoun County; newest 10,"start 0, length 10; not all pages",163,11,Ten newest detail pages plus the independently selected application 949:61269. No date filter; not a census.
+vdot-fairfax,VA,Fairfax County,VDOT,verified,bounded sample,vdot-fairfax-search,agency 8; Utility - Fiber Optic 399; locality Fairfax County; newest 5,"start 0, length 5; not all pages",125,5,Not a complete register; address does not establish county authority.
+fairfax-county,VA,Fairfax County,Fairfax County,verified,two easement actions; no utility permit register reconciled,fairfax-up,,,,,No inference of executed deed or issued street-opening permit.
+leesburg,VA,Leesburg,Town of Leesburg,blocked,unavailable,leesburg-row,,,,,Official process page returned HTTP 403; search-index text is discovery only. No zero-record finding.
+loudoun-county,VA,Loudoun County,Loudoun County,not reviewed,not searched,,,,,,VDOT work location is established separately; no county-controlled ROW process verified.
