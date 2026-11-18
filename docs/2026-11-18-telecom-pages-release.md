@@ -42,17 +42,19 @@ Small-phone review caught evidence requiring an extra swipe after the new naviga
 
 ## Measured local validation
 
-112 Python tests and 5633 browser assertions passed across four viewports, HTTP and isolated file loading. All four browser receipts match the exact 2434320-byte packed build. No uncaught browser errors or external startup dependencies were observed. The focused smallest-phone evidence journey also passed 34 checks. Timings are local Chrome measurements, not a promise about cellular networks or government portals.
+112 Python tests and 5641 browser assertions passed across four viewports, HTTP and isolated file loading. All four browser receipts match the exact 2697476-byte packed build. No uncaught browser errors or external startup dependencies were observed. Timings are local Chrome measurements, not a promise about cellular networks or government portals.
 
 | Viewport | Cold ready (ms) | Filter (ms) | Local history (ms) |
 |---|---:|---:|---:|
-| desktop | 543 | 8 | 229 |
-| tablet | 493 | 4 | 201 |
-| phone | 577 | 4 | 217 |
-| small-phone | 569 | 5 | 213 |
+| desktop | 209 | 7 | 215 |
+| tablet | 97 | 4 | 202 |
+| phone | 93 | 10 | 197 |
+| small-phone | 125 | 4 | 307 |
 
 The first GitHub runner exposed a browser-harness setup assumption: the ignored cache directory did not exist on a fresh checkout. The harness now creates its temporary-profile parent directory itself. CI also requires browser receipts to match the exact packed-file byte size before publishing.
 
 The GitHub review also found that the place directory expected data-center metric fields while telecom used distinct counting units. The directory and counting explanation now switch with the technology, and four-viewport regressions cover opening the directory and changing filters while it remains open.
 
 The Linux runner measured a 2.55-second cold open against the unchanged 1.8-second budget. The startup geography and rules now use gzip/Pako rather than JavaScript LZMA decoding; deferred history bundles retain LZMA. The packed page remains under the unchanged edition byte ceiling.
+
+GitHub Actions run [44326116296](https://github.com/pranava0x0/data-center-zoning/actions/runs/44326116296) passed all 5641 browser assertions on Linux for commit `d142d77`. Cold opens ranged from 162 to 781 ms under the unchanged 1800 ms ceiling. The clean checkout also passed export contracts, description checks, collector replay and the exact-build report guard. Final local source receipts and representative screenshots accompany this release.

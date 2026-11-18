@@ -475,11 +475,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 543,
-      "coldAssetBytes": 2434320,
+      "coldReadyMs": 209,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 229,
-      "filterMs": 8
+      "localHistoryMs": 215,
+      "filterMs": 7
     },
     "tablet": {
       "journeys": {
@@ -954,10 +954,10 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 493,
-      "coldAssetBytes": 2434320,
+      "coldReadyMs": 97,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 201,
+      "localHistoryMs": 202,
       "filterMs": 4
     },
     "phone": {
@@ -1433,11 +1433,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 577,
-      "coldAssetBytes": 2434320,
+      "coldReadyMs": 93,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 217,
-      "filterMs": 4
+      "localHistoryMs": 197,
+      "filterMs": 10
     },
     "small-phone": {
       "journeys": {
@@ -1912,11 +1912,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 569,
-      "coldAssetBytes": 2434320,
+      "coldReadyMs": 125,
+      "coldAssetBytes": 2697476,
       "portableByteBudget": 2712200,
-      "localHistoryMs": 213,
-      "filterMs": 5
+      "localHistoryMs": 307,
+      "filterMs": 4
     }
   },
   "checks": [
@@ -7510,6 +7510,8 @@
     "telecom: telecom scope and coverage 1320",
     "telecom: instrument map and cards reconcile 1320",
     "telecom: Fairfax VDOT work and county easement stay distinct 1320",
+    "telecom: telecom directory uses its own counting units 1320",
+    "telecom: telecom filtering works while directory remains open 1320",
     "telecom: #export in viewport",
     "telecom: #export unobscured",
     "telecom: filtered telecom export preserves authority and source 1320",
@@ -7521,6 +7523,8 @@
     "telecom: telecom scope and coverage 768",
     "telecom: instrument map and cards reconcile 768",
     "telecom: Fairfax VDOT work and county easement stay distinct 768",
+    "telecom: telecom directory uses its own counting units 768",
+    "telecom: telecom filtering works while directory remains open 768",
     "telecom: #export in viewport",
     "telecom: #export unobscured",
     "telecom: filtered telecom export preserves authority and source 768",
@@ -7531,6 +7535,8 @@
     "telecom: telecom scope and coverage 390",
     "telecom: instrument map and cards reconcile 390",
     "telecom: Fairfax VDOT work and county easement stay distinct 390",
+    "telecom: telecom directory uses its own counting units 390",
+    "telecom: telecom filtering works while directory remains open 390",
     "telecom: #export in viewport",
     "telecom: #export unobscured",
     "telecom: filtered telecom export preserves authority and source 390",
@@ -7541,6 +7547,8 @@
     "telecom: telecom scope and coverage 360",
     "telecom: instrument map and cards reconcile 360",
     "telecom: Fairfax VDOT work and county easement stay distinct 360",
+    "telecom: telecom directory uses its own counting units 360",
+    "telecom: telecom filtering works while directory remains open 360",
     "telecom: #export in viewport",
     "telecom: #export unobscured",
     "telecom: filtered telecom export preserves authority and source 360",
