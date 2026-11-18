@@ -1,0 +1,111 @@
+dataset	issuer	role	basis	prefer	citation
+Iowa DNR air construction equipment permit history	Iowa Department of Natural Resources	issues	dataset title names the agency; register lists permit issue dates		
+Loudoun issued permits	Loudoun County	issues	dataset title: county issued-permits register (LandMARC); issuing office not reported		
+Loudoun land-use applications	Loudoun County	publisher	county land-use case layer; deciding office not reported		
+Loudoun submitted permits	Loudoun County	publisher	county register of submitted (not issued) permits; issuing office not reported		
+Loudoun monthly building reports	Loudoun County	publisher	county monthly building report; issuing office not reported		
+Austin issued construction permits	City of Austin Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Austin Development Services Department | https://www.austintexas.gov/department/development-services
+Chicago building permits	City of Chicago Department of Buildings	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Chicago Department of Buildings | https://www.chicago.gov/city/en/depts/bldgs.html
+Virginia DEQ issued data-center air permits	Virginia Department of Environmental Quality	issues	dataset title names DEQ as issuer		
+State-issued water permits reported to EPA			EPA ICIS-NPDES lists the issuing authority only as State or an abbreviation		
+Fort Worth development permits	City of Fort Worth Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Fort Worth Development Services | https://www.fortworthtexas.gov/departments/development-services
+PortlandMaps all permits	City of Portland Permitting & Development	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Portland Permitting & Development | https://www.portland.gov/ppd
+Pennsylvania DEP data center permit tracker	Pennsylvania Department of Environmental Protection	issues	dataset title names DEP as publisher and the tracker lists its authorizations		
+Nebraska DWEE facility air files	Nebraska Department of Water, Energy, and Environment	publisher	DWEE air file index; records are agency file documents, not permit numbers		
+Mesa building permit register	City of Mesa Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Mesa Development Services | https://www.mesaaz.gov/Business-Development/Development-Services
+Prince William data-center building permits	Prince William County Department of Development Services	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Prince William County Development Services | https://www.pwcva.gov/department/development-services
+Phoenix permits	City of Phoenix Planning and Development Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Planning and Development Department, City of Phoenix | https://www.phoenix.gov/pdd
+Phoenix plan reviews	City of Phoenix	publisher	plan review records; reviewing office not reported		
+Dallas building permits	City of Dallas Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Dallas Development Services | https://dallascityhall.com/departments/sustainabledevelopment/
+Georgia EPD issued air permits	Georgia Environmental Protection Division	issues	dataset title: Georgia EPD issued air permits		
+San Antonio issued building and trade permits	City of San Antonio Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	San Antonio Development Services | https://www.sa.gov/Directory/Departments/DSD
+Atlanta Regional Commission DRI reviews	Atlanta Regional Commission	reviews	regional review of a Development of Regional Impact; local government decides the project		
+Oklahoma DEQ final data-center instruments	Oklahoma Department of Environmental Quality	issues	dataset title names DEQ instruments		
+Oklahoma DEQ permit applications	Oklahoma Department of Environmental Quality	publisher	applications filed with DEQ; no decision recorded		
+Seattle building permits	City of Seattle Department of Construction and Inspections	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Seattle Department of Construction and Inspections | https://www.seattle.gov/sdci
+VA DEQ — Virginia Water Protection (VWP) General Permits	Virginia Department of Environmental Quality	issues	dataset title names DEQ VWP program		
+VA DEQ — Virginia Water Protection (VWP) Non-Permit (NP)	Virginia Department of Environmental Quality	issues	dataset title names DEQ VWP program (non-permit determination)		
+VA DEQ — Virginia Water Protection (VWP) Individual Permits (IP)	Virginia Department of Environmental Quality	issues	dataset title names DEQ VWP program		
+VA DEQ — VWP SSWD	Virginia Department of Environmental Quality	issues	dataset title names DEQ (state surface waters determination)		
+VA DEQ — Stormwater Permits Daily	Virginia Department of Environmental Quality	issues	dataset title names DEQ; row authority field names the locality, not the issuer	table	
+Minnesota EQB environmental review notices	Minnesota Environmental Quality Board	publisher	EQB Monitor notices; responsible governmental unit not extracted		
+District of Columbia building permit register	District of Columbia	publisher	DC permit register; issuing office not stated in the record		
+County case files	Botetourt County	publisher	county case files; deciding office not reported		
+South Florida Water Management District permit register	South Florida Water Management District	issues	dataset title names the district		
+South Florida Water Management District application actions	South Florida Water Management District	issues	dataset title names the district		
+New Mexico Environment Department air proceedings	New Mexico Environment Department	issues	dataset title names the department		
+Baltimore DHCD issued building and use permits	Baltimore Department of Housing and Community Development	issues	dataset title: DHCD issued permits		
+Municipal project planning dockets			generic municipal docket; no issuing body in the record		
+Montgomery County electrical permits	Montgomery County, Maryland	issues	county electrical permits dataset; issuing office not reported		
+Albuquerque air quality notifications	City of Albuquerque	publisher	notification records; body not stated in the record		
+City of De Soto project and planning records	City of De Soto	publisher	city records; deciding body not stated		
+Cook County assessor municipal permit register			county assessor republishes municipal permits; issuing municipality not identified in the record		
+Tempe building safety permits	City of Tempe Community Development Department, Building Safety Division	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Tempe Building Safety | https://www.tempe.gov/government/community-development/building-safety
+Douglas County Planning and Zoning agendas	Douglas County, Georgia	publisher	agenda items; deciding body not stated		
+Palm Beach County Project Tango decisions	Palm Beach County	publisher	county decisions; deciding body not stated		
+Laramie County commissioners and planning commission	Laramie County	publisher	county meeting records; deciding body not stated		
+Town of Eatonville council agendas	Town of Eatonville	publisher	council agendas; action not stated		
+Missoula County Bonner project review	Missoula County	publisher	county project review; deciding body not stated		
+Louisville Metro development plans	Louisville Metro Government	publisher	development plan records; deciding body not stated		
+Iowa DNR signed Title V operating permits	Iowa Department of Natural Resources	issues	dataset title names the agency		
+North Dakota DEQ air permits to construct	North Dakota Department of Environmental Quality	issues	dataset title names the department		
+Laramie County SmartGov planning permits	Laramie County	issues	county planning permits; issuing office not reported		
+MassDEP Markley air approval and adjudication	Massachusetts Department of Environmental Protection	issues	dataset title names MassDEP		
+Saline Township land use proceedings	Saline Township	publisher	township proceedings; deciding body not stated		
+City of Kuna planning and zoning cases	City of Kuna	publisher	city case records; deciding body not stated		
+Albuquerque issued building permits	City of Albuquerque	issues	dataset title: issued permits; issuing office not reported		
+Council Bluffs Building Division issued permits	Council Bluffs Building Division	issues	dataset title names the division		
+Framingham building applications	City of Framingham	publisher	building applications; no issuance recorded		
+East Baton Rouge building permits	City of Baton Rouge and Parish of East Baton Rouge	issues	permits portal; issuing office not reported		
+South Dakota Public Utilities Commission electric dockets	South Dakota Public Utilities Commission	decides	dataset title names the commission		
+Tucson commercial building permits	City of Tucson	issues	city commercial building permits; issuing office not reported		
+Municipal land-use case records			generic municipal case records; no issuing body in the record		
+Delaware Coastal Zone Act decisions	State of Delaware	publisher	Coastal Zone Act decisions; decision-maker not stated in the record		
+Michigan Public Service Commission special contracts	Michigan Public Service Commission	decides	dataset title names the commission		
+Dickey County Water Resource District proceedings	Dickey County Water Resource District	decides	dataset title names the district board		
+Papillion City Administrator permit reports	City of Papillion	issues	city administrator permit reports; issuing office not reported		
+Oregon land-use ordinance and review records			Oregon local land-use records; no issuing body in the record		
+Michigan air permits to install	State of Michigan	publisher	state air permits to install; issuing office not named in the record		
+Rhode Island DEM emergency generator permits	Rhode Island Department of Environmental Management	issues	dataset title names DEM		
+City of Alpharetta commercial permits	City of Alpharetta	issues	city commercial permits; issuing office not reported		
+Van Buren Township Planning Commission	Van Buren Township Planning Commission	acts	dataset title names the commission		
+Arkansas DEQ other air requests	Arkansas Division of Environmental Quality	publisher	air requests; decision not recorded		
+Montana Sage Grouse Habitat Conservation Program consultations	Montana Sage Grouse Habitat Conservation Program	reviews	dataset title names the program		
+City of Cheyenne public planning cases	City of Cheyenne	publisher	city planning cases; deciding body not stated		
+City of Southfield site-plan review	City of Southfield	publisher	site-plan review; deciding body not stated		
+McPherson County conditional use proceedings	McPherson County	publisher	county proceedings; deciding body not stated		
+Idaho DEQ issued air permits and notices	Idaho Department of Environmental Quality	issues	dataset title names DEQ		
+North Dakota DEQ discharge permit notices	North Dakota Department of Environmental Quality	publisher	draft discharge permit notices; no issuance recorded		
+Guam Hybrid Land Use Commission minutes	Guam Hybrid Land Use Commission	acts	dataset title names the commission		
+City of Miami iBuild permits	City of Miami	issues	iBuild permits; issuing office not reported		
+Massachusetts MEPA project certificates	Massachusetts Executive Office of Energy and Environmental Affairs, MEPA Office	issues	dataset title: MEPA project certificates		
+Oldham County Project Lincoln withdrawals	Oldham County	publisher	county records; deciding body not stated		
+Yellowstone County commission project agenda	Yellowstone County Commission	acts	dataset title names the commission		
+EPA ICIS-NPDES permit versions			EPA ICIS-NPDES lists the issuing authority only as an abbreviation or State		
+Montana DEQ public water supply review	Montana Department of Environmental Quality	reviews	dataset title names DEQ		
+Saline Township advisory committee	Saline Township advisory committee	acts	dataset title names the committee		
+Michigan EGLE water withdrawal determinations	Michigan Department of Environment, Great Lakes, and Energy	issues	dataset title names EGLE		
+Tulsa Metropolitan Area Planning Commission staff reviews	Tulsa Metropolitan Area Planning Commission	reviews	dataset title names the commission (staff review)		
+City of South Fulton zoning information meeting	City of South Fulton	publisher	city meeting notice; deciding body not stated		
+West Des Moines City Council site plans	West Des Moines City Council	acts	dataset title names the council		
+Lewiston City Council development agreements	Lewiston City Council	acts	dataset title names the council		
+Miami-Dade County building permits	Miami-Dade County	issues	county building permits; issuing office not reported		
+Chandler city council zoning decisions	Chandler City Council	acts	dataset title names the council		
+City of Fargo commission proceedings	Fargo City Commission	acts	dataset title names the commission		
+Kentucky PSC project information requests	Kentucky Public Service Commission	reviews	dataset title names the commission		
+Susquehanna River Basin Commission consumptive use approvals	Susquehanna River Basin Commission	issues	dataset title names the commission		
+Lincoln-Lancaster County air permits	Lincoln-Lancaster County	publisher	county air permits; issuing office not named in the record		
+Little Rock municipal permits	City of Little Rock	issues	municipal permits; issuing office not reported		
+Elk Grove Village redevelopment resolutions	Village of Elk Grove Village	publisher	village resolutions; body not stated		
+Michigan EGLE air compliance inspections	Michigan Department of Environment, Great Lakes, and Energy	publisher	inspection record; not an approval		
+MassDEP prior certifications cited in MEPA	Massachusetts Department of Environmental Protection	issues	dataset title names MassDEP		
+San José building permit registers	City of San José Department of Planning, Building and Code Enforcement	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	San José Planning, Building and Code Enforcement | https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement
+San José planning register	City of San José Department of Planning, Building and Code Enforcement	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	San José Planning, Building and Code Enforcement | https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement
+San José C.3 stormwater project tracking	City of San José Department of Planning, Building and Code Enforcement	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	San José Planning, Building and Code Enforcement | https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement
+Anchorage inspection and review actions	Municipality of Anchorage Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Anchorage Development Services | https://www.muni.org/Departments/OCPD/development-services/
+Anchorage permit records	Municipality of Anchorage Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Anchorage Development Services | https://www.muni.org/Departments/OCPD/development-services/
+Loudoun fire marshal — data-center property authorizations	Loudoun County Fire Marshal’s Office	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Data Centers: Public Safety & Security, Loudoun County | https://www.loudoun.gov/6403/Public-Safety-Security
+Raleigh building permits	City of Raleigh Development Services Department	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Raleigh Development Services | https://raleighnc.gov/development-services
+Denver commercial permits at a verified data-center site	City and County of Denver Community Planning and Development	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Denver Community Planning and Development | https://www.denvergov.org/Government/Agencies-Departments-Offices/Community-Planning-and-Development
+Minneapolis CCS construction permits	City of Minneapolis Community Planning and Economic Development, Construction Code Services	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Minneapolis Construction Code Services | https://www.minneapolismn.gov/government/departments/cped/
+Honolulu historical building permits	City and County of Honolulu Department of Planning and Permitting	issues	register is the department's own permit system; office named from the department's public site (page not opened in this pass)	table	Honolulu Department of Planning and Permitting | https://www.honolulu.gov/dpp.html

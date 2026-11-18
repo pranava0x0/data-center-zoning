@@ -5,11 +5,26 @@ const rad=Math.PI/180,p1=29.5*rad,p2=45.5*rad,n=(Math.sin(p1)+Math.sin(p2))/2,c0
 function project([lon,lat]){const rho=Math.sqrt(c0-2*n*Math.sin(lat*rad))/n,t=n*(lon+96)*rad;return [rho*Math.sin(t)*1000,rho*Math.cos(t)*1000]}
 const outlying=new Set(['AK','HI','PR','GU','MP','AS','VI']);
 const geometryCache=new Map();
+// Alaska, Hawaii and the territories are drawn as insets under the lower 48: real Census outlines,
+// each in its own projection and scaled to fit, so the sizes are not comparable with the main map.
+function conic(lon0,la1,la2){const a=la1*rad,b=la2*rad,k=(Math.sin(a)+Math.sin(b))/2,q=Math.cos(a)**2+2*k*Math.sin(a);return ([lon,lat])=>{const r=Math.sqrt(q-2*k*Math.sin(lat*rad))/k,t=k*(lon-lon0)*rad;return [r*Math.sin(t)*1000,r*Math.cos(t)*1000]}}
+const insetCodes=['AK','HI','PR','VI','GU','MP','AS'],insetFit={AK:conic(-154,55,65),HI:conic(-157,8,18)};
+function insetShape(code,cell,feature){
+ const [x,y,w,h]=cell,rings=feature[3].length?feature[3]:G.county.filter(f=>f[0]===code).flatMap(f=>f[3]),flat=rings.flat();
+ const lat0=flat.length?flat.reduce((s,v)=>s+v[1],0)/flat.length:0,local=insetFit[code]||(([lon,lat])=>[lon*Math.cos(lat0*rad)*17.45,-lat*17.45]);
+ const pts=rings.map(r=>r.map(local)),all=pts.flat(),bx=x+.1*w,by=y+.05*h,bw=.8*w,bh=.72*h,line=y+.87*h;
+ const base={state:code,id:feature[1],name:feature[2],point:null,d:'',inset:{code,frame:cell,label:[x+.74*w,line],codeAt:[x+.27*w,line]}};
+ if(!all.length)return {...base,point:[x+w/2,by+bh/2]};
+ const xs=all.map(v=>v[0]),ys=all.map(v=>v[1]),mx=Math.min(...xs),my=Math.min(...ys),sw=Math.max(...xs)-mx||1,sh=Math.max(...ys)-my||1,k=Math.min(bw/sw,bh/sh),ox=bx+(bw-sw*k)/2,oy=by+(bh-sh*k)/2;
+ base.d=pts.map(r=>'M'+r.map(([a,b])=>(ox+(a-mx)*k).toFixed(2)+','+(oy+(b-my)*k).toFixed(2)).join('L')+'Z').join('');return base
+}
 function geometry(st){
  if(geometryCache.has(st))return geometryCache.get(st);
  const fs=st?G.county.filter(f=>f[0]===st):G.state.filter(f=>!outlying.has(f[0]));let x0=Infinity,y0=Infinity,x1=-Infinity,y1=-Infinity;
  const shapes=fs.map(([state,id,name,rings,point])=>({state,id,name,point:point&&project(point),d:(point?[[point]]:rings).map(ring=>'M'+ring.map(v=>{const [x,y]=project(v);x0=Math.min(x,x0);x1=Math.max(x,x1);y0=Math.min(y0,y);y1=Math.max(y1,y);return x.toFixed(2)+','+y.toFixed(2)}).join('L')+'Z').join('')}));
- const span=Math.max(.5,x1-x0,y1-y0),pad=.035*span,geo={shapes,span,view:[x0-pad,y0-pad,x1-x0+2*pad,y1-y0+2*pad].join(' ')};geometryCache.set(st,geo);return geo
+ const span=Math.max(.5,x1-x0,y1-y0),pad=.035*span;let top=y0-pad,bottom=y1+pad;
+ if(!st){const W=x1-x0,gap=.01*W,w=(W-6*gap)/7,h=.165*W,top0=y1+.04*W;insetCodes.forEach((code,i)=>{const f=G.state.find(s=>s[0]===code);if(f)shapes.push(insetShape(code,[x0+i*(w+gap),top0,w,h],f))});bottom=top0+h+pad/2}
+ const geo={shapes,span,view:[x0-pad,top,x1-x0+2*pad,bottom-top].join(' ')};geometryCache.set(st,geo);return geo
 }
 let mapMetric='rules';const metricNames={permits:'Distinct permits',rules:'Ordinance rules',active:'Active permits',historical:'Historical permits',unconfirmed:'Status not reported'};
 const mapCountCache=new Map();
@@ -23,8 +38,7 @@ function countsFor(st,id='',name=''){
 }
 function amount(ct,k){return (k==='rules'||ct.hasHistory)?ct[k].toLocaleString():'—'}
 function updateMapCounts(st,id){
- const islands=$('outlying');islands.replaceChildren();islands.hidden=!!st;
- if(!st)for(const code of outlying){const island=countsFor(code);const b=el('button',code+' '+amount(island,mapMetric));b.title=sn.get(code)+' · '+metricNames[mapMetric]+': '+amount(island,mapMetric);b.setAttribute('aria-label','View '+sn.get(code));b.onclick=()=>choose(code);islands.append(b)}
+ const islands=$('outlying');islands.hidden=!!st;
 
  const ct=countsFor(st,id);
  for(const b of document.querySelectorAll('[data-metric]')){const k=b.dataset.metric;b.firstElementChild.textContent=amount(ct,k);b.setAttribute('aria-pressed',String(k===mapMetric));b.title='Show '+metricNames[k].toLowerCase()+' on the map and in the list'}
@@ -45,26 +59,30 @@ function map(st,jid){
  const m=$('map'),tip=$('tip'),geo=geometry(st);tip.hidden=true;
  if(st+mapMetric+federalOnly===lastState){for(const x of m.querySelectorAll('[data-id]'))x.classList.toggle('active',x.dataset.id===jid);return}
  lastState=st+mapMetric+federalOnly;m.replaceChildren();if(!geo.shapes.length)return;m.setAttribute('viewBox',geo.view);
- const nodes=[],markers=[];function bind(shape,state,id,name,isNational,available){
+ const nodes=[],markers=[];function bind(shape,state,id,name,isNational,available,extra=[],spot=null){
    const g=places.get(id),ct=countsFor(state,isNational?'':id,g?.[3]||name),num=ct[mapMetric],bin=!num?0:num<10?1:num<100?2:3,labels=['rules','active','historical','unconfirmed'].map(k=>(federalOnly&&k!=='rules'?'Federal · ':'')+metricNames[k]+': '+amount(ct,k));
    shape.classList.add(available?'on':'back','countbin'+bin);if(jid===id)shape.classList.add('active');shape.dataset.id=id;shape.dataset.value=num;
    shape.setAttribute('aria-label',[name,...labels].join(' · '));shape.setAttribute('role',available?'button':'img');
-   if(num>0){markers.push([num,shape,g])}
+   if(num>0){markers.push([num,shape,g,spot])}
    const show=e=>{tip.replaceChildren(el('strong',name),...labels.map(s=>el('span',s)));tip.hidden=false;
     const box=m.parentElement.getBoundingClientRect(),r=shape.getBoundingClientRect(),x=e.clientX||r.x+r.width/2,y=e.clientY||r.y+r.height/2;
     tip.style.left=Math.max(3,Math.min(box.width-tip.offsetWidth-3,x-box.left+12))+'px';tip.style.top=Math.max(3,Math.min(box.height-tip.offsetHeight-3,y-box.top+10))+'px'};
-   shape.onpointerenter=shape.onpointermove=shape.onfocus=show;shape.onpointerleave=shape.onblur=()=>{tip.hidden=true};
+   shape.onpointerenter=shape.onpointermove=shape.onfocus=show;shape.onpointerleave=shape.onblur=()=>{tip.hidden=true};for(const x of extra){x.onpointerenter=x.onpointermove=show;x.onpointerleave=()=>{tip.hidden=true};if(available)x.classList.add('on')}
    if(available){shape.setAttribute('tabindex',nodes.length?'-1':'0');nodes.push(shape);const act=()=>{tip.hidden=true;selectMap(state,isNational?'':id)};
-    shape.onclick=act;shape.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();act()}else if(e.key==='Escape'){tip.hidden=true}else if(['ArrowRight','ArrowDown','ArrowLeft','ArrowUp'].includes(e.key)){e.preventDefault();const v=['ArrowLeft','ArrowUp'].includes(e.key)?-1:1,next=nodes[(nodes.indexOf(shape)+v+nodes.length)%nodes.length];shape.setAttribute('tabindex','-1');next.setAttribute('tabindex','0');next.focus()}}}
+    shape.onclick=act;for(const x of extra)x.onclick=act;shape.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();act()}else if(e.key==='Escape'){tip.hidden=true}else if(['ArrowRight','ArrowDown','ArrowLeft','ArrowUp'].includes(e.key)){e.preventDefault();const v=['ArrowLeft','ArrowUp'].includes(e.key)?-1:1,next=nodes[(nodes.indexOf(shape)+v+nodes.length)%nodes.length];shape.setAttribute('tabindex','-1');next.setAttribute('tabindex','0');next.focus()}}}
    m.append(shape)
  }
- for(const f of geo.shapes)bind(f.point?svg('circle',{cx:f.point[0],cy:f.point[1],r:.018*geo.span,class:'dot'}):svg('path',{d:f.d,'fill-rule':'evenodd',class:'region'}),f.state,f.id,f.name,!st,sn.has(f.state));
+ const codes=[];
+ for(const f of geo.shapes){const ins=f.inset,extra=[];if(ins?.frame){const [fx,fy,fw,fh]=ins.frame,r=svg('rect',{x:fx,y:fy,width:fw,height:fh,rx:.012*geo.span,class:'inset-frame'});m.append(r);extra.push(r)}
+  if(ins)codes.push([ins.code,ins.codeAt]);
+  bind(f.point?svg('circle',{cx:f.point[0],cy:f.point[1],r:.018*geo.span,class:'dot'}):svg('path',{d:f.d,'fill-rule':'evenodd',class:ins?'region isle':'region'}),f.state,f.id,f.name,!st,sn.has(f.state),extra,ins?.label)}
+ for(const [code,[x,y]] of codes){const t=svg('text',{x,y,'font-size':geo.span*.03,'text-anchor':'middle','dominant-baseline':'central',class:'mapcode','aria-hidden':'true'});t.textContent=code;m.append(t)}
  if(st){const ids=new Set(A.rules.filter(r=>r.state===st&&ok(r)).map(jkey));for(const name of Object.keys(H.areas[st]||{})){const g=matchPlace(st,name);if(g)ids.add(g[0])}
   for(const id of ids){const g=places.get(id);if(!g||!['place','cousubs','statistical place','territory subdivisions'].includes(g[2]))continue;const [cx,cy]=project([+g[5],+g[4]]);bind(svg('circle',{cx,cy,r:.012*geo.span,class:'dot'}),st,id,g[3],false,true)}}
  const used=[],fs=geo.span*.03;
- for(const [num,shape,g] of markers.sort((a,b)=>b[0]-a[0])){
+ for(const [num,shape,g,spot] of markers.sort((a,b)=>b[0]-a[0])){
     const bb=shape.getBBox();let x=bb.x+bb.width/2,y=bb.y+bb.height/2;
-    if(g&&Number.isFinite(+g[4])&&Number.isFinite(+g[5]))[x,y]=project([+g[5],+g[4]]);
+    if(spot)[x,y]=spot;else if(g&&Number.isFinite(+g[4])&&Number.isFinite(+g[5]))[x,y]=project([+g[5],+g[4]]);
     const w=fs*.66*(String(num).length+1);if(used.some(([xx,yy,ww])=>Math.abs(xx-x)<(w+ww)/2&&Math.abs(yy-y)<fs*1.3))continue;
     used.push([x,y,w]);const label=svg('text',{x,y,'font-size':fs,'text-anchor':'middle','dominant-baseline':'central',class:'mapnumber','aria-hidden':'true'});label.textContent=num;m.append(label)
  }

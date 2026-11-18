@@ -85,7 +85,9 @@ def main():
         copy={r['id']:r for r in csv.DictReader(f,delimiter='\t')}
     if set(copy)-ids:raise ValueError('Card refers to missing ordinance: '+str(set(copy)-ids))
     for r in out:
-        if r['id'] in copy:r['reader_title']=copy[r['id']]['title'];r['reader_brief']=copy[r['id']]['brief'] or ''
+        if r['id'] in copy:r['reader_brief']=copy[r['id']]['brief'] or ''
+    from pipeline.card_identity import apply_rules
+    apply_rules(out)  # title, issuer and role: data/card_identity_rules.tsv and data/fairfax_card_evidence.json
     out.sort(key=lambda r:(STATES.index(r['state']),r['jurisdiction']!='Loudoun County',r['jurisdiction'],r['topic'],r['id']))
     c.dump(c.OUT/'rules.json',out);table(c.OUT/'rules.csv',out)
     published=[r for r in out if r['check'] in ('snapshot_match','visual_source_check')]

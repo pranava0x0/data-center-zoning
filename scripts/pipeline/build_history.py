@@ -10,6 +10,7 @@ import lib.discovery as c
 import lib.geo_labels as geo_labels
 from pipeline.permit_status import permit_metrics
 from pipeline.compass_taxonomy import classify_history
+from pipeline.card_identity import history_identity, dataset_table, office_table, agency_table
 with (c.R/'data/history/series.csv').open() as f:
     SERIES_STATES={r['series']:r['state'] for r in csv.DictReader(f)}
 PARTS=list(SERIES_STATES)
@@ -67,11 +68,15 @@ def main():
             out=dict(r,details=detail,federal_issuer=issuer,category=classify_history(r['kind'],series=part,dataset=r['dataset'],program=detail.get('program','')),locality=loc,county=county,series=part,state=state,preview=preview);out['source_sha256']=r.get('source_sha256') or detail.get('source_sha256') or detail.get('sha256');full.append(out)
     annotated=permit_metrics(full,as_of=CUTOFF.isoformat())
     for row in full:row.update(annotated[row['id']])
+    table,offices,agencies=dataset_table(),office_table(),agency_table()
+    for row in full:
+        t,tb,iss,role,ib=history_identity(row,row['details'],table,{},offices,agencies)
+        row.update(title=t,title_basis=tb,issuer=iss,issuer_role=role,issuer_basis=ib)
     from pipeline.case_timelines import attach
     c.dump(c.OUT/'case_timelines.json',attach(full))
     full.sort(key=lambda r:((r['date'] or (r.get('month') or '')),r['id']),reverse=True)
     # GIS changes row identifiers; retain full source-specific provenance in source exports.
-    cols='id state series dataset category locality county jurisdiction record_no project kind status date date_role month url source_url source_sha256 locator federal_issuer permit_key permit_bucket permit_representative permit_reason case_group details'.split()
+    cols='id state series dataset category locality county jurisdiction record_no title title_basis issuer issuer_role issuer_basis project kind status date date_role month url source_url source_sha256 locator federal_issuer permit_key permit_bucket permit_representative permit_reason case_group details'.split()
     with (c.OUT/'permit_history.csv').open('w',newline='') as f:
         w=csv.DictWriter(f,cols,extrasaction='ignore');w.writeheader()
         for r in full:
@@ -84,7 +89,7 @@ def main():
         w=csv.DictWriter(f,cols,extrasaction='ignore');w.writeheader()
         for r in federal_rows:w.writerow({k:cell(r.get(k)) for k in cols})
     c.dump(c.OUT/'federal_summary.json',dict(events=len(federal_rows),states=Counter(r['state'] for r in federal_rows),agencies=Counter(r['federal_issuer'] for r in federal_rows),distinct_permits=Counter(r['permit_bucket'] for r in federal_rows if r['permit_representative']),cutoff=CUTOFF.isoformat()))
-    keys='id state category dataset locality county record_no project kind status date date_role url month locator preview permit_bucket permit_representative permit_reason federal_issuer case_group'.split()
+    keys='id state category dataset locality county record_no title title_basis issuer issuer_role issuer_basis project kind status date date_role url month locator preview permit_bucket permit_representative permit_reason federal_issuer case_group'.split()
     viewer=c.R/'viewer';index={};viewer_bytes=0
     detail_bytes=0;map_counts={};federal_counts={}
     for state in sorted({r['state'] for r in full}):

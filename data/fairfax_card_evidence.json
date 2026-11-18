@@ -1,13 +1,34 @@
 {
   "va-fx-commercial-gfa": {
-    "title": "Commercial districts: special exception above 40,000 sq ft",
-    "role": "Decides",
+    "title": "Special exception: data center building over 40,000 sq ft in C-3 or C-4",
+    "role": "decides",
     "office": "Fairfax County Board of Supervisors",
-    "description": "In C-3 or C-4, a data center building over 40,000 sq ft of gross floor area needs a special exception. The Planning Commission hears the request first and makes a recommendation. The Board decides at a second hearing. The county estimates about six months from acceptance.",
+    "process": "after a Planning Commission public hearing; the county estimates about six months from official acceptance",
+    "description": "The 40,000 sq ft limit applies to gross floor area per building.",
+    "checks": [
+      {
+        "claim": "C-3 and C-4 maximum building size is 40,000 sq ft of gross floor area; larger needs special exception",
+        "source": "Adopted text §4102.6.A(2)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "result": "confirmed; the fixture previously pointed to page 3, the clause is on PDF page 2"
+      },
+      {
+        "claim": "The Board of Supervisors approves or denies special exceptions after a Planning Commission hearing",
+        "source": "County special exception process",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/special-exception-process",
+        "result": "confirmed: Planning Commission hearing, then Board public hearing is the final decision"
+      },
+      {
+        "claim": "About six months from official acceptance",
+        "source": "County application acceptance page",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/application-acceptance",
+        "result": "confirmed: \"approximately 6 months from the official date of acceptance\"; this is an estimate, not a deadline"
+      }
+    ],
     "sources": [
       {
         "label": "Adopted size limit, §4102.6.A(2)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
       },
       {
         "label": "County special exception process",
@@ -17,17 +38,43 @@
         "label": "County timing estimate",
         "url": "https://www.fairfaxcounty.gov/planning-development/zoning/application-acceptance"
       }
-    ]
+    ],
+    "verified_on": "2026-11-16",
+    "adopted": "2024-09-10",
+    "effective": "2024-09-11",
+    "effective_basis": "County data centers page: adopted September 10, 2024; effective September 11, 2024.",
+    "applies_to": "Applications and plans filed after the effective date. The 2026 amendment (ZO 112.2-2026-22, adopted October 27, 2026; its text states no effective date) adds rezoning and special exception submission items for facilities of 100 MW or more; do not apply it to earlier approvals."
   },
   "va-fx-industrial-gfa": {
-    "title": "Industrial districts: special exception above 80,000 sq ft",
-    "role": "Decides",
+    "title": "Special exception: data center building over 80,000 sq ft in I-2, I-3 or I-4",
+    "role": "decides",
     "office": "Fairfax County Board of Supervisors",
-    "description": "In I-2, I-3 or I-4, a data center building over 80,000 sq ft of gross floor area needs a special exception. The Planning Commission hears the request first and makes a recommendation. The Board decides at a second hearing. The county estimates about six months from acceptance.",
+    "process": "after a Planning Commission public hearing; the county estimates about six months from official acceptance",
+    "description": "The 80,000 sq ft limit applies to gross floor area per building.",
+    "checks": [
+      {
+        "claim": "I-2, I-3 and I-4 maximum building size is 80,000 sq ft of gross floor area; larger needs special exception",
+        "source": "Adopted text §4102.6.A(3)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "result": "confirmed (the PDF OCR reads \"1-2,1-3, and 1-4\"); on PDF page 2, not 3"
+      },
+      {
+        "claim": "Decision body and hearing sequence",
+        "source": "County special exception process",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/special-exception-process",
+        "result": "confirmed"
+      },
+      {
+        "claim": "About six months from acceptance",
+        "source": "County application acceptance page",
+        "url": "https://www.fairfaxcounty.gov/planning-development/zoning/application-acceptance",
+        "result": "confirmed; estimate only"
+      }
+    ],
     "sources": [
       {
         "label": "Adopted size limit, §4102.6.A(3)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
       },
       {
         "label": "County special exception process",
@@ -37,33 +84,79 @@
         "label": "County timing estimate",
         "url": "https://www.fairfaxcounty.gov/planning-development/zoning/application-acceptance"
       }
-    ]
+    ],
+    "verified_on": "2026-11-16",
+    "adopted": "2024-09-10",
+    "effective": "2024-09-11",
+    "effective_basis": "County data centers page: adopted September 10, 2024; effective September 11, 2024.",
+    "applies_to": "Applications and plans filed after the effective date. The 2026 amendment (ZO 112.2-2026-22, adopted October 27, 2026; its text states no effective date) adds rezoning and special exception submission items for facilities of 100 MW or more; do not apply it to earlier approvals."
   },
   "va-fx-setback": {
-    "title": "Residential setbacks for buildings and equipment",
-    "role": "Sets the standard",
+    "title": "Residential setbacks: data center building 200 ft, ground equipment 300 ft",
+    "role": "sets_standard",
     "office": "Fairfax County Board of Supervisors",
-    "description": "Keep the building at least 200 ft from an R-district lot line or a lot in residential use. Ground-mounted equipment needs 300 ft or the principal building between it and that line. Public street rights-of-way do not count as R districts. The Board may approve shorter distances by special exception.",
+    "process": "",
+    "description": "Buildings must sit 200 ft from residential lot lines, and ground equipment 300 ft or behind the building.",
+    "checks": [
+      {
+        "claim": "200 ft building, 300 ft ground equipment or separated by the principal building, lesser by special exception, street rights-of-way excluded",
+        "source": "Adopted text §4102.6.A(4)(a)-(d)",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "result": "confirmed on PDF page 2"
+      },
+      {
+        "claim": "The standard is not itself a permit",
+        "source": "Adopted text",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "result": "confirmed; only the reduction is a special exception"
+      }
+    ],
     "sources": [
       {
         "label": "Adopted setback and exceptions, §4102.6.A(4)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
       },
       {
         "label": "County special exception process",
         "url": "https://www.fairfaxcounty.gov/planning-development/zoning/special-exception-process"
       }
-    ]
+    ],
+    "verified_on": "2026-11-16",
+    "adopted": "2024-09-10",
+    "effective": "2024-09-11",
+    "effective_basis": "County data centers page: adopted September 10, 2024; effective September 11, 2024.",
+    "applies_to": "Applications and plans filed after the effective date. The 2026 amendment (ZO 112.2-2026-22, adopted October 27, 2026; its text states no effective date) adds rezoning and special exception submission items for facilities of 100 MW or more; do not apply it to earlier approvals."
   },
   "va-fx-noise": {
-    "title": "Noise studies before site approval and occupancy",
-    "role": "Reviews",
+    "title": "Noise studies: before site plan approval and before the Nonresidential Use Permit",
+    "role": "reviews",
     "office": "Fairfax County Zoning Administrator or designee",
-    "description": "Submit a noise study before site plan approval. After construction, measure installed equipment at full load before the Nonresidential Use Permit is issued. Rezoning and special exception applications also need a study; qualifying projects at 100 MW or more must assess noise at homes and schools within 500 ft of the property boundary.",
+    "process": "",
+    "description": "A study is due before site plan approval and another before the Nonresidential Use Permit.",
+    "checks": [
+      {
+        "claim": "Study to the Zoning Administrator's satisfaction before site plan approval and again before the Nonresidential Use Permit",
+        "source": "Adopted text §4102.6.A(6), PDF pages 2-3",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "result": "confirmed; clause continues on page 3"
+      },
+      {
+        "claim": "Post-construction study includes field measurements at full operational load; site plan study is routed in PLUS to the Zoning Administrator or designee",
+        "source": "County noise study instructions",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning/data-centers/Noise-Study-Requirements.pdf",
+        "result": "confirmed (instructions cite the clause as 4102.7.A(6), the later codified number)"
+      },
+      {
+        "claim": "Facilities of 100 MW or more must include noise at homes and schools within 500 ft in rezoning and special exception studies",
+        "source": "2026 amendment ZO 112.2-2026-22, PDF pages 11-12",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO-112_2-2026-22.pdf#page=11",
+        "result": "confirmed in the text; adopted October 27, 2026, effective date not stated, so it is shown as separate detail and not applied to earlier approvals"
+      }
+    ],
     "sources": [
       {
         "label": "Adopted study requirements, §4102.6.A(6)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
       },
       {
         "label": "County noise study instructions",
@@ -73,6 +166,11 @@
         "label": "2026 amendment: rezoning and special exception studies, pp. 11–12",
         "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO-112_2-2026-22.pdf#page=11"
       }
-    ]
+    ],
+    "verified_on": "2026-11-16",
+    "adopted": "2024-09-10",
+    "effective": "2024-09-11",
+    "effective_basis": "County data centers page: adopted September 10, 2024; effective September 11, 2024.",
+    "applies_to": "Applications and plans filed after the effective date. The 2026 amendment (ZO 112.2-2026-22, adopted October 27, 2026; its text states no effective date) adds rezoning and special exception submission items for facilities of 100 MW or more; do not apply it to earlier approvals."
   }
 }

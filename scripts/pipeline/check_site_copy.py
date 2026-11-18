@@ -12,13 +12,13 @@ def main():
     htmlfile=c.R/'templates/atlas.html';doc=Reader();doc.feed(htmlfile.read_text())
     texts=list(doc.lines)
     for r in c.read(c.OUT/'rules.json',[]):
-        texts.extend([r.get('reader_title',''),r.get('reader_brief') or r['summary']])
+        texts.extend([r.get('reader_title',''),(r.get('card_issuer','')+(', '+r['card_process'] if r.get('card_process') else '')),r.get('reader_brief') or r['summary']])
     contents='\n\n'.join(s for s in texts if s)
     artifact=c.OUT/'site-copy.md';artifact.write_text(contents+'\n')
     # Literal regression checks for text the owner found confusing. Search UI source too:
     # official extracts, portal status values, audit docs and pinned source files stay verbatim.
     public=contents+'\n'+'\n'.join((c.R/'viewer'/f).read_text() for f in ['app.js','rule-card.js','map.js'])
-    for phrase in ['source checked','backed by a reviewed source','permitted in the ram district','screened only','field edition']:
+    for phrase in ['source checked','backed by a reviewed source','permitted in the ram district','screened only','field edition','reviewed against the cited','deciding office not reported','issuing office not reported','evidence & conditions','issued by:','standard set by','acting body','adopted by:','decision:']:
         if phrase in public.lower():raise ValueError('Unclear site copy: '+phrase)
     base=c.R/'scripts/pipeline/copy_checks'
     for name,args in [('writing',['--profile','public-copy',str(artifact)]),('design',[str(htmlfile),str(c.R/'viewer/style.css')])]:

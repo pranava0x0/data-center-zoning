@@ -58,6 +58,8 @@ Active permits
 
 Historical permits
 
+Alaska, Hawaii and the territories are insets, drawn at their own scale. Select one like any state.
+
 What’s counted?
 
 Each ordinance count is a rule, not a whole law. A permit number counts once. Applications, votes and enforcement notices stay in Permit history; they are not permits. Active means the issuing agency reports it is in effect; historical means its record shows it ended. An issue date alone does not tell us whether a permit is still active.
@@ -94,1092 +96,1982 @@ Permit sources
 
 November 15, 2026
 
-What permits does a new building need?
+Building permit and occupancy permit: new commercial construction
+
+Loudoun County Department of Building and Development
 
 A developer needs building and zoning permits for construction, then an occupancy permit before the building can be used.
 
-Operating data centers need fire inspections
+Fire prevention permit: operating data center
+
+Loudoun County Fire and Rescue
 
 The county requires fire prevention permits and an annual inspection by the fire marshal.
 
-When does grading need a permit?
+Grading permit: land disturbance of 5,000 sq ft or more
 
-A permit is required if work disturbs 5,000 square feet or more. Smaller projects in sensitive areas may also need one.
+Loudoun County Department of Building and Development
 
-Which zoning rules apply to this property?
+A permit is required if work disturbs 5,000 square feet or more.
 
-Check the parcel map and its approval history. Properties along Route 28 can be subject to different versions of the county ordinance.
+Route 28 tax district and optional overlay layers: county parcel map
 
-Some Route 28 properties still follow the 1972 rules
+Loudoun County Mapping and GIS
+
+Check the parcel map and its approval history.
+
+1972 ordinance continued in the Route 28 Tax District
+
+Loudoun County
 
 Check whether the owner gave up those protections through rezoning or conversion.
 
-Towns set their own zoning rules
+Exclusion of incorporated towns from the county zoning ordinance
 
-The county ordinance does not apply inside Loudoun’s seven incorporated towns. Check the town boundary, not just the mailing address.
+Loudoun County
 
-When does an earlier zoning approval cover a data center?
+The county ordinance does not apply inside Loudoun’s seven incorporated towns.
 
-A qualifying ZMAP, ZCPA or ZRTD approved by March 18, 2025 inclusive counts as including SPEX approval if its proffers or concept plan detail a specific data center and the approval is limited to that use. Review the approved instrument.
+Prior-approval
 
-Some site plans filed by February 12, 2025 can use earlier rules
+Loudoun County
 
-A qualifying site plan or amendment officially accepted by February 12, 2025 inclusive can proceed under the old table if the use was then by right and its structures and exterior mechanical equipment clear the residential-distance test. A compliant revision can cure distance. Substantial changes or failure to diligently pursue approval may end protection.
+A qualifying ZMAP, ZCPA or ZRTD approved by March 18, 2025 inclusive counts as including SPEX approval if its proffers or concept plan detail a specific data center and the approval is limited to that use.
 
-Some earlier applications can use the old zoning rules
+Grandfathering: site plans accepted by February 12, 2025, administrative pathway
 
-Eligible zoning map/concept plan amendments and Route 28 zoning conversions officially accepted by February 12, 2025 inclusive can continue without a separate data-center SPEX under the resolution. Substantial modifications or failure to diligently pursue approval can terminate protection. This grandfathering concerns the use table only.
+Loudoun County
 
-Some Route 28 owners chose different zoning rules
+Covers site plans accepted by February 12, 2025 with structures over 500 feet from homes.
 
-Use the optional Route 28 corridor overlay only where the property elected into it before December 13, 2023. An address in the corridor is insufficient.
+Grandfathering: legislative applications accepted by February 12, 2025
 
-Minor changes to an approved site plan may qualify
+Loudoun County
+
+Covers zoning map and concept plan amendments accepted by February 12, 2025, so no new special exception is needed.
+
+Prior-approval
+
+Loudoun County
+
+Use the optional Route 28 corridor overlay only where the property elected into it before December 13, 2023.
+
+Prior-approval
+
+Loudoun County
 
 A minor change to an already approved data-center site plan may proceed without another SPEX if it satisfies the referenced modification rules; the exception is not permission for a new project.
 
-Which noise and resource studies must a developer submit?
+Sound profile and resource assessment: high energy use facility of 100 MW or more
 
-For covered legislative applications the county requires a sound profile and the resource assessment Virginia makes optional: water, agriculture, parks, registered historic sites and forestland on or immediately adjacent to the site. The notice also calls for utility correspondence and an affidavit.
+Loudoun County
 
-Site plans must show how the buildings meet design standards
+Applicants expecting 100 MW or more of utility power must submit a sound profile and resource assessment.
+
+Site-plan
+
+Loudoun County
 
 The site plan must document compliance with the data-center standards, including applicable façade and general site design standards; compliance is a condition of site plan approval.
 
-Older Route 28 zoning can change which approval is needed
+Use-permission
 
-For eligible legacy Route 28 corridor overlay properties, the table permits a data center in CB and CI subject to district standards, and requires a special exception in CO. Confirm the prior overlay election and parcel record.
+Loudoun County
 
-Three industrial districts require a special zoning approval
+For eligible legacy Route 28 corridor overlay properties, the table permits a data center in CB and CI subject to district standards, and requires a special exception in CO.
 
-A developer generally needs a special exception for a data center in the three districts listed below. Earlier approvals may still apply.
+Special exception: data center in IP, GI and MR-HI districts
 
-Some office and industrial sites need special zoning approval
+Loudoun County Board of Supervisors, after Planning Commission recommendation
 
-Under the county's current office/industrial principal-use table, data centers are a special-exception use in all four listed districts. Previously approved plans, vested rights and the table footnotes require separate review.
+A developer generally needs a special exception for a data center in the three districts listed below.
 
-Data centers are allowed at Greenfield business park
+Use-permission
 
-Greenfield is the only area Botetourt County has zoned for data centers. Developers still need separate permits to grade land and build. Troutville sets its own zoning rules.
+Loudoun County
 
-A data center needs conditional approval in the B-1 district
+Under the county's current office/industrial principal-use table, data centers are a special-exception use in all four listed districts.
 
-The Board reports that it approved the B-1 amendment changing data centers from by right to conditional use. This was case 26-037; the November notice on definitions and energy facilities concerns a different case. The recap does not enumerate the recommended conditions or give a separate effective date.
+Permitted use: data center in Research and Advanced Manufacturing (RAM) district
 
-The zoning route depends on whether the site is in the commerce park
+Botetourt County Board of Supervisors
 
-Outside the Coastal Virginia Commerce Park exception, the city's August 2026 change restricts data centers to a conditional use in M-1 and M-2. The city describes by-right development within the park; public service connections are still required. Track the separate hearing pause as a procedural issue.
+Greenfield is the only area Botetourt County has zoned for data centers.
 
-Data centers must connect to public water and sewer
+Use-permission
 
-Data centers must use public water and an approved public wastewater system; private groundwater systems are prohibited. The city also identifies utility connections as a requirement for by-right CoVAC development.
+Brunswick County Board of Supervisors
 
-New data centers need a conditional-use permit
+The Board reports that it approved the B-1 amendment changing data centers from by right to conditional use.
 
-The county reports its updated zoning ordinance ended by-right development of new data center projects and requires a conditional-use permit. The same page describes setbacks and noise limits negotiated on named rezonings; those conditions are not encoded as countywide requirements.
+Conditional use permit: data center in M-1 and M-2 districts
 
-Clarksville allows data centers in two districts
+Chesapeake City Council, after Planning Commission review
 
-The town lists data centers as a permitted use in Business Corridor (B-3) and Tech & Industry (TID). County zoning outside town limits is separate.
+Outside the Coastal Virginia Commerce Park, a data center in M-1 or M-2 needs a conditional use permit.
 
-Developers must measure noise before and after construction
+Public water and sewer requirement: data centers
 
-Demonstrate noise ordinance compliance in a study before site plan approval; another study is due before the nonresidential use permit after construction. Rezonings and special-exception submissions have their own study requirements.
+City of Chesapeake
 
-How far must buildings and equipment be from homes?
+Data center developers must use public water and an approved public wastewater system, and private groundwater systems are prohibited.
 
-Standard distance from a residential-district or residential-use lot line is 200 feet for the building. Ground equipment needs 300 feet or separation by the principal building. Shorter distances are possible by special exception; public street rights-of-way are excluded from the R-district test.
+Conditional use permit: new data center projects
 
-Larger facilities in two commercial districts need special approval
+Chesterfield County Board of Supervisors, after Planning Commission recommendation
 
-In C-3/C-4, a data-center building may exceed 40,000 ft² of gross floor area only with a special exception. Check the use table and all other standards even below the limit.
+New data center projects need a conditional-use permit under the updated zoning ordinance effective January 1, 2026.
 
-Larger facilities in three industrial districts need special approval
+Permitted use: data center in B-3 and TID districts
 
-In I-2/I-3/I-4, a data-center building may exceed 80,000 ft² of gross floor area only with a special exception. Other siting and approval requirements still apply.
+Town of Clarksville
 
-Data centers are allowed in the Regional Enterprise Park district
+A data center is allowed as of right in the B-3 and TID districts inside town limits.
 
-Franklin County lists data centers alongside call centers and offices in its Regional Enterprise Park district. This answers the land-use question for that district; it does not issue a permit for an individual building.
+Noise studies: before site plan approval and before the Nonresidential Use Permit
 
-The mapped technology district allows data center campuses
+Fairfax County Zoning Administrator or designee
 
-A data center is a by-right campus use in the mapped Technology Overlay District, subject to its conditions. Campuses require at least 150 contiguous acres; TOD designation follows a zoning map amendment. This permission is not citywide.
+A study is due before site plan approval and another before the Nonresidential Use Permit.
 
-The technology district restricts drinking water for cooling
+Residential setbacks: data center building 200 ft, ground equipment 300 ft
 
-TOD uses not otherwise by right under base zoning cannot permanently use potable water for industrial cooling. A Council-approved water services agreement can allow a temporary supply during reuse-system construction. In the TOD, groundwater, quarry withdrawals and direct raw river water are barred for data-center cooling.
+Fairfax County Board of Supervisors
 
-What Greene County calls a data center
+Buildings must sit 200 ft from residential lot lines, and ground equipment 300 ft or behind the building.
 
-The county definition covers large computer systems that store and process data for off-site users. It lists generators, batteries, cooling and fire suppression as typical support equipment. The definition alone does not establish allowed locations.
+Special exception: data center building over 40,000 sq ft in C-3 or C-4
 
-When can a data center run generators?
+Fairfax County Board of Supervisors, after a Planning Commission public hearing; the county estimates about six months from official acceptance
 
-Under this local land-use standard, generators may run for emergency power outages or for testing and maintenance. The latter activities are limited to Monday through Friday, 10 a.m. to 4 p.m.; this rule does not supply a state air permit.
+The 40,000 sq ft limit applies to gross floor area per building.
 
-When is a server facility part of another business?
+Special exception: data center building over 80,000 sq ft in I-2, I-3 or I-4
 
-An accessory data center must serve an office or industrial use on the same or adjacent premises and meet the operating and enclosure/screening standards. A principal data center does not qualify merely by being next to an office.
+Fairfax County Board of Supervisors, after a Planning Commission public hearing; the county estimates about six months from official acceptance
 
-Standalone data centers need approval in industrial districts
+The 80,000 sq ft limit applies to gross floor area per building.
 
-Henrico reclassified principal data centers as industrial services. In its industrial M districts, table symbol P denotes a provisional use permit, not by-right permission. Read this edition’s table legend and the parcel’s zoning and prior approvals.
+Permitted use: data center in Regional Enterprise Park district
 
-Water cooling generally requires a closed loop or recycled water
+Franklin County
 
-A data center needs public water and sewer. If it uses water cooling, it must use a closed-loop or recycled water system unless the provisional use permit authorizes another system.
+A data center is a permitted use in the Regional Enterprise Park district; buildings still need their own permits.
 
-Which facilities count as data centers?
+Use-permission
 
-The zoning definition covers facilities for digital data operations but excludes accessory IT/server rooms and cryptocurrency mining. Those exclusions mean this data-center rule does not establish the permission route for those other uses.
+City of Fredericksburg
 
-The county recommends distances from homes and sensitive areas
+A data center is a by-right campus use in the mapped Technology Overlay District, subject to its conditions.
 
-Board policy recommends separation from occupied dwellings (1,000 ft) and historic, cultural, recreational, special flood hazard and environmentally sensitive areas/resources (250 ft), measured from the fenced area. These guide SUP review; an individual permit may impose conditions. They are not unconditional statutory setbacks.
+Water-supply
 
-Data centers need a special use permit in the M-2 district
+City of Fredericksburg
 
-The 2025 amendment removed former commercial data-processing entries and provided an industrial data-center use in M-2 subject to a special use permit. Read the enacted markup and the use table together.
+TOD uses not otherwise by right under base zoning cannot permanently use potable water for industrial cooling.
 
-The town council must approve data centers in the employment district
+Definition of data center
 
-In Leesburg's Planned Employment Center district, a data center and a data-center electrical utility substation are separately listed special-exception uses requiring Town Council approval. Check the town's district map and governing development approvals.
+Greene County
 
-Can a project connect to a recycled-water line?
+Defines which facilities count as data centers in Greene County; it does not set where they may go.
 
-A customer seeking a reclaimed-water connection needs a capacity allocation and construction permit from Loudoun Water. The utility may limit connections based on supply and hydraulics; proximity to a pipeline alone does not guarantee service.
+Generator operating hours: data center testing and maintenance
 
-Some industrial sewer users need a wastewater permit
+Henrico County Board of Supervisors
 
-In the utility's sewer service area, a significant industrial user needs its industrial wastewater discharge permit. The process-water volume screen excludes sanitary, noncontact cooling and boiler blowdown wastewater. Federal categorical status, treatment-plant capacity share or potential adverse effects can independently qualify a user.
+Generators may run in emergency outages; testing is limited to weekdays, 10 a.m. to 4 p.m.
 
-Generators need noise controls
+Accessory data center standards: same or adjacent premises
 
-Use sound-reducing enclosures unless Mecklenburg County’s zoning administrator approves another way to reduce generator noise.
+Henrico County Board of Supervisors
 
-Screen the site from roads and forestland
+A data center is accessory only if it serves an office or industrial use on the same or adjacent premises.
 
-Mecklenburg requires at least its Type C planted buffer along public roads and specified resource lands, including public parks and commercial timberland. A fence or berm can supplement the planting; changes require zoning approval.
+Provisional use permit: data center in M-1, M-2 and M-3 districts
 
-70 dBA limit at a neighboring property line
+Henrico County Board of Supervisors, after Planning Commission recommendation
 
-Mecklenburg County applies this limit where the neighboring use is not a data center. Exceptions include construction, demolition, emergencies, commissioning, alarms and generator testing during specified hours.
+A standalone data center in an industrial M district needs a provisional use permit.
 
-New data centers outside the designated area need special approval
+Water requirements: data center public water and closed-loop cooling
+
+Henrico County Board of Supervisors
+
+Data centers must use public water and sewer, and cool with closed-loop or recycled water.
+
+Definition of data center
+
+James City County Board of Supervisors
+
+Defines a data center for county zoning; accessory server rooms and cryptocurrency mining are excluded.
+
+Recommended separation: data center 1,000 ft from dwellings, 250 ft from sensitive areas
+
+James City County Board of Supervisors
+
+The Board recommends these distances, measured from the fenced area, but they are not fixed setbacks.
+
+Special use permit: data center in M-2 district
+
+James City County Board of Supervisors
+
+A data center in the General Industrial M-2 district needs a special use permit under the 2025 amendment.
+
+Use-permission
+
+Town of Leesburg
+
+In Leesburg's Planned Employment Center district, a data center and a data-center electrical utility substation are separately listed special-exception uses requiring Town Council approval.
+
+Reclaimed water capacity allocation and construction permit
+
+Loudoun Water
+
+Connecting to reclaimed water needs a capacity allocation and construction permit; service near a pipeline is not guaranteed.
+
+Industrial wastewater discharge permit: significant industrial user
+
+Loudoun Water
+
+A significant industrial user, for example one sending 25,000 gallons a day or more, needs this permit.
+
+Generator sound-attenuating enclosure requirement: data center
+
+Mecklenburg County
+
+Data center generators must sit in sound-reducing enclosures unless the zoning administrator approves another noise reduction method.
+
+Type C planted buffer: data center along public roads and resource lands
+
+Mecklenburg County
+
+Data centers must plant at least a Type C buffer along public roads, parks and commercial timberland.
+
+Noise limit: 70 dBA at neighboring property line
+
+Mecklenburg County
+
+Noise at a neighboring property line may not exceed 70 dBA, with listed exceptions.
+
+Use-permission
+
+Prince William County Planning Office
 
 Outside the overlay, a new data center in the enumerated business, office or industrial districts, or in designated office/industrial land bays of PBD or PMD, requires a special use permit.
 
-Some sites can keep their existing zoning permission
+Use-permission
 
-Properties already within the overlay that qualify under one of the five retention paths can keep existing by-right permissions. No expansion of the overlay; for certain pending applications the final quality-control acceptance window closes December 21, 2026. Do not qualify a parcel from the old map alone.
+Prince William County Planning Office
 
-Industrial districts allow data centers by right
+Properties already within the overlay that qualify under one of the five retention paths can keep existing by-right permissions.
 
-A data center is a permitted use in the Light Industrial, Industrial and Planned Industrial districts. The table also marks the Airport Overlay; check the underlying zone and airport standards. Other permits can still be required.
+Permitted use: data center in Light Industrial, Industrial and PID districts
 
-Data centers need a permit to discharge into the sewer
+Pulaski County
 
-County Utilities requires an industrial pretreatment permit before a data center discharges to the sanitary sewer. The permit includes monitoring and reporting. This concerns sewer discharge, not water withdrawal.
+A data center is permitted in the LI, I and PID districts; airport overlay and other permits still apply.
 
-Troutville prohibits dedicated data centers
+Industrial pretreatment permit: data center sewer discharge
 
-Town zoning prohibits these facilities in every district. The rule applies inside Troutville, not elsewhere in Botetourt County.
+Spotsylvania County Utilities
 
-Additions must meet accessibility requirements
+A data center needs this permit before discharging cooling water to the county sanitary sewer, and it includes monitoring and reporting.
 
-Under Virginia’s existing-building code, additions must meet the accessibility provisions for new construction. A change of occupancy alone does not require additional accessibility features; associated alterations are reviewed separately. This is a building-code requirement, not a separate registration.
+Prohibition of data centers in all town zoning districts
 
-Virginia limits generator emissions in covered air permits
+Town of Troutville
 
-For covered data-center air permit applications on or after July 1, 2026, including general permit coverage, DEQ cannot issue the permit with a gen-set emission limit higher than Tier 4 equivalent. DEQ can impose more stringent limits. This is a performance limit, not a universal equipment purchase rule.
+Town zoning prohibits these facilities in every district.
 
-Check air permitting before installing generators
+Accessibility requirement: additions under the Virginia existing-building code
 
-Where generator equipment requires an air permit, DEQ distinguishes a separate server building from generator construction: the server building can begin under the memo's conditions; generator pads, installation and connection cannot precede the permit. Other approvals still apply.
+Virginia Department of Housing and Community Development
 
-When does construction runoff need a permit?
+Additions must meet new-construction accessibility rules; a change of occupancy alone adds none.
 
-Obtain construction stormwater general permit coverage if the site disturbs an acre or more, or belongs to a common plan of development or sale that cumulatively disturbs at least an acre. Track the entire plan and the applicable local erosion controls.
+Tier 4 generator emission limit: data center air permits
 
-Demolishing a building generally requires a permit
+Virginia General Assembly
 
-The statewide code generally requires a building permit before demolition. The section allows emergency filings, building-official authorization and listed exemptions. A demolition permit does not authorize a replacement data center.
+DEQ cannot issue a data center air permit applied for on or after July 1, 2026 with generator limits above Tier 4.
 
-The electric utility must describe how it plans to serve the site
+Air-permitting
 
-Before a covered approval for a new high-energy facility, the serving retail utility must provide the locality with known and practicable information about serving substations and expected transmission voltage. This does not transfer the State Corporation Commission's authority.
+Virginia Department of Environmental Quality
 
-Certain projects need a noise study before local approval
+Where generator equipment requires an air permit, DEQ distinguishes a separate server building from generator construction: the server building can begin under the memo's conditions; generator pads, installation and connection cannot precede the permit.
 
-Before approval of a rezoning, special exception or special-use permit for a new high-energy facility, the locality must obtain the applicant's practicable sound assessment for nearby homes and schools. The statute permits additional resource review. Check the existing-approval expansion exception in subsection F.
+Construction stormwater general permit
 
-Discharging wastewater to surface water can require a permit
+Virginia State Water Control Board
 
-A specific Virginia general permit covers eligible direct surface-water discharges of noncontact cooling water up to 50,000 gal/day. It excludes designated trout waters and other prohibited receiving waters. Check registration, acceptance and permit conditions; a discharge to a sanitary sewer follows a different path.
+Sites disturbing one acre or more, or part of a larger plan that does, need this stormwater permit.
 
-When does a groundwater withdrawal need state approval?
+Building permit: demolition of a building or structure
 
-Direct groundwater withdrawals in a declared groundwater management area generally require a withdrawal permit at the monthly threshold. Apply the statutory and regulatory exclusions, and check the actual management-area boundary. A customer buying municipal water is not thereby the direct well operator.
+Local building official
 
-When does a surface-water withdrawal need state approval?
+Anyone demolishing a building or structure generally needs a building permit first, with emergency filings and listed exemptions allowed.
 
-For direct withdrawals not otherwise excluded, the regulation excludes volumes below 10,000 gal/day nontidal or below 2 million gal/day tidal. At equality the small-volume exclusion no longer applies. DEQ may call in otherwise excluded withdrawals under subsection B; other exclusions must also be assessed.
+Utility service information requirement: new high-energy facility of 100 MW or more
 
-How does the city classify data centers?
+Virginia General Assembly
 
-City staff’s account of adopted UDO 2026-4719 identifies a data center use and a 5,000-square-foot size criterion in its definition. Council may condition a conditional use permit for compatibility, including noise, lighting and buffering. Check the district table for a parcel.
+Before a covered approval, the utility must tell the locality the serving substations and expected transmission voltage.
 
-Edgewood adds data centers to the I (Industrial) district with a special use permit required.
+Sound assessment requirement: new high-energy facility of 100 MW or more
 
-Data centers proposing energy storage must demonstrate compliance with NFPA 855 or similar standards and include fire suppression specifically designed for battery storage.
+Virginia General Assembly
 
-The applicant must submit a pre-construction sound study with the special-use or special-exception application and conduct a second study before occupancy. Both cover exterior sound sources, require an INCE board-certified engineer, and are subject to city review.
+Before a rezoning or special permit, the locality must obtain the applicant's sound assessment for nearby homes and schools.
 
-Before completion or occupancy approval, the applicant must document utility capacity, infrastructure sizing and cooling adequacy with the service provider, and submit written verification of a third-party final electrical inspection.
+VPDES general permit for noncontact cooling water: 9VAC25-196
 
-Data centers need special approval in the listed industrial districts
+Virginia State Water Control Board
 
-The nonresidential use table requires a special use permit in Light Industrial, Warehouse and Heavy Industrial districts for a data center listed as an accessory or warehouse/storage use. The city confirms residential districts prohibit it.
+A site discharging up to 50,000 gallons a day of noncontact cooling water to surface water can use this permit.
 
-McAllen requires conditional use approval in I-2
+Groundwater withdrawal permit: declared groundwater management area
 
-The city lists data centers as a conditional use in its I-2 industrial district. No other district is marked for data centers in this table.
+Virginia Department of Environmental Quality
 
-One parking space per 1,000 square feet
+Withdrawing 300,000 gallons or more a month in a declared management area generally needs a permit.
 
-McAllen sets the parking minimum in the same table that lists its data center zoning requirements.
+Surface water withdrawal permit: 9VAC25-210 exclusion thresholds
 
-Where can the council approve a data center?
+Virginia State Water Control Board
 
-A new data center larger than 10,000 square feet may be approved by council special use permit in C-2, I-1 or I-2. The general category does not include C-1.
+Withdrawals of 10,000 gallons a day or more from nontidal waters, or 2 million from tidal waters, are not small.
 
-Smaller facilities follow a separate approval route
+Definition of data center: College Station UDO
 
-At 10,000 square feet or less, a new data center may be approved by council special use permit in C-1, C-2, I-1 or I-2. Inclusion in an industrial district is not by-right approval.
+City of College Station
 
-City zoning prohibits new data centers
+The code defines a data center at 5,000 square feet; a conditional use permit may add compatibility conditions.
 
-The adopted June amendment prohibits data centers in all city zoning districts. Check separately for an existing approval or vested project; this city-district finding is not a rule for all unincorporated land in the ETJ.
+Special use permit: data center in Industrial district
 
-The city requires a conditional-use permit
+City of Edgewood City Council
 
-Within Talty zoning jurisdiction, the city added data centers to its use chart as permissible by conditional use permit. The published caption does not identify the eligible district(s); do not infer that every district is eligible.
+A data center in the Industrial district needs a special use permit.
 
-The amount of land disturbed determines the runoff permit
+Battery storage fire safety: data center energy storage under NFPA 855
 
-Under TXR150000, land disturbance determines the construction stormwater track when runoff reaches or is adjacent to state surface water. The common plan counts; small sites are 1 to less than 5 acres; large sites are 5 acres or more.
+City of Edgewood
 
-Texas reported a pause on certain data center permits
+Energy storage must meet NFPA 855 or similar and include fire suppression designed for batteries.
 
-In its October 19, 2026 response TCEQ reported pausing permit issuance for construction or development of infrastructure directly supporting data centers, screening pending applications and some claimed authorizations. This is an agency action reported on that date; confirm present implementation with TCEQ. It does not establish a local zoning ban.
+Sound study requirement: data center before construction and before occupancy
 
-Industrial zoning requires a public zoning review
+City of Edgewood
 
-In Greenfield Township, Fairfield County, the Board of Zoning Appeals decides whether a data center meets the Industrial district’s conditional-use requirements. The amendment took effect July 10, 2026. 
+The applicant submits a pre-construction sound study with the special-use or special-exception application and a second study before occupancy.
 
-Keep 1,000 feet from residential parcels
+Utility capacity and electrical inspection verification: data center
 
-Greenfield measures from a property line next to land zoned or used for homes at the time of application. The board can require more separation based on site conditions. Buildings, generators and parking cannot occupy the setback.
+City of Edgewood
 
-Connect to central water and sewer
+Before occupancy, applicants must document utility and cooling capacity and file a third-party electrical inspection.
 
-Greenfield Township requires both connections as conditions of the Industrial district’s data center permit.
+Special use permit: data center in Light Industrial, Warehouse and Heavy Industrial
 
-Township zoning comes first; the county issues the building permit
+Lewisville City Council, after Planning and Zoning Commission hearing
 
-For commercial or industrial construction in the township’s zoning jurisdiction, get the township zoning permit and then apply to Licking County. The county building permit must be in hand before construction begins.
+A data center in Light Industrial, Warehouse or Heavy Industrial needs a special use permit, adopted June 15, 2026.
 
-Get a township zoning permit before changing the use
+Conditional use: data center in I-2 district
 
-Within Jersey Township’s zoning jurisdiction, building, moving, expanding or structurally altering a building, or changing how land or a building is used, requires a permit from the township zoning inspector. The rule does not classify data centers as an allowed use.
+McAllen City Commission, after Planning and Zoning Commission hearing
 
-Lyons excludes data centers from every zoning district
+A data center in the I-2 industrial district is a conditional use, and no other district is marked for it.
 
-The village includes data centers in its advanced manufacturing category and bars that use in every district.
+Parking minimum: data center 1 space per 1,000 sq ft
 
-Heavy industrial zoning still requires a permit
+City of McAllen
 
-Metamora treats data centers as advanced manufacturing. The village allows applicants to seek a conditional use permit in the M-3 district, subject to the project standards.
+Data centers need at least one parking space per 1,000 square feet under the use table.
 
-Check the zoning approval for the individual site
+Special use permit: data center over 10,000 sq ft in C-2, I-1 or I-2
 
-Two base districts list data centers, but a site’s own zoning can exclude them. The city says rezonings approved since April 2025 have excluded data centers as the main use.
+North Richland Hills City Council
 
-Runoff permits depend on how much land a project disturbs
+A new data center over 10,000 square feet in C-2, I-1 or I-2 needs a council-approved special use permit.
 
-For qualifying construction stormwater discharges entering state surface waters or a connected storm drain, Ohio EPA permits cover disturbance of at least one acre, including smaller sites in a common plan ultimately meeting the threshold. Individual or watershed-specific requirements can apply.
+Special use permit: data center up to 10,000 sq ft in C-1, C-2, I-1 or I-2
 
-Large increases in water consumption can require a state permit
+North Richland Hills City Council
 
-With the exceptions in divisions (D) and (E), new or increased consumptive use of state waters above an average of two million gallons/day in any 30-day period requires a Division of Water Resources permit. Gross withdrawal and purchased utility water are not interchangeable with this trigger.
+A new data center of 10,000 square feet or less in C-1, C-2, I-1 or I-2 needs a council-approved special use permit.
 
-Township zoning stops at the city boundary
+Prohibition of data centers in all city zoning districts
 
-Ohio law lets townships zone unincorporated land. For a parcel annexed into a city, check the city’s zoning instead. A township name on a map does not settle who issues the permit.
+City of San Marcos
 
-Ohio Township paused new data centers for 12 months
+Data centers are barred in every city zoning district under the June 2026 amendment, but not in the extraterritorial area.
 
-Trustees report adopting a 12-month data center zoning moratorium on July 13, 2026. This is township zoning in Clermont County, not a statewide measure.
+Conditional use permit: data center
 
-Orange Township permits data centers in Flex Employment
+City of Talty Board of Alderpersons (City Council), after Planning and Zoning Commission recommendation
 
-The Delaware County township marks the FE (Flex Employment) district as permitted in its use table. Other entries on the same row are blank.
+A data center needs a conditional use permit; the published caption does not say which districts qualify.
 
-Louisiana differentiates small construction (one to under five acres) from large construction (five or more acres). A notice of intent is required for the large category, including phases of a common plan whose cumulative disturbance reaches five acres.
+Construction stormwater general permit TXR150000
 
-State law treats data centers as industrial in designated areas
+Texas Commission on Environmental Quality
 
-For the statutory industrial-area subpart, construction and operation of data centers and directly related commercial activities count as industrial purposes. This definition does not grant statewide by-right zoning or replace parish zoning.
+Sites disturbing one acre or more, including larger plans, with runoff to state surface water need this permit.
 
-Facilities using on-site primary generation for continuous normal operations are limited to M-2, with the district’s special provisions also applying to generation equipment and fuel storage. In M-1, independent emergency or redundant power during loss of primary power is allowed subject to the supplemental rules.
+Pause on permits for infrastructure directly supporting data centers
 
-The permit requires a landscape plan stamped by a licensed landscape architect or landscape horticulturist. After installing the buffer, submit a signed completion certificate from the designer of record. The buffer must be maintained and does not replace standard parish landscaping.
+Texas Commission on Environmental Quality
 
-Noise must not exceed 55 dBA at a property line adjacent to a residential or noise-sensitive area. In the adjacency settings specified in §VII(e), backup generator and similar equipment testing is restricted to weekdays, 7 a.m.–6 p.m.
+TCEQ reported on October 19, 2026 that it paused permits for data center infrastructure and is screening applications.
 
-Two industrial districts allow data centers with conditions
+Conditional use: data center in Industrial district
 
-Parish Ordinance 26-6-3 lists data centers as permitted uses in M-1 and M-2 subject to supplemental use and performance rules. Treat the parish as a county-equivalent when joining geography, not as a city.
+Greenfield Township Board of Zoning Appeals
 
-Primary buildings and equipment must stand at least 300 feet from residential zoning and from school/daycare, assisted-living/nursing and park property boundaries. Lower-intensity accessory uses such as offices or parking may occupy that area. Adjacent sites require a planted buffer at least 25 feet deep, which may count toward the setback.
+A data center in the Industrial district needs a conditional use decision from the Board of Zoning Appeals, effective July 10, 2026.
 
-Screen cooling, ventilation, backup generation and other operating equipment from public roadways and specified residential, school/daycare, care and park uses. The ordinance lists enclosures, buildings, opaque fencing or walls, and landscape buffers as possible methods.
+Residential setback: data center 1,000 ft from residential parcels
 
-Nevada screens at one disturbed acre, including qualifying common plans. The Stormwater Branch may also require coverage below one acre when it determines a nearby receiving water or tributary could be affected; an approval letter is required before construction.
+Greenfield Township
 
-Drawing public water or changing its use can require approval
+A data center must stay 1,000 feet from a property line next to homes; the board can require more.
 
-Except as specified in NRS 533.325, an applicant must apply to the State Engineer before work to appropriate public water or change the diversion, use type or use location of an existing appropriation. Utility purchases alone are not a new direct appropriation.
+Central water and sewer connection requirement: data center
 
-Reno requires a conditional-use permit for new data centers
+Greenfield Township
 
-Reno says new data centers require a conditional use permit. Check the separate moratorium before treating this as an available application route.
+A data center must connect to central water and sewer as a condition of the Industrial district permit.
 
-Reno paused new data center permit applications
+Township zoning permit: commercial or industrial construction
 
-The city reports its June 1, 2026 resolution suspends acceptance of data center conditional use permit applications through August 31, 2027, or until adequate regulations are adopted.
+Jersey Township Zoning Inspector
 
-Construction runoff can need state authorization
+Commercial or industrial builders need the township zoning permit first, then a Licking County building permit.
 
-Count the whole development when checking the one-acre threshold. The permit covers qualifying runoff that reaches state surface waters, including through a storm drain.
+Zoning permit: building, expansion or change of use
 
-Pumping groundwater from some wells requires a permit
+Jersey Township Zoning Inspector
 
-The state rule applies to nonexempt wells in designated groundwater management areas. Buying water from a utility is a different case.
+Building, moving, expanding or changing the use of a building in the township needs a zoning inspector permit.
 
-Data centers must measure noise before and after construction
+Prohibition of data centers in all zoning districts
+
+Village of Lyons
+
+Lyons treats data centers as advanced manufacturing, which is not allowed in any village zoning district.
+
+Conditional use permit: data center in M-3 district
+
+Metamora Village Council, after Planning Commission recommendation
+
+A data center, treated as advanced manufacturing, can seek a conditional use permit in the M-3 district.
+
+Permitted use: data center in General Employment and Technology Manufacturing districts
+
+City of New Albany
+
+Two base districts list data centers, but a site’s own zoning can exclude them.
+
+Construction stormwater general permit OHC000006
+
+Ohio Environmental Protection Agency
+
+Sites disturbing one acre or more, including smaller sites in a larger plan, need coverage when runoff reaches state waters.
+
+Consumptive use permit: new or increased use over 2,000,000 gal/day
+
+Division of Water Resources
+
+A new or increased consumptive use averaging over two million gallons a day needs a Division of Water Resources permit.
+
+Township zoning authority over unincorporated territory
+
+State of Ohio
+
+Ohio law lets townships zone only unincorporated land, so a parcel annexed into a city follows the city's zoning.
+
+Moratorium on data center zoning: Ohio Township, Clermont County, 12 months
+
+Ohio Township Board of Trustees
+
+Trustees report adopting on July 13, 2026 a 12-month moratorium on data center zoning in Ohio Township.
+
+Permitted use: data center in Flex Employment (FE) district
+
+Orange Township
+
+The township use table marks data centers as permitted in the FE (Flex Employment) district only.
+
+Construction stormwater general permit LAR100000 and LAR200000
+
+Louisiana Department of Environmental Quality
+
+Large construction of five acres or more files a notice of intent; one to under five acres is small construction.
+
+Industrial purpose classification of data centers: La. R.S. 33:130.12
+
+Louisiana State Legislature
+
+In the statutory industrial-area subpart, building and operating data centers counts as an industrial purpose, without granting statewide by-right zoning.
+
+On-site generation limits: data centers in M-1 and M-2 districts
+
+St. Charles Parish Council
+
+On-site primary generation for continuous operation is limited to M-2; M-1 allows only emergency or backup power.
+
+Landscape plan requirement: data center buffer
+
+St. Charles Parish Council
+
+A data center permit needs a landscape plan stamped by a licensed designer and a signed completion certificate.
+
+Noise limit: 55 dBA at property line next to residential or noise-sensitive areas
+
+St. Charles Parish Council
+
+Noise may not exceed 55 dBA at residential or noise-sensitive lines; generator testing is weekdays, 7 a.m. to 6 p.m.
+
+Permitted use: data center in M-1 and M-2 districts
+
+St. Charles Parish Council
+
+Data centers are permitted in the M-1 and M-2 districts under Ordinance 26-6-3, subject to supplemental use and performance rules.
+
+Setback: data center buildings 300 ft from residential, school and park property
+
+St. Charles Parish Council
+
+Buildings and equipment must be 300 feet from residential zoning, schools, care and parks, with a 25-foot planted buffer.
+
+Equipment screening requirement: data center
+
+St. Charles Parish Council
+
+Cooling, ventilation and generation equipment must be screened from public roads and nearby residential, school and park uses.
+
+Construction stormwater general permit
+
+Nevada Division of Environmental Protection
+
+Sites disturbing one acre or more, including common plans, need coverage and an approval letter before construction.
+
+Water appropriation permit: NRS 533.325
+
+Nevada State Engineer
+
+Apply to the State Engineer before appropriating public water or changing an existing appropriation's diversion, use type or location.
+
+Conditional use permit: new data center in Reno
+
+Reno Planning Commission
+
+New data centers in Reno require a conditional use permit, but a separate moratorium affects whether applications are accepted.
+
+Moratorium on data center CUP applications: Reno, through August 31, 2027
+
+City of Reno Development Services
+
+Reno's June 1, 2026 resolution stops accepting data center conditional use applications through August 31, 2027, or until rules are adopted.
+
+Construction stormwater
+
+Arizona Department of Environmental Quality
+
+Count the whole development when checking the one-acre threshold.
+
+Groundwater withdrawal permit: nonexempt well in active management area
+
+Arizona Department of Water Resources (Director)
+
+The state rule applies to nonexempt wells in designated groundwater management areas.
+
+Noise study requirement: baseline and annual studies for data centers
+
+City of Chandler
 
 The city requires a sound study before construction and annual studies at peak operation for five years after construction.
 
-Standalone data centers need planned-area zoning
+Planned area development zoning: primary-use data center in PAD
 
-Chandler restricts sites whose main use is a data center to planned area developments. A server facility that supports another business follows different size and location rules.
+City of Chandler City Council, after Planning and Zoning Commission public hearing
 
-Marana must approve a plan that specifically allows a data center
+Chandler restricts sites whose main use is a data center to planned area developments.
 
-For a standalone data center, the town must adopt a site-specific plan or amendment through rezoning. The approval may cover only part of the site.
+Rezoning to specific plan: principal data center
 
-Marana Water will not supply drinking water for data center cooling
+Marana Town Council, after Planning Commission hearing
 
-Developers must identify a different supply for cooling and humidity control. The restriction does not rule out drinking water for other building uses.
+For a standalone data center, the town must adopt a site-specific plan or amendment through rezoning.
 
-How many parking spaces does a data center need?
+Potable water restriction: data center cooling and humidity control
 
-Mesa requires one space per 5,000 square feet for the first 200,000 square feet and one per 10,000 square feet above that.
+Town of Marana
 
-Mesa requires council approval for standalone industrial sites
+Developers must identify a different supply for cooling and humidity control.
 
-A standalone data center in a general or heavy industrial district needs specific council approval through the planned area development process.
+Parking minimum: data center 1 space per 5,000 sq ft, then 1 per 10,000
 
-Mohave County lists data centers under special-use permits in the Airport Development (A-D), Light Manufacturing (M-1), General Manufacturing (M-2) and Heavy Manufacturing (M-X) districts. The listing does not itself grant any particular facility a permit.
+City of Mesa
 
-When must an operator apply to the Navajo Nation for an air permit?
+Mesa requires one space per 5,000 square feet for the first 200,000 square feet, then one per 10,000.
 
-For a covered new source outside a general permit, or an existing source planning a minor modification, the Nation directs the operator to apply at least 90 days before the requested construction start. Check the minor-source regulations for whether permitting or registration applies. This row indexes the Arizona portion; the Nation is not a county or statewide permitting office.
+Planned Area Development overlay approval: principal data center in GI or HI
 
-Phoenix reviews power, fire safety and noise before zoning approval
+Mesa City Council
 
-Phoenix adopted a special zoning permit process for data centers. City review considers power reliability, fire risk, emergency access and noise. The zoning permit does not by itself approve construction.
+A standalone data center in a general or heavy industrial district needs council approval through a planned area development.
 
-Where the Community’s use table requires a conditional use permit, Community Council approval is required. Applicable landowner consents are required unless the applicant holds written authorization. The Council considers compatibility and infrastructure. No data-center use is assigned to a district by this general provision.
+Special use permit: data center in A-D, M-1, M-2 and M-X districts
 
-New or modified equipment can need an air permit before construction
+Mohave County Board of Supervisors, after Planning and Zoning Commission recommendation
 
-Where NMED has air jurisdiction, a new or modified emitting facility must screen its potential emissions before construction. For example, above 10 lb/hour of a criteria pollutant other than VOCs triggers the Part 72 construction-permit screen; separate annual, toxic and major-source thresholds also apply. Check the authority for Bernalillo County and tribal lands.
+A data center in the A-D, M-1, M-2 or M-X district needs a special use permit.
 
-Santa Fe County defines a qualifying facility or proposed expansion by primary computing use and proposed aggregate IT load capacity of at least 1 MW. It excludes incidental computer rooms serving another lawful principal use when separate high-capacity infrastructure is unnecessary.
+Minor source air permit: Navajo Nation, Arizona portion
 
-Exceptions include county-owned or county-operated facilities used solely for governmental data processing and facilities for which the county accepted a complete development approval or permit application before effectiveness. Separate vested-rights determinations may be appealed.
+Navajo Nation Environmental Protection Agency
 
-Santa Fe County paused some large data center approvals
+A covered new source outside a general permit applies at least 90 days before the requested construction start.
 
-The recorded ordinance pauses county development approvals and permits for covered facilities/expansions with proposed aggregate IT load of at least 1 MW for 18 months from recording, subject to extension. Incidental equipment, qualifying county governmental facilities, complete prior applications and vested rights are addressed separately.
+Special permit: data center zoning in Phoenix
 
-County acceptance, processing and issuance of new development approvals and permits for covered data centers are paused for 18 months from recordation, subject to exceptions and the Board’s extension power. County adoption was June 30, 2026; recordation was July 9.
+Phoenix City Council, after Planning Commission recommendation
 
-Who issues construction runoff permits in New Mexico?
+Data centers in Phoenix need a special permit that weighs power reliability, fire risk, emergency access and noise; adopted July 2, 2025.
 
-For eligible construction discharges, EPA lists NMR100000 for the state outside Indian Country and NMR10I000 for most Indian Country within the state. Navajo Reservation lands use the Arizona permit number and Ute Mountain Reservation lands the Colorado number. Check the permit area and additional conditions for the site.
+Conditional use permit: Community Council approval
 
-Generators and other equipment may need an air permit
+Salt River Pima-Maricopa Indian Community Council
 
-Stationary emissions equipment, including emergency generators or other onsite generation, may require air permitting. MDEQ distinguishes this review from zoning, noise and utility rates.
+Where the use table requires a conditional use permit, applicants need Community Council approval and landowner consents.
 
-Mississippi lists distinct general permits for small construction (one to under five acres) and large construction (five or more). MDEQ states the small permit was administratively continued pending reissuance.
+Minor source construction permit (Part 72)
 
-Direct water withdrawals may need a state permit
+New Mexico Environment Department Air Quality Bureau
 
-MDEQ screens direct groundwater or surface-water withdrawals based on source and method. A permit may be necessary; do not characterize all data centers buying municipal water as direct permit applicants.
+A new or modified emitting facility under NMED jurisdiction must screen emissions before construction, for example above 10 pounds an hour.
 
-The city reviews commercial designs before construction plans
+Definition of data center: 1 MW or more aggregate IT load
 
-For commercial applicants, architectural review and approval by the mayor and aldermen precedes the city's review of construction plans. Verify whether this process applies to the proposed development classification.
+Santa Fe County
 
-The Technical Industrial Park allows data centers
+Covers facilities or expansions with computing as the main use and at least 1 MW of IT load.
 
-Ordinance 2023-09 added data centers and related facilities to the Technical Industrial Park permitted-use list. This is use permission, not an exemption from site or building review.
+Exemptions: county governmental data facilities and prior complete applications
 
-Nashville temporarily paused data center permits
+Santa Fe County
 
-The council’s amended temporary moratorium pauses acceptance, processing, approval and issuance of data center zoning, building or grading permits or administrative appeals until December 1, 2026. Consult subsequent council action at the end of that period.
+Exceptions cover county-run governmental data processing facilities and facilities whose complete application was accepted before the ordinance took effect.
 
-Large facilities and campuses face different zoning rules
+Moratorium on data center approvals: Santa Fe County, 18 months
 
-The adopted use table classifies large data centers as an industrial use requiring special exception in IR and IG and disallows the separately defined campus category in any district. Apply the ordinance definitions before using the table, and check the temporary permit pause.
+Santa Fe County Board of County Commissioners
 
-Applicants need written confirmation of water and sewer capacity
+Facilities of 1 MW or more face an 18-month pause on county approvals and permits from July 9, 2026.
 
-Zoning applicants must provide written confirmation that the water and sewer utility has reviewed capacity to serve the project; insufficient utility capacity prevents zoning permit approval.
+Moratorium on data center approvals: Santa Fe County, 18 months
 
-Tennessee covers construction sites where clearing, grading or excavation disturbs at least one acre, or less when part of a qualifying common plan.
+Santa Fe County
 
-Larger direct withdrawals must be registered
+The county paused new data center approvals and permits for 18 months from July 9, 2026, with exceptions and extension.
 
-TDEC directs an applicant proposing to withdraw at least 10,000 gallons per day from a surface-water or groundwater source to register with the Division of Water Resources. Registration itself neither authorizes nor limits the withdrawal. Do not apply the threshold directly to water bought from a city.
+Construction stormwater general permit NMR100000 and NMR10I000
 
-Boone County paused new data center applications
+U.S. Environmental Protection Agency
 
-The pause covers land under county zoning outside incorporated towns and cities, from June 16, 2026 through June 15, 2027. It excludes facilities that provide internal computing for a business on the same campus.
+Eligible New Mexico construction discharges use NMR100000 outside Indian Country and NMR10I000 for most Indian Country.
 
-The data center parking formula is one space per employee plus 10 percent for visitors and customers.
+Air permit: stationary emissions equipment including generators
 
-Data centers are a listed permitted use in I-1 Light Industrial. Other applicable environmental, building and site requirements may still apply.
+Mississippi Department of Environmental Quality
 
-Indiana's CSGP applies at one acre of land disturbance; a smaller project is regulated when it is within a qualifying larger common plan of development or sale.
+Data centers with generators or on-site generation may need an air permit, which is separate from zoning.
 
-High-capacity water withdrawals must be registered
+Construction stormwater general permit
 
-Owners must register if their equipment can withdraw more than 100,000 gallons in one day. This is a reporting requirement, not permission to withdraw water.
+Mississippi Department of Environmental Quality
 
-Applicants need the electric utility to confirm available power
+Small (one to under five acres) and large (five or more) construction use separate general permits.
+
+Water withdrawal permit: direct groundwater or surface-water withdrawals
+
+Mississippi Department of Environmental Quality
+
+A data center making its own water withdrawal may need a permit; buying municipal water does not trigger one.
+
+Architectural review: commercial applicants before construction plan review
+
+City of Ridgeland Mayor and Board of Aldermen
+
+Commercial applicants must get architectural approval from the mayor and aldermen before the city reviews construction plans.
+
+Permitted use: data center in Technical Industrial Park district
+
+City of Ridgeland Mayor and Board of Aldermen
+
+Ordinance 2023-09 lists data centers as permitted in the Technical Industrial Park, though site and building review still apply.
+
+Moratorium on data center permits: Nashville and Davidson County, until December 1, 2026
+
+Metropolitan Council of Nashville and Davidson County
+
+The amended moratorium pauses data center zoning, building and grading permits and appeals until December 1, 2026.
+
+Special exception: large data center in IR and IG districts
+
+Metropolitan Board of Zoning Appeals of Nashville and Davidson County
+
+Large data centers in the IR and IG districts need a special exception; the campus category is not allowed anywhere.
+
+Utility capacity confirmation: water and sewer for data center zoning applicants
+
+Metropolitan Council of Nashville and Davidson County
+
+Zoning applicants must confirm in writing that the water and sewer utility reviewed capacity.
+
+Construction stormwater general permit
+
+Tennessee Department of Environment and Conservation
+
+Construction sites disturbing at least one acre, or less when part of a larger common plan, need NPDES stormwater coverage.
+
+Water withdrawal registration: direct withdrawals of 10,000 gallons per day or more
+
+Division of Water Resources, Tennessee Department of Environment and Conservation
+
+Withdrawing 10,000 gallons a day or more requires registering with the Division of Water Resources, which does not authorize the withdrawal.
+
+Moratorium on new data center applications: Boone County, June 16, 2026 to June 15, 2027
+
+Boone County Board of Commissioners
+
+The pause covers land under county zoning outside incorporated towns and cities, from June 16, 2026 through June 15, 2027.
+
+Parking requirement: data center, one space per employee plus 10 percent
+
+Hammond
+
+A data center must provide one parking space per employee plus 10 percent for visitors and customers.
+
+Permitted use: data center in I-1 Light Industrial district
+
+Hammond
+
+Data centers are a permitted use in the I-1 Light Industrial district; other requirements still apply.
+
+Construction stormwater general permit
+
+Indiana Department of Environmental Management
+
+Construction at one acre of disturbance, or a smaller part of a larger plan, needs this stormwater permit.
+
+Significant water withdrawal facility registration: capacity over 100,000 gallons per day
+
+Indiana Department of Natural Resources
+
+Owners must register if their equipment can withdraw more than 100,000 gallons in one day.
+
+Electric utility capacity verification: special exception applicants, NIPSCO
+
+Lake County Council
 
 The utility must confirm that it can serve the facility and the area without interfering with other customers’ service.
 
-An industrial site still needs county zoning approval
+Special exception: data center in M-1 or M-2 district
 
-In unincorporated Lake County, data centers need a special exception in two industrial districts. Being on industrial land does not by itself allow construction.
+Lake County Board of Zoning Appeals
 
-Cooling water must be delivered to the site
+In unincorporated Lake County, data centers need a special exception in two industrial districts.
 
-The county requires a closed cooling loop that does not lose water to evaporation. A data center cannot use a local well, town water or surface water for cooling.
+Cooling water standard: bulk-delivered water in closed non-evaporating loop
 
-A small server room can be exempt from data center rules
+Parke County Board of Commissioners
+
+The county requires a closed cooling loop that does not lose water to evaporation.
+
+Definition of data center: excludes small accessory server rooms
+
+Parke County Board of Commissioners
 
 The county excludes small server rooms that support another permitted use.
 
-Wabash County paused new data center permits
+Moratorium on data center applications and permits: Wabash County, up to 18 months
 
-On August 31, 2026, Wabash County paused applications and permits for data center projects in its unincorporated zoning districts. The pause ends when new rules take effect or after 18 months, whichever comes first. LaFontaine, Lagro and Roann would each have to adopt it separately.
+Wabash County Board of Commissioners
 
-Data centers must recirculate cooling water
+Wabash County paused data center applications and permits in unincorporated districts on August 31, 2026, for up to 18 months.
+
+Closed-loop cooling requirement: data center processing equipment
+
+Warren County Commissioners
 
 Developers can propose an alternative if they show that it uses less water and less energy than a closed loop.
 
-Developers must submit a water supply study
+Water feasibility study: data center applications
+
+Warren County Commissioners
 
 Projects that rely on a nonpublic water source must also submit a study every two years after operations begin.
 
-Clearing, excavation or other covered construction disturbing at least one acre needs CGP coverage; aggregate smaller phases within the same development. The Lake Tahoe Hydrologic Unit uses a separate Lahontan permit.
+Construction stormwater general permit
 
-The city interprets the Industrial Park (IP) zoning district as allowing data centers subject to a special use permit. The cited decision does not determine other districts or the outcome for another site.
+California State Water Resources Control Board
 
-The city distinguishes the conditional use permit for a data center in LI from the minor use permit for backup generators under the updated code. The staff report separately describes the prior rule, which governed the reviewed application.
+Construction disturbing at least one acre, including aggregated smaller phases of one development, needs coverage under the construction general permit.
 
-Lists stand-alone data centers as conditional uses in LO-RD, LI and HI. Only ancillary data centers are allowed in HO-RD. The report separately identifies a site-specific 2025 rule for the Related Santa Clara project; check site overlays.
+Special use permit: data center in Industrial Park (IP) district
 
-An ancillary data center serves the private needs of the industrial user and is subordinate to the primary use; it is limited to 20% of the building square footage on the site and 9 MW maximum draw.
+San Jose Planning Director, appealable to City Council
 
-Point outdoor lighting down and into the site
+The city reads the IP district as allowing data centers with a special use permit.
+
+Minor use permit: backup generators at data center in Light Industrial district
+
+City of Santa Clara Community Development Director (Planning Division)
+
+Backup generators at a Light Industrial data center need a minor use permit, separate from the conditional use permit.
+
+Conditional use permit: stand-alone data center in LO-RD, LI or HI districts
+
+City of Santa Clara Planning Commission, after Project Completeness Committee interdepartmental review
+
+Stand-alone data centers need a conditional use permit in LO-RD, LI and HI; HO-RD allows only ancillary ones.
+
+Definition of ancillary data center: 20% of building area and 9 MW maximum
+
+Santa Clara
+
+An ancillary data center is limited to 20% of site building area and 9 MW maximum draw.
+
+Exterior lighting standard: fully shielded fixtures directed away from adjoining property
+
+City of Santa Clara
 
 Santa Clara requires fully shielded exterior lights that direct light away from adjoining roads and properties.
 
-Outdoor cooling equipment needs noise controls
+Noise control standard: exterior cooling fans and equipment
 
-Santa Clara requires structural noise controls on exterior cooling fans and equipment. The city’s community development director decides whether measures such as baffles or acoustic louvers are sufficient.
+City of Santa Clara
 
-The updated code requires a stand-alone facility to obtain a Planning Commission conditional use permit and an architectural review permit through a development review hearing.
+Santa Clara requires structural noise controls on exterior cooling fans and equipment.
 
-Development projects including data centers must use recycled water for approved uses where it is available. This is a generally applicable local rule, distinct from a state water permit.
+Conditional use permit and architectural review permit: stand-alone data center
 
-New data centers are prohibited along the Beltline overlay
+Santa Clara Planning Commission, Architectural review permit obtained through a development review hearing
 
-Atlanta prohibits new data centers in the Beltline Overlay District. Use the mapped district boundary to check a parcel.
+A stand-alone data center needs a Planning Commission conditional use permit and an architectural review permit.
 
-Atlanta restricts data centers near transit stops
+Recycled water use requirement: development projects including data centers
 
-Atlanta prohibits new data centers within half a mile of a MARTA rail station or future bus rapid transit stop covered by the zoning amendment.
+Santa Clara
 
-Lists a data center as a Communications/Utilities use requiring a special exception in the Heavy Industrial district.
+Development projects, including data centers, must use recycled water for approved uses where it is available.
 
-Leave a 100-foot buffer near residential land
+Prohibition of new data centers in the Beltline Overlay District
 
-If the project is within 200 feet of residential land, the county requires an undisturbed buffer. The director may reduce the buffer after reviewing the design and screening. The ban on sharing a property line still applies.
+Atlanta City Council
 
-A data center cannot share a property line with residential land
+Atlanta prohibits new data centers in the Beltline Overlay District.
+
+Prohibition of new data centers within 0.5 mile of MARTA rail stations and BRT stops
+
+Atlanta City Council
+
+New data centers are barred within half a mile of a MARTA rail station or future bus rapid transit stop.
+
+Special exception: data center in Heavy Industrial district
+
+Bowdon City Council, after Planning Commission recommendation
+
+A data center in the Heavy Industrial district is listed as a Communications/Utilities use that requires a special exception.
+
+Undisturbed buffer: data center within 200 ft of residential land, 100 ft required
+
+Douglas County Board of Commissioners
+
+If the project is within 200 feet of residential land, the county requires an undisturbed buffer.
+
+Residential adjacency restriction: no shared boundary with residential land
+
+Douglas County Board of Commissioners
 
 The county applies this restriction when the neighboring land is zoned for housing or is already used for housing.
 
-Submit the utility schedule with the site plan
+Application materials: buildout and utility schedules and master site plan
 
-The county asks for a construction schedule, a utility schedule and a master site plan showing any required parcel splits or combinations.
+Douglas County Board of Commissioners
 
-Data centers need special approval in four county districts
+Applicants must file a construction schedule, a utility schedule and a master site plan showing parcel splits.
 
-In unincorporated Douglas County, the code allows a data center to apply in OI, LI, LI-R or HI. It does not allow this use in the other districts in the table.
+Special use permit: data center in OI, LI, LI-R or HI district
 
-GAR100001 covers qualifying construction stormwater discharges from stand-alone projects disturbing at least one acre. Do not use this stand-alone instrument to decide coverage for a multi-project common development.
+Douglas County Board of Commissioners, after Planning Commission recommendation
 
-Three Grayson districts permit data centers
+In unincorporated Douglas County, the code allows a data center to apply in OI, LI, LI-R or HI.
 
-The use table marks data centers as permitted in C-2, C-3 and M-1. Other development approvals may still be needed.
+Construction stormwater general permit GAR100001
 
-County approval is required even for an in-house data center
+Georgia Environmental Protection Division
 
-A data center within the county’s zoning jurisdiction needs a special use permit from the Board of Commissioners. This includes a center inside another business that serves only the owner, occupies at most 10% of its footprint and has no separate building.
+Stand-alone construction projects disturbing at least one acre need coverage under GAR100001 for their stormwater discharges.
 
-An independent engineer must measure baseline sound
+Permitted use: data center in C-2, C-3 and M-1 districts
 
-Before construction or operation, the owner must commission readings at eight locations around the site and give the planning department the report within 30 days of completion.
+City of Grayson
 
-Keep buildings 1,000 feet from residences and residential lots
+The use table permits data centers in the C-2, C-3 and M-1 districts; other approvals may still apply.
 
-The county applies this distance to data centers and their power plants. Other property lines and public road rights-of-way require at least 60 feet or 1.25 times the structure’s height, whichever is greater.
+Special use permit: data center in Habersham County zoning jurisdiction
 
-Five acres for a data center; 20 for its power plant
+Habersham County Board of Commissioners
 
-The county sets separate minimum lot sizes for the data center and for a data center power plant.
+Any data center in the county zoning jurisdiction needs a special use permit, even a small one serving only its owner.
 
-Hold two public meetings before applying
+Baseline sound study: eight locations, report within 30 days
 
-The applicant must hold at least two meetings at least six months before filing for conditional use approval and notify all property owners within 500 feet. The application must include proof of the meetings and a list of owners contacted.
+Habersham County
 
-Keep data center buildings 500 feet from homes
+The owner must measure sound at eight locations and give the planning department the report within 30 days.
 
-The 500-foot distance is measured to a residential structure. The city also requires a 100-foot buffer around the site, with dense vegetation and measures that reduce noise.
+Residential setback: data center buildings 1,000 ft from residential lots and residences
 
-The general construction threshold is one acre; an individual SPDES permit is an alternative. DEC also specifies 5,000 square feet in the NYC East of Hudson watershed and 20,000 square feet in NYC municipal boundaries, with smaller NYC components of a qualifying common development included. Within NYC creating at least 5,000 square feet of impervious area is also covered.
+Habersham County
 
-New York pauses certain state environmental approvals
+Data centers and their power plants must sit 1,000 feet from residential lots and homes, and 60 feet from other lines.
 
-New York directs DEC to hold incomplete discretionary applications for construction or expansion of covered data centers capable of using at least 50 MW until DPS submits its final environmental impact report and findings. Existing complete applications and local government approvals are outside the order. Its definition excludes primarily manufacturing, research, educational and medical-care facilities.
+Minimum lot size: 5 acres for a data center, 20 acres for its power plant
 
-Oneonta pauses applications for new data centers
+Habersham County
 
-The town pauses applications for zoning, special-use, building, subdivision and site-plan approvals for data centers and commercial crypto mining. It covers all town real property for one year from effectiveness unless repealed sooner. A hardship variance may be sought under §7.
+A data center needs a lot of at least five acres; a data center power plant needs 20.
 
-Existing facilities may continue operating
+Community outreach meetings: before conditional use application for a data center
 
-A duly approved facility already operating lawfully, with required permits, may continue as a nonconforming use. The protection does not cover expansion. This is the Town of Oneonta, not the separately incorporated city.
+City of Monroe
 
-Earlier applications can proceed during the pause
+Applicants must hold two meetings at least six months before filing and notify all owners within 500 feet.
 
-The town pauses land-use approval processing for data storage facilities, including building permits and occupancy certificates. Applications submitted before July 1, 2026 may proceed. The pause runs 180 days from adoption and filing; an additional 180 days requires a Board resolution.
+Residential setback: data center buildings 500 ft from residential structures
 
-No drinking water for evaporative chillers
+City of Monroe
 
-Aurora bars evaporative chillers that use potable water. The restriction applies to data centers seeking conditional use approval.
+Buildings must be 500 feet from any home, with a 100-foot buffer of dense vegetation.
 
-Water use is capped per unit of computing energy
+Construction stormwater general permit
+
+New York State Department of Environmental Conservation
+
+Construction disturbing one acre or more needs coverage; some New York City areas use 5,000 and 20,000 square feet.
+
+Data center permitting pause: Executive Order 62, facilities of 50 MW or more
+
+Governor of New York
+
+Executive Order 62 (July 14, 2026) holds incomplete DEC applications for data centers of 50 MW or more.
+
+Moratorium on data center and crypto mining applications: Town of Oneonta, one year
+
+Town of Oneonta
+
+The town pauses data center and crypto mining applications for one year from effectiveness unless repealed sooner.
+
+Nonconforming use for existing data centers: Town of Oneonta
+
+Town of Oneonta
+
+A lawfully operating, duly approved data center may continue as a nonconforming use, but the protection does not cover expansion.
+
+Moratorium
+
+Town of Orangetown
+
+The town pauses land-use approval processing for data storage facilities, including building permits and occupancy certificates.
+
+Cooling restriction: no evaporative chillers using potable water
+
+Aurora City Council
+
+Aurora bars evaporative chillers that use potable water.
+
+Potable water cap: 0.2 liters per kWh of IT equipment energy
+
+Aurora City Council
 
 A data center may use at most 0.2 liters of potable building water per kilowatt-hour consumed by its IT equipment.
 
-Measure existing noise for a week
+Baseline noise measurement and acoustical study: data center applications
 
-The first application must include a week of baseline noise measurements. A separate acoustical study must model compliance with the applicable limits.
+Aurora City Council
 
-Ground-level chillers must be 1,000 feet from sensitive uses
+The first application must include a week of baseline noise measurements.
 
-Measure from the nearest part of the equipment yard to the property line of a home, hospital or educational use. A later neighboring use does not undo an existing conditional approval.
+Setback: ground-mounted chillers 1,000 ft from homes, hospitals and schools
 
-Model water use before the city hears the application
+Aurora City Council
 
-A third-party engineer must model water consumption and water quality. The report covers supply sources, average and peak demand, and cooling and water reuse plans.
+Measure from the nearest part of the equipment yard to the property line of a home, hospital or educational use.
 
-The City Council added a data center or information technology center to the special-use lists for both the Light Industry and Heavy Industry districts.
+Water consumption and quality model: third-party engineer report
 
-Illinois EPA describes the construction stormwater permit threshold as one acre, including qualifying disturbance aggregated across a larger development. The five-acre threshold discussed in the preceding sentence is the older Phase I threshold.
+Aurora City Council
 
-Westmont marks data centers as special uses in O/R, M-1 and M. The office district O/R-1 has a dash and is not part of this group. Section 6.05(B) defines the use by the building’s primary purpose.
+A third-party engineer must model water consumption and water quality.
 
-Apply Florida's construction CGP test to both disturbance and drainage: at least one acre or a smaller portion of a common development, and runoff discharging to state surface waters or a municipal storm sewer.
+Special use: data center in Light Industry and Heavy Industry districts
 
-Volusia’s prohibition starts at a 50 MW peak load
+City of Belleville City Council, after Zoning Board of Appeals advisory report
 
-Unincorporated Volusia bars a single site with an anticipated monthly peak electric load of at least 50 MW, measured as the highest 15-minute average. The county may not accept, process or grant approvals for its development, expansion, intensification or operation. Incorporated municipalities are outside this rule.
+A data center is now a special use in both the Light Industry and Heavy Industry districts.
 
-Walton County prohibits large-load data centers
+Construction stormwater general permit
 
-Walton County’s land development code bars large-load customers, expressly including data centers as defined by Florida Chapter 2026-65, across its land-use categories and zoning districts. The general provision rules out variances. This describes county code; it does not establish a municipal rule.
+Illinois Environmental Protection Agency
 
-Lists data centers as conditional uses subject to Board of Supervisors review and action. The entire premises must be within the Commercial District.
+Construction at one acre or more, including disturbance aggregated across a larger development, needs coverage under the NPDES construction permit.
 
-Data centers are conditional uses in industrial zoning districts. The site must have public-road access and a secondary access suitable for emergency response.
+Special use permit: data center in O/R, M-1 and M districts
 
-A generating system supplying the facility directly in normal operation is a separate conditional use subject to the approvals applicable to the generation system.
+Village of Westmont Board of Trustees, after Planning and Zoning Commission hearing and recommendation
 
-A project proposing a grid connection whose energy plan shows demand over 50 MW must procure at least 10% of its power from renewable generation in PJM through a power purchase agreement or equivalent. Renewable credits alone do not qualify.
+Data centers are special uses in the O/R, M-1 and M districts but not in the O/R-1 district.
 
-The minimum lot is five acres; the height limit is 35 feet, including rooftop equipment on the primary building. Principal buildings, accessory uses and truck idling must be at least 250 feet from every property line, with exceptions for utility lines, fiber lines and security stations.
+Construction stormwater general permit
 
-The application must quantify sewage and HVAC discharge. Public-system use requires certified evidence that the authority can convey and treat the load; private systems require a feasibility study. Untreated wastewater cannot enter stormwater systems or surface waters.
+Florida Department of Environmental Protection
 
-Two districts allow a data center after township approval
+Construction disturbing at least one acre, or part of a common plan, with runoff to surface waters or storm sewers needs coverage.
 
-A developer can seek conditional use approval in the Commercial Business or Industrial Business district. The township requires a site of at least 50 acres.
+Prohibition of data center sites with 50 MW or more peak load: unincorporated Volusia County
 
-The township checks noise before and after construction
+Volusia County Council
+
+Unincorporated Volusia bars a single site with an anticipated peak load of 50 MW or more.
+
+Prohibition of large-load data centers in all land-use categories and zoning districts
+
+Walton County Board of County Commissioners
+
+Walton County's land development code bars large-load customers, including data centers, across its zoning districts, and no variances are permitted.
+
+Conditional use: data center in Commercial District
+
+Cherrytree Township Board of Supervisors
+
+Data centers are conditional uses reviewed by the Board of Supervisors; the whole premises must be in the Commercial District.
+
+Conditional use: data center in industrial zoning districts
+
+Damascus Township Board of Supervisors, after Planning Commission review
+
+Data centers are conditional uses in industrial districts and the site needs public-road access plus a secondary emergency access.
+
+Conditional use: generating system supplying a data center directly
+
+Damascus Township Board of Supervisors, after Planning Commission review
+
+A generating system that directly supplies the facility is a separate conditional use.
+
+Renewable power procurement: 10% for grid-connected projects over 50 MW
+
+Damascus Township Board of Supervisors
+
+A grid-connected project over 50 MW must buy at least 10% of its power from PJM renewable generation.
+
+Dimensional standards: 5-acre lot, 35 ft height, 250 ft setback from property lines
+
+Damascus Township Board of Supervisors
+
+Data centers need a five-acre lot, a 35-foot height limit and a 250-foot setback from every property line.
+
+Wastewater disposal analysis: data center applications
+
+Damascus Township Board of Supervisors
+
+Applicants must quantify sewage and HVAC discharge and show the public authority can treat it.
+
+Conditional use: data center in Commercial Business or Industrial Business district, 50 acres
+
+Fairview Township (York County) Board of Supervisors, after Planning Commission review and public hearing
+
+A developer can seek conditional use approval in the Commercial Business or Industrial Business district.
+
+Outdoor equipment noise study: before construction and six months after full operation
+
+Fairview Township Board of Supervisors
 
 The developer must study outdoor equipment noise and submit a second study six months after the center reaches full operation.
 
-A data center must sit 150 feet back from a residential boundary
+Residential setback: data center 150 ft from property lines bordering residential use
 
-The setback covers the data center and its accessory uses where the property line directly borders residential use or residential zoning.
+Fairview Township Board of Supervisors
 
-The utility must approve service to the site
+The setback applies where the property line borders residential use or residential zoning.
 
-The developer must show the public utility approved its application for service. Public water and sewer must meet the proposed use.
+Utility service approval: public utility must approve application for service
 
-Data centers and data center accessory uses require conditional-use approval in the Industrial (I) zone.
+Fairview Township Board of Supervisors
 
-Buildings of 75,000 square feet or less need at least 10 acres; larger buildings need at least 25 acres. Both tiers require at least 230 feet of lot width at the setback and limit lot coverage to 75%.
+The developer must show the public utility approved its application for service.
 
-New data centers and additions need an approved land-development plan and zoning permit. Data center construction also requires a building permit.
+Conditional use: data center and accessory uses in Industrial (I) zone
 
-Newly proposed data centers are conditional uses in C-2 Highway Commercial and I-1 Industry.
+Franklin Township (York County) Board of Supervisors, after Planning Commission review
 
-The ordinance requires at least 50 acres. A data center building, including fencing as worded in the ordinance, must be at least 2,000 feet from any property line and 4,000 feet from any neighboring residence.
+Data centers and data center accessory uses need conditional-use approval in the Industrial (I) zone.
 
-Each data center building must be served by township-approved public water service. The water provision also calls for written confirmation about groundwater, surface water and wells.
+Minimum lot size: 10 acres up to 75,000 sq ft, 25 acres for larger buildings
 
-Provide 20,000–50,000 gallons of dedicated firefighting water, clean-agent suppression in server rooms, pre-action sprinklers for mechanical/structural areas, and independently ventilated, fire-separated battery storage.
+Franklin Township Board of Supervisors
 
-Property-line noise is capped at 55 dBA. Generator testing is limited to weekdays, 9 a.m. to 5 p.m., with neighbor notification; load shifting, peak shaving and economic dispatch are prohibited.
+Buildings of 75,000 square feet or less need 10 acres; larger buildings need 25 acres.
 
-A minimum 300-foot setback applies on all sides and a minimum 200-foot buffer is required. Buffers serve as firebreaks and noise screens.
+Building permit and zoning permit: data center construction and additions
 
-Regardless of size or district, a data-center applicant must file a compatibility and infrastructure impact review before zoning approval. It covers power demand and substation compatibility, water source and daily/peak demand, cooling method, emergency access, environmental impacts and fiber redundancy.
+Ligonier Township Zoning and Code Enforcement Officer
 
-Data centers appear under conditional uses in the Highway Commercial district. The table directs the reader to §11.804 and names the Planning Commission and Board of Supervisors; it does not list a data center as a principal use approved by the zoning officer.
+New data centers and additions need an approved land-development plan and zoning permit, and construction also requires a building permit.
 
-Pennsylvania requires NPDES coverage for qualifying construction disturbing at least one acre. The listed category excludes agricultural plowing or tilling, animal heavy use areas, timber harvesting and road maintenance; these exclusions do not describe a data-center pad.
+Conditional use: data center in C-2 Highway Commercial and I-1 Industry districts
 
-State environmental permits depend on local approvals
+Ligonier Township Board of Supervisors, after Planning Commission recommendation
 
-For qualifying data center permits, Pennsylvania DEP requires proof that the project fits the local comprehensive plan and has received the applicable local zoning and subdivision approvals.
+Newly proposed data centers are conditional uses in the C-2 Highway Commercial and I-1 Industry districts.
 
-The township requires backup generators, if used, to meet EPA Tier 4 or equivalent standards. It requires annual testing and reporting to the township and relevant agencies. This is a local zoning condition.
+Setback: data center building 2,000 ft from property lines and 4,000 ft from residences
 
-The industrial district table assigns data centers and data center accessory uses to the special-exception route; §401.41 imposes submissions before that hearing.
+Ligonier Township
 
-Requires closed-loop cooling for server racks and IT equipment in new facilities and qualifying expansions. An alternate system requires a showing of infeasibility, a conditional exemption and applicable state permits.
+Sites need at least 50 acres, with buildings 2,000 feet from any property line and 4,000 feet from any neighboring home.
 
-The zoning application must include an engineer-certified water report documenting daily volume and sources, discharge volumes and destinations, and cooling design. Approval requires adequate supply; the service provider must document capacity.
+Public water service requirement: each data center building
 
-An application must include a certified consultant’s sound study evaluating the use at the property line. The study includes measurements during normal operations, peak cooling load and emergency-generator operation under load.
+Ligonier Township
 
-The minimum setback from all property lines is the larger of 500 feet or the maximum setback requirement for the zoning classification. It applies to listed impact sources, including generators and substations.
+Each data center building must have township-approved public water service, with written confirmation about groundwater and wells.
 
-Noise rules for the East Wenatchee growth area
+Fire safety standards: dedicated firefighting water, clean-agent suppression and sprinklers
+
+North Centre Township Board of Supervisors
+
+Data centers must provide 20,000 to 50,000 gallons of firefighting water, clean-agent suppression, pre-action sprinklers and fire-separated battery storage.
+
+Noise limit: 55 dBA at property line and generator testing hours
+
+North Centre Township Board of Supervisors
+
+Property-line noise is capped at 55 dBA; generator testing is limited to weekdays, 9 a.m. to 5 p.m.
+
+Setback and buffer: 300 ft setback and 200 ft buffer
+
+North Centre Township Board of Supervisors
+
+A data center needs a 300-foot setback on all sides and a 200-foot buffer.
+
+Compatibility and infrastructure impact review: before zoning approval
+
+North Centre Township Board of Supervisors
+
+Every applicant must file this infrastructure review before zoning approval, covering power, water, cooling, access and fiber.
+
+Conditional use: data center in Highway Commercial district
+
+Palmyra Township Board of Supervisors, Listed under conditional uses reviewed by the Planning Commission and Board of Supervisors, with reference to §11.804
+
+Data centers are conditional uses in the Highway Commercial district, decided by the Board of Supervisors.
+
+Construction stormwater general permit
+
+Pennsylvania Department of Environmental Protection
+
+Construction with earth disturbance of at least one acre needs NPDES coverage for stormwater discharges.
+
+Local approval proof requirement: DEP data center permits under Executive Order 2026-05
+
+Pennsylvania Governor and Department of Environmental Protection
+
+For qualifying data center permits, Pennsylvania DEP requires proof of local plan fit and zoning and subdivision approvals.
+
+Backup generator emissions standard: EPA Tier 4 or equivalent
+
+Summit Township
+
+Backup generators must meet EPA Tier 4 or equivalent, with annual testing and reporting.
+
+Special exception: data center in industrial district
+
+Summit Township Zoning Hearing Board
+
+Data centers and their accessory uses go through the special exception route in the industrial district.
+
+Closed-loop cooling requirement: new data centers and qualifying expansions
+
+Summit Township
+
+New facilities and qualifying expansions must use closed-loop cooling unless an alternate system gets a conditional exemption.
+
+Water use report: zoning application for a data center
+
+Summit Township
+
+The zoning application must include an engineer-certified report on water volume, sources, discharge and cooling design.
+
+Sound study: data center applications
+
+Trappe Borough
+
+An application must include a certified sound study at the property line for normal operations, peak cooling and generators.
+
+Setback: 500 ft or the zoning maximum, whichever is greater
+
+Trappe Borough
+
+The setback from all property lines is the larger of 500 feet or the district's maximum, and covers generators and substations.
+
+Noise
+
+Douglas County
 
 In the area governed by the county’s East Wenatchee urban growth area zoning, site design, construction and operation of data centers, including cooling equipment, must meet the cited environmental noise limits at or beyond the boundary or where adjacent buildings are affected.
 
-New buildings must break up blank exterior walls
+Site design
+
+Douglas County
 
 The East Wenatchee urban growth area design standards for blank walls apply to new data center structures under this county title except those in the general industrial zoning district.
 
-Quincy allows data centers in general industrial zoning
+Conditional use permit: data center in B-D and L-I districts
 
-Data centers require a conditional use permit in B-D and L-I; they are a permitted use in G-I. The R-1 and R-M cells are blank. This land-use classification does not itself issue a construction permit.
+City of Quincy Hearing Examiner
 
-Seattle pauses permits for new data centers
+Data centers need a conditional use permit in B-D and L-I and are permitted in G-I.
 
-All city zones pause applications to establish or expand a covered data center or change to that use, including accessory uses. The definition requires capacity over 20 MVA, a primary data-handling purpose and characteristic supporting infrastructure. The pause lasts 365 days from effectiveness unless shortened or extended.
+Moratorium on data center applications: Seattle, 365 days
 
-Which expansions qualify for Seattle’s exception
+Seattle City Council
 
-A facility already operating when the ordinance took effect may apply for an expansion of up to 20 additional MVA if it meets the data-center definition or fails that definition only because its existing capacity is 20 MVA or less. This is an exemption from the pause, not an approval.
+Seattle pauses applications for data centers over 20 MVA in all zones for 365 days unless shortened or extended.
 
-For projects with stormwater discharge to surface waters, screen one acre of disturbed land and the combined disturbance of a larger development. Ecology can designate smaller sites that significantly contribute pollutants.
+Exemption from data center pause: expansions of existing facilities up to 20 MVA
 
-Franklin Township prohibits new data centers
+Seattle City Council
 
-Franklin Township in Gloucester County prohibits data centers in all zoning districts. The definition includes remote computing and cloud facilities; an in-person computer lab or workstation facility is separately defined. This is not the identically named Somerset County township.
+An existing facility may apply to expand by up to 20 more MVA despite the pause.
 
-New Jersey directs construction disturbing at least one acre to obtain 5G3 authorization in addition to soil erosion and sediment control plan certification from the local Soil Conservation District.
+Construction stormwater general permit
 
-The city enacted a 120-day moratorium on new applications for data center and battery energy storage system development on July 27, 2026. The city describes a possible six-month extension; no later vote is inferred as of November 16. This is separate from Oregon enterprise-zone incentives.
+Washington Department of Ecology
 
-Oregon identifies 1200-C coverage for qualifying construction activity disturbing an acre or more, including cumulative disturbance over time or under a common plan. Submit an erosion and sediment control plan for approval before starting.
+Sites disturbing one acre or more that discharge stormwater to surface waters need coverage, and Ecology can designate smaller sites.
 
-Charlotte extends its pause on new applications
+Prohibition of data centers in all zoning districts: Franklin Township, Gloucester County
 
-Charlotte and its extraterritorial jurisdiction pause applications for new telecommunications and data storage facilities beginning November 6, 2026. The extension ends upon new rules or October 18, 2027, whichever comes first. State-law exemptions also remain.
+Township of Franklin, Gloucester County
 
-Some facilities serving their owner are exempt
+Franklin Township in Gloucester County prohibits data centers in all zoning districts.
 
-The moratorium exempts facilities primarily supporting internal operations of an institution, government, healthcare or telecom provider, or another permitted principal use, if they do not primarily provide processing to off-site users. This exception does not waive underlying zoning or construction requirements.
+Construction stormwater general permit 5G3
 
-The program applies at one acre of disturbance, including smaller components of a qualifying plan. NCG01 applies to sites subject to the DEMLR Sediment Program; NCG25 addresses other construction subject to the Clean Water Act.
+New Jersey Department of Agriculture / Soil Conservation Program
 
-Large facilities must stay a quarter-mile from homes, schools and churches
+Construction disturbing at least one acre needs 5G3 authorization and soil erosion plan certification.
 
-Pitt County also requires a 50-foot buffer inside the site boundary and limits height to 35 feet, except for transmission lines and utility poles.
+Moratorium on data center and battery storage applications: Hillsboro, 120 days
 
-A sound study must accompany the site plan
+City of Hillsboro
+
+Hillsboro adopted a 120-day moratorium on new data center and battery storage applications on July 27, 2026.
+
+Construction stormwater general permit 1200-C
+
+Oregon Department of Environmental Quality
+
+Construction disturbing an acre or more needs 1200-C coverage and an approved erosion control plan before starting.
+
+Moratorium on telecommunications and data storage facility applications: Charlotte, to Oct. 18, 2027
+
+Charlotte City Council
+
+Charlotte and its extraterritorial area pause new applications from November 6, 2026 until new rules or October 18, 2027.
+
+Exemption from moratorium: facilities supporting internal operations
+
+Charlotte City Council
+
+Facilities mainly supporting an owner's internal operations are exempt from the pause, but underlying zoning and construction requirements still apply.
+
+Construction stormwater general permits NCG01 and NCG25
+
+North Carolina Department of Environmental Quality
+
+Construction disturbing one acre needs NCG01 coverage for sediment program sites, or NCG25 for other sites.
+
+Separation standard: large-scale data processing facilities 1,320 ft from churches, schools and homes
+
+Pitt County
+
+Pitt County also requires a 50-foot buffer inside the site boundary and a 35-foot height limit.
+
+Application requirements: large-scale data processing facility, including acoustic study
+
+Pitt County
 
 The application must show nearby homes, churches and schools, describe the project, and carry the owner’s and operator’s signatures.
 
-Grid connection is required before occupancy
+Grid connection and backup generation limits: testing up to four hours per month
 
-Backup generators may run during grid emergencies. Routine testing is limited to four hours per month.
+Randolph County
 
-An engineer must certify the cooling plan
+Backup generators may run during grid emergencies.
 
-The plan must minimize water use. For a liquid-cooled facility, it must also identify the water source and daily use.
+Cooling system engineer certification: closed-loop water or liquid cooling
 
-Keep outdoor equipment 1,000 feet from homes and schools
+Randolph County
+
+The plan must minimize water use.
+
+Setback: outdoor equipment 1,000 ft from residences and sensitive uses
+
+Randolph County
 
 The same minimum distance applies to daycares, churches, hospitals, camps, parks and other listed community facilities.
 
-Randolph County uses a special industrial zoning district
+Conditional district rezoning: data processing facility in HI-CD district
 
-A site must be in the Heavy Industrial Conditional District. A general industrial designation does not give the project permission by right.
+Randolph County Planning Board, appealable to the Board of Commissioners
 
-Only the C-3 Commercial district allows data centers
+A site must be in the Heavy Industrial Conditional District.
 
-The operator must also get a special use permit. The rule covers facilities that store, process or distribute data remotely.
+Special use permit: data center in C-3 Commercial district
 
-Include a sound study and equipment layout
+Saluda City Council
+
+The operator must also get a special use permit.
+
+Application requirements: project narrative, site plan and acoustical study
+
+City of Saluda
 
 The application must describe the project, access and screening and include an acoustical engineer’s findings and proposed noise controls.
 
-Get the utility’s approval before installation
+Utility approval before installing a grid-connected system: C-3 data center
 
-Grid-connected systems need evidence of that approval. Off-grid systems are exempt.
+City of Saluda
 
-The township prohibits the defined data center use in every township zoning district. This is Barry Township, Pine County; it does not apply to the City of Barry in Big Stone County.
+Grid-connected systems need evidence of that approval.
 
-Which building permits can continue during the pause
+Prohibition of data centers in all zoning districts: Barry Township, Pine County
 
-The building-permit pause preserves specified repair, tenant improvement and commercial-building exceptions. An existing or approved data center may install equipment or build/expand under the listed exception only if the improvement will not allow use above 9 MW.
+Barry Township
 
-Eagan’s pause depends on size or distance from homes
+Data centers are prohibited in every zoning district of Barry Township, Pine County.
 
-The interim study pauses new/expanded data-center applications, rezonings and use permits for primary digital-data facilities using more than 20 MW or proposed within 500 feet of residentially zoned or residentially guided property. It ends February 17, 2027 unless the council ends it earlier.
+Building-permit exceptions during the data center interim use pause: Eagan
 
-Minnesota's construction activity definition includes clearing, grading and excavation that disturbs at least one acre, and smaller disturbance within a development or sale plan that in total reaches one acre.
+Eagan City Council
 
-The county table designates data centers/server farms conditional in Industrial and Heavy Industrial and not allowed in the six other listed districts. Applies where the county ordinance governs, not automatically within incorporated cities.
+Repair, tenant-improvement and commercial-building work can still get building permits during the pause under the listed exceptions.
 
-Missouri requires land disturbance permits for construction disturbing at least one acre. Smaller phases count when their common development or sale plan cumulatively reaches one acre over its life.
+Interim use pause on data center applications: Eagan, over 20 MW or within 500 ft of homes
 
-Boulder County limits data centers to under 50 kW
+Eagan City Council
 
-The county allows centers below 50 kilowatts in its Light Industrial and General Industrial districts. The change covers unincorporated land; cities set their own zoning.
+New or expanded data center applications over 20 MW, or within 500 feet of homes, are paused during the study.
 
-Colorado requires a division permit before discharging a pollutant from a point source to state water and prohibits routing it through a ditch or man-made conveyance to avoid the requirement. This is the general statutory discharge trigger; it does not establish the construction CGP acreage, exemptions or eligibility.
+Construction stormwater permit requirement: Minn. R. ch. 7090
+
+Minnesota Office of the Revisor of Statutes / Pollution Control Agency
+
+Construction that disturbs one acre or more, or smaller parts of a plan reaching one acre, needs this permit.
+
+Conditional use permit: data center in Industrial and Heavy Industrial districts
+
+Sherburne County Board of Commissioners, after Planning Advisory Commission review
+
+A data center needs a conditional use permit in the Industrial and Heavy Industrial districts and is barred in six others.
+
+Construction stormwater general permit
+
+Missouri Department of Natural Resources
+
+Construction disturbing one acre or more needs a Missouri land disturbance permit; smaller phases count when the plan reaches one acre.
+
+Permitted use: data center under 50 kW in Light Industrial and General Industrial districts
+
+Boulder County Board of County Commissioners
+
+The county allows centers below 50 kilowatts in its Light Industrial and General Industrial districts.
+
+Discharge permit requirement: C.R.S. § 25-8-501(1)
+
+Colorado General Assembly, Office of Legislative Legal Services
+
+Discharging a pollutant from a point source to state water needs a division permit; routing it through a ditch is prohibited.
+
+Environmental and community impact analysis: data center application
+
+Village of Hillman
 
 The applicant must provide an environmental and community impact analysis before the public hearing.
 
-The application must include a site plan and a sound-modeling study showing sound contours out to all lot lines and dwellings on nonparticipating properties within 500 feet of the lot boundary.
+Sound-modeling study: data center site plan application
 
-Two village districts allow data processing facilities by right
+Village of Hillman
 
-The Commercial and Light Industrial & Warehousing districts allow the village’s defined mainframe facilities. An ordinary office does not qualify under that definition.
+Applications must include a site plan and a sound-modeling study with contours to all lot lines and homes within 500 feet.
 
-Parking is capped at four spaces per 1,000 square feet
+Permitted use: data processing facility in Commercial and Light Industrial & Warehousing districts
+
+Village of Mancelona
+
+The Commercial and Light Industrial & Warehousing districts allow the village’s defined mainframe facilities.
+
+Parking maximum: four spaces per 1,000 sq ft for data processing facilities
+
+Village of Mancelona
 
 This is a maximum in both districts where the village allows data processing facilities.
 
-One or more disturbed acres with a point-source stormwater discharge to state waters falls under the state construction program. For eligible smaller sites, Part 91 authorization can provide automatic coverage; at five acres or more EGLE requires a notice of coverage application to the Water Resources Division.
+Construction stormwater general permit: Part 91 and NPDES construction program
 
-Rochester extends its development pause by 180 days
+Michigan Department of Environment, Great Lakes, and Energy
 
-The city added 180 days to the data-center development moratorium previously scheduled to end September 5, 2026. It exempts a development or building with approved site plans or complete plans submitted for site-plan approval by February 23, 2026. Earlier repeal remains possible.
+Construction that disturbs one or more acres and discharges stormwater to state waters falls under the state construction program.
 
-Which construction work the QTS agreement allows
+Moratorium extension on data center development: Rochester Hills, 180 days
 
-For the QTS property, the development agreement provides for site-plan entitlement for the full campus and allows an excavation permit before site-plan approval. Building plans go to third-party reviewers; review fees are paid to the City. This is a parcel-specific agreement, not a citywide exemption.
+Rochester Hills City Council
 
-Nonresidential construction uses Utah's general construction permit at one acre or more, including qualifying sub-acre disturbances within a common plan. The separately named Common Plan Permit on this page is for certain single residential lots.
+The city added 180 days to its data center development moratorium that had been set to end September 5, 2026.
 
-Notify the water provider before construction
+Development agreement: site-plan entitlement for the QTS campus
 
-Starting July 1, 2026, operators of qualifying new large data centers must give the provider written consumption estimates and report project water information to the division 90 to 360 days before construction.
+Eagle Mountain City Council, after Planning Commission advisory review
 
-Report how much water a large facility will need
+The QTS development agreement covers site-plan entitlement for the full campus and allows an excavation permit before site-plan approval.
 
-Before approving a land-use application for a new large data center, a municipal or county land-use authority must notify the Division of Water Rights, Division of Water Quality and any relevant water provider. The definition combines at least 75 acre-feet in annual withdrawals with at least 10,000 square feet and qualifying IT use, infrastructure, ownership/lease and parcel tests. New means starting operations on or after July 1, 2026.
+Construction stormwater general permit: Utah UPDES
 
-Where Dubuque permits large data centers
+Utah Department of Environmental Quality, Division of Water Quality
 
-Ordinance 37-26 pauses new and pending city applications for six months from effectiveness unless changed. Any one trigger suffices: gross floor area over 100,000 square feet, planned or actual demand over 75 MW, at least 5,000 servers, or cooling/operational water use of at least 50 gallons per minute. Exceptions cover minor work at existing non-hyperscale facilities, emergency safety work and city IT. Adopted September 21, 2026; effective upon publication, not independently dated here.
+Nonresidential construction needs the general construction permit at one acre or more, including qualifying sub-acre disturbances in a common plan.
 
-When construction runoff needs permit coverage
+Water consumption estimate and project water report: new large data center
 
-For construction disturbing at least one acre, obtain coverage under General Permit No. 2 and maintain a pollution prevention plan through stabilization.
+Utah Legislature
 
-Check where process wastewater will go
+From July 1, 2026, operators of new large data centers must report water use 90 to 360 days before construction.
 
-Surface-water disposal of cooling blowdown requires an NPDES permit. Discharge into a city sewer instead invokes local pretreatment requirements.
+Land-use authority notice to water agencies: new large data center application
 
-When taking water requires a state permit
+Utah Legislature
 
-Iowa DNR requires a water withdrawal permit when an entity takes at least 25,000 gallons from surface water or groundwater in any 24-hour period. A center buying municipal water generally uses supply covered by the utility’s permit.
+Before approving a new large data center, a city or county must notify the state water divisions and the water provider.
 
-County zoning requires a designated data center site
+Moratorium
 
-In the county zoning jurisdiction, a data-center site plan requires placement in the Critical Digital Infrastructure Overlay Zone and Limited Industrial or General Industrial base zoning. The 2,614-acre overlay is mapped in the Eastalco Community Growth Area. Do not infer approval of a particular parcel or applicability inside the City of Frederick.
+City of Dubuque, official code publisher
 
-Maryland's 20-CP covers qualifying construction disturbing at least one acre and smaller disturbances in a common development that will ultimately disturb that much land.
+Ordinance 37-26 pauses new and pending city applications for six months from effectiveness unless changed.
 
-Consultation for projects seeking Cherokee Nation support
+NPDES General Permit No. 2: construction stormwater
 
-The Nation will not consider supporting hyperscale development on non-tribally-owned land within the reservation without consultation addressing cultural and natural resources and community engagement. This conditions tribal support; it does not assert tribal permitting control over every parcel.
+Iowa Department of Natural Resources
 
-Cherokee Nation bars new data centers on specified lands
+Construction disturbing one acre or more needs General Permit No. 2 and a pollution prevention plan.
 
-The Principal Chief announced a tribal land-management policy banning hyperscale data-center development on tribally owned and trust lands. This is not an Oklahoma-wide rule or a ban across the entire reservation.
+NPDES permit: surface-water discharge of cooling blowdown
 
-Oklahoma directs owners or operators disturbing one acre or more to OKR10. It describes smaller activities within a common plan that exceeds one acre as covered as well.
+Iowa Department of Natural Resources
 
-An accessory data-center tower may not exceed 100 feet or lie within 200 feet of the property boundary unless the Board of Adjustment allows greater height or a different location by special exception.
+Discharging cooling blowdown to surface water needs an NPDES permit; sending it to a city sewer triggers local pretreatment rules.
 
-The 2024 zoning amendment classified data centers as Low-impact Manufacturing and Industry. The later March 2026 moratorium temporarily affects new data centers despite that classification. Proposed ZCA-41 standards are not treated as adopted here.
+Water withdrawal permit: 25,000 gallons or more in 24 hours
 
-City planning staff report the Council declared a March 25, 2026 moratorium on new data centers through December 31, 2026. This records the adopted pause, not a future extension or a permanent change to the use table.
+Iowa Department of Natural Resources
 
-Minimum parking depends on floor use: one space per 1,000 square feet of office, and 0.15 space per 1,000 square feet of warehouse, storage or technology-equipment area.
+A permit is required when an entity takes at least 25,000 gallons from surface water or groundwater in a day.
 
-When the existing Lowell facility can keep operating
+Critical Digital Infrastructure Overlay Zone: data center site plan
 
-Lowell identifies its existing data-center property as Light Industrial. Its planning department states that a lawfully pre-existing nonconforming use may continue until a change of use or abandonment for two years. This site guidance does not grant new data centers district-wide permission, and the city describes its permanent zoning rewrite as pending.
+Frederick County Division of Planning and Permitting
 
-Madison’s temporary pause on data center approvals
+A data center site plan must be in the overlay zone and in Limited Industrial or General Industrial base zoning.
 
-Madison reports its adopted one-year moratorium prevents zoning approvals and, consequently, building and occupancy permits for new principal-use data or telecommunications centers above 10,000 square feet. The stated end is January 24, 2027 unless replaced sooner by a new ordinance. The city’s October 2026 zoning framework is a draft.
+Construction stormwater general permit 20-CP
 
-Data centers cannot qualify under the listed utility/transmission, professional-office, similar-special-use, materials warehousing or wireless-communications categories. These exclusions alone do not establish a townwide ban.
+Maryland Department of the Environment
 
-Landowners of most projects disturbing one acre or more must send a notice of intent to request coverage. Phased disturbance in common developments can count even if work occurs on different schedules.
+Construction disturbing one acre or more, or smaller parts of a plan reaching an acre, needs coverage under 20-CP.
 
-Nebraska's NER210000 applies at one disturbed acre and to smaller construction within a qualifying common plan. The archived permit states an expiration of November 30, 2026; check its successor for later work.
+Consultation requirement before Cherokee Nation support: hyperscale development
 
-Which Sarpy County districts allow a data center
+Cherokee Nation
 
-Data centers are listed among permitted principal uses in the Heavy General Business (BGH) and Light Industrial (IL) districts of the county zoning jurisdiction. District development, overlay and building requirements remain applicable.
+The Nation will not support hyperscale development on non-tribal reservation land without consultation on cultural and natural resources.
 
-General Business zoning requires a special use permit
+Ban on hyperscale data centers: tribally owned and trust lands
 
-In the county’s General Business (BG) district, data centers require a special use permit. This is county zoning; it is not automatically the rule within Papillion or another municipality.
+Cherokee Nation
 
-Metro staff also pause acceptance and further processing of building-permit applications to repurpose existing structures for a data center or telecommunications hotel. This provision targets adaptive reuse; it is not a blanket ban on all construction by every city in Jefferson County.
+Hyperscale data center development is banned on tribally owned and trust lands of the Cherokee Nation.
 
-Louisville Metro staff and named planning and adjustment boards pause rezoning, conditional use and Plan Certain Category 2B and 3 development plans proposing data centers or telecommunications hotels. Applications already scheduled for a public hearing at effectiveness may continue. The 180-day period can end on final permanent rules, repeal or extension.
+Construction stormwater general permit OKR10
 
-Kentucky's construction stormwater program applies to clearing, grading or excavation disturbing one acre or more, and to smaller components of a qualifying common development. Operators must plan for and implement stormwater controls.
+Oklahoma Department of Environmental Quality
 
-Applications already scheduled for a public hearing on the effective date may continue to be processed and decided by the planning and zoning bodies. Earlier filing alone is not the stated test.
+Owners or operators disturbing one acre or more must obtain OKR10 coverage, including smaller activities within a larger common plan.
 
-Which Switchgrass lots allow data centers
+Special exception: accessory data center tower over 100 ft or within 200 ft of the boundary
 
-Inside Switchgrass Industrial Park PUD only, data centers are a permitted light-industrial use on lots 1–5. This is a site-specific district rule; no conclusion about other county lands or construction permits follows.
+Tulsa Board of Adjustment
 
-Wyoming lists separate small (one to under five acres) and large (at least five acres) construction stormwater permits. A smaller disturbance can fall into either category based on the ultimate common-plan size.
+An accessory data center tower may not exceed 100 feet or stand within 200 feet of the boundary without a special exception.
 
-Rules for backup generators
+Zoning classification: data center as Low-impact Manufacturing and Industry
 
-Temporary noise exceedances are allowed during grid interruptions or weekday generator testing from 9 a.m. to 5 p.m.; only one generator may be tested at a time.
+City of Tulsa
 
-Capacity determines how Bismarck classifies a facility
+The 2024 zoning amendment classified data centers as Low-impact Manufacturing and Industry.
 
-Bismarck uses total connected electrical load or designed capacity: micro is 100 kW or less; minor is greater than 100 kW through 6 MW inclusive; major is over 6 MW. Accessory data processing at another principal use is excluded from the primary facility definition.
+Moratorium on new data centers: Tulsa, March 25 to December 31, 2026
 
-Noise limits at the project boundary
+City of Tulsa
 
-Minor centers submit manufacturer specifications or model noise at adjacent property lines. Major centers submit a study modeling to one-half mile from the property lines. The city may require a post-construction noise study.
+The Council declared a moratorium on new data centers from March 25, 2026 through December 31, 2026.
 
-Separation from residential property
+Minimum parking: 1 space per 1,000 sq ft office and 0.15 per 1,000 sq ft equipment area
 
-For major centers sharing a property line with a preexisting residential use or an RS, RR, RRE or RU district, structures and equipment must be at least 1,000 feet from that shared line.
+City of Tulsa
 
-What to include with the zoning application
+Parking is one space per 1,000 square feet of office and 0.15 per 1,000 of warehouse or equipment area.
 
-Site plan and special-use applications must describe designed electrical capacity, cooling, project life, truck and passenger trips during construction and operation, construction phasing and applicable wastewater discharge management.
+Lawful nonconforming use: existing Lowell data center in Light Industrial district
 
-Where a small accessory facility is allowed
+City of Lowell Department of Planning and Development
 
-A micro facility is allowed only as an accessory or secondary use in OX, CX, CG, IX, IG, A or PCI, or inside the fenced perimeter of a utility or telecommunications use in any district.
+A lawfully pre-existing nonconforming use may continue until a change of use or two years of abandonment.
 
-Large centers need special approval in industrial zoning
+Moratorium on zoning approvals: new data centers over 10,000 sq ft, Madison, one year
 
-Major centers need special-use approval in IG. Minor centers may operate by right in IG and with special-use approval in IX or CG. The industrial classification alone does not establish the approval route.
+City of Madison, Department of Planning and Community and Economic Development
 
-Get written confirmation of utility capacity
+The one-year moratorium blocks zoning approvals for new principal-use data centers over 10,000 square feet.
 
-Written verification is required from the electric provider for power capacity and from the municipal utility director for water capacity covering both operations and fire suppression.
+Use classification: data center excluded from utility, office, warehousing and wireless categories
 
-North Dakota's program FAQ sets a one-acre disturbance threshold including sub-acre portions of a development whose combined disturbance reaches one acre.
+Town of Marshfield (Fond du Lac County)
 
-The broad NAICS 518 data-processing category is marked permitted in C-1, C-2, O-I and M-1; M-2 and the residential columns are blank. The city specifically identifies M-1 as permitting its data-center projects. The industry row is not an automatic determination that every project component or another NAICS category qualifies.
+Data centers cannot qualify under the listed utility, office, special-use, warehousing or wireless categories.
 
-The city interprets its M-1 Light Industrial district as permitting data centers. A proposed use must still satisfy site-plan, utility, building and other applicable requirements; permitted-use status is not authorization to break ground.
+Construction stormwater general permit: Wisconsin notice of intent
 
-After submission of a complete construction stormwater notice of intent or rainfall erosivity waiver application with supporting documents, Kansas gives the secretary 45 days to authorize, waive or deny, subject to conflicting federal law. This state decision deadline is not automatic authorization or an acreage threshold.
+Wisconsin Department of Natural Resources
 
-The board extended interim development control to December 24, 2026. The original county measure concerns data-center land-use and building applications in unincorporated Sedgwick County. It does not enact Wichita city limits as a separate coverage area.
+Landowners of most projects disturbing one acre or more must send a notice of intent to request coverage.
 
-South Carolina lists one acre, smaller phases in a common development, and a distinct Coastal Zone screen for construction within half a mile of a receiving water. Check the coastal program before using acreage alone.
+Construction stormwater general permit NER210000
 
-Springdale classifies electronic data storage as an office use
+Nebraska state environmental permitting agency
 
-The definition includes computer equipment used to process, store or route electronic data. Check the parcel’s district separately.
+The permit applies at one disturbed acre and to smaller parts of a common plan; the archived permit expires November 30, 2026.
 
-One disturbed acre or a qualifying common plan totaling one acre triggers construction coverage. At Lake Martin, nonexempt disturbance below one acre also requires coverage under the special designation.
+Permitted use: data center in Heavy General Business (BGH) and Light Industrial (IL) districts
 
-For locally approvable private projects from one to under five acres, the state table specifies local approval and an erosion and sediment control plan without separate state registration. The locally approvable private category at five or more acres also requires registration.
+Sarpy County Board of Commissioners
 
-Certified projects are also excluded from county or municipal building permitting, inspection, code enforcement and local license requirements under the cited statute. This does not establish an exemption from state or federal environmental requirements.
+Data centers are permitted principal uses in the Heavy General Business (BGH) and Light Industrial (IL) districts.
 
-West Virginia requires operators disturbing at least one acre, or smaller sites in a qualifying common plan, to obtain authorization for construction stormwater discharge under its WV/NPDES program.
+Special use permit: data center in General Business (BG) district
 
-A facility or group must meet all statutory tests, including equipment use and common or affiliated ownership, operation or leasing; aggregate critical IT load of at least 90 MW; and in-service date on or after July 1, 2025. Critical IT load is distinct from total campus electricity demand.
+Sarpy County Board of Commissioners
 
-A qualifying petitioner must apply to the Secretary within 30 days after learning it will meet, or after satisfying, the statutory definition. The petition must give proposed critical IT and total load; the rule also requests proposed acreage, location, utility power-study information and project milestones.
+A data center in the county General Business district needs a special use permit.
 
-State law preempts county and municipal zoning, noise, viewshed, lighting, development or land-use restrictions and approvals for certified microgrid districts and certified high-impact data centers. Do not apply this to an uncertified facility based on size alone.
+Building-permit pause: reuse of existing structures for data centers or telecommunications hotels
 
-How much land will grading disturb?
+Louisville/Jefferson County Metro Government
 
-New Hampshire counts earthmoving over ten years. Disturbing more than 100,000 square feet meets one test for significant terrain alteration; the threshold falls to 50,000 if any of the disturbance is in protected shoreland. Other triggers and permit-by-rule provisions can apply.
+Metro staff stop accepting and processing building permit applications to repurpose existing structures for a data center or telecommunications hotel.
 
-By 1,335 yes to 143 no, voters adopted a 12-month moratorium on acceptance, processing, approval or issuance of permits or approvals for establishing, building, expanding or operating data centers. The official results are handwritten on the ballot; the measure is town-wide.
+Moratorium on rezoning, conditional use and development plans: data centers and telecommunications hotels
 
-The general site-plan regulations cover nonresidential development and redevelopment, including alterations, additions or extensions. Section 1.2.2 separately permits the Director to exempt small projects meeting its three criteria. This does not classify a data center as a permitted use.
+Louisville/Jefferson County Metro Government
 
-Within the Pease International Tradeport the Pease Development Authority land-use controls are distinct from Portsmouth municipal land-use rules. Do not apply the city rules to a parcel merely because it has a Portsmouth address.
+Louisville Metro pauses rezoning, conditional use and certain development plan applications for data centers or telecommunications hotels.
 
-Hawaii's Clean Water Branch directs applicants to construction stormwater coverage when one acre is disturbed or a smaller site belongs to a development that cumulatively disturbs at least one acre.
+Construction stormwater general permit: Kentucky
 
-Arkansas's permit effective November 1, 2026 includes qualifying construction disturbing at least one acre in total, including smaller component areas. Eligible small sites receive automatic coverage subject to the conditions in Part I.B.6.
+Kentucky Energy and Environment Cabinet, Division of Water
 
-Which industrial districts allow a data center
+Clearing, grading or excavation disturbing one acre or more, or smaller parts of a common plan, needs the general permit.
 
-Conway’s enacted use table lists both Limited and General data centers as conditional in I-1 and as permitted (X) in I-3. The General designation is a secondary use and also conditional across the other listed districts; the Limited designation’s remaining cells are blank. Both definitions expressly cover digital asset mining.
+Exception for applications already scheduled for hearing: Louisville Metro pause
 
-Submit a noise study and a plan to reduce noise
+Louisville Metro Council
 
-For a data-center conditional use application, submit building plans, a noise study and a noise attenuation plan. Planning and Development staff can also request utility-use information.
+Applications already scheduled for a public hearing on the effective date may continue to be processed and decided.
 
-When excavation needs a grading permit
+Permitted use: data center on lots 1–5, Switchgrass Industrial Park PUD
 
-County Planning and Development directs applicants to obtain an excavation and grading permit for excavating or grading. Its general building guidance separately addresses construction and occupancy changes.
+Laramie County
 
-Which earlier applications are exempt from the pause
+Inside Switchgrass Industrial Park PUD only, data centers are a permitted light-industrial use on lots 1–5.
 
-The pause excludes permits already issued and permits whose related application was requested from, filed with, or issued by the Board. Other county authority over those permits and construction is preserved.
+Construction stormwater general permit: small and large construction permits
 
-Bannock County pauses new applications for 180 days
+Wyoming Department of Environmental Quality
 
-Ordinance 2026-02 pauses receipt, processing and approval of data-center applications for 180 days following July 30, 2026. Its reach is unincorporated Bannock County; the county identifies January 26, 2027 as the end.
+Wyoming has separate permits for sites of one to under five acres and for sites of five acres or more.
 
-Idaho DEQ requires construction CGP coverage where at least one acre is disturbed and stormwater discharges, including qualifying smaller common-plan sites. DEQ describes a low-erosivity waiver for eligible projects under five acres.
+Backup generator noise exceptions: grid interruptions and weekday testing
 
-Alaska's 2026 general permit covers qualifying construction disturbing at least one acre when discharges enter U.S. waters directly or through a conveyance or enter a municipal separate storm sewer. Check EPA-retained areas separately.
+City of Bismarck
 
-County pauses new and expanded data centers outside cities
+Noise limits may be exceeded during grid interruptions and weekday generator testing, 9 a.m. to 5 p.m.
 
-On July 9, 2026 the county adopted interim zoning pausing new or expanded data centers for one year outside Missoula city limits. The city is a separate jurisdiction.
+Data center size classes: micro, minor and major by connected load
 
-Montana requires SWC authorization for qualifying construction disturbing at least one acre. Its program includes excavation, grading, grubbing and placing or removing earth in the disturbance screen.
+City of Bismarck
 
-Two county permits are required
+A micro facility is 100 kW or less, a minor facility is up to 6 MW, and a major facility is over 6 MW.
 
-In the area zoned by Brown County, a data center needs conditional use approval and a building permit. The rule also covers changes beyond routine maintenance.
+Noise study: minor and major data centers
 
-The usual buffer is one mile
+City of Bismarck
 
-The county measures between property lines. A shorter distance requires noise evidence and can never be less than half a mile.
+Minor centers submit manufacturer specifications or modeled noise at property lines; major centers submit a study modeled to one-half mile.
 
-Grid-connected projects need the utility’s approval
+Residential separation: major data centers 1,000 ft from shared residential boundary
 
-The operator must show that the utility has the capacity and infrastructure to serve the project. Off-grid systems are exempt.
+City of Bismarck
 
-How to report hazardous materials on site
+A major data center must keep structures and equipment 1,000 feet from residential use or residential districts.
 
-Ordinance 2025-1 as adopted: Use, storage, or anticipated use or storage of more than 2,000 gallons of hazardous materials at the site triggers an environmental study of containment failure, submitted to county commissioners.
+Site plan and special use application contents: data centers
 
-An acoustical engineer must study predicted noise
+City of Bismarck
 
-Ordinance 2025-1 as adopted: Application materials include an acoustical engineer’s study of predicted noise and proposed mitigation.
+Applications must describe electrical capacity, cooling, project life, trip counts, construction phasing and wastewater management.
 
-Agricultural zoning requires a conditional use permit
+Accessory use: micro data center in OX, CX, CG, IX, IG, A or PCI
 
-Ordinance 2025-1 as adopted: Data processing centers are a conditional use in the Agricultural Land District. The definition includes certain computationally intensive facilities and supporting infrastructure.
+City of Bismarck
 
-Show the project can connect to the electric grid
+A micro facility is allowed only as an accessory or secondary use in the listed districts.
 
-Ordinance 2025-1 as adopted: The county may not issue a grid-connected project permit without evidence of electric-utility approval; off-grid systems are exempt from this particular requirement.
+Special use approval: major data center in IG district
 
-South Dakota includes one-acre construction, qualifying larger common plans, phased construction and related support activities in its construction stormwater permitting screen.
+Bismarck Planning and Zoning Commission
 
-Delaware directs construction with at least one acre of land disturbance to submit a notice of intent before plan approval and comply with the Delaware CGP.
+A major data center needs special use approval in IG; a minor one is allowed by right in IG.
 
-Maine's state stormwater law requires prior department approval for covered projects disturbing at least one acre in organized areas. This is the state statutory project-approval trigger; it does not establish eligibility for a separate discharge permit.
+Utility capacity verification: power and water for data centers
 
-Rhode Island defines small construction stormwater discharges to include clearing, grading or excavation disturbing one to under five acres, including smaller disturbances within a qualifying larger plan. The definition concerns discharges, not zoning approval.
+City of Bismarck
 
-Energy documents for a commercial building application
+Applicants need written verification of power from the electric provider and water, including fire suppression, from the city.
 
-For new construction, additions and Level 3 alterations, the District requires an energy worksheet through January 31, 2027. Commercial-code applicants may instead use COMcheck for energy compliance and select the DC 2017 Energy Code.
+Construction stormwater general permit: North Dakota
 
-When a building needs a new occupancy certificate
+North Dakota Department of Environmental Quality
 
-The District calls for a new certificate of occupancy after new construction or alteration, or a change in ownership, occupancy load or use. The certificate checks the building’s use against zoning and building codes.
+Sites disturbing one acre or more, including sub-acre parts of a development that reaches an acre, need permit coverage.
 
-A permit to begin operating a nonresidential building
+Use classification: data processing (NAICS 518) permitted in C-1, C-2, O-I and M-1
 
-Puerto Rico’s permit office directs new and existing nonresidential buildings and businesses to obtain a Permiso Único to begin or continue operations. This is separate from the permit for construction.
+City of De Soto
 
-Vermont requires coverage for construction disturbing at least one acre and for smaller portions of a larger common plan that reaches the threshold. Review the permit's stabilization and concurrent-disturbance requirements as well.
+The data-processing category is permitted in C-1, C-2, O-I and M-1; M-2 and residential columns are blank.
 
-Land use approval for work that may harm coastal resources
+Permitted use: data center in M-1 Light Industrial district
 
-A developer proposing work that could harm coastal resources must apply for a land use permit unless the law exempts the work.
+City of De Soto
 
-Where to apply for a building permit in Guam
+The city interprets its M-1 Light Industrial district as permitting data centers.
 
-Guam accepts building permit applications at the Business License and Permit Center at Public Works in Upper Tumon. The center brings together land management, fire and other reviewing agencies.
+Construction stormwater general permit: notice of intent, 45-day decision
 
-Clearing or construction may need coastal approval
+Kansas Legislature / Kansas Secretary of State
 
-If the project falls under coastal management jurisdiction, the developer must obtain written approval before work starts. Major siting applications require a public hearing.
+After a complete notice of intent or erosivity waiver application, the secretary has 45 days to authorize, waive or deny.
 
-The Saipan law applies conditional review to uses designated by §404; the Board may identify others. Applicants must show compatibility and adequate public facilities, including roads, drainage, potable water and sanitary sewer. This general rule concerns Saipan only and does not classify data centers.
+Interim development control extension: data centers, unincorporated Sedgwick County, to December 24, 2026
 
-Coastal zoning review in the first tier
+Sedgwick County
 
-The territory reviews proposed development in its designated first-tier coastal zone. Check the parcel boundary before assuming coastal review applies.
+The board extended interim development control for data center applications in unincorporated Sedgwick County to December 24, 2026.
 
-For a project covered by the territorial construction general permit, DPNR's posted application directions require a notice of intent, fees and a stormwater pollution prevention plan developed or reviewed and stamped by a VI-licensed professional engineer. The precise acreage boundary is not resolved by these directions.
+Construction stormwater general permit: South Carolina
+
+South Carolina Department of Environmental Services
+
+Coverage applies at one acre, to smaller phases of a common plan, and within half a mile of Coastal Zone waters.
+
+Use classification: electronic data storage center as Office
+
+Town of Springdale
+
+The definition includes computer equipment used to process, store or route electronic data.
+
+Construction stormwater general permit: Alabama
+
+Alabama Department of Environmental Management
+
+One disturbed acre, or a common plan totaling one acre, triggers coverage; Lake Martin has a lower trigger.
+
+Construction stormwater general permit: Connecticut
+
+Connecticut Department of Energy and Environmental Protection
+
+Private projects of one to under five acres need local approval and an erosion control plan, with no state registration.
+
+Exemption from local building permits: certified high-impact data center
+
+State of West Virginia
+
+Certified projects are excluded from county and municipal building permitting, inspection and local license requirements.
+
+Construction stormwater general permit: WV/NPDES
+
+West Virginia Department of Environmental Protection
+
+Operators disturbing one acre or more, or smaller sites in a common plan, must obtain authorization for construction stormwater discharge.
+
+Definition of high-impact data center: 90 MW critical IT load, in service on or after July 1, 2025
+
+State of West Virginia
+
+A facility must meet every statutory test, including 90 MW of critical IT load and service on or after July 1, 2025.
+
+Petition for certification: high-impact data center, 145 CSR 20
+
+West Virginia Department of Commerce (Secretary of Commerce)
+
+A qualifying petitioner must apply to the Secretary within 30 days of learning it meets the definition.
+
+Preemption of local zoning and land-use approvals: certified high-impact data centers
+
+State of West Virginia
+
+State law preempts county and municipal zoning, noise, lighting and land-use restrictions for certified districts and certified data centers.
+
+Alteration of Terrain permit trigger: disturbance over 100,000 sq ft
+
+New Hampshire Department of Environmental Services
+
+Earthmoving over 100,000 square feet in ten years, or 50,000 in protected shoreland, meets one terrain-alteration test.
+
+Moratorium on data center permits and approvals: Nottingham, 12 months
+
+Town of Nottingham
+
+Voters adopted a 12-month moratorium on accepting, processing, approving or issuing permits for data centers by 1,335 to 143.
+
+Site plan review: nonresidential development and redevelopment
+
+City of Portsmouth Planning Board, after Site Plan Review Technical Advisory Committee recommendation
+
+Site plan review covers nonresidential development, including alterations and additions; the Director may exempt small projects that meet three criteria.
+
+Land-use authority: Pease Development Authority at Pease International Tradeport
+
+City of Portsmouth
+
+Within the Pease International Tradeport, Pease Development Authority land-use controls apply instead of Portsmouth city rules.
+
+Construction stormwater general permit: Hawaii
+
+Hawaii Department of Health, Clean Water Branch
+
+Coverage is needed at one acre disturbed, or when a smaller site is part of a development that totals one acre.
+
+Construction stormwater general permit ARR150000
+
+Arkansas Division of Environmental Quality
+
+The permit effective November 1, 2026 covers construction disturbing one acre or more in total, including smaller component areas.
+
+Conditional use: Limited and General data centers in I-1 and other districts
+
+Conway Planning Commission
+
+Limited and General data centers are conditional uses in I-1 and permitted in I-3.
+
+Noise study and noise attenuation plan: data center conditional use application
+
+City of Conway
+
+A data center conditional use application must include building plans, a noise study and a noise attenuation plan.
+
+Excavation and grading permit: Bannock County
+
+Bannock County
+
+Excavating or grading requires an excavation and grading permit from County Planning and Development.
+
+Exception for existing permits and applications: Bannock County data center pause
+
+Bannock County
+
+The pause excludes permits already issued and permits whose related application was requested, filed or issued by the Board.
+
+Moratorium on data center applications: Bannock County, 180 days after July 30, 2026
+
+Bannock County
+
+Ordinance 2026-02 pauses data center applications for 180 days; the county gives January 26, 2027 as the end.
+
+Construction stormwater general permit: Idaho IPDES
+
+Idaho Department of Environmental Quality
+
+Coverage is required where at least one acre is disturbed and stormwater discharges, including qualifying smaller common-plan sites.
+
+Construction stormwater general permit AKR100000
+
+Alaska Department of Environmental Conservation
+
+The 2026 permit covers construction disturbing one acre or more when discharges reach U.S. waters or a municipal storm sewer.
+
+Interim zoning pause on new or expanded data centers: Missoula County, one year
+
+Missoula County
+
+On July 9, 2026 the county paused new or expanded data centers outside Missoula city limits for one year.
+
+Construction stormwater general permit MTR100000
+
+Montana Department of Environmental Quality
+
+Qualifying construction disturbing one acre or more needs SWC authorization.
+
+Conditional use permit and building permit: data center in H-I and Agricultural districts
+
+Brown County Zoning Board of Adjustment, after Planning and Zoning Commission recommendation
+
+In the area zoned by Brown County, a data center needs conditional use approval and a building permit.
+
+Separation distance: one mile from listed sensitive properties
+
+Brown County
+
+The county measures between property lines.
+
+Utility approval and capacity verification: grid-connected data center
+
+Brown County
+
+The operator must show that the utility has the capacity and infrastructure to serve the project.
+
+Environmental study: more than 2,000 gallons of hazardous materials
+
+McPherson County
+
+Storing or using over 2,000 gallons of hazardous materials triggers an environmental study of containment failure.
+
+Acoustical engineer study: predicted noise and mitigation
+
+McPherson County
+
+Application materials include an acoustical engineer study of predicted noise and proposed mitigation.
+
+Conditional use permit: data processing center in Agricultural Land District
+
+McPherson County Zoning Board of Adjustment
+
+A data processing center is a conditional use in the Agricultural Land District.
+
+Utility approval for a grid-connected project permit
+
+McPherson County
+
+The county may not issue a grid-connected project permit without evidence of electric utility approval; off-grid systems are exempt.
+
+Construction stormwater general permit: South Dakota
+
+South Dakota Department of Agriculture and Natural Resources
+
+One-acre construction, larger common plans and phased construction fall within the permit screen.
+
+Construction stormwater general permit: Delaware CGP
+
+Delaware Department of Natural Resources and Environmental Control
+
+Construction with one acre or more of disturbance must submit a notice of intent before plan approval.
+
+Stormwater project approval requirement: 38 M.R.S. § 420-D
+
+Maine Legislature
+
+Projects disturbing one acre or more in organized areas need prior department approval.
+
+Construction stormwater permit requirement: 250-RICR-150-10-1 § 1.4(A)(112)
+
+Rhode Island Secretary of State / Department of Environmental Management
+
+Small construction discharges include clearing, grading or excavation disturbing one to under five acres, including parts of a larger plan.
+
+Energy worksheet or COMcheck: commercial building permit application
+
+Department of Buildings
+
+New construction, additions and Level 3 alterations need an energy worksheet through January 31, 2027, or COMcheck for commercial-code applicants.
+
+Certificate of occupancy
+
+Department of Buildings
+
+A new certificate is needed after new construction or alteration, or a change in ownership, occupancy load or use.
+
+Permiso Único: operating permit for nonresidential buildings
+
+Oficina de Gerencia de Permisos (OGPe)
+
+New and existing nonresidential businesses must obtain a Permiso Único to begin or continue operating.
+
+Construction stormwater general permit: Vermont
+
+Vermont Department of Environmental Conservation
+
+Coverage is required for construction disturbing one acre or more, and for smaller parts of a plan reaching that size.
+
+Land use permit: work that could harm coastal resources
+
+American Samoa Coastal Management Program
+
+Work that could harm coastal resources needs a land use permit unless the law exempts it.
+
+Building permit application: Business License and Permit Center
+
+Bureau of Statistics and Plans
+
+Guam accepts building permit applications at the Business License and Permit Center at Public Works in Upper Tumon.
+
+Coastal permit: written approval before work in coastal management jurisdiction
+
+Division of Coastal Resources Management
+
+If the project falls under coastal management jurisdiction, the developer must obtain written approval before work starts.
+
+Conditional use review: Saipan zoning law, uses designated by § 404
+
+Commonwealth Zoning Board (Saipan)
+
+Uses designated by § 404 get conditional review; applicants must show compatibility and adequate roads, drainage, water and sewer.
+
+Coastal zone permit review: first-tier coastal zone
+
+Department of Planning and Natural Resources
+
+The territory reviews proposed development in its designated first-tier coastal zone.
+
+Construction stormwater general permit: territorial construction general permit
+
+US Virgin Islands Department of Planning and Natural Resources
+
+Covered projects must submit a notice of intent, fees and a stormwater pollution prevention plan stamped by a VI-licensed professional.

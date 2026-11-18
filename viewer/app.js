@@ -24,9 +24,6 @@ function alternateStates(rows){const groups=new Map();for(const r of rows){if(!g
 function ruleTitle(r){if(r.topic==='use-permission'&&r.pathways.length){const paths=[...new Set(r.pathways.map(p=>nice(p.path)))].join(' / ');return paths+(r.district&&r.district.length<32?' · '+r.district:'')}return nice(r.topic)}
 function extLink(label,url){const a=el('a',label);a.href=url;a.target='_blank';a.rel='noopener';return a}
 async function fetchDetails(st){return window.PERMIT_DETAILS[st]??=(unpack(st+'-details'))}
-function showRaw(host,val){if(!val)return;if(typeof val==='string'){host.append(el('p',val));return}
- const useful=Object.entries(val).filter(([k,v])=>v!=null&&v!==''&&(!Array.isArray(v)||v.length)).sort(([a],[b])=>Number(!/description|classification|project_type|work_class|decision|status|activity/i.test(a))-Number(!/description|classification|project_type|work_class|decision|status|activity/i.test(b)));
- const dl=el('dl');for(const [k,v] of useful)appendField(dl,nice(k),Array.isArray(v)&&v.every(x=>typeof x==='string')?v.join('; '):v);host.append(dl)}
 const prTerms={
  'CONSULTA DE UBICACION':'Location consultation',
  'Determinación de Cumplimiento Ambiental vía Exclusión Categórica':'Environmental review: categorical exclusion',
@@ -41,14 +38,40 @@ const prTerms={
  'Permiso Único':'Unified operating permit',
  'Permiso de Corteza Terrestre':'Earthmoving permit'
 };
-function historyCard(r){const p=el('article',null,'rowcard history-card'),head=el('div',null,'cardhead');head.append(el('h3',r.project||r.record_no||r.kind),extLink('Source',r.url));p.append(head,el('div',[r.locality,r.county&&r.county!==r.locality?r.county:'',r.state,(r.project||'').includes(r.record_no)?'':r.record_no].filter(Boolean).join(' · '),'locality'),el('p',[r.state==='PR'?(prTerms[r.kind]||r.kind):r.kind,r.state==='PR'?({PERMIT_APPROVED:'Approved',PERMIT_CLOSED:'Closed',EXPIRED:'Expired','RESUELTO. ACLARA PARTICULARES':'Resolved; clarification issued'}[r.status]||r.status):r.status,r.federal_issuer].filter(Boolean).join(' · '),'strip brief'));if(r.preview&&(visible.length<=3||(r.record_no&&(r.project||'').startsWith(r.record_no))))p.append(el('p',r.preview,'permit-preview'));p.append(el('div',r.date||r.month?(r.date||r.month)+' · '+r.date_role:'Date not published','history-date'));
-const d=el('details',null,'record'),s=el('summary','Record details'),b=el('div',null,'recbody'),dl=el('dl');appendField(dl,'Permit status',r.permit_reason);if(r.state==='PR'&&prTerms[r.kind])appendField(dl,'Original register entry',r.kind+' · '+r.status);appendField(dl,'Register',r.dataset);appendField(dl,'Source locator',r.locator);appendField(dl,'Record ID',r.id);b.append(dl);d.append(s,b);p.append(d);
+const monthNames=['January','February','March','April','May','June','July','August','September','October','November','December'];
+function prettyDate(r){const d=r.date||'',m=r.month||'';if(/^\d{4}-\d{2}-\d{2}$/.test(d))return monthNames[+d.slice(5,7)-1]+' '+(+d.slice(8))+', '+d.slice(0,4);const v=d||m;if(/^\d{4}-\d{2}$/.test(v))return monthNames[+v.slice(5)-1]+' '+v.slice(0,4);return v}
+function historyTitle(r){return r.state==='PR'&&r.title_basis!=='official'&&prTerms[r.kind]?r.title.replace(r.kind,prTerms[r.kind]):r.title}
+const stemStatus=s=>String(s).toLowerCase().replace(/[^a-z]/g,'').slice(0,5);
+const statusCodes={'Date Issued':'Issued',PER_ISSUED:'Issued',PER_REISS:'Reissued',EFF:'Effective',EXP:'Expired'};
+function statusText(s){const t=String(s||'').trim();if(t.length<3)return '';const w=(statusCodes[t]||t).replace(/_/g,' ');return /[a-z]/.test(w)?w.replace(/^./,m=>m.toUpperCase()):w.toLowerCase().replace(/^./,m=>m.toUpperCase())}
+const roleVerbs=[[/^(permit )?(issue date|issuance( date)?|date issued)$/i,'issued'],[/^(application( received| submitted)?( date)?|filing date|form filed|intake date)$/i,'filed'],[/^(approval|decision) date$/i,'decided'],[/^effective date$/i,'effective']];
+function roleVerb(role0){const role=role0.replace(/\s*\([^)]*\)/g,'').trim().replace(/ completion date$/i,' completed');for(const [re,v] of roleVerbs)if(re.test(role))return v;return /^[A-Z]{2,}/.test(role)?role:role.replace(/^./,m=>m.toLowerCase())}
+function historySentence(r){const status=statusText(r.state==='PR'?({PERMIT_APPROVED:'Approved',PERMIT_CLOSED:'Closed',EXPIRED:'Expired','RESUELTO. ACLARA PARTICULARES':'Resolved; clarification issued'}[r.status]||r.status):r.status),when=prettyDate(r),role=String(r.date_role||'').trim();
+ if(!when)return status?status+'. No date published.':'No date published.';
+ const same=status&&role&&stemStatus(status)&&role.toLowerCase().includes(stemStatus(status).slice(0,4));
+ if(!role||/^(date not|status date)/i.test(role))return status?status+' on '+when+'.':when+'.';
+ const lower=roleVerb(role);
+ return same?status+' on '+when+'.':status?status+'; '+lower+' '+when+'.':role.replace(/^./,m=>m.toUpperCase())+' '+when+'.'}
+const rawDates=[['application_date','Filed'],['file_date','Filed'],['received_date','Received'],['issue_date','Issued'],['effective_date','Effective'],['expiration_date','Expires'],['termination_date','Ended']];
+const rawText=[['Description',['description','work_description','document_description','source_description']],['Type of work',['permit_type','work_class','work_type','application_type','case_type']],['Address',['address']]];
+const plainLocator=l=>l&&l.length<=100&&!/[=?]|https?:|OBJECTID|MatterId/i.test(l)&&/(page|\bp\.|\bpp\.|section|§|item|agenda|minutes|exhibit|sheet|attachment|pdf)/i.test(l);
+function historyDetails(dl,r,raw){const d=raw&&typeof raw==='object'?raw:{},seen=new Set();const first=keys=>{for(const k of keys){const v=d[k];if(typeof v==='string'&&v.trim()&&v!=='None')return v.trim()}return ''};
+ appendField(dl,'Source document',(()=>{const s=el('span');s.append(extLink('Open the record ↗',r.url));return s})());appendField(dl,'Where in the source',plainLocator(r.locator)?r.locator:'');
+ for(const [label,keys] of rawText){const v=label==='Description'?first(keys)||r.preview:first(keys);appendField(dl,label,v)}
+ appendField(dl,'Record number',r.record_no&&r.record_no.length<=40&&!r.record_no.includes(' / ')&&!r.title.includes(r.record_no)?r.record_no:'');appendField(dl,'Project',r.project&&!r.title.includes(r.project)&&r.project!==r.record_no&&!(r.record_no&&r.project.includes(r.record_no))&&r.project!==d.address?r.project:'');
+ const when=prettyDate(r);if(when){appendField(dl,(r.date_role||'Date').replace(/^./,m=>m.toUpperCase()),when);seen.add(when)}
+ for(const [k,label] of rawDates){const v=prettyIso(first([k]));if(v&&!seen.has(v)){appendField(dl,label,v);seen.add(v)}}
+ const status=r.state==='PR'?({PERMIT_APPROVED:'Approved',PERMIT_CLOSED:'Closed',EXPIRED:'Expired'}[r.status]||r.status):r.status,extra=first(['reported_case_status']);appendField(dl,'Status as the agency reports it',[statusText(status),extra&&!extra.toLowerCase().includes(String(status).toLowerCase())&&!String(status).toLowerCase().includes(extra.toLowerCase())?statusText(extra):''].filter(Boolean).join('; '));
+ if(r.state==='PR'&&prTerms[r.kind])appendField(dl,'Original register entry',r.kind+' · '+r.status);appendField(dl,'Register',r.dataset)}
+function historyCard(r){const p=el('article',null,'rowcard history-card'),head=el('div',null,'cardhead'),title=historyTitle(r),where=r.locality||r.county;head.append(el('h3',title),extLink('Source',r.url));head.lastChild.setAttribute('aria-label','Source for '+title);
+ p.append(head,el('p',whereLine(where,r.state,r.issuer),'where'),el('p',historySentence(r),'strip brief history-date'));
+ const d=el('details',null,'record'),s=el('summary','Details'),b=el('div',null,'recbody'),dl=el('dl');historyDetails(dl,r,null);b.append(dl);d.append(s,b);p.append(d);
  if(r.case_group){const group=caseRows.get(r.case_group)||[];if(group.length>1){
-   const timeline=el('details',null,'case-timeline');timeline.append(el('summary','Case history ('+group.length+')'));p.append(timeline);
+   const timeline=el('details',null,'case-timeline');timeline.append(el('summary','Case history ('+group.length+')'));b.append(timeline);
    timeline.ontoggle=()=>{if(!timeline.open||timeline.querySelector('ol'))return;const list=el('ol');
      for(const item of [...group].sort((a,b)=>(b.date||b.month||'').localeCompare(a.date||a.month||''))){const li=el('li');li.append(el('time',item.date||item.month||'Undated'),el('span',item.kind+' · '+item.status+' '),extLink('Source',item.url));list.append(li)}timeline.append(list)}
  }}
- let busy=false;d.ontoggle=async()=>{if(!d.open||busy||b.dataset.loaded)return;busy=true;try{const raw=await fetchDetails(r.state);b.querySelector('.failure')?.remove();showRaw(b,raw[r.id]);b.dataset.loaded='yes'}catch{if(!b.querySelector('.failure'))b.append(el('p','Extra fields unavailable. Reopen to retry or use Source.','failure'))}finally{busy=false}};return p}
+ let busy=false;d.ontoggle=async()=>{if(!d.open||busy||b.dataset.loaded)return;busy=true;try{const raw=await fetchDetails(r.state);b.querySelector('.failure')?.remove();dl.replaceChildren();historyDetails(dl,r,raw[r.id]);b.dataset.loaded='yes'}catch{if(!b.querySelector('.failure'))b.append(el('p','More fields are unavailable. Reopen to retry, or use Source.','failure'))}finally{busy=false}};return p}
 const caseRows=new Map();
 async function loadState(st){if(!stateRows.has(st)){const rows=unpack(st).map(v=>Object.fromEntries(H.keys.map((k,i)=>[k,v[i]])));for(const r of rows)if(r.case_group){if(!caseRows.has(r.case_group))caseRows.set(r.case_group,[]);caseRows.get(r.case_group).push(r)}stateRows.set(st,rows)}return stateRows.get(st)}
 function summary(rows){
@@ -80,7 +103,7 @@ function syncURL(st,j,name){const p=new URLSearchParams();if(st)p.set('state',st
 function update(){
  const seq=++generation,st=$('state').value,j=$('jur').value,g=places.get(j),name=scoped.get(j)?.[1]||g?.[3]||'',q=$('query').value.trim().toLowerCase().split(/\s+/).filter(Boolean);rulePage=0;
  $('federalGuide').hidden=!federalOnly;$('federalOnly').hidden=mode!=='permits'&&!mapOnly;$('federalOnly').setAttribute('aria-pressed',String(federalOnly));
- $('query').placeholder=mode==='rules'?'Rule, district or keyword':'Project or permit number';$('resultTitle').textContent=mode==='rules'?'Ordinances':metricNames[$('bucket').value]||(federalOnly?'Federal permit history':'Permit history');
+ $('query').placeholder=mode==='rules'?'Rule, approval, issuer or keyword':'Project, permit title, issuer or number';$('resultTitle').textContent=mode==='rules'?'Ordinances':metricNames[$('bucket').value]||(federalOnly?'Federal permit history':'Permit history');
  $('ruleFilters').hidden=mode!=='rules';$('permitFilters').hidden=mode==='rules';displayContext(st,j,name);syncURL(st,j,name);
  map(st,j);if($('coverageDetails').open)geoList();
  const f=$('family').value,path=$('pathway').value;
@@ -88,7 +111,7 @@ function update(){
  const sources=federalOnly?H.federalMetrics:H.areas,states=st?(sources[st]?[st]:[]):Object.keys(sources);
  function show(rr){if(seq!==generation)return;const locs=rr.filter(r=>!federalOnly||r.federal_issuer).filter(r=>!j||(g?.[2]==='state'?r.state===g[1]:(norm(r.locality,r.state)===norm(name,r.state)||norm(r.county,r.state)===norm(name,r.state))&&r.state===(st||scoped.get(j)?.[0]||g?.[1])));const year=r=>(r.date||r.month||'').slice(0,4)||'Undated';
  options($('register'),[...new Set(locs.map(r=>r.dataset))].sort().map(v=>[v,v]),'All registers');options($('year'),[...new Set(locs.map(year))].sort().reverse().map(v=>[v,v]),'All years');
- const reg=$('register').value,yr=$('year').value,bucket=$('bucket').value;$('filterButton').textContent=reg||yr||bucket?'Filters •':'Filters';visible=locs.filter(r=>(!bucket||(r.permit_representative&&(bucket==='permits'||r.permit_bucket===bucket)))&&(!reg||reg===r.dataset)&&(!yr||yr===year(r))&&q.every(w=>(r._search??=[r.project,r.record_no,r.kind,r.status,r.locality,r.county,r.preview,r.dataset,r.federal_issuer,r.date,r.month].join(' ').toLowerCase()).includes(w)));if(q.length){const exact=visible.filter(r=>String(r.record_no||'').toLowerCase()===q.join(' '));if(exact.length)visible=exact}if(states.length>1)visible.sort((a,b)=>(b.date||b.month||'').localeCompare(a.date||a.month||'')||a.id.localeCompare(b.id));summary(visible);if(facet)visible=visible.filter(r=>r.category===facet);render()}
+ const reg=$('register').value,yr=$('year').value,bucket=$('bucket').value;$('filterButton').textContent=reg||yr||bucket?'Filters •':'Filters';visible=locs.filter(r=>(!bucket||(r.permit_representative&&(bucket==='permits'||r.permit_bucket===bucket)))&&(!reg||reg===r.dataset)&&(!yr||yr===year(r))&&q.every(w=>(r._search??=[r.title,r.issuer,r.project,r.record_no,r.kind,r.status,r.locality,r.county,r.preview,r.dataset,r.federal_issuer,r.date,r.month].join(' ').toLowerCase()).includes(w)));if(q.length){const exact=visible.filter(r=>String(r.record_no||'').toLowerCase()===q.join(' '));if(exact.length)visible=exact}if(states.length>1)visible.sort((a,b)=>(b.date||b.month||'').localeCompare(a.date||a.month||'')||a.id.localeCompare(b.id));summary(visible);if(facet)visible=visible.filter(r=>r.category===facet);render()}
  if(states.every(s=>stateRows.has(s))){show(states.flatMap(s=>stateRows.get(s)));return}
  visible=[];$('overview').replaceChildren();$('list').replaceChildren(el('p','Loading permit records…','empty'));$('totals').textContent='';$('rulePages').replaceChildren();$('export').disabled=true;
  Promise.all(states.map(loadState)).then(data=>show(data.flat())).catch(()=>{if(seq!==generation)return;const retry=el('button','Retry');retry.onclick=update;$('list').replaceChildren(el('p','Permit records could not be loaded.','empty'),retry)})
@@ -98,7 +121,7 @@ for(const id of ['family','held','pathway','stateRules','register','year','bucke
 $('query').oninput=update;$('geosearch').oninput=geoList;$('coverageDetails').ontoggle=()=>{if($('coverageDetails').open)geoList()};$('national').onclick=()=>choose('');
 $('federalOnly').onclick=()=>{federalOnly=!federalOnly;mode='permits';facet='';$('register').value=$('bucket').value='';mapMetric='active';mobileMap(mapOnly);update()};
 $('reset').onclick=()=>{federalOnly=false;for(const id of ['query','family','pathway','geosearch','year','register','bucket'])$(id).value='';$('held').checked=$('stateRules').checked=false;facet='';mapMetric='rules';choose('')};
-$('export').onclick=()=>{if(!visible.length)return;const cols=mode==='rules'?['id','state','jurisdiction','category','topic','scope','summary','document_status','district','pathways','effective','thresholds','authority','locator','evidence','url','check']:H.keys;
+$('export').onclick=()=>{if(!visible.length)return;const cols=mode==='rules'?['id','state','jurisdiction','card_title','card_issuer','card_role','card_process','card_sentence','category','topic','scope','summary','document_status','district','pathways','adopted','effective','expires','thresholds','authority','locator','evidence','url','check','sha256']:H.keys;
  const esc=v=>{let s=typeof v==='object'&&v!==null?JSON.stringify(v):String(v??'');if(/^[=+@\-\t\r]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'};const blob=new Blob([[cols,...visible.map(r=>cols.map(k=>r[k]))].map(row=>row.map(esc).join(',')).join('\r\n')],{type:'text/csv;charset=utf-8'});const u=URL.createObjectURL(blob),a=el('a');a.href=u;a.download=mode+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)};
 function openLocation(){
 facet='';for(const id of ['family','pathway','year','register','bucket'])$(id).value='';

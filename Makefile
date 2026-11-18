@@ -26,6 +26,7 @@ build:
 	$(PYTHON) scripts/pipeline/history_evidence_receipts.py
 	$(PYTHON) scripts/pipeline/history_materialization.py --strict
 	$(PYTHON) scripts/pipeline/export_permit_geography.py
+	$(PYTHON) scripts/pipeline/card_identity_audit.py
 	$(PYTHON) scripts/pipeline/check_site_copy.py
 	$(PYTHON) scripts/ordinances/discovery/national_local_screen.py
 	$(PYTHON) scripts/pipeline/national_geocheck.py

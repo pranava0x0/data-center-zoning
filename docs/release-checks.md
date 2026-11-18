@@ -16,14 +16,14 @@ The [COMPASS cross-check](../output/compass_crosscheck.json) reconciles 34,466 f
 
 **Geographic limits.** The first pass reconciled 72,418 geographic entries and 91,811 government units across 50 states, DC and the five inhabited territories. Some are overlapping geographies, statistical places or special districts. 102 leading county, city or township entries have no matched action in our reviewed local registers. [State-by-state counts](national-progress.md) distinguish local provisions, statewide requirements and federal records.
 
-**Browser results.** 5,499 passing assertions. Cold-open measurements are from local Chrome on the test machine, not cellular or production-network benchmarks. The single-file download was 2.27 MB. Tests also opened an isolated copy without its neighboring files.
+**Browser results.** 5,588 passing assertions. Cold-open measurements are from local Chrome on the test machine, not cellular or production-network benchmarks. The single-file download was 2.38 MB. Tests also opened an isolated copy without its neighboring files.
 
 | Viewport | Cold open | Filter change | Local history |
 |---|---:|---:|---:|
-| desktop | 549 ms | 11 ms | 203 ms |
-| tablet | 422 ms | 5 ms | 183 ms |
-| phone | 436 ms | 4 ms | 200 ms |
-| small-phone | 430 ms | 4 ms | 198 ms |
+| desktop | 991 ms | 16 ms | 496 ms |
+| tablet | 817 ms | 7 ms | 391 ms |
+| phone | 816 ms | 6 ms | 389 ms |
+| small-phone | 848 ms | 5 ms | 393 ms |
 
 | Task | Maximum actions / swipes / navigations across measured viewports |
 |---|---:|
