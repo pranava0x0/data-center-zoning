@@ -1,7 +1,7 @@
 'use strict';
 const $=id=>document.getElementById(id),el=(tag,text,cls)=>{const e=document.createElement(tag);if(text!=null)e.textContent=text;if(cls)e.className=cls;return e};
 const A=window.ATLAS,G=window.GEOGRAPHY,H=window.HISTORY_INDEX;
-let federalOnly=false;
+let federalOnly=false;const dataCenterCountExplanation=$('countExplanation').textContent;
 const places=new Map(A.geo.map(g=>[g[0],g])),sn=new Map(A.geo.filter(g=>g[2]==='state').map(g=>[g[1],g[3]]));
 const ok=r=>['snapshot_match','visual_source_check'].includes(r.check),nice=s=>String(s??'').replace(/[_-]/g,' ').replace(/^./,m=>m.toUpperCase());
 function options(s,entries,all){const old=s.value;s.replaceChildren(new Option(all,''),...entries.map(([v,t])=>new Option(t,v)));if([...s.options].some(o=>o.value===old))s.value=old}
@@ -108,6 +108,7 @@ function update(){
  $('federalGuide').hidden=!federalOnly;$('federalOnly').hidden=mode!=='permits'&&(mode==='telecom'||!mapOnly);$('federalOnly').setAttribute('aria-pressed',String(federalOnly));
  $('query').placeholder=mode==='rules'?'Rule, approval, issuer or keyword':'Project, permit title, issuer or number';$('resultTitle').textContent=mode==='telecom'?'Fiber & telecom rights-of-way':mode==='rules'?'Ordinances':metricNames[$('bucket').value]||(federalOnly?'Federal permit history':'Permit history');
  const coverageText=mode==='telecom'?telecomCoverage():'Data centers: '+H.coverage.percent+'% priority-locality evidence coverage ('+H.coverage.numerator+'/'+H.coverage.denominator+'). National ordinance completeness unknown. See Downloads for definitions and unresolved records.';const shortCoverage=mode==='telecom'?'Telecom: '+telecomCoverage().split('%')[0]+'% pilot source checks; incomplete.':'Data centers: '+H.coverage.percent+'% priority places; incomplete.';const compactCoverage=el('a',shortCoverage,'coverage-short');compactCoverage.href='downloads.html';compactCoverage.title=coverageText;$('coverageNote').replaceChildren(el('span',coverageText,'coverage-full'),compactCoverage);document.querySelector('header h1').textContent=mode==='telecom'?'Fiber and telecom ROW':'Data center zoning';$('telecomFilters').hidden=mode!=='telecom';$('ruleFilters').hidden=mode!=='rules';$('permitFilters').hidden=mode!=='permits';$('filterButton').hidden=mode==='telecom';document.querySelector('.mapcounts').hidden=mode==='telecom';$('telecomMapCounts').hidden=mode!=='telecom';displayContext(st,j,name);syncURL(st,j,name);
+ $('countExplanation').textContent=mode==='telecom'?'Requirements, instruments/applications and dated actions have separate counts. Applications and easement votes are not issued permits. One instrument counts once nationally, even when its locations appear in several local views. Gray means no matching atlas record; national completeness is unknown.':dataCenterCountExplanation;
  $('printTitle').textContent=(mode==='telecom'?'Fiber and telecom rights-of-way':'Data-center zoning and permits')+' · '+(name||sn.get(st)||'All states')+' · '+metricNames[mapMetric]+' · '+(mode==='telecom'?'November 18, 2026':'November 15, 2026');
  map(st,j);if($('coverageDetails').open)geoList();
  if(mode==='telecom'){telecomUpdate(st,j,q);return}

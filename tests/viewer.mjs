@@ -125,6 +125,11 @@ try{
   assert(await ev("visible.length===T.instruments.length && countsFor('VA').tc_instruments===visible.length"),'instrument map and cards reconcile '+width);
   await ev("choose('VA','51059')");
   assert(await ev("visible.length===6 && visible.filter(r=>r.instrument_type==='land_use_permit').length===4 && visible.some(r=>r.instrument_type==='easement_authorization')"),'Fairfax VDOT work and county easement stay distinct '+width);
+  await ev("$('coverageDetails').open=true;$('geosearch').value='Fairfax';geoList()");
+  assert(await ev("$('geolist').querySelector('button') && $('geolist').textContent.includes('instruments / applications') && $('countExplanation').textContent.includes('Applications and easement votes are not issued permits')"),'telecom directory uses its own counting units '+width);
+  await ev("$('telecomKind').value='event';update()");
+  assert(await ev("visible.length>0 && visible.every(r=>r.row_kind==='event') && $('geolist').querySelector('button')"),'telecom filtering works while directory remains open '+width);
+  await ev("$('coverageDetails').open=false;$('telecomKind').value='instrument';update()");
   await ev("window.csvText='';URL.createObjectURL=b=>{b.text().then(t=>window.csvText=t);return 'blob:test'};HTMLAnchorElement.prototype.click=()=>{}");await click('#export');await until("csvText.includes('va-fairfax-newington-easement')");
   assert(await ev("csvText.includes('authority_geoid') && csvText.includes('source_sha256') && !csvText.includes('va-vdot-98688')"),'filtered telecom export preserves authority and source '+width);
   assert(await ev("document.documentElement.scrollWidth<=innerWidth+1 && getComputedStyle($('telecomFilters')).display!=='none'"),'telecom filter visible and no overflow '+width);
