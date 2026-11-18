@@ -32,7 +32,7 @@ def main():
         snapshot=json.loads(gzip.decompress(b));geo=snapshot['geometry'];rules['geo']=snapshot['geo_labels']
     else:
         geo=national(rules,hi,assigned(V/'geography.js'))
-    bundles=[pack('geo',geo,True),pack('rules',rules,True),pack('index',hi),pack('telecom',assigned(V/'telecom.js'))]
+    bundles=[pack('geo',geo),pack('rules',rules),pack('index',hi),pack('telecom',assigned(V/'telecom.js'))]
     for state in hi['areas']:
         for suffix in ('','-details'):
             bundles.append(pack(state+suffix,assigned(V/f'history-{state}{suffix}.js'),True))

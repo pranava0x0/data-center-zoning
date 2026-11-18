@@ -54,3 +54,5 @@ Small-phone review caught evidence requiring an extra swipe after the new naviga
 The first GitHub runner exposed a browser-harness setup assumption: the ignored cache directory did not exist on a fresh checkout. The harness now creates its temporary-profile parent directory itself. CI also requires browser receipts to match the exact packed-file byte size before publishing.
 
 The GitHub review also found that the place directory expected data-center metric fields while telecom used distinct counting units. The directory and counting explanation now switch with the technology, and four-viewport regressions cover opening the directory and changing filters while it remains open.
+
+The Linux runner measured a 2.55-second cold open against the unchanged 1.8-second budget. The startup geography and rules now use gzip/Pako rather than JavaScript LZMA decoding; deferred history bundles retain LZMA. The packed page remains under the unchanged edition byte ceiling.
