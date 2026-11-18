@@ -3,6 +3,7 @@ PYTHON ?= python3
 .PHONY: build verify uat history collect geography discover-va replay-sample jurisdictions check-all
 # Every published site build goes through data checks and browser journeys.
 build:
+	$(PYTHON) scripts/collectors/virginia/statewide/telecom_right_of_way.py
 	$(PYTHON) scripts/ordinances/discovery/screen_local_sites.py
 	$(PYTHON) scripts/pipeline/validate_screen.py
 	$(PYTHON) scripts/ordinances/codebooks/current_editions.py
@@ -28,6 +29,7 @@ build:
 	$(PYTHON) scripts/pipeline/export_permit_geography.py
 	$(PYTHON) scripts/pipeline/card_identity_audit.py
 	$(PYTHON) scripts/pipeline/check_site_copy.py
+	$(PYTHON) scripts/pipeline/audit_descriptions.py
 	$(PYTHON) scripts/ordinances/discovery/national_local_screen.py
 	$(PYTHON) scripts/pipeline/national_geocheck.py
 	$(PYTHON) scripts/pipeline/national_gate.py
@@ -39,7 +41,9 @@ build:
 	$(PYTHON) scripts/pipeline/project_scale.py
 	$(PYTHON) scripts/pipeline/validate_compass.py --strict-taxonomy
 	$(PYTHON) scripts/pipeline/rank_states.py --check
+	$(PYTHON) scripts/pipeline/publish_site.py
 	$(PYTHON) -m unittest discover -s tests
+	$(PYTHON) -m unittest discover -s tests -p test_publication.py
 	$(MAKE) uat
 verify: build
 uat:
@@ -155,3 +159,12 @@ cache-pack:
 	$(PYTHON) scripts/pipeline/cache_bundle.py pack $(DEST)
 cache-restore:
 	$(PYTHON) scripts/pipeline/cache_bundle.py restore $(BUNDLE)
+
+.PHONY: telecom site
+telecom:
+	$(PYTHON) scripts/pipeline/jurisdiction.py telecom
+site:
+	$(PYTHON) scripts/collectors/virginia/statewide/telecom_right_of_way.py
+	$(PYTHON) scripts/pipeline/build_viewer.py --snapshot-geography
+	$(PYTHON) scripts/pipeline/publish_site.py
+	$(PYTHON) -m unittest discover -s tests -p test_publication.py

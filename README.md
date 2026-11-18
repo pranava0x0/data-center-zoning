@@ -1,4 +1,8 @@
-# Siting Atlas · Data center ordinances
+# Data center zoning and telecom rights-of-way
+
+**[Live atlas](https://pranava0x0.github.io/data-center-zoning/)** · [Downloads and coverage](https://pranava0x0.github.io/data-center-zoning/downloads.html) · [Virginia telecom pilot](https://pranava0x0.github.io/data-center-zoning/#view=telecom&state=VA) · [November 18 release review](docs/2026-11-18-telecom-pages-release.md)
+
+Data centers and the Virginia fiber/telecom ROW pilot are separate collections. National completeness is unknown. The site states measured evidence coverage with its denominator. `make site` builds the public artifact from committed snapshots without the research cache; `make verify` runs the full research and browser gate with the cache. GitHub Actions validates exports and the browser journeys before publishing Pages.
 
 **[Open the atlas](viewer/index.html)** · [Federal permit history](viewer/federal.html) · [Leading counties and cities by state](docs/national-progress.md) · [Local permit follow-up queue](output/priority_local_backlog.csv) · [Evidence receipts](docs/evidence-receipts.md) · [Release checks](docs/release-checks.md) · Permit history: [Virginia](viewer/index.html#state=VA&view=permits), [Ohio](viewer/index.html#state=OH&view=permits), [Texas](viewer/index.html#state=TX&view=permits), [Arizona](viewer/index.html#state=AZ&view=permits), [Indiana](viewer/index.html#state=IN&view=permits) · [All history records (CSV)](output/permit_history.csv)
 

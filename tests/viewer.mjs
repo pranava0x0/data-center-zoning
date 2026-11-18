@@ -25,7 +25,7 @@ try{
  const q=JSON.stringify,sel=s=>'document.querySelector('+q(s)+')';
  await c('Runtime.enable');await c('Network.enable');await c('Network.setCacheDisabled',{cacheDisabled:true});await c('Page.enable');
  const raf=()=>ev('new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(()=>r(true))))');
- const shot=async name=>{await raf();const {data}=await c('Page.captureScreenshot',{format:'png'});fs.writeFileSync(path.join(root,'uat-screenshots',profile+'-'+name+'.png'),Buffer.from(data,'base64'))};
+ const shot=async name=>{if(!process.env.ATLAS_ALL_SCREENSHOTS&&!/^(home|botetourt|evidence|map-insets|telecom-)/.test(name))return;await raf();const {data}=await c('Page.captureScreenshot',{format:'png'});fs.writeFileSync(path.join(root,'uat-screenshots',profile+'-'+name+'.png'),Buffer.from(data,'base64'))};
  async function navigate(url){await c('Page.navigate',{url});await until("document.readyState==='complete' && !!document.querySelector('.rowcard')");await raf()}
  async function startTask(name){navStamp=await ev('performance.timeOrigin');active=name;cost={actions:0,swipes:0,navigations:0}}
  async function finish(){if(await ev('performance.timeOrigin')!==navStamp)cost.navigations++;const b=B.journeys[active];for(const k in cost)assert(cost[k]<=b[k],active+' '+k+' '+cost[k]+' <= '+b[k]);report.profiles[profile].journeys[active]={...cost}}
@@ -112,6 +112,35 @@ try{
   assert(await ev("root.querySelector('a').href.startsWith('https://') && found.every(([s,r])=>s==='GU')"),'Guam search finds cited local geography');
   await ev("sel.value='Tribal governments';q.value='';search()");assert(await ev("found.length>500 && found.every(([s,r])=>r[1]==='Tribal government')"),'sovereign government roster separate from geographic areas');
  }
+ // Separate technology, source dates, authority, CSV parity and printable maps.
+ profile='telecom';
+ for(const width of [1320,768,390,360]){
+  await c('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:false});
+  await navigate(base+'index.html#state=VA&view=telecom&q=949%3A61269');
+  assert(await ev("mode==='telecom' && visible.some(r=>r.id==='va-vdot-98688') && !visible.some(r=>r.technology==='data_center')"),'dedicated telecom deep link '+width);
+  assert(await ev("$('coverageNote').textContent.includes('50%') && document.querySelector('.telecom-card').textContent.includes('Virginia Department of Transportation')"),'telecom scope and coverage '+width);
+  await ev("$('query').value='';$('telecomKind').value='instrument';update()");
+  assert(await ev("visible.length===T.instruments.length && countsFor('VA').tc_instruments===visible.length"),'instrument map and cards reconcile '+width);
+  await ev("choose('VA','51059')");
+  assert(await ev("visible.length===6 && visible.filter(r=>r.instrument_type==='land_use_permit').length===4 && visible.some(r=>r.instrument_type==='easement_authorization')"),'Fairfax VDOT work and county easement stay distinct '+width);
+  await ev("window.csvText='';URL.createObjectURL=b=>{b.text().then(t=>window.csvText=t);return 'blob:test'};HTMLAnchorElement.prototype.click=()=>{}");await click('#export');await until("csvText.includes('va-fairfax-newington-easement')");
+  assert(await ev("csvText.includes('authority_geoid') && csvText.includes('source_sha256') && !csvText.includes('va-vdot-98688')"),'filtered telecom export preserves authority and source '+width);
+  assert(await ev("document.documentElement.scrollWidth<=innerWidth+1 && getComputedStyle($('telecomFilters')).display!=='none'"),'telecom filter visible and no overflow '+width);
+  if(width===1320||width===360)await shot('telecom-'+width);
+  await ev("selectMetric('tc_events');choose('VA','51059');mobileMap(true)");
+  assert(await ev("getComputedStyle($('printMap')).display!=='none'"),'print action is visible in map mode '+width);
+  await c('Emulation.setEmulatedMedia',{media:'print'});
+  assert(await ev("getComputedStyle(document.querySelector('aside')).display!=='none' && getComputedStyle(document.querySelector('.ledger')).display==='none' && $('maptitle').textContent.includes('Fairfax') && $('mapkey').textContent.includes('Dated actions')"),'print includes selected map and metric '+width);
+  if(width===1320){const pdf=await c('Page.printToPDF',{landscape:true,printBackground:true,preferCSSPageSize:true});const b=Buffer.from(pdf.data,'base64');assert(b.subarray(0,4).toString()==='%PDF'&&b.length>5000,'map PDF generates');fs.writeFileSync(path.join(root,'output/map-sample.pdf'),b)}
+  await c('Emulation.setEmulatedMedia',{media:''});
+ }
+ assert(await ev("(()=>{const n=T.instruments.length;T.locations.push({instrument_id:'va-vdot-98688',state:'VA',geoid:'51059',locality:'Fairfax County'});try{return telecomRows('instrument').length===n && telecomScope(telecomRows('instrument'),'VA','51059').some(r=>r.id==='va-vdot-98688') && telecomScope(telecomRows('instrument'),'VA','51107').some(r=>r.id==='va-vdot-98688')}finally{T.locations.pop()}})()"),'multi-locality instrument appears in each view and counts once nationally');
+ await navigate(pathToFileURL(isolated).href+'#state=VA&view=telecom&q=949%3A61269');
+ assert(await ev("visible.some(r=>r.id==='va-vdot-98688') && performance.getEntriesByType('resource').filter(r=>/\\.(js|css)$/.test(r.name)).length===0"),'isolated offline telecom fixture');
+ await ev("$('reset').click()");assert(await ev("mode==='telecom' && mapMetric==='tc_rules' && $('telecomKind').value===''"),'reset preserves telecom collection and restores its metric');
+ await c('Emulation.setDeviceMetricsOverride',{width:1320,height:900,deviceScaleFactor:1,mobile:false});
+ await navigate(base+'index.html');
+ assert(await ev("mode==='rules' && !visible.some(r=>r.technology==='fiber_telecom')"),'return to data-center collection preserves isolation');
  assert(report.errors.length===0,'no uncaught browser errors');assert(external<=B.max.unexpectedExternalRequests,'no external startup dependencies');report.passed=true;console.log('UAT passed: '+report.checks.length+' assertions across four viewports, HTTP and file://.');
 }catch(e){report.errors.push(String(e));console.error(e);process.exitCode=1}
 finally{fs.writeFileSync(path.join(root,'output/uat.json'),JSON.stringify(report,null,2)+'\n');ws?.close();proc.kill('SIGTERM');server.close();await wait(400);fs.rmSync(tmp,{recursive:true,force:true,maxRetries:5,retryDelay:150})}

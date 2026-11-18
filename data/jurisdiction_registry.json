@@ -2267,5 +2267,26 @@
         "wy"
       ]
     }
+  },
+  "technology_collectors": {
+    "fiber_telecom_va": {
+      "collector": "collectors/virginia/statewide/telecom_right_of_way.py",
+      "source_owner": "VDOT; Fairfax County Board of Supervisors; Fairfax Land Development Services",
+      "authority_geographies": [
+        "51",
+        "51059"
+      ],
+      "project_locations": [
+        "51107",
+        "51059"
+      ],
+      "outputs": [
+        "output/telecom/release.json",
+        "viewer/telecom.js"
+      ],
+      "offline_command": "python3 scripts/pipeline/jurisdiction.py telecom",
+      "live_command": null,
+      "live_limit": "Snapshots require explicit source review before replacing receipts. Leesburg unavailable; county Loudoun process unreviewed."
+    }
   }
 }

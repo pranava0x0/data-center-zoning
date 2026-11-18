@@ -1,0 +1,308 @@
+{
+  "vdot-98688": {
+    "url": "https://permits.virginia.gov/Permit/Details/98688",
+    "final_url": "https://permits.virginia.gov/Permit/Details/98688",
+    "path": "data/telecom/evidence/vdot-98688.html",
+    "sha256": "f9f711b3ce8765112724caf5674ef27ca776ced1d663e3e3cf9b3c32b4771ffd",
+    "bytes": 65633,
+    "content_type": "text/html",
+    "retrieved_at": "2026-11-18T13:28:40+00:00",
+    "status": "retrieved"
+  },
+  "vdot-search": {
+    "url": "https://permits.virginia.gov/Permit/Search",
+    "final_url": "https://permits.virginia.gov/Permit/Search",
+    "path": "data/telecom/evidence/vdot-search.html",
+    "sha256": "67fda270efeb286f5186cdeddb3e3724b3a6442d1db7e9ccef83b4ef9a124482",
+    "bytes": 150134,
+    "content_type": "text/html",
+    "retrieved_at": "2026-11-18T13:28:40+00:00",
+    "status": "retrieved"
+  },
+  "va-authority": {
+    "url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section20/",
+    "final_url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section20/",
+    "path": "data/telecom/evidence/va-authority.html",
+    "sha256": "2da8797ddde3a68eacc2e716cdd67fc88b6f6e27583f8f652c1891b647994701",
+    "bytes": 31516,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-11-18T13:28:39+00:00",
+    "status": "retrieved"
+  },
+  "va-permit-types": {
+    "url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section30/",
+    "final_url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section30/",
+    "path": "data/telecom/evidence/va-permit-types.html",
+    "sha256": "4c8440ef04505886c48968ec2547d3875288fa8708f278e4dd5c80996ae35929",
+    "bytes": 47121,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-11-18T13:28:39+00:00",
+    "status": "retrieved"
+  },
+  "va-restoration": {
+    "url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section60/",
+    "final_url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section60/",
+    "path": "data/telecom/evidence/va-restoration.html",
+    "sha256": "38a7cd491173d15d993bee7d7a438c216fff5ad72af7401b0e06a78cd464aa5e",
+    "bytes": 30162,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-11-18T13:28:39+00:00",
+    "status": "retrieved"
+  },
+  "va-underground": {
+    "url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section380/",
+    "final_url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section380/",
+    "path": "data/telecom/evidence/va-underground.html",
+    "sha256": "610475edb8aec6fce3bd212610d92d00ebaee8f6af888783c7ed75616aa5b7f8",
+    "bytes": 31935,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-11-18T13:28:39+00:00",
+    "status": "retrieved"
+  },
+  "leesburg-row": {
+    "url": "https://www.leesburgva.gov/departments/public-works/traffic-management-services/right-of-way-permits",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "retrieved_at": "2026-11-18T13:28:39+00:00"
+  },
+  "fairfax-up": {
+    "url": "https://www.fairfaxcounty.gov/landdevelopment/node/785",
+    "final_url": "https://www.fairfaxcounty.gov/landdevelopment/node/785",
+    "path": "data/telecom/evidence/fairfax-up.html",
+    "sha256": "e77afd5514d67a05b7ac0af6c620632421eaef703c0b7c8d183f97446cd7512b",
+    "bytes": 119137,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-11-18T13:28:39+00:00",
+    "status": "retrieved"
+  },
+  "fairfax-april": {
+    "url": "https://www.fairfaxcounty.gov/boardofsupervisors/sites/boardofsupervisors/files/Assets/meeting%20materials/board/04-16-24-Final-Summary.pdf",
+    "path": "data/telecom/evidence/fairfax-april.pdf",
+    "sha256": "e1a43084838aed52f10683f74033a502a2914fd78bc6e89ff76233093d2ad32a",
+    "bytes": 508759,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:30:20+00:00"
+  },
+  "fairfax-may": {
+    "url": "https://www.fairfaxcounty.gov/boardofsupervisors/sites/boardofsupervisors/files/Assets/documents/05-21-24-Final-Summary.pdf",
+    "final_url": "https://www.fairfaxcounty.gov/boardofsupervisors/sites/boardofsupervisors/files/Assets/documents/05-21-24-Final-Summary.pdf",
+    "path": "data/telecom/evidence/fairfax-may.pdf",
+    "sha256": "1e6b6bf4d5b0ea1904c5c8912567b249a43422f4c33f99a212b0c101e377e15c",
+    "bytes": 592261,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-11-18T13:28:39+00:00",
+    "status": "retrieved"
+  },
+  "vdot-fiber-search": {
+    "url": "https://permits.virginia.gov/Permit/SearchDatatable",
+    "path": "data/telecom/evidence/vdot-fiber-search.json",
+    "sha256": "8523cff0e1e9df45bfbd8d385130263e15799298c9c4ea0f7453a4c4d8cc7ad4",
+    "request": {
+      "draw": "1",
+      "start": "0",
+      "length": "10",
+      "agencyIds[]": "8",
+      "permitTypeIds[]": "399",
+      "primarySearch": "",
+      "applicationStatus": "",
+      "columns[0][data]": "applicationNumber",
+      "columns[0][name]": "ApplicationNumber",
+      "columns[1][data]": "applicantName",
+      "columns[1][name]": "ApplicantName",
+      "columns[2][data]": "agent",
+      "columns[2][name]": "Agent",
+      "columns[3][data]": "facility",
+      "columns[3][name]": "Facility",
+      "columns[4][data]": "agency",
+      "columns[4][name]": "Agency",
+      "columns[5][data]": "programType",
+      "columns[5][name]": "ProgramType",
+      "columns[6][data]": "permitType",
+      "columns[6][name]": "PermitType",
+      "columns[7][data]": "permitNumber",
+      "columns[7][name]": "PermitNumber",
+      "columns[8][data]": "locality",
+      "columns[8][name]": "Locality",
+      "columns[9][data]": "applicationReceivedDate",
+      "columns[9][name]": "ApplicationReceivedDate",
+      "columns[10][data]": "status",
+      "columns[10][name]": "Status",
+      "order[0][column]": "9",
+      "order[0][dir]": "desc",
+      "localityIds[]": "Loudoun County"
+    },
+    "bytes": 4161,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:30:37+00:00"
+  },
+  "va-pipelines": {
+    "url": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter151/section360/",
+    "path": "data/telecom/evidence/va-pipelines.html",
+    "sha256": "2cd5af227b34837c112ae7903e045ccefb75a4d922a7a62ed161ac1f11de7085",
+    "bytes": 31826,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:30:20+00:00"
+  },
+  "vdot-fairfax-search": {
+    "url": "https://permits.virginia.gov/Permit/SearchDatatable",
+    "path": "data/telecom/evidence/vdot-fairfax-search.json",
+    "sha256": "832e8fc6f12a004782d8c2793960abbfe66fc92497bd4af6443a9f23830e6222",
+    "bytes": 1996,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:12+00:00",
+    "request": {
+      "draw": "1",
+      "start": "0",
+      "length": "5",
+      "agencyIds[]": "8",
+      "permitTypeIds[]": "399",
+      "primarySearch": "",
+      "applicationStatus": "",
+      "columns[0][data]": "applicationNumber",
+      "columns[0][name]": "ApplicationNumber",
+      "columns[1][data]": "applicantName",
+      "columns[1][name]": "ApplicantName",
+      "columns[2][data]": "agent",
+      "columns[2][name]": "Agent",
+      "columns[3][data]": "facility",
+      "columns[3][name]": "Facility",
+      "columns[4][data]": "agency",
+      "columns[4][name]": "Agency",
+      "columns[5][data]": "programType",
+      "columns[5][name]": "ProgramType",
+      "columns[6][data]": "permitType",
+      "columns[6][name]": "PermitType",
+      "columns[7][data]": "permitNumber",
+      "columns[7][name]": "PermitNumber",
+      "columns[8][data]": "locality",
+      "columns[8][name]": "Locality",
+      "columns[9][data]": "applicationReceivedDate",
+      "columns[9][name]": "ApplicationReceivedDate",
+      "columns[10][data]": "status",
+      "columns[10][name]": "Status",
+      "order[0][column]": "9",
+      "order[0][dir]": "desc",
+      "localityIds[]": "Fairfax County"
+    }
+  },
+  "vdot-186224": {
+    "url": "https://permits.virginia.gov/Permit/Details/186224",
+    "path": "data/telecom/evidence/vdot-186224.html",
+    "sha256": "6e789cbb2cc107216b0d43230a41d22128879f0c611ab356b62a96028a08adae",
+    "bytes": 53528,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:13+00:00"
+  },
+  "vdot-185978": {
+    "url": "https://permits.virginia.gov/Permit/Details/185978",
+    "path": "data/telecom/evidence/vdot-185978.html",
+    "sha256": "9ec57d78c914f4aed26c4515d905058601e648e46d8ac52afcae10a9a14597b9",
+    "bytes": 53463,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:14+00:00"
+  },
+  "vdot-185980": {
+    "url": "https://permits.virginia.gov/Permit/Details/185980",
+    "path": "data/telecom/evidence/vdot-185980.html",
+    "sha256": "bc692272ed82c05aee469e917bcf67e0eb97e509a647f5e529e9bf58998d12d6",
+    "bytes": 53533,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:15+00:00"
+  },
+  "vdot-185989": {
+    "url": "https://permits.virginia.gov/Permit/Details/185989",
+    "path": "data/telecom/evidence/vdot-185989.html",
+    "sha256": "81d03620b09c5086a5d0263798c6a5f4e1c999e4051c0886ea828717b313d935",
+    "bytes": 53521,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:13+00:00"
+  },
+  "vdot-186001": {
+    "url": "https://permits.virginia.gov/Permit/Details/186001",
+    "path": "data/telecom/evidence/vdot-186001.html",
+    "sha256": "8ccdf55d121a99d28f96c5e58cc65c05b9b39452d5b616c2e6f6a5e929159226",
+    "bytes": 53394,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:15+00:00"
+  },
+  "vdot-185217": {
+    "url": "https://permits.virginia.gov/Permit/Details/185217",
+    "path": "data/telecom/evidence/vdot-185217.html",
+    "sha256": "b916936371349f80d6b55b22a934cbc50b0b907e0a0de0032e4bfac2b299bb4c",
+    "bytes": 53699,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:16+00:00"
+  },
+  "vdot-184981": {
+    "url": "https://permits.virginia.gov/Permit/Details/184981",
+    "path": "data/telecom/evidence/vdot-184981.html",
+    "sha256": "3debbdd9b2200fc217b988ddb9b5297876702a98931f8c84dfad0c225b4fd860",
+    "bytes": 53378,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:15+00:00"
+  },
+  "vdot-184985": {
+    "url": "https://permits.virginia.gov/Permit/Details/184985",
+    "path": "data/telecom/evidence/vdot-184985.html",
+    "sha256": "d58b6b6940ab4abcbfb88d66b3cc8a47ff718387dfe8582a1adfc9f2079c3a02",
+    "bytes": 53383,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:16+00:00"
+  },
+  "vdot-184994": {
+    "url": "https://permits.virginia.gov/Permit/Details/184994",
+    "path": "data/telecom/evidence/vdot-184994.html",
+    "sha256": "75826ff13291162c2969b22cb90e3d8ccf286326c49645fdc0a8fe7353afecb9",
+    "bytes": 53530,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:18+00:00"
+  },
+  "vdot-185021": {
+    "url": "https://permits.virginia.gov/Permit/Details/185021",
+    "path": "data/telecom/evidence/vdot-185021.html",
+    "sha256": "75d7c9418495999edfc33e9ce5be206a825eb5092045d998af6d2c93a4d3d5d6",
+    "bytes": 53528,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:18+00:00"
+  },
+  "vdot-185394": {
+    "url": "https://permits.virginia.gov/Permit/Details/185394",
+    "path": "data/telecom/evidence/vdot-185394.html",
+    "sha256": "6a1d99e4d6e3264b751b88edf7c6e7d0bffe887b0724b2d86253cc6f944a5859",
+    "bytes": 55841,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:16+00:00"
+  },
+  "vdot-185395": {
+    "url": "https://permits.virginia.gov/Permit/Details/185395",
+    "path": "data/telecom/evidence/vdot-185395.html",
+    "sha256": "ab7ebdd5d20a317f37721c8e69da655d36e40438d1b5976a6ea0045fc3716c91",
+    "bytes": 55943,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:17+00:00"
+  },
+  "vdot-185397": {
+    "url": "https://permits.virginia.gov/Permit/Details/185397",
+    "path": "data/telecom/evidence/vdot-185397.html",
+    "sha256": "ebb7941bd68598012d076382ccb8f9f3e46290a73c079a627b35ad11010a1a57",
+    "bytes": 55933,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:19+00:00"
+  },
+  "vdot-185398": {
+    "url": "https://permits.virginia.gov/Permit/Details/185398",
+    "path": "data/telecom/evidence/vdot-185398.html",
+    "sha256": "b5250e949aed64c520b81bf1e9b701187d49a5fd7bebd054e34f4f40c2756743",
+    "bytes": 55906,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:18+00:00"
+  },
+  "vdot-185399": {
+    "url": "https://permits.virginia.gov/Permit/Details/185399",
+    "path": "data/telecom/evidence/vdot-185399.html",
+    "sha256": "94ef4a40f975d8d2ed07a43780830309f7fa5c7090f28b86bc96aaf9b6272b84",
+    "bytes": 55906,
+    "status": "retrieved",
+    "retrieved_at": "2026-11-18T13:31:20+00:00"
+  }
+}

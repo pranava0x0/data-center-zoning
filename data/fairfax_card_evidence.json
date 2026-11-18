@@ -4,13 +4,13 @@
     "role": "decides",
     "office": "Fairfax County Board of Supervisors",
     "process": "after a Planning Commission public hearing; the county estimates about six months from official acceptance",
-    "description": "The 40,000 sq ft limit applies to gross floor area per building.",
+    "description": "The 40,000 sq ft limit applies to gross floor area per building. The Board decides after Planning Commission and Board hearings; the county estimates about six months from official acceptance.",
     "checks": [
       {
         "claim": "C-3 and C-4 maximum building size is 40,000 sq ft of gross floor area; larger needs special exception",
         "source": "Adopted text §4102.6.A(2)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
-        "result": "confirmed; the fixture previously pointed to page 3, the clause is on PDF page 2"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3",
+        "result": "confirmed against archived original PDF page 3 (visually checked 2026-11-18); prior page-2 audit note was incorrect"
       },
       {
         "claim": "The Board of Supervisors approves or denies special exceptions after a Planning Commission hearing",
@@ -28,7 +28,7 @@
     "sources": [
       {
         "label": "Adopted size limit, §4102.6.A(2)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
       },
       {
         "label": "County special exception process",
@@ -50,12 +50,12 @@
     "role": "decides",
     "office": "Fairfax County Board of Supervisors",
     "process": "after a Planning Commission public hearing; the county estimates about six months from official acceptance",
-    "description": "The 80,000 sq ft limit applies to gross floor area per building.",
+    "description": "The 80,000 sq ft limit applies to gross floor area per building. The Board decides after Planning Commission and Board hearings; the county estimates about six months from official acceptance.",
     "checks": [
       {
         "claim": "I-2, I-3 and I-4 maximum building size is 80,000 sq ft of gross floor area; larger needs special exception",
         "source": "Adopted text §4102.6.A(3)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3",
         "result": "confirmed (the PDF OCR reads \"1-2,1-3, and 1-4\"); on PDF page 2, not 3"
       },
       {
@@ -74,7 +74,7 @@
     "sources": [
       {
         "label": "Adopted size limit, §4102.6.A(3)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
       },
       {
         "label": "County special exception process",
@@ -96,25 +96,25 @@
     "role": "sets_standard",
     "office": "Fairfax County Board of Supervisors",
     "process": "",
-    "description": "Buildings must sit 200 ft from residential lot lines, and ground equipment 300 ft or behind the building.",
+    "description": "Buildings need 200 ft from residential lot lines; ground equipment needs 300 ft or an intervening building, unless shorter distances receive Special Exception approval.",
     "checks": [
       {
         "claim": "200 ft building, 300 ft ground equipment or separated by the principal building, lesser by special exception, street rights-of-way excluded",
         "source": "Adopted text §4102.6.A(4)(a)-(d)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3",
         "result": "confirmed on PDF page 2"
       },
       {
         "claim": "The standard is not itself a permit",
         "source": "Adopted text",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3",
         "result": "confirmed; only the reduction is a special exception"
       }
     ],
     "sources": [
       {
         "label": "Adopted setback and exceptions, §4102.6.A(4)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
       },
       {
         "label": "County special exception process",
@@ -137,7 +137,7 @@
       {
         "claim": "Study to the Zoning Administrator's satisfaction before site plan approval and again before the Nonresidential Use Permit",
         "source": "Adopted text §4102.6.A(6), PDF pages 2-3",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2",
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3",
         "result": "confirmed; clause continues on page 3"
       },
       {
@@ -156,7 +156,7 @@
     "sources": [
       {
         "label": "Adopted study requirements, §4102.6.A(6)",
-        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=2"
+        "url": "https://www.fairfaxcounty.gov/planning-development/sites/planning-development/files/Assets/Documents/zoning%20ordinance/adopted%20amendments/ZO_112_1-2024-9.pdf#page=3"
       },
       {
         "label": "County noise study instructions",

@@ -4,20 +4,20 @@
   "files": 1,
   "files_empty": 0,
   "unreadable": 0,
-  "chunks": 1039,
+  "chunks": 1051,
   "display_strings": 0,
-  "paragraphs": 1039,
-  "sentences": 1053,
-  "words": 10588,
+  "paragraphs": 1051,
+  "sentences": 1067,
+  "words": 10679,
   "quoted_exempt": 0,
   "allowed": 0,
   "proper_noun_skips": 0,
-  "info_suppressed": 77
+  "info_suppressed": 80
  },
  "levels": {
   "FAIL": 0,
   "WARN": 0,
-  "INFO": 6
+  "INFO": 5
  },
  "findings": [
   {
@@ -33,23 +33,11 @@
    "context": "opener=OTHER length-bucket=0 comma=False"
   },
   {
-   "rule": "uniform-template",
-   "level": "INFO",
-   "family": "rhythm",
-   "source": "site-copy.md",
-   "line": 1,
-   "matched": "3 sentences on template ('OTHER', 1, False)",
-   "why": "consecutive sentences built on one syntactic template",
-   "fix": "change which clause leads, or let one sentence run longer",
-   "note": "",
-   "context": "opener=OTHER length-bucket=1 comma=False"
-  },
-  {
    "rule": "parataxis-run",
    "level": "INFO",
    "family": "rhythm",
    "source": "site-copy.md",
-   "line": 615,
+   "line": 639,
    "matched": "3 short declaratives in a row",
    "why": "a run of short declaratives with no connective tissue",
    "fix": "coordinate them when they are actually related",
@@ -61,7 +49,7 @@
    "level": "INFO",
    "family": "syntax",
    "source": "site-copy.md",
-   "line": 65,
+   "line": 83,
    "matched": "permit number counts once",
    "why": "four or more nouns stacked as unbroken modifiers",
    "fix": "unpack with a preposition or a verb",
@@ -73,7 +61,7 @@
    "level": "INFO",
    "family": "syntax",
    "source": "site-copy.md",
-   "line": 67,
+   "line": 85,
    "matched": "counts include city permits",
    "why": "four or more nouns stacked as unbroken modifiers",
    "fix": "unpack with a preposition or a verb",
@@ -85,7 +73,7 @@
    "level": "INFO",
    "family": "syntax",
    "source": "site-copy.md",
-   "line": 109,
+   "line": 133,
    "matched": "county requires fire prevention",
    "why": "four or more nouns stacked as unbroken modifiers",
    "fix": "unpack with a preposition or a verb",

@@ -6,6 +6,8 @@ Ordinances
 
 Permit history
 
+Fiber & telecom ROW
+
 Map
 
 State
@@ -13,6 +15,16 @@ State
 Jurisdiction
 
 Search
+
+Record type
+
+All telecom records
+
+Requirements
+
+Instruments and applications
+
+Dated actions
 
 Federal only
 
@@ -58,6 +70,12 @@ Active permits
 
 Historical permits
 
+Telecom requirements
+
+Instruments / applications
+
+Dated actions
+
 Alaska, Hawaii and the territories are insets, drawn at their own scale. Select one like any state.
 
 What’s counted?
@@ -69,6 +87,8 @@ Gray means no matching record in this atlas. County counts include city permits 
 Find a place
 
 Ordinances
+
+Print map / PDF
 
 CSV
 
@@ -87,6 +107,10 @@ issuing agency depends on the location
 Programs, exceptions and sources
 
 Open this file in a browser with JavaScript enabled to search the atlas.
+
+Download datasets & coverage
+
+Methods & limits
 
 Jurisdiction directory
 
@@ -238,19 +262,19 @@ Residential setbacks: data center building 200 ft, ground equipment 300 ft
 
 Fairfax County Board of Supervisors
 
-Buildings must sit 200 ft from residential lot lines, and ground equipment 300 ft or behind the building.
+Buildings need 200 ft from residential lot lines; ground equipment needs 300 ft or an intervening building, unless shorter distances receive Special Exception approval.
 
 Special exception: data center building over 40,000 sq ft in C-3 or C-4
 
 Fairfax County Board of Supervisors, after a Planning Commission public hearing; the county estimates about six months from official acceptance
 
-The 40,000 sq ft limit applies to gross floor area per building.
+The 40,000 sq ft limit applies to gross floor area per building. The Board decides after Planning Commission and Board hearings; the county estimates about six months from official acceptance.
 
 Special exception: data center building over 80,000 sq ft in I-2, I-3 or I-4
 
 Fairfax County Board of Supervisors, after a Planning Commission public hearing; the county estimates about six months from official acceptance
 
-The 80,000 sq ft limit applies to gross floor area per building.
+The 80,000 sq ft limit applies to gross floor area per building. The Board decides after Planning Commission and Board hearings; the county estimates about six months from official acceptance.
 
 Permitted use: data center in Regional Enterprise Park district
 
@@ -452,9 +476,9 @@ The code defines a data center at 5,000 square feet; a conditional use permit ma
 
 Special use permit: data center in Industrial district
 
-City of Edgewood City Council
+City of Edgewood City Council, The ordinance requires a special use permit but does not identify the deciding office.
 
-A data center in the Industrial district needs a special use permit.
+Data centers in the Industrial district require a special use permit; the ordinance does not identify who decides it.
 
 Battery storage fire safety: data center energy storage under NFPA 855
 

@@ -12,3 +12,7 @@
 Limits: tests use desktop Chromium with narrow viewport emulation, not physical-device Safari or a screen reader. Government registers have different search and time coverage; zero displayed records is not evidence that no permit exists. See the state coverage notes for source-side limitations.
 
 **Follow-up fixes.** The desktop file preview could show ordinance cards but fail when it requested a second JavaScript file for permits. The delivered HTML now contains all its records; the browser suite opens Botetourt's history and individual permit fields without neighboring assets. The default tabs have clickable topic counts. No reader has to interpret a research status to understand a map color.
+
+## November 18: telecom pilot and public release
+
+Added a separate Virginia telecom dataset and public Pages build. Fixed unsupported Edgewood SUP approver attribution, labeled inferred history offices, corrected Fairfax PDF locators and exposed hearing/timing information. Two review passes caught telecom filter/reset state and PDF labeling errors; regression checks now cover them. Leesburg source access and county-controlled Loudoun ROW remain open; nationwide completeness remains unknown. See `docs/2026-11-18-telecom-pages-release.md`.

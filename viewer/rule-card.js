@@ -19,6 +19,7 @@ function card(r){const panel=el('article',null,'rowcard'),head=el('div',null,'ca
  const cond=conditions(r);if(cond.length)appendField(dl,'Conditions and exceptions',cond.length===1?cond[0]:listNode(cond));
  if(r.summary&&r.summary!==r.card_sentence)appendField(dl,'Summary',r.summary);
  if(r.card_process)appendField(dl,'How it is decided',r.card_process.replace(/^./,m=>m.toUpperCase()));
+ appendField(dl,'Office role evidence',r.card_role_evidence);
  appendField(dl,'Adopted',prettyIso(r.adopted));appendField(dl,'Effective',prettyIso(r.effective));appendField(dl,'Expires',prettyIso(r.expires));
  appendField(dl,'Document type',docTypes[r.document_status]||nice(r.document_status));
  body.append(dl);e.append(el('summary','Details'),body);panel.append(e);return panel}

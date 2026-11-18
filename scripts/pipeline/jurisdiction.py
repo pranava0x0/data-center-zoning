@@ -122,6 +122,7 @@ def build_registry(written):
         overrides=overrides,
         prerequisites=old.get('prerequisites', {}),
         gaps=old.get('gaps', {}),
+        technology_collectors=old.get('technology_collectors', {}),
         collectors=collectors,
         jurisdictions={k: by[k] for k in sorted(by)},
     )
@@ -339,11 +340,29 @@ def cmd_refresh(a):
     sys.exit(0 if result['ok'] else 1)
 
 
+def cmd_telecom(a):
+    config = load()['technology_collectors']['fiber_telecom_va']
+    before = {str(p): sha(p) for p in (OUT / 'history').rglob('*.json')}
+    outputs = [R / p for p in config['outputs']]
+    snapshots = []
+    for _ in range(2):
+        rc, secs, message = run(config['collector'])
+        if rc:
+            raise RuntimeError(message)
+        snapshots.append([sha(p) for p in outputs])
+    if snapshots[0] != snapshots[1]:
+        raise ValueError('Telecom replay differs across runs')
+    if before != {str(p): sha(p) for p in (OUT / 'history').rglob('*.json')}:
+        raise ValueError('Telecom replay changed data-center history')
+    print('Telecom: two offline replays match; data-center history unchanged')
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest='cmd', required=True)
     sub.add_parser('list').set_defaults(f=cmd_list)
     sub.add_parser('trace').set_defaults(f=cmd_trace)
+    sub.add_parser('telecom', help='Replay the separate Virginia telecom pilot offline').set_defaults(f=cmd_telecom)
     c = sub.add_parser('check'); c.add_argument('jurisdictions', nargs='*'); c.add_argument('--all', action='store_true'); c.set_defaults(f=cmd_check)
     r = sub.add_parser('refresh'); r.add_argument('jurisdiction')
     r.add_argument('--include-national', action='store_true', help='also run national collectors (FAA, Corps, EPA water...) live')

@@ -1,0 +1,1788 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Search | Virginia Permit Transparency</title>
+
+    <script type="text/javascript" src="/ruxitagentjs_ICANVfhqru_10345260810170330.js" data-dtconfig="rid=RID_1288220436|rpid=-1187428038|domain=virginia.gov|reportUrl=/rb_013b3567-632b-4cbd-b01c-2b215064b4b1|app=7d85712094ef5691|cuc=hr0a6opg|owasp=1|mel=100000|featureHash=ICANVfhqru|dpvc=1|md=mdcc1=bstrUPN|lastModification=1793122764995|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/ruxitagentjs_ICANVfhqru_10345260810170330.js"></script><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+    <link rel='preload' as='style' href='https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Condensed:wght@700&display=swap'>
+    <link rel='preload' as='style' href='https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@400;500&display=swap'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Condensed:wght@700&display=swap'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@400;500&display=swap'>
+
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/datatables.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap-select.min.css" />
+
+    <link rel="stylesheet" href="/lib/bootstrap-icons/bootstrap-icons.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=2U-G1wIRTmNeCxTHGwiLGqluhmOUaRm3NGz3lcR0D8Q" />
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/js/apexcharts.min.js"></script>
+    <script src="https://www.developer.virginia.gov/media/developer/resources/branding-bar/brandingbar.php" data-item="va_aabrandingbar" aaname="Virginia Permit Transparency (VPT)" aatheme="aatheme-black" aaAnchorTag="https://www.governor.virginia.gov" defer=""></script>
+
+    </head>
+<body>
+    <header b-g3fysvvyfx>
+        <nav b-g3fysvvyfx class="navbar vpt-navbar navbar-expand-md navbar-toggleable-md navbar-light border-bottom box-shadow align-items-end">
+            <div b-g3fysvvyfx class="container-fluid container-md justify-content-start">
+                <div b-g3fysvvyfx id="vita-banner"></div>
+                <div b-g3fysvvyfx class="col-10 col-md-5 navbar-brand-section">
+                    <a class="navbar-brand" href="/"><span b-g3fysvvyfx class="navbar-title">Virginia Permit Transparency (VPT)</span></a>
+                </div>
+                <div b-g3fysvvyfx class="col-2 col-md-1 d-flex justify-content-end pe-3">
+                    <button b-g3fysvvyfx id="navbar-menu-btn" class="collapsed text-decoration-none" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" 
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span b-g3fysvvyfx class="custom-navbar-icon d-md-none"></span>
+                    </button>
+                </div>
+                <div b-g3fysvvyfx class="col-12 col-md-6">
+                    <div b-g3fysvvyfx class="navbar-collapse collapse d-md-inline-flex justify-content-between">
+                        <ul b-g3fysvvyfx class="navbar-nav flex-grow-1 justify-content-end">
+                            <li b-g3fysvvyfx class="nav-item">
+                                <a class="nav-link navbar-link" href="/Home/About">About VPT</a>
+                            </li>
+                            <li b-g3fysvvyfx class="nav-item">
+                                <a class="nav-link navbar-link" href="/Agency">Participating Agencies</a>
+                            </li>
+                            <li b-g3fysvvyfx class="nav-item">
+                                <a class="call-to-action-btn-min-contrast" href="/Permit/Search">
+                                    Search Applications
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main b-g3fysvvyfx role="main" id="vpt-page-content" class="main-display flex-grow-1 h-100" tabindex="-1">
+        <div b-g3fysvvyfx class="container-fluid p-0">
+            
+
+<div class="search-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav style="--bs-breadcrumb-divider: ' > ';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"> <a href="/">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Search</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h1 class="page-header-title">Search Applications</h1>
+            </div>
+        </div>
+        <div class="row pb-5">
+            <div class="col-12">
+                <p>
+                    Search and filter to see the status of applications by Application Number, Agency, Locality, or other details.
+                    The issuing agencies update VPT with application data daily.
+                </p>
+            </div>
+        </div>
+        <h2 class="visually-hidden">For Siteimprove</h2>
+        <h3 class="visually-hidden">For Siteimprove</h3>
+        <h4 class="visually-hidden">For Siteimprove</h4>
+        <h5 class="visually-hidden">For Siteimprove</h5>
+        <div class="form-container">
+            <form id="application-search-form" class="search-form" onsubmit="hardSearch(event)">
+                <div class="row pb-2 pb-lg-4">
+                    <div class="col-12 col-lg-7 col-xxl-8 mb-2 mb-lg-0">
+                        <label for="primary-search">Application Number, Applicant Name, Agent Name, or Facility Name</label>
+                        <div class="input-group form-control">
+                            <div class="input-group-text bg-transparent border-0"><i class="bi bi-search" aria-hidden="true"></i></div>
+                            <input id="primary-search" type="search" class="border-0 form-control" oninput="updateResetButton()" aria-labelledby="primary-search">
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-5 col-xxl-4">
+                        <div id="application-received-date-label">Application Received Date Range</div>
+                        <div role="group" id="application-received-date" class="row" aria-labelledby="application-received-date-label">
+                            <div class="col-12 col-md-6 pb-1 pb-md-0">
+                                <div class="input-group form-control">
+                                    <label for="application-received-start" class="datepicker-text">Start</label>
+                                    <input type="date" id="application-received-start" class="form-control datepicker" placeholder="MM/DD/YY" onchange="updateResetButton()" aria-labelledby="application-received-start" />
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="input-group form-control">
+                                    <label for="application-received-end" class="datepicker-text">End</label>
+                                    <input type="date" id="application-received-end" class="form-control datepicker" placeholder="MM/DD/YY" onchange="updateResetButton()" aria-labelledby="application-received-end" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div id="agency-list-group" class="col-12 col-lg-2 col-md-6 mb-2 mb-lg-0">
+                        <label id="agency-list-label" for="agency-list">Agency Name</label>
+                        <select id="agency-list" class="form-control form-control-multiselect selectpicker" multiple aria-labelledby="agency-list-label" title="None Selected" data-selected-text-format="count>1" data-live-search="true"><option value="1">DBHDS</option>
+<option value="2">DCR</option>
+<option value="3">DEQ</option>
+<option value="4">DMV</option>
+<option value="5">DSS</option>
+<option value="6">ENERGY</option>
+<option value="7">VDH</option>
+<option value="8">VDOT</option>
+<option value="9">VMRC</option>
+<option value="10">VSP</option>
+</select>
+                    </div>
+                    <div id="program-type-list-group" class="col-12 col-lg-2 col-md-6 mb-2 mb-lg-0">
+                        <label id="program-type-list-label" for="program-type-list">Program Type</label>
+                        <select id="program-type-list" class="form-control form-control-multiselect selectpicker" multiple aria-labelledby="program-type-list-label" title="None Selected" data-selected-text-format="count>1" data-live-search="true"><option value="1">Air Permits</option>
+<option value="2">Animal Waste</option>
+<option value="3">BUFI</option>
+<option value="5">Childrens Residential Service Application - Non-Priority</option>
+<option value="6">Childrens Residential Service Application - Priority 1</option>
+<option value="7">Childrens Residential Service Application - Priority 2</option>
+<option value="4">COPN</option>
+<option value="8">Dam Safety</option>
+<option value="9">Drinking Water</option>
+<option value="10">Emergency Medical Services</option>
+<option value="11">Food and Tourism</option>
+<option value="12">Gas &amp; Oil</option>
+<option value="13">Groundwater Withdrawal</option>
+<option value="14">Habitat Management</option>
+<option value="15">Initial Service Application (General Services) - Non-Priority</option>
+<option value="16">Initial Service Application (General Services) - Priority 1</option>
+<option value="17">Initial Service Application (General Services) - Priority 2</option>
+<option value="18">Land Development</option>
+<option value="19">Land Use</option>
+<option value="20">Licensing Programs</option>
+<option value="23">Marina</option>
+<option value="21">MCHIP PRA</option>
+<option value="24">Mined Land Repurposing</option>
+<option value="25">Mineral Mining</option>
+<option value="26">Mitigation Banking</option>
+<option value="27">Motor Carriers</option>
+<option value="28">Motor Vehicle Inspection Program</option>
+<option value="22">MVIP [9-1-25] New Workflows</option>
+<option value="29">Nutrient Banking</option>
+<option value="30">Onsite Sewage</option>
+<option value="31">Outdoor Advertising</option>
+<option value="33">Private Wells</option>
+<option value="32">PSAP</option>
+<option value="34">Radioactive Materials</option>
+<option value="35">Renewable Energy</option>
+<option value="36">Service Modification Application (General Services)</option>
+<option value="37">Shellfish Safety</option>
+<option value="38">Solid Waste</option>
+<option value="39">Stormwater Plan Review</option>
+<option value="40">VPA</option>
+<option value="41">VPDES</option>
+<option value="42">VWPP</option>
+<option value="43">XRay</option>
+</select>
+                    </div>
+                    <div id="permit-type-list-group" class="col-12 col-lg-2 col-md-6 mb-2 mb-lg-0">
+                        <label id="permit-type-list-label" for="permit-type-list">Application Type</label>
+                        <select id="permit-type-list" class="form-control form-control-multiselect selectpicker" multiple aria-labelledby="permit-type-list-label" title="None Selected" data-selected-text-format="count>1" data-live-search="true"><option value="1">01-001 - DD Residential Group Home Service for Adults</option>
+<option value="2">01-001 - DD Residential Group Home Service for Adults</option>
+<option value="3">01-003 - MH Residential Group Home Service for Adults</option>
+<option value="4">01-003 - MH Residential Group Home Service for Adults</option>
+<option value="5">01-004 - DD Residential Crisis Stabilization Group Home Service - REACH for Adults</option>
+<option value="6">01-005 - DD Residential ICF-IID Service for Adults</option>
+<option value="7">01-005 - DD Residential ICF-IID Service for Adults</option>
+<option value="8">01-007 - Brain Injury Residential Treatment Service for Adults</option>
+<option value="9">01-007 - Brain Injury Residential Treatment Service for Adults</option>
+<option value="10">01-011 - DD Residential Supervised Living Service for Adults</option>
+<option value="11">01-011 - DD Residential Supervised Living Service for Adults</option>
+<option value="12">01-012 - MH Residential Supervised Living Service for Adults</option>
+<option value="13">01-012 - MH Residential Supervised Living Service for Adults</option>
+<option value="14">01-019 - MH Residential Crisis Stabilization Service for Adults</option>
+<option value="15">01-019 - MH Residential Crisis Stabilization Service for Adults</option>
+<option value="16">01-020 - MH Residential Crisis Stabilization Service for Children and Adolescents</option>
+<option value="17">01-020 - MH Residential Crisis Stabilization Service for Children and Adolescents</option>
+<option value="18">01-036 - DD Residential Respite Service for Adults</option>
+<option value="19">01-036 - DD Residential Respite Service for Adults</option>
+<option value="20">01-041 - DD Residential Crisis Stabilization Group Home Service - REACH for Children and Adolescents</option>
+<option value="21">01-043 - SA Residential Clinically Managed High-Intensity Service - ASAM Level 3.5 for Adults</option>
+<option value="22">01-043 - SA Residential Clinically Managed High-Intensity Service - ASAM Level 3.5 for Adults</option>
+<option value="23">01-044 - SA Residential Specific High-Intensity Service - ASAM Level 3.3 for Adults</option>
+<option value="24">01-044 - SA Residential Specific High-Intensity Service - ASAM Level 3.3 for Adults</option>
+<option value="25">01-045 - SA Residential Clinically Managed Low-Intensity Service - ASAM Level 3.1 for Adults</option>
+<option value="26">01-045 - SA Residential Clinically Managed Low-Intensity Service - ASAM Level 3.1 for Adults</option>
+<option value="27">01-046 - MH Residential Treatment Service for Adults</option>
+<option value="28">01-046 - MH Residential Treatment Service for Adults</option>
+<option value="29">02-004 - DD Center-Based Respite Service</option>
+<option value="30">02-004 - DD Center-Based Respite Service</option>
+<option value="31">02-006 - DD Center-Based Day Support Service for Adults</option>
+<option value="32">02-006 - DD Center-Based Day Support Service for Adults</option>
+<option value="33">02-007 - DD Center-Based Day Support Service for Children and Adolescents</option>
+<option value="34">02-007 - DD Center-Based Day Support Service for Children and Adolescents</option>
+<option value="35">02-008 - DD Non-Center-Based Day Support Service for Adults</option>
+<option value="36">02-008 - DD Non-Center-Based Day Support Service for Adults</option>
+<option value="37">02-009 - DD Non-Center-Based Day Support Service for Children and Adolescents</option>
+<option value="38">02-009 - DD Non-Center-Based Day Support Service for Children and Adolescents</option>
+<option value="39">02-011 - MH Center-Based Psychosocial Rehabilitation Service for Adults</option>
+<option value="40">02-011 - MH Center-Based Psychosocial Rehabilitation Service for Adults</option>
+<option value="41">02-019 - MH Center-Based Partial Hospitalization Service for Adults</option>
+<option value="42">02-019 - MH Center-Based Partial Hospitalization Service for Adults</option>
+<option value="43">02-029 - MH Therapeutic Day Treatment Service for Children and Adolescents</option>
+<option value="44">02-029 - MH Therapeutic Day Treatment Service for Children and Adolescents</option>
+<option value="45">02-032 - MH Center-Based Partial Hospitalization Service for Children and Adolescents</option>
+<option value="46">02-032 - MH Center-Based Partial Hospitalization Service for Children and Adolescents</option>
+<option value="47">02-033 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Adults</option>
+<option value="48">02-033 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Adults</option>
+<option value="49">02-033 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Adults </option>
+<option value="50">02-034 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Children and Adolescents</option>
+<option value="51">02-034 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Children and Adolescents</option>
+<option value="52">02-035 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Adults</option>
+<option value="53">02-035 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Adults</option>
+<option value="54">02-036 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Children and Adolescents</option>
+<option value="55">02-036 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Children and Adolescents</option>
+<option value="56">02-037 - MH Center-Based Intensive Outpatient Service for Adults</option>
+<option value="57">02-037 - MH Center-Based Intensive Outpatient Service for Adults</option>
+<option value="58">02-038 - MH Center-Based Intensive Outpatient Service for Children and Adolescents</option>
+<option value="59">02-038 - MH Center-Based Intensive Outpatient Service for Children and Adolescents</option>
+<option value="60">02-040 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Adults</option>
+<option value="61">02-040 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Adults</option>
+<option value="62">02-041 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Children and Adolescents</option>
+<option value="63">02-041 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Children and Adolescents</option>
+<option value="64">03-001 - MH Non-Center-Based Community Supports (Skill Building) Service for Adults</option>
+<option value="65">03-001 - MH Non-Center-Based Community Supports (Skill Building) Service for Adults</option>
+<option value="66">03-011 - DD Non-Center-Based Supportive In-Home Service</option>
+<option value="67">03-011 - DD Non-Center-Based Supportive In-Home Service</option>
+<option value="68">03-020 - MH Non-Center-Based Community Psychiatric Support and Treatment Service for Adults</option>
+<option value="69">03-020 - MH Non-Center-Based Community Psychiatric Support and Treatment Service for Adults</option>
+<option value="70">03-021 - MH Non-Center-Based Community Psychiatric Support and Treatment Service for Children and Adolescents</option>
+<option value="71">03-022 - MH Center-Based Coordinated Specialty Care Service</option>
+<option value="72">03-023 - MH Center-Based Recovery and Empowerment Center Service for Adults</option>
+<option value="73">04-001 - MH Inpatient Psychiatric Service for Adults</option>
+<option value="74">04-001 - MH Inpatient Psychiatric Service for Adults</option>
+<option value="75">04-015 - SA Medically Monitored Intensive Inpatient Service - ASAM Level 3.7 for Adults</option>
+<option value="76">04-016 - SA Medically Monitored Intensive Inpatient Service - ASAM Level 3.7 for Children and Adolescents</option>
+<option value="77">05-001 - MH Intensive In-Home Service for Children and Adolescents</option>
+<option value="78">05-001 - MH Intensive In-Home Service for Children and Adolescents</option>
+<option value="79">06-003 - SA Center-Based Medication Assisted Opioid Treatment Service</option>
+<option value="80">06-003 - SA Center-Based Medication Assisted Opioid Treatment Service</option>
+<option value="81">07-003 - MH Outpatient Service</option>
+<option value="82">07-003 - MH Outpatient Service</option>
+<option value="83">07-006 - MH Non-Center-Based Community Crisis Service</option>
+<option value="84">07-006 - MH Non-Center-Based Community Crisis Service</option>
+<option value="85">07-007 - DD Non-Center-Based Crisis Stabilization Service ? REACH</option>
+<option value="86">07-013 - SA Outpatient Service - ASAM Level 1.0 for Adults</option>
+<option value="87">07-013 - SA Outpatient Service - ASAM Level 1.0 for Adults</option>
+<option value="88">07-014 - SA Outpatient Service - ASAM Level 1.0 for Children and Adolescents</option>
+<option value="89">07-014 - SA Outpatient Service - ASAM Level 1.0 for Children and Adolescents</option>
+<option value="90">08-011 - DD Sponsored Residential Home Service for Adults</option>
+<option value="91">08-011 - DD Sponsored Residential Home Service for Adults</option>
+<option value="92">08-013 - DD Sponsored Residential Home Service for Children and Adolescents</option>
+<option value="93">08-013 - DD Sponsored Residential Home Service for Children and Adolescents</option>
+<option value="94">08-014 - MH Sponsored Residential Home Service</option>
+<option value="95">08-014 - MH Sponsored Residential Home Service</option>
+<option value="96">10-001 - DD In-Home Respite Service</option>
+<option value="97">10-001 - DD In-Home Respite Service</option>
+<option value="98">11-001 - MH Correctional Facility RTC Service</option>
+<option value="99">14-001 - MH Psychiatric Residential Treatment Facility (PRTF) Service for Children and Adolescents</option>
+<option value="100">14-008 - MH Residential Therapeutic Group Home Service for Children and Adolescents</option>
+<option value="101">14-009 - MH Residential Therapeutic Group Home Service for Children and Adolescents</option>
+<option value="102">14-010 - MH Residential Therapeutic Group Home Service for Children and Adolescents</option>
+<option value="103">14-011 - MH Residential Therapeutic Group Home Service for Children and Adolescents</option>
+<option value="104">14-012 - MH Residential Therapeutic Group Home Service for Children and Adolescents</option>
+<option value="105">14-015 - MH Residential Therapeutic Group Home Service for Children and Adolescents</option>
+<option value="106">14-035 - DD Residential Group Home Service for Children and Adolescents</option>
+<option value="107">14-036 - DD Residential Group Home Service for Children and Adolescents</option>
+<option value="108">14-041 - DD Residential Group Home Service for Children and Adolescents</option>
+<option value="109">14-063 - SA Residential Clinically Managed Low-Intensity Service - ASAM Level 3.1 for Children and Adolescents</option>
+<option value="110">14-066 - DD Residential ICF-IID Service for Children and Adolescents</option>
+<option value="111">14-094 - DD Residential Respite Service for Children and Adolescents</option>
+<option value="112">14-095 - DD Residential Respite Service for Children and Adolescents</option>
+<option value="113">14-097 - MH Residential Respite Service for Children and Adolescents</option>
+<option value="114">14-098 - MH Residential Respite Service for Children and Adolescents</option>
+<option value="115">16-002 - DD Case Management Service</option>
+<option value="116">16-003 - SA Case Management Service</option>
+<option value="117">16-003 - SA Case Management Service</option>
+<option value="118">16-004 - MH Case Management Service for Adults</option>
+<option value="119">16-004 - MH Case Management Service for Adults</option>
+<option value="120">16-005 - MH Case Management Service for Children and Adolescents</option>
+<option value="121">16-005 - MH Case Management Service for Children and Adolescents</option>
+<option value="122">18-002 - MH ACT Service - Small Team</option>
+<option value="123">18-002 - MH ACT Service - Small Team</option>
+<option value="124">18-003 - MH ACT Service - Medium Team</option>
+<option value="125">18-003 - MH ACT Service - Medium Team</option>
+<option value="126">18-004 - MH ACT Service - Large Team</option>
+<option value="127">18-004 - MH ACT Service - Large Team</option>
+<option value="132">Accreditation</option>
+<option value="128">ACRES AMENDMENT</option>
+<option value="129">ACRES REVISION</option>
+<option value="130">ADC</option>
+<option value="133">Adult Care Home Service</option>
+<option value="134">Agricultural Use Agreement</option>
+<option value="135">Agriculture</option>
+<option value="131">ALF</option>
+<option value="136">Alteration Permit</option>
+<option value="137">Amendment</option>
+<option value="138">Annually Permitted</option>
+<option value="139">Application for Land Conversion Activity</option>
+<option value="140">Application for Other Activity</option>
+<option value="141">Article 1/3 - TV/TIV and TV - Initial or Renewal</option>
+<option value="142">Article 1/3 - TV/TIV and TV - Minor Mod</option>
+<option value="143">Article 1/3 - TV/TIV and TV - Significant Mod</option>
+<option value="144">Article 5 SOP - Federally Enforceable</option>
+<option value="145">Article 5 SOP - Non Federally Enforceable</option>
+<option value="146">Article 6 Minor NSR - No Public Interest</option>
+<option value="147">Article 6 Minor NSR - With Public Interest</option>
+<option value="148">Article 6 State Major - New Stationary Source</option>
+<option value="149">Article 8 Major NSR PSD</option>
+<option value="150">Article 8 Major NSR PSD Minor Amendment</option>
+<option value="151">Article 8 Major NSR PSD Significant Amendment</option>
+<option value="152">As-Built Permit No Fee Permit 24VAC30-151-710</option>
+<option value="153">AsBuilt Report Credit Release</option>
+<option value="156">Bank Closure</option>
+<option value="157">Bed &amp; Breakfast Food Service</option>
+<option value="158">Bed &amp; Breakfast Lodging</option>
+<option value="159">Bicycle Locker Rental - Fairfax</option>
+<option value="160">Boat Ramps</option>
+<option value="154">BOND REDUCTION</option>
+<option value="161">Booth</option>
+<option value="155">BR</option>
+<option value="162">Building</option>
+<option value="163">Building Movement</option>
+<option value="164">Bus Shelter</option>
+<option value="169">Camera attachement</option>
+<option value="170">Carry Out</option>
+<option value="171">Caterer</option>
+<option value="172">Cell Tower</option>
+<option value="173">Chapter 510 NMM General Permit</option>
+<option value="174">Child Care Food Service</option>
+<option value="175">Chutes, tipples, similar Stuctures.</option>
+<option value="165">CLEANUP</option>
+<option value="176">Commercial</option>
+<option value="177">Commercial Entrance</option>
+<option value="178">Commercial Entrance Exception Request/provide link</option>
+<option value="179">Commercial Use Agreement</option>
+<option value="180">Commissary</option>
+<option value="166">COMPLETION RPT</option>
+<option value="181">Comprehensive Plan Review</option>
+<option value="182">Construction</option>
+<option value="183">Construction Permit</option>
+<option value="184">Construction Permit</option>
+<option value="185">Construction Plan Review</option>
+<option value="186">Construction Plan Review, Final Plat Review</option>
+<option value="187">Construction Plan Review, Preliminary Plan</option>
+<option value="188">Construction Plan Review, Site Plan</option>
+<option value="189">Construction Plan Review, Site Plan, Final Plat Review</option>
+<option value="190">Construction Plan Review, Site Plan, Preliminary Plat Review</option>
+<option value="191">Continental Breakfast</option>
+<option value="192">Convenience Store Food Service</option>
+<option value="167">COPN</option>
+<option value="193">Correctional Facility</option>
+<option value="194">Corrective Action</option>
+<option value="195">Countywide Permit  Overhead Fiber Co-Location</option>
+<option value="196">Countywide Permit &#xFFFD; Overhead Co-Location</option>
+<option value="197">Crab</option>
+<option value="198">Crest Stage Gauges No Fee Permit 24VAC30-151-710</option>
+<option value="168">CRF</option>
+<option value="199">Cultural Resource Investigation</option>
+<option value="200">Distributor</option>
+<option value="201">Drinking/Domestic Use</option>
+<option value="202">Educational Facility Food Service</option>
+<option value="203">Environmental spill clean up</option>
+<option value="204">Exemptions, Exceptions &amp; Waivers</option>
+<option value="205">Fast Food</option>
+<option value="206">Fence replacement/modification/removal</option>
+<option value="207">Fiber Optic Under Resource Agreement</option>
+<option value="208">Final Plat Review</option>
+<option value="209">Final Plat Review, Preliminary Plan</option>
+<option value="210">Final Plat Review, Preliminary Plat Review</option>
+<option value="211">Final Plat Review, Preliminary Plat Review, Preliminary Plan</option>
+<option value="212">Financial Assurance Release</option>
+<option value="213">Full Service Restaurant</option>
+<option value="214">General</option>
+<option value="215">Geotechnical Testing</option>
+<option value="216">Geothermal</option>
+<option value="217">Golf Cart  &amp; Utility</option>
+<option value="218">Grading</option>
+<option value="219">Grocery Store Food Service</option>
+<option value="220">Groundwater Withdrawal Individual Permit</option>
+<option value="221">Groundwater Withdrawal Major Modification</option>
+<option value="222">Group Home Food Service</option>
+<option value="223">Guardrail Installation / Modification</option>
+<option value="225">Health Care Food Facility</option>
+<option value="224">HG</option>
+<option value="226">Hospital Food Service</option>
+<option value="227">Hotel</option>
+<option value="228">IM</option>
+<option value="231">Importer</option>
+<option value="232">In-Place Permit No Fee Permit 24VAC30-151-710</option>
+<option value="233">Initial</option>
+<option value="234">Initial Credit Release</option>
+<option value="235">Inspection</option>
+<option value="236">Inspection (RadMat)</option>
+<option value="237">Inspection (XRay)</option>
+<option value="238">Inspection (XRay)</option>
+<option value="239">Inspector</option>
+<option value="240">Inspector</option>
+<option value="229">IR</option>
+<option value="230">IR-A</option>
+<option value="241">Irrigation</option>
+<option value="244">Land Conversion Credit Release</option>
+<option value="245">Land use permit application - Prior rights utility</option>
+<option value="246">Landscape Installation &amp; Maintenance</option>
+<option value="242">LCPA</option>
+<option value="247">License</option>
+<option value="248">License Plate Readers</option>
+<option value="249">Lighting</option>
+<option value="250">Living Shoreline GP1</option>
+<option value="251">Living Shoreline GP2</option>
+<option value="252">Locality Reduced Speed Limits</option>
+<option value="253">Locally Administered VDOT Project</option>
+<option value="254">Logging Entrance</option>
+<option value="255">Long Term Care and Other Custodial Living Centers</option>
+<option value="256">Low-Volume Commercial Entrance</option>
+<option value="243">LUP-SUWFC</option>
+<option value="259">Maintenance of Traffic / Traffic Control Set-up</option>
+<option value="260">Manufacturer</option>
+<option value="261">Marina</option>
+<option value="262">Medical X-Ray Certification</option>
+<option value="263">Migrant Labor Camp</option>
+<option value="264">Minor Modification</option>
+<option value="265">Mitigation Banking Instrument</option>
+<option value="266">Mobile Food Unit</option>
+<option value="267">Mobile Food Vending</option>
+<option value="268">Mobile Vehicle</option>
+<option value="269">Moderate Volume commercial Entrance</option>
+<option value="270">Modification</option>
+<option value="272">Modification of a Land Conversion Activity</option>
+<option value="271">Modification of Other Credit Generating Activity</option>
+<option value="273">Monitoring Year</option>
+<option value="274">Monitoring Year Credit Releases</option>
+<option value="275">Motel</option>
+<option value="276">Movie Filming No Fee Permit 24VAC30-151-710</option>
+<option value="257">MS4 General Permit</option>
+<option value="258">MS4 Individual Permit</option>
+<option value="278">New</option>
+<option value="277">NEW CSMO/NPDES</option>
+<option value="279">New Permit</option>
+<option value="280">No Loitering Signs No Fee Permit 24VAC30-151-710</option>
+<option value="281">No VMRC Permit Nec.</option>
+<option value="282">No VMRC Permit Nec. (Pier)</option>
+<option value="283">Non-Medical X-Ray Certification</option>
+<option value="284">One Time Litter Pick Up</option>
+<option value="285">Operation</option>
+<option value="286">Other</option>
+<option value="287">Other Credit Generating Activity Credit Release</option>
+<option value="288">Other Place Where Boats Are Moored</option>
+<option value="289">Outdoor Advertising Structure</option>
+<option value="290">Oversized &amp; Overweight Vehicle</option>
+<option value="291">PA</option>
+<option value="292">PC</option>
+<option value="295">Pending</option>
+<option value="296">Permit</option>
+<option value="297">Permit agreement for occupation of right-of-way</option>
+<option value="293">PERMIT RELEASE</option>
+<option value="298">Perpetual Maintenance Permit</option>
+<option value="299">Photo Enforcement Safety Red Zone</option>
+<option value="300">Photo-Red Camera System Installation</option>
+<option value="301">Plan Review</option>
+<option value="302">Plan Review Modification</option>
+<option value="294">PLANS REVISION</option>
+<option value="303">PreApplication</option>
+<option value="304">Preliminary Plan</option>
+<option value="305">Preliminary Plat Review</option>
+<option value="306">Preliminary Plat Review, Comprehensive Plan Review</option>
+<option value="307">Preliminary Plat Review, Preliminary Plan</option>
+<option value="308">Preliminary Review of Draft Prospectus</option>
+<option value="309">Prior-Rights Permit</option>
+<option value="310">Private Entrance</option>
+<option value="311">Private Utility Crossing</option>
+<option value="312">Prospectus</option>
+<option value="313">Protest</option>
+<option value="314">Push Cart</option>
+<option value="315">REISSUE NPDES</option>
+<option value="316">REN/REISSUE C/N</option>
+<option value="321">Renewable Energy PBR Application</option>
+<option value="322">Renewable Energy PBR De Minimis Project</option>
+<option value="323">Renewable Energy PBR Modification</option>
+<option value="324">Renewal</option>
+<option value="325">Renewal</option>
+<option value="317">RENEWAL C/N</option>
+<option value="318">RENEWAL NPDES</option>
+<option value="326">Renewals</option>
+<option value="327">Renovator</option>
+<option value="328">Repacker</option>
+<option value="329">Repair Permit</option>
+<option value="330">Reshipper</option>
+<option value="331">Residential Street Tie-in Entrance</option>
+<option value="332">Restaurant</option>
+<option value="333">Reupholsterer</option>
+<option value="334">Road Construction</option>
+<option value="335">Roadside Memorial No Fee Permit 24VAC30-151-710</option>
+<option value="336">Roadside Memorial Sign Installation</option>
+<option value="319">ROW Accomodation Permit</option>
+<option value="320">ROW Property Management Records</option>
+<option value="339">Sanitizer</option>
+<option value="340">School Zone Photo Enforcement</option>
+<option value="341">School Zone Photo Enforcement - SZPE</option>
+<option value="342">School Zone Speed Limit</option>
+<option value="343">Secondary Roads Addition</option>
+<option value="344">Shellstock Shipper</option>
+<option value="345">Shucker/Packer</option>
+<option value="346">Sidewalks</option>
+<option value="347">Signage (All Types)</option>
+<option value="348">Single use permit surveying operations</option>
+<option value="349">Single use temporary logging entrance</option>
+<option value="350">Site Plan</option>
+<option value="351">Site Plan, Comprehensive Plan Review</option>
+<option value="352">Site Plan, Final Plat Review</option>
+<option value="353">Site Plan, Final Plat Review, Preliminary Plat Review, Preliminary Plan</option>
+<option value="354">Site Plan, Preliminary Plan</option>
+<option value="355">Site Plan, Preliminary Plat Review</option>
+<option value="356">Site Plan, Preliminary Plat Review, Preliminary Plan</option>
+<option value="357">Small Transit Shelter Installations</option>
+<option value="358">Solar Erosion and Sediment Control Plan Review</option>
+<option value="359">Solid Waste Minor Modification</option>
+<option value="360">Solid Waste Part A Authorization</option>
+<option value="361">Solid Waste Part B New or Major Modification</option>
+<option value="362">Solid Waste Permit-By-Rule New or Modification</option>
+<option value="363">Special Event - Commuter Park &amp; Ride Lot</option>
+<option value="364">Special Use Activity / Parade / Race / March</option>
+<option value="365">Springs and Wells No Fee Permit 24VAC30-151-710</option>
+<option value="337">SS</option>
+<option value="366">State Programmatic General Permits 22-SPGPs</option>
+<option value="367">State Programmatic General Permits 26-SPGPs</option>
+<option value="368">State Surface Water Determination - Certified</option>
+<option value="369">State Surface Water Determination - Non-Certified</option>
+<option value="458">station</option>
+<option value="370">Station</option>
+<option value="371">Station</option>
+<option value="372">Storm Drain Stencil Painting</option>
+<option value="373">Storm drain stenciling</option>
+<option value="374">Streamlined MBI Modification</option>
+<option value="375">Streamlined Plan Review</option>
+<option value="376">Strom Sewer discharge</option>
+<option value="338">SUCCESSION C/N</option>
+<option value="377">Summer Camp</option>
+<option value="378">Summer Camp Food Service</option>
+<option value="379">Supplemental</option>
+<option value="380">Supply Dealer</option>
+<option value="382">Surface Water Withdrawal VWP Individual Permit</option>
+<option value="381">Surface Water Withdrawal VWP IP Major Mod</option>
+<option value="383">Surveying</option>
+<option value="385">Temporary Construction Entrance</option>
+<option value="386">Tent</option>
+<option value="459">tent/canopy</option>
+<option value="387">Tent/Canopy</option>
+<option value="384">TN</option>
+<option value="388">To Be Determined</option>
+<option value="389">Tourist/Lodging Pool</option>
+<option value="390">Traffic Impact Analysis</option>
+<option value="391">Traffic Signal Installation / Modification</option>
+<option value="392">Trailer</option>
+<option value="393">Transfer</option>
+<option value="394">Transfer</option>
+<option value="395">Truck</option>
+<option value="396">Under Surveillance</option>
+<option value="397">Underground Utility Crossing</option>
+<option value="398">Utility - DAS Antenna</option>
+<option value="399">Utility - Fiber Optic</option>
+<option value="400">Utility - Open Cut</option>
+<option value="401">Utility - Overhead</option>
+<option value="402">Utility - Pole Installation / Replacement</option>
+<option value="403">Utility - Small Cell Facility co-location</option>
+<option value="404">Utility - Test Holes</option>
+<option value="405">Utility - Underground</option>
+<option value="407">Utility installations</option>
+<option value="406">Utility Service Connection</option>
+<option value="434">Vegetation Control - OA Structure</option>
+<option value="435">Vegetation Control - Single Business</option>
+<option value="436">Vegetation Control - Utility Tree Trimming</option>
+<option value="437">Vegetation control single business</option>
+<option value="438">Vending</option>
+<option value="408">VGP2 Groin(s)</option>
+<option value="409">VGP3 (Aquaculture)</option>
+<option value="410">VGP5 Utility Crossing General Permit</option>
+<option value="411">VGP6 (Emergency&amp;Water Quality)</option>
+<option value="412">VMRC (Subaqueous &amp;  Dune)</option>
+<option value="413">VMRC (Subaqueous &amp; Wetlands)</option>
+<option value="414">VMRC (Subaqueous Exploration)</option>
+<option value="415">VMRC Dune Only</option>
+<option value="416">VMRC Subaqueous</option>
+<option value="417">VMRC Subaqueous Aquaculture</option>
+<option value="418">VMRC Wetlands - Npn Pier</option>
+<option value="419">VMRC Wetlands Only</option>
+<option value="439">Voluntary Upgrade Permit</option>
+<option value="440">Volunteer Mowing</option>
+<option value="441">Volunteer mowing activities</option>
+<option value="420">VPA Animal Feeding Operations General Permit</option>
+<option value="421">VPA Individual Permit</option>
+<option value="422">VPA Poultry Waste Management General Permit</option>
+<option value="423">VPDES Domestic Sewage Shellfish General Permit</option>
+<option value="424">VPDES General Permit</option>
+<option value="426">VPDES Individual Permit</option>
+<option value="425">VPDES IP - Early Application</option>
+<option value="427">VPDES Reclamation &amp; Reuse Authorization</option>
+<option value="428">VWP General Permit 45 Day Coverage Application</option>
+<option value="429">VWP General Permit Coverage Application</option>
+<option value="430">VWP General Permit Coverage Application (VDOT)</option>
+<option value="431">VWP Individual Permit Application</option>
+<option value="432">VWP Individual Permit Application (VDOT)</option>
+<option value="433">VWP Individual Permit Major Modification</option>
+<option value="442">Wayfinding Sign Program</option>
+<option value="443">Wireless Facility Co-Location</option>
+<option value="444">Wireless Sup Strut colocation at 121 Feet &amp;above</option>
+<option value="451">Wireless suport sturctue Small Cell at 50 or below</option>
+<option value="445">Wireless Supp Struc Co-location 51 to 120 Feet</option>
+<option value="446">Wireless Supp Struc co-location at 50 Feet or Less</option>
+<option value="447">Wireless Support Structure 51 to 120 Feet</option>
+<option value="449">Wireless Support Structure at 121 Feet and above</option>
+<option value="450">Wireless Support Structure at 50 Feet or Less</option>
+<option value="448">Wireless Support Structure Small Cell at 50 or bel</option>
+<option value="452">Work Zone Speed Safety Camera Enforcement</option>
+<option value="453">Work Zone Speed Safety Camera Enforcement - W</option>
+<option value="454">Work Zone Speed Safety Camera Enforcement - WZSSC</option>
+<option value="455">Work zone traffic control for UT off RW</option>
+<option value="456">Zoning TIA Review</option>
+<option value="457">Zoning TIA Review, Comprehensive Plan Review</option>
+</select>
+                    </div>
+                    <div id="locality-list-group" class="col-12 col-lg-2 col-md-6 mb-3 mb-lg-0">
+                        <label id="locality-list-label" for="locality-list">Locality</label>
+                        <select id="locality-list" class="form-control form-control-multiselect selectpicker" multiple aria-labelledby="locality-list-label" title="None Selected" data-selected-text-format="count>1" data-live-search="true"><option value=""></option>
+<option value="A Bead/Vati Project">A Bead/Vati Project</option>
+<option value="Abingdon">Abingdon</option>
+<option value="Accomac">Accomac</option>
+<option value="Accomack">Accomack</option>
+<option value="Accomack County">Accomack County</option>
+<option value="Albemarle">Albemarle</option>
+<option value="Albemarle ">Albemarle </option>
+<option value="Albemarle County">Albemarle County</option>
+<option value="Alberta">Alberta</option>
+<option value="Alberta (In Brunswick County)">Alberta (In Brunswick County)</option>
+<option value="Alexandria">Alexandria</option>
+<option value="Alexandria City">Alexandria City</option>
+<option value="Alleghany">Alleghany</option>
+<option value="Alleghany County">Alleghany County</option>
+<option value="Alleghany County, City Of Covington">Alleghany County, City Of Covington</option>
+<option value="Altavista">Altavista</option>
+<option value="Amelia">Amelia</option>
+<option value="Amelia County">Amelia County</option>
+<option value="Amherst">Amherst</option>
+<option value="Amherst (County)">Amherst (County)</option>
+<option value="Amherst (In Amherst County)">Amherst (In Amherst County)</option>
+<option value="Amherst (Town)">Amherst (Town)</option>
+<option value="Amherst County">Amherst County</option>
+<option value="Appomattox">Appomattox</option>
+<option value="Appomattox (County)">Appomattox (County)</option>
+<option value="Appomattox (In Appomattox County)">Appomattox (In Appomattox County)</option>
+<option value="Appomattox (Town)">Appomattox (Town)</option>
+<option value="Appomattox County">Appomattox County</option>
+<option value="Arlington">Arlington</option>
+<option value="Arlington County">Arlington County</option>
+<option value="Ashland">Ashland</option>
+<option value="Augusta">Augusta</option>
+<option value="Augusta County">Augusta County</option>
+<option value="Bath">Bath</option>
+<option value="Bath County">Bath County</option>
+<option value="Bedford">Bedford</option>
+<option value="Bedford (County)">Bedford (County)</option>
+<option value="Bedford City">Bedford City</option>
+<option value="Bedford County">Bedford County</option>
+<option value="Berryville">Berryville</option>
+<option value="Berryville (In Clarke County)">Berryville (In Clarke County)</option>
+<option value="Big Stone Gap">Big Stone Gap</option>
+<option value="Blacksburg">Blacksburg</option>
+<option value="Blacksburg (In Montgomery County)">Blacksburg (In Montgomery County)</option>
+<option value="Blackstone">Blackstone</option>
+<option value="Blackstone (In Nottoway County)">Blackstone (In Nottoway County)</option>
+<option value="Bland">Bland</option>
+<option value="Bland County">Bland County</option>
+<option value="Bloxom">Bloxom</option>
+<option value="Bluefield">Bluefield</option>
+<option value="Botetourt">Botetourt</option>
+<option value="Botetourt County">Botetourt County</option>
+<option value="Bowling Green (In Caroline County)">Bowling Green (In Caroline County)</option>
+<option value="Boydton">Boydton</option>
+<option value="Boydton (In Mecklenburg County)">Boydton (In Mecklenburg County)</option>
+<option value="Boykins (In Southampton County)">Boykins (In Southampton County)</option>
+<option value="Bridgewater">Bridgewater</option>
+<option value="Bristol">Bristol</option>
+<option value="Bristol City">Bristol City</option>
+<option value="Broadnax">Broadnax</option>
+<option value="Broadway">Broadway</option>
+<option value="Brodnax (In Brunswick County)">Brodnax (In Brunswick County)</option>
+<option value="Brookneal">Brookneal</option>
+<option value="Brunswick">Brunswick</option>
+<option value="Brunswick County">Brunswick County</option>
+<option value="Buchanan">Buchanan</option>
+<option value="Buchanan (County)">Buchanan (County)</option>
+<option value="Buchanan County">Buchanan County</option>
+<option value="Buckingham">Buckingham</option>
+<option value="Buckingham County">Buckingham County</option>
+<option value="Buckingham County, Fluvanna County">Buckingham County, Fluvanna County</option>
+<option value="Buena Vista">Buena Vista</option>
+<option value="Buena Vista City">Buena Vista City</option>
+<option value="Burkeville">Burkeville</option>
+<option value="Campbell">Campbell</option>
+<option value="Campbell County">Campbell County</option>
+<option value="Cape Charles">Cape Charles</option>
+<option value="Cape Charles (In Northampton County)">Cape Charles (In Northampton County)</option>
+<option value="Caroline">Caroline</option>
+<option value="Caroline County">Caroline County</option>
+<option value="Carroll">Carroll</option>
+<option value="Carroll County">Carroll County</option>
+<option value="Centreville">Centreville</option>
+<option value="Charles City">Charles City</option>
+<option value="Charles City County">Charles City County</option>
+<option value="Charlotte">Charlotte</option>
+<option value="Charlotte County">Charlotte County</option>
+<option value="Charlotte Court House">Charlotte Court House</option>
+<option value="Charlotte Court House (In Charlotte County)">Charlotte Court House (In Charlotte County)</option>
+<option value="Charlottesville">Charlottesville</option>
+<option value="Charlottesville City">Charlottesville City</option>
+<option value="Chase City">Chase City</option>
+<option value="Chase City (In Mecklenburg County)">Chase City (In Mecklenburg County)</option>
+<option value="Chatham">Chatham</option>
+<option value="Chatham (In Pittsylvania County)">Chatham (In Pittsylvania County)</option>
+<option value="Cheriton (In Northampton County)">Cheriton (In Northampton County)</option>
+<option value="Chesapeake">Chesapeake</option>
+<option value="Chesapeake City">Chesapeake City</option>
+<option value="Chesterfield">Chesterfield</option>
+<option value="Chesterfield County">Chesterfield County</option>
+<option value="Chincoteague (In Accomack County)">Chincoteague (In Accomack County)</option>
+<option value="Christiansburg">Christiansburg</option>
+<option value="City Of Alexandria">City Of Alexandria</option>
+<option value="City Of Bedford">City Of Bedford</option>
+<option value="City Of Blacksburg">City Of Blacksburg</option>
+<option value="City Of Bristol">City Of Bristol</option>
+<option value="City Of Charlottesville">City Of Charlottesville</option>
+<option value="City Of Chesapeake">City Of Chesapeake</option>
+<option value="City Of Colonial Heights">City Of Colonial Heights</option>
+<option value="City Of Danville">City Of Danville</option>
+<option value="City Of Emporia">City Of Emporia</option>
+<option value="City Of Falls Church">City Of Falls Church</option>
+<option value="City Of Franklin">City Of Franklin</option>
+<option value="City Of Fredericksburg">City Of Fredericksburg</option>
+<option value="City Of Galax">City Of Galax</option>
+<option value="City Of Hampton">City Of Hampton</option>
+<option value="City Of Harrisonburg">City Of Harrisonburg</option>
+<option value="City Of Hopewell">City Of Hopewell</option>
+<option value="City Of Lynchburg">City Of Lynchburg</option>
+<option value="City Of Manassas">City Of Manassas</option>
+<option value="City Of Manassas Park">City Of Manassas Park</option>
+<option value="City Of Newport News">City Of Newport News</option>
+<option value="City Of Norfolk">City Of Norfolk</option>
+<option value="City Of Norton">City Of Norton</option>
+<option value="City Of Petersburg">City Of Petersburg</option>
+<option value="City Of Portsmouth">City Of Portsmouth</option>
+<option value="City Of Radford">City Of Radford</option>
+<option value="City Of Richmond">City Of Richmond</option>
+<option value="City Of Richmond, Chesterfield County">City Of Richmond, Chesterfield County</option>
+<option value="City Of Roanoke">City Of Roanoke</option>
+<option value="City Of Salem">City Of Salem</option>
+<option value="City Of Staunton">City Of Staunton</option>
+<option value="City Of Suffolk">City Of Suffolk</option>
+<option value="City Of Virginia Beach">City Of Virginia Beach</option>
+<option value="City Of Virginia Beach, City Of Chesapeake">City Of Virginia Beach, City Of Chesapeake</option>
+<option value="City Of Waynesboro">City Of Waynesboro</option>
+<option value="City Of Williamsburg">City Of Williamsburg</option>
+<option value="City Of Winchester">City Of Winchester</option>
+<option value="Clarke">Clarke</option>
+<option value="Clarke County">Clarke County</option>
+<option value="Clarksville">Clarksville</option>
+<option value="Clarksville (In Mecklenburg County)">Clarksville (In Mecklenburg County)</option>
+<option value="Clifton Forge">Clifton Forge</option>
+<option value="Clinchco (In Dickenson County)">Clinchco (In Dickenson County)</option>
+<option value="Clintwood (In Dickenson County)">Clintwood (In Dickenson County)</option>
+<option value="Colonial Beach">Colonial Beach</option>
+<option value="Colonial Beach (In Westmoreland County)">Colonial Beach (In Westmoreland County)</option>
+<option value="Colonial Heights">Colonial Heights</option>
+<option value="Colonial Heights City">Colonial Heights City</option>
+<option value="County Of Albemarle">County Of Albemarle</option>
+<option value="County Of Alleghany">County Of Alleghany</option>
+<option value="County Of Amelia">County Of Amelia</option>
+<option value="County Of Amherst">County Of Amherst</option>
+<option value="County Of Appomattox">County Of Appomattox</option>
+<option value="County Of Arlington">County Of Arlington</option>
+<option value="County Of Bedford">County Of Bedford</option>
+<option value="County Of Bland">County Of Bland</option>
+<option value="County Of Botetourt">County Of Botetourt</option>
+<option value="County Of Brunswick">County Of Brunswick</option>
+<option value="County Of Buchanan">County Of Buchanan</option>
+<option value="County Of Buckingham">County Of Buckingham</option>
+<option value="County Of Campbell">County Of Campbell</option>
+<option value="County Of Caroline">County Of Caroline</option>
+<option value="County Of Carroll">County Of Carroll</option>
+<option value="County Of Charles City">County Of Charles City</option>
+<option value="County Of Charlotte">County Of Charlotte</option>
+<option value="County Of Chesterfield">County Of Chesterfield</option>
+<option value="County Of Clarke">County Of Clarke</option>
+<option value="County Of Culpeper">County Of Culpeper</option>
+<option value="County Of Cumberland">County Of Cumberland</option>
+<option value="County Of Dickenson">County Of Dickenson</option>
+<option value="County Of Dinwiddie">County Of Dinwiddie</option>
+<option value="County Of Essex">County Of Essex</option>
+<option value="County Of Fairfax">County Of Fairfax</option>
+<option value="County Of Fauquier">County Of Fauquier</option>
+<option value="County Of Floyd">County Of Floyd</option>
+<option value="County Of Fluvanna">County Of Fluvanna</option>
+<option value="County Of Franklin">County Of Franklin</option>
+<option value="County Of Frederick">County Of Frederick</option>
+<option value="County Of Giles">County Of Giles</option>
+<option value="County Of Gloucester">County Of Gloucester</option>
+<option value="County Of Goochland">County Of Goochland</option>
+<option value="County Of Grayson">County Of Grayson</option>
+<option value="County Of Greene">County Of Greene</option>
+<option value="County Of Greensville">County Of Greensville</option>
+<option value="County Of Halifax">County Of Halifax</option>
+<option value="County Of Hanover">County Of Hanover</option>
+<option value="County Of Henrico">County Of Henrico</option>
+<option value="County Of Henry">County Of Henry</option>
+<option value="County Of Highland">County Of Highland</option>
+<option value="County Of Isle Of Wight">County Of Isle Of Wight</option>
+<option value="County Of James City">County Of James City</option>
+<option value="County Of King &amp; Queen">County Of King &amp; Queen</option>
+<option value="County Of King George">County Of King George</option>
+<option value="County Of King William">County Of King William</option>
+<option value="County Of Lancaster">County Of Lancaster</option>
+<option value="County Of Lee">County Of Lee</option>
+<option value="County Of Loudoun">County Of Loudoun</option>
+<option value="County Of Louisa">County Of Louisa</option>
+<option value="County Of Lunenburg">County Of Lunenburg</option>
+<option value="County Of Madison">County Of Madison</option>
+<option value="County Of Mathews">County Of Mathews</option>
+<option value="County Of Mecklenburg">County Of Mecklenburg</option>
+<option value="County Of Middlesex">County Of Middlesex</option>
+<option value="County Of Montgomery">County Of Montgomery</option>
+<option value="County Of Nelson">County Of Nelson</option>
+<option value="County Of New Kent">County Of New Kent</option>
+<option value="County Of Northampton">County Of Northampton</option>
+<option value="County Of Northumberland">County Of Northumberland</option>
+<option value="County Of Nottoway">County Of Nottoway</option>
+<option value="County Of Orange">County Of Orange</option>
+<option value="County Of Patrick">County Of Patrick</option>
+<option value="County Of Pittsylvania">County Of Pittsylvania</option>
+<option value="County Of Powhatan">County Of Powhatan</option>
+<option value="County Of Prince Edward">County Of Prince Edward</option>
+<option value="County Of Prince George">County Of Prince George</option>
+<option value="County Of Prince William">County Of Prince William</option>
+<option value="County Of Pulaski">County Of Pulaski</option>
+<option value="County Of Rappahannock">County Of Rappahannock</option>
+<option value="County Of Richmond">County Of Richmond</option>
+<option value="County Of Roanoke">County Of Roanoke</option>
+<option value="County Of Rockbridge">County Of Rockbridge</option>
+<option value="County Of Rockingham">County Of Rockingham</option>
+<option value="County Of Russell">County Of Russell</option>
+<option value="County Of Shenandoah">County Of Shenandoah</option>
+<option value="County Of Smyth">County Of Smyth</option>
+<option value="County Of Southampton">County Of Southampton</option>
+<option value="County Of Spotsylvania">County Of Spotsylvania</option>
+<option value="County Of Stafford">County Of Stafford</option>
+<option value="County Of Surry">County Of Surry</option>
+<option value="County Of Sussex">County Of Sussex</option>
+<option value="County Of Tazewell">County Of Tazewell</option>
+<option value="County Of Warren">County Of Warren</option>
+<option value="County Of Washington">County Of Washington</option>
+<option value="County Of Westmoreland">County Of Westmoreland</option>
+<option value="County Of Wythe">County Of Wythe</option>
+<option value="County Of York">County Of York</option>
+<option value="Couny Of Augusta">Couny Of Augusta</option>
+<option value="Courtland">Courtland</option>
+<option value="Covington">Covington</option>
+<option value="Covington City">Covington City</option>
+<option value="Craig">Craig</option>
+<option value="Craig County">Craig County</option>
+<option value="Crewe">Crewe</option>
+<option value="Crewe (In Nottoway County)">Crewe (In Nottoway County)</option>
+<option value="Culpeper">Culpeper</option>
+<option value="Culpeper (County)">Culpeper (County)</option>
+<option value="Culpeper (In Culpeper County)">Culpeper (In Culpeper County)</option>
+<option value="Culpeper County">Culpeper County</option>
+<option value="Cumberland">Cumberland</option>
+<option value="Cumberland County">Cumberland County</option>
+<option value="Danville">Danville</option>
+<option value="Danville City">Danville City</option>
+<option value="Dickenson">Dickenson</option>
+<option value="Dickenson County">Dickenson County</option>
+<option value="Dillwyn">Dillwyn</option>
+<option value="Dillwyn (In Buckingham County)">Dillwyn (In Buckingham County)</option>
+<option value="Dinwiddie">Dinwiddie</option>
+<option value="Dinwiddie County">Dinwiddie County</option>
+<option value="District Wide">District Wide</option>
+<option value="Dublin (In Pulaski County)">Dublin (In Pulaski County)</option>
+<option value="Duffield (In Scott County)">Duffield (In Scott County)</option>
+<option value="Dumfries">Dumfries</option>
+<option value="Dumfries (In Prince William County)">Dumfries (In Prince William County)</option>
+<option value="Dumfries Town">Dumfries Town</option>
+<option value="Eastville">Eastville</option>
+<option value="Edinburg">Edinburg</option>
+<option value="Elkton">Elkton</option>
+<option value="Emporia">Emporia</option>
+<option value="Emporia City">Emporia City</option>
+<option value="Essex">Essex</option>
+<option value="Essex County">Essex County</option>
+<option value="Exmore">Exmore</option>
+<option value="Exmore (In Northampton County)">Exmore (In Northampton County)</option>
+<option value="Fairfax">Fairfax</option>
+<option value="Fairfax (City)">Fairfax (City)</option>
+<option value="Fairfax (County)">Fairfax (County)</option>
+<option value="Fairfax City">Fairfax City</option>
+<option value="Fairfax County">Fairfax County</option>
+<option value="Falls Church">Falls Church</option>
+<option value="Falls Church City">Falls Church City</option>
+<option value="Farmville">Farmville</option>
+<option value="Fauquier">Fauquier</option>
+<option value="Fauquier County">Fauquier County</option>
+<option value="Fincastle">Fincastle</option>
+<option value="Fishersville">Fishersville</option>
+<option value="Floyd">Floyd</option>
+<option value="Floyd (County)">Floyd (County)</option>
+<option value="Floyd (In Floyd County)">Floyd (In Floyd County)</option>
+<option value="Floyd County">Floyd County</option>
+<option value="Floyd County, Franklin County">Floyd County, Franklin County</option>
+<option value="Fluvanna">Fluvanna</option>
+<option value="Fluvanna County">Fluvanna County</option>
+<option value="Fluvanna County, Buckingham County">Fluvanna County, Buckingham County</option>
+<option value="Franklin">Franklin</option>
+<option value="Franklin (City)">Franklin (City)</option>
+<option value="Franklin (County)">Franklin (County)</option>
+<option value="Franklin City">Franklin City</option>
+<option value="Franklin County">Franklin County</option>
+<option value="Frederick">Frederick</option>
+<option value="Frederick County">Frederick County</option>
+<option value="Fredericksburg">Fredericksburg</option>
+<option value="Fredericksburg City">Fredericksburg City</option>
+<option value="Fries (In Grayson County)">Fries (In Grayson County)</option>
+<option value="Front Royal">Front Royal</option>
+<option value="Front Royal (In Warren County)">Front Royal (In Warren County)</option>
+<option value="Gainesville">Gainesville</option>
+<option value="Galax">Galax</option>
+<option value="Galax City">Galax City</option>
+<option value="Gate City (In Scott County)">Gate City (In Scott County)</option>
+<option value="Giles">Giles</option>
+<option value="Giles County">Giles County</option>
+<option value="Glade Spring (In Washington County)">Glade Spring (In Washington County)</option>
+<option value="Glasgow">Glasgow</option>
+<option value="Gloucester">Gloucester</option>
+<option value="Gloucester County">Gloucester County</option>
+<option value="Goochland">Goochland</option>
+<option value="Goochland County">Goochland County</option>
+<option value="Gordonsville">Gordonsville</option>
+<option value="Gordonsville (In Orange County)">Gordonsville (In Orange County)</option>
+<option value="Grayson">Grayson</option>
+<option value="Grayson County">Grayson County</option>
+<option value="Greene">Greene</option>
+<option value="Greene County">Greene County</option>
+<option value="Greensville">Greensville</option>
+<option value="Greensville County">Greensville County</option>
+<option value="Gretna">Gretna</option>
+<option value="Gretna (In Pittsylvania County)">Gretna (In Pittsylvania County)</option>
+<option value="Grottoes">Grottoes</option>
+<option value="Halifax">Halifax</option>
+<option value="Halifax (County)">Halifax (County)</option>
+<option value="Halifax (In Halifax County)">Halifax (In Halifax County)</option>
+<option value="Halifax (Town)">Halifax (Town)</option>
+<option value="Halifax County">Halifax County</option>
+<option value="Halifax County, Charlotte County">Halifax County, Charlotte County</option>
+<option value="Hampton">Hampton</option>
+<option value="Hampton City">Hampton City</option>
+<option value="Hanover">Hanover</option>
+<option value="Hanover County">Hanover County</option>
+<option value="Harrisonburg">Harrisonburg</option>
+<option value="Harrisonburg City">Harrisonburg City</option>
+<option value="Haymarket (In Prince William County)">Haymarket (In Prince William County)</option>
+<option value="Henrico">Henrico</option>
+<option value="Henrico County">Henrico County</option>
+<option value="Henrico County, City Of Richmond">Henrico County, City Of Richmond</option>
+<option value="Henry">Henry</option>
+<option value="Henry County">Henry County</option>
+<option value="Herndon">Herndon</option>
+<option value="Herndon (In Fairfax County)">Herndon (In Fairfax County)</option>
+<option value="Highland">Highland</option>
+<option value="Highland County">Highland County</option>
+<option value="Hillsville (In Carroll County)">Hillsville (In Carroll County)</option>
+<option value="Hopewell">Hopewell</option>
+<option value="Hopewell City">Hopewell City</option>
+<option value="Hurt">Hurt</option>
+<option value="Independence">Independence</option>
+<option value="Irvington (In Lancaster County)">Irvington (In Lancaster County)</option>
+<option value="Isle Of Wight">Isle Of Wight</option>
+<option value="Isle Of Wight County">Isle Of Wight County</option>
+<option value="Ivor">Ivor</option>
+<option value="James City">James City</option>
+<option value="James City County">James City County</option>
+<option value="James City County, New Kent County">James City County, New Kent County</option>
+<option value="Jonesville">Jonesville</option>
+<option value="Kilmarnock">Kilmarnock</option>
+<option value="Kilmarnock (In Lancaster County)">Kilmarnock (In Lancaster County)</option>
+<option value="King And Queen">King And Queen</option>
+<option value="King And Queen County">King And Queen County</option>
+<option value="King George">King George</option>
+<option value="King George County">King George County</option>
+<option value="King William">King William</option>
+<option value="King William County">King William County</option>
+<option value="La Crosse">La Crosse</option>
+<option value="La Crosse (In Mecklenburg County)">La Crosse (In Mecklenburg County)</option>
+<option value="Lancaster">Lancaster</option>
+<option value="Lancaster County">Lancaster County</option>
+<option value="Lawrenceville">Lawrenceville</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Lebanon (In Russell County)">Lebanon (In Russell County)</option>
+<option value="Lebanon Town">Lebanon Town</option>
+<option value="Lee">Lee</option>
+<option value="Lee County">Lee County</option>
+<option value="Leesburg">Leesburg</option>
+<option value="Lexington">Lexington</option>
+<option value="Lexington City">Lexington City</option>
+<option value="Loudon County, Tn">Loudon County, Tn</option>
+<option value="Loudoun">Loudoun</option>
+<option value="Loudoun County">Loudoun County</option>
+<option value="Louisa">Louisa</option>
+<option value="Louisa (County)">Louisa (County)</option>
+<option value="Louisa (In Louisa County)">Louisa (In Louisa County)</option>
+<option value="Louisa (Town)">Louisa (Town)</option>
+<option value="Louisa County">Louisa County</option>
+<option value="Lunenburg">Lunenburg</option>
+<option value="Lunenburg County">Lunenburg County</option>
+<option value="Luray">Luray</option>
+<option value="Lynchburg">Lynchburg</option>
+<option value="Lynchburg City">Lynchburg City</option>
+<option value="Madison">Madison</option>
+<option value="Madison (County)">Madison (County)</option>
+<option value="Madison (In Madison County)">Madison (In Madison County)</option>
+<option value="Madison County">Madison County</option>
+<option value="Manassas">Manassas</option>
+<option value="Manassas City">Manassas City</option>
+<option value="Manassas Park City">Manassas Park City</option>
+<option value="Martinsville">Martinsville</option>
+<option value="Martinsville City">Martinsville City</option>
+<option value="Mathews">Mathews</option>
+<option value="Mathews County">Mathews County</option>
+<option value="Mathews County, Gloucester County">Mathews County, Gloucester County</option>
+<option value="Mckenney">Mckenney</option>
+<option value="Mclean">Mclean</option>
+<option value="Mechanicsville">Mechanicsville</option>
+<option value="Mecklenburg">Mecklenburg</option>
+<option value="Mecklenburg County">Mecklenburg County</option>
+<option value="Melfa">Melfa</option>
+<option value="Middlesex">Middlesex</option>
+<option value="Middlesex County">Middlesex County</option>
+<option value="Middletown">Middletown</option>
+<option value="Midlothian">Midlothian</option>
+<option value="Mineral">Mineral</option>
+<option value="Mineral (In Louisa County)">Mineral (In Louisa County)</option>
+<option value="Monterey">Monterey</option>
+<option value="Montgomery">Montgomery</option>
+<option value="Montgomery County">Montgomery County</option>
+<option value="Montgomry">Montgomry</option>
+<option value="Montross">Montross</option>
+<option value="Montross (In Westmoreland County)">Montross (In Westmoreland County)</option>
+<option value="Mount Crawford">Mount Crawford</option>
+<option value="Mount Jackson (In Shenandoah County)">Mount Jackson (In Shenandoah County)</option>
+<option value="Multiple Counties">Multiple Counties</option>
+<option value="Nelson">Nelson</option>
+<option value="Nelson County">Nelson County</option>
+<option value="New Castle">New Castle</option>
+<option value="New Kent">New Kent</option>
+<option value="New Kent County">New Kent County</option>
+<option value="New Market">New Market</option>
+<option value="New Market (In Shenandoah County)">New Market (In Shenandoah County)</option>
+<option value="Newport News">Newport News</option>
+<option value="Newport News City">Newport News City</option>
+<option value="Newsoms">Newsoms</option>
+<option value="Non-Virginia">Non-Virginia</option>
+<option value="Norfolk">Norfolk</option>
+<option value="Norfolk ">Norfolk </option>
+<option value="Norfolk City">Norfolk City</option>
+<option value="Northampton">Northampton</option>
+<option value="Northampton County">Northampton County</option>
+<option value="Northumberland">Northumberland</option>
+<option value="Northumberland County">Northumberland County</option>
+<option value="Northumberland County, Westmoreland County">Northumberland County, Westmoreland County</option>
+<option value="Norton">Norton</option>
+<option value="Norton City">Norton City</option>
+<option value="Not Available">Not Available</option>
+<option value="Not Fond In Lups">Not Fond In Lups</option>
+<option value="Not Found In Old Lups">Not Found In Old Lups</option>
+<option value="Nottoway">Nottoway</option>
+<option value="Nottoway County">Nottoway County</option>
+<option value="Orange">Orange</option>
+<option value="Orange (County)">Orange (County)</option>
+<option value="Orange (In Orange County)">Orange (In Orange County)</option>
+<option value="Orange (Town)">Orange (Town)</option>
+<option value="Orange County">Orange County</option>
+<option value="Out Of State">Out Of State</option>
+<option value="Outside Va">Outside Va</option>
+<option value="Page">Page</option>
+<option value="Page County">Page County</option>
+<option value="Parksley">Parksley</option>
+<option value="Patrick">Patrick</option>
+<option value="Patrick County">Patrick County</option>
+<option value="Pearisburg">Pearisburg</option>
+<option value="Pearisburg (In Giles County)">Pearisburg (In Giles County)</option>
+<option value="Pembroke (In Giles County)">Pembroke (In Giles County)</option>
+<option value="Petersburg">Petersburg</option>
+<option value="Petersburg City">Petersburg City</option>
+<option value="Pittsylvania">Pittsylvania</option>
+<option value="Pittsylvania County">Pittsylvania County</option>
+<option value="Poquoson">Poquoson</option>
+<option value="Poquoson City">Poquoson City</option>
+<option value="Port Royal (In Caroline County)">Port Royal (In Caroline County)</option>
+<option value="Portsmouth">Portsmouth</option>
+<option value="Portsmouth City">Portsmouth City</option>
+<option value="Powhatan">Powhatan</option>
+<option value="Powhatan County">Powhatan County</option>
+<option value="Prince Edward">Prince Edward</option>
+<option value="Prince Edward County">Prince Edward County</option>
+<option value="Prince George">Prince George</option>
+<option value="Prince George County">Prince George County</option>
+<option value="Prince William">Prince William</option>
+<option value="Prince William County">Prince William County</option>
+<option value="Pulaski">Pulaski</option>
+<option value="Pulaski (County)">Pulaski (County)</option>
+<option value="Pulaski County">Pulaski County</option>
+<option value="Quantico (In Prince William County)">Quantico (In Prince William County)</option>
+<option value="Radford">Radford</option>
+<option value="Radford City">Radford City</option>
+<option value="Rappahannock">Rappahannock</option>
+<option value="Rappahannock County">Rappahannock County</option>
+<option value="Remington">Remington</option>
+<option value="Reston">Reston</option>
+<option value="Richmond">Richmond</option>
+<option value="Richmond (City)">Richmond (City)</option>
+<option value="Richmond (County)">Richmond (County)</option>
+<option value="Richmond City">Richmond City</option>
+<option value="Richmond County">Richmond County</option>
+<option value="Ridgeway (In Henry County)">Ridgeway (In Henry County)</option>
+<option value="Roanoke">Roanoke</option>
+<option value="Roanoke (City)">Roanoke (City)</option>
+<option value="Roanoke (County)">Roanoke (County)</option>
+<option value="Roanoke City">Roanoke City</option>
+<option value="Roanoke County">Roanoke County</option>
+<option value="Roanoke County, Botetourt County">Roanoke County, Botetourt County</option>
+<option value="Rockbridge">Rockbridge</option>
+<option value="Rockbridge County">Rockbridge County</option>
+<option value="Rockbridge County, City Of Lexington">Rockbridge County, City Of Lexington</option>
+<option value="Rockingham">Rockingham</option>
+<option value="Rockingham County">Rockingham County</option>
+<option value="Rocky Mount">Rocky Mount</option>
+<option value="Rural Retreat (In Wythe County)">Rural Retreat (In Wythe County)</option>
+<option value="Russell">Russell</option>
+<option value="Russell County">Russell County</option>
+<option value="Salem">Salem</option>
+<option value="Salem City">Salem City</option>
+<option value="Scott">Scott</option>
+<option value="Scott County">Scott County</option>
+<option value="Scottsburg (In Halifax County)">Scottsburg (In Halifax County)</option>
+<option value="Scottsville">Scottsville</option>
+<option value="Shenandoah">Shenandoah</option>
+<option value="Shenandoah (County)">Shenandoah (County)</option>
+<option value="Shenandoah County">Shenandoah County</option>
+<option value="Smithfield">Smithfield</option>
+<option value="Smithfield (In Isle Of Wight County)">Smithfield (In Isle Of Wight County)</option>
+<option value="Smyth">Smyth</option>
+<option value="Smyth County">Smyth County</option>
+<option value="South Boston">South Boston</option>
+<option value="South Boston (In Halifax County)">South Boston (In Halifax County)</option>
+<option value="South Boston City">South Boston City</option>
+<option value="South Hill">South Hill</option>
+<option value="South Hill (In Mecklenburg County)">South Hill (In Mecklenburg County)</option>
+<option value="Southampton">Southampton</option>
+<option value="Southampton County">Southampton County</option>
+<option value="Spotsylvania">Spotsylvania</option>
+<option value="Spotsylvania County">Spotsylvania County</option>
+<option value="Springfield">Springfield</option>
+<option value="Stafford">Stafford</option>
+<option value="Stafford County">Stafford County</option>
+<option value="Stanardsville">Stanardsville</option>
+<option value="Stanley">Stanley</option>
+<option value="Staunton">Staunton</option>
+<option value="Staunton City">Staunton City</option>
+<option value="Stephens City">Stephens City</option>
+<option value="Strasburg">Strasburg</option>
+<option value="Strasburg (In Shenandoah County)">Strasburg (In Shenandoah County)</option>
+<option value="Stuart">Stuart</option>
+<option value="Suffolk">Suffolk</option>
+<option value="Suffolk City">Suffolk City</option>
+<option value="Surry">Surry</option>
+<option value="Surry (County)">Surry (County)</option>
+<option value="Surry (In Surry County)">Surry (In Surry County)</option>
+<option value="Surry County">Surry County</option>
+<option value="Sussex">Sussex</option>
+<option value="Sussex County">Sussex County</option>
+<option value="Tappahannock">Tappahannock</option>
+<option value="Tappahannock (In Essex County)">Tappahannock (In Essex County)</option>
+<option value="Tazewell">Tazewell</option>
+<option value="Tazewell (County)">Tazewell (County)</option>
+<option value="Tazewell (In Tazewell County)">Tazewell (In Tazewell County)</option>
+<option value="Tazewell County">Tazewell County</option>
+<option value="The Plains">The Plains</option>
+<option value="Town Of Abingdon">Town Of Abingdon</option>
+<option value="Town Of Altavista">Town Of Altavista</option>
+<option value="Town Of Amherst">Town Of Amherst</option>
+<option value="Town Of Appomattox">Town Of Appomattox</option>
+<option value="Town Of Ashland">Town Of Ashland</option>
+<option value="Town Of Belle Haven">Town Of Belle Haven</option>
+<option value="Town Of Berryville">Town Of Berryville</option>
+<option value="Town Of Big Stone Gap">Town Of Big Stone Gap</option>
+<option value="Town Of Bowling Green">Town Of Bowling Green</option>
+<option value="Town Of Brookneal">Town Of Brookneal</option>
+<option value="Town Of Buchanan">Town Of Buchanan</option>
+<option value="Town Of Burkeville">Town Of Burkeville</option>
+<option value="Town Of Cape Charles">Town Of Cape Charles</option>
+<option value="Town Of Charlotte C.H.">Town Of Charlotte C.H.</option>
+<option value="Town Of Chase City">Town Of Chase City</option>
+<option value="Town Of Christiansburg">Town Of Christiansburg</option>
+<option value="Town Of Crewe">Town Of Crewe</option>
+<option value="Town Of Culpeper">Town Of Culpeper</option>
+<option value="Town Of Dillwyn">Town Of Dillwyn</option>
+<option value="Town Of Dumfries">Town Of Dumfries</option>
+<option value="Town Of Edinburg">Town Of Edinburg</option>
+<option value="Town Of Elkton">Town Of Elkton</option>
+<option value="Town Of Exmore">Town Of Exmore</option>
+<option value="Town Of Floyd">Town Of Floyd</option>
+<option value="Town Of Front Royal">Town Of Front Royal</option>
+<option value="Town Of Gordonsville">Town Of Gordonsville</option>
+<option value="Town Of Grottoes">Town Of Grottoes</option>
+<option value="Town Of Halifax">Town Of Halifax</option>
+<option value="Town Of Haymarket">Town Of Haymarket</option>
+<option value="Town Of Herndon">Town Of Herndon</option>
+<option value="Town Of Hillsville">Town Of Hillsville</option>
+<option value="Town Of Hurt">Town Of Hurt</option>
+<option value="Town Of Independence">Town Of Independence</option>
+<option value="Town Of Irvington">Town Of Irvington</option>
+<option value="Town Of Kenbridge">Town Of Kenbridge</option>
+<option value="Town Of Keysville">Town Of Keysville</option>
+<option value="Town Of Kilmarnock">Town Of Kilmarnock</option>
+<option value="Town Of Lebanon">Town Of Lebanon</option>
+<option value="Town Of Louisa">Town Of Louisa</option>
+<option value="Town Of Lovettsville">Town Of Lovettsville</option>
+<option value="Town Of Madison">Town Of Madison</option>
+<option value="Town Of Middletown">Town Of Middletown</option>
+<option value="Town Of Mineral">Town Of Mineral</option>
+<option value="Town Of Mt. Jackson">Town Of Mt. Jackson</option>
+<option value="Town Of New Market">Town Of New Market</option>
+<option value="Town Of Occoquan">Town Of Occoquan</option>
+<option value="Town Of Onancock">Town Of Onancock</option>
+<option value="Town Of Orange">Town Of Orange</option>
+<option value="Town Of Pamplin City">Town Of Pamplin City</option>
+<option value="Town Of Pearisburg">Town Of Pearisburg</option>
+<option value="Town Of Port Royal">Town Of Port Royal</option>
+<option value="Town Of Purcellville">Town Of Purcellville</option>
+<option value="Town Of Remington">Town Of Remington</option>
+<option value="Town Of Rocky Mount">Town Of Rocky Mount</option>
+<option value="Town Of Round Hill">Town Of Round Hill</option>
+<option value="Town Of Saltville">Town Of Saltville</option>
+<option value="Town Of Scottsville">Town Of Scottsville</option>
+<option value="Town Of Smithfield">Town Of Smithfield</option>
+<option value="Town Of South Hill">Town Of South Hill</option>
+<option value="Town Of Stephens City">Town Of Stephens City</option>
+<option value="Town Of Strasburg">Town Of Strasburg</option>
+<option value="Town Of Tappahannock">Town Of Tappahannock</option>
+<option value="Town Of Timberville">Town Of Timberville</option>
+<option value="Town Of Toms Brook">Town Of Toms Brook</option>
+<option value="Town Of Victoria">Town Of Victoria</option>
+<option value="Town Of Vienna">Town Of Vienna</option>
+<option value="Town Of Wakefield">Town Of Wakefield</option>
+<option value="Town Of Warrenton">Town Of Warrenton</option>
+<option value="Town Of Warsaw">Town Of Warsaw</option>
+<option value="Town Of Washington">Town Of Washington</option>
+<option value="Town Of Waverly">Town Of Waverly</option>
+<option value="Town Of Weber City">Town Of Weber City</option>
+<option value="Town Of West Point">Town Of West Point</option>
+<option value="Town Of Windsor">Town Of Windsor</option>
+<option value="Town Of Woodstock">Town Of Woodstock</option>
+<option value="Town Of Wytheville">Town Of Wytheville</option>
+<option value="Troutdale">Troutdale</option>
+<option value="Troutville">Troutville</option>
+<option value="Urbanna (In Middlesex County)">Urbanna (In Middlesex County)</option>
+<option value="Va Beach">Va Beach</option>
+<option value="Victoria">Victoria</option>
+<option value="Victoria (In Lunenburg County)">Victoria (In Lunenburg County)</option>
+<option value="Vienna">Vienna</option>
+<option value="Vienna (In Fairfax County)">Vienna (In Fairfax County)</option>
+<option value="Vinton">Vinton</option>
+<option value="Virginia Beach">Virginia Beach</option>
+<option value="Virginia Beach City">Virginia Beach City</option>
+<option value="Wakefield">Wakefield</option>
+<option value="Warren">Warren</option>
+<option value="Warren County">Warren County</option>
+<option value="Warrenton">Warrenton</option>
+<option value="Warrenton (In Fauquier County)">Warrenton (In Fauquier County)</option>
+<option value="Warsaw">Warsaw</option>
+<option value="Warsaw (In Richmond County)">Warsaw (In Richmond County)</option>
+<option value="Washington">Washington</option>
+<option value="Washington (County)">Washington (County)</option>
+<option value="Washington (In Rappahannock County)">Washington (In Rappahannock County)</option>
+<option value="Washington County">Washington County</option>
+<option value="Waverly">Waverly</option>
+<option value="Waverly (In Sussex County)">Waverly (In Sussex County)</option>
+<option value="Waynesboro">Waynesboro</option>
+<option value="Waynesboro City">Waynesboro City</option>
+<option value="West Point">West Point</option>
+<option value="West Point (In King William County)">West Point (In King William County)</option>
+<option value="Westmoreland">Westmoreland</option>
+<option value="Westmoreland County">Westmoreland County</option>
+<option value="White Stone">White Stone</option>
+<option value="White Stone (In Lancaster County)">White Stone (In Lancaster County)</option>
+<option value="Williamsburg">Williamsburg</option>
+<option value="Williamsburg City">Williamsburg City</option>
+<option value="Winchester">Winchester</option>
+<option value="Winchester City">Winchester City</option>
+<option value="Windsor">Windsor</option>
+<option value="Windsor (In Isle Of Wight County)">Windsor (In Isle Of Wight County)</option>
+<option value="Wise">Wise</option>
+<option value="Wise (County)">Wise (County)</option>
+<option value="Wise (In Wise County)">Wise (In Wise County)</option>
+<option value="Wise County">Wise County</option>
+<option value="Wise County, Dickenson County">Wise County, Dickenson County</option>
+<option value="Woodbridge">Woodbridge</option>
+<option value="Woodstock">Woodstock</option>
+<option value="Woodstock (In Shenandoah County)">Woodstock (In Shenandoah County)</option>
+<option value="Wythe">Wythe</option>
+<option value="Wythe County">Wythe County</option>
+<option value="Wytheville">Wytheville</option>
+<option value="Wytheville (In Wythe County)">Wytheville (In Wythe County)</option>
+<option value="York">York</option>
+<option value="York County">York County</option>
+</select>
+                    </div>
+                    <div class="col-8 col-lg-3 col-md-6 align-self-end">
+                        <input id="search-button" class="btn call-to-action-btn w-100" type="submit" value="Search Applications" />
+                    </div>
+                    <div class="col-4 col-lg-1 col-md-6  align-self-end">
+                        <button id="reset-form-button" type="button" class="btn btn-primary form-control" disabled="disabled">Reset</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="page-body">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div id="app-status-filter-container">
+                    <label for="application-status-list" class="pe-2">Filter by Status:</label>
+                    <select id="application-status-list" class="form-control form-select selectpicker w-auto" data-style="app-status-filter" aria-labelledby="application-status-list"><option value="">All Applications</option>
+<option value="In Progress">In Progress</option>
+<option value="Complete">Complete</option>
+</select>
+                </div>
+                <table id="my-table" class="table table-bordered" tabindex="-1">
+                    <thead class="table-light">
+                        <tr>
+                            <th><button>Application Number</button></th>
+                            <th><button>Applicant Name</button></th>
+                            <th><button>Agent Name</button></th>
+                            <th><button>Facility</button></th>
+                            <th><button>Agency</button></th>
+                            <th><button>Program Type</button></th>
+                            <th><button>Application Type</button></th>
+                            <th><button>Permit Number</button></th>
+                            <th><button>Locality</button></th>
+                            <th><button>Received Date</button></th>
+                            <th><button>Status</button></th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="position-fixed bottom-0 end-0">
+                    <div id="search-results-toast" class="toast hide" role="alert" aria-live="polite" aria-atomic="true">
+                        <div class="toast-body">
+                            <i class="bi bi-check-circle" aria-hidden="true"></i>&nbsp;&nbsp;Search results updated
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </main>
+    <footer b-g3fysvvyfx class="border-top footer mt-auto">
+        <div b-g3fysvvyfx class="container-fluid p-0">
+            <div b-g3fysvvyfx class="row g-0 footer-upper">
+                <div b-g3fysvvyfx class="col-12">
+                    <div b-g3fysvvyfx class="container">
+                        <div b-g3fysvvyfx class="row">
+                            <div b-g3fysvvyfx class="col-md-3 col-sm-12">
+                                <h6 b-g3fysvvyfx class="footer-upper-header">
+                                    VPT's Mission
+                                </h6>
+                                <p b-g3fysvvyfx>
+                                    To bring transparency and efficiency to the Commonwealth of Virginia's permitting, licensing, and certification processes.
+                                </p>
+                            </div>
+                            <div b-g3fysvvyfx class="col-1"></div>
+                            <div b-g3fysvvyfx class="col-md-3 col-sm-12">
+                                <h6 b-g3fysvvyfx class="footer-upper-header">
+                                    Technical Support
+                                </h6>
+                                <p b-g3fysvvyfx>
+                                    For help troubleshooting the VPT website, contact
+                                    <span b-g3fysvvyfx class="footer-link">
+                                        <a b-g3fysvvyfx href="mailto: VPT-Support@vita.virginia.gov">VPT-Support@vita.virginia.gov</a>
+                                    </span>
+                                </p>
+                            </div>
+                            <div b-g3fysvvyfx class="col-1"></div>
+                            <div b-g3fysvvyfx class="col-md-3 col-sm-12">
+                                <h6 b-g3fysvvyfx class="footer-upper-header">
+                                    Application Help
+                                </h6>
+                                <p b-g3fysvvyfx>
+                                    For questions about specific Applications,
+                                    <span b-g3fysvvyfx class="footer-link">
+                                        <a href="/Agency">contact the participating agency</a>
+                                    </span>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div b-g3fysvvyfx class="row g-0 footer-lower">
+                <div b-g3fysvvyfx class="col-12">
+                    <div b-g3fysvvyfx class="container">
+                        <div b-g3fysvvyfx class="row">
+                            <div b-g3fysvvyfx class="col-md-5 col-sm-12 d-flex flex-column flex-sm-row">
+                                <div b-g3fysvvyfx class="align-self-center">Copyright &copy; 2026. All rights reserved</div>
+                                <!-- Google Translate Element -->
+                                <div b-g3fysvvyfx class="flex-grow-1" id="google-translate-element"></div>
+                            </div>
+                            <div b-g3fysvvyfx class="col-md col-sm-12 d-flex flex-column flex-sm-row">
+                                <div b-g3fysvvyfx class="d-flex flex-fill">
+                                    <div b-g3fysvvyfx class="footer-link flex-fill d-flex justify-content-end justify-content-sm-center">
+                                        <a b-g3fysvvyfx class="accessible-link" target="_blank" href="https://www.vita.virginia.gov/information-security/internet-privacy-policy-statement/">Privacy Policy</a>
+                                    </div>
+                                    <div b-g3fysvvyfx class="vr"></div>
+                                    <div b-g3fysvvyfx class="footer-link flex-fill d-flex justify-content-start justify-content-sm-center">
+                                        <a b-g3fysvvyfx class="accessible-link" target="_blank" href="https://www.w3.org/WAI/WCAG1A-Conformance">WAI Compliance</a>
+                                    </div>
+                                    <div b-g3fysvvyfx class="vr d-none d-sm-inline"></div>
+                                </div>
+                                <div b-g3fysvvyfx class="d-flex flex-fill">
+                                    <div b-g3fysvvyfx class="footer-link flex-fill d-flex justify-content-end justify-content-sm-center">
+                                        <a b-g3fysvvyfx class="accessible-link" target="_blank" href="https://www.vita.virginia.gov/translation-disclaimer/">Translation Disclaimer</a>
+                                    </div>
+                                    <div b-g3fysvvyfx class="vr"></div>
+                                    <div b-g3fysvvyfx class="footer-link flex-fill d-flex justify-content-start justify-content-sm-center">
+                                        <a b-g3fysvvyfx class="accessible-link" target="_blank" href="https://foiacouncil.dls.virginia.gov/foiacouncil.htm">Freedom of Information (FOIA)</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>        
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/luxon.min.js"></script>
+    <script src="/js/site.js?v=5br0UQAtEqtk1jl_iq4jAy6usYpg7oyIm1cmMujgnj4"></script>
+    <!-- Google Translate Scripts -->
+    <script type="text/javascript" src="/js/translate.js"></script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script async src=https://siteimproveanalytics.com/js/siteanalyze_6289812.js></script>
+    
+    <noscript b-g3fysvvyfx>Your browser does not support JavaScript!</noscript>
+    
+    <script src="/js/datatables.min.js"></script>
+    <script src="/js/bootstrap-select.min.js"></script>
+
+    <script>
+        const mediaQuery = window.matchMedia('(min-width: 768px)');
+        var dataTablePaging = 'full_numbers';
+        if (!mediaQuery.matches) {
+            dataTablePaging = 'numbers';
+        }
+
+        const searchResultsToast = new bootstrap.Toast($('#search-results-toast'));
+
+        const defaultStatus = '';
+        var searchParameters = {
+            primarySearch: "",
+            agencyIds: "",
+            programTypeIds: "",
+            permitTypeIds: "",
+            localityIds: "",
+            applicationStatus: "",
+            appReceivedStart: "",
+            appReceivedEnd: ""
+        };
+
+        const programTypes = [{"id":1,"name":"Air Permits","agencyId":3},{"id":2,"name":"Animal Waste","agencyId":3},{"id":3,"name":"BUFI","agencyId":7},{"id":5,"name":"Childrens Residential Service Application - Non-Priority","agencyId":1},{"id":6,"name":"Childrens Residential Service Application - Priority 1","agencyId":1},{"id":7,"name":"Childrens Residential Service Application - Priority 2","agencyId":1},{"id":4,"name":"COPN","agencyId":7},{"id":8,"name":"Dam Safety","agencyId":2},{"id":9,"name":"Drinking Water","agencyId":7},{"id":10,"name":"Emergency Medical Services","agencyId":7},{"id":11,"name":"Food and Tourism","agencyId":7},{"id":12,"name":"Gas \u0026 Oil","agencyId":6},{"id":13,"name":"Groundwater Withdrawal","agencyId":3},{"id":14,"name":"Habitat Management","agencyId":9},{"id":15,"name":"Initial Service Application (General Services) - Non-Priority","agencyId":1},{"id":16,"name":"Initial Service Application (General Services) - Priority 1","agencyId":1},{"id":17,"name":"Initial Service Application (General Services) - Priority 2","agencyId":1},{"id":18,"name":"Land Development","agencyId":8},{"id":19,"name":"Land Use","agencyId":8},{"id":20,"name":"Licensing Programs","agencyId":5},{"id":23,"name":"Marina","agencyId":7},{"id":21,"name":"MCHIP PRA","agencyId":7},{"id":24,"name":"Mined Land Repurposing","agencyId":6},{"id":25,"name":"Mineral Mining","agencyId":6},{"id":26,"name":"Mitigation Banking","agencyId":3},{"id":27,"name":"Motor Carriers","agencyId":4},{"id":28,"name":"Motor Vehicle Inspection Program","agencyId":10},{"id":22,"name":"MVIP [9-1-25] New Workflows","agencyId":10},{"id":29,"name":"Nutrient Banking","agencyId":3},{"id":30,"name":"Onsite Sewage","agencyId":7},{"id":31,"name":"Outdoor Advertising","agencyId":8},{"id":33,"name":"Private Wells","agencyId":7},{"id":32,"name":"PSAP","agencyId":7},{"id":34,"name":"Radioactive Materials","agencyId":7},{"id":35,"name":"Renewable Energy","agencyId":3},{"id":36,"name":"Service Modification Application (General Services)","agencyId":1},{"id":37,"name":"Shellfish Safety","agencyId":7},{"id":38,"name":"Solid Waste","agencyId":3},{"id":39,"name":"Stormwater Plan Review","agencyId":3},{"id":40,"name":"VPA","agencyId":3},{"id":41,"name":"VPDES","agencyId":3},{"id":42,"name":"VWPP","agencyId":3},{"id":43,"name":"XRay","agencyId":7}];
+        const permitTypes = [{"id":1,"name":"01-001 - DD Residential Group Home Service for Adults","programTypeId":15,"agencyId":1},{"id":2,"name":"01-001 - DD Residential Group Home Service for Adults","programTypeId":36,"agencyId":1},{"id":3,"name":"01-003 - MH Residential Group Home Service for Adults","programTypeId":15,"agencyId":1},{"id":4,"name":"01-003 - MH Residential Group Home Service for Adults","programTypeId":36,"agencyId":1},{"id":5,"name":"01-004 - DD Residential Crisis Stabilization Group Home Service - REACH for Adults","programTypeId":36,"agencyId":1},{"id":6,"name":"01-005 - DD Residential ICF-IID Service for Adults","programTypeId":15,"agencyId":1},{"id":7,"name":"01-005 - DD Residential ICF-IID Service for Adults","programTypeId":36,"agencyId":1},{"id":8,"name":"01-007 - Brain Injury Residential Treatment Service for Adults","programTypeId":17,"agencyId":1},{"id":9,"name":"01-007 - Brain Injury Residential Treatment Service for Adults","programTypeId":36,"agencyId":1},{"id":10,"name":"01-011 - DD Residential Supervised Living Service for Adults","programTypeId":17,"agencyId":1},{"id":11,"name":"01-011 - DD Residential Supervised Living Service for Adults","programTypeId":36,"agencyId":1},{"id":12,"name":"01-012 - MH Residential Supervised Living Service for Adults","programTypeId":17,"agencyId":1},{"id":13,"name":"01-012 - MH Residential Supervised Living Service for Adults","programTypeId":36,"agencyId":1},{"id":14,"name":"01-019 - MH Residential Crisis Stabilization Service for Adults","programTypeId":17,"agencyId":1},{"id":15,"name":"01-019 - MH Residential Crisis Stabilization Service for Adults","programTypeId":36,"agencyId":1},{"id":16,"name":"01-020 - MH Residential Crisis Stabilization Service for Children and Adolescents","programTypeId":17,"agencyId":1},{"id":17,"name":"01-020 - MH Residential Crisis Stabilization Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":18,"name":"01-036 - DD Residential Respite Service for Adults","programTypeId":17,"agencyId":1},{"id":19,"name":"01-036 - DD Residential Respite Service for Adults","programTypeId":36,"agencyId":1},{"id":20,"name":"01-041 - DD Residential Crisis Stabilization Group Home Service - REACH for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":21,"name":"01-043 - SA Residential Clinically Managed High-Intensity Service - ASAM Level 3.5 for Adults","programTypeId":17,"agencyId":1},{"id":22,"name":"01-043 - SA Residential Clinically Managed High-Intensity Service - ASAM Level 3.5 for Adults","programTypeId":36,"agencyId":1},{"id":23,"name":"01-044 - SA Residential Specific High-Intensity Service - ASAM Level 3.3 for Adults","programTypeId":16,"agencyId":1},{"id":24,"name":"01-044 - SA Residential Specific High-Intensity Service - ASAM Level 3.3 for Adults","programTypeId":36,"agencyId":1},{"id":25,"name":"01-045 - SA Residential Clinically Managed Low-Intensity Service - ASAM Level 3.1 for Adults","programTypeId":17,"agencyId":1},{"id":26,"name":"01-045 - SA Residential Clinically Managed Low-Intensity Service - ASAM Level 3.1 for Adults","programTypeId":36,"agencyId":1},{"id":27,"name":"01-046 - MH Residential Treatment Service for Adults","programTypeId":15,"agencyId":1},{"id":28,"name":"01-046 - MH Residential Treatment Service for Adults","programTypeId":36,"agencyId":1},{"id":29,"name":"02-004 - DD Center-Based Respite Service","programTypeId":15,"agencyId":1},{"id":30,"name":"02-004 - DD Center-Based Respite Service","programTypeId":36,"agencyId":1},{"id":31,"name":"02-006 - DD Center-Based Day Support Service for Adults","programTypeId":15,"agencyId":1},{"id":32,"name":"02-006 - DD Center-Based Day Support Service for Adults","programTypeId":36,"agencyId":1},{"id":33,"name":"02-007 - DD Center-Based Day Support Service for Children and Adolescents","programTypeId":17,"agencyId":1},{"id":34,"name":"02-007 - DD Center-Based Day Support Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":35,"name":"02-008 - DD Non-Center-Based Day Support Service for Adults","programTypeId":16,"agencyId":1},{"id":36,"name":"02-008 - DD Non-Center-Based Day Support Service for Adults","programTypeId":36,"agencyId":1},{"id":37,"name":"02-009 - DD Non-Center-Based Day Support Service for Children and Adolescents","programTypeId":16,"agencyId":1},{"id":38,"name":"02-009 - DD Non-Center-Based Day Support Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":39,"name":"02-011 - MH Center-Based Psychosocial Rehabilitation Service for Adults","programTypeId":17,"agencyId":1},{"id":40,"name":"02-011 - MH Center-Based Psychosocial Rehabilitation Service for Adults","programTypeId":36,"agencyId":1},{"id":41,"name":"02-019 - MH Center-Based Partial Hospitalization Service for Adults","programTypeId":17,"agencyId":1},{"id":42,"name":"02-019 - MH Center-Based Partial Hospitalization Service for Adults","programTypeId":36,"agencyId":1},{"id":43,"name":"02-029 - MH Therapeutic Day Treatment Service for Children and Adolescents","programTypeId":15,"agencyId":1},{"id":44,"name":"02-029 - MH Therapeutic Day Treatment Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":45,"name":"02-032 - MH Center-Based Partial Hospitalization Service for Children and Adolescents","programTypeId":17,"agencyId":1},{"id":46,"name":"02-032 - MH Center-Based Partial Hospitalization Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":47,"name":"02-033 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Adults","programTypeId":17,"agencyId":1},{"id":48,"name":"02-033 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Adults","programTypeId":36,"agencyId":1},{"id":49,"name":"02-033 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Adults ","programTypeId":36,"agencyId":1},{"id":50,"name":"02-034 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Children and Adolescents","programTypeId":16,"agencyId":1},{"id":51,"name":"02-034 - SA Center-Based Partial Hospitalization Service - ASAM Level 2.5 for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":52,"name":"02-035 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Adults","programTypeId":15,"agencyId":1},{"id":53,"name":"02-035 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Adults","programTypeId":36,"agencyId":1},{"id":54,"name":"02-036 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Children and Adolescents","programTypeId":17,"agencyId":1},{"id":55,"name":"02-036 - SA Center-Based Intensive Outpatient Service - ASAM Level 2.1 for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":56,"name":"02-037 - MH Center-Based Intensive Outpatient Service for Adults","programTypeId":17,"agencyId":1},{"id":57,"name":"02-037 - MH Center-Based Intensive Outpatient Service for Adults","programTypeId":36,"agencyId":1},{"id":58,"name":"02-038 - MH Center-Based Intensive Outpatient Service for Children and Adolescents","programTypeId":17,"agencyId":1},{"id":59,"name":"02-038 - MH Center-Based Intensive Outpatient Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":60,"name":"02-040 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Adults","programTypeId":16,"agencyId":1},{"id":61,"name":"02-040 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Adults","programTypeId":36,"agencyId":1},{"id":62,"name":"02-041 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Children and Adolescents","programTypeId":16,"agencyId":1},{"id":63,"name":"02-041 - MH Center-Based Crisis Receiving Center (CRC/23-hour crisis stabilization) Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":64,"name":"03-001 - MH Non-Center-Based Community Supports (Skill Building) Service for Adults","programTypeId":15,"agencyId":1},{"id":65,"name":"03-001 - MH Non-Center-Based Community Supports (Skill Building) Service for Adults","programTypeId":36,"agencyId":1},{"id":66,"name":"03-011 - DD Non-Center-Based Supportive In-Home Service","programTypeId":15,"agencyId":1},{"id":67,"name":"03-011 - DD Non-Center-Based Supportive In-Home Service","programTypeId":36,"agencyId":1},{"id":68,"name":"03-020 - MH Non-Center-Based Community Psychiatric Support and Treatment Service for Adults","programTypeId":16,"agencyId":1},{"id":69,"name":"03-020 - MH Non-Center-Based Community Psychiatric Support and Treatment Service for Adults","programTypeId":36,"agencyId":1},{"id":70,"name":"03-021 - MH Non-Center-Based Community Psychiatric Support and Treatment Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":71,"name":"03-022 - MH Center-Based Coordinated Specialty Care Service","programTypeId":36,"agencyId":1},{"id":72,"name":"03-023 - MH Center-Based Recovery and Empowerment Center Service for Adults","programTypeId":36,"agencyId":1},{"id":73,"name":"04-001 - MH Inpatient Psychiatric Service for Adults","programTypeId":15,"agencyId":1},{"id":74,"name":"04-001 - MH Inpatient Psychiatric Service for Adults","programTypeId":36,"agencyId":1},{"id":75,"name":"04-015 - SA Medically Monitored Intensive Inpatient Service - ASAM Level 3.7 for Adults","programTypeId":36,"agencyId":1},{"id":76,"name":"04-016 - SA Medically Monitored Intensive Inpatient Service - ASAM Level 3.7 for Children and Adolescents","programTypeId":16,"agencyId":1},{"id":77,"name":"05-001 - MH Intensive In-Home Service for Children and Adolescents","programTypeId":15,"agencyId":1},{"id":78,"name":"05-001 - MH Intensive In-Home Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":79,"name":"06-003 - SA Center-Based Medication Assisted Opioid Treatment Service","programTypeId":16,"agencyId":1},{"id":80,"name":"06-003 - SA Center-Based Medication Assisted Opioid Treatment Service","programTypeId":36,"agencyId":1},{"id":81,"name":"07-003 - MH Outpatient Service","programTypeId":17,"agencyId":1},{"id":82,"name":"07-003 - MH Outpatient Service","programTypeId":36,"agencyId":1},{"id":83,"name":"07-006 - MH Non-Center-Based Community Crisis Service","programTypeId":15,"agencyId":1},{"id":84,"name":"07-006 - MH Non-Center-Based Community Crisis Service","programTypeId":36,"agencyId":1},{"id":85,"name":"07-007 - DD Non-Center-Based Crisis Stabilization Service ? REACH","programTypeId":36,"agencyId":1},{"id":86,"name":"07-013 - SA Outpatient Service - ASAM Level 1.0 for Adults","programTypeId":17,"agencyId":1},{"id":87,"name":"07-013 - SA Outpatient Service - ASAM Level 1.0 for Adults","programTypeId":36,"agencyId":1},{"id":88,"name":"07-014 - SA Outpatient Service - ASAM Level 1.0 for Children and Adolescents","programTypeId":17,"agencyId":1},{"id":89,"name":"07-014 - SA Outpatient Service - ASAM Level 1.0 for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":90,"name":"08-011 - DD Sponsored Residential Home Service for Adults","programTypeId":15,"agencyId":1},{"id":91,"name":"08-011 - DD Sponsored Residential Home Service for Adults","programTypeId":36,"agencyId":1},{"id":92,"name":"08-013 - DD Sponsored Residential Home Service for Children and Adolescents","programTypeId":16,"agencyId":1},{"id":93,"name":"08-013 - DD Sponsored Residential Home Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":94,"name":"08-014 - MH Sponsored Residential Home Service","programTypeId":16,"agencyId":1},{"id":95,"name":"08-014 - MH Sponsored Residential Home Service","programTypeId":36,"agencyId":1},{"id":96,"name":"10-001 - DD In-Home Respite Service","programTypeId":17,"agencyId":1},{"id":97,"name":"10-001 - DD In-Home Respite Service","programTypeId":36,"agencyId":1},{"id":98,"name":"11-001 - MH Correctional Facility RTC Service","programTypeId":36,"agencyId":1},{"id":99,"name":"14-001 - MH Psychiatric Residential Treatment Facility (PRTF) Service for Children and Adolescents","programTypeId":5,"agencyId":1},{"id":100,"name":"14-008 - MH Residential Therapeutic Group Home Service for Children and Adolescents","programTypeId":6,"agencyId":1},{"id":101,"name":"14-009 - MH Residential Therapeutic Group Home Service for Children and Adolescents","programTypeId":6,"agencyId":1},{"id":102,"name":"14-010 - MH Residential Therapeutic Group Home Service for Children and Adolescents","programTypeId":6,"agencyId":1},{"id":103,"name":"14-011 - MH Residential Therapeutic Group Home Service for Children and Adolescents","programTypeId":6,"agencyId":1},{"id":104,"name":"14-012 - MH Residential Therapeutic Group Home Service for Children and Adolescents","programTypeId":6,"agencyId":1},{"id":105,"name":"14-015 - MH Residential Therapeutic Group Home Service for Children and Adolescents","programTypeId":6,"agencyId":1},{"id":106,"name":"14-035 - DD Residential Group Home Service for Children and Adolescents","programTypeId":5,"agencyId":1},{"id":107,"name":"14-036 - DD Residential Group Home Service for Children and Adolescents","programTypeId":5,"agencyId":1},{"id":108,"name":"14-041 - DD Residential Group Home Service for Children and Adolescents","programTypeId":5,"agencyId":1},{"id":109,"name":"14-063 - SA Residential Clinically Managed Low-Intensity Service - ASAM Level 3.1 for Children and Adolescents","programTypeId":7,"agencyId":1},{"id":110,"name":"14-066 - DD Residential ICF-IID Service for Children and Adolescents","programTypeId":5,"agencyId":1},{"id":111,"name":"14-094 - DD Residential Respite Service for Children and Adolescents","programTypeId":7,"agencyId":1},{"id":112,"name":"14-095 - DD Residential Respite Service for Children and Adolescents","programTypeId":7,"agencyId":1},{"id":113,"name":"14-097 - MH Residential Respite Service for Children and Adolescents","programTypeId":7,"agencyId":1},{"id":114,"name":"14-098 - MH Residential Respite Service for Children and Adolescents","programTypeId":7,"agencyId":1},{"id":115,"name":"16-002 - DD Case Management Service","programTypeId":15,"agencyId":1},{"id":116,"name":"16-003 - SA Case Management Service","programTypeId":15,"agencyId":1},{"id":117,"name":"16-003 - SA Case Management Service","programTypeId":36,"agencyId":1},{"id":118,"name":"16-004 - MH Case Management Service for Adults","programTypeId":15,"agencyId":1},{"id":119,"name":"16-004 - MH Case Management Service for Adults","programTypeId":36,"agencyId":1},{"id":120,"name":"16-005 - MH Case Management Service for Children and Adolescents","programTypeId":15,"agencyId":1},{"id":121,"name":"16-005 - MH Case Management Service for Children and Adolescents","programTypeId":36,"agencyId":1},{"id":122,"name":"18-002 - MH ACT Service - Small Team","programTypeId":15,"agencyId":1},{"id":123,"name":"18-002 - MH ACT Service - Small Team","programTypeId":36,"agencyId":1},{"id":124,"name":"18-003 - MH ACT Service - Medium Team","programTypeId":15,"agencyId":1},{"id":125,"name":"18-003 - MH ACT Service - Medium Team","programTypeId":36,"agencyId":1},{"id":126,"name":"18-004 - MH ACT Service - Large Team","programTypeId":15,"agencyId":1},{"id":127,"name":"18-004 - MH ACT Service - Large Team","programTypeId":36,"agencyId":1},{"id":132,"name":"Accreditation","programTypeId":32,"agencyId":7},{"id":128,"name":"ACRES AMENDMENT","programTypeId":24,"agencyId":6},{"id":129,"name":"ACRES REVISION","programTypeId":24,"agencyId":6},{"id":130,"name":"ADC","programTypeId":20,"agencyId":5},{"id":133,"name":"Adult Care Home Service","programTypeId":11,"agencyId":7},{"id":134,"name":"Agricultural Use Agreement","programTypeId":19,"agencyId":8},{"id":135,"name":"Agriculture","programTypeId":33,"agencyId":7},{"id":131,"name":"ALF","programTypeId":20,"agencyId":5},{"id":136,"name":"Alteration Permit","programTypeId":8,"agencyId":2},{"id":137,"name":"Amendment","programTypeId":25,"agencyId":6},{"id":138,"name":"Annually Permitted","programTypeId":11,"agencyId":7},{"id":139,"name":"Application for Land Conversion Activity","programTypeId":29,"agencyId":3},{"id":140,"name":"Application for Other Activity","programTypeId":29,"agencyId":3},{"id":141,"name":"Article 1/3 - TV/TIV and TV - Initial or Renewal","programTypeId":1,"agencyId":3},{"id":142,"name":"Article 1/3 - TV/TIV and TV - Minor Mod","programTypeId":1,"agencyId":3},{"id":143,"name":"Article 1/3 - TV/TIV and TV - Significant Mod","programTypeId":1,"agencyId":3},{"id":144,"name":"Article 5 SOP - Federally Enforceable","programTypeId":1,"agencyId":3},{"id":145,"name":"Article 5 SOP - Non Federally Enforceable","programTypeId":1,"agencyId":3},{"id":146,"name":"Article 6 Minor NSR - No Public Interest","programTypeId":1,"agencyId":3},{"id":147,"name":"Article 6 Minor NSR - With Public Interest","programTypeId":1,"agencyId":3},{"id":148,"name":"Article 6 State Major - New Stationary Source","programTypeId":1,"agencyId":3},{"id":149,"name":"Article 8 Major NSR PSD","programTypeId":1,"agencyId":3},{"id":150,"name":"Article 8 Major NSR PSD Minor Amendment","programTypeId":1,"agencyId":3},{"id":151,"name":"Article 8 Major NSR PSD Significant Amendment","programTypeId":1,"agencyId":3},{"id":152,"name":"As-Built Permit No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":153,"name":"AsBuilt Report Credit Release","programTypeId":26,"agencyId":3},{"id":156,"name":"Bank Closure","programTypeId":26,"agencyId":3},{"id":157,"name":"Bed \u0026 Breakfast Food Service","programTypeId":11,"agencyId":7},{"id":158,"name":"Bed \u0026 Breakfast Lodging","programTypeId":11,"agencyId":7},{"id":159,"name":"Bicycle Locker Rental - Fairfax","programTypeId":19,"agencyId":8},{"id":160,"name":"Boat Ramps","programTypeId":23,"agencyId":7},{"id":154,"name":"BOND REDUCTION","programTypeId":24,"agencyId":6},{"id":161,"name":"Booth","programTypeId":11,"agencyId":7},{"id":155,"name":"BR","programTypeId":27,"agencyId":4},{"id":162,"name":"Building","programTypeId":11,"agencyId":7},{"id":163,"name":"Building Movement","programTypeId":19,"agencyId":8},{"id":164,"name":"Bus Shelter","programTypeId":19,"agencyId":8},{"id":169,"name":"Camera attachement","programTypeId":19,"agencyId":8},{"id":170,"name":"Carry Out","programTypeId":11,"agencyId":7},{"id":171,"name":"Caterer","programTypeId":11,"agencyId":7},{"id":172,"name":"Cell Tower","programTypeId":19,"agencyId":8},{"id":173,"name":"Chapter 510 NMM General Permit","programTypeId":1,"agencyId":3},{"id":174,"name":"Child Care Food Service","programTypeId":11,"agencyId":7},{"id":175,"name":"Chutes, tipples, similar Stuctures.","programTypeId":19,"agencyId":8},{"id":165,"name":"CLEANUP","programTypeId":24,"agencyId":6},{"id":176,"name":"Commercial","programTypeId":33,"agencyId":7},{"id":177,"name":"Commercial Entrance","programTypeId":19,"agencyId":8},{"id":178,"name":"Commercial Entrance Exception Request/provide link","programTypeId":19,"agencyId":8},{"id":179,"name":"Commercial Use Agreement","programTypeId":19,"agencyId":8},{"id":180,"name":"Commissary","programTypeId":11,"agencyId":7},{"id":166,"name":"COMPLETION RPT","programTypeId":24,"agencyId":6},{"id":181,"name":"Comprehensive Plan Review","programTypeId":18,"agencyId":8},{"id":182,"name":"Construction","programTypeId":9,"agencyId":7},{"id":183,"name":"Construction Permit","programTypeId":8,"agencyId":2},{"id":184,"name":"Construction Permit","programTypeId":30,"agencyId":7},{"id":185,"name":"Construction Plan Review","programTypeId":18,"agencyId":8},{"id":186,"name":"Construction Plan Review, Final Plat Review","programTypeId":18,"agencyId":8},{"id":187,"name":"Construction Plan Review, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":188,"name":"Construction Plan Review, Site Plan","programTypeId":18,"agencyId":8},{"id":189,"name":"Construction Plan Review, Site Plan, Final Plat Review","programTypeId":18,"agencyId":8},{"id":190,"name":"Construction Plan Review, Site Plan, Preliminary Plat Review","programTypeId":18,"agencyId":8},{"id":191,"name":"Continental Breakfast","programTypeId":11,"agencyId":7},{"id":192,"name":"Convenience Store Food Service","programTypeId":11,"agencyId":7},{"id":167,"name":"COPN","programTypeId":4,"agencyId":7},{"id":193,"name":"Correctional Facility","programTypeId":11,"agencyId":7},{"id":194,"name":"Corrective Action","programTypeId":26,"agencyId":3},{"id":195,"name":"Countywide Permit  Overhead Fiber Co-Location","programTypeId":19,"agencyId":8},{"id":196,"name":"Countywide Permit \uFFFD Overhead Co-Location","programTypeId":19,"agencyId":8},{"id":197,"name":"Crab","programTypeId":37,"agencyId":7},{"id":198,"name":"Crest Stage Gauges No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":168,"name":"CRF","programTypeId":20,"agencyId":5},{"id":199,"name":"Cultural Resource Investigation","programTypeId":19,"agencyId":8},{"id":200,"name":"Distributor","programTypeId":3,"agencyId":7},{"id":201,"name":"Drinking/Domestic Use","programTypeId":33,"agencyId":7},{"id":202,"name":"Educational Facility Food Service","programTypeId":11,"agencyId":7},{"id":203,"name":"Environmental spill clean up","programTypeId":19,"agencyId":8},{"id":204,"name":"Exemptions, Exceptions \u0026 Waivers","programTypeId":39,"agencyId":3},{"id":205,"name":"Fast Food","programTypeId":11,"agencyId":7},{"id":206,"name":"Fence replacement/modification/removal","programTypeId":19,"agencyId":8},{"id":207,"name":"Fiber Optic Under Resource Agreement","programTypeId":19,"agencyId":8},{"id":208,"name":"Final Plat Review","programTypeId":18,"agencyId":8},{"id":209,"name":"Final Plat Review, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":210,"name":"Final Plat Review, Preliminary Plat Review","programTypeId":18,"agencyId":8},{"id":211,"name":"Final Plat Review, Preliminary Plat Review, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":212,"name":"Financial Assurance Release","programTypeId":26,"agencyId":3},{"id":213,"name":"Full Service Restaurant","programTypeId":11,"agencyId":7},{"id":214,"name":"General","programTypeId":9,"agencyId":7},{"id":215,"name":"Geotechnical Testing","programTypeId":19,"agencyId":8},{"id":216,"name":"Geothermal","programTypeId":33,"agencyId":7},{"id":217,"name":"Golf Cart  \u0026 Utility","programTypeId":19,"agencyId":8},{"id":218,"name":"Grading","programTypeId":19,"agencyId":8},{"id":219,"name":"Grocery Store Food Service","programTypeId":11,"agencyId":7},{"id":220,"name":"Groundwater Withdrawal Individual Permit","programTypeId":13,"agencyId":3},{"id":221,"name":"Groundwater Withdrawal Major Modification","programTypeId":13,"agencyId":3},{"id":222,"name":"Group Home Food Service","programTypeId":11,"agencyId":7},{"id":223,"name":"Guardrail Installation / Modification","programTypeId":19,"agencyId":8},{"id":225,"name":"Health Care Food Facility","programTypeId":11,"agencyId":7},{"id":224,"name":"HG","programTypeId":27,"agencyId":4},{"id":226,"name":"Hospital Food Service","programTypeId":11,"agencyId":7},{"id":227,"name":"Hotel","programTypeId":11,"agencyId":7},{"id":228,"name":"IM","programTypeId":27,"agencyId":4},{"id":231,"name":"Importer","programTypeId":3,"agencyId":7},{"id":232,"name":"In-Place Permit No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":233,"name":"Initial","programTypeId":21,"agencyId":7},{"id":234,"name":"Initial Credit Release","programTypeId":26,"agencyId":3},{"id":235,"name":"Inspection","programTypeId":19,"agencyId":8},{"id":236,"name":"Inspection (RadMat)","programTypeId":34,"agencyId":7},{"id":237,"name":"Inspection (XRay)","programTypeId":34,"agencyId":7},{"id":238,"name":"Inspection (XRay)","programTypeId":43,"agencyId":7},{"id":239,"name":"Inspector","programTypeId":22,"agencyId":10},{"id":240,"name":"Inspector","programTypeId":28,"agencyId":10},{"id":229,"name":"IR","programTypeId":27,"agencyId":4},{"id":230,"name":"IR-A","programTypeId":27,"agencyId":4},{"id":241,"name":"Irrigation","programTypeId":33,"agencyId":7},{"id":244,"name":"Land Conversion Credit Release","programTypeId":29,"agencyId":3},{"id":245,"name":"Land use permit application - Prior rights utility","programTypeId":19,"agencyId":8},{"id":246,"name":"Landscape Installation \u0026 Maintenance","programTypeId":19,"agencyId":8},{"id":242,"name":"LCPA","programTypeId":20,"agencyId":5},{"id":247,"name":"License","programTypeId":10,"agencyId":7},{"id":248,"name":"License Plate Readers","programTypeId":19,"agencyId":8},{"id":249,"name":"Lighting","programTypeId":19,"agencyId":8},{"id":250,"name":"Living Shoreline GP1","programTypeId":14,"agencyId":9},{"id":251,"name":"Living Shoreline GP2","programTypeId":14,"agencyId":9},{"id":252,"name":"Locality Reduced Speed Limits","programTypeId":19,"agencyId":8},{"id":253,"name":"Locally Administered VDOT Project","programTypeId":19,"agencyId":8},{"id":254,"name":"Logging Entrance","programTypeId":19,"agencyId":8},{"id":255,"name":"Long Term Care and Other Custodial Living Centers","programTypeId":11,"agencyId":7},{"id":256,"name":"Low-Volume Commercial Entrance","programTypeId":19,"agencyId":8},{"id":243,"name":"LUP-SUWFC","programTypeId":19,"agencyId":8},{"id":259,"name":"Maintenance of Traffic / Traffic Control Set-up","programTypeId":19,"agencyId":8},{"id":260,"name":"Manufacturer","programTypeId":3,"agencyId":7},{"id":261,"name":"Marina","programTypeId":23,"agencyId":7},{"id":262,"name":"Medical X-Ray Certification","programTypeId":43,"agencyId":7},{"id":263,"name":"Migrant Labor Camp","programTypeId":11,"agencyId":7},{"id":264,"name":"Minor Modification","programTypeId":30,"agencyId":7},{"id":265,"name":"Mitigation Banking Instrument","programTypeId":26,"agencyId":3},{"id":266,"name":"Mobile Food Unit","programTypeId":11,"agencyId":7},{"id":267,"name":"Mobile Food Vending","programTypeId":19,"agencyId":8},{"id":268,"name":"Mobile Vehicle","programTypeId":11,"agencyId":7},{"id":269,"name":"Moderate Volume commercial Entrance","programTypeId":19,"agencyId":8},{"id":270,"name":"Modification","programTypeId":12,"agencyId":6},{"id":272,"name":"Modification of a Land Conversion Activity","programTypeId":29,"agencyId":3},{"id":271,"name":"Modification of Other Credit Generating Activity","programTypeId":29,"agencyId":3},{"id":273,"name":"Monitoring Year","programTypeId":26,"agencyId":3},{"id":274,"name":"Monitoring Year Credit Releases","programTypeId":26,"agencyId":3},{"id":275,"name":"Motel","programTypeId":11,"agencyId":7},{"id":276,"name":"Movie Filming No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":257,"name":"MS4 General Permit","programTypeId":41,"agencyId":3},{"id":258,"name":"MS4 Individual Permit","programTypeId":41,"agencyId":3},{"id":278,"name":"New","programTypeId":12,"agencyId":6},{"id":277,"name":"NEW CSMO/NPDES","programTypeId":24,"agencyId":6},{"id":279,"name":"New Permit","programTypeId":25,"agencyId":6},{"id":280,"name":"No Loitering Signs No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":281,"name":"No VMRC Permit Nec.","programTypeId":14,"agencyId":9},{"id":282,"name":"No VMRC Permit Nec. (Pier)","programTypeId":14,"agencyId":9},{"id":283,"name":"Non-Medical X-Ray Certification","programTypeId":43,"agencyId":7},{"id":284,"name":"One Time Litter Pick Up","programTypeId":19,"agencyId":8},{"id":285,"name":"Operation","programTypeId":9,"agencyId":7},{"id":286,"name":"Other","programTypeId":11,"agencyId":7},{"id":287,"name":"Other Credit Generating Activity Credit Release","programTypeId":29,"agencyId":3},{"id":288,"name":"Other Place Where Boats Are Moored","programTypeId":23,"agencyId":7},{"id":289,"name":"Outdoor Advertising Structure","programTypeId":19,"agencyId":8},{"id":290,"name":"Oversized \u0026 Overweight Vehicle","programTypeId":19,"agencyId":8},{"id":291,"name":"PA","programTypeId":27,"agencyId":4},{"id":292,"name":"PC","programTypeId":27,"agencyId":4},{"id":295,"name":"Pending","programTypeId":14,"agencyId":9},{"id":296,"name":"Permit","programTypeId":10,"agencyId":7},{"id":297,"name":"Permit agreement for occupation of right-of-way","programTypeId":19,"agencyId":8},{"id":293,"name":"PERMIT RELEASE","programTypeId":24,"agencyId":6},{"id":298,"name":"Perpetual Maintenance Permit","programTypeId":19,"agencyId":8},{"id":299,"name":"Photo Enforcement Safety Red Zone","programTypeId":19,"agencyId":8},{"id":300,"name":"Photo-Red Camera System Installation","programTypeId":19,"agencyId":8},{"id":301,"name":"Plan Review","programTypeId":39,"agencyId":3},{"id":302,"name":"Plan Review Modification","programTypeId":39,"agencyId":3},{"id":294,"name":"PLANS REVISION","programTypeId":24,"agencyId":6},{"id":303,"name":"PreApplication","programTypeId":26,"agencyId":3},{"id":304,"name":"Preliminary Plan","programTypeId":18,"agencyId":8},{"id":305,"name":"Preliminary Plat Review","programTypeId":18,"agencyId":8},{"id":306,"name":"Preliminary Plat Review, Comprehensive Plan Review","programTypeId":18,"agencyId":8},{"id":307,"name":"Preliminary Plat Review, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":308,"name":"Preliminary Review of Draft Prospectus","programTypeId":26,"agencyId":3},{"id":309,"name":"Prior-Rights Permit","programTypeId":19,"agencyId":8},{"id":310,"name":"Private Entrance","programTypeId":19,"agencyId":8},{"id":311,"name":"Private Utility Crossing","programTypeId":19,"agencyId":8},{"id":312,"name":"Prospectus","programTypeId":26,"agencyId":3},{"id":313,"name":"Protest","programTypeId":19,"agencyId":8},{"id":314,"name":"Push Cart","programTypeId":11,"agencyId":7},{"id":315,"name":"REISSUE NPDES","programTypeId":24,"agencyId":6},{"id":316,"name":"REN/REISSUE C/N","programTypeId":24,"agencyId":6},{"id":321,"name":"Renewable Energy PBR Application","programTypeId":35,"agencyId":3},{"id":322,"name":"Renewable Energy PBR De Minimis Project","programTypeId":35,"agencyId":3},{"id":323,"name":"Renewable Energy PBR Modification","programTypeId":35,"agencyId":3},{"id":324,"name":"Renewal","programTypeId":12,"agencyId":6},{"id":325,"name":"Renewal","programTypeId":25,"agencyId":6},{"id":317,"name":"RENEWAL C/N","programTypeId":24,"agencyId":6},{"id":318,"name":"RENEWAL NPDES","programTypeId":24,"agencyId":6},{"id":326,"name":"Renewals","programTypeId":21,"agencyId":7},{"id":327,"name":"Renovator","programTypeId":3,"agencyId":7},{"id":328,"name":"Repacker","programTypeId":37,"agencyId":7},{"id":329,"name":"Repair Permit","programTypeId":30,"agencyId":7},{"id":330,"name":"Reshipper","programTypeId":37,"agencyId":7},{"id":331,"name":"Residential Street Tie-in Entrance","programTypeId":19,"agencyId":8},{"id":332,"name":"Restaurant","programTypeId":11,"agencyId":7},{"id":333,"name":"Reupholsterer","programTypeId":3,"agencyId":7},{"id":334,"name":"Road Construction","programTypeId":19,"agencyId":8},{"id":335,"name":"Roadside Memorial No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":336,"name":"Roadside Memorial Sign Installation","programTypeId":19,"agencyId":8},{"id":319,"name":"ROW Accomodation Permit","programTypeId":19,"agencyId":8},{"id":320,"name":"ROW Property Management Records","programTypeId":19,"agencyId":8},{"id":339,"name":"Sanitizer","programTypeId":3,"agencyId":7},{"id":340,"name":"School Zone Photo Enforcement","programTypeId":19,"agencyId":8},{"id":341,"name":"School Zone Photo Enforcement - SZPE","programTypeId":19,"agencyId":8},{"id":342,"name":"School Zone Speed Limit","programTypeId":19,"agencyId":8},{"id":343,"name":"Secondary Roads Addition","programTypeId":19,"agencyId":8},{"id":344,"name":"Shellstock Shipper","programTypeId":37,"agencyId":7},{"id":345,"name":"Shucker/Packer","programTypeId":37,"agencyId":7},{"id":346,"name":"Sidewalks","programTypeId":19,"agencyId":8},{"id":347,"name":"Signage (All Types)","programTypeId":19,"agencyId":8},{"id":348,"name":"Single use permit surveying operations","programTypeId":19,"agencyId":8},{"id":349,"name":"Single use temporary logging entrance","programTypeId":19,"agencyId":8},{"id":350,"name":"Site Plan","programTypeId":18,"agencyId":8},{"id":351,"name":"Site Plan, Comprehensive Plan Review","programTypeId":18,"agencyId":8},{"id":352,"name":"Site Plan, Final Plat Review","programTypeId":18,"agencyId":8},{"id":353,"name":"Site Plan, Final Plat Review, Preliminary Plat Review, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":354,"name":"Site Plan, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":355,"name":"Site Plan, Preliminary Plat Review","programTypeId":18,"agencyId":8},{"id":356,"name":"Site Plan, Preliminary Plat Review, Preliminary Plan","programTypeId":18,"agencyId":8},{"id":357,"name":"Small Transit Shelter Installations","programTypeId":19,"agencyId":8},{"id":358,"name":"Solar Erosion and Sediment Control Plan Review","programTypeId":39,"agencyId":3},{"id":359,"name":"Solid Waste Minor Modification","programTypeId":38,"agencyId":3},{"id":360,"name":"Solid Waste Part A Authorization","programTypeId":38,"agencyId":3},{"id":361,"name":"Solid Waste Part B New or Major Modification","programTypeId":38,"agencyId":3},{"id":362,"name":"Solid Waste Permit-By-Rule New or Modification","programTypeId":38,"agencyId":3},{"id":363,"name":"Special Event - Commuter Park \u0026 Ride Lot","programTypeId":19,"agencyId":8},{"id":364,"name":"Special Use Activity / Parade / Race / March","programTypeId":19,"agencyId":8},{"id":365,"name":"Springs and Wells No Fee Permit 24VAC30-151-710","programTypeId":19,"agencyId":8},{"id":337,"name":"SS","programTypeId":27,"agencyId":4},{"id":366,"name":"State Programmatic General Permits 22-SPGPs","programTypeId":42,"agencyId":3},{"id":367,"name":"State Programmatic General Permits 26-SPGPs","programTypeId":42,"agencyId":3},{"id":368,"name":"State Surface Water Determination - Certified","programTypeId":42,"agencyId":3},{"id":369,"name":"State Surface Water Determination - Non-Certified","programTypeId":42,"agencyId":3},{"id":458,"name":"station","programTypeId":28,"agencyId":10},{"id":370,"name":"Station","programTypeId":22,"agencyId":10},{"id":371,"name":"Station","programTypeId":28,"agencyId":10},{"id":372,"name":"Storm Drain Stencil Painting","programTypeId":19,"agencyId":8},{"id":373,"name":"Storm drain stenciling","programTypeId":19,"agencyId":8},{"id":374,"name":"Streamlined MBI Modification","programTypeId":26,"agencyId":3},{"id":375,"name":"Streamlined Plan Review","programTypeId":39,"agencyId":3},{"id":376,"name":"Strom Sewer discharge","programTypeId":19,"agencyId":8},{"id":338,"name":"SUCCESSION C/N","programTypeId":24,"agencyId":6},{"id":377,"name":"Summer Camp","programTypeId":11,"agencyId":7},{"id":378,"name":"Summer Camp Food Service","programTypeId":11,"agencyId":7},{"id":379,"name":"Supplemental","programTypeId":12,"agencyId":6},{"id":380,"name":"Supply Dealer","programTypeId":3,"agencyId":7},{"id":382,"name":"Surface Water Withdrawal VWP Individual Permit","programTypeId":42,"agencyId":3},{"id":381,"name":"Surface Water Withdrawal VWP IP Major Mod","programTypeId":42,"agencyId":3},{"id":383,"name":"Surveying","programTypeId":19,"agencyId":8},{"id":385,"name":"Temporary Construction Entrance","programTypeId":19,"agencyId":8},{"id":386,"name":"Tent","programTypeId":11,"agencyId":7},{"id":459,"name":"tent/canopy","programTypeId":11,"agencyId":7},{"id":387,"name":"Tent/Canopy","programTypeId":11,"agencyId":7},{"id":384,"name":"TN","programTypeId":27,"agencyId":4},{"id":388,"name":"To Be Determined","programTypeId":14,"agencyId":9},{"id":389,"name":"Tourist/Lodging Pool","programTypeId":11,"agencyId":7},{"id":390,"name":"Traffic Impact Analysis","programTypeId":19,"agencyId":8},{"id":391,"name":"Traffic Signal Installation / Modification","programTypeId":19,"agencyId":8},{"id":392,"name":"Trailer","programTypeId":11,"agencyId":7},{"id":393,"name":"Transfer","programTypeId":12,"agencyId":6},{"id":394,"name":"Transfer","programTypeId":25,"agencyId":6},{"id":395,"name":"Truck","programTypeId":11,"agencyId":7},{"id":396,"name":"Under Surveillance","programTypeId":23,"agencyId":7},{"id":397,"name":"Underground Utility Crossing","programTypeId":19,"agencyId":8},{"id":398,"name":"Utility - DAS Antenna","programTypeId":19,"agencyId":8},{"id":399,"name":"Utility - Fiber Optic","programTypeId":19,"agencyId":8},{"id":400,"name":"Utility - Open Cut","programTypeId":19,"agencyId":8},{"id":401,"name":"Utility - Overhead","programTypeId":19,"agencyId":8},{"id":402,"name":"Utility - Pole Installation / Replacement","programTypeId":19,"agencyId":8},{"id":403,"name":"Utility - Small Cell Facility co-location","programTypeId":19,"agencyId":8},{"id":404,"name":"Utility - Test Holes","programTypeId":19,"agencyId":8},{"id":405,"name":"Utility - Underground","programTypeId":19,"agencyId":8},{"id":407,"name":"Utility installations","programTypeId":19,"agencyId":8},{"id":406,"name":"Utility Service Connection","programTypeId":19,"agencyId":8},{"id":434,"name":"Vegetation Control - OA Structure","programTypeId":19,"agencyId":8},{"id":435,"name":"Vegetation Control - Single Business","programTypeId":19,"agencyId":8},{"id":436,"name":"Vegetation Control - Utility Tree Trimming","programTypeId":19,"agencyId":8},{"id":437,"name":"Vegetation control single business","programTypeId":19,"agencyId":8},{"id":438,"name":"Vending","programTypeId":11,"agencyId":7},{"id":408,"name":"VGP2 Groin(s)","programTypeId":14,"agencyId":9},{"id":409,"name":"VGP3 (Aquaculture)","programTypeId":14,"agencyId":9},{"id":410,"name":"VGP5 Utility Crossing General Permit","programTypeId":14,"agencyId":9},{"id":411,"name":"VGP6 (Emergency\u0026Water Quality)","programTypeId":14,"agencyId":9},{"id":412,"name":"VMRC (Subaqueous \u0026  Dune)","programTypeId":14,"agencyId":9},{"id":413,"name":"VMRC (Subaqueous \u0026 Wetlands)","programTypeId":14,"agencyId":9},{"id":414,"name":"VMRC (Subaqueous Exploration)","programTypeId":14,"agencyId":9},{"id":415,"name":"VMRC Dune Only","programTypeId":14,"agencyId":9},{"id":416,"name":"VMRC Subaqueous","programTypeId":14,"agencyId":9},{"id":417,"name":"VMRC Subaqueous Aquaculture","programTypeId":14,"agencyId":9},{"id":418,"name":"VMRC Wetlands - Npn Pier","programTypeId":14,"agencyId":9},{"id":419,"name":"VMRC Wetlands Only","programTypeId":14,"agencyId":9},{"id":439,"name":"Voluntary Upgrade Permit","programTypeId":30,"agencyId":7},{"id":440,"name":"Volunteer Mowing","programTypeId":19,"agencyId":8},{"id":441,"name":"Volunteer mowing activities","programTypeId":19,"agencyId":8},{"id":420,"name":"VPA Animal Feeding Operations General Permit","programTypeId":40,"agencyId":3},{"id":421,"name":"VPA Individual Permit","programTypeId":40,"agencyId":3},{"id":422,"name":"VPA Poultry Waste Management General Permit","programTypeId":2,"agencyId":3},{"id":423,"name":"VPDES Domestic Sewage Shellfish General Permit","programTypeId":41,"agencyId":3},{"id":424,"name":"VPDES General Permit","programTypeId":41,"agencyId":3},{"id":426,"name":"VPDES Individual Permit","programTypeId":41,"agencyId":3},{"id":425,"name":"VPDES IP - Early Application","programTypeId":41,"agencyId":3},{"id":427,"name":"VPDES Reclamation \u0026 Reuse Authorization","programTypeId":41,"agencyId":3},{"id":428,"name":"VWP General Permit 45 Day Coverage Application","programTypeId":42,"agencyId":3},{"id":429,"name":"VWP General Permit Coverage Application","programTypeId":42,"agencyId":3},{"id":430,"name":"VWP General Permit Coverage Application (VDOT)","programTypeId":42,"agencyId":3},{"id":431,"name":"VWP Individual Permit Application","programTypeId":42,"agencyId":3},{"id":432,"name":"VWP Individual Permit Application (VDOT)","programTypeId":42,"agencyId":3},{"id":433,"name":"VWP Individual Permit Major Modification","programTypeId":42,"agencyId":3},{"id":442,"name":"Wayfinding Sign Program","programTypeId":19,"agencyId":8},{"id":443,"name":"Wireless Facility Co-Location","programTypeId":19,"agencyId":8},{"id":444,"name":"Wireless Sup Strut colocation at 121 Feet \u0026above","programTypeId":19,"agencyId":8},{"id":451,"name":"Wireless suport sturctue Small Cell at 50 or below","programTypeId":19,"agencyId":8},{"id":445,"name":"Wireless Supp Struc Co-location 51 to 120 Feet","programTypeId":19,"agencyId":8},{"id":446,"name":"Wireless Supp Struc co-location at 50 Feet or Less","programTypeId":19,"agencyId":8},{"id":447,"name":"Wireless Support Structure 51 to 120 Feet","programTypeId":19,"agencyId":8},{"id":449,"name":"Wireless Support Structure at 121 Feet and above","programTypeId":19,"agencyId":8},{"id":450,"name":"Wireless Support Structure at 50 Feet or Less","programTypeId":19,"agencyId":8},{"id":448,"name":"Wireless Support Structure Small Cell at 50 or bel","programTypeId":19,"agencyId":8},{"id":452,"name":"Work Zone Speed Safety Camera Enforcement","programTypeId":19,"agencyId":8},{"id":453,"name":"Work Zone Speed Safety Camera Enforcement - W","programTypeId":19,"agencyId":8},{"id":454,"name":"Work Zone Speed Safety Camera Enforcement - WZSSC","programTypeId":19,"agencyId":8},{"id":455,"name":"Work zone traffic control for UT off RW","programTypeId":19,"agencyId":8},{"id":456,"name":"Zoning TIA Review","programTypeId":18,"agencyId":8},{"id":457,"name":"Zoning TIA Review, Comprehensive Plan Review","programTypeId":18,"agencyId":8}];
+
+        function GetUtcDateString(dateInput){
+            if(dateInput.val()){
+                var date = new Date(dateInput.val());
+                return date.toLocaleDateString('fr-ca', { timeZone: 'UTC' });
+            }
+            else{
+                return '';
+            }
+        }
+
+        var drawCallbackConfiguration =
+        {
+            scroll: false,
+            toast: false
+        };
+
+        $(document).ready(function () {
+            function updateDatepickers() {
+                var startDatepicker = $('#application-received-start');
+                var endDatepicker = $('#application-received-end');
+
+                var startDate = GetUtcDateString(startDatepicker);
+                var endDate = GetUtcDateString(endDatepicker);
+
+                startDatepicker.attr("max", endDate);
+                endDatepicker.attr("min", startDate);
+            }
+
+            $('#my-table').DataTable({
+                ajax: {
+                    url: 'SearchDatatable',
+                    type: 'POST',
+                    data: function(d) {
+                        d.primarySearch = searchParameters['primarySearch'];
+                        d.agencyIds = searchParameters['agencyIds'];
+                        d.programTypeIds = searchParameters['programTypeIds'];
+                        d.permitTypeIds = searchParameters['permitTypeIds'];
+                        d.localityIds = searchParameters['localityIds'];
+                        d.applicationStatus = searchParameters['applicationStatus'];
+                        d.startDate = searchParameters['appReceivedStart'];
+                        d.endDate = searchParameters['appReceivedEnd'];
+                    }
+                },
+                order: [[9, 'desc']],
+                'dom': '<"#table-header"<"#table-information"i>>r<".table-responsive"t><"#table-paging"p>',
+                'processing': true,
+                'serverSide': true,
+                'bAutoWidth': false,
+                'responsive': true,
+                'filter': true,
+                'pageLength': 20,
+                'pagingType': dataTablePaging,
+                'columns': [
+                    {
+                        data: 'applicationNumber',
+                        name: 'ApplicationNumber',
+                        render: function (data, type, row) {
+                            return '<a href=../Permit/Details/' + row.id + '>' + data + '</a>';
+                        }
+                    },
+                    { data: 'applicantName', name: 'ApplicantName' },
+                    { data: 'agent', name: 'Agent' },
+                    { data: 'facility', name: 'Facility' },
+                    { data: 'agency', name: 'Agency' },
+                    { data: 'programType', name: 'ProgramType' },
+                    { data: 'permitType', name: 'PermitType' },
+                    { data: 'permitNumber', name: 'PermitNumber' },
+                    { data: 'locality', name: 'Locality' },
+                    { data: 'applicationReceivedDate', name: 'ApplicationReceivedDate', render: DataTable.render.datetime('MM/dd/yyyy') },
+                    { data: 'status', name: 'Status'}
+                ],
+                'language': {
+                    'info': 'Displaying _START_-_END_ of _TOTAL_ results',
+                    'infoEmpty': 'Displaying 0 results'
+                },
+                'drawCallback': function (settings) {
+                    if (drawCallbackConfiguration['scroll']) {
+                        $('html,body').animate(
+                            { scrollTop: $("#table-header").offset().top },
+                            function () {
+                                searchResultsToast.show();
+                            }
+                        );
+                    }
+                    else if (drawCallbackConfiguration['toast']) {
+                        searchResultsToast.show();
+                    }
+
+                    // Apply accessibility attributes for screen-readers
+                    $('#my-table_ellipsis').attr('aria-hidden', 'true');
+                    $('table.dataTable th').removeAttr('aria-label');
+                }
+            });
+
+            let applicationStatusFilter = $('#app-status-filter-container').detach();
+            $(applicationStatusFilter).prependTo($('#table-information'));
+
+            /* Events */
+            $('input').on('change', function () {
+                updateResetButton();
+            });
+            $('select').on('change', function () {
+                updateResetButton();
+            });
+
+            $('input[type="date"]').change(function() {
+                updateDatepickers();
+            });
+
+            $('#application-status-list').on('change', function (e) {
+                searchParameters['applicationStatus'] = $(e.target).val();
+                searchTable(true, false);
+            });
+
+            $('#reset-form-button').click(function () {
+                // clear text/date inputs, deselect dropdown options, reset status filter
+                $('#application-search-form').trigger('reset');
+
+                $('.form-control-multiselect').each(function (index) {
+                    $(this).selectpicker('deselectAll');
+                });
+                $('#application-status-list').selectpicker('val', defaultStatus);
+
+                // reload application list with no filters
+                hardSearch();
+
+                // disable reset button
+                updateResetButton();
+                $('#primary-search').focus();
+            });
+
+            initializeDropdownEvents();
+            applyAccessibilityAttributes();
+        });
+
+        /* Search Form Functions */
+        function hasValue(element) {
+            return $(element).filter(function () { return $(this).val().length > 0 }).length;
+        }
+
+        function updateResetButton(e) {
+            var textFieldsFilled = hasValue('#primary-search');
+            var dropdownValuesFilled = hasValue('select');
+            var dateValuesFilled = hasValue('.datepicker')
+
+            var searchButton = $('#search-button');
+            var resetFormButton = $('#reset-form-button');
+            var fieldsFilled = textFieldsFilled + dropdownValuesFilled + dateValuesFilled;
+            if (fieldsFilled) {
+                resetFormButton.removeAttr('disabled');
+            }
+            else{
+                resetFormButton.attr('disabled', 'disabled');
+            }
+        }
+
+        function updateSearchFilters() {
+            searchParameters['primarySearch'] = $('#primary-search').val();
+            searchParameters['agencyIds'] = $('#agency-list').val();
+            searchParameters['programTypeIds'] = $('#program-type-list').val();
+            searchParameters['permitTypeIds'] = $('#permit-type-list').val();
+            searchParameters['localityIds'] = $('#locality-list').val();
+
+            searchParameters['appReceivedStart'] = GetUtcDateString($('#application-received-start'));
+            searchParameters['appReceivedEnd'] = GetUtcDateString($('#application-received-end'));
+        }
+
+        /* Search Functions */
+        function searchTable(statusTabChange, formReset) {
+            var table = $('#my-table').DataTable();
+            if (formReset) {
+                searchParameters['applicationStatus'] = defaultStatus;
+            }
+
+            // set up scroll and toast config for dt.draw callback
+            drawCallbackConfiguration['scroll'] = !statusTabChange && !formReset ? true : false;
+            drawCallbackConfiguration['toast'] = !statusTabChange ? true : false;
+
+            table.draw();
+        }
+
+        function hardSearch(event){
+            updateSearchFilters();
+
+            // prevent standard form submission
+            if (event) {
+                event.preventDefault();
+                searchTable(false, false);
+                $('#app-status-filter-container').focus();
+            }
+            else {
+                searchTable(false, true);
+            }
+        }
+
+        /* Dropdown Functions */
+        function initializeDropdownEvents() {
+            $('#agency-list').on('change', function() {
+                var selectedAgencyIds = $('#agency-list').val();
+                var filteredProgramTypes = filterChildDropdown(selectedAgencyIds, 'agencyId', programTypes, '#program-type-list', 'name');
+                filterChildDropdown(filteredProgramTypes, 'programTypeId', permitTypes, '#permit-type-list', 'name');
+
+                // deselect previously selected program types and permit types
+                $('#program-type-list').selectpicker('deselectAll');
+                $('#permit-type-list').selectpicker('deselectAll');
+            });
+
+            $('#program-type-list').on('change', function () {
+                var selectedAgencyIds = $('#agency-list').val();
+                 var selectedProgramTypeIds = $('#program-type-list').val();
+                 filterChildDropdown(selectedProgramTypeIds, 'programTypeId', permitTypes, '#permit-type-list', 'name');
+                $('#permit-type-list').selectpicker('deselectAll');
+            });
+        }
+
+        function preventTabSelection(selector) {
+            $(selector).parent().find("input").bind('keydown', (e) => {
+                var keyCode = e.keyCode || e.which;
+
+                if (keyCode == 9) {
+                    e.preventDefault();
+                    return false;
+                }
+            });
+        }
+
+        function applyAccessibilityAttributes() {
+            // Apply accessibility attributes for screen-readers
+            // bootstrap-select generates buttons from select tags, so we must use JS to apply aria
+            $('#agency-list-group button').attr('aria-labelledby', 'agency-list-label');
+            $('#program-type-list-group button').attr('aria-labelledby', 'program-type-list-label');
+            $('#permit-type-list-group button').attr('aria-labelledby', 'permit-type-list-label');
+            $('#locality-list-group button').attr('aria-labelledby', 'locality-list-label');
+
+            $('table.dataTable th').removeAttr('tabIndex');
+            // Apply event handlers to prevent tab-selecting
+            preventTabSelection('#agency-list');
+            preventTabSelection('#program-type-list');
+            preventTabSelection('#permit-type-list');
+            preventTabSelection('#locality-list');
+        }
+
+        function filterChildDropdown(selectedParentIds, parentIdFieldName, childDropdownOptions, childDropdownId, childFieldName) {
+
+            var filteredChildDropdownOptions = childDropdownOptions.filter(p => selectedParentIds.includes(p[parentIdFieldName].toString()));
+
+            if (filteredChildDropdownOptions.length == 0) {
+                filteredChildDropdownOptions = childDropdownOptions;
+            }
+
+            var childDropdownSelector = `${childDropdownId} option`;
+            $(childDropdownSelector).each(function (index) {
+                        if (filteredChildDropdownOptions.find(e => e.id.toString() === $(this).val())) {
+                                $(this).show();
+                            } else {
+                                $(this).hide();
+                            }
+            });
+            // workaround for bootstrap-selectpicker.refresh duplicating options
+            $(childDropdownId).selectpicker('destroy').selectpicker('render');
+            applyAccessibilityAttributes();
+
+            return filteredChildDropdownOptions.map(f => f.id.toString());
+        }
+    </script>
+
+</body>
+</html>
