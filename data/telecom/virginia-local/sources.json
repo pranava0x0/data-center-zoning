@@ -1,0 +1,46 @@
+{
+  "loudoun-franchise": {
+    "url": "https://codelibrary.amlegal.com/codes/loudouncounty/latest/loudounco_va/0-0-0-3181",
+    "status": "blocked",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "loudoun-row": {
+    "url": "https://codelibrary.amlegal.com/codes/loudouncounty/latest/loudounco_va/0-0-0-3326",
+    "status": "blocked",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "leesburg-row-manual": {
+    "url": "https://www.leesburgva.gov/home/showpublisheddocument/24384/636295782811100000",
+    "status": "blocked",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "arlington-excavation": {
+    "url": "https://www.arlingtonva.us/Government/Programs/Building/Permits/Excavation-Right-of-Way-Permit",
+    "retrieved_at": "2026-11-21T06:06:46.815446+00:00",
+    "status": "blocked",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "henrico-row": {
+    "url": "https://henrico.gov/build/planning-and-land-development/right-of-way-permit/",
+    "retrieved_at": "2026-11-21T06:06:46.816773+00:00",
+    "final_url": "https://henrico.gov/build/planning-and-land-development/right-of-way-permit/",
+    "path": "data/telecom/virginia-local/evidence/henrico-row.html",
+    "sha256": "741eb054d6d7383e628abf99cf7aa8a44fcefd590ba119ebdede3c76771a9980",
+    "bytes": 151754,
+    "content_type": "text/html",
+    "status": "retrieved",
+    "capture_method": "HTTP response"
+  },
+  "fairfax-city-row": {
+    "url": "https://www.fairfaxva.gov/Property-Business/Permit-License-Hub/Permit-Applications/Right-of-Way-Permit-Information",
+    "retrieved_at": "2026-11-21T06:06:46.817111+00:00",
+    "status": "blocked",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "vdot-road-control": {
+    "url": "https://www.vdot.virginia.gov/contact/",
+    "retrieved_at": "2026-11-21T06:06:46.817387+00:00",
+    "status": "blocked",
+    "error": "robots.txt disallows https://www.vdot.virginia.gov/contact/"
+  }
+}

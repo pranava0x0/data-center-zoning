@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "state": "VA",
+  "roster_vintage": 2022,
+  "roster_path": "data/national/government_units.csv",
+  "roster_sha256": "7ba2dad40b7837b3aeb29555204e4db3a1b46ecf7bdc48848ab6ac90283da1e3",
+  "source_url": "https://www.census.gov/data/datasets/2022/econ/gus/public-use-files.html",
+  "selection": "state VA; class_name General Purpose; county or municipal classification. Cities occur only in the municipal group, not twice as county equivalents.",
+  "local_governments": 322,
+  "government_types": {
+    "county": 95,
+    "town": 189,
+    "city": 38
+  },
+  "additional_agencies": [
+    {
+      "authority_id": "va-vdot",
+      "authority": "Virginia Department of Transportation",
+      "jurisdiction_type": "state agency"
+    }
+  ],
+  "denominator": 323,
+  "measure": "Authorities with at least one archived primary-source review, against the Census 2022 government roster plus VDOT. Not ordinance, permit-history, route or current-government completeness.",
+  "limitations": [
+    "Road, easement and pole ownership are not established by a government roster.",
+    "Local government coverage includes county-owned property and franchises even where VDOT maintains roads.",
+    "Federal agencies, private owners, railroads and utilities are outside this baseline.",
+    "Roster vintage is 2022; later incorporations or dissolutions have not been reconciled."
+  ]
+}

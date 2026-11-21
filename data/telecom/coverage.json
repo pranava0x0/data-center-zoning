@@ -52,9 +52,203 @@
     "state": "VA",
     "jurisdiction": "Loudoun County",
     "authority": "Loudoun County",
-    "source_review": "not reviewed",
+    "source_review": "verified",
+    "history_review": "not searched",
+    "source_id": "codex-loudoun-row",
+    "limitation": "Cable-franchise construction provisions reviewed from the 2026 S-28 publisher text extraction. Separate VDOT permission is required. Other telecom franchises, current amendments and local permit history are not reconciled."
+  },
+  {
+    "id": "vdot-prince-william",
+    "state": "VA",
+    "jurisdiction": "Prince William County",
+    "authority": "VDOT",
+    "source_review": "verified",
+    "history_review": "bounded sample",
+    "source_id": "vdot-pw-search",
+    "search": "agency 8; permit type Utility - Fiber Optic (id 400 on the 2026-11-21 page); locality Prince William County; length 100",
+    "pagination": "start 0, length 100; one page, all 65 results returned",
+    "result_count": 65,
+    "published_sample": 18,
+    "limitation": "Ten newest by received date plus the eight applications still In Progress. The same search listed Fiber Optic as type 399 on 2026-11-18, so type ids can change. Address does not establish county authority."
+  },
+  {
+    "history_review": "not applicable",
+    "source_id": "oh-4939-03",
+    "id": "ohio-statute",
+    "state": "OH",
+    "jurisdiction": "Ohio",
+    "authority": "Ohio General Assembly",
+    "source_review": "verified",
+    "limitation": "R.C. 4939.03, 4939.0311 and 4939.0313 recorded as general rules. R.C. 122.175 (data center sales tax exemption, archived) names no fiber or communications equipment, so no data center fiber record was created."
+  },
+  {
     "history_review": "not searched",
     "source_id": null,
-    "limitation": "VDOT work location is established separately; no county-controlled ROW process verified."
+    "id": "ohio-municipal-row",
+    "state": "OH",
+    "jurisdiction": "Columbus, New Albany and other municipalities",
+    "authority": "Ohio municipalities (public way owners)",
+    "source_review": "not reviewed",
+    "limitation": "Street-opening and public-way permit registers for Ohio municipalities have not been searched; consent under R.C. 4939.03 is issued by each municipality."
+  },
+  {
+    "history_review": "not searched",
+    "source_id": null,
+    "id": "ohio-canton-code",
+    "state": "OH",
+    "jurisdiction": "Canton",
+    "authority": "City of Canton",
+    "source_review": "blocked",
+    "limitation": "A search index summary says Canton Codified Ordinances chapter 1148 requires new fiber optic and telecommunications lines to be underground. The official code host (codelibrary.amlegal.com) returned HTTP 403, so nothing was recorded; whether that rule is specific to data centers is unknown."
+  },
+  {
+    "history_review": "not searched",
+    "source_id": null,
+    "id": "ohio-findlay-data-center",
+    "state": "OH",
+    "jurisdiction": "Findlay",
+    "authority": "City of Findlay",
+    "source_review": "blocked",
+    "limitation": "Proposed data center zoning ordinance page on findlayohio.gov returned HTTP 403 and was not read."
+  },
+  {
+    "history_review": "not applicable",
+    "source_id": "tx-sb1004",
+    "id": "texas-statute",
+    "state": "TX",
+    "jurisdiction": "Texas",
+    "authority": "Texas Legislature",
+    "source_review": "verified",
+    "limitation": "Network node rules recorded from the enrolled text of S.B. 1004 (85th Legislature) because statutes.capitol.texas.gov is script-rendered and cannot be archived. Later amendments to Local Government Code chapter 284 are not checked. Utilities Code chapter 283 and Tax Code 151.359 and 151.3595 (data center exemptions) could not be archived from an official text, so no Texas data center incentive record was created."
+  },
+  {
+    "history_review": "not applicable",
+    "source_id": "mesquite-5259",
+    "id": "texas-mesquite",
+    "state": "TX",
+    "jurisdiction": "Mesquite",
+    "authority": "City of Mesquite",
+    "source_review": "verified",
+    "limitation": "Ordinance 5259 recorded as passed July 20, 2026. Only the sections that name telecommunications were recorded; the rest of section 3.514 is in the ordinance atlas."
+  },
+  {
+    "history_review": "not searched",
+    "source_id": null,
+    "id": "texas-municipal-row",
+    "state": "TX",
+    "jurisdiction": "Dallas, Fort Worth, Austin, San Antonio, Abilene",
+    "authority": "Texas municipalities (public right-of-way owners)",
+    "source_review": "not reviewed",
+    "limitation": "Right-of-way, street-cut and network node permit registers have not been searched. Texas data center ordinances other than Mesquite were not read for fiber language."
+  },
+  {
+    "history_review": "not applicable",
+    "source_id": "hanover-iron-horse",
+    "id": "hanover-county",
+    "state": "VA",
+    "jurisdiction": "Hanover County",
+    "authority": "Hanover County",
+    "source_review": "verified",
+    "limitation": "Two proffer statements recorded as filed. Neither document shows the Board of Supervisors decision, so neither is treated as an adopted condition."
+  },
+  {
+    "history_review": "not applicable",
+    "source_id": "va-56-462",
+    "id": "virginia-statute",
+    "state": "VA",
+    "jurisdiction": "Virginia",
+    "authority": "Virginia General Assembly",
+    "source_review": "verified",
+    "limitation": "Code sections for ROW parity, small cell zoning and VDOT small cell permits recorded. Va. Code 58.1-609.3(18) (data center exemption) names routers and connections but not fiber."
+  },
+  {
+    "history_review": "not searched",
+    "source_id": null,
+    "id": "loudoun-zoning",
+    "state": "VA",
+    "jurisdiction": "Loudoun County",
+    "authority": "Loudoun County",
+    "source_review": "not reviewed",
+    "limitation": "The draft Phase 2 data center standards (ZOAM) were searched for fiber and telecommunications and contain only the general Telecommunications Facility use entries; the draft was not archived and no record was created. Adopted standards and rezoning proffers were not searched."
+  },
+  {
+    "history_review": "not searched",
+    "source_id": null,
+    "id": "prince-william-zoning",
+    "state": "VA",
+    "jurisdiction": "Prince William County",
+    "authority": "Prince William County",
+    "source_review": "not reviewed",
+    "limitation": "No fiber or underground-utility requirement for data centers was located in the Digital Gateway proffers or the Data Center Opportunity Zone overlay text that were searched; only the text layer was searched (no OCR), and the county design manual was not reviewed."
+  },
+  {
+    "history_review": "not searched",
+    "source_id": null,
+    "id": "fairfax-zoning",
+    "state": "VA",
+    "jurisdiction": "Fairfax County",
+    "authority": "Fairfax County",
+    "source_review": "not reviewed",
+    "limitation": "The 2024 data center zoning amendment (ZO-112-1-2024-9) was searched for fiber and telecommunications and no match was found; it was not archived and no record was created."
+  },
+  {
+    "id": "leesburg-charter",
+    "state": "VA",
+    "jurisdiction": "Leesburg",
+    "authority": "Town of Leesburg",
+    "source_review": "partial",
+    "history_review": "not searched",
+    "source_id": "codex-leesburg-charter",
+    "limitation": "Utility easement-exchange charter power archived. Town ROW permit guidance remains blocked, and the proposed zoning rewrite is not treated as adopted."
+  },
+  {
+    "id": "henrico-county-row",
+    "state": "VA",
+    "jurisdiction": "Henrico County",
+    "authority": "Henrico County",
+    "source_review": "verified",
+    "history_review": "not searched",
+    "source_id": "codex-henrico-row",
+    "limitation": "Official application guide reviewed; no telecom permit register reconciled and road-specific control is not inferred."
+  },
+  {
+    "id": "lynchburg-row",
+    "state": "VA",
+    "jurisdiction": "Lynchburg",
+    "authority": "City of Lynchburg",
+    "source_review": "verified",
+    "history_review": "not searched",
+    "source_id": "codex-lynchburg-row",
+    "limitation": "City Engineering ROW permit guidance reviewed. Current code amendments, complete telecom requirements and permit history are not reconciled."
+  },
+  {
+    "id": "arlington-county-row",
+    "state": "VA",
+    "jurisdiction": "Arlington County",
+    "authority": "Arlington County",
+    "source_review": "verified",
+    "history_review": "not searched",
+    "source_id": "codex-arlington-excavation",
+    "limitation": "Official excavation guide captured as primary text extraction, not raw HTML. No permit census or determination for each road; emergency and additional transportation-permit procedures remain separate."
+  },
+  {
+    "id": "richmond-row",
+    "state": "VA",
+    "jurisdiction": "Richmond",
+    "authority": "City of Richmond",
+    "source_review": "verified",
+    "history_review": "not searched",
+    "source_id": "codex-richmond-row",
+    "limitation": "Official ROW guidance archived; no permit-register census, current code reconciliation or road-specific ownership determination. Guidance is excluded from adopted features."
+  },
+  {
+    "id": "virginia-beach-row",
+    "state": "VA",
+    "jurisdiction": "Virginia Beach",
+    "authority": "City of Virginia Beach",
+    "source_review": "verified",
+    "history_review": "not searched",
+    "source_id": "codex-virginia-beach-row",
+    "limitation": "Official ROW guidance archived; no permit-register census, current code reconciliation or road-specific ownership determination. Guidance is excluded from adopted features."
   }
 ]
