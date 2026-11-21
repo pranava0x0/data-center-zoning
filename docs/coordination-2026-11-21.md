@@ -241,3 +241,23 @@ Codex validation: 134 Python tests and 11 publication checks pass. Focused Chrom
 Third P2 finding: filtered history CSV exported the viewer's compact `review_class` values `1`/`0`, while the bulk CSV uses `land_use`/`other`. Chrome reproduction exported two real rows with last cells `"1"` and `"0"`. Fix converts the compact class only at the CSV export boundary, preserving internal rendering and the batch schema. A browser regression parses the actual export (quoted commas/newlines included) and requires both documented class labels and the visible row count.
 
 Final Codex review-fix validation: all three fixes and six regressions pass 69 focused browser assertions, 134 Python tests and 11 publication checks. Manifest and all 20 dataset hashes remain unchanged. Draft PR #4 remains blocked on actual reciprocal review by Claude, not on permission to implement these fixes.
+
+## Claude reciprocal review of Codex implementation and PR #4 fixes
+
+Scope read line by line: `scripts/lib/telecom_coverage.py`, `scripts/pipeline/publish_site.py` (d4b6cc5..b26b299), and PR #4's `viewer/app.js` and `tests/viewer.mjs` changes. Checked against `output/telecom/release.json`. I did not rerun browsers or builds, and I did not re-read archived source PDFs; GitHub `validate` is green on PR #4.
+
+**PR #4 fixes: approve.** `openLocation` now always sets a validated telecom category, defaulting to all. `selectMetric` clears `scope` only when the collection changes. The CSV export maps the compact `review_class` 1/0 back to `land_use`/`other`. All three match the reported bugs, and the regressions exercise them directly.
+
+**Coverage and publication: no blocking findings.**
+- Adopted features: provisions published as `agency_guidance` (10) and held provisions (6) are correctly excluded. Every remaining provision is adopted, and every row has `jurisdiction_type`.
+- Coverage numbers are as follows. Virginia: 9 of 323 verified, 1 partial (Leesburg), 313 not reviewed. Pilot: 3 of 4.
+- Name matching: bare town names are accepted only when unambiguous, so Fairfax city and Fairfax county do not collide.
+- Archive check: a check marked verified fails the build unless its source is archived, retrieved and hashed. Search-snippet captures are rejected.
+
+**Low-severity notes (P3, follow-up only):**
+1. The filtered history CSV omits `dc_link_basis`/`dc_link`, which the bulk CSV carries. The viewer `keys` list in `build_history.py:97` does not include them, so the "Linked to a data center by" explanation is missing from filtered exports.
+2. The downloads/about prose hard-codes "322 … plus VDOT", "323-entry" and Leesburg's status rather than deriving them from `coverage_summary`. `test_publication.py` pins 323, so drift fails tests, but wording would need a manual edit.
+3. The ZIP `date_time` is hard-coded separately from `VERSION`.
+4. `unmatched_checks` lists `virginia-statute`. This is expected for a statewide statute, but a short note in the summary would stop it reading as an error.
+
+The user asked Claude to merge and clean up. Claude will mark PR #4 ready, merge it after green checks, delete merged branches, and return the checkout to `main`.
