@@ -1,12 +1,12 @@
 {
   "storage": {
-    "csv_bytes": 20524619,
-    "viewer_bytes": 12436545,
-    "detail_bytes": 6417021,
+    "csv_bytes": 21825375,
+    "viewer_bytes": 12466250,
+    "detail_bytes": 6485254,
     "archive_bytes": 3092172798,
     "at_100000_similar_rows_MB": {
-      "csv": 141.8,
-      "viewer": 85.9
+      "csv": 150.7,
+      "viewer": 86.1
     }
   },
   "as_of": "2026-11-15",

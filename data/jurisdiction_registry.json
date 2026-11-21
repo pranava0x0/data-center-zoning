@@ -85,6 +85,47 @@
     "RI": "Only shared collectors (multistate/accela_case_pages).",
     "MO": "Only national collectors (FAA, EPA water)."
   },
+  "technology_collectors": {
+    "fiber_telecom_va": {
+      "collector": "collectors/virginia/statewide/telecom_right_of_way.py",
+      "source_owner": "VDOT; Virginia General Assembly; Fairfax County; Loudoun County; Town of Leesburg; Hanover County; Henrico County; City of Lynchburg; Arlington County; City of Richmond; City of Virginia Beach; Ohio General Assembly; Texas Legislature; City of Mesquite",
+      "authority_geographies": [
+        "51",
+        "51059",
+        "51107",
+        "5144984",
+        "51085",
+        "51087",
+        "51680",
+        "51013",
+        "51760",
+        "51810",
+        "39",
+        "48",
+        "4847892"
+      ],
+      "project_locations": [
+        "51107",
+        "51059",
+        "51153"
+      ],
+      "outputs": [
+        "output/telecom/release.json",
+        "viewer/telecom.js",
+        "output/telecom/provisions.csv",
+        "output/telecom/published.csv",
+        "output/telecom/held.csv",
+        "output/telecom/instruments.csv",
+        "output/telecom/events.csv",
+        "output/telecom/locations.csv",
+        "output/telecom/coverage.csv",
+        "output/telecom/authority_coverage.csv"
+      ],
+      "offline_command": "python3 scripts/pipeline/jurisdiction.py telecom",
+      "live_command": null,
+      "live_limit": "Snapshots require explicit source review before replacing receipts. Fetch one source with scripts/collectors/virginia/statewide/telecom_fetch.py, providing an official title for PDFs. Leesburg permit guidance remains blocked; charter review is partial. Loudoun cable rules are reviewed, not all county-property permits. Histories are bounded; Ohio/Texas municipal permit registers remain unsearched. Historical Texas law and filed Hanover proffers remain held."
+    }
+  },
   "collectors": {
     "collectors/virginia/loudoun_county/building_and_zoning_gis.py": {
       "series": [
@@ -103,18 +144,63 @@
     },
     "collectors/virginia/loudoun_county/monthly_reports.py": {
       "series": [
-        "building"
+        "building",
+        "corps_ca",
+        "corps_ga",
+        "corps_il",
+        "corps_in",
+        "corps_ks",
+        "corps_la",
+        "corps_mn",
+        "corps_nc",
+        "corps_nd",
+        "corps_ne",
+        "corps_nv",
+        "corps_oh",
+        "corps_ok",
+        "corps_or",
+        "corps_pa",
+        "corps_sc",
+        "corps_tn",
+        "corps_tx",
+        "corps_va",
+        "corps_wi"
       ],
       "jurisdictions": [
-        "VA"
+        "CA",
+        "GA",
+        "IL",
+        "IN",
+        "KS",
+        "LA",
+        "MN",
+        "NC",
+        "ND",
+        "NE",
+        "NV",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "SC",
+        "TN",
+        "TX",
+        "VA",
+        "WI"
       ],
-      "scope": "single",
+      "scope": "national",
       "live": [
         "--fetch"
       ],
       "other_outputs": [
+        "data/history/federal/usace_regulatory/coverage.json",
+        "data/history/federal/usace_regulatory/held.json",
         "data/history/virginia/loudoun_county/monthly_reports/counts.json",
-        "data/history/virginia/loudoun_county/monthly_reports/epd_crosswalk.json"
+        "data/history/virginia/loudoun_county/monthly_reports/epd_crosswalk.json",
+        "data/telecom/virginia-local/evidence/henrico-row.html",
+        "data/telecom/virginia-local/evidence/loudoun-franchise.web.txt",
+        "data/telecom/virginia-local/evidence/loudoun-row.web.txt",
+        "data/telecom/virginia-local/sources.json"
       ]
     },
     "collectors/virginia/henrico_county/permits.py": {
@@ -321,7 +407,8 @@
         "data/history/texas/exclusions.json",
         "data/history/texas/geo_summary.json",
         "data/history/texas/rankings.csv",
-        "data/history/texas/validation.json"
+        "data/history/texas/validation.json",
+        "data/telecom/codex-research/authority-frame.json"
       ]
     },
     "collectors/arizona/history.py": {
@@ -544,7 +631,9 @@
       ],
       "other_outputs": [
         "data/history/new_jersey/rankings.csv",
-        "data/history/new_jersey/validation.json"
+        "data/history/new_jersey/validation.json",
+        "data/telecom/codex-research/evidence/lynchburg-row.html",
+        "data/telecom/codex-research/sources.json"
       ]
     },
     "collectors/colorado/history.py": {
@@ -1593,6 +1682,7 @@
     },
     "CA": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/multistate/water_fire_authorizations.py",
         "collectors/oregon/portland_west_metro.py",
         "collectors/california/history.py",
@@ -1667,6 +1757,7 @@
     },
     "GA": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/georgia/history.py",
         "collectors/federal/epa_named_water_permits.py",
         "collectors/federal/faa_obstruction_evaluations.py",
@@ -1735,6 +1826,7 @@
     },
     "IL": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/illinois/elk_grove_village_cook_assessor.py",
         "collectors/multistate/open_data_release.py",
         "collectors/federal/epa_named_water_permits.py",
@@ -1755,6 +1847,7 @@
     },
     "IN": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/indiana/history.py",
         "collectors/federal/epa_named_water_permits.py",
         "collectors/federal/faa_obstruction_evaluations.py",
@@ -1771,6 +1864,7 @@
     },
     "KS": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/kansas/history.py",
         "collectors/federal/epa_named_water_permits.py",
         "collectors/federal/usace_regulatory.py"
@@ -1797,6 +1891,7 @@
     },
     "LA": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/louisiana/history.py",
         "collectors/multistate/open_data_release.py",
         "collectors/federal/usace_regulatory.py",
@@ -1859,6 +1954,7 @@
     },
     "MN": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/minnesota/history.py",
         "collectors/federal/faa_obstruction_evaluations.py",
         "collectors/federal/usace_regulatory.py"
@@ -1901,6 +1997,7 @@
     },
     "NC": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/north_carolina/history.py",
         "collectors/federal/epa_named_water_permits.py",
         "collectors/federal/faa_obstruction_evaluations.py",
@@ -1917,6 +2014,7 @@
     },
     "ND": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/north_dakota/history.py",
         "collectors/federal/faa_obstruction_evaluations.py",
         "collectors/federal/usace_regulatory.py",
@@ -1931,6 +2029,7 @@
     },
     "NE": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/nebraska/history.py",
         "collectors/federal/epa_named_water_permits.py",
         "collectors/federal/faa_obstruction_evaluations.py",
@@ -1979,6 +2078,7 @@
     },
     "NV": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/nevada/history.py",
         "collectors/multistate/legistar_matters.py",
         "collectors/federal/decisions.py",
@@ -2005,6 +2105,7 @@
     },
     "OH": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/ohio/history.py",
         "collectors/ohio/central_ohio_entitlements.py",
         "collectors/federal/doe_nepa.py",
@@ -2025,6 +2126,7 @@
     },
     "OK": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/oklahoma/history.py",
         "collectors/federal/epa_npdes.py",
         "collectors/federal/epa_npdes_timeline.py",
@@ -2041,6 +2143,7 @@
     },
     "OR": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/oregon/portland_west_metro.py",
         "collectors/oregon/history.py",
         "collectors/federal/epa_named_water_permits.py",
@@ -2061,6 +2164,7 @@
     },
     "PA": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/multistate/water_fire_authorizations.py",
         "collectors/pennsylvania/history.py",
         "collectors/multistate/meeting_votes.py",
@@ -2095,6 +2199,7 @@
     },
     "SC": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/south_carolina/history.py",
         "collectors/federal/epa_named_water_permits.py",
         "collectors/federal/decisions.py",
@@ -2123,6 +2228,7 @@
     },
     "TN": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/tennessee/history.py",
         "collectors/federal/faa_obstruction_evaluations.py",
         "collectors/federal/usace_regulatory.py"
@@ -2135,6 +2241,7 @@
     },
     "TX": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/multistate/water_fire_authorizations.py",
         "collectors/texas/history.py",
         "collectors/multistate/legistar_matters.py",
@@ -2237,6 +2344,7 @@
     },
     "WI": {
       "collectors": [
+        "collectors/virginia/loudoun_county/monthly_reports.py",
         "collectors/wisconsin/history.py",
         "collectors/federal/faa_obstruction_evaluations.py",
         "collectors/federal/usace_regulatory.py"
@@ -2266,27 +2374,6 @@
         "wtr_wy",
         "wy"
       ]
-    }
-  },
-  "technology_collectors": {
-    "fiber_telecom_va": {
-      "collector": "collectors/virginia/statewide/telecom_right_of_way.py",
-      "source_owner": "VDOT; Fairfax County Board of Supervisors; Fairfax Land Development Services",
-      "authority_geographies": [
-        "51",
-        "51059"
-      ],
-      "project_locations": [
-        "51107",
-        "51059"
-      ],
-      "outputs": [
-        "output/telecom/release.json",
-        "viewer/telecom.js"
-      ],
-      "offline_command": "python3 scripts/pipeline/jurisdiction.py telecom",
-      "live_command": null,
-      "live_limit": "Snapshots require explicit source review before replacing receipts. Leesburg unavailable; county Loudoun process unreviewed."
     }
   }
 }

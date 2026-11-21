@@ -1,0 +1,220 @@
+Excavation Right-of-Way Permit – Official Website of Arlington County Virginia Government (https://www.arlingtonva.us/Government/Programs/Building/Permits/Excavation-Right-of-Way-Permit)
+citeturn17view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.arlingtonva.us/Government/Programs/Building/Permits/Excavation-Right-of-Way-Permit","lineno":18}); Total lines: 217
+L0: [Input] [Input] [Input] [Input] [Input]
+L1: 
+L2: opens in new tab or window
+L3: 
+L4: 【0†Image: Arlington County Virginia - Logo】
+L5: 
+L6:   * 【1†English (United States) Select this as your preferred language】
+L7: 
+L8: Select a language to translate to
+L9: 
+L10:   * 【1†English (United States) Select this as your preferred language】
+L11: 
+L12: Search
+L13: 
+L14: Search[Input: Search for a service or a page][Input]
+L15: 
+L16: Menu
+L17: 
+L18: 【2†Home】 / 【3†Government】/ 【4†Building】 / 【5†Permits】 / Excavation Right-of-Way Permit
+L19: # Excavation Right-of-Way Permit
+L20: 
+L21: An excavation right-of-way (ROW) permit (formerly known as a public right-of-way, or PROW, permit) is required by 【6†Arlington County Code Chapter 22†arlingtonva.s3.amazonaws.com】 when any type of excavation activity is to occur within the County right-of-way.
+L22: 
+L23: Such excavation activity may include construction, demolition, replacement, relocation, installation or maintenance related, but not limited, to the following:
+L24:   * Test pits
+L25:   * Street milling and paving
+L26:   * Sidewalks, curbs and gutters
+L27:   * Driveway aprons
+L28:   * Water, sanitary and storm mains and service connections
+L29:   * Underground electric, gas and telecommunication mains and service connections
+L30:   * Utility poles and/or guy wires
+L31:   * Tree planting and landscaping
+L32:   * Clearing, grubbing and grading
+L33: Any excavation work within the County right-of-way must be conducted by the permit holder. The permit holder must be a Class A, B or C licensed contractor with the 【7†Virginia Department of Professional and Occupational Regulation (DPOR)†www.dpor.virginia.gov】 and possess a valid 【8†Arlington County business license】. The permit holder’s license information will be required as part of the application process.
+L34: ### Submission Requirements
+L35: 
+L36: Excavation ROW permit applications must be submitted online.
+L37:   * You must submit an 【9†Excavation Right-of-Way Permit Application†aca-prod.accela.com】 in Permit Arlington.
+L38:     * From the Create drop-down menu, select Building Application. Then select Excavation ROW.
+L39:     * View 【10†Permit Arlington Help】 for assistance with the online system.
+L40:   * Permit requests requiring County plan review and approval require up to 20 business days from the date of online submission to be processed. (Permit requests that include plans previously approved by the County may be processed in less time.)
+L41:   * Full payment of 【11†fees】 is required before permit issuance. Online payment via eCheck or credit card is available.
+L42:   * If the work activity or street and sidewalk closures will preclude adequate access to homes or businesses, a letter must be sent via certified mail at least seven (7) days prior to the start of construction to all property owners impacted and to the presidents of any associated 【12†neighborhood civic associations】 and 【13†condominium, homeowner and tenant associations】. The letter must include:
+L43:     * Description of project
+L44:     * Construction schedule
+L45:     * Name of field superintendent
+L46:     * Name, phone and email contacts of community liaison(s) who can address community questions or concerns
+L47:   * The online application requires the following information:
+L48:     * Applicant’s name, address, phone number and email
+L49:     * Permit holder’s name, address, phone number and email (if different than applicant)
+L50:     * Permit holder’s 【7†DPOR†www.dpor.virginia.gov】 and 【8†Arlington County business license】 information
+L51:     * Address or location of proposed excavation work
+L52:     * Provide the information on 【14†Excavation Near Public Trees】
+L53:     * Quantity and scope of excavation work
+L54:     * Preferred start date and end date
+L55:     * 【15†Notification letter】 and certified mail receipts (if applicable)
+L56:     * Engineering plans or plats depicting in detail the work proposed under the requested permit and any other information required by the 【16†special conditions, regulations and instructions†arlingtonva.s3.amazonaws.com】 .
+L57:   * Applicants receive their excavation ROW permits by email.
+L58:   * Revisions to Approved Excavation ROWs are started from an approved ROW permit in the My Records page, and there is a 【17†workaround to a known issue when applying】.
+L59: ### Additional Information
+L60:   * A 【18†transportation ROW – with excavation (TREX) permit】 is also required if the excavation work will block or limit the use of any type of lane, including vehicular travel lanes, curbside parking lanes, on-street bike lanes, sidewalks or multi-purpose trails. Apply for both an excavation ROW permit and a transportation ROW permit. The two associated permits will be issued together.
+L61:   * Upon permit expiration, all work must cease. The permittee must remove equipment, unless a permit extension is requested a minimum of three (3) business days prior to the expiration date.
+L62:   * All work zones must be sufficiently protected by safety devices at all times. Safety devices for all work authorized by a permit must conform with all codes, rules and regulations and be maintained in proper working order to protect the public.
+L63:   * The permittee must either ensure that existing street lights remain functioning during construction or must provide temporary street lighting as approved by the County.
+L64:   * No permit can be issued if it would conflict with a current permit holder in the same location, or an event or business in the area.
+L65: ### Work Hours
+L66:   * Unless otherwise permitted, standard hours of operation for work within the County right-of-way are Monday through Friday, 9 a.m.-4 p.m. Work is prohibited during morning and evening commuter rush hours, 7 a.m.-9 a.m. and 4 p.m.-6 p.m., respectively.
+L67:   * As stated above, upon permit expiration, all work must cease. The permittee must remove equipment, unless a permit extension is requested a minimum of three (3) business days prior to the expiration date.
+L68:   * Weekend work hours, if requested, will be determined on a case-by-case basis.
+L69:   * Night work—9 p.m.-7 a.m. on weekdays, 9 p.m.-10 a.m. on weekends—requires that an exemption request to the 【19†Noise Control Ordinance】 be submitted to 【20†Code Enforcement】 in addition to securing the necessary right-of-way permits.
+L70: ### Fees
+L71: 
+L72: 【21†Fee Schedules】 provide the range of fees charged for each type of application or activity related to land development in Arlington. Fees cover permitting, plan review, enforcement, inspection, service delivery, performance agreements and conditions. There are separate fee schedules for ISD, Zoning and the Department of Environmental Services (DES). Some permits involve fees from more than one schedule.
+L73: ### Emergency Permits
+L74: If site conditions could result in death, injury or damage to property or prevent the safe functioning of a street or a pedestrian or parking system, they require immediate (within 24-48 hours) remediation. In such cases, the contractor may start work, then apply for an emergency excavation ROW permit on the first available regular business day after work commences.
+L75: When applying for the emergency excavation ROW permit, the contractor must include a valid VA 811 (Miss Utility) ticket number as part of the application process. The permit will be retroactive to the date when the work began.
+L76: Commencing emergency excavation within the County right-of-way without a permit as allowed herein implies acceptance of all requirements and conditions set forth in the 【22†Arlington County Code†document-search.arlingtonva.us】, construction standards, and the 【16†special conditions, regulations and instructions†arlingtonva.s3.amazonaws.com】.
+L77: ### Overview
+L78: 
+L79: The Arlington County Permit Office is CLOSED for in-person customer service. Many services are available online. 【23†Learn more】.
+L80: 
+L81: An excavation right-of-way (ROW) permit (formerly known as a public right-of-way, or PROW, permit) is required by 【6†Arlington County Code Chapter 22†arlingtonva.s3.amazonaws.com】 when any type of excavation activity is to occur within the County right-of-way.
+L82: Such excavation activity may include construction, demolition, replacement, relocation, installation or maintenance related, but not limited, to the following:
+L83: 
+L84:   * Test pits
+L85:   * Street milling and paving
+L86:   * Sidewalks, curbs and gutters
+L87:   * Driveway aprons
+L88:   * Water, sanitary and storm mains and service connections
+L89:   * Underground electric, gas and telecommunication mains and service connections
+L90:   * Utility poles and/or guy wires
+L91:   * Tree planting and landscaping
+L92:   * Clearing, grubbing and grading
+L93: Any excavation work within the County right-of-way must be conducted by the permit holder. The permit holder must be a Class A, B or C licensed contractor with the 【7†Virginia Department of Professional and Occupational Regulation (DPOR)†www.dpor.virginia.gov】 and possess a valid 【8†Arlington County business license】. The permit holder’s license information will be required as part of the application process.
+L94: ### Submission Requirements
+L95: 
+L96: Excavation ROW permit applications must be submitted online.
+L97:   * You must submit an 【9†Excavation Right-of-Way Permit Application†aca-prod.accela.com】 in Permit Arlington.
+L98:     * From the Create drop-down menu, select Building Application. Then select Excavation ROW.
+L99:     * View 【10†Permit Arlington Help】 for assistance with the online system.
+L100:   * Permit requests requiring County plan review and approval require up to 20 business days from the date of online submission to be processed. (Permit requests that include plans previously approved by the County may be processed in less time.)
+L101:   * Full payment of 【11†fees】 is required before permit issuance. Online payment via eCheck or credit card is available.
+L102:   * If the work activity or street and sidewalk closures will preclude adequate access to homes or businesses, a letter must be sent via certified mail at least seven (7) days prior to the start of construction to all property owners impacted and to the presidents of any associated 【12†neighborhood civic associations】 and 【13†condominium, homeowner and tenant associations】. The letter must include:
+L103:     * Description of project
+L104:     * Construction schedule
+L105:     * Name of field superintendent
+L106:     * Name, phone and email contacts of community liaison(s) who can address community questions or concerns
+L107:   * The online application requires the following information:
+L108:     * Applicant’s name, address, phone number and email
+L109:     * Permit holder’s name, address, phone number and email (if different than applicant)
+L110:     * Permit holder’s 【7†DPOR†www.dpor.virginia.gov】 and 【8†Arlington County business license】 information
+L111:     * Address or location of proposed excavation work
+L112:     * See 【14†Underground Utilities Near Trees】 page when necessary
+L113:     * Quantity and scope of excavation work
+L114:     * Preferred start date and end date
+L115:     * 【15†Notification letter】 and certified mail receipts (if applicable)
+L116:     * Engineering plans or plats depicting in detail the work proposed under the requested permit and any other information required by the 【16†special conditions, regulations and instructions†arlingtonva.s3.amazonaws.com】 .
+L117:   * Applicants receive their excavation ROW permits by email.
+L118:   * Revisions to Approved Excavation ROWs are started from an approved ROW permit in the My Records page, and there is a 【17†workaround to a known issue when applying】.
+L119: ### Additional Information
+L120:   * A 【18†transportation ROW – with excavation (TREX) permit】 is also required if the excavation work will block or limit the use of any type of lane, including vehicular travel lanes, curbside parking lanes, on-street bike lanes, sidewalks or multi-purpose trails. Apply for both an excavation ROW permit and a transportation ROW permit. The two associated permits will be issued together.
+L121:   * Upon permit expiration, all work must cease. The permittee must remove equipment, unless a permit extension is requested a minimum of three (3) business days prior to the expiration date.
+L122:   * All work zones must be sufficiently protected by safety devices at all times. Safety devices for all work authorized by a permit must conform with all codes, rules and regulations and be maintained in proper working order to protect the public.
+L123:   * The permittee must either ensure that existing street lights remain functioning during construction or must provide temporary street lighting as approved by the County.
+L124:   * No permit can be issued if it would conflict with a current permit holder in the same location, or an event or business in the area.
+L125: ### Work Hours
+L126:   * Unless otherwise permitted, standard hours of operation for work within the County right-of-way are Monday through Friday, 9 a.m.-4 p.m. Work is prohibited during morning and evening commuter rush hours, 7 a.m.-9 a.m. and 4 p.m.-6 p.m., respectively.
+L127:   * As stated above, upon permit expiration, all work must cease. The permittee must remove equipment, unless a permit extension is requested a minimum of three (3) business days prior to the expiration date.
+L128:   * Weekend work hours, if requested, will be determined on a case-by-case basis.
+L129:   * Night work—9 p.m.-7 a.m. on weekdays, 9 p.m.-10 a.m. on weekends—requires that an exemption request to the 【19†Noise Control Ordinance】 be submitted to 【20†Code Enforcement】 in addition to securing the necessary right-of-way permits.
+L130: ### Fees
+L131: 
+L132: 【21†Fee Schedules】 provide the range of fees charged for each type of application or activity related to land development in Arlington. Fees cover permitting, plan review, enforcement, inspection, service delivery, performance agreements and conditions. There are separate fee schedules for ISD, Zoning and the Department of Environmental Services (DES). Some permits involve fees from more than one schedule.
+L133: ### Emergency Permits
+L134: If site conditions could result in death, injury or damage to property or prevent the safe functioning of a street or a pedestrian or parking system, they require immediate (within 24-48 hours) remediation. In such cases, the contractor may start work, then apply for an emergency excavation ROW permit on the first available regular business day after work commences.
+L135: When applying for the emergency excavation ROW permit, the contractor must include a valid VA 811 (Miss Utility) ticket number as part of the application process. The permit will be retroactive to the date when the work began.
+L136: Commencing emergency excavation within the County right-of-way without a permit as allowed herein implies acceptance of all requirements and conditions set forth in the 【24†Arlington County Code】, construction standards, and the 【16†special conditions, regulations and instructions†arlingtonva.s3.amazonaws.com】.
+L137: ## Related Pages
+L138: 
+L139:   * 【25†About Environmental Services】
+L140:   * 【10†Permit Arlington: Help】
+L141:   * 【26†Tree Replacement Guidelines】
+L142:   * 【27†Permit Arlington: Online Submission Guidelines】
+L143:   * 【28†Transportation Right-of-Way Permit】
+L144: 
+L145: ## Contact
+L146: 
+L147: DES Permitting and Inspections
+L148: 
+L149: 703-228-3629
+L150: 
+L151: dsbcustserv@arlingtonva.us
+L152: 
+L153: 
+L154: 
+L155: 【29†Permit Arlington Customer Portal†aca-prod.accela.com】
+L156: 
+L157: 【10†Permit Arlington: Help】
+L158: 
+L159: 【30†Contact the Permit Arlington Center】
+L160: 
+L161: 【5†Permit & Application Types】
+L162: 
+L163: 【21†Permit Arlington Center Fees】
+L164: ## Upcoming Events
+L165: 
+L166: 【31†Planning Commission Hearing (Hybrid) 01 Dec 2026 The Planning Commission (PC) is a citizen advisory board authorized by the Virginia State Code. It promotes the orderly development of Arlington County and its environs by advising the County Board on development and use of land, facilities and zoning. Bozman Government Center, Arlington County Government, 2100 Clarendon Boulevard, Arlington, VA 22201 Related , Advisory Groups & Commissions, Public Meeting, Adults】
+L167: 【32†Planning Commission Hearing – Recess (Hybrid) 02 Dec 2026 The Planning Commission (PC) is a citizen advisory board authorized by the Virginia State Code. It promotes the orderly development of Arlington County and its environs by advising the County Board on development and use of land, facilities and zoning. 2100 Clarendon Blvd., Arlington, VA 22201 1 more date Related , Advisory Groups & Commissions, Public Meeting, Adults】
+L168: 【33†Zoning Ordinance Committee (ZOCO) Meeting (Hybrid) 08 Dec 2026 The Zoning Ordinance Committee of the Planning Commission reviews and provides comments and recommendations on Zoning Ordinance amendments. Conference Room 311, 2100 Clarendon Blvd., Arlington, VA 22201 Related , Advisory Groups & Commissions, Public Meeting, Adults】
+L169: ## Subscribe to Planning + Building eNews
+L170: 
+L171: Related
+L172: 
+L173:   * 【34†Right-of-Way】
+L174: 
+L175: 【35†Back to top】
+L176: 
+L177: ### CONTACT US
+L178: 
+L179: Main Address
+L180: 【36†Ellen M. Bozman Government Center】
+L181: 2100 Clarendon Blvd., Arlington, VA 22201 【37†View Map†www.google.com】
+L182: 
+L183: 【38†View other County government locations】.
+L184: 
+L185: Questions? Need help? 【39†Contact the County and learn who to call】.
+L186: ### QUICK LINKS
+L187: 
+L188: 【40†About Arlington】
+L189: 【41†A-Z Directory】
+L190: 【42†Request Service】
+L191: 【43†Report a Problem†arlingtonva.qscend.com】
+L192: 【44†Common Questions】
+L193: 【45†Jobs†fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com】
+L194: 【46†Payments†capp.arlingtonva.us】
+L195: 【47†FOIA Requests】
+L196: 【48†For Employees】
+L197: 【49†Accessibility】
+L198: ### STAY INFORMED
+L199: 
+L200: 【50†Sign up for Inside Arlington】, the County’s weekly newsletter, to get updates and information on projects, feedback opportunities, events, and more.
+L201: 
+L202: 
+L203: 
+L204: 
+L205: 
+L206: 
+L207: 
+L208: 
+L209: 
+L210: 【51†Image: Arlington County Logo】
+L211: 
+L212: 【52†County Homepage】 | 【53†Terms & Conditions】 | 【48†For Employees】 | 【39†Contact Arlington】
+L213: 
+L214: © 2026 Arlington County Virginia | Powered by 【54†Granicus†granicus.com】
+L215: 
+L216: 【55†Google Tag Manager†www.googletagmanager.com】
+--------------------------------------------------------------------------------

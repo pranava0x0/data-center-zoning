@@ -11,7 +11,7 @@ function threshold(t){const unit=unitWords[String(t.unit||'').toLowerCase()]||t.
  return label+': '+[opWords[t.operator]??t.operator,value,unit].filter(v=>v!==''&&v!=null).join(' ')+(t.context?' ('+String(t.context).replace(/\.$/,'')+')':'')}
 function conditions(r){const th=(r.thresholds||[]).map(threshold),out=th.length?th:r.trigger?[String(r.trigger).replace(/\.$/,'')]:[];for(const p of r.pathways||[])if(p.qualifier&&!out.includes(p.qualifier)&&!(th.length&&/\d{4,}/.test(p.qualifier)))out.push(p.qualifier);return out}
 function card(r){const panel=el('article',null,'rowcard'),head=el('div',null,'cardhead'),linkOut=linkTo('Source',r.url);head.append(el('h3',r.card_title),linkOut);linkOut.setAttribute('aria-label','Source for '+r.card_title);
- panel.append(head,el('p',whereLine(r.jurisdiction,r.state,r.card_issuer),'where'),el('p',(ok(r)?'':'Not yet verified. ')+r.card_sentence,'strip brief'));
+ const wl=el('p',whereLine(r.jurisdiction,r.state,r.card_issuer),'where');const meta=el('div',null,'meta');meta.append(wl);if(r.scope_class==='general')meta.append(el('span','General rule','tag'));panel.append(head,meta,el('p',(ok(r)?'':'Not yet verified. ')+r.card_sentence,'strip brief'));
  const e=el('details',null,'record'),body=el('div',null,'recbody'),dl=el('dl'),src=el('span');src.append(linkTo('Open the source document ↗',r.url));
  for(const [k,label] of [['primary_document','Governing document'],['corroborating_url','Corroborating source']])if(r[k])src.append(' · ',linkTo(label+' ↗',r[k]));
  appendField(dl,'Source document',src);appendField(dl,'Where in the source',r.locator);

@@ -475,11 +475,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 209,
-      "coldAssetBytes": 2697476,
-      "portableByteBudget": 2712200,
-      "localHistoryMs": 215,
-      "filterMs": 7
+      "coldReadyMs": 275,
+      "coldAssetBytes": 2731360,
+      "portableByteBudget": 2733650,
+      "localHistoryMs": 480,
+      "filterMs": 16
     },
     "tablet": {
       "journeys": {
@@ -954,11 +954,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 97,
-      "coldAssetBytes": 2697476,
-      "portableByteBudget": 2712200,
-      "localHistoryMs": 202,
-      "filterMs": 4
+      "coldReadyMs": 168,
+      "coldAssetBytes": 2731360,
+      "portableByteBudget": 2733650,
+      "localHistoryMs": 442,
+      "filterMs": 7
     },
     "phone": {
       "journeys": {
@@ -1433,10 +1433,10 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 93,
-      "coldAssetBytes": 2697476,
-      "portableByteBudget": 2712200,
-      "localHistoryMs": 197,
+      "coldReadyMs": 165,
+      "coldAssetBytes": 2731360,
+      "portableByteBudget": 2733650,
+      "localHistoryMs": 443,
       "filterMs": 10
     },
     "small-phone": {
@@ -1912,11 +1912,11 @@
           "navigations": 0
         }
       },
-      "coldReadyMs": 125,
-      "coldAssetBytes": 2697476,
-      "portableByteBudget": 2712200,
-      "localHistoryMs": 307,
-      "filterMs": 4
+      "coldReadyMs": 175,
+      "coldAssetBytes": 2731360,
+      "portableByteBudget": 2733650,
+      "localHistoryMs": 441,
+      "filterMs": 6
     }
   },
   "checks": [
@@ -2007,6 +2007,7 @@
     "desktop: #historyLink in viewport",
     "desktop: #historyLink unobscured",
     "desktop: history overview covers all participating states and shows topics",
+    "desktop: history view splits land-use cases from other history records",
     "desktop: #state in viewport",
     "desktop: #state offers AK",
     "desktop: .history-card h3 in viewport",
@@ -3370,6 +3371,7 @@
     "tablet: #historyLink in viewport",
     "tablet: #historyLink unobscured",
     "tablet: history overview covers all participating states and shows topics",
+    "tablet: history view splits land-use cases from other history records",
     "tablet: #state in viewport",
     "tablet: #state offers AK",
     "tablet: .history-card h3 in viewport",
@@ -4735,6 +4737,7 @@
     "phone: #historyLink in viewport",
     "phone: #historyLink unobscured",
     "phone: history overview covers all participating states and shows topics",
+    "phone: history view splits land-use cases from other history records",
     "phone: #state in viewport",
     "phone: #state offers AK",
     "phone: .history-card h3 in viewport",
@@ -6100,6 +6103,7 @@
     "small-phone: #historyLink in viewport",
     "small-phone: #historyLink unobscured",
     "small-phone: history overview covers all participating states and shows topics",
+    "small-phone: history view splits land-use cases from other history records",
     "small-phone: #state in viewport",
     "small-phone: #state offers AK",
     "small-phone: .history-card h3 in viewport",
@@ -7507,6 +7511,7 @@
     "reliability: Guam search finds cited local geography",
     "reliability: sovereign government roster separate from geographic areas",
     "telecom: dedicated telecom deep link 1320",
+    "telecom: telecom authority and dates retain source roles 1320",
     "telecom: telecom scope and coverage 1320",
     "telecom: instrument map and cards reconcile 1320",
     "telecom: Fairfax VDOT work and county easement stay distinct 1320",
@@ -7520,6 +7525,7 @@
     "telecom: print includes selected map and metric 1320",
     "telecom: map PDF generates",
     "telecom: dedicated telecom deep link 768",
+    "telecom: telecom authority and dates retain source roles 768",
     "telecom: telecom scope and coverage 768",
     "telecom: instrument map and cards reconcile 768",
     "telecom: Fairfax VDOT work and county easement stay distinct 768",
@@ -7532,6 +7538,7 @@
     "telecom: print action is visible in map mode 768",
     "telecom: print includes selected map and metric 768",
     "telecom: dedicated telecom deep link 390",
+    "telecom: telecom authority and dates retain source roles 390",
     "telecom: telecom scope and coverage 390",
     "telecom: instrument map and cards reconcile 390",
     "telecom: Fairfax VDOT work and county easement stay distinct 390",
@@ -7544,6 +7551,7 @@
     "telecom: print action is visible in map mode 390",
     "telecom: print includes selected map and metric 390",
     "telecom: dedicated telecom deep link 360",
+    "telecom: telecom authority and dates retain source roles 360",
     "telecom: telecom scope and coverage 360",
     "telecom: instrument map and cards reconcile 360",
     "telecom: Fairfax VDOT work and county easement stay distinct 360",
@@ -7555,6 +7563,11 @@
     "telecom: telecom filter visible and no overflow 360",
     "telecom: print action is visible in map mode 360",
     "telecom: print includes selected map and metric 360",
+    "telecom: telecom category deep link applies on first load and excludes held proffers",
+    "telecom: published telecom requirements exclude six research holds",
+    "telecom: Loudoun cable requirements retain county authority and limited provider class",
+    "telecom: Leesburg charter power does not complete blocked permit-process review",
+    "telecom: telecom events preserve actual step description separately from work description",
     "telecom: multi-locality instrument appears in each view and counts once nationally",
     "telecom: isolated offline telecom fixture",
     "telecom: reset preserves telecom collection and restores its metric",

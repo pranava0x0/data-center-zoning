@@ -18,3 +18,15 @@ Limits: tests use desktop Chromium with narrow viewport emulation, not physical-
 Added a separate Virginia telecom dataset and public Pages build. Fixed unsupported Edgewood SUP approver attribution, labeled inferred history offices, corrected Fairfax PDF locators and exposed hearing/timing information. Two review passes caught telecom filter/reset state and PDF labeling errors; regression checks now cover them. Leesburg source access and county-controlled Loudoun ROW remain open; nationwide completeness remains unknown. See `docs/2026-11-18-telecom-pages-release.md`.
 
 - November 18: Pages deployment was correctly blocked when hosted Chrome failed to start twice before any browser assertion. The harness now retains launch diagnostics, reports early process exits, allows 24 seconds for browser launch, and logs viewport progress. Application latency and byte budgets are unchanged.
+
+## November 21: Virginia ROW source review
+
+- Keep the original four-authority pilot separate from the 323-entry Census 2022 government/VDOT baseline. County work locations do not create new VDOT authorities; OH/TX checks cannot inflate Virginia. Source review is not a complete code or history census.
+- Leesburg charter review establishes a narrow easement power; the permit-process source remains blocked. Filed Hanover proffers and unchecked historical Texas law are held outside current features and default results.
+- Publication previously copied coverage-page links to documentation outside the Pages artifact. All public HTML now rewrites those links; the regression test rejects targets outside the site, even when they happen to exist in the local checkout.
+- Preserve agency step descriptions separately from instrument work descriptions when flattening event exports.
+
+- Pending VDOT application status does not establish nonissuance or current validity. Export validity as unconfirmed, retain agency status separately, and label tracker completion/target dates explicitly. Bound ownership to its dated source and expose the authority basis/link.
+- During ROW expansion, run the focused telecom/browser checks before the full four-viewport national traversal; the latter exercises all existing state registers and takes substantially longer.
+
+- Fixed in Virginia ROW PR review: land-use classification missed recorded “Zone change” and “Land use application withdrawal” kinds. Added exact kind support and regressions for the Wyoming approval and both Kentucky withdrawals; agency statuses remain unchanged.

@@ -1,5 +1,5 @@
 {
   "path": "data/publication/geography.json.gz",
-  "sha256": "632a0a37e15027d9cfdb764854ab084e9d670a06db6dd629bccc688fc64a2365",
+  "sha256": "a6885ef3b8851fc3730125a48524e7aae392b2d909ae2506543f59fc4a47aea2",
   "source": "Previously built atlas geometry from pinned Census sources; display shapes, not parcel boundaries."
 }

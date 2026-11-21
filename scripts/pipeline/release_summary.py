@@ -4,6 +4,7 @@ import csv
 import lib.discovery as c
 def main():
  def j(name):return c.read(c.OUT/(name+'.json'),{})
+ tc=j('telecom/release');published_tc=sum(r['publication_status']=='published' for r in tc['provisions']);held_tc=len(tc['provisions'])-published_tc
  qa=j('uat');geo=j('national_scope_check');checks=j('compass_crosscheck');f=j('federal_summary');h=j('permit_history_summary');rule=j('validation');mat=j('receipts/materialization')
  assert qa['passed'] and not qa['errors'] and checks['check']=='pass' and not checks['errors'] and geo['local_first_pass_complete']
  # Each browser profile must have loaded exactly the bytes in the finalized standalone HTML.
@@ -12,7 +13,7 @@ def main():
  assert mat['history_records_with_matched_bytes']==h['rows'] and not mat['unmatched_hashes']
  with (c.OUT/'priority_local_backlog.csv').open() as fp:backlog=len(list(csv.DictReader(fp)))
  buckets={k:sum(x.get(k,0) for x in h['permit_status_counts'].values()) for k in ('active','historical','unconfirmed')}
- dest=f"""# Atlas release checks · {h['as_of']}
+ dest=f"""# Atlas release checks · {tc['as_of']}
 
 [Open the standalone atlas](../viewer/index.html) · [Federal records](../viewer/federal.html) · [Local follow-up queue](../output/priority_local_backlog.csv)
 
@@ -24,9 +25,15 @@ def main():
 | Distinct permit keys | {sum(buckets.values()):,} ({buckets['active']:,} active, {buckets['historical']:,} historical, {buckets['unconfirmed']:,} current status unconfirmed) |
 | Federal records already included in history | {f['events']:,} |
 | Distinct federal permit keys already included above | {sum(f['distinct_permits'].values()):,} |
+| Published fiber/telecom requirements (separate collection) | {published_tc:,} |
+| Held fiber/telecom research | {held_tc:,} |
+| Telecom instruments / applications | {len(tc['instruments']):,} |
+| Telecom dated actions | {len(tc['events']):,} |
 | Saved checksums recomputed from local files | {mat['matched_files']:,} of {mat['unique_receipt_hashes']:,} |
 
 The [COMPASS cross-check](../output/compass_crosscheck.json) reconciles {checks['upstream_feature_rows']:,} feature rows across five upstream releases. No history, facility or agency-action count should be read as the number of active data centers. [How a row is cited](evidence-receipts.md).
+
+**Telecom coverage.** Virginia source checks are {tc['coverage_summary']['virginia']['numerator']}/{tc['coverage_summary']['virginia']['denominator']} ({tc['coverage_summary']['virginia']['percent']}%) against the pinned 2022 government/VDOT baseline. The original pilot is {tc['coverage_summary']['pilot']['numerator']}/{tc['coverage_summary']['pilot']['denominator']} ({tc['coverage_summary']['pilot']['percent']}%). These are source-review measures, not ordinance or history completeness. Leesburg charter review is partial; permit-process access remains blocked. Data-center history is through {h['as_of']}; telecom snapshots are through {tc['as_of']}. [Virginia authority follow-up queue](../output/telecom/authority_coverage.csv).
 
 **Geographic limits.** The first pass reconciled {geo['geographies']:,} geographic entries and {geo['government_units']:,} government units across 50 states, DC and the five inhabited territories. Some are overlapping geographies, statistical places or special districts. {backlog} leading county, city or township entries have no matched action in our reviewed local registers. [State-by-state counts](national-progress.md) distinguish local provisions, statewide requirements and federal records.
 
