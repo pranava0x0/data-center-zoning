@@ -157,6 +157,13 @@ try{
  assert(await ev("scope==='general'"),'history metric changes preserve scope within the same collection');
  await ev("scope='dc';selectMetric('rules')");
  assert(await ev("mode==='rules' && scope==='' && !location.hash.includes('scope=') && visible.some(r=>r.scope_class==='general')"),'switching from history metrics to rules clears the history workflow scope');
+ await ev("setMode('permits');choose('VA')");await until("visible.some(r=>r.review_class===1) && visible.some(r=>r.review_class===0)");
+ await ev("window.csvText='';URL.createObjectURL=b=>{b.text().then(t=>window.csvText=t);return 'blob:test'};HTMLAnchorElement.prototype.click=()=>{};$('export').click()");await until("csvText.length>0");
+ const historyCsv=await ev('csvText'),historyRows=[];let csvRow=[],csvCell='',inQuotes=false;
+ for(let i=0;i<historyCsv.length;i++){const ch=historyCsv[i];if(ch==='"'){if(inQuotes&&historyCsv[i+1]==='"'){csvCell+='"';i++}else inQuotes=!inQuotes}else if(ch===','&&!inQuotes){csvRow.push(csvCell);csvCell=''}else if((ch==='\r'||ch==='\n')&&!inQuotes){if(ch==='\r'&&historyCsv[i+1]==='\n')i++;csvRow.push(csvCell);historyRows.push(csvRow);csvRow=[];csvCell=''}else csvCell+=ch}
+ if(csvCell||csvRow.length){csvRow.push(csvCell);historyRows.push(csvRow)}
+ const classColumn=historyRows[0].indexOf('review_class'),exportedClasses=new Set(historyRows.slice(1).map(row=>row[classColumn]));
+ assert(classColumn>=0 && historyRows.length-1===await ev('visible.length') && exportedClasses.size===2 && exportedClasses.has('land_use') && exportedClasses.has('other'),'filtered history CSV uses the same workflow labels as the bulk dataset');
  await ev("setMode('telecom')");
  await ev("$('telecomScope').value='';$('telecomKind').value='requirement';choose('');update()");
  assert(await ev("visible.length===42 && visible.every(r=>r.publication_status==='published') && !visible.some(r=>r.id.startsWith('tx-telecom-network-node')||r.record_type==='rezoning_proffer')"),'published telecom requirements exclude six research holds');

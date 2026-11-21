@@ -36,3 +36,5 @@ Added a separate Virginia telecom dataset and public Pages build. Fixed unsuppor
 - Fixed stale telecom category after removing or invalidating its URL parameter. Always restore category from the current hash, including the all-category default.
 - Fixed rule/history workflow scope leaking across map-metric collection switches. Clear scope only on collection changes; preserve status changes within one collection. Five browser regressions cover both directions and hash defaults.
 - Claude independently reviewing Codex coverage/publication code is an explicit release gate; the GitHub bot review does not substitute for reciprocal author review.
+
+- Fixed filtered history CSV exporting compact integer workflow classes instead of the bulk dataset’s `land_use` / `other` labels. Convert at the export boundary; browser regression parses the real CSV and checks both classes and row count.
