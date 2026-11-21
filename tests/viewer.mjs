@@ -41,7 +41,7 @@ try{
  console.log('Browser profile: '+name);profile=name;const result=report.profiles[profile]={journeys:{}};await c('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:width<651});
  const start=performance.now();await navigate(base+'index.html');result.coldReadyMs=Math.round(performance.now()-start);
  const assets=await ev("performance.getEntriesByType('resource').map(x=>[x.name,x.decodedBodySize])");result.coldAssetBytes=assets.reduce((n,a)=>n+a[1],0)+await ev("performance.getEntriesByType('navigation')[0].decodedBodySize");
- const rowTotal=Object.values(await ev('H.totals')).reduce((n,v)=>n+v,0),scale=B.portableScale;result.portableByteBudget=Math.min(scale.hardCapBytes,B.max.coldAssetBytes+Math.max(0,rowTotal-scale.baselineRows)*scale.bytesPerAdditionalRow);
+ const rowTotal=Object.values(await ev('H.totals')).reduce((n,v)=>n+v,0)+await ev('(window.TELECOM.provisions||[]).length+(window.TELECOM.instruments||[]).length+(window.TELECOM.events||[]).length'),scale=B.portableScale;result.portableByteBudget=Math.min(scale.hardCapBytes,B.max.coldAssetBytes+Math.max(0,rowTotal-scale.baselineRows)*scale.bytesPerAdditionalRow);
  assert(result.coldReadyMs<=B.max.coldReadyMs&&result.coldAssetBytes<=result.portableByteBudget,'cold-load budgets');assert(!assets.some(([u])=>/\.(js|css)(?:$|[?])/.test(u)),'no separate script or stylesheet requests');
  assert(await ev("mapOnly===false && $('state').value==='' && $('map').querySelectorAll('path').length>=48&&$('overview').textContent.includes('across '+new Set(A.rules.filter(ok).map(r=>r.state)).size+' states')"),'All-state overview with categories');
  assert(await ev("norm('Elk Grove Village village','IL')===norm('Elk Grove Village','IL') && norm('Salt Lake City','UT')==='salt lake city' && norm('Elk Grove township','IL')!==norm('Elk Grove Village','IL')"),'map names preserve City and Village in real place names');await startTask('firstRule');await xy('.rowcard .strip',true);await finish();await shot('home');await click('.facets button');assert(await ev("visible.length>0 && visible.every(r=>r.category===facet)"),'topic chip filters the cards');await click('.facets button[aria-pressed=true]');
@@ -61,6 +61,7 @@ try{
  if(width>=651){await ev("document.querySelector('[data-id=\"51023\"]').focus()");await until("$('tip').textContent.includes('Botetourt')");await c('Input.dispatchKeyEvent',{type:'keyDown',key:'Enter'});assert(await ev("$('jur').value==='51023'"),'keyboard map selection')}
  await click('#reset');await click('#historyLink');await until("!!document.querySelector('.history-card')");
  assert(await ev("$('overview').textContent.includes('across '+Object.keys(H.totals).length+' states') && document.querySelectorAll('.facets button').length>=2"),'history overview covers all participating states and shows topics');
+ assert(await ev("(()=>{const bs=()=>[...document.querySelectorAll('.scopes button')],b=bs().find(x=>x.textContent.startsWith('Land use records')),n=+b.textContent.replace(/\\D/g,'');b.click();const ok=n>0&&+$('totals').textContent.replace(/\\D/g,'')===n&&location.hash.includes('scope=dc')&&!!document.querySelector('#list .tag');bs()[0].click();return ok&&!location.hash.includes('scope=')})()"),'history view splits land-use cases from other history records');
  for(const st of Object.keys(await ev('H.areas')).filter(x=>x!=='VA')){await startTask('switchStateHistory');await select('#state',st);await until("!!document.querySelector('.history-card') && visible.every(r=>r.state==="+q(st)+")");await xy('.history-card h3',true);await finish();await shot('permits-'+st)}
  const capturedStates=new Set();for(const [state,id,name,host] of JSON.parse(fs.readFileSync(path.join(root,'data/history/pipeline/uat_cases.json'),'utf8'))){
   await navigate(base+'index.html');await startTask(name);await click('#historyLink');await select('#state',state);await type('#query',id);await until("!!document.querySelector('.history-card') && visible.every(r=>r.record_no==="+q(id)+")");await xy('.history-card .history-date',true);
@@ -121,7 +122,8 @@ try{
   await c('Emulation.setDeviceMetricsOverride',{width,height:900,deviceScaleFactor:1,mobile:false});
   await navigate(base+'index.html#state=VA&view=telecom&q=949%3A61269');
   assert(await ev("mode==='telecom' && visible.some(r=>r.id==='va-vdot-98688') && !visible.some(r=>r.technology==='data_center')"),'dedicated telecom deep link '+width);
-  assert(await ev("$('coverageNote').textContent.includes('50%') && document.querySelector('.telecom-card').textContent.includes('Virginia Department of Transportation')"),'telecom scope and coverage '+width);
+  assert(await ev("document.querySelector('.telecom-card').textContent.includes('ROW authority in the source') && document.querySelector('.telecom-card').textContent.includes('Authority basis') && document.querySelector('.telecom-card').textContent.includes('Agency completion date')"),'telecom authority and dates retain source roles '+width);
+  assert(await ev("T.coverage_summary.virginia.numerator===9 && T.coverage_summary.virginia.denominator===323 && T.coverage_summary.virginia.percent===2.8 && $('coverageNote').textContent.includes('9/323') && $('coverageNote').textContent.includes('3/4 (75%)') && document.querySelector('.telecom-card').textContent.includes('Virginia Department of Transportation')"),'telecom scope and coverage '+width);
   await ev("$('query').value='';$('telecomKind').value='instrument';update()");
   assert(await ev("visible.length===T.instruments.length && countsFor('VA').tc_instruments===visible.length"),'instrument map and cards reconcile '+width);
   await ev("choose('VA','51059')");
@@ -142,6 +144,17 @@ try{
   if(width===1320){const pdf=await c('Page.printToPDF',{landscape:true,printBackground:true,preferCSSPageSize:true});const b=Buffer.from(pdf.data,'base64');assert(b.subarray(0,4).toString()==='%PDF'&&b.length>5000,'map PDF generates');fs.writeFileSync(path.join(root,'output/map-sample.pdf'),b)}
   await c('Emulation.setEmulatedMedia',{media:''});
  }
+ await navigate(base+'index.html#state=VA&view=telecom&telecom_scope=data_center_specific');
+ assert(await ev("$('telecomScope').value==='data_center_specific' && visible.length>0 && visible.every(r=>r.scope_class==='data_center_specific' && r.publication_status!=='held') && location.hash.includes('telecom_scope=data_center_specific')"),'telecom category deep link applies on first load and excludes held proffers');
+ await ev("$('telecomScope').value='';$('telecomKind').value='requirement';choose('');update()");
+ assert(await ev("visible.length===42 && visible.every(r=>r.publication_status==='published') && !visible.some(r=>r.id.startsWith('tx-telecom-network-node')||r.record_type==='rezoning_proffer')"),'published telecom requirements exclude six research holds');
+ await ev("choose('VA','51107')");
+ assert(await ev("visible.length===7 && visible.every(r=>r.jurisdiction_type==='county' && r.applies_to.toLowerCase().includes('cable'))"),'Loudoun cable requirements retain county authority and limited provider class');
+ await ev("choose('VA','5144984')");
+ assert(await ev("visible.length===1 && visible[0].record_type==='charter' && $('coverageNote').textContent.includes('permit process remains blocked')"),'Leesburg charter power does not complete blocked permit-process review');
+ await ev("$('telecomKind').value='event';choose('VA','51107')");
+ assert(await ev("visible.some(r=>r.description && r.work_description && r.description!==r.work_description) && visible.every(r=>r.description===T.events.find(e=>e.id===r.id).description)"),'telecom events preserve actual step description separately from work description');
+ await ev("$('telecomKind').value='instrument';choose('')");
  assert(await ev("(()=>{const n=T.instruments.length;T.locations.push({instrument_id:'va-vdot-98688',state:'VA',geoid:'51059',locality:'Fairfax County'});try{return telecomRows('instrument').length===n && telecomScope(telecomRows('instrument'),'VA','51059').some(r=>r.id==='va-vdot-98688') && telecomScope(telecomRows('instrument'),'VA','51107').some(r=>r.id==='va-vdot-98688')}finally{T.locations.pop()}})()"),'multi-locality instrument appears in each view and counts once nationally');
  await navigate(pathToFileURL(isolated).href+'#state=VA&view=telecom&q=949%3A61269');
  assert(await ev("visible.some(r=>r.id==='va-vdot-98688') && performance.getEntriesByType('resource').filter(r=>/\\.(js|css)$/.test(r.name)).length===0"),'isolated offline telecom fixture');

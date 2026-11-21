@@ -7,8 +7,8 @@ review_class(row) -> 'land_use' when the record is a step in a discretionary lan
                  This is a workflow class, not an outcome: pending, on-agenda, denied and withdrawn cases are 'land_use' too.
                  The record's own status field says where the case stands; nothing here infers a grant.
 
-Order of evidence: the collector's own statement of why it kept the record, then the record's own words, then a dataset rule
-(the register itself lists only data centers), then the facility or project the record names.
+Matching atlas display/detail fields come first, followed by collector statements, register membership and named facility/project fields.
+Field excerpts describe atlas fields; they are not certified verbatim quotations from an agency document.
 """
 import re
 
@@ -71,11 +71,11 @@ def link(row):
     for k in TEXT_FIELDS:
         v = _str(row.get(k))
         if DC.search(v):
-            return 'record_text', 'The record says “' + snippet(v, None) + '”'
+            return 'record_text', 'Atlas ' + k.replace('_',' ') + ' field: ' + snippet(v, None)
     for k in DETAIL_TEXT:
-        v = _str(d.get(k)) or _str(row.get('preview') if k == 'description' else '')
+        v = _str(d.get(k))
         if v and DC.search(v):
-            return 'record_text', 'The record says “' + snippet(v, None) + '”'
+            return 'record_text', 'Atlas ' + k.replace('_',' ') + ' field: ' + snippet(v, None)
     for k in STATED:
         v = _str(d.get(k)).strip()
         if v:

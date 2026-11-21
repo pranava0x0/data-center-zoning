@@ -75,8 +75,8 @@ def main():
         t,tb,iss,role,ib=history_identity(row,row['details'],table,{},offices,agencies)
         office=find_office(offices,row) if ib=='office_table' else None
         evidence=office['citation'] if office else agency_citations.get(row['state'],row['url']) if ib=='state_agency_table' else (table.get(row['dataset'],{}).get('citation') or row['url']) if ib=='dataset_table' else row['url']
-        basis,why=dc_link.link(row);row.update(dc_link_basis=basis,dc_link=why,review_class=dc_link.review_class(row,basis))
         row.update(issuer_evidence=evidence,issuer_verification='inferred' if office and office['evidence']=='inferred' else 'source_attributed',title=t,title_basis=tb,issuer=iss,issuer_role=role,issuer_basis=ib)
+        basis,why=dc_link.link(row);row.update(dc_link_basis=basis,dc_link=why,review_class=dc_link.review_class(row,basis))
     from pipeline.case_timelines import attach
     c.dump(c.OUT/'case_timelines.json',attach(full))
     full.sort(key=lambda r:((r['date'] or (r.get('month') or '')),r['id']),reverse=True)

@@ -15,6 +15,12 @@ class Classify(unittest.TestCase):
         self.assertEqual(b, 'record_text')
         self.assertIn('data center', t)
 
+    def test_display_fields_are_not_presented_as_verified_source_quotes(self):
+        basis,text=link(dict(title='Atlas data center title',title_basis='type_id'))
+        self.assertEqual(basis,'record_text')
+        self.assertTrue(text.startswith('Atlas title field: '))
+        self.assertNotIn('The record says',text)
+
     def test_collector_statement_wins(self):
         b, t = link({'project': 'x', 'details': {'facility_match': 'Exact parcel of a county-coded data-center structure.'}})
         self.assertEqual((b, t), ('stated', 'Exact parcel of a county-coded data-center structure'))
@@ -44,6 +50,18 @@ class Published(unittest.TestCase):
             rows = list(csv.DictReader(f))
         self.assertEqual([r['id'] for r in rows if not r['dc_link']], [])
         self.assertEqual(Counter(r['review_class'] for r in rows).keys(), {'land_use', 'other'})
+
+    def test_link_text_uses_final_identity_fields(self):
+        csv.field_size_limit(sys.maxsize)
+        with (R/'output/permit_history.csv').open() as f:
+            for row in csv.DictReader(f):
+                row['details']=json.loads(row['details'])
+                # CSV prefixes formula-like display cells; the viewer retains raw strings.
+                for key in ('title','project','kind'):
+                    value=row.get(key,'')
+                    if len(value)>1 and value[0]=="'" and value[1] in '=+-@\t\r':
+                        row[key]=value[1:]
+                self.assertEqual(link(row),(row['dc_link_basis'],row['dc_link']),row['id'])
 
 
 if __name__ == '__main__':

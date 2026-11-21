@@ -47,7 +47,11 @@ class Publication(unittest.TestCase):
         tc = {r['id']: r for r in self.t['provisions']}
         for r in rows:
             source = (rules if r['technology'] == 'data_center' else tc)[r['rule_id']]
-            self.assertEqual(source.get('document_status', source.get('record_type')), 'adopted' if r['technology'] == 'data_center' else 'regulation')
+            self.assertEqual(source['document_status'], 'adopted')
+            if r['technology']=='fiber_telecom':
+                self.assertEqual(source['publication_status'],'published')
+                self.assertEqual(r['jurisdiction_type'],source['jurisdiction_type'])
+                self.assertEqual(r['scope_class'],source['scope_class'])
             self.assertIsInstance(r['geoid'], (str, type(None)))
             self.assertRegex(r['source_sha256'], r'^[a-f0-9]{64}$')
             self.assertTrue(r['source_url'].startswith('https://'))
@@ -64,6 +68,7 @@ class Publication(unittest.TestCase):
         instruments = {i['id']: i for i in self.t['instruments']}
         self.assertEqual(len(instruments), len(self.t['instruments']))
         self.assertEqual(len({e['id'] for e in self.t['events']}), len(self.t['events']))
+        self.assertEqual(len({r['id'] for r in self.t['locations']}),len(self.t['locations']))
         for row in self.t['events'] + self.t['locations']:
             self.assertIn(row['instrument_id'], instruments)
         for i in instruments.values():
@@ -83,9 +88,57 @@ class Publication(unittest.TestCase):
         self.assertIn('2025-08-21', dates)
         easement = instruments['va-fairfax-newington-easement']
         self.assertEqual(easement['instrument_type'], 'easement_authorization')
+        self.assertIn('May 21, 2024',easement['row_controller'])
+        self.assertIn('unconfirmed',easement['validity'])
         self.assertEqual(len([e for e in self.t['events'] if e['instrument_id'] == easement['id']]), 2)
         for l in self.t['locations']:
             self.assertIsNone(l['geometry'])
+
+    def test_telecom_publication_and_adoption_boundaries(self):
+        all_rows={r['id']:r for r in self.t['provisions']}
+        self.assertEqual(len(all_rows),len(self.t['provisions']))
+        published={r['id'] for r in self.csv('telecom-published.csv')}
+        held={r['id'] for r in self.csv('telecom-held.csv')}
+        self.assertFalse(published & held)
+        self.assertEqual(published | held,set(all_rows))
+        self.assertEqual(len(published),42)
+        self.assertEqual(len(held),6)
+        features=json.loads((self.d/'features.json').read_text())
+        feature_ids={r['rule_id'] for r in features if r['technology']=='fiber_telecom'}
+        self.assertFalse(feature_ids & held)
+        self.assertTrue(all(all_rows[i]['document_status']=='adopted' for i in feature_ids))
+        self.assertTrue(any(all_rows[i]['jurisdiction_type']=='town' for i in feature_ids))
+        self.assertTrue(any(all_rows[i]['jurisdiction_type']=='county' for i in feature_ids))
+        self.assertFalse(any(all_rows[i]['record_type']=='agency_guidance' for i in feature_ids))
+        deadlines=[r for r in features if r['rule_id']=='va-telecom-small-cell-60-days']
+        # Both the deadline and conditional extension must survive flattening.
+        self.assertEqual({(r['value'],r['units']) for r in deadlines},{(60,'days'),(30,'days')})
+        self.assertTrue(all(r['condition'] for r in deadlines))
+        town=next(r for r in features if r['rule_id']=='va-leesburg-utility-easement-exchange')
+        self.assertIn('adjacent or approximately adjacent',town['condition'])
+        self.assertIn('devoted to public use',town['condition'])
+        html=(self.site/'telecom.html').read_text()
+        self.assertIn('Held research (6)',html)
+        self.assertIn('not established as current adopted requirements',html)
+        for instrument in self.t['instruments']:
+            if instrument['status']!='APPROVED' and instrument['instrument_type']!='easement_authorization':
+                self.assertEqual(instrument['instrument_type'],'application')
+                self.assertEqual(instrument['validity'],'unconfirmed')
+
+    def test_authority_backlog_and_coverage_are_reproducible(self):
+        rows=self.csv('telecom-authority_coverage.csv')
+        self.assertEqual(len(rows),323)
+        self.assertEqual(len({r['authority_id'] for r in rows}),323)
+        self.assertTrue(all(r['state']=='VA' and r['roster_vintage']=='2022' for r in rows))
+        self.assertTrue(all('ownership' in r['row_control'] or 'Not established' in r['row_control'] for r in rows))
+        leesburg=next(r for r in rows if r['authority']=='Town Of Leesburg')
+        self.assertEqual(leesburg['source_review'],'partial')
+        self.assertIn('leesburg',json.loads(leesburg['blocked_check_ids']))
+        coverage=json.loads((self.d/'coverage.json').read_text())
+        self.assertEqual((coverage['fiber_telecom']['numerator'],coverage['fiber_telecom']['denominator']),(3,4))
+        self.assertEqual((coverage['fiber_telecom_virginia']['numerator'],coverage['fiber_telecom_virginia']['denominator']),(9,323))
+        self.assertEqual(sum(r['source_review']=='verified' for r in rows),9)
+        self.assertTrue(any(r['source_review']=='not reviewed' and json.loads(r['history_review'])==['not searched'] for r in rows))
 
     def test_unavailable_sources_are_not_zero_findings(self):
         row = next(r for r in self.t['coverage'] if r['id'] == 'leesburg')
@@ -95,6 +148,13 @@ class Publication(unittest.TestCase):
         for c in coverage.values():
             self.assertIsNone(c['national_completeness'])
             self.assertEqual(c['percent'], round(100 * c['numerator'] / c['denominator'], 1))
+
+    def test_hosted_index_including_seo_metadata_fits_the_byte_budget(self):
+        policy=json.loads((R/'tests/uat-budgets.json').read_text())
+        scale=policy['portableScale']
+        rows=len(self.csv('data-center-history.csv'))+sum(len(self.t[k]) for k in ('provisions','instruments','events'))
+        limit=min(scale['hardCapBytes'],policy['max']['coldAssetBytes']+max(0,rows-scale['baselineRows'])*scale['bytesPerAdditionalRow'])
+        self.assertLessEqual((self.site/'index.html').stat().st_size,limit)
 
     def test_csv_cells_do_not_execute_formulas(self):
         for p in self.d.glob('*.csv'):
@@ -133,7 +193,9 @@ class Publication(unittest.TestCase):
                 url = urlsplit(link)
                 if url.scheme or url.netloc or not url.path or url.path.startswith('blob:'):
                     continue
-                self.assertTrue((p.parent / unquote(url.path)).resolve().is_file(), (p.name, link))
+                target=(p.parent / unquote(url.path)).resolve()
+                self.assertTrue(target.is_relative_to(self.site.resolve()), (p.name, link, 'escapes site artifact'))
+                self.assertTrue(target.is_file(), (p.name, link))
 
 
 if __name__ == '__main__':
