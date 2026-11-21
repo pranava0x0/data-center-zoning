@@ -45,7 +45,7 @@ DATASETS = {
 }
 LAND_USE = {'Land use & zoning', 'Regional development review', 'Planning consultation', 'Engineering, subdivision & land'}
 # Discretionary decisions only. Ministerial zoning permits, plats and site plans are steps every large building takes.
-DECISION_KIND = re.compile(r'rezon|zoning (?:map|concept|ordinance|text)|special (?:exception|use)|conditional use|legislative|'
+DECISION_KIND = re.compile(r'rezon|zone change|land[ -]use application withdrawal|zoning (?:map|concept|ordinance|text)|special (?:exception|use)|conditional use|legislative|'
                            r'planning (?:motion|proceeding)|agenda|proceeding|development agreement|ordinance amendment|'
                            r'land[ -]use (?:decision|compatibility)|compatibility finding|regional impact|commission|council|'
                            r'board|variance|annexation|recomendaci|consulta|location consultation|siting|plan amendment|zoning amendment|'

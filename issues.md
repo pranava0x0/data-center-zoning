@@ -28,3 +28,5 @@ Added a separate Virginia telecom dataset and public Pages build. Fixed unsuppor
 
 - Pending VDOT application status does not establish nonissuance or current validity. Export validity as unconfirmed, retain agency status separately, and label tracker completion/target dates explicitly. Bound ownership to its dated source and expose the authority basis/link.
 - During ROW expansion, run the focused telecom/browser checks before the full four-viewport national traversal; the latter exercises all existing state registers and takes substantially longer.
+
+- Fixed in Virginia ROW PR review: land-use classification missed recorded “Zone change” and “Land use application withdrawal” kinds. Added exact kind support and regressions for the Wyoming approval and both Kentucky withdrawals; agency statuses remain unchanged.

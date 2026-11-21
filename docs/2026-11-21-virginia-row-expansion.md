@@ -28,3 +28,5 @@ Review round one found incomplete small-cell conditions, overbroad general-provi
 The standalone payload excludes the unused detailed check array and full government queue; both remain downloadable. The 3.5 MB hard cap and latency budgets stay unchanged. Payload growth accounting includes embedded telecom rows as well as history rows.
 
 Validation: final `make build` passed, including 132 Python tests, 5,654 browser assertions, offline loading and map PDF generation. A focused telecom pass separately passed 65 assertions. All source/numeric gates passed. GitHub checks and deployment remain the final release gates.
+
+Automated PR review found three existing discretionary case records with unrecognized kind labels: Wyoming `Zone change LU to PUD` and two Kentucky `Land use application withdrawal` rows. Both kind variants now classify as land use while preserving the original statuses. New unit and exported-record regressions pass; the Python suite now has 134 checks. The focused telecom/PDF pass remains 65/65. Updated GitHub browser validation is required before merge.

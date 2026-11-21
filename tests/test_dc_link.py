@@ -42,8 +42,22 @@ class Classify(unittest.TestCase):
         row = {'category': 'Air construction & operation', 'kind': 'Special exception', 'project': 'Data center', 'details': {}}
         self.assertEqual(review_class(row, link(row)[0]), 'other')
 
+    def test_recorded_zone_change_and_withdrawal_kinds_are_land_use(self):
+        for kind,status in [('Zone change LU to PUD','Approved'),('Land use application withdrawal','Withdrawal posted')]:
+            row=dict(category='Land use & zoning',kind=kind,status=status,project='Data center')
+            self.assertEqual(review_class(row,link(row)[0]),'land_use',kind)
+            self.assertEqual(row['status'],status)
+
 
 class Published(unittest.TestCase):
+    def test_existing_zone_change_and_withdrawals_keep_their_case_class(self):
+        csv.field_size_limit(sys.maxsize)
+        with (R/'output/permit_history.csv').open(newline='') as f:
+            rows={r['id']:r for r in csv.DictReader(f)}
+        for identity,status in [('wy-switchgrass-pud','Approved'),('ky-oldham-hwy','Withdrawal posted'),('ky-oldham-dw','Withdrawal posted')]:
+            self.assertEqual(rows[identity]['review_class'],'land_use',identity)
+            self.assertEqual(rows[identity]['status'],status,identity)
+
     def test_every_record_has_a_link(self):
         csv.field_size_limit(sys.maxsize)
         with (R / 'output/permit_history.csv').open() as f:
