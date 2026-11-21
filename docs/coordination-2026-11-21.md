@@ -218,3 +218,26 @@ Final `make build` passed on the source model with unconfirmed application valid
 The Pages snapshot build now reproduces all 38 tested public/standalone artifacts byte for byte. The geometry snapshot was reserialized in the tested key order; geometry and labels are semantically identical to the prior snapshot. Snapshot hash updated. Publication checks and the exact-build byte receipt pass; final offline replays also match.
 
 Automated PR review found three existing discretionary case records with unrecognized kind labels: Wyoming `Zone change LU to PUD` and two Kentucky `Land use application withdrawal` rows. Both kind variants now classify as land use while preserving the original statuses. New unit and exported-record regressions pass; the Python suite now has 134 checks. The focused telecom/PDF pass remains 65/65. Updated GitHub browser validation is required before merge.
+
+## Required reciprocal peer review after user follow-up
+
+User follow-up explicitly requests that we both validate and code review each others work. PR #3 is already merged at b26b2993456eef1af8a00ae376e16b77bb2e88e2; both CI and live checks are green, root checkout main. Your coordination note says peer review of Codex coverage/publication code was not done in depth. Please independently review Codex changes in scripts/lib/telecom_coverage.py, scripts/pipeline/publish_site.py, telecom collector/UI, tests/test_telecom_coverage.py and tests/test_publication.py, against d4b6cc5..b26b299. Read archived source conditions and coverage/adoption distinctions, not just test output. Do not start shared builds, edit generated outputs, switch branches or merge. Return findings (file/line/severity, reproduction/evidence), or a clear no-findings result with scope and test limits, in docs/coordination-2026-11-21.md. Codex is independently reviewing your classifier and viewer changes, including filter/deep-link state. Any fixes will be coordinated and reviewed before a follow-up merge. One merger remains Codex. Please acknowledge here in the shared file.
+
+Codex will report its independent review of Claude's changes separately below. The automated GitHub review is additional validation; it is not a substitute for Claude reviewing Codex's implementation.
+
+## Codex independent review of Claude's implementation
+
+Reviewed Claude's original `ebf8594` and its final integration at `b26b299`: `dc_link.py`, history materialization/compact encoding, viewer workflow/scope controls and rule-card tags. Existing status-preservation and final-identity linkage corrections were verified against exports. The GitHub review's three kind variants were already fixed and regression-tested.
+
+Two additional P2 findings reproduced in Chrome against the merged artifact:
+
+1. `viewer/app.js` `openLocation`: removing `telecom_scope` from an existing telecom hash preserves the prior category, then rewrites it back into the URL. Reproduced general-only 134 rows before and after changing the hash to `#view=telecom`. Fix always applies a validated category value, defaulting to all categories for absent/invalid values.
+2. `viewer/app.js` `selectMetric`: a general ordinance scope survives switching to the permit metric and silently becomes the other-history scope; the collection button correctly clears it. Reproduced metric navigation retaining `scope=general` versus the button returning `scope=''`. Fix clears scope when the target collection changes and preserves it for status/metric changes within the same collection.
+
+Fixes and five browser regressions are prepared on `codex/reciprocal-review-fixes`. They change UI state handling only. Source records, exports and coverage counts must remain unchanged. Claude: please review these fixes as well as Codex's coverage/publication/collector/UI implementation. No reciprocal approval is claimed until you actually return a review.
+
+Codex validation: 134 Python tests and 11 publication checks pass. Focused Chrome run passes 68 assertions, including all five new state regressions plus telecom export/offline/four-viewport PDF checks. All 20 download hashes and the manifest match the prior published release exactly. The two UI bugs reproduce before the fix and clear after it. Claude review of Codex implementation and the fixes is still pending.
+
+Third P2 finding: filtered history CSV exported the viewer's compact `review_class` values `1`/`0`, while the bulk CSV uses `land_use`/`other`. Chrome reproduction exported two real rows with last cells `"1"` and `"0"`. Fix converts the compact class only at the CSV export boundary, preserving internal rendering and the batch schema. A browser regression parses the actual export (quoted commas/newlines included) and requires both documented class labels and the visible row count.
+
+Final Codex review-fix validation: all three fixes and six regressions pass 69 focused browser assertions, 134 Python tests and 11 publication checks. Manifest and all 20 dataset hashes remain unchanged. Draft PR #4 remains blocked on actual reciprocal review by Claude, not on permission to implement these fixes.
