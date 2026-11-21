@@ -146,6 +146,18 @@ try{
  }
  await navigate(base+'index.html#state=VA&view=telecom&telecom_scope=data_center_specific');
  assert(await ev("$('telecomScope').value==='data_center_specific' && visible.length>0 && visible.every(r=>r.scope_class==='data_center_specific' && r.publication_status!=='held') && location.hash.includes('telecom_scope=data_center_specific')"),'telecom category deep link applies on first load and excludes held proffers');
+ await ev("location.hash='state=VA&view=telecom'");await until("$('telecomScope').value===''");
+ assert(await ev("!location.hash.includes('telecom_scope') && new Set(visible.map(r=>r.scope_class)).size===2"),'removing telecom category from the URL restores all categories without a reload');
+ await ev("location.hash='state=VA&view=telecom&telecom_scope=general'");await until("$('telecomScope').value==='general'");
+ await ev("location.hash='state=VA&view=telecom&telecom_scope=invalid'");await until("$('telecomScope').value===''");
+ assert(await ev("!location.hash.includes('telecom_scope') && visible.some(r=>r.scope_class==='data_center_specific')"),'invalid telecom category clears a previously active category');
+ await ev("setMode('rules');scope='general';update();selectMetric('permits')");await until("mode==='permits' && visible.length>0");
+ assert(await ev("scope==='' && !location.hash.includes('scope=') && visible.every(r=>r.permit_representative)"),'map metric switches clear scope between rules and history');
+ await ev("scope='general';update();selectMetric('active')");
+ assert(await ev("scope==='general'"),'history metric changes preserve scope within the same collection');
+ await ev("scope='dc';selectMetric('rules')");
+ assert(await ev("mode==='rules' && scope==='' && !location.hash.includes('scope=') && visible.some(r=>r.scope_class==='general')"),'switching from history metrics to rules clears the history workflow scope');
+ await ev("setMode('telecom')");
  await ev("$('telecomScope').value='';$('telecomKind').value='requirement';choose('');update()");
  assert(await ev("visible.length===42 && visible.every(r=>r.publication_status==='published') && !visible.some(r=>r.id.startsWith('tx-telecom-network-node')||r.record_type==='rezoning_proffer')"),'published telecom requirements exclude six research holds');
  await ev("choose('VA','51107')");
