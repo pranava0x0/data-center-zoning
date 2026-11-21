@@ -8,11 +8,11 @@
   "display_strings": 0,
   "paragraphs": 1051,
   "sentences": 1067,
-  "words": 10679,
+  "words": 10677,
   "quoted_exempt": 0,
   "allowed": 0,
   "proper_noun_skips": 0,
-  "info_suppressed": 80
+  "info_suppressed": 79
  },
  "levels": {
   "FAIL": 0,
@@ -49,7 +49,7 @@
    "level": "INFO",
    "family": "syntax",
    "source": "site-copy.md",
-   "line": 83,
+   "line": 85,
    "matched": "permit number counts once",
    "why": "four or more nouns stacked as unbroken modifiers",
    "fix": "unpack with a preposition or a verb",
@@ -61,7 +61,7 @@
    "level": "INFO",
    "family": "syntax",
    "source": "site-copy.md",
-   "line": 85,
+   "line": 87,
    "matched": "counts include city permits",
    "why": "four or more nouns stacked as unbroken modifiers",
    "fix": "unpack with a preposition or a verb",

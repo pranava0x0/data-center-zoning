@@ -1,6 +1,6 @@
 Data center zoning and permits
 
-Data center zoning and permits
+Data center zoning
 
 Ordinances
 
@@ -64,6 +64,8 @@ Map
 
 All states
 
+Print map / PDF
+
 Ordinance rules
 
 Active permits
@@ -87,8 +89,6 @@ Gray means no matching record in this atlas. County counts include city permits 
 Find a place
 
 Ordinances
-
-Print map / PDF
 
 CSV
 
